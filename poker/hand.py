@@ -211,7 +211,7 @@ SUITED_HANDS = tuple(hand for hand in Hand if hand.is_suited)
 @functools.total_ordering
 class Combo(_ReprMixin):
     """Hand combination."""
-
+    
     __slots__ = ('first', 'second')
 
     def __new__(cls, combo):
