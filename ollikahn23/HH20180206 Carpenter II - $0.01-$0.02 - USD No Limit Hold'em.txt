@@ -1,0 +1,2766 @@
+﻿PokerStars Hand #182113656384:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:17:42 ET
+Table 'Carpenter II' 9-max Seat #6 is the button
+Seat 1: BigT 5310 ($1.84 in chips) 
+Seat 2: prokerv ($1.80 in chips) 
+Seat 3: RAMZES_BLR ($2.14 in chips) 
+Seat 4: DQA Shark ($3.13 in chips) 
+Seat 5: mucki756 ($0.96 in chips) 
+Seat 6: lucasfrei240 ($0.54 in chips) 
+Seat 7: JohannJohann ($0.93 in chips) 
+Seat 8: ollikahn23 ($2 in chips) 
+Seat 9: MorsPrincip ($2.01 in chips) 
+JohannJohann: posts small blind $0.01
+ollikahn23: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jd 2c]
+MorsPrincip: folds 
+BigT 5310: raises $0.04 to $0.06
+prokerv: folds 
+RAMZES_BLR: calls $0.06
+DQA Shark: folds 
+mucki756: calls $0.06
+lucasfrei240: folds 
+JohannJohann: calls $0.05
+ollikahn23: folds 
+*** FLOP *** [Ks Kh 4d]
+JohannJohann: checks 
+BigT 5310: bets $0.08
+RAMZES_BLR: folds 
+mucki756: calls $0.08
+JohannJohann: calls $0.08
+*** TURN *** [Ks Kh 4d] [Ad]
+JohannJohann: bets $0.12
+BigT 5310: calls $0.12
+mucki756: folds 
+*** RIVER *** [Ks Kh 4d Ad] [4c]
+JohannJohann: bets $0.67 and is all-in
+BigT 5310: calls $0.67
+*** SHOW DOWN ***
+JohannJohann: shows [Qs Kd] (a full house, Kings full of Fours)
+BigT 5310: shows [4s Qc] (a full house, Fours full of Kings)
+JohannJohann collected $2.01 from pot
+*** SUMMARY ***
+Total pot $2.08 | Rake $0.07 
+Board [Ks Kh 4d Ad 4c]
+Seat 1: BigT 5310 showed [4s Qc] and lost with a full house, Fours full of Kings
+Seat 2: prokerv folded before Flop (didn't bet)
+Seat 3: RAMZES_BLR folded on the Flop
+Seat 4: DQA Shark folded before Flop (didn't bet)
+Seat 5: mucki756 folded on the Turn
+Seat 6: lucasfrei240 (button) folded before Flop (didn't bet)
+Seat 7: JohannJohann (small blind) showed [Qs Kd] and won ($2.01) with a full house, Kings full of Fours
+Seat 8: ollikahn23 (big blind) folded before Flop
+Seat 9: MorsPrincip folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182113709091:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:18:48 ET
+Table 'Carpenter II' 9-max Seat #7 is the button
+Seat 1: BigT 5310 ($0.91 in chips) 
+Seat 2: prokerv ($1.80 in chips) 
+Seat 3: RAMZES_BLR ($2.08 in chips) 
+Seat 4: DQA Shark ($3.13 in chips) 
+Seat 5: mucki756 ($0.82 in chips) 
+Seat 6: lucasfrei240 ($0.54 in chips) 
+Seat 7: JohannJohann ($2.01 in chips) 
+Seat 8: ollikahn23 ($2 in chips) 
+Seat 9: MorsPrincip ($2.01 in chips) 
+ollikahn23: posts small blind $0.01
+MorsPrincip: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9s Ts]
+BigT 5310: calls $0.02
+prokerv: folds 
+RAMZES_BLR: raises $0.04 to $0.06
+DQA Shark: folds 
+mucki756: folds 
+lucasfrei240: folds 
+JohannJohann: folds 
+ollikahn23: folds 
+MorsPrincip: folds 
+BigT 5310: calls $0.04
+*** FLOP *** [6c Jc Jh]
+BigT 5310: checks 
+RAMZES_BLR: bets $0.10
+BigT 5310: calls $0.10
+*** TURN *** [6c Jc Jh] [7h]
+BigT 5310: checks 
+RAMZES_BLR: checks 
+*** RIVER *** [6c Jc Jh 7h] [2d]
+BigT 5310: bets $0.34
+RAMZES_BLR: folds 
+Uncalled bet ($0.34) returned to BigT 5310
+BigT 5310 collected $0.34 from pot
+BigT 5310: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [6c Jc Jh 7h 2d]
+Seat 1: BigT 5310 collected ($0.34)
+Seat 2: prokerv folded before Flop (didn't bet)
+Seat 3: RAMZES_BLR folded on the River
+Seat 4: DQA Shark folded before Flop (didn't bet)
+Seat 5: mucki756 folded before Flop (didn't bet)
+Seat 6: lucasfrei240 folded before Flop (didn't bet)
+Seat 7: JohannJohann (button) folded before Flop (didn't bet)
+Seat 8: ollikahn23 (small blind) folded before Flop
+Seat 9: MorsPrincip (big blind) folded before Flop
+
+
+
+PokerStars Hand #182113754522:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:19:46 ET
+Table 'Carpenter II' 9-max Seat #8 is the button
+Seat 1: BigT 5310 ($1.09 in chips) 
+Seat 2: prokerv ($1.80 in chips) 
+Seat 3: RAMZES_BLR ($2 in chips) 
+Seat 4: DQA Shark ($3.13 in chips) 
+Seat 5: mucki756 ($0.82 in chips) 
+Seat 6: lucasfrei240 ($0.54 in chips) 
+Seat 8: ollikahn23 ($2 in chips) 
+Seat 9: MorsPrincip ($2 in chips) 
+MorsPrincip: posts small blind $0.01
+BigT 5310: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7d Ks]
+prokerv: folds 
+RAMZES_BLR: folds 
+DQA Shark: folds 
+mucki756: folds 
+lucasfrei240: folds 
+ollikahn23: raises $0.04 to $0.06
+MorsPrincip: folds 
+BigT 5310: calls $0.04
+*** FLOP *** [3h As 9h]
+BigT 5310: checks 
+ollikahn23: bets $0.06
+BigT 5310: folds 
+Uncalled bet ($0.06) returned to ollikahn23
+ollikahn23 collected $0.13 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [3h As 9h]
+Seat 1: BigT 5310 (big blind) folded on the Flop
+Seat 2: prokerv folded before Flop (didn't bet)
+Seat 3: RAMZES_BLR folded before Flop (didn't bet)
+Seat 4: DQA Shark folded before Flop (didn't bet)
+Seat 5: mucki756 folded before Flop (didn't bet)
+Seat 6: lucasfrei240 folded before Flop (didn't bet)
+Seat 8: ollikahn23 (button) collected ($0.13)
+Seat 9: MorsPrincip (small blind) folded before Flop
+
+
+
+PokerStars Hand #182113773925:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:20:10 ET
+Table 'Carpenter II' 9-max Seat #9 is the button
+Seat 1: BigT 5310 ($1.03 in chips) 
+Seat 2: prokerv ($1.80 in chips) 
+Seat 3: RAMZES_BLR ($2 in chips) 
+Seat 4: DQA Shark ($3.13 in chips) 
+Seat 5: mucki756 ($0.82 in chips) 
+Seat 6: lucasfrei240 ($0.54 in chips) 
+Seat 8: ollikahn23 ($2.07 in chips) 
+Seat 9: MorsPrincip ($2 in chips) 
+BigT 5310: posts small blind $0.01
+prokerv: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3d Jc]
+RAMZES_BLR: folds 
+DQA Shark: folds 
+mucki756: calls $0.02
+lucasfrei240: folds 
+ollikahn23: folds 
+MorsPrincip: folds 
+BigT 5310: calls $0.01
+prokerv: checks 
+*** FLOP *** [6h 3s As]
+BigT 5310: bets $0.06
+prokerv: folds 
+mucki756: calls $0.06
+*** TURN *** [6h 3s As] [6s]
+BigT 5310: bets $0.06
+mucki756: folds 
+Uncalled bet ($0.06) returned to BigT 5310
+BigT 5310 collected $0.17 from pot
+BigT 5310: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [6h 3s As 6s]
+Seat 1: BigT 5310 (small blind) collected ($0.17)
+Seat 2: prokerv (big blind) folded on the Flop
+Seat 3: RAMZES_BLR folded before Flop (didn't bet)
+Seat 4: DQA Shark folded before Flop (didn't bet)
+Seat 5: mucki756 folded on the Turn
+Seat 6: lucasfrei240 folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: MorsPrincip (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182113818344:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:21:06 ET
+Table 'Carpenter II' 9-max Seat #1 is the button
+Seat 1: BigT 5310 ($1.12 in chips) 
+Seat 2: prokerv ($1.78 in chips) 
+Seat 3: RAMZES_BLR ($2 in chips) 
+Seat 4: DQA Shark ($3.13 in chips) 
+Seat 5: mucki756 ($0.74 in chips) 
+Seat 6: lucasfrei240 ($0.54 in chips) 
+Seat 8: ollikahn23 ($2.07 in chips) 
+Seat 9: MorsPrincip ($2 in chips) 
+prokerv: posts small blind $0.01
+RAMZES_BLR: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jc Jd]
+DQA Shark: folds 
+mucki756: folds 
+lucasfrei240: folds 
+ollikahn23: raises $0.06 to $0.08
+MorsPrincip: folds 
+BigT 5310: calls $0.08
+prokerv: raises $0.24 to $0.32
+RAMZES_BLR: folds 
+ollikahn23: folds 
+BigT 5310: calls $0.24
+*** FLOP *** [Qs 6s 5d]
+prokerv: bets $0.36
+BigT 5310: calls $0.36
+*** TURN *** [Qs 6s 5d] [9d]
+prokerv: bets $1.10 and is all-in
+BigT 5310: calls $0.44 and is all-in
+Uncalled bet ($0.66) returned to prokerv
+*** RIVER *** [Qs 6s 5d 9d] [Qh]
+*** SHOW DOWN ***
+prokerv: shows [Ac 4s] (a pair of Queens)
+BigT 5310: shows [Js 2s] (a pair of Queens - lower kicker)
+prokerv collected $2.26 from pot
+*** SUMMARY ***
+Total pot $2.34 | Rake $0.08 
+Board [Qs 6s 5d 9d Qh]
+Seat 1: BigT 5310 (button) showed [Js 2s] and lost with a pair of Queens
+Seat 2: prokerv (small blind) showed [Ac 4s] and won ($2.26) with a pair of Queens
+Seat 3: RAMZES_BLR (big blind) folded before Flop
+Seat 4: DQA Shark folded before Flop (didn't bet)
+Seat 5: mucki756 folded before Flop (didn't bet)
+Seat 6: lucasfrei240 folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop
+Seat 9: MorsPrincip folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182113876506:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:22:19 ET
+Table 'Carpenter II' 9-max Seat #2 is the button
+Seat 2: prokerv ($2.92 in chips) 
+Seat 3: RAMZES_BLR ($2 in chips) 
+Seat 4: DQA Shark ($3.13 in chips) 
+Seat 5: mucki756 ($0.74 in chips) 
+Seat 6: lucasfrei240 ($0.54 in chips) 
+Seat 8: ollikahn23 ($2 in chips) 
+Seat 9: MorsPrincip ($2 in chips) 
+RAMZES_BLR: posts small blind $0.01
+DQA Shark: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2c Kd]
+BigT 5310 leaves the table
+mucki756: folds 
+lucasfrei240: folds 
+ollikahn23: folds 
+MorsPrincip: raises $0.03 to $0.05
+prokerv: folds 
+RAMZES_BLR: folds 
+DQA Shark: raises $0.11 to $0.16
+MorsPrincip: folds 
+Uncalled bet ($0.11) returned to DQA Shark
+DQA Shark collected $0.11 from pot
+DQA Shark: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Seat 2: prokerv (button) folded before Flop (didn't bet)
+Seat 3: RAMZES_BLR (small blind) folded before Flop
+Seat 4: DQA Shark (big blind) collected ($0.11)
+Seat 5: mucki756 folded before Flop (didn't bet)
+Seat 6: lucasfrei240 folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: MorsPrincip folded before Flop
+
+
+
+PokerStars Hand #182113896278:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:22:43 ET
+Table 'Carpenter II' 9-max Seat #3 is the button
+Seat 2: prokerv ($2.92 in chips) 
+Seat 3: RAMZES_BLR ($2 in chips) 
+Seat 4: DQA Shark ($3.19 in chips) 
+Seat 5: mucki756 ($0.74 in chips) 
+Seat 6: lucasfrei240 ($0.54 in chips) 
+Seat 8: ollikahn23 ($2 in chips) 
+Seat 9: MorsPrincip ($2 in chips) 
+DQA Shark: posts small blind $0.01
+mucki756: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4c 9d]
+lucasfrei240: folds 
+ollikahn23: folds 
+MorsPrincip: raises $0.04 to $0.06
+prokerv: folds 
+RAMZES_BLR: folds 
+DQA Shark: folds 
+mucki756: folds 
+Uncalled bet ($0.04) returned to MorsPrincip
+MorsPrincip collected $0.05 from pot
+MorsPrincip: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: prokerv folded before Flop (didn't bet)
+Seat 3: RAMZES_BLR (button) folded before Flop (didn't bet)
+Seat 4: DQA Shark (small blind) folded before Flop
+Seat 5: mucki756 (big blind) folded before Flop
+Seat 6: lucasfrei240 folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: MorsPrincip collected ($0.05)
+
+
+
+PokerStars Hand #182113913908:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:23:05 ET
+Table 'Carpenter II' 9-max Seat #4 is the button
+Seat 2: prokerv ($2.92 in chips) 
+Seat 3: RAMZES_BLR ($2 in chips) 
+Seat 4: DQA Shark ($3.18 in chips) 
+Seat 5: mucki756 ($0.72 in chips) 
+Seat 6: lucasfrei240 ($0.54 in chips) 
+Seat 8: ollikahn23 ($2 in chips) 
+Seat 9: MorsPrincip ($2.03 in chips) 
+mucki756: posts small blind $0.01
+lucasfrei240: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ts 9d]
+ollikahn23: folds 
+MorsPrincip: raises $0.04 to $0.06
+prokerv: folds 
+RAMZES_BLR: calls $0.06
+DQA Shark: folds 
+mucki756: folds 
+lucasfrei240: folds 
+*** FLOP *** [Ah Jc As]
+MorsPrincip: checks 
+RAMZES_BLR: checks 
+*** TURN *** [Ah Jc As] [4h]
+StandBy13 joins the table at seat #1 
+MorsPrincip: bets $0.11
+RAMZES_BLR: folds 
+Uncalled bet ($0.11) returned to MorsPrincip
+MorsPrincip collected $0.14 from pot
+MorsPrincip: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Ah Jc As 4h]
+Seat 2: prokerv folded before Flop (didn't bet)
+Seat 3: RAMZES_BLR folded on the Turn
+Seat 4: DQA Shark (button) folded before Flop (didn't bet)
+Seat 5: mucki756 (small blind) folded before Flop
+Seat 6: lucasfrei240 (big blind) folded before Flop
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: MorsPrincip collected ($0.14)
+
+
+
+PokerStars Hand #182113940465:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:23:39 ET
+Table 'Carpenter II' 9-max Seat #5 is the button
+Seat 2: prokerv ($2.92 in chips) 
+Seat 3: RAMZES_BLR ($2 in chips) 
+Seat 4: DQA Shark ($3.18 in chips) 
+Seat 5: mucki756 ($0.71 in chips) 
+Seat 6: lucasfrei240 ($0.52 in chips) 
+Seat 8: ollikahn23 ($2 in chips) 
+Seat 9: MorsPrincip ($2.11 in chips) 
+lucasfrei240: posts small blind $0.01
+ollikahn23: posts big blind $0.02
+StandBy13: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8d 7h]
+MorsPrincip: folds 
+prokerv: folds 
+RAMZES_BLR: folds 
+DQA Shark: raises $0.04 to $0.06
+mucki756: folds 
+lucasfrei240: folds 
+ollikahn23: folds 
+Uncalled bet ($0.04) returned to DQA Shark
+DQA Shark collected $0.05 from pot
+DQA Shark: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: prokerv folded before Flop (didn't bet)
+Seat 3: RAMZES_BLR folded before Flop (didn't bet)
+Seat 4: DQA Shark collected ($0.05)
+Seat 5: mucki756 (button) folded before Flop (didn't bet)
+Seat 6: lucasfrei240 (small blind) folded before Flop
+Seat 8: ollikahn23 (big blind) folded before Flop
+Seat 9: MorsPrincip folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182113959716:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:24:03 ET
+Table 'Carpenter II' 9-max Seat #6 is the button
+Seat 2: prokerv ($2.92 in chips) 
+Seat 3: RAMZES_BLR ($2 in chips) 
+Seat 4: DQA Shark ($3.21 in chips) 
+Seat 5: mucki756 ($0.71 in chips) 
+Seat 6: lucasfrei240 ($0.51 in chips) 
+Seat 8: ollikahn23 ($2 in chips) 
+Seat 9: MorsPrincip ($2.11 in chips) 
+ollikahn23: posts small blind $0.01
+MorsPrincip: posts big blind $0.02
+StandBy13: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3d 5d]
+prokerv: folds 
+RAMZES_BLR: folds 
+DQA Shark: folds 
+mucki756: calls $0.02
+lucasfrei240: calls $0.02
+ollikahn23: folds 
+MorsPrincip: checks 
+*** FLOP *** [6d Ts Kh]
+MorsPrincip: checks 
+mucki756: checks 
+lucasfrei240: checks 
+*** TURN *** [6d Ts Kh] [7c]
+MorsPrincip: checks 
+mucki756: checks 
+lucasfrei240: checks 
+*** RIVER *** [6d Ts Kh 7c] [4c]
+MorsPrincip: checks 
+mucki756: checks 
+lucasfrei240: bets $0.07
+MorsPrincip: calls $0.07
+mucki756: folds 
+*** SHOW DOWN ***
+lucasfrei240: shows [4d Ac] (a pair of Fours)
+MorsPrincip: shows [2c Kd] (a pair of Kings)
+MorsPrincip collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [6d Ts Kh 7c 4c]
+Seat 2: prokerv folded before Flop (didn't bet)
+Seat 3: RAMZES_BLR folded before Flop (didn't bet)
+Seat 4: DQA Shark folded before Flop (didn't bet)
+Seat 5: mucki756 folded on the River
+Seat 6: lucasfrei240 (button) showed [4d Ac] and lost with a pair of Fours
+Seat 8: ollikahn23 (small blind) folded before Flop
+Seat 9: MorsPrincip (big blind) showed [2c Kd] and won ($0.20) with a pair of Kings
+
+
+
+PokerStars Hand #182113993818:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:24:46 ET
+Table 'Carpenter II' 9-max Seat #8 is the button
+Seat 1: StandBy13 ($2 in chips) 
+Seat 2: prokerv ($2.92 in chips) 
+Seat 3: RAMZES_BLR ($2 in chips) 
+Seat 4: DQA Shark ($3.21 in chips) 
+Seat 6: lucasfrei240 ($0.42 in chips) 
+Seat 8: ollikahn23 ($2 in chips) 
+Seat 9: MorsPrincip ($2.22 in chips) 
+MorsPrincip: posts small blind $0.01
+StandBy13: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Td 5d]
+prokerv: folds 
+RAMZES_BLR: folds 
+DQA Shark: folds 
+lucasfrei240: folds 
+ollikahn23: folds 
+MorsPrincip: raises $0.03 to $0.05
+StandBy13: folds 
+Uncalled bet ($0.03) returned to MorsPrincip
+MorsPrincip collected $0.04 from pot
+MorsPrincip: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: StandBy13 (big blind) folded before Flop
+Seat 2: prokerv folded before Flop (didn't bet)
+Seat 3: RAMZES_BLR folded before Flop (didn't bet)
+Seat 4: DQA Shark folded before Flop (didn't bet)
+Seat 6: lucasfrei240 folded before Flop (didn't bet)
+Seat 8: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 9: MorsPrincip (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #182114008909:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:25:05 ET
+Table 'Carpenter II' 9-max Seat #9 is the button
+Seat 1: StandBy13 ($2 in chips) 
+Seat 2: prokerv ($2.92 in chips) 
+Seat 3: RAMZES_BLR ($2 in chips) 
+Seat 4: DQA Shark ($3.21 in chips) 
+Seat 6: lucasfrei240 ($0.42 in chips) 
+Seat 8: ollikahn23 ($2 in chips) 
+Seat 9: MorsPrincip ($2.24 in chips) 
+StandBy13: posts small blind $0.01
+prokerv: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8s Js]
+RAMZES_BLR: folds 
+DQA Shark: folds 
+lucasfrei240: raises $0.02 to $0.04
+ollikahn23: calls $0.04
+MorsPrincip: raises $0.12 to $0.16
+StandBy13: folds 
+prokerv: folds 
+lucasfrei240: calls $0.12
+ollikahn23: folds 
+*** FLOP *** [7d 9c Ks]
+lucasfrei240: checks 
+MorsPrincip: bets $0.30
+lucasfrei240: folds 
+Uncalled bet ($0.30) returned to MorsPrincip
+MorsPrincip collected $0.38 from pot
+MorsPrincip: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.01 
+Board [7d 9c Ks]
+Seat 1: StandBy13 (small blind) folded before Flop
+Seat 2: prokerv (big blind) folded before Flop
+Seat 3: RAMZES_BLR folded before Flop (didn't bet)
+Seat 4: DQA Shark folded before Flop (didn't bet)
+Seat 6: lucasfrei240 folded on the Flop
+Seat 8: ollikahn23 folded before Flop
+Seat 9: MorsPrincip (button) collected ($0.38)
+
+
+
+PokerStars Hand #182114075834:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:26:28 ET
+Table 'Carpenter II' 9-max Seat #1 is the button
+Seat 1: StandBy13 ($2 in chips) 
+Seat 2: prokerv ($2.90 in chips) 
+Seat 3: RAMZES_BLR ($2 in chips) 
+Seat 4: DQA Shark ($3.21 in chips) 
+Seat 6: lucasfrei240 ($0.26 in chips) 
+Seat 8: ollikahn23 ($2 in chips) 
+Seat 9: MorsPrincip ($2.46 in chips) 
+prokerv: posts small blind $0.01
+RAMZES_BLR: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8s Qh]
+DQA Shark: folds 
+lucasfrei240: calls $0.02
+ollikahn23: folds 
+MorsPrincip: folds 
+StandBy13: folds 
+prokerv: folds 
+RAMZES_BLR: checks 
+*** FLOP *** [6s 4s Jh]
+RAMZES_BLR: bets $0.04
+lucasfrei240: folds 
+Uncalled bet ($0.04) returned to RAMZES_BLR
+RAMZES_BLR collected $0.05 from pot
+RAMZES_BLR: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [6s 4s Jh]
+Seat 1: StandBy13 (button) folded before Flop (didn't bet)
+Seat 2: prokerv (small blind) folded before Flop
+Seat 3: RAMZES_BLR (big blind) collected ($0.05)
+Seat 4: DQA Shark folded before Flop (didn't bet)
+Seat 6: lucasfrei240 folded on the Flop
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: MorsPrincip folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114097630:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:26:56 ET
+Table 'Carpenter II' 9-max Seat #2 is the button
+Seat 1: StandBy13 ($2 in chips) 
+Seat 2: prokerv ($2.89 in chips) 
+Seat 3: RAMZES_BLR ($2.03 in chips) 
+Seat 4: DQA Shark ($3.21 in chips) 
+Seat 6: lucasfrei240 ($0.24 in chips) 
+Seat 8: ollikahn23 ($2 in chips) 
+Seat 9: MorsPrincip ($2.46 in chips) 
+RAMZES_BLR: posts small blind $0.01
+DQA Shark: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3s Qc]
+lucasfrei240: calls $0.02
+ollikahn23: folds 
+MorsPrincip: folds 
+StandBy13: folds 
+prokerv: folds 
+RAMZES_BLR: folds 
+DQA Shark: checks 
+*** FLOP *** [Js As Ac]
+DQA Shark: checks 
+lucasfrei240: checks 
+*** TURN *** [Js As Ac] [Ks]
+DQA Shark: checks 
+lucasfrei240: bets $0.02
+DQA Shark: folds 
+Uncalled bet ($0.02) returned to lucasfrei240
+lucasfrei240 collected $0.05 from pot
+lucasfrei240: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Js As Ac Ks]
+Seat 1: StandBy13 folded before Flop (didn't bet)
+Seat 2: prokerv (button) folded before Flop (didn't bet)
+Seat 3: RAMZES_BLR (small blind) folded before Flop
+Seat 4: DQA Shark (big blind) folded on the Turn
+Seat 6: lucasfrei240 collected ($0.05)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: MorsPrincip folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114126293:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:27:31 ET
+Table 'Carpenter II' 9-max Seat #3 is the button
+Seat 1: StandBy13 ($2 in chips) 
+Seat 2: prokerv ($2.89 in chips) 
+Seat 3: RAMZES_BLR ($2.02 in chips) 
+Seat 4: DQA Shark ($3.19 in chips) 
+Seat 6: lucasfrei240 ($0.27 in chips) 
+Seat 8: ollikahn23 ($2 in chips) 
+Seat 9: MorsPrincip ($2.46 in chips) 
+DQA Shark: posts small blind $0.01
+lucasfrei240: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ac Kh]
+ollikahn23: raises $0.06 to $0.08
+MorsPrincip: folds 
+StandBy13: folds 
+prokerv: folds 
+RAMZES_BLR: folds 
+DQA Shark: folds 
+lucasfrei240: folds 
+Uncalled bet ($0.06) returned to ollikahn23
+ollikahn23 collected $0.05 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: StandBy13 folded before Flop (didn't bet)
+Seat 2: prokerv folded before Flop (didn't bet)
+Seat 3: RAMZES_BLR (button) folded before Flop (didn't bet)
+Seat 4: DQA Shark (small blind) folded before Flop
+Seat 6: lucasfrei240 (big blind) folded before Flop
+Seat 8: ollikahn23 collected ($0.05)
+Seat 9: MorsPrincip folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114139485:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:27:48 ET
+Table 'Carpenter II' 9-max Seat #4 is the button
+Seat 1: StandBy13 ($2 in chips) 
+Seat 2: prokerv ($2.89 in chips) 
+Seat 3: RAMZES_BLR ($2.02 in chips) 
+Seat 4: DQA Shark ($3.18 in chips) 
+Seat 6: lucasfrei240 ($0.25 in chips) 
+Seat 8: ollikahn23 ($2.03 in chips) 
+Seat 9: MorsPrincip ($2.46 in chips) 
+lucasfrei240: posts small blind $0.01
+ollikahn23: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kd 6h]
+MorsPrincip: folds 
+StandBy13: folds 
+prokerv has timed out
+prokerv: folds 
+RAMZES_BLR: folds 
+DQA Shark: folds 
+lucasfrei240: calls $0.01
+ollikahn23: raises $0.04 to $0.06
+lucasfrei240: folds 
+Uncalled bet ($0.04) returned to ollikahn23
+ollikahn23 collected $0.04 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: StandBy13 folded before Flop (didn't bet)
+Seat 2: prokerv folded before Flop (didn't bet)
+Seat 3: RAMZES_BLR folded before Flop (didn't bet)
+Seat 4: DQA Shark (button) folded before Flop (didn't bet)
+Seat 6: lucasfrei240 (small blind) folded before Flop
+Seat 8: ollikahn23 (big blind) collected ($0.04)
+Seat 9: MorsPrincip folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114179119:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:28:37 ET
+Table 'Carpenter II' 9-max Seat #6 is the button
+Seat 1: StandBy13 ($2 in chips) 
+Seat 2: prokerv ($2.89 in chips) 
+Seat 3: RAMZES_BLR ($2.02 in chips) 
+Seat 4: DQA Shark ($3.18 in chips) 
+Seat 6: lucasfrei240 ($0.23 in chips) 
+Seat 8: ollikahn23 ($2.05 in chips) 
+Seat 9: MorsPrincip ($2.46 in chips) 
+ollikahn23: posts small blind $0.01
+MorsPrincip: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3c 5s]
+StandBy13: folds 
+prokerv: folds 
+RAMZES_BLR: folds 
+DQA Shark: folds 
+lucasfrei240: calls $0.02
+ollikahn23: folds 
+MorsPrincip: checks 
+*** FLOP *** [3h 3d Kc]
+MorsPrincip: checks 
+lucasfrei240: checks 
+*** TURN *** [3h 3d Kc] [3s]
+MorsPrincip: checks 
+lucasfrei240: checks 
+*** RIVER *** [3h 3d Kc 3s] [9h]
+MorsPrincip: checks 
+lucasfrei240: bets $0.21 and is all-in
+MorsPrincip: folds 
+Uncalled bet ($0.21) returned to lucasfrei240
+lucasfrei240 collected $0.05 from pot
+lucasfrei240: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [3h 3d Kc 3s 9h]
+Seat 1: StandBy13 folded before Flop (didn't bet)
+Seat 2: prokerv folded before Flop (didn't bet)
+Seat 3: RAMZES_BLR folded before Flop (didn't bet)
+Seat 4: DQA Shark folded before Flop (didn't bet)
+Seat 6: lucasfrei240 (button) collected ($0.05)
+Seat 8: ollikahn23 (small blind) folded before Flop
+Seat 9: MorsPrincip (big blind) folded on the River
+
+
+
+PokerStars Hand #182114213332:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:29:19 ET
+Table 'Carpenter II' 9-max Seat #8 is the button
+Seat 1: StandBy13 ($2 in chips) 
+Seat 2: prokerv ($2.89 in chips) 
+Seat 3: RAMZES_BLR ($2.02 in chips) 
+Seat 4: DQA Shark ($3.18 in chips) 
+Seat 6: lucasfrei240 ($0.26 in chips) 
+Seat 8: ollikahn23 ($2.04 in chips) 
+Seat 9: MorsPrincip ($2.44 in chips) 
+MorsPrincip: posts small blind $0.01
+StandBy13: posts big blind $0.02
+mucki756: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6d 7d]
+prokerv: folds 
+RAMZES_BLR: folds 
+DQA Shark: folds 
+lucasfrei240: calls $0.02
+ollikahn23: calls $0.02
+MorsPrincip: calls $0.01
+StandBy13: raises $0.10 to $0.12
+lucasfrei240: folds 
+ollikahn23: folds 
+MorsPrincip: folds 
+Uncalled bet ($0.10) returned to StandBy13
+StandBy13 collected $0.08 from pot
+StandBy13: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Seat 1: StandBy13 (big blind) collected ($0.08)
+Seat 2: prokerv folded before Flop (didn't bet)
+Seat 3: RAMZES_BLR folded before Flop (didn't bet)
+Seat 4: DQA Shark folded before Flop (didn't bet)
+Seat 6: lucasfrei240 folded before Flop
+Seat 8: ollikahn23 (button) folded before Flop
+Seat 9: MorsPrincip (small blind) folded before Flop
+
+
+
+PokerStars Hand #182114253993:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:30:10 ET
+Table 'Carpenter II' 9-max Seat #9 is the button
+Seat 1: StandBy13 ($2.06 in chips) 
+Seat 2: prokerv ($2.89 in chips) 
+Seat 3: RAMZES_BLR ($2.02 in chips) 
+Seat 4: DQA Shark ($3.18 in chips) 
+Seat 6: lucasfrei240 ($0.24 in chips) 
+Seat 8: ollikahn23 ($2.02 in chips) 
+Seat 9: MorsPrincip ($2.42 in chips) 
+StandBy13: posts small blind $0.01
+prokerv: posts big blind $0.02
+mucki756: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kd 6c]
+RAMZES_BLR: folds 
+DQA Shark: folds 
+lucasfrei240: folds 
+ollikahn23: folds 
+JohannJohann leaves the table
+Eagle0605 joins the table at seat #7 
+MorsPrincip: folds 
+StandBy13: raises $0.03 to $0.05
+prokerv: folds 
+Uncalled bet ($0.03) returned to StandBy13
+StandBy13 collected $0.04 from pot
+StandBy13: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: StandBy13 (small blind) collected ($0.04)
+Seat 2: prokerv (big blind) folded before Flop
+Seat 3: RAMZES_BLR folded before Flop (didn't bet)
+Seat 4: DQA Shark folded before Flop (didn't bet)
+Seat 6: lucasfrei240 folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: MorsPrincip (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114275667:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:30:36 ET
+Table 'Carpenter II' 9-max Seat #1 is the button
+Seat 1: StandBy13 ($2.08 in chips) 
+Seat 2: prokerv ($2.87 in chips) 
+Seat 3: RAMZES_BLR ($2.02 in chips) 
+Seat 4: DQA Shark ($3.18 in chips) 
+Seat 6: lucasfrei240 ($0.24 in chips) 
+Seat 8: ollikahn23 ($2.02 in chips) 
+Seat 9: MorsPrincip ($2.42 in chips) 
+prokerv: posts small blind $0.01
+RAMZES_BLR: posts big blind $0.02
+mucki756: sits out 
+Eagle0605: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4h Th]
+DQA Shark: folds 
+lucasfrei240: folds 
+ollikahn23: folds 
+MorsPrincip: folds 
+StandBy13: folds 
+prokerv: folds 
+Uncalled bet ($0.01) returned to RAMZES_BLR
+RAMZES_BLR collected $0.02 from pot
+RAMZES_BLR: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: StandBy13 (button) folded before Flop (didn't bet)
+Seat 2: prokerv (small blind) folded before Flop
+Seat 3: RAMZES_BLR (big blind) collected ($0.02)
+Seat 4: DQA Shark folded before Flop (didn't bet)
+Seat 6: lucasfrei240 folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: MorsPrincip folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114290180:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:30:54 ET
+Table 'Carpenter II' 9-max Seat #2 is the button
+Seat 1: StandBy13 ($2.08 in chips) 
+Seat 2: prokerv ($2.86 in chips) 
+Seat 3: RAMZES_BLR ($2.03 in chips) 
+Seat 4: DQA Shark ($3.18 in chips) 
+Seat 6: lucasfrei240 ($0.24 in chips) 
+Seat 8: ollikahn23 ($2.02 in chips) 
+Seat 9: MorsPrincip ($2.42 in chips) 
+RAMZES_BLR: posts small blind $0.01
+DQA Shark: posts big blind $0.02
+mucki756: sits out 
+Eagle0605: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kc Ks]
+lucasfrei240: folds 
+ollikahn23 has timed out
+ollikahn23: folds 
+MorsPrincip: folds 
+StandBy13: folds 
+MorsPrincip leaves the table
+prokerv: folds 
+RAMZES_BLR: folds 
+Uncalled bet ($0.01) returned to DQA Shark
+DQA Shark collected $0.02 from pot
+DQA Shark: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: StandBy13 folded before Flop (didn't bet)
+Seat 2: prokerv (button) folded before Flop (didn't bet)
+Seat 3: RAMZES_BLR (small blind) folded before Flop
+Seat 4: DQA Shark (big blind) collected ($0.02)
+Seat 6: lucasfrei240 folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: MorsPrincip folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114313211:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:31:23 ET
+Table 'Carpenter II' 9-max Seat #3 is the button
+Seat 1: StandBy13 ($2.08 in chips) 
+Seat 2: prokerv ($2.86 in chips) 
+Seat 3: RAMZES_BLR ($2.02 in chips) 
+Seat 4: DQA Shark ($3.19 in chips) 
+Seat 5: mucki756 ($0.69 in chips) 
+Seat 6: lucasfrei240 ($0.24 in chips) 
+Seat 8: ollikahn23 ($2.02 in chips) 
+DQA Shark: posts small blind $0.01
+mucki756: posts big blind $0.02
+Eagle0605: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6c Ts]
+lucasfrei240: folds 
+ollikahn23: folds 
+StandBy13: folds 
+prokerv: folds 
+RAMZES_BLR: folds 
+DQA Shark: folds 
+Uncalled bet ($0.01) returned to mucki756
+mucki756 collected $0.02 from pot
+mucki756: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: StandBy13 folded before Flop (didn't bet)
+Seat 2: prokerv folded before Flop (didn't bet)
+Seat 3: RAMZES_BLR (button) folded before Flop (didn't bet)
+Seat 4: DQA Shark (small blind) folded before Flop
+Seat 5: mucki756 (big blind) collected ($0.02)
+Seat 6: lucasfrei240 folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114326004:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:31:38 ET
+Table 'Carpenter II' 9-max Seat #4 is the button
+Seat 1: StandBy13 ($2.08 in chips) 
+Seat 2: prokerv ($2.86 in chips) 
+Seat 3: RAMZES_BLR ($2.02 in chips) 
+Seat 4: DQA Shark ($3.18 in chips) 
+Seat 5: mucki756 ($0.70 in chips) 
+Seat 6: lucasfrei240 ($0.24 in chips) 
+Seat 8: ollikahn23 ($2.02 in chips) 
+mucki756: posts small blind $0.01
+lucasfrei240: posts big blind $0.02
+Eagle0605: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7c 2c]
+ollikahn23: folds 
+StandBy13: folds 
+prokerv: folds 
+RAMZES_BLR: folds 
+DQA Shark: raises $0.04 to $0.06
+mucki756: calls $0.05
+lucasfrei240: folds 
+*** FLOP *** [Kd 9d 6h]
+mucki756: checks 
+DQA Shark: checks 
+*** TURN *** [Kd 9d 6h] [6c]
+mucki756: checks 
+DQA Shark: checks 
+*** RIVER *** [Kd 9d 6h 6c] [Tc]
+mucki756: checks 
+DQA Shark: bets $0.07
+mucki756: calls $0.07
+*** SHOW DOWN ***
+DQA Shark: shows [Qc Js] (a straight, Nine to King)
+mucki756: mucks hand 
+DQA Shark collected $0.27 from pot
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [Kd 9d 6h 6c Tc]
+Seat 1: StandBy13 folded before Flop (didn't bet)
+Seat 2: prokerv folded before Flop (didn't bet)
+Seat 3: RAMZES_BLR folded before Flop (didn't bet)
+Seat 4: DQA Shark (button) showed [Qc Js] and won ($0.27) with a straight, Nine to King
+Seat 5: mucki756 (small blind) mucked [5c 5h]
+Seat 6: lucasfrei240 (big blind) folded before Flop
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114353003:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:32:12 ET
+Table 'Carpenter II' 9-max Seat #5 is the button
+Seat 1: StandBy13 ($2.08 in chips) 
+Seat 2: prokerv ($2.86 in chips) 
+Seat 3: RAMZES_BLR ($2.02 in chips) 
+Seat 4: DQA Shark ($3.32 in chips) 
+Seat 5: mucki756 ($0.57 in chips) 
+Seat 6: lucasfrei240 ($0.22 in chips) 
+Seat 7: Eagle0605 ($2 in chips) 
+Seat 8: ollikahn23 ($2.02 in chips) 
+lucasfrei240: posts small blind $0.01
+Eagle0605: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5c 6s]
+ollikahn23: folds 
+StandBy13: folds 
+prokerv has timed out
+prokerv: folds 
+RAMZES_BLR: folds 
+DQA Shark: folds 
+mucki756: folds 
+lucasfrei240: folds 
+Uncalled bet ($0.01) returned to Eagle0605
+Eagle0605 collected $0.02 from pot
+Eagle0605: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: StandBy13 folded before Flop (didn't bet)
+Seat 2: prokerv folded before Flop (didn't bet)
+Seat 3: RAMZES_BLR folded before Flop (didn't bet)
+Seat 4: DQA Shark folded before Flop (didn't bet)
+Seat 5: mucki756 (button) folded before Flop (didn't bet)
+Seat 6: lucasfrei240 (small blind) folded before Flop
+Seat 7: Eagle0605 (big blind) collected ($0.02)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114371726:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:32:35 ET
+Table 'Carpenter II' 9-max Seat #6 is the button
+Seat 1: StandBy13 ($2.08 in chips) 
+Seat 2: prokerv ($2.86 in chips) 
+Seat 3: RAMZES_BLR ($2.02 in chips) 
+Seat 4: DQA Shark ($3.32 in chips) 
+Seat 5: mucki756 ($0.57 in chips) 
+Seat 6: lucasfrei240 ($0.21 in chips) 
+Seat 7: Eagle0605 ($2.01 in chips) 
+Seat 8: ollikahn23 ($2.02 in chips) 
+Eagle0605: posts small blind $0.01
+ollikahn23: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8h Qs]
+StandBy13: folds 
+prokerv: folds 
+RAMZES_BLR: folds 
+DQA Shark: raises $0.04 to $0.06
+mucki756: folds 
+lucasfrei240: folds 
+Eagle0605: folds 
+ollikahn23: folds 
+Uncalled bet ($0.04) returned to DQA Shark
+DQA Shark collected $0.05 from pot
+DQA Shark: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: StandBy13 folded before Flop (didn't bet)
+Seat 2: prokerv folded before Flop (didn't bet)
+Seat 3: RAMZES_BLR folded before Flop (didn't bet)
+Seat 4: DQA Shark collected ($0.05)
+Seat 5: mucki756 folded before Flop (didn't bet)
+Seat 6: lucasfrei240 (button) folded before Flop (didn't bet)
+Seat 7: Eagle0605 (small blind) folded before Flop
+Seat 8: ollikahn23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #182114392828:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:33:01 ET
+Table 'Carpenter II' 9-max Seat #7 is the button
+Seat 1: StandBy13 ($2.08 in chips) 
+Seat 2: prokerv ($2.86 in chips) 
+Seat 3: RAMZES_BLR ($2.02 in chips) 
+Seat 4: DQA Shark ($3.35 in chips) 
+Seat 5: mucki756 ($0.57 in chips) 
+Seat 6: lucasfrei240 ($0.21 in chips) 
+Seat 7: Eagle0605 ($2 in chips) 
+Seat 8: ollikahn23 ($2 in chips) 
+ollikahn23: posts small blind $0.01
+StandBy13: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ks 9d]
+prokerv: folds 
+RAMZES_BLR: folds 
+DQA Shark: folds 
+mucki756: folds 
+lucasfrei240: folds 
+Eagle0605: folds 
+ollikahn23: raises $0.04 to $0.06
+StandBy13: folds 
+Uncalled bet ($0.04) returned to ollikahn23
+ollikahn23 collected $0.04 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: StandBy13 (big blind) folded before Flop
+Seat 2: prokerv folded before Flop (didn't bet)
+Seat 3: RAMZES_BLR folded before Flop (didn't bet)
+Seat 4: DQA Shark folded before Flop (didn't bet)
+Seat 5: mucki756 folded before Flop (didn't bet)
+Seat 6: lucasfrei240 folded before Flop (didn't bet)
+Seat 7: Eagle0605 (button) folded before Flop (didn't bet)
+Seat 8: ollikahn23 (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #182114424215:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:33:40 ET
+Table 'Carpenter II' 9-max Seat #8 is the button
+Seat 1: StandBy13 ($2.06 in chips) 
+Seat 2: prokerv ($2.86 in chips) 
+Seat 3: RAMZES_BLR ($2.02 in chips) 
+Seat 4: DQA Shark ($3.35 in chips) 
+Seat 5: mucki756 ($0.57 in chips) 
+Seat 6: lucasfrei240 ($0.21 in chips) 
+Seat 7: Eagle0605 ($2 in chips) 
+Seat 8: ollikahn23 ($2.02 in chips) 
+StandBy13: posts small blind $0.01
+prokerv: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9d 5d]
+RAMZES_BLR: folds 
+DQA Shark: folds 
+mucki756: folds 
+lucasfrei240: folds 
+Eagle0605: folds 
+ollikahn23: folds 
+StandBy13: folds 
+Uncalled bet ($0.01) returned to prokerv
+prokerv collected $0.02 from pot
+prokerv: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: StandBy13 (small blind) folded before Flop
+Seat 2: prokerv (big blind) collected ($0.02)
+Seat 3: RAMZES_BLR folded before Flop (didn't bet)
+Seat 4: DQA Shark folded before Flop (didn't bet)
+Seat 5: mucki756 folded before Flop (didn't bet)
+Seat 6: lucasfrei240 folded before Flop (didn't bet)
+Seat 7: Eagle0605 folded before Flop (didn't bet)
+Seat 8: ollikahn23 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114437898:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:33:57 ET
+Table 'Carpenter II' 9-max Seat #1 is the button
+Seat 1: StandBy13 ($2.05 in chips) 
+Seat 2: prokerv ($2.87 in chips) 
+Seat 3: RAMZES_BLR ($2.02 in chips) 
+Seat 4: DQA Shark ($3.35 in chips) 
+Seat 5: mucki756 ($0.57 in chips) 
+Seat 6: lucasfrei240 ($0.21 in chips) 
+Seat 7: Eagle0605 ($2 in chips) 
+Seat 8: ollikahn23 ($2.02 in chips) 
+prokerv: posts small blind $0.01
+RAMZES_BLR: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kd Ah]
+DQA Shark: folds 
+mucki756: folds 
+lucasfrei240: folds 
+Eagle0605 has timed out
+Eagle0605: folds 
+DRUMSTICK574 joins the table at seat #9 
+ollikahn23: raises $0.04 to $0.06
+StandBy13: folds 
+prokerv: folds 
+RAMZES_BLR: folds 
+Uncalled bet ($0.04) returned to ollikahn23
+ollikahn23 collected $0.05 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: StandBy13 (button) folded before Flop (didn't bet)
+Seat 2: prokerv (small blind) folded before Flop
+Seat 3: RAMZES_BLR (big blind) folded before Flop
+Seat 4: DQA Shark folded before Flop (didn't bet)
+Seat 5: mucki756 folded before Flop (didn't bet)
+Seat 6: lucasfrei240 folded before Flop (didn't bet)
+Seat 7: Eagle0605 folded before Flop (didn't bet)
+Seat 8: ollikahn23 collected ($0.05)
+
+
+
+PokerStars Hand #182114476026:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:34:44 ET
+Table 'Carpenter II' 9-max Seat #2 is the button
+Seat 1: StandBy13 ($2.05 in chips) 
+Seat 2: prokerv ($2.86 in chips) 
+Seat 3: RAMZES_BLR ($2 in chips) 
+Seat 4: DQA Shark ($3.35 in chips) 
+Seat 5: mucki756 ($0.57 in chips) 
+Seat 6: lucasfrei240 ($0.21 in chips) 
+Seat 7: Eagle0605 ($2 in chips) 
+Seat 8: ollikahn23 ($2.05 in chips) 
+RAMZES_BLR: posts small blind $0.01
+DQA Shark: posts big blind $0.02
+DRUMSTICK574: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4s 4h]
+mucki756: folds 
+lucasfrei240: calls $0.02
+Eagle0605: folds 
+ollikahn23: folds 
+StandBy13: folds 
+prokerv: folds 
+RAMZES_BLR: folds 
+DQA Shark: checks 
+*** FLOP *** [9d Ah Ts]
+DQA Shark: checks 
+lucasfrei240: checks 
+*** TURN *** [9d Ah Ts] [Jc]
+DQA Shark: bets $0.05
+lucasfrei240: raises $0.05 to $0.10
+DQA Shark: raises $0.25 to $0.35
+lucasfrei240: calls $0.09 and is all-in
+Uncalled bet ($0.16) returned to DQA Shark
+*** RIVER *** [9d Ah Ts Jc] [8c]
+*** SHOW DOWN ***
+DQA Shark: shows [Kd Js] (a pair of Jacks)
+lucasfrei240: shows [Qs Jd] (a straight, Eight to Queen)
+lucasfrei240 collected $0.41 from pot
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02 
+Board [9d Ah Ts Jc 8c]
+Seat 1: StandBy13 folded before Flop (didn't bet)
+Seat 2: prokerv (button) folded before Flop (didn't bet)
+Seat 3: RAMZES_BLR (small blind) folded before Flop
+Seat 4: DQA Shark (big blind) showed [Kd Js] and lost with a pair of Jacks
+Seat 5: mucki756 folded before Flop (didn't bet)
+Seat 6: lucasfrei240 showed [Qs Jd] and won ($0.41) with a straight, Eight to Queen
+Seat 7: Eagle0605 folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114525406:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:35:45 ET
+Table 'Carpenter II' 9-max Seat #3 is the button
+Seat 1: StandBy13 ($2.05 in chips) 
+Seat 2: prokerv ($2.86 in chips) 
+Seat 3: RAMZES_BLR ($2 in chips) 
+Seat 4: DQA Shark ($3.14 in chips) 
+Seat 5: mucki756 ($0.57 in chips) 
+Seat 6: lucasfrei240 ($0.41 in chips) 
+Seat 7: Eagle0605 ($2 in chips) 
+Seat 8: ollikahn23 ($2.05 in chips) 
+DQA Shark: posts small blind $0.01
+mucki756: posts big blind $0.02
+DRUMSTICK574: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qs 3s]
+lucasfrei240: calls $0.02
+Eagle0605: folds 
+ollikahn23: folds 
+StandBy13: raises $0.06 to $0.08
+prokerv: folds 
+RAMZES_BLR: folds 
+DQA Shark: folds 
+mucki756: folds 
+lucasfrei240: calls $0.06
+*** FLOP *** [Tc 3c Td]
+lucasfrei240: checks 
+StandBy13: bets $0.12
+lucasfrei240: folds 
+Uncalled bet ($0.12) returned to StandBy13
+StandBy13 collected $0.18 from pot
+StandBy13: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Tc 3c Td]
+Seat 1: StandBy13 collected ($0.18)
+Seat 2: prokerv folded before Flop (didn't bet)
+Seat 3: RAMZES_BLR (button) folded before Flop (didn't bet)
+Seat 4: DQA Shark (small blind) folded before Flop
+Seat 5: mucki756 (big blind) folded before Flop
+Seat 6: lucasfrei240 folded on the Flop
+Seat 7: Eagle0605 folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114566755:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:36:35 ET
+Table 'Carpenter II' 9-max Seat #4 is the button
+Seat 1: StandBy13 ($2.15 in chips) 
+Seat 2: prokerv ($2.86 in chips) 
+Seat 3: RAMZES_BLR ($2 in chips) 
+Seat 4: DQA Shark ($3.13 in chips) 
+Seat 5: mucki756 ($0.55 in chips) 
+Seat 6: lucasfrei240 ($0.33 in chips) 
+Seat 7: Eagle0605 ($2 in chips) 
+Seat 8: ollikahn23 ($2.05 in chips) 
+mucki756: posts small blind $0.01
+lucasfrei240: posts big blind $0.02
+DRUMSTICK574: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5c 4d]
+Eagle0605: folds 
+ollikahn23: folds 
+StandBy13: folds 
+prokerv: folds 
+RAMZES_BLR: folds 
+DQA Shark: folds 
+mucki756: folds 
+Uncalled bet ($0.01) returned to lucasfrei240
+lucasfrei240 collected $0.02 from pot
+lucasfrei240: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: StandBy13 folded before Flop (didn't bet)
+Seat 2: prokerv folded before Flop (didn't bet)
+Seat 3: RAMZES_BLR folded before Flop (didn't bet)
+Seat 4: DQA Shark (button) folded before Flop (didn't bet)
+Seat 5: mucki756 (small blind) folded before Flop
+Seat 6: lucasfrei240 (big blind) collected ($0.02)
+Seat 7: Eagle0605 folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114580318:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:36:52 ET
+Table 'Carpenter II' 9-max Seat #5 is the button
+Seat 1: StandBy13 ($2.15 in chips) 
+Seat 2: prokerv ($2.86 in chips) 
+Seat 3: RAMZES_BLR ($2 in chips) 
+Seat 4: DQA Shark ($3.13 in chips) 
+Seat 5: mucki756 ($0.54 in chips) 
+Seat 6: lucasfrei240 ($0.34 in chips) 
+Seat 7: Eagle0605 ($2 in chips) 
+Seat 8: ollikahn23 ($2.05 in chips) 
+lucasfrei240: posts small blind $0.01
+Eagle0605: posts big blind $0.02
+DRUMSTICK574: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Td 7d]
+ollikahn23: folds 
+StandBy13: folds 
+prokerv: folds 
+RAMZES_BLR: folds 
+DQA Shark: folds 
+mucki756: calls $0.02
+lucasfrei240: folds 
+Eagle0605: checks 
+*** FLOP *** [2d 4c Qs]
+Eagle0605: checks 
+mucki756: bets $0.02
+Eagle0605: folds 
+Uncalled bet ($0.02) returned to mucki756
+mucki756 collected $0.05 from pot
+mucki756: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [2d 4c Qs]
+Seat 1: StandBy13 folded before Flop (didn't bet)
+Seat 2: prokerv folded before Flop (didn't bet)
+Seat 3: RAMZES_BLR folded before Flop (didn't bet)
+Seat 4: DQA Shark folded before Flop (didn't bet)
+Seat 5: mucki756 (button) collected ($0.05)
+Seat 6: lucasfrei240 (small blind) folded before Flop
+Seat 7: Eagle0605 (big blind) folded on the Flop
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114627926:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:37:50 ET
+Table 'Carpenter II' 9-max Seat #6 is the button
+Seat 1: StandBy13 ($2.15 in chips) 
+Seat 2: prokerv ($2.86 in chips) 
+Seat 3: RAMZES_BLR ($2 in chips) 
+Seat 4: DQA Shark ($3.13 in chips) 
+Seat 5: mucki756 ($0.57 in chips) 
+Seat 6: lucasfrei240 ($0.33 in chips) 
+Seat 7: Eagle0605 ($2 in chips) 
+Seat 8: ollikahn23 ($2.05 in chips) 
+Eagle0605: posts small blind $0.01
+ollikahn23: posts big blind $0.02
+DRUMSTICK574: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kh 9d]
+StandBy13: raises $0.04 to $0.06
+prokerv: folds 
+RAMZES_BLR: folds 
+DQA Shark: folds 
+mucki756: calls $0.06
+lucasfrei240: folds 
+Eagle0605: folds 
+ollikahn23: folds 
+*** FLOP *** [5s Qd 8c]
+StandBy13: checks 
+mucki756: checks 
+*** TURN *** [5s Qd 8c] [Th]
+StandBy13: bets $0.07
+mucki756: calls $0.07
+*** RIVER *** [5s Qd 8c Th] [7d]
+StandBy13: bets $0.19
+mucki756: calls $0.19
+*** SHOW DOWN ***
+StandBy13: shows [Qc Ad] (a pair of Queens)
+mucki756: mucks hand 
+StandBy13 collected $0.65 from pot
+*** SUMMARY ***
+Total pot $0.67 | Rake $0.02 
+Board [5s Qd 8c Th 7d]
+Seat 1: StandBy13 showed [Qc Ad] and won ($0.65) with a pair of Queens
+Seat 2: prokerv folded before Flop (didn't bet)
+Seat 3: RAMZES_BLR folded before Flop (didn't bet)
+Seat 4: DQA Shark folded before Flop (didn't bet)
+Seat 5: mucki756 mucked [Jh Js]
+Seat 6: lucasfrei240 (button) folded before Flop (didn't bet)
+Seat 7: Eagle0605 (small blind) folded before Flop
+Seat 8: ollikahn23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #182114662474:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:38:33 ET
+Table 'Carpenter II' 9-max Seat #7 is the button
+Seat 1: StandBy13 ($2.48 in chips) 
+Seat 2: prokerv ($2.86 in chips) 
+Seat 3: RAMZES_BLR ($2 in chips) 
+Seat 4: DQA Shark ($3.13 in chips) 
+Seat 5: mucki756 ($0.25 in chips) 
+Seat 6: lucasfrei240 ($0.33 in chips) 
+Seat 7: Eagle0605 ($2 in chips) 
+Seat 8: ollikahn23 ($2.03 in chips) 
+Seat 9: DRUMSTICK574 ($0.80 in chips) 
+ollikahn23: posts small blind $0.01
+DRUMSTICK574: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Tc Qs]
+StandBy13: folds 
+prokerv: folds 
+RAMZES_BLR: folds 
+DQA Shark: folds 
+mucki756: folds 
+lucasfrei240: calls $0.02
+Eagle0605: calls $0.02
+ollikahn23: calls $0.01
+mucki756 leaves the table
+hard nutss joins the table at seat #5 
+DRUMSTICK574: checks 
+*** FLOP *** [9h 8d As]
+ollikahn23: checks 
+DRUMSTICK574: bets $0.08
+lucasfrei240: folds 
+Eagle0605: calls $0.08
+ollikahn23: folds 
+*** TURN *** [9h 8d As] [2s]
+hard nutss leaves the table
+DRUMSTICK574: bets $0.23
+Eagle0605: folds 
+Uncalled bet ($0.23) returned to DRUMSTICK574
+DRUMSTICK574 collected $0.23 from pot
+DRUMSTICK574: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [9h 8d As 2s]
+Seat 1: StandBy13 folded before Flop (didn't bet)
+Seat 2: prokerv folded before Flop (didn't bet)
+Seat 3: RAMZES_BLR folded before Flop (didn't bet)
+Seat 4: DQA Shark folded before Flop (didn't bet)
+Seat 5: mucki756 folded before Flop (didn't bet)
+Seat 6: lucasfrei240 folded on the Flop
+Seat 7: Eagle0605 (button) folded on the Turn
+Seat 8: ollikahn23 (small blind) folded on the Flop
+Seat 9: DRUMSTICK574 (big blind) collected ($0.23)
+
+
+
+PokerStars Hand #182114705063:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:39:25 ET
+Table 'Carpenter II' 9-max Seat #8 is the button
+Seat 1: StandBy13 ($2.48 in chips) 
+Seat 2: prokerv ($2.86 in chips) 
+Seat 3: RAMZES_BLR ($2 in chips) 
+Seat 4: DQA Shark ($3.13 in chips) 
+Seat 6: lucasfrei240 ($0.31 in chips) 
+Seat 7: Eagle0605 ($2 in chips) 
+Seat 8: ollikahn23 ($2.01 in chips) 
+Seat 9: DRUMSTICK574 ($0.93 in chips) 
+DRUMSTICK574: posts small blind $0.01
+StandBy13: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3c Qh]
+prokerv: folds 
+RAMZES_BLR: folds 
+DQA Shark: folds 
+lucasfrei240: calls $0.02
+Eagle0605: folds 
+ollikahn23: folds 
+DRUMSTICK574: calls $0.01
+StandBy13: checks 
+*** FLOP *** [Th 2c 4h]
+DRUMSTICK574: checks 
+StandBy13: checks 
+lucasfrei240: checks 
+*** TURN *** [Th 2c 4h] [As]
+DRUMSTICK574: checks 
+StandBy13: checks 
+lucasfrei240: checks 
+*** RIVER *** [Th 2c 4h As] [9d]
+DRUMSTICK574: checks 
+StandBy13: checks 
+lucasfrei240: checks 
+*** SHOW DOWN ***
+DRUMSTICK574: shows [6c 8c] (high card Ace)
+StandBy13: shows [Qs 6h] (high card Ace - Queen kicker)
+lucasfrei240: shows [8d 8s] (a pair of Eights)
+lucasfrei240 collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [Th 2c 4h As 9d]
+Seat 1: StandBy13 (big blind) showed [Qs 6h] and lost with high card Ace
+Seat 2: prokerv folded before Flop (didn't bet)
+Seat 3: RAMZES_BLR folded before Flop (didn't bet)
+Seat 4: DQA Shark folded before Flop (didn't bet)
+Seat 6: lucasfrei240 showed [8d 8s] and won ($0.06) with a pair of Eights
+Seat 7: Eagle0605 folded before Flop (didn't bet)
+Seat 8: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 9: DRUMSTICK574 (small blind) showed [6c 8c] and lost with high card Ace
+
+
+
+PokerStars Hand #182114746278:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:40:16 ET
+Table 'Carpenter II' 9-max Seat #9 is the button
+Seat 1: StandBy13 ($2.46 in chips) 
+Seat 2: prokerv ($2.86 in chips) 
+Seat 3: RAMZES_BLR ($2 in chips) 
+Seat 4: DQA Shark ($3.13 in chips) 
+Seat 6: lucasfrei240 ($0.35 in chips) 
+Seat 7: Eagle0605 ($2 in chips) 
+Seat 8: ollikahn23 ($2.01 in chips) 
+Seat 9: DRUMSTICK574 ($0.91 in chips) 
+StandBy13: posts small blind $0.01
+prokerv: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kh 5s]
+RAMZES_BLR: folds 
+DQA Shark: folds 
+lucasfrei240: calls $0.02
+Eagle0605: folds 
+ollikahn23: folds 
+tr@p@ceiro joins the table at seat #5 
+DRUMSTICK574 has timed out
+DRUMSTICK574: folds 
+StandBy13: raises $0.06 to $0.08
+prokerv: folds 
+lucasfrei240: folds 
+Uncalled bet ($0.06) returned to StandBy13
+StandBy13 collected $0.06 from pot
+StandBy13: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Seat 1: StandBy13 (small blind) collected ($0.06)
+Seat 2: prokerv (big blind) folded before Flop
+Seat 3: RAMZES_BLR folded before Flop (didn't bet)
+Seat 4: DQA Shark folded before Flop (didn't bet)
+Seat 6: lucasfrei240 folded before Flop
+Seat 7: Eagle0605 folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: DRUMSTICK574 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114784448:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:41:01 ET
+Table 'Carpenter II' 9-max Seat #1 is the button
+Seat 1: StandBy13 ($2.50 in chips) 
+Seat 2: prokerv ($2.84 in chips) 
+Seat 3: RAMZES_BLR ($2 in chips) 
+Seat 4: DQA Shark ($3.13 in chips) 
+Seat 5: tr@p@ceiro ($0.80 in chips) 
+Seat 6: lucasfrei240 ($0.33 in chips) 
+Seat 7: Eagle0605 ($2 in chips) 
+Seat 8: ollikahn23 ($2.01 in chips) 
+Seat 9: DRUMSTICK574 ($0.91 in chips) 
+prokerv: posts small blind $0.01
+RAMZES_BLR: posts big blind $0.02
+tr@p@ceiro: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4s 8c]
+DQA Shark: folds 
+tr@p@ceiro: checks 
+lucasfrei240: folds 
+Eagle0605: folds 
+Eagle0605 leaves the table
+ollikahn23: folds 
+DRUMSTICK574: folds 
+StandBy13: raises $0.06 to $0.08
+prokerv: folds 
+RAMZES_BLR: folds 
+tr@p@ceiro: folds 
+Uncalled bet ($0.06) returned to StandBy13
+vcrocksnj joins the table at seat #7 
+StandBy13 collected $0.07 from pot
+StandBy13: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: StandBy13 (button) collected ($0.07)
+Seat 2: prokerv (small blind) folded before Flop
+Seat 3: RAMZES_BLR (big blind) folded before Flop
+Seat 4: DQA Shark folded before Flop (didn't bet)
+Seat 5: tr@p@ceiro folded before Flop
+Seat 6: lucasfrei240 folded before Flop (didn't bet)
+Seat 7: Eagle0605 folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: DRUMSTICK574 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114815919:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:41:40 ET
+Table 'Carpenter II' 9-max Seat #2 is the button
+Seat 1: StandBy13 ($2.55 in chips) 
+Seat 2: prokerv ($2.83 in chips) 
+Seat 4: DQA Shark ($3.13 in chips) 
+Seat 5: tr@p@ceiro ($0.78 in chips) 
+Seat 6: lucasfrei240 ($0.33 in chips) 
+Seat 8: ollikahn23 ($2.01 in chips) 
+Seat 9: DRUMSTICK574 ($0.91 in chips) 
+DQA Shark: posts small blind $0.01
+tr@p@ceiro: posts big blind $0.02
+vcrocksnj: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5c 6h]
+lucasfrei240: folds 
+ollikahn23: folds 
+DRUMSTICK574: raises $0.04 to $0.06
+StandBy13: folds 
+prokerv: folds 
+DQA Shark: folds 
+tr@p@ceiro: calls $0.04
+*** FLOP *** [2s 6s Ad]
+tr@p@ceiro: bets $0.06
+DRUMSTICK574: calls $0.06
+*** TURN *** [2s 6s Ad] [3d]
+tr@p@ceiro: bets $0.14
+DRUMSTICK574: folds 
+Uncalled bet ($0.14) returned to tr@p@ceiro
+tr@p@ceiro collected $0.24 from pot
+tr@p@ceiro: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [2s 6s Ad 3d]
+Seat 1: StandBy13 folded before Flop (didn't bet)
+Seat 2: prokerv (button) folded before Flop (didn't bet)
+Seat 4: DQA Shark (small blind) folded before Flop
+Seat 5: tr@p@ceiro (big blind) collected ($0.24)
+Seat 6: lucasfrei240 folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: DRUMSTICK574 folded on the Turn
+
+
+
+PokerStars Hand #182114855456:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:42:28 ET
+Table 'Carpenter II' 9-max Seat #4 is the button
+Seat 1: StandBy13 ($2.55 in chips) 
+Seat 2: prokerv ($2.83 in chips) 
+Seat 4: DQA Shark ($3.12 in chips) 
+Seat 5: tr@p@ceiro ($0.90 in chips) 
+Seat 6: lucasfrei240 ($0.33 in chips) 
+Seat 8: ollikahn23 ($2.01 in chips) 
+Seat 9: DRUMSTICK574 ($0.79 in chips) 
+tr@p@ceiro: posts small blind $0.01
+lucasfrei240: posts big blind $0.02
+vcrocksnj: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kd 7h]
+ollikahn23: folds 
+DRUMSTICK574: raises $0.04 to $0.06
+StandBy13: calls $0.06
+prokerv: folds 
+DQA Shark: folds 
+tr@p@ceiro: calls $0.05
+lucasfrei240: folds 
+*** FLOP *** [2c 5s 4h]
+tr@p@ceiro: checks 
+DRUMSTICK574: bets $0.10
+StandBy13: folds 
+tr@p@ceiro: folds 
+Uncalled bet ($0.10) returned to DRUMSTICK574
+DRUMSTICK574 collected $0.19 from pot
+DRUMSTICK574: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [2c 5s 4h]
+Seat 1: StandBy13 folded on the Flop
+Seat 2: prokerv folded before Flop (didn't bet)
+Seat 4: DQA Shark (button) folded before Flop (didn't bet)
+Seat 5: tr@p@ceiro (small blind) folded on the Flop
+Seat 6: lucasfrei240 (big blind) folded before Flop
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: DRUMSTICK574 collected ($0.19)
+
+
+
+PokerStars Hand #182114893668:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:43:14 ET
+Table 'Carpenter II' 9-max Seat #5 is the button
+Seat 1: StandBy13 ($2.49 in chips) 
+Seat 2: prokerv ($2.83 in chips) 
+Seat 4: DQA Shark ($3.12 in chips) 
+Seat 5: tr@p@ceiro ($0.84 in chips) 
+Seat 6: lucasfrei240 ($0.31 in chips) 
+Seat 7: vcrocksnj ($2 in chips) 
+Seat 8: ollikahn23 ($2.01 in chips) 
+Seat 9: DRUMSTICK574 ($0.92 in chips) 
+lucasfrei240: posts small blind $0.01
+vcrocksnj: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7c Qd]
+ollikahn23: folds 
+DRUMSTICK574: calls $0.02
+StandBy13: raises $0.06 to $0.08
+prokerv: folds 
+DQA Shark: folds 
+tr@p@ceiro: calls $0.08
+lucasfrei240: folds 
+vcrocksnj: folds 
+DRUMSTICK574: folds 
+*** FLOP *** [Qh 7s 6s]
+StandBy13: checks 
+tr@p@ceiro: bets $0.08
+StandBy13: raises $0.16 to $0.24
+tr@p@ceiro: folds 
+Uncalled bet ($0.16) returned to StandBy13
+StandBy13 collected $0.36 from pot
+StandBy13: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01 
+Board [Qh 7s 6s]
+Seat 1: StandBy13 collected ($0.36)
+Seat 2: prokerv folded before Flop (didn't bet)
+Seat 4: DQA Shark folded before Flop (didn't bet)
+Seat 5: tr@p@ceiro (button) folded on the Flop
+Seat 6: lucasfrei240 (small blind) folded before Flop
+Seat 7: vcrocksnj (big blind) folded before Flop
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: DRUMSTICK574 folded before Flop
+
+
+
+PokerStars Hand #182114933259:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:44:02 ET
+Table 'Carpenter II' 9-max Seat #6 is the button
+Seat 1: StandBy13 ($2.69 in chips) 
+Seat 2: prokerv ($2.83 in chips) 
+Seat 4: DQA Shark ($3.12 in chips) 
+Seat 5: tr@p@ceiro ($0.68 in chips) 
+Seat 6: lucasfrei240 ($0.30 in chips) 
+Seat 7: vcrocksnj ($2 in chips) 
+Seat 8: ollikahn23 ($2.01 in chips) 
+Seat 9: DRUMSTICK574 ($0.90 in chips) 
+vcrocksnj: posts small blind $0.01
+ollikahn23: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5c 7s]
+DRUMSTICK574: folds 
+StandBy13: folds 
+prokerv: folds 
+DQA Shark: folds 
+tr@p@ceiro: folds 
+lucasfrei240: calls $0.02
+vcrocksnj: calls $0.01
+ollikahn23: checks 
+*** FLOP *** [Ah 8c 3d]
+vcrocksnj: checks 
+ollikahn23: checks 
+lucasfrei240: checks 
+*** TURN *** [Ah 8c 3d] [Ts]
+vcrocksnj: checks 
+ollikahn23: checks 
+lucasfrei240: checks 
+*** RIVER *** [Ah 8c 3d Ts] [2h]
+vcrocksnj: checks 
+ollikahn23: checks 
+lucasfrei240: bets $0.03
+vcrocksnj: calls $0.03
+ollikahn23: folds 
+*** SHOW DOWN ***
+lucasfrei240: shows [As Ad] (three of a kind, Aces)
+vcrocksnj: mucks hand 
+lucasfrei240 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Ah 8c 3d Ts 2h]
+Seat 1: StandBy13 folded before Flop (didn't bet)
+Seat 2: prokerv folded before Flop (didn't bet)
+Seat 4: DQA Shark folded before Flop (didn't bet)
+Seat 5: tr@p@ceiro folded before Flop (didn't bet)
+Seat 6: lucasfrei240 (button) showed [As Ad] and won ($0.12) with three of a kind, Aces
+Seat 7: vcrocksnj (small blind) mucked [9h 9c]
+Seat 8: ollikahn23 (big blind) folded on the River
+Seat 9: DRUMSTICK574 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114984619:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:45:05 ET
+Table 'Carpenter II' 9-max Seat #7 is the button
+Seat 1: StandBy13 ($2.69 in chips) 
+Seat 2: prokerv ($2.83 in chips) 
+Seat 4: DQA Shark ($3.12 in chips) 
+Seat 5: tr@p@ceiro ($0.68 in chips) 
+Seat 6: lucasfrei240 ($0.37 in chips) 
+Seat 7: vcrocksnj ($2 in chips) 
+Seat 8: ollikahn23 ($2 in chips) 
+Seat 9: DRUMSTICK574 ($0.90 in chips) 
+ollikahn23: posts small blind $0.01
+DRUMSTICK574: posts big blind $0.02
+RAMZES_BLR: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6d 8d]
+StandBy13: folds 
+prokerv: folds 
+DQA Shark: folds 
+tr@p@ceiro: raises $0.06 to $0.08
+lucasfrei240: folds 
+vcrocksnj: folds 
+ollikahn23: folds 
+DRUMSTICK574: calls $0.06
+*** FLOP *** [6h 7c 3c]
+DRUMSTICK574: bets $0.08
+tr@p@ceiro: calls $0.08
+*** TURN *** [6h 7c 3c] [4h]
+prokerv is disconnected 
+DRUMSTICK574: bets $0.16
+tr@p@ceiro: folds 
+Uncalled bet ($0.16) returned to DRUMSTICK574
+DRUMSTICK574 collected $0.32 from pot
+DRUMSTICK574: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [6h 7c 3c 4h]
+Seat 1: StandBy13 folded before Flop (didn't bet)
+Seat 2: prokerv folded before Flop (didn't bet)
+Seat 4: DQA Shark folded before Flop (didn't bet)
+Seat 5: tr@p@ceiro folded on the Turn
+Seat 6: lucasfrei240 folded before Flop (didn't bet)
+Seat 7: vcrocksnj (button) folded before Flop (didn't bet)
+Seat 8: ollikahn23 (small blind) folded before Flop
+Seat 9: DRUMSTICK574 (big blind) collected ($0.32)
+
+
+
+PokerStars Hand #182115030923:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:46:01 ET
+Table 'Carpenter II' 9-max Seat #8 is the button
+Seat 1: StandBy13 ($2.69 in chips) 
+Seat 2: prokerv ($2.83 in chips) 
+Seat 4: DQA Shark ($3.12 in chips) 
+Seat 5: tr@p@ceiro ($0.52 in chips) 
+Seat 6: lucasfrei240 ($0.37 in chips) 
+Seat 7: vcrocksnj ($2 in chips) 
+Seat 8: ollikahn23 ($2 in chips) 
+Seat 9: DRUMSTICK574 ($1.06 in chips) 
+DRUMSTICK574: posts small blind $0.01
+StandBy13: posts big blind $0.02
+RAMZES_BLR: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7c 9h]
+prokerv has timed out while disconnected
+prokerv: folds 
+DQA Shark: folds 
+tr@p@ceiro: folds 
+lucasfrei240: calls $0.02
+vcrocksnj: folds 
+ollikahn23: folds 
+DRUMSTICK574: calls $0.01
+StandBy13: checks 
+*** FLOP *** [8h Th Jh]
+DRUMSTICK574: checks 
+StandBy13: checks 
+lucasfrei240: checks 
+*** TURN *** [8h Th Jh] [8s]
+DRUMSTICK574: bets $0.02
+StandBy13: calls $0.02
+lucasfrei240: folds 
+*** RIVER *** [8h Th Jh 8s] [7h]
+DRUMSTICK574: bets $0.02
+StandBy13: calls $0.02
+*** SHOW DOWN ***
+DRUMSTICK574: shows [9s Kd] (a straight, Seven to Jack)
+StandBy13: shows [Kh 7s] (a flush, King high)
+StandBy13 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [8h Th Jh 8s 7h]
+Seat 1: StandBy13 (big blind) showed [Kh 7s] and won ($0.14) with a flush, King high
+Seat 2: prokerv folded before Flop (didn't bet)
+Seat 4: DQA Shark folded before Flop (didn't bet)
+Seat 5: tr@p@ceiro folded before Flop (didn't bet)
+Seat 6: lucasfrei240 folded on the Turn
+Seat 7: vcrocksnj folded before Flop (didn't bet)
+Seat 8: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 9: DRUMSTICK574 (small blind) showed [9s Kd] and lost with a straight, Seven to Jack
+
+
+
+PokerStars Hand #182115092738:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:47:15 ET
+Table 'Carpenter II' 9-max Seat #9 is the button
+Seat 1: StandBy13 ($2.77 in chips) 
+Seat 3: RAMZES_BLR ($2 in chips) 
+Seat 4: DQA Shark ($3.12 in chips) 
+Seat 5: tr@p@ceiro ($0.52 in chips) 
+Seat 6: lucasfrei240 ($0.35 in chips) 
+Seat 7: vcrocksnj ($2 in chips) 
+Seat 8: ollikahn23 ($2 in chips) 
+Seat 9: DRUMSTICK574 ($1 in chips) 
+StandBy13: posts small blind $0.01
+RAMZES_BLR: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6d 3d]
+DQA Shark: folds 
+tr@p@ceiro: folds 
+lucasfrei240: calls $0.02
+vcrocksnj: folds 
+ollikahn23: folds 
+DRUMSTICK574: calls $0.02
+StandBy13: folds 
+RAMZES_BLR: checks 
+*** FLOP *** [2h Jd 8d]
+RAMZES_BLR: checks 
+lucasfrei240: checks 
+DRUMSTICK574: bets $0.07
+RAMZES_BLR: folds 
+lucasfrei240: folds 
+Uncalled bet ($0.07) returned to DRUMSTICK574
+DRUMSTICK574 collected $0.07 from pot
+DRUMSTICK574: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [2h Jd 8d]
+Seat 1: StandBy13 (small blind) folded before Flop
+Seat 3: RAMZES_BLR (big blind) folded on the Flop
+Seat 4: DQA Shark folded before Flop (didn't bet)
+Seat 5: tr@p@ceiro folded before Flop (didn't bet)
+Seat 6: lucasfrei240 folded on the Flop
+Seat 7: vcrocksnj folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: DRUMSTICK574 (button) collected ($0.07)
+
+
+
+PokerStars Hand #182115126921:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:47:57 ET
+Table 'Carpenter II' 9-max Seat #1 is the button
+Seat 1: StandBy13 ($2.76 in chips) 
+Seat 3: RAMZES_BLR ($2 in chips) 
+Seat 5: tr@p@ceiro ($0.52 in chips) 
+Seat 6: lucasfrei240 ($0.33 in chips) 
+Seat 7: vcrocksnj ($2 in chips) 
+Seat 8: ollikahn23 ($2 in chips) 
+Seat 9: DRUMSTICK574 ($1.05 in chips) 
+RAMZES_BLR: posts small blind $0.01
+DQA Shark: is sitting out 
+DQA Shark leaves the table
+tr@p@ceiro: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8s 7s]
+lucasfrei240: folds 
+vcrocksnj: folds 
+Addicted8804 joins the table at seat #4 
+ollikahn23: raises $0.04 to $0.06
+DRUMSTICK574: folds 
+StandBy13: folds 
+RAMZES_BLR: folds 
+tr@p@ceiro: folds 
+Uncalled bet ($0.04) returned to ollikahn23
+ollikahn23 collected $0.05 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: StandBy13 (button) folded before Flop (didn't bet)
+Seat 3: RAMZES_BLR (small blind) folded before Flop
+Seat 5: tr@p@ceiro (big blind) folded before Flop
+Seat 6: lucasfrei240 folded before Flop (didn't bet)
+Seat 7: vcrocksnj folded before Flop (didn't bet)
+Seat 8: ollikahn23 collected ($0.05)
+Seat 9: DRUMSTICK574 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182115142871:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:48:17 ET
+Table 'Carpenter II' 9-max Seat #3 is the button
+Seat 1: StandBy13 ($2.76 in chips) 
+Seat 3: RAMZES_BLR ($2 in chips) 
+Seat 5: tr@p@ceiro ($0.50 in chips) 
+Seat 6: lucasfrei240 ($0.33 in chips) 
+Seat 7: vcrocksnj ($2 in chips) 
+Seat 8: ollikahn23 ($2.03 in chips) 
+Seat 9: DRUMSTICK574 ($1.05 in chips) 
+Addicted8804 will be allowed to play after the button
+tr@p@ceiro: posts small blind $0.01
+lucasfrei240: posts big blind $0.02
+prokerv: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kd Ad]
+vcrocksnj: folds 
+ollikahn23: raises $0.04 to $0.06
+prokerv leaves the table
+DRUMSTICK574: folds 
+StandBy13: folds 
+RAMZES_BLR: folds 
+tr@p@ceiro: calls $0.05
+lucasfrei240: calls $0.04
+*** FLOP *** [8s Ks Kh]
+Bily Bo joins the table at seat #2 
+tr@p@ceiro: bets $0.09
+lucasfrei240: folds 
+ollikahn23: calls $0.09
+*** TURN *** [8s Ks Kh] [5c]
+tr@p@ceiro: bets $0.35 and is all-in
+ollikahn23: calls $0.35
+*** RIVER *** [8s Ks Kh 5c] [Ts]
+*** SHOW DOWN ***
+tr@p@ceiro: shows [5h 9h] (two pair, Kings and Fives)
+ollikahn23: shows [Kd Ad] (three of a kind, Kings)
+ollikahn23 collected $1.02 from pot
+*** SUMMARY ***
+Total pot $1.06 | Rake $0.04 
+Board [8s Ks Kh 5c Ts]
+Seat 1: StandBy13 folded before Flop (didn't bet)
+Seat 3: RAMZES_BLR (button) folded before Flop (didn't bet)
+Seat 5: tr@p@ceiro (small blind) showed [5h 9h] and lost with two pair, Kings and Fives
+Seat 6: lucasfrei240 (big blind) folded on the Flop
+Seat 7: vcrocksnj folded before Flop (didn't bet)
+Seat 8: ollikahn23 showed [Kd Ad] and won ($1.02) with three of a kind, Kings
+Seat 9: DRUMSTICK574 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182115185193:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:49:08 ET
+Table 'Carpenter II' 9-max Seat #6 is the button
+Seat 1: StandBy13 ($2.76 in chips) 
+Seat 3: RAMZES_BLR ($2 in chips) 
+Seat 6: lucasfrei240 ($0.27 in chips) 
+Seat 7: vcrocksnj ($2 in chips) 
+Seat 8: ollikahn23 ($2.55 in chips) 
+Seat 9: DRUMSTICK574 ($1.05 in chips) 
+vcrocksnj: posts small blind $0.01
+ollikahn23: posts big blind $0.02
+Bily Bo: sits out 
+Addicted8804: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Td 8s]
+DRUMSTICK574: calls $0.02
+tr@p@ceiro leaves the table
+StandBy13: folds 
+RAMZES_BLR: folds 
+lucasfrei240: calls $0.02
+rideamus94 joins the table at seat #5 
+vcrocksnj: folds 
+ollikahn23: checks 
+*** FLOP *** [5s 9s As]
+ollikahn23: checks 
+DRUMSTICK574: bets $0.02
+lucasfrei240: folds 
+ollikahn23: folds 
+Uncalled bet ($0.02) returned to DRUMSTICK574
+DRUMSTICK574 collected $0.07 from pot
+DRUMSTICK574: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [5s 9s As]
+Seat 1: StandBy13 folded before Flop (didn't bet)
+Seat 3: RAMZES_BLR folded before Flop (didn't bet)
+Seat 6: lucasfrei240 (button) folded on the Flop
+Seat 7: vcrocksnj (small blind) folded before Flop
+Seat 8: ollikahn23 (big blind) folded on the Flop
+Seat 9: DRUMSTICK574 collected ($0.07)
+
+
+
+PokerStars Hand #182115234858:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:50:09 ET
+Table 'Carpenter II' 9-max Seat #7 is the button
+Seat 1: StandBy13 ($2.76 in chips) 
+Seat 3: RAMZES_BLR ($2 in chips) 
+Seat 5: rideamus94 ($1 in chips) 
+Seat 6: lucasfrei240 ($0.25 in chips) 
+Seat 7: vcrocksnj ($2 in chips) 
+Seat 8: ollikahn23 ($2.53 in chips) 
+Seat 9: DRUMSTICK574 ($1.10 in chips) 
+ollikahn23: posts small blind $0.01
+DRUMSTICK574: posts big blind $0.02
+Bily Bo: sits out 
+Addicted8804: sits out 
+rideamus94: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Td Ad]
+StandBy13: raises $0.06 to $0.08
+RAMZES_BLR: folds 
+rideamus94: folds 
+lucasfrei240: calls $0.08
+vcrocksnj: folds 
+ollikahn23: calls $0.07
+DRUMSTICK574: folds 
+*** FLOP *** [6d Ts 7s]
+ollikahn23: checks 
+StandBy13: checks 
+lucasfrei240: checks 
+*** TURN *** [6d Ts 7s] [8h]
+ollikahn23: bets $0.12
+StandBy13: calls $0.12
+lucasfrei240: folds 
+*** RIVER *** [6d Ts 7s 8h] [Ac]
+ollikahn23: bets $0.22
+StandBy13: folds 
+Uncalled bet ($0.22) returned to ollikahn23
+ollikahn23 collected $0.50 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.52 | Rake $0.02 
+Board [6d Ts 7s 8h Ac]
+Seat 1: StandBy13 folded on the River
+Seat 3: RAMZES_BLR folded before Flop (didn't bet)
+Seat 5: rideamus94 folded before Flop
+Seat 6: lucasfrei240 folded on the Turn
+Seat 7: vcrocksnj (button) folded before Flop (didn't bet)
+Seat 8: ollikahn23 (small blind) collected ($0.50)
+Seat 9: DRUMSTICK574 (big blind) folded before Flop
+
+
+
+PokerStars Hand #182115315942:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:51:47 ET
+Table 'Carpenter II' 9-max Seat #8 is the button
+Seat 1: StandBy13 ($2.56 in chips) 
+Seat 3: RAMZES_BLR ($2 in chips) 
+Seat 5: rideamus94 ($0.98 in chips) 
+Seat 6: lucasfrei240 ($0.17 in chips) 
+Seat 7: vcrocksnj ($2 in chips) 
+Seat 8: ollikahn23 ($2.83 in chips) 
+Seat 9: DRUMSTICK574 ($1.08 in chips) 
+DRUMSTICK574: posts small blind $0.01
+StandBy13: posts big blind $0.02
+Bily Bo: sits out 
+Addicted8804: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9d 7h]
+RAMZES_BLR: folds 
+rideamus94: folds 
+lucasfrei240: folds 
+vcrocksnj: folds 
+ollikahn23: folds 
+DRUMSTICK574: calls $0.01
+StandBy13: checks 
+*** FLOP *** [9s As Ah]
+DRUMSTICK574: checks 
+StandBy13: checks 
+*** TURN *** [9s As Ah] [Ac]
+DRUMSTICK574: checks 
+StandBy13: bets $0.03
+DRUMSTICK574: calls $0.03
+*** RIVER *** [9s As Ah Ac] [Kd]
+DRUMSTICK574: bets $0.05
+StandBy13: calls $0.05
+*** SHOW DOWN ***
+DRUMSTICK574: shows [4h Ad] (four of a kind, Aces)
+StandBy13: mucks hand 
+DRUMSTICK574 collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [9s As Ah Ac Kd]
+Seat 1: StandBy13 (big blind) mucked [Ks 3d]
+Seat 3: RAMZES_BLR folded before Flop (didn't bet)
+Seat 5: rideamus94 folded before Flop (didn't bet)
+Seat 6: lucasfrei240 folded before Flop (didn't bet)
+Seat 7: vcrocksnj folded before Flop (didn't bet)
+Seat 8: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 9: DRUMSTICK574 (small blind) showed [4h Ad] and won ($0.19) with four of a kind, Aces
+
+
+
+PokerStars Hand #182115372892:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:52:57 ET
+Table 'Carpenter II' 9-max Seat #9 is the button
+Seat 1: StandBy13 ($2.46 in chips) 
+Seat 2: Bily Bo ($2 in chips) 
+Seat 3: RAMZES_BLR ($2 in chips) 
+Seat 5: rideamus94 ($0.98 in chips) 
+Seat 6: lucasfrei240 ($0.17 in chips) 
+Seat 7: vcrocksnj ($2 in chips) 
+Seat 8: ollikahn23 ($2.83 in chips) 
+Seat 9: DRUMSTICK574 ($1.17 in chips) 
+StandBy13: posts small blind $0.01
+Bily Bo: posts big blind $0.02
+Addicted8804: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Th Qh]
+RAMZES_BLR: folds 
+rideamus94: folds 
+lucasfrei240: calls $0.02
+vcrocksnj: folds 
+ollikahn23: calls $0.02
+DRUMSTICK574 has timed out
+DRUMSTICK574: folds 
+StandBy13: folds 
+Bily Bo: checks 
+*** FLOP *** [6h 5d 5h]
+Bily Bo: checks 
+lucasfrei240: checks 
+ollikahn23: checks 
+*** TURN *** [6h 5d 5h] [Ah]
+Bily Bo: bets $0.06
+lucasfrei240: folds 
+ollikahn23: raises $0.08 to $0.14
+Bily Bo: calls $0.08
+*** RIVER *** [6h 5d 5h Ah] [Ks]
+Bily Bo: checks 
+ollikahn23: bets $0.28
+Bily Bo: calls $0.28
+*** SHOW DOWN ***
+ollikahn23: shows [Th Qh] (a flush, Ace high)
+Bily Bo: shows [Kh 7h] (a flush, Ace high - King higher)
+Bily Bo collected $0.88 from pot
+*** SUMMARY ***
+Total pot $0.91 | Rake $0.03 
+Board [6h 5d 5h Ah Ks]
+Seat 1: StandBy13 (small blind) folded before Flop
+Seat 2: Bily Bo (big blind) showed [Kh 7h] and won ($0.88) with a flush, Ace high
+Seat 3: RAMZES_BLR folded before Flop (didn't bet)
+Seat 5: rideamus94 folded before Flop (didn't bet)
+Seat 6: lucasfrei240 folded on the Turn
+Seat 7: vcrocksnj folded before Flop (didn't bet)
+Seat 8: ollikahn23 showed [Th Qh] and lost with a flush, Ace high
+Seat 9: DRUMSTICK574 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182115443060:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:54:22 ET
+Table 'Carpenter II' 9-max Seat #1 is the button
+Seat 1: StandBy13 ($2.45 in chips) 
+Seat 2: Bily Bo ($2.44 in chips) 
+Seat 3: RAMZES_BLR ($2 in chips) 
+Seat 5: rideamus94 ($0.98 in chips) 
+Seat 6: lucasfrei240 ($0.15 in chips) 
+Seat 7: vcrocksnj ($2 in chips) 
+Seat 8: ollikahn23 ($2.39 in chips) 
+Seat 9: DRUMSTICK574 ($1.17 in chips) 
+Bily Bo: posts small blind $0.01
+RAMZES_BLR: posts big blind $0.02
+Addicted8804: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6h Ah]
+rideamus94: raises $0.02 to $0.04
+lucasfrei240: folds 
+vcrocksnj: folds 
+ollikahn23: folds 
+DRUMSTICK574: folds 
+StandBy13: folds 
+Bily Bo: folds 
+RAMZES_BLR: folds 
+Uncalled bet ($0.02) returned to rideamus94
+rideamus94 collected $0.05 from pot
+rideamus94: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: StandBy13 (button) folded before Flop (didn't bet)
+Seat 2: Bily Bo (small blind) folded before Flop
+Seat 3: RAMZES_BLR (big blind) folded before Flop
+Seat 5: rideamus94 collected ($0.05)
+Seat 6: lucasfrei240 folded before Flop (didn't bet)
+Seat 7: vcrocksnj folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: DRUMSTICK574 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182115466067:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:54:50 ET
+Table 'Carpenter II' 9-max Seat #2 is the button
+Seat 1: StandBy13 ($2.45 in chips) 
+Seat 2: Bily Bo ($2.43 in chips) 
+Seat 3: RAMZES_BLR ($2 in chips) 
+Seat 4: Addicted8804 ($2 in chips) 
+Seat 5: rideamus94 ($1.01 in chips) 
+Seat 6: lucasfrei240 ($0.15 in chips) 
+Seat 7: vcrocksnj ($2 in chips) 
+Seat 8: ollikahn23 ($2.39 in chips) 
+Seat 9: DRUMSTICK574 ($1.17 in chips) 
+RAMZES_BLR: posts small blind $0.01
+Addicted8804: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Tc 9h]
+rideamus94: folds 
+lucasfrei240: calls $0.02
+vcrocksnj: raises $0.02 to $0.04
+ollikahn23: folds 
+DRUMSTICK574: calls $0.04
+StandBy13: folds 
+Bily Bo: folds 
+RAMZES_BLR: folds 
+Addicted8804: folds 
+lucasfrei240: folds 
+*** FLOP *** [Jc 7c 5s]
+vcrocksnj: checks 
+DRUMSTICK574: bets $0.04
+vcrocksnj: folds 
+Uncalled bet ($0.04) returned to DRUMSTICK574
+DRUMSTICK574 collected $0.13 from pot
+DRUMSTICK574: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Jc 7c 5s]
+Seat 1: StandBy13 folded before Flop (didn't bet)
+Seat 2: Bily Bo (button) folded before Flop (didn't bet)
+Seat 3: RAMZES_BLR (small blind) folded before Flop
+Seat 4: Addicted8804 (big blind) folded before Flop
+Seat 5: rideamus94 folded before Flop (didn't bet)
+Seat 6: lucasfrei240 folded before Flop
+Seat 7: vcrocksnj folded on the Flop
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: DRUMSTICK574 collected ($0.13)
+
+
+
+PokerStars Hand #182115499076:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:55:35 ET
+Table 'Carpenter II' 9-max Seat #3 is the button
+Seat 1: StandBy13 ($2.45 in chips) 
+Seat 2: Bily Bo ($2.43 in chips) 
+Seat 3: RAMZES_BLR ($2 in chips) 
+Seat 4: Addicted8804 ($2 in chips) 
+Seat 5: rideamus94 ($1.01 in chips) 
+Seat 6: lucasfrei240 ($0.13 in chips) 
+Seat 7: vcrocksnj ($2 in chips) 
+Seat 8: ollikahn23 ($2.39 in chips) 
+Seat 9: DRUMSTICK574 ($1.26 in chips) 
+Addicted8804: posts small blind $0.01
+rideamus94: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8s 3c]
+lucasfrei240: folds 
+vcrocksnj: folds 
+ollikahn23: folds 
+DRUMSTICK574: raises $0.04 to $0.06
+StandBy13: folds 
+Bily Bo: folds 
+RAMZES_BLR: folds 
+Addicted8804: raises $0.14 to $0.20
+rideamus94: folds 
+DRUMSTICK574: calls $0.14
+*** FLOP *** [2c Kd 3s]
+Addicted8804: checks 
+DRUMSTICK574: bets $0.21
+Addicted8804: folds 
+Uncalled bet ($0.21) returned to DRUMSTICK574
+DRUMSTICK574 collected $0.41 from pot
+DRUMSTICK574: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.42 | Rake $0.01 
+Board [2c Kd 3s]
+Seat 1: StandBy13 folded before Flop (didn't bet)
+Seat 2: Bily Bo folded before Flop (didn't bet)
+Seat 3: RAMZES_BLR (button) folded before Flop (didn't bet)
+Seat 4: Addicted8804 (small blind) folded on the Flop
+Seat 5: rideamus94 (big blind) folded before Flop
+Seat 6: lucasfrei240 folded before Flop (didn't bet)
+Seat 7: vcrocksnj folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: DRUMSTICK574 collected ($0.41)
+
+
+
+PokerStars Hand #182115538620:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:56:33 ET
+Table 'Carpenter II' 9-max Seat #4 is the button
+Seat 1: StandBy13 ($2.45 in chips) 
+Seat 2: Bily Bo ($2.43 in chips) 
+Seat 3: RAMZES_BLR ($2 in chips) 
+Seat 4: Addicted8804 ($2 in chips) 
+Seat 5: rideamus94 ($0.99 in chips) 
+Seat 6: lucasfrei240 ($0.13 in chips) 
+Seat 7: vcrocksnj ($2 in chips) 
+Seat 8: ollikahn23 ($2.39 in chips) 
+Seat 9: DRUMSTICK574 ($1.47 in chips) 
+rideamus94: posts small blind $0.01
+lucasfrei240: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qs 5h]
+vcrocksnj: folds 
+ollikahn23: folds 
+DRUMSTICK574: calls $0.02
+StandBy13: folds 
+Bily Bo: folds 
+RAMZES_BLR: folds 
+Addicted8804: folds 
+rideamus94: calls $0.01
+lucasfrei240: checks 
+*** FLOP *** [7s 8s Kc]
+rideamus94: checks 
+lucasfrei240: checks 
+DRUMSTICK574: bets $0.03
+rideamus94: folds 
+lucasfrei240: folds 
+Uncalled bet ($0.03) returned to DRUMSTICK574
+DRUMSTICK574 collected $0.06 from pot
+DRUMSTICK574: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [7s 8s Kc]
+Seat 1: StandBy13 folded before Flop (didn't bet)
+Seat 2: Bily Bo folded before Flop (didn't bet)
+Seat 3: RAMZES_BLR folded before Flop (didn't bet)
+Seat 4: Addicted8804 (button) folded before Flop (didn't bet)
+Seat 5: rideamus94 (small blind) folded on the Flop
+Seat 6: lucasfrei240 (big blind) folded on the Flop
+Seat 7: vcrocksnj folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: DRUMSTICK574 collected ($0.06)
+
+
+
+PokerStars Hand #182115577919:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:57:30 ET
+Table 'Carpenter II' 9-max Seat #5 is the button
+Seat 1: StandBy13 ($2.45 in chips) 
+Seat 2: Bily Bo ($2.43 in chips) 
+Seat 3: RAMZES_BLR ($2 in chips) 
+Seat 4: Addicted8804 ($2 in chips) 
+Seat 5: rideamus94 ($0.97 in chips) 
+Seat 6: lucasfrei240 ($0.11 in chips) 
+Seat 7: vcrocksnj ($2 in chips) 
+Seat 8: ollikahn23 ($2.39 in chips) 
+Seat 9: DRUMSTICK574 ($1.51 in chips) 
+lucasfrei240: posts small blind $0.01
+vcrocksnj: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4c Tc]
+ollikahn23: folds 
+DRUMSTICK574: calls $0.02
+StandBy13: folds 
+Bily Bo: raises $0.04 to $0.06
+RAMZES_BLR: folds 
+Addicted8804: folds 
+rideamus94: calls $0.06
+lucasfrei240: folds 
+vcrocksnj: folds 
+DRUMSTICK574: calls $0.04
+*** FLOP *** [9h Ad 7c]
+DRUMSTICK574: checks 
+Bily Bo: bets $0.10
+rideamus94: calls $0.10
+DRUMSTICK574: folds 
+*** TURN *** [9h Ad 7c] [6s]
+Bily Bo: checks 
+rideamus94: bets $0.20
+Bily Bo: folds 
+Uncalled bet ($0.20) returned to rideamus94
+rideamus94 collected $0.40 from pot
+rideamus94: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.01 
+Board [9h Ad 7c 6s]
+Seat 1: StandBy13 folded before Flop (didn't bet)
+Seat 2: Bily Bo folded on the Turn
+Seat 3: RAMZES_BLR folded before Flop (didn't bet)
+Seat 4: Addicted8804 folded before Flop (didn't bet)
+Seat 5: rideamus94 (button) collected ($0.40)
+Seat 6: lucasfrei240 (small blind) folded before Flop
+Seat 7: vcrocksnj (big blind) folded before Flop
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: DRUMSTICK574 folded on the Flop
+
+
+
+PokerStars Hand #182115629174:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:58:31 ET
+Table 'Carpenter II' 9-max Seat #6 is the button
+Seat 1: StandBy13 ($2.45 in chips) 
+Seat 2: Bily Bo ($2.27 in chips) 
+Seat 3: RAMZES_BLR ($2 in chips) 
+Seat 4: Addicted8804 ($2 in chips) 
+Seat 5: rideamus94 ($1.21 in chips) 
+Seat 6: lucasfrei240 ($0.10 in chips) 
+Seat 7: vcrocksnj ($2 in chips) 
+Seat 8: ollikahn23 ($2.39 in chips) 
+Seat 9: DRUMSTICK574 ($1.45 in chips) 
+vcrocksnj: posts small blind $0.01
+ollikahn23: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qh Ah]
+DRUMSTICK574: raises $0.04 to $0.06
+StandBy13: folds 
+Bily Bo: folds 
+RAMZES_BLR: folds 
+Addicted8804: folds 
+rideamus94: folds 
+lucasfrei240: folds 
+vcrocksnj: folds 
+ollikahn23: calls $0.04
+*** FLOP *** [Ks 6s 4h]
+ollikahn23: checks 
+DRUMSTICK574: bets $0.07
+ollikahn23: folds 
+Uncalled bet ($0.07) returned to DRUMSTICK574
+DRUMSTICK574 collected $0.13 from pot
+DRUMSTICK574: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Ks 6s 4h]
+Seat 1: StandBy13 folded before Flop (didn't bet)
+Seat 2: Bily Bo folded before Flop (didn't bet)
+Seat 3: RAMZES_BLR folded before Flop (didn't bet)
+Seat 4: Addicted8804 folded before Flop (didn't bet)
+Seat 5: rideamus94 folded before Flop (didn't bet)
+Seat 6: lucasfrei240 (button) folded before Flop (didn't bet)
+Seat 7: vcrocksnj (small blind) folded before Flop
+Seat 8: ollikahn23 (big blind) folded on the Flop
+Seat 9: DRUMSTICK574 collected ($0.13)
+
+
+
+PokerStars Hand #182115670229:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:59:31 ET
+Table 'Carpenter II' 9-max Seat #7 is the button
+Seat 1: StandBy13 ($2.45 in chips) 
+Seat 2: Bily Bo ($2.27 in chips) 
+Seat 3: RAMZES_BLR ($2 in chips) 
+Seat 4: Addicted8804 ($2 in chips) 
+Seat 5: rideamus94 ($1.21 in chips) 
+Seat 6: lucasfrei240 ($0.10 in chips) 
+Seat 7: vcrocksnj ($2 in chips) 
+Seat 8: ollikahn23 ($2.33 in chips) 
+Seat 9: DRUMSTICK574 ($1.52 in chips) 
+ollikahn23: posts small blind $0.01
+DRUMSTICK574: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6h 4d]
+StandBy13: folds 
+Bily Bo: folds 
+RAMZES_BLR: folds 
+Addicted8804: folds 
+rideamus94: folds 
+lucasfrei240: calls $0.02
+vcrocksnj: raises $0.02 to $0.04
+ollikahn23: folds 
+DRUMSTICK574: calls $0.02
+lucasfrei240: calls $0.02
+*** FLOP *** [3c Kc Jh]
+DRUMSTICK574: checks 
+lucasfrei240: checks 
+vcrocksnj: checks 
+*** TURN *** [3c Kc Jh] [8s]
+DRUMSTICK574: bets $0.02
+lucasfrei240: folds 
+vcrocksnj: folds 
+Uncalled bet ($0.02) returned to DRUMSTICK574
+DRUMSTICK574 collected $0.13 from pot
+DRUMSTICK574: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [3c Kc Jh 8s]
+Seat 1: StandBy13 folded before Flop (didn't bet)
+Seat 2: Bily Bo folded before Flop (didn't bet)
+Seat 3: RAMZES_BLR folded before Flop (didn't bet)
+Seat 4: Addicted8804 folded before Flop (didn't bet)
+Seat 5: rideamus94 folded before Flop (didn't bet)
+Seat 6: lucasfrei240 folded on the Turn
+Seat 7: vcrocksnj (button) folded on the Turn
+Seat 8: ollikahn23 (small blind) folded before Flop
+Seat 9: DRUMSTICK574 (big blind) collected ($0.13)
+
+
+
+PokerStars Hand #182115715780:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 13:00:35 ET
+Table 'Carpenter II' 9-max Seat #8 is the button
+Seat 1: StandBy13 ($2.45 in chips) 
+Seat 2: Bily Bo ($2.27 in chips) 
+Seat 3: RAMZES_BLR ($2 in chips) 
+Seat 4: Addicted8804 ($2 in chips) 
+Seat 5: rideamus94 ($1.21 in chips) 
+Seat 6: lucasfrei240 ($0.06 in chips) 
+Seat 7: vcrocksnj ($2 in chips) 
+Seat 8: ollikahn23 ($2.32 in chips) 
+Seat 9: DRUMSTICK574 ($1.61 in chips) 
+DRUMSTICK574: posts small blind $0.01
+StandBy13: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7s 4h]
+Bily Bo: folds 
+RAMZES_BLR: folds 
+Addicted8804: raises $0.03 to $0.05
+rideamus94: folds 
+lucasfrei240: folds 
+vcrocksnj: folds 
+ollikahn23: folds 
+DRUMSTICK574: folds 
+StandBy13: folds 
+Uncalled bet ($0.03) returned to Addicted8804
+Addicted8804 collected $0.05 from pot
+Addicted8804: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: StandBy13 (big blind) folded before Flop
+Seat 2: Bily Bo folded before Flop (didn't bet)
+Seat 3: RAMZES_BLR folded before Flop (didn't bet)
+Seat 4: Addicted8804 collected ($0.05)
+Seat 5: rideamus94 folded before Flop (didn't bet)
+Seat 6: lucasfrei240 folded before Flop (didn't bet)
+Seat 7: vcrocksnj folded before Flop (didn't bet)
+Seat 8: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 9: DRUMSTICK574 (small blind) folded before Flop
+
+
+
+PokerStars Hand #182115740997:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 13:01:08 ET
+Table 'Carpenter II' 9-max Seat #9 is the button
+Seat 1: StandBy13 ($2.43 in chips) 
+Seat 2: Bily Bo ($2.27 in chips) 
+Seat 3: RAMZES_BLR ($2 in chips) 
+Seat 4: Addicted8804 ($2.03 in chips) 
+Seat 5: rideamus94 ($1.21 in chips) 
+Seat 6: lucasfrei240 ($0.06 in chips) 
+Seat 7: vcrocksnj ($2 in chips) 
+Seat 8: ollikahn23 ($2.32 in chips) 
+Seat 9: DRUMSTICK574 ($1.60 in chips) 
+StandBy13: posts small blind $0.01
+Bily Bo: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3s Ad]
+RAMZES_BLR: folds 
+Addicted8804: folds 
+rideamus94: folds 
+lucasfrei240: folds 
+vcrocksnj: calls $0.02
+ollikahn23: folds 
+DRUMSTICK574: raises $0.02 to $0.04
+StandBy13: folds 
+Bily Bo: calls $0.02
+vcrocksnj: calls $0.02
+*** FLOP *** [Ac Td 4c]
+Bily Bo: checks 
+vcrocksnj: checks 
+DRUMSTICK574: bets $0.07
+Bily Bo: calls $0.07
+vcrocksnj: folds 
+*** TURN *** [Ac Td 4c] [6h]
+Bily Bo: checks 
+DRUMSTICK574: checks 
+*** RIVER *** [Ac Td 4c 6h] [8d]
+Bily Bo: checks 
+DRUMSTICK574: checks 
+*** SHOW DOWN ***
+Bily Bo: shows [9c 3c] (high card Ace)
+DRUMSTICK574: shows [Jd Ks] (high card Ace - King kicker)
+DRUMSTICK574 collected $0.26 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [Ac Td 4c 6h 8d]
+Seat 1: StandBy13 (small blind) folded before Flop
+Seat 2: Bily Bo (big blind) showed [9c 3c] and lost with high card Ace
+Seat 3: RAMZES_BLR folded before Flop (didn't bet)
+Seat 4: Addicted8804 folded before Flop (didn't bet)
+Seat 5: rideamus94 folded before Flop (didn't bet)
+Seat 6: lucasfrei240 folded before Flop (didn't bet)
+Seat 7: vcrocksnj folded on the Flop
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: DRUMSTICK574 (button) showed [Jd Ks] and won ($0.26) with high card Ace
+
+
+
+PokerStars Hand #182115785609:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 13:02:03 ET
+Table 'Carpenter II' 9-max Seat #1 is the button
+Seat 1: StandBy13 ($2.42 in chips) 
+Seat 2: Bily Bo ($2.16 in chips) 
+Seat 3: RAMZES_BLR ($2 in chips) 
+Seat 4: Addicted8804 ($2.03 in chips) 
+Seat 5: rideamus94 ($1.21 in chips) 
+Seat 6: lucasfrei240 ($0.06 in chips) 
+Seat 7: vcrocksnj ($2 in chips) 
+Seat 8: ollikahn23 ($2.32 in chips) 
+Seat 9: DRUMSTICK574 ($1.75 in chips) 
+Bily Bo: posts small blind $0.01
+RAMZES_BLR: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2h 6s]
+Addicted8804: folds 
+rideamus94: folds 
+lucasfrei240: folds 
+vcrocksnj: folds 
+ollikahn23: folds 
+DRUMSTICK574: calls $0.02
+StandBy13: raises $0.06 to $0.08
+Bily Bo: folds 
+RAMZES_BLR: folds 
+DRUMSTICK574: calls $0.06
+*** FLOP *** [Kd 7c 9c]
+DRUMSTICK574: checks 
+StandBy13: bets $0.12
+DRUMSTICK574: calls $0.12
+*** TURN *** [Kd 7c 9c] [4s]
+DRUMSTICK574: checks 
+StandBy13: checks 
+*** RIVER *** [Kd 7c 9c 4s] [Kc]
+DRUMSTICK574: bets $0.08
+StandBy13: folds 
+Uncalled bet ($0.08) returned to DRUMSTICK574
+DRUMSTICK574 collected $0.41 from pot
+DRUMSTICK574: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02 
+Board [Kd 7c 9c 4s Kc]
+Seat 1: StandBy13 (button) folded on the River
+Seat 2: Bily Bo (small blind) folded before Flop
+Seat 3: RAMZES_BLR (big blind) folded before Flop
+Seat 4: Addicted8804 folded before Flop (didn't bet)
+Seat 5: rideamus94 folded before Flop (didn't bet)
+Seat 6: lucasfrei240 folded before Flop (didn't bet)
+Seat 7: vcrocksnj folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: DRUMSTICK574 collected ($0.41)
+
+
+
+PokerStars Hand #182115851365:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 13:03:21 ET
+Table 'Carpenter II' 9-max Seat #2 is the button
+Seat 1: StandBy13 ($2.22 in chips) 
+Seat 2: Bily Bo ($2.15 in chips) 
+Seat 3: RAMZES_BLR ($2 in chips) 
+Seat 4: Addicted8804 ($2.03 in chips) 
+Seat 5: rideamus94 ($1.21 in chips) 
+Seat 6: lucasfrei240 ($0.06 in chips) 
+Seat 7: vcrocksnj ($2 in chips) 
+Seat 8: ollikahn23 ($2.32 in chips) 
+Seat 9: DRUMSTICK574 ($1.96 in chips) 
+RAMZES_BLR: posts small blind $0.01
+Addicted8804: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2s Jc]
+rideamus94: folds 
+lucasfrei240: folds 
+vcrocksnj: folds 
+ollikahn23: folds 
+DRUMSTICK574: calls $0.02
+StandBy13: folds 
+Bily Bo: raises $0.04 to $0.06
+RAMZES_BLR: folds 
+Addicted8804: calls $0.04
+DRUMSTICK574: calls $0.04
+*** FLOP *** [Kc Qh 8s]
+Addicted8804: checks 
+DRUMSTICK574: bets $0.02
+Bily Bo: calls $0.02
+Addicted8804: folds 
+*** TURN *** [Kc Qh 8s] [6d]
+DRUMSTICK574: bets $0.04
+Bily Bo: calls $0.04
+*** RIVER *** [Kc Qh 8s 6d] [Jh]
+DRUMSTICK574: bets $0.04
+Bily Bo: folds 
+Uncalled bet ($0.04) returned to DRUMSTICK574
+DRUMSTICK574 collected $0.30 from pot
+DRUMSTICK574: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [Kc Qh 8s 6d Jh]
+Seat 1: StandBy13 folded before Flop (didn't bet)
+Seat 2: Bily Bo (button) folded on the River
+Seat 3: RAMZES_BLR (small blind) folded before Flop
+Seat 4: Addicted8804 (big blind) folded on the Flop
+Seat 5: rideamus94 folded before Flop (didn't bet)
+Seat 6: lucasfrei240 folded before Flop (didn't bet)
+Seat 7: vcrocksnj folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: DRUMSTICK574 collected ($0.30)
+
+
+
+PokerStars Hand #182115930253:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 13:04:54 ET
+Table 'Carpenter II' 9-max Seat #3 is the button
+Seat 1: StandBy13 ($2.22 in chips) 
+Seat 2: Bily Bo ($2.03 in chips) 
+Seat 3: RAMZES_BLR ($2 in chips) 
+Seat 4: Addicted8804 ($2 in chips) 
+Seat 5: rideamus94 ($1.21 in chips) 
+Seat 6: lucasfrei240 ($0.06 in chips) 
+Seat 7: vcrocksnj ($2 in chips) 
+Seat 8: ollikahn23 ($2.32 in chips) 
+Seat 9: DRUMSTICK574 ($2.14 in chips) 
+Addicted8804: posts small blind $0.01
+rideamus94: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ts Th]
+lucasfrei240: folds 
+vcrocksnj: folds 
+ollikahn23: raises $0.06 to $0.08
+DRUMSTICK574: folds 
+StandBy13: folds 
+Bily Bo: folds 
+RAMZES_BLR: folds 
+Addicted8804: folds 
+rideamus94: raises $0.10 to $0.18
+ollikahn23: calls $0.10
+*** FLOP *** [7c Qh Kh]
+rideamus94: bets $0.20
+ollikahn23: folds 
+Uncalled bet ($0.20) returned to rideamus94
+rideamus94 collected $0.36 from pot
+rideamus94: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01 
+Board [7c Qh Kh]
+Seat 1: StandBy13 folded before Flop (didn't bet)
+Seat 2: Bily Bo folded before Flop (didn't bet)
+Seat 3: RAMZES_BLR (button) folded before Flop (didn't bet)
+Seat 4: Addicted8804 (small blind) folded before Flop
+Seat 5: rideamus94 (big blind) collected ($0.36)
+Seat 6: lucasfrei240 folded before Flop (didn't bet)
+Seat 7: vcrocksnj folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded on the Flop
+Seat 9: DRUMSTICK574 folded before Flop (didn't bet)
+
+
+

@@ -1,0 +1,3018 @@
+﻿PokerStars Hand #182113633969:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:17:14 ET
+Table 'Ontake II' 9-max Seat #2 is the button
+Seat 1: Filonous ($2.04 in chips) 
+Seat 2: neuge04 ($5.17 in chips) 
+Seat 3: DQA Shark ($2 in chips) 
+Seat 4: ollikahn23 ($2 in chips) 
+Seat 5: eldarinho05 ($2.02 in chips) 
+Seat 6: Cezar164 ($0.91 in chips) 
+Seat 7: norma_bro_57 ($1.36 in chips) 
+Seat 8: Tosechka ($1.36 in chips) 
+Seat 9: 4Rchy ($2 in chips) 
+DQA Shark: posts small blind $0.01
+ollikahn23: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qs 2s]
+eldarinho05: folds 
+Cezar164: folds 
+norma_bro_57: raises $0.02 to $0.04
+Tosechka: folds 
+4Rchy: raises $0.04 to $0.08
+Filonous: folds 
+neuge04: calls $0.08
+DQA Shark: folds 
+ollikahn23: folds 
+norma_bro_57: calls $0.04
+*** FLOP *** [Js 2c 8c]
+norma_bro_57: checks 
+4Rchy: checks 
+neuge04: checks 
+*** TURN *** [Js 2c 8c] [8d]
+norma_bro_57: bets $0.18
+4Rchy: folds 
+neuge04: folds 
+Uncalled bet ($0.18) returned to norma_bro_57
+norma_bro_57 collected $0.26 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [Js 2c 8c 8d]
+Seat 1: Filonous folded before Flop (didn't bet)
+Seat 2: neuge04 (button) folded on the Turn
+Seat 3: DQA Shark (small blind) folded before Flop
+Seat 4: ollikahn23 (big blind) folded before Flop
+Seat 5: eldarinho05 folded before Flop (didn't bet)
+Seat 6: Cezar164 folded before Flop (didn't bet)
+Seat 7: norma_bro_57 collected ($0.26)
+Seat 8: Tosechka folded before Flop (didn't bet)
+Seat 9: 4Rchy folded on the Turn
+
+
+
+PokerStars Hand #182113694073:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:18:29 ET
+Table 'Ontake II' 9-max Seat #3 is the button
+Seat 1: Filonous ($2.04 in chips) 
+Seat 2: neuge04 ($5.09 in chips) 
+Seat 3: DQA Shark ($2 in chips) 
+Seat 4: ollikahn23 ($2 in chips) 
+Seat 5: eldarinho05 ($2.02 in chips) 
+Seat 6: Cezar164 ($0.91 in chips) 
+Seat 7: norma_bro_57 ($1.54 in chips) 
+Seat 8: Tosechka ($1.36 in chips) 
+Seat 9: 4Rchy ($2 in chips) 
+ollikahn23: posts small blind $0.01
+eldarinho05: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8d 2c]
+Cezar164: folds 
+norma_bro_57: raises $0.02 to $0.04
+Tosechka: calls $0.04
+4Rchy: folds 
+Filonous: folds 
+neuge04: calls $0.04
+DQA Shark: folds 
+ollikahn23: folds 
+eldarinho05: calls $0.02
+*** FLOP *** [2s 7s 7d]
+eldarinho05: checks 
+norma_bro_57: bets $0.10
+Tosechka: calls $0.10
+neuge04: calls $0.10
+eldarinho05: folds 
+*** TURN *** [2s 7s 7d] [9d]
+norma_bro_57: bets $0.10
+Tosechka: calls $0.10
+neuge04: calls $0.10
+*** RIVER *** [2s 7s 7d 9d] [8s]
+norma_bro_57: checks 
+Tosechka: checks 
+neuge04: checks 
+*** SHOW DOWN ***
+norma_bro_57: shows [Kd Js] (a pair of Sevens)
+Tosechka: shows [Ad Th] (a pair of Sevens - Ace kicker)
+neuge04: shows [3h 3d] (two pair, Sevens and Threes)
+neuge04 collected $0.74 from pot
+*** SUMMARY ***
+Total pot $0.77 | Rake $0.03 
+Board [2s 7s 7d 9d 8s]
+Seat 1: Filonous folded before Flop (didn't bet)
+Seat 2: neuge04 showed [3h 3d] and won ($0.74) with two pair, Sevens and Threes
+Seat 3: DQA Shark (button) folded before Flop (didn't bet)
+Seat 4: ollikahn23 (small blind) folded before Flop
+Seat 5: eldarinho05 (big blind) folded on the Flop
+Seat 6: Cezar164 folded before Flop (didn't bet)
+Seat 7: norma_bro_57 showed [Kd Js] and lost with a pair of Sevens
+Seat 8: Tosechka showed [Ad Th] and lost with a pair of Sevens
+Seat 9: 4Rchy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182113749114:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:19:39 ET
+Table 'Ontake II' 9-max Seat #4 is the button
+Seat 1: Filonous ($2.04 in chips) 
+Seat 2: neuge04 ($5.59 in chips) 
+Seat 3: DQA Shark ($2 in chips) 
+Seat 4: ollikahn23 ($2 in chips) 
+Seat 5: eldarinho05 ($2 in chips) 
+Seat 6: Cezar164 ($0.91 in chips) 
+Seat 7: norma_bro_57 ($1.30 in chips) 
+Seat 8: Tosechka ($1.12 in chips) 
+Seat 9: 4Rchy ($2 in chips) 
+eldarinho05: posts small blind $0.01
+Cezar164: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4h Jc]
+norma_bro_57: calls $0.02
+Tosechka: raises $0.06 to $0.08
+4Rchy: folds 
+Filonous: folds 
+neuge04: calls $0.08
+DQA Shark: folds 
+ollikahn23: folds 
+eldarinho05: folds 
+Cezar164: folds 
+norma_bro_57: calls $0.06
+*** FLOP *** [6d Th 6s]
+norma_bro_57: checks 
+Tosechka: bets $0.26
+neuge04: folds 
+norma_bro_57: folds 
+Uncalled bet ($0.26) returned to Tosechka
+Tosechka collected $0.26 from pot
+Tosechka: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [6d Th 6s]
+Seat 1: Filonous folded before Flop (didn't bet)
+Seat 2: neuge04 folded on the Flop
+Seat 3: DQA Shark folded before Flop (didn't bet)
+Seat 4: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 5: eldarinho05 (small blind) folded before Flop
+Seat 6: Cezar164 (big blind) folded before Flop
+Seat 7: norma_bro_57 folded on the Flop
+Seat 8: Tosechka collected ($0.26)
+Seat 9: 4Rchy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182113799215:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:20:42 ET
+Table 'Ontake II' 9-max Seat #5 is the button
+Seat 1: Filonous ($2.04 in chips) 
+Seat 2: neuge04 ($5.51 in chips) 
+Seat 3: DQA Shark ($2 in chips) 
+Seat 4: ollikahn23 ($2 in chips) 
+Seat 5: eldarinho05 ($2 in chips) 
+Seat 6: Cezar164 ($0.89 in chips) 
+Seat 7: norma_bro_57 ($1.22 in chips) 
+Seat 8: Tosechka ($1.30 in chips) 
+Seat 9: 4Rchy ($2 in chips) 
+Cezar164: posts small blind $0.01
+norma_bro_57: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6h Qh]
+Tosechka: raises $0.06 to $0.08
+4Rchy: folds 
+Filonous: folds 
+neuge04: folds 
+DQA Shark: folds 
+ollikahn23: folds 
+eldarinho05: folds 
+Cezar164: folds 
+norma_bro_57: folds 
+Uncalled bet ($0.06) returned to Tosechka
+Tosechka collected $0.05 from pot
+Tosechka: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Filonous folded before Flop (didn't bet)
+Seat 2: neuge04 folded before Flop (didn't bet)
+Seat 3: DQA Shark folded before Flop (didn't bet)
+Seat 4: ollikahn23 folded before Flop (didn't bet)
+Seat 5: eldarinho05 (button) folded before Flop (didn't bet)
+Seat 6: Cezar164 (small blind) folded before Flop
+Seat 7: norma_bro_57 (big blind) folded before Flop
+Seat 8: Tosechka collected ($0.05)
+Seat 9: 4Rchy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182113819708:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:21:07 ET
+Table 'Ontake II' 9-max Seat #6 is the button
+Seat 1: Filonous ($2.04 in chips) 
+Seat 2: neuge04 ($5.51 in chips) 
+Seat 3: DQA Shark ($2 in chips) 
+Seat 4: ollikahn23 ($2 in chips) 
+Seat 5: eldarinho05 ($2 in chips) 
+Seat 6: Cezar164 ($0.88 in chips) 
+Seat 7: norma_bro_57 ($1.20 in chips) 
+Seat 8: Tosechka ($1.33 in chips) 
+Seat 9: 4Rchy ($2 in chips) 
+norma_bro_57: posts small blind $0.01
+Tosechka: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7d 5c]
+4Rchy: folds 
+Filonous: folds 
+neuge04: folds 
+DQA Shark: folds 
+ollikahn23: folds 
+eldarinho05: folds 
+Cezar164: folds 
+norma_bro_57: raises $0.02 to $0.04
+Tosechka: calls $0.02
+*** FLOP *** [Ah 7h 7s]
+norma_bro_57: bets $0.08
+Tosechka: calls $0.08
+*** TURN *** [Ah 7h 7s] [Ts]
+norma_bro_57: bets $0.23
+Tosechka: calls $0.23
+*** RIVER *** [Ah 7h 7s Ts] [9h]
+norma_bro_57: checks 
+Tosechka: bets $0.04
+norma_bro_57: raises $0.30 to $0.34
+Tosechka: raises $0.64 to $0.98 and is all-in
+norma_bro_57: calls $0.51 and is all-in
+Uncalled bet ($0.13) returned to Tosechka
+*** SHOW DOWN ***
+Tosechka: shows [Qh 2h] (a flush, Ace high)
+norma_bro_57: shows [3c Ad] (two pair, Aces and Sevens)
+Tosechka collected $2.32 from pot
+*** SUMMARY ***
+Total pot $2.40 | Rake $0.08 
+Board [Ah 7h 7s Ts 9h]
+Seat 1: Filonous folded before Flop (didn't bet)
+Seat 2: neuge04 folded before Flop (didn't bet)
+Seat 3: DQA Shark folded before Flop (didn't bet)
+Seat 4: ollikahn23 folded before Flop (didn't bet)
+Seat 5: eldarinho05 folded before Flop (didn't bet)
+Seat 6: Cezar164 (button) folded before Flop (didn't bet)
+Seat 7: norma_bro_57 (small blind) showed [3c Ad] and lost with two pair, Aces and Sevens
+Seat 8: Tosechka (big blind) showed [Qh 2h] and won ($2.32) with a flush, Ace high
+Seat 9: 4Rchy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182113868200:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:22:08 ET
+Table 'Ontake II' 9-max Seat #8 is the button
+Seat 1: Filonous ($2.04 in chips) 
+Seat 2: neuge04 ($5.51 in chips) 
+Seat 3: DQA Shark ($2 in chips) 
+Seat 4: ollikahn23 ($2 in chips) 
+Seat 5: eldarinho05 ($2 in chips) 
+Seat 6: Cezar164 ($0.88 in chips) 
+Seat 8: Tosechka ($2.45 in chips) 
+Seat 9: 4Rchy ($2 in chips) 
+4Rchy: posts small blind $0.01
+Filonous: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5s 6c]
+neuge04: calls $0.02
+DQA Shark: folds 
+ollikahn23: folds 
+eldarinho05: calls $0.02
+Cezar164: folds 
+Tosechka: calls $0.02
+4Rchy: folds 
+Filonous: checks 
+*** FLOP *** [6d 3s 5c]
+Filonous: bets $0.06
+neuge04: calls $0.06
+eldarinho05: folds 
+Tosechka: calls $0.06
+*** TURN *** [6d 3s 5c] [Jc]
+Filonous: bets $0.13
+neuge04: calls $0.13
+Tosechka: folds 
+*** RIVER *** [6d 3s 5c Jc] [3d]
+Filonous: bets $0.26
+neuge04: folds 
+Uncalled bet ($0.26) returned to Filonous
+Filonous collected $0.51 from pot
+Filonous: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.53 | Rake $0.02 
+Board [6d 3s 5c Jc 3d]
+Seat 1: Filonous (big blind) collected ($0.51)
+Seat 2: neuge04 folded on the River
+Seat 3: DQA Shark folded before Flop (didn't bet)
+Seat 4: ollikahn23 folded before Flop (didn't bet)
+Seat 5: eldarinho05 folded on the Flop
+Seat 6: Cezar164 folded before Flop (didn't bet)
+Seat 8: Tosechka (button) folded on the Turn
+Seat 9: 4Rchy (small blind) folded before Flop
+
+
+
+PokerStars Hand #182113926149:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:23:21 ET
+Table 'Ontake II' 9-max Seat #9 is the button
+Seat 1: Filonous ($2.34 in chips) 
+Seat 2: neuge04 ($5.30 in chips) 
+Seat 3: DQA Shark ($2 in chips) 
+Seat 4: ollikahn23 ($2 in chips) 
+Seat 5: eldarinho05 ($2 in chips) 
+Seat 6: Cezar164 ($0.88 in chips) 
+Seat 7: norma_bro_57 ($0.80 in chips) 
+Seat 8: Tosechka ($2.37 in chips) 
+Seat 9: 4Rchy ($2 in chips) 
+Filonous: posts small blind $0.01
+neuge04: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8s 6d]
+DQA Shark: folds 
+ollikahn23: folds 
+eldarinho05: folds 
+Cezar164: folds 
+norma_bro_57: raises $0.02 to $0.04
+Tosechka: folds 
+4Rchy: folds 
+Filonous: folds 
+neuge04: calls $0.02
+*** FLOP *** [4c Jh Ad]
+neuge04: checks 
+norma_bro_57: checks 
+*** TURN *** [4c Jh Ad] [Jc]
+neuge04: checks 
+norma_bro_57: bets $0.06
+neuge04: calls $0.06
+*** RIVER *** [4c Jh Ad Jc] [Th]
+neuge04: checks 
+norma_bro_57: checks 
+*** SHOW DOWN ***
+neuge04: shows [Jd 5d] (three of a kind, Jacks)
+norma_bro_57: mucks hand 
+neuge04 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [4c Jh Ad Jc Th]
+Seat 1: Filonous (small blind) folded before Flop
+Seat 2: neuge04 (big blind) showed [Jd 5d] and won ($0.20) with three of a kind, Jacks
+Seat 3: DQA Shark folded before Flop (didn't bet)
+Seat 4: ollikahn23 folded before Flop (didn't bet)
+Seat 5: eldarinho05 folded before Flop (didn't bet)
+Seat 6: Cezar164 folded before Flop (didn't bet)
+Seat 7: norma_bro_57 mucked [4h 6s]
+Seat 8: Tosechka folded before Flop (didn't bet)
+Seat 9: 4Rchy (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182113973647:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:24:20 ET
+Table 'Ontake II' 9-max Seat #1 is the button
+Seat 1: Filonous ($2.33 in chips) 
+Seat 2: neuge04 ($5.40 in chips) 
+Seat 3: DQA Shark ($2 in chips) 
+Seat 4: ollikahn23 ($2 in chips) 
+Seat 5: eldarinho05 ($2 in chips) 
+Seat 6: Cezar164 ($0.88 in chips) 
+Seat 7: norma_bro_57 ($0.70 in chips) 
+Seat 8: Tosechka ($2.37 in chips) 
+Seat 9: 4Rchy ($2 in chips) 
+neuge04: posts small blind $0.01
+DQA Shark: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ac Jc]
+ollikahn23: raises $0.04 to $0.06
+eldarinho05: folds 
+Cezar164: folds 
+norma_bro_57: folds 
+Tosechka: folds 
+4Rchy: folds 
+Filonous: folds 
+neuge04: folds 
+DQA Shark: calls $0.04
+*** FLOP *** [7h Td 9d]
+DQA Shark: checks 
+ollikahn23: bets $0.08
+DQA Shark: folds 
+Uncalled bet ($0.08) returned to ollikahn23
+ollikahn23 collected $0.13 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [7h Td 9d]
+Seat 1: Filonous (button) folded before Flop (didn't bet)
+Seat 2: neuge04 (small blind) folded before Flop
+Seat 3: DQA Shark (big blind) folded on the Flop
+Seat 4: ollikahn23 collected ($0.13)
+Seat 5: eldarinho05 folded before Flop (didn't bet)
+Seat 6: Cezar164 folded before Flop (didn't bet)
+Seat 7: norma_bro_57 folded before Flop (didn't bet)
+Seat 8: Tosechka folded before Flop (didn't bet)
+Seat 9: 4Rchy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182113997886:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:24:51 ET
+Table 'Ontake II' 9-max Seat #2 is the button
+Seat 1: Filonous ($2.33 in chips) 
+Seat 2: neuge04 ($5.39 in chips) 
+Seat 3: DQA Shark ($2 in chips) 
+Seat 4: ollikahn23 ($2.07 in chips) 
+Seat 5: eldarinho05 ($2 in chips) 
+Seat 6: Cezar164 ($0.88 in chips) 
+Seat 7: norma_bro_57 ($0.70 in chips) 
+Seat 8: Tosechka ($2.37 in chips) 
+Seat 9: 4Rchy ($2 in chips) 
+DQA Shark: posts small blind $0.01
+ollikahn23: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5c 9s]
+eldarinho05: folds 
+Cezar164: folds 
+norma_bro_57 has timed out
+norma_bro_57: folds 
+Tosechka: folds 
+4Rchy: folds 
+Filonous: folds 
+neuge04: raises $0.02 to $0.04
+DQA Shark: calls $0.03
+ollikahn23: folds 
+*** FLOP *** [Ks Qd Js]
+DQA Shark: checks 
+neuge04: checks 
+*** TURN *** [Ks Qd Js] [9h]
+DQA Shark: checks 
+neuge04: bets $0.02
+DQA Shark: calls $0.02
+*** RIVER *** [Ks Qd Js 9h] [6h]
+DQA Shark: checks 
+neuge04: bets $0.04
+DQA Shark: folds 
+Uncalled bet ($0.04) returned to neuge04
+neuge04 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [Ks Qd Js 9h 6h]
+Seat 1: Filonous folded before Flop (didn't bet)
+Seat 2: neuge04 (button) collected ($0.14)
+Seat 3: DQA Shark (small blind) folded on the River
+Seat 4: ollikahn23 (big blind) folded before Flop
+Seat 5: eldarinho05 folded before Flop (didn't bet)
+Seat 6: Cezar164 folded before Flop (didn't bet)
+Seat 7: norma_bro_57 folded before Flop (didn't bet)
+Seat 8: Tosechka folded before Flop (didn't bet)
+Seat 9: 4Rchy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114030335:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:25:31 ET
+Table 'Ontake II' 9-max Seat #3 is the button
+Seat 1: Filonous ($2.33 in chips) 
+Seat 2: neuge04 ($5.47 in chips) 
+Seat 3: DQA Shark ($2 in chips) 
+Seat 4: ollikahn23 ($2.05 in chips) 
+Seat 5: eldarinho05 ($2 in chips) 
+Seat 6: Cezar164 ($0.88 in chips) 
+Seat 7: norma_bro_57 ($0.70 in chips) 
+Seat 8: Tosechka ($2.37 in chips) 
+Seat 9: 4Rchy ($2 in chips) 
+ollikahn23: posts small blind $0.01
+eldarinho05: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7d 5h]
+Cezar164: folds 
+norma_bro_57: folds 
+Tosechka: raises $0.05 to $0.07
+4Rchy: folds 
+Filonous: raises $0.15 to $0.22
+neuge04: folds 
+DQA Shark: folds 
+ollikahn23: folds 
+eldarinho05: folds 
+Tosechka: calls $0.15
+*** FLOP *** [4d 3d 4h]
+Tosechka: checks 
+Filonous: bets $0.26
+Tosechka: calls $0.26
+*** TURN *** [4d 3d 4h] [Kc]
+Tosechka: bets $0.96
+Filonous: calls $0.96
+*** RIVER *** [4d 3d 4h Kc] [Kd]
+Tosechka: bets $0.93 and is all-in
+Filonous: calls $0.89 and is all-in
+Uncalled bet ($0.04) returned to Tosechka
+*** SHOW DOWN ***
+Tosechka: shows [Jh Kh] (a full house, Kings full of Fours)
+Filonous: shows [Ad Ah] (two pair, Aces and Kings)
+Tosechka collected $4.53 from pot
+*** SUMMARY ***
+Total pot $4.69 | Rake $0.16 
+Board [4d 3d 4h Kc Kd]
+Seat 1: Filonous showed [Ad Ah] and lost with two pair, Aces and Kings
+Seat 2: neuge04 folded before Flop (didn't bet)
+Seat 3: DQA Shark (button) folded before Flop (didn't bet)
+Seat 4: ollikahn23 (small blind) folded before Flop
+Seat 5: eldarinho05 (big blind) folded before Flop
+Seat 6: Cezar164 folded before Flop (didn't bet)
+Seat 7: norma_bro_57 folded before Flop (didn't bet)
+Seat 8: Tosechka showed [Jh Kh] and won ($4.53) with a full house, Kings full of Fours
+Seat 9: 4Rchy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114077937:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:26:31 ET
+Table 'Ontake II' 9-max Seat #4 is the button
+Seat 1: Filonous ($2 in chips) 
+Seat 2: neuge04 ($5.47 in chips) 
+Seat 3: DQA Shark ($2 in chips) 
+Seat 4: ollikahn23 ($2.04 in chips) 
+Seat 5: eldarinho05 ($2 in chips) 
+Seat 6: Cezar164 ($0.88 in chips) 
+Seat 7: norma_bro_57 ($0.70 in chips) 
+Seat 8: Tosechka ($4.57 in chips) 
+Seat 9: 4Rchy ($2 in chips) 
+eldarinho05: posts small blind $0.01
+Cezar164: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kc Tc]
+norma_bro_57: raises $0.04 to $0.06
+Tosechka: calls $0.06
+4Rchy: calls $0.06
+Filonous: folds 
+neuge04: folds 
+DQA Shark: folds 
+ollikahn23: calls $0.06
+eldarinho05: folds 
+Cezar164: calls $0.04
+*** FLOP *** [9d Js 8h]
+Cezar164: bets $0.82 and is all-in
+norma_bro_57: folds 
+Tosechka: folds 
+4Rchy: folds 
+ollikahn23: folds 
+Uncalled bet ($0.82) returned to Cezar164
+Cezar164 collected $0.30 from pot
+*** SUMMARY ***
+Total pot $0.31 | Rake $0.01 
+Board [9d Js 8h]
+Seat 1: Filonous folded before Flop (didn't bet)
+Seat 2: neuge04 folded before Flop (didn't bet)
+Seat 3: DQA Shark folded before Flop (didn't bet)
+Seat 4: ollikahn23 (button) folded on the Flop
+Seat 5: eldarinho05 (small blind) folded before Flop
+Seat 6: Cezar164 (big blind) collected ($0.30)
+Seat 7: norma_bro_57 folded on the Flop
+Seat 8: Tosechka folded on the Flop
+Seat 9: 4Rchy folded on the Flop
+
+
+
+PokerStars Hand #182114106384:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:27:07 ET
+Table 'Ontake II' 9-max Seat #5 is the button
+Seat 1: Filonous ($2 in chips) 
+Seat 2: neuge04 ($5.47 in chips) 
+Seat 3: DQA Shark ($2 in chips) 
+Seat 4: ollikahn23 ($2 in chips) 
+Seat 5: eldarinho05 ($2 in chips) 
+Seat 6: Cezar164 ($1.12 in chips) 
+Seat 7: norma_bro_57 ($0.64 in chips) 
+Seat 8: Tosechka ($4.51 in chips) 
+Seat 9: 4Rchy ($2 in chips) 
+Cezar164: posts small blind $0.01
+norma_bro_57: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Js Th]
+Tosechka: folds 
+4Rchy: folds 
+Filonous: folds 
+neuge04: calls $0.02
+DQA Shark: folds 
+ollikahn23: folds 
+eldarinho05: folds 
+Cezar164: folds 
+norma_bro_57: checks 
+*** FLOP *** [5d 6c 6d]
+norma_bro_57: bets $0.02
+neuge04: folds 
+Uncalled bet ($0.02) returned to norma_bro_57
+Tosechka leaves the table
+norma_bro_57 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [5d 6c 6d]
+Seat 1: Filonous folded before Flop (didn't bet)
+Seat 2: neuge04 folded on the Flop
+Seat 3: DQA Shark folded before Flop (didn't bet)
+Seat 4: ollikahn23 folded before Flop (didn't bet)
+Seat 5: eldarinho05 (button) folded before Flop (didn't bet)
+Seat 6: Cezar164 (small blind) folded before Flop
+Seat 7: norma_bro_57 (big blind) collected ($0.05)
+Seat 8: Tosechka folded before Flop (didn't bet)
+Seat 9: 4Rchy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114134573:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:27:42 ET
+Table 'Ontake II' 9-max Seat #6 is the button
+Seat 1: Filonous ($2 in chips) 
+Seat 2: neuge04 ($5.45 in chips) 
+Seat 3: DQA Shark ($2 in chips) 
+Seat 4: ollikahn23 ($2 in chips) 
+Seat 5: eldarinho05 ($2 in chips) 
+Seat 6: Cezar164 ($1.11 in chips) 
+Seat 7: norma_bro_57 ($0.67 in chips) 
+Seat 9: 4Rchy ($2 in chips) 
+norma_bro_57: posts small blind $0.01
+4Rchy: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9d Qc]
+RAMZES_BLR joins the table at seat #8 
+Filonous: folds 
+neuge04: calls $0.02
+DQA Shark: folds 
+ollikahn23: folds 
+eldarinho05: raises $0.07 to $0.09
+Cezar164: folds 
+norma_bro_57: calls $0.08
+4Rchy: folds 
+neuge04: calls $0.07
+*** FLOP *** [Ks 8d Td]
+norma_bro_57: checks 
+neuge04: checks 
+eldarinho05: checks 
+*** TURN *** [Ks 8d Td] [Jd]
+norma_bro_57: bets $0.18
+neuge04: folds 
+eldarinho05: raises $1.73 to $1.91 and is all-in
+norma_bro_57: folds 
+Uncalled bet ($1.73) returned to eldarinho05
+eldarinho05 collected $0.63 from pot
+eldarinho05: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.02 
+Board [Ks 8d Td Jd]
+Seat 1: Filonous folded before Flop (didn't bet)
+Seat 2: neuge04 folded on the Turn
+Seat 3: DQA Shark folded before Flop (didn't bet)
+Seat 4: ollikahn23 folded before Flop (didn't bet)
+Seat 5: eldarinho05 collected ($0.63)
+Seat 6: Cezar164 (button) folded before Flop (didn't bet)
+Seat 7: norma_bro_57 (small blind) folded on the Turn
+Seat 9: 4Rchy (big blind) folded before Flop
+
+
+
+PokerStars Hand #182114184413:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:28:44 ET
+Table 'Ontake II' 9-max Seat #7 is the button
+Seat 1: Filonous ($2 in chips) 
+Seat 2: neuge04 ($5.36 in chips) 
+Seat 3: DQA Shark ($2 in chips) 
+Seat 4: ollikahn23 ($2 in chips) 
+Seat 5: eldarinho05 ($2.36 in chips) 
+Seat 6: Cezar164 ($1.11 in chips) 
+Seat 7: norma_bro_57 ($0.40 in chips) 
+Seat 9: 4Rchy ($2 in chips) 
+RAMZES_BLR will be allowed to play after the button
+4Rchy: posts small blind $0.01
+Filonous: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6h Jh]
+neuge04: calls $0.02
+DQA Shark: folds 
+ollikahn23: folds 
+eldarinho05: folds 
+Cezar164: folds 
+norma_bro_57: folds 
+4Rchy: folds 
+Filonous: checks 
+*** FLOP *** [9d Td 6s]
+Filonous: bets $0.03
+neuge04: calls $0.03
+*** TURN *** [9d Td 6s] [Qd]
+Filonous: checks 
+neuge04: checks 
+*** RIVER *** [9d Td 6s Qd] [3d]
+Filonous: bets $0.06
+neuge04: calls $0.06
+*** SHOW DOWN ***
+Filonous: shows [Kd Tc] (a flush, King high)
+neuge04: mucks hand 
+Filonous collected $0.22 from pot
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [9d Td 6s Qd 3d]
+Seat 1: Filonous (big blind) showed [Kd Tc] and won ($0.22) with a flush, King high
+Seat 2: neuge04 mucked [7d Ah]
+Seat 3: DQA Shark folded before Flop (didn't bet)
+Seat 4: ollikahn23 folded before Flop (didn't bet)
+Seat 5: eldarinho05 folded before Flop (didn't bet)
+Seat 6: Cezar164 folded before Flop (didn't bet)
+Seat 7: norma_bro_57 (button) folded before Flop (didn't bet)
+Seat 9: 4Rchy (small blind) folded before Flop
+
+
+
+PokerStars Hand #182114215373:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:29:22 ET
+Table 'Ontake II' 9-max Seat #9 is the button
+Seat 1: Filonous ($2.11 in chips) 
+Seat 2: neuge04 ($5.25 in chips) 
+Seat 3: DQA Shark ($2 in chips) 
+Seat 4: ollikahn23 ($2 in chips) 
+Seat 5: eldarinho05 ($2.36 in chips) 
+Seat 6: Cezar164 ($1.11 in chips) 
+Seat 7: norma_bro_57 ($0.40 in chips) 
+Seat 9: 4Rchy ($2 in chips) 
+Filonous: posts small blind $0.01
+neuge04: posts big blind $0.02
+RAMZES_BLR: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9c 5h]
+DQA Shark: folds 
+ollikahn23: folds 
+eldarinho05: folds 
+Cezar164: folds 
+norma_bro_57: raises $0.02 to $0.04
+4Rchy: folds 
+Filonous: folds 
+neuge04: calls $0.02
+*** FLOP *** [5s 7s As]
+neuge04: checks 
+norma_bro_57: checks 
+*** TURN *** [5s 7s As] [3d]
+neuge04: checks 
+norma_bro_57: checks 
+*** RIVER *** [5s 7s As 3d] [Qd]
+neuge04: checks 
+norma_bro_57: bets $0.09
+neuge04: calls $0.09
+*** SHOW DOWN ***
+norma_bro_57: shows [Ks 4s] (a flush, Ace high)
+neuge04: mucks hand 
+norma_bro_57 collected $0.26 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [5s 7s As 3d Qd]
+Seat 1: Filonous (small blind) folded before Flop
+Seat 2: neuge04 (big blind) mucked [7d Ts]
+Seat 3: DQA Shark folded before Flop (didn't bet)
+Seat 4: ollikahn23 folded before Flop (didn't bet)
+Seat 5: eldarinho05 folded before Flop (didn't bet)
+Seat 6: Cezar164 folded before Flop (didn't bet)
+Seat 7: norma_bro_57 showed [Ks 4s] and won ($0.26) with a flush, Ace high
+Seat 9: 4Rchy (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114244911:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:29:59 ET
+Table 'Ontake II' 9-max Seat #1 is the button
+Seat 1: Filonous ($2.10 in chips) 
+Seat 2: neuge04 ($5.12 in chips) 
+Seat 3: DQA Shark ($2 in chips) 
+Seat 4: ollikahn23 ($2 in chips) 
+Seat 5: eldarinho05 ($2.36 in chips) 
+Seat 6: Cezar164 ($1.11 in chips) 
+Seat 7: norma_bro_57 ($0.53 in chips) 
+Seat 9: 4Rchy ($2 in chips) 
+neuge04: posts small blind $0.01
+DQA Shark: posts big blind $0.02
+RAMZES_BLR: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6c Td]
+ollikahn23: folds 
+eldarinho05: raises $0.04 to $0.06
+Cezar164: folds 
+norma_bro_57: folds 
+4Rchy: folds 
+Filonous: calls $0.06
+neuge04: calls $0.05
+DQA Shark: folds 
+*** FLOP *** [4h Kd 4d]
+neuge04: checks 
+eldarinho05: bets $0.11
+Filonous: folds 
+neuge04: folds 
+Uncalled bet ($0.11) returned to eldarinho05
+eldarinho05 collected $0.19 from pot
+eldarinho05: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [4h Kd 4d]
+Seat 1: Filonous (button) folded on the Flop
+Seat 2: neuge04 (small blind) folded on the Flop
+Seat 3: DQA Shark (big blind) folded before Flop
+Seat 4: ollikahn23 folded before Flop (didn't bet)
+Seat 5: eldarinho05 collected ($0.19)
+Seat 6: Cezar164 folded before Flop (didn't bet)
+Seat 7: norma_bro_57 folded before Flop (didn't bet)
+Seat 9: 4Rchy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114275523:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:30:36 ET
+Table 'Ontake II' 9-max Seat #2 is the button
+Seat 1: Filonous ($2.04 in chips) 
+Seat 2: neuge04 ($5.06 in chips) 
+Seat 3: DQA Shark ($2 in chips) 
+Seat 4: ollikahn23 ($2 in chips) 
+Seat 5: eldarinho05 ($2.49 in chips) 
+Seat 6: Cezar164 ($1.11 in chips) 
+Seat 7: norma_bro_57 ($0.53 in chips) 
+Seat 9: 4Rchy ($2 in chips) 
+DQA Shark: posts small blind $0.01
+ollikahn23: posts big blind $0.02
+RAMZES_BLR: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8c 5c]
+eldarinho05: folds 
+Cezar164: folds 
+norma_bro_57 has timed out
+norma_bro_57: folds 
+4Rchy: raises $0.04 to $0.06
+Filonous: calls $0.06
+neuge04: folds 
+DQA Shark: folds 
+ollikahn23: folds 
+*** FLOP *** [5s Tc 3h]
+4Rchy: bets $0.07
+Filonous: calls $0.07
+*** TURN *** [5s Tc 3h] [Kd]
+4Rchy: checks 
+Filonous: checks 
+*** RIVER *** [5s Tc 3h Kd] [7h]
+4Rchy: bets $0.06
+Filonous: raises $0.34 to $0.40
+4Rchy: folds 
+Uncalled bet ($0.34) returned to Filonous
+Filonous collected $0.40 from pot
+Filonous: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.01 
+Board [5s Tc 3h Kd 7h]
+Seat 1: Filonous collected ($0.40)
+Seat 2: neuge04 (button) folded before Flop (didn't bet)
+Seat 3: DQA Shark (small blind) folded before Flop
+Seat 4: ollikahn23 (big blind) folded before Flop
+Seat 5: eldarinho05 folded before Flop (didn't bet)
+Seat 6: Cezar164 folded before Flop (didn't bet)
+Seat 7: norma_bro_57 folded before Flop (didn't bet)
+Seat 9: 4Rchy folded on the River
+
+
+
+PokerStars Hand #182114344214:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:32:01 ET
+Table 'Ontake II' 9-max Seat #3 is the button
+Seat 1: Filonous ($2.25 in chips) 
+Seat 2: neuge04 ($5.06 in chips) 
+Seat 3: DQA Shark ($2 in chips) 
+Seat 4: ollikahn23 ($2 in chips) 
+Seat 5: eldarinho05 ($2.49 in chips) 
+Seat 6: Cezar164 ($1.11 in chips) 
+Seat 7: norma_bro_57 ($0.53 in chips) 
+Seat 9: 4Rchy ($2 in chips) 
+ollikahn23: posts small blind $0.01
+eldarinho05: posts big blind $0.02
+RAMZES_BLR: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8c Ac]
+Cezar164: folds 
+norma_bro_57: folds 
+4Rchy: folds 
+Filonous: folds 
+neuge04: folds 
+DQA Shark: folds 
+ollikahn23: raises $0.06 to $0.08
+eldarinho05: folds 
+Uncalled bet ($0.06) returned to ollikahn23
+ollikahn23 collected $0.04 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Filonous folded before Flop (didn't bet)
+Seat 2: neuge04 folded before Flop (didn't bet)
+Seat 3: DQA Shark (button) folded before Flop (didn't bet)
+Seat 4: ollikahn23 (small blind) collected ($0.04)
+Seat 5: eldarinho05 (big blind) folded before Flop
+Seat 6: Cezar164 folded before Flop (didn't bet)
+Seat 7: norma_bro_57 folded before Flop (didn't bet)
+Seat 9: 4Rchy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114360871:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:32:22 ET
+Table 'Ontake II' 9-max Seat #4 is the button
+Seat 1: Filonous ($2.25 in chips) 
+Seat 2: neuge04 ($5.06 in chips) 
+Seat 3: DQA Shark ($2 in chips) 
+Seat 4: ollikahn23 ($2.02 in chips) 
+Seat 5: eldarinho05 ($2.47 in chips) 
+Seat 6: Cezar164 ($1.11 in chips) 
+Seat 7: norma_bro_57 ($0.53 in chips) 
+Seat 9: 4Rchy ($2 in chips) 
+eldarinho05: posts small blind $0.01
+Cezar164: posts big blind $0.02
+RAMZES_BLR: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7h Jd]
+norma_bro_57: folds 
+4Rchy: folds 
+Filonous has timed out
+Filonous: folds 
+neuge04: folds 
+DQA Shark: folds 
+ollikahn23: folds 
+eldarinho05: folds 
+Uncalled bet ($0.01) returned to Cezar164
+Cezar164 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Filonous folded before Flop (didn't bet)
+Seat 2: neuge04 folded before Flop (didn't bet)
+Seat 3: DQA Shark folded before Flop (didn't bet)
+Seat 4: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 5: eldarinho05 (small blind) folded before Flop
+Seat 6: Cezar164 (big blind) collected ($0.02)
+Seat 7: norma_bro_57 folded before Flop (didn't bet)
+Seat 9: 4Rchy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114388206:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:32:55 ET
+Table 'Ontake II' 9-max Seat #5 is the button
+Seat 1: Filonous ($2.25 in chips) 
+Seat 2: neuge04 ($5.06 in chips) 
+Seat 3: DQA Shark ($2 in chips) 
+Seat 4: ollikahn23 ($2.02 in chips) 
+Seat 5: eldarinho05 ($2.46 in chips) 
+Seat 6: Cezar164 ($1.12 in chips) 
+Seat 7: norma_bro_57 ($0.53 in chips) 
+Seat 9: 4Rchy ($2 in chips) 
+Cezar164: posts small blind $0.01
+norma_bro_57: posts big blind $0.02
+RAMZES_BLR: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2s Ac]
+4Rchy: folds 
+Filonous: folds 
+neuge04: calls $0.02
+DQA Shark: folds 
+ollikahn23: folds 
+eldarinho05: folds 
+Cezar164: folds 
+norma_bro_57: checks 
+*** FLOP *** [3s 5c 8d]
+norma_bro_57: bets $0.04
+neuge04: folds 
+Uncalled bet ($0.04) returned to norma_bro_57
+norma_bro_57 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [3s 5c 8d]
+Seat 1: Filonous folded before Flop (didn't bet)
+Seat 2: neuge04 folded on the Flop
+Seat 3: DQA Shark folded before Flop (didn't bet)
+Seat 4: ollikahn23 folded before Flop (didn't bet)
+Seat 5: eldarinho05 (button) folded before Flop (didn't bet)
+Seat 6: Cezar164 (small blind) folded before Flop
+Seat 7: norma_bro_57 (big blind) collected ($0.05)
+Seat 9: 4Rchy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114412161:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:33:25 ET
+Table 'Ontake II' 9-max Seat #6 is the button
+Seat 1: Filonous ($2.25 in chips) 
+Seat 2: neuge04 ($5.04 in chips) 
+Seat 3: DQA Shark ($2 in chips) 
+Seat 4: ollikahn23 ($2.02 in chips) 
+Seat 5: eldarinho05 ($2.46 in chips) 
+Seat 6: Cezar164 ($1.11 in chips) 
+Seat 7: norma_bro_57 ($0.56 in chips) 
+Seat 8: RAMZES_BLR ($2 in chips) 
+Seat 9: 4Rchy ($2 in chips) 
+norma_bro_57: posts small blind $0.01
+RAMZES_BLR: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2s 3s]
+4Rchy: folds 
+Filonous has timed out
+Filonous: folds 
+neuge04: folds 
+DQA Shark: folds 
+ollikahn23: folds 
+eldarinho05: folds 
+Cezar164: folds 
+norma_bro_57: folds 
+Uncalled bet ($0.01) returned to RAMZES_BLR
+RAMZES_BLR collected $0.02 from pot
+RAMZES_BLR: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Filonous folded before Flop (didn't bet)
+Seat 2: neuge04 folded before Flop (didn't bet)
+Seat 3: DQA Shark folded before Flop (didn't bet)
+Seat 4: ollikahn23 folded before Flop (didn't bet)
+Seat 5: eldarinho05 folded before Flop (didn't bet)
+Seat 6: Cezar164 (button) folded before Flop (didn't bet)
+Seat 7: norma_bro_57 (small blind) folded before Flop
+Seat 8: RAMZES_BLR (big blind) collected ($0.02)
+Seat 9: 4Rchy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114433478:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:33:51 ET
+Table 'Ontake II' 9-max Seat #7 is the button
+Seat 2: neuge04 ($5.04 in chips) 
+Seat 3: DQA Shark ($2 in chips) 
+Seat 4: ollikahn23 ($2.02 in chips) 
+Seat 5: eldarinho05 ($2.46 in chips) 
+Seat 6: Cezar164 ($1.11 in chips) 
+Seat 7: norma_bro_57 ($0.55 in chips) 
+Seat 8: RAMZES_BLR ($2.01 in chips) 
+Seat 9: 4Rchy ($2 in chips) 
+RAMZES_BLR: posts small blind $0.01
+4Rchy: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5c 4s]
+neuge04: calls $0.02
+DQA Shark: folds 
+ollikahn23: folds 
+eldarinho05: folds 
+Cezar164: folds 
+norma_bro_57: raises $0.06 to $0.08
+RAMZES_BLR: calls $0.07
+4Rchy: folds 
+neuge04: calls $0.06
+*** FLOP *** [9h 8s Qh]
+RAMZES_BLR: checks 
+neuge04: checks 
+norma_bro_57: bets $0.20
+RAMZES_BLR: folds 
+neuge04: calls $0.20
+*** TURN *** [9h 8s Qh] [3c]
+neuge04: checks 
+norma_bro_57: bets $0.27 and is all-in
+neuge04: calls $0.27
+*** RIVER *** [9h 8s Qh 3c] [Jd]
+*** SHOW DOWN ***
+neuge04: shows [Ah 8d] (a pair of Eights)
+norma_bro_57: shows [Th Kh] (a straight, Nine to King)
+norma_bro_57 collected $1.16 from pot
+*** SUMMARY ***
+Total pot $1.20 | Rake $0.04 
+Board [9h 8s Qh 3c Jd]
+Seat 2: neuge04 showed [Ah 8d] and lost with a pair of Eights
+Seat 3: DQA Shark folded before Flop (didn't bet)
+Seat 4: ollikahn23 folded before Flop (didn't bet)
+Seat 5: eldarinho05 folded before Flop (didn't bet)
+Seat 6: Cezar164 folded before Flop (didn't bet)
+Seat 7: norma_bro_57 (button) showed [Th Kh] and won ($1.16) with a straight, Nine to King
+Seat 8: RAMZES_BLR (small blind) folded on the Flop
+Seat 9: 4Rchy (big blind) folded before Flop
+
+
+
+PokerStars Hand #182114472512:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:34:39 ET
+Table 'Ontake II' 9-max Seat #8 is the button
+Seat 1: Filonous ($2.25 in chips) 
+Seat 2: neuge04 ($4.49 in chips) 
+Seat 3: DQA Shark ($2 in chips) 
+Seat 4: ollikahn23 ($2.02 in chips) 
+Seat 5: eldarinho05 ($2.46 in chips) 
+Seat 6: Cezar164 ($1.11 in chips) 
+Seat 7: norma_bro_57 ($1.16 in chips) 
+Seat 8: RAMZES_BLR ($2 in chips) 
+Seat 9: 4Rchy ($2 in chips) 
+4Rchy: posts small blind $0.01
+Filonous: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qd 8s]
+neuge04: calls $0.02
+DQA Shark: folds 
+ollikahn23: folds 
+eldarinho05: folds 
+Cezar164: raises $0.04 to $0.06
+norma_bro_57: folds 
+RAMZES_BLR: folds 
+4Rchy: folds 
+Filonous: calls $0.04
+neuge04: calls $0.04
+*** FLOP *** [8c 5d Kc]
+Filonous: checks 
+neuge04: checks 
+Cezar164: checks 
+*** TURN *** [8c 5d Kc] [8h]
+Filonous: checks 
+neuge04: checks 
+Cezar164: checks 
+*** RIVER *** [8c 5d Kc 8h] [4d]
+Filonous: bets $0.12
+neuge04: folds 
+Cezar164: folds 
+Uncalled bet ($0.12) returned to Filonous
+Filonous collected $0.18 from pot
+Filonous: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [8c 5d Kc 8h 4d]
+Seat 1: Filonous (big blind) collected ($0.18)
+Seat 2: neuge04 folded on the River
+Seat 3: DQA Shark folded before Flop (didn't bet)
+Seat 4: ollikahn23 folded before Flop (didn't bet)
+Seat 5: eldarinho05 folded before Flop (didn't bet)
+Seat 6: Cezar164 folded on the River
+Seat 7: norma_bro_57 folded before Flop (didn't bet)
+Seat 8: RAMZES_BLR (button) folded before Flop (didn't bet)
+Seat 9: 4Rchy (small blind) folded before Flop
+
+
+
+PokerStars Hand #182114510550:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:35:26 ET
+Table 'Ontake II' 9-max Seat #9 is the button
+Seat 1: Filonous ($2.37 in chips) 
+Seat 2: neuge04 ($4.43 in chips) 
+Seat 3: DQA Shark ($2 in chips) 
+Seat 4: ollikahn23 ($2.02 in chips) 
+Seat 5: eldarinho05 ($2.46 in chips) 
+Seat 6: Cezar164 ($1.05 in chips) 
+Seat 7: norma_bro_57 ($1.16 in chips) 
+Seat 8: RAMZES_BLR ($2 in chips) 
+Seat 9: 4Rchy ($2 in chips) 
+Filonous: posts small blind $0.01
+neuge04: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7h Ks]
+DQA Shark: folds 
+ollikahn23: folds 
+eldarinho05: raises $0.04 to $0.06
+Cezar164: folds 
+norma_bro_57: folds 
+RAMZES_BLR: calls $0.06
+4Rchy: folds 
+Filonous: folds 
+neuge04: folds 
+*** FLOP *** [7c Qs 5s]
+eldarinho05: bets $0.08
+RAMZES_BLR: folds 
+Uncalled bet ($0.08) returned to eldarinho05
+eldarinho05 collected $0.14 from pot
+eldarinho05: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [7c Qs 5s]
+Seat 1: Filonous (small blind) folded before Flop
+Seat 2: neuge04 (big blind) folded before Flop
+Seat 3: DQA Shark folded before Flop (didn't bet)
+Seat 4: ollikahn23 folded before Flop (didn't bet)
+Seat 5: eldarinho05 collected ($0.14)
+Seat 6: Cezar164 folded before Flop (didn't bet)
+Seat 7: norma_bro_57 folded before Flop (didn't bet)
+Seat 8: RAMZES_BLR folded on the Flop
+Seat 9: 4Rchy (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114532931:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:35:54 ET
+Table 'Ontake II' 9-max Seat #1 is the button
+Seat 1: Filonous ($2.36 in chips) 
+Seat 2: neuge04 ($4.41 in chips) 
+Seat 4: ollikahn23 ($2.02 in chips) 
+Seat 5: eldarinho05 ($2.54 in chips) 
+Seat 6: Cezar164 ($1.05 in chips) 
+Seat 7: norma_bro_57 ($1.16 in chips) 
+Seat 8: RAMZES_BLR ($2 in chips) 
+Seat 9: 4Rchy ($2 in chips) 
+neuge04: posts small blind $0.01
+DQA Shark: is sitting out 
+ollikahn23: posts big blind $0.02
+DQA Shark leaves the table
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6d Qc]
+eldarinho05: raises $0.04 to $0.06
+Cezar164: folds 
+norma_bro_57: folds 
+Omahabest joins the table at seat #3 
+RAMZES_BLR: folds 
+4Rchy: folds 
+Filonous: calls $0.06
+neuge04: folds 
+ollikahn23: folds 
+*** FLOP *** [As Kc 8s]
+eldarinho05: bets $0.08
+Filonous: folds 
+Uncalled bet ($0.08) returned to eldarinho05
+eldarinho05 collected $0.14 from pot
+eldarinho05: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [As Kc 8s]
+Seat 1: Filonous (button) folded on the Flop
+Seat 2: neuge04 (small blind) folded before Flop
+Seat 4: ollikahn23 (big blind) folded before Flop
+Seat 5: eldarinho05 collected ($0.14)
+Seat 6: Cezar164 folded before Flop (didn't bet)
+Seat 7: norma_bro_57 folded before Flop (didn't bet)
+Seat 8: RAMZES_BLR folded before Flop (didn't bet)
+Seat 9: 4Rchy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114554077:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:36:20 ET
+Table 'Ontake II' 9-max Seat #2 is the button
+Seat 1: Filonous ($2.30 in chips) 
+Seat 2: neuge04 ($4.40 in chips) 
+Seat 4: ollikahn23 ($2 in chips) 
+Seat 5: eldarinho05 ($2.62 in chips) 
+Seat 6: Cezar164 ($1.05 in chips) 
+Seat 7: norma_bro_57 ($1.16 in chips) 
+Seat 8: RAMZES_BLR ($2 in chips) 
+Seat 9: 4Rchy ($2 in chips) 
+Omahabest will be allowed to play after the button
+ollikahn23: posts small blind $0.01
+eldarinho05: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qs 9d]
+Cezar164: folds 
+norma_bro_57: calls $0.02
+RAMZES_BLR: folds 
+4Rchy: folds 
+Filonous: folds 
+neuge04: calls $0.02
+ollikahn23: folds 
+eldarinho05: checks 
+*** FLOP *** [Ks 7c Qc]
+eldarinho05: checks 
+norma_bro_57: bets $0.07
+neuge04: folds 
+eldarinho05: folds 
+Uncalled bet ($0.07) returned to norma_bro_57
+norma_bro_57 collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [Ks 7c Qc]
+Seat 1: Filonous folded before Flop (didn't bet)
+Seat 2: neuge04 (button) folded on the Flop
+Seat 4: ollikahn23 (small blind) folded before Flop
+Seat 5: eldarinho05 (big blind) folded on the Flop
+Seat 6: Cezar164 folded before Flop (didn't bet)
+Seat 7: norma_bro_57 collected ($0.07)
+Seat 8: RAMZES_BLR folded before Flop (didn't bet)
+Seat 9: 4Rchy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114585840:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:36:59 ET
+Table 'Ontake II' 9-max Seat #4 is the button
+Seat 1: Filonous ($2.30 in chips) 
+Seat 2: neuge04 ($4.38 in chips) 
+Seat 4: ollikahn23 ($2 in chips) 
+Seat 5: eldarinho05 ($2.60 in chips) 
+Seat 6: Cezar164 ($1.05 in chips) 
+Seat 7: norma_bro_57 ($1.21 in chips) 
+Seat 8: RAMZES_BLR ($2 in chips) 
+Seat 9: 4Rchy ($2 in chips) 
+eldarinho05: posts small blind $0.01
+Cezar164: posts big blind $0.02
+Omahabest: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3c Ah]
+norma_bro_57: folds 
+RAMZES_BLR: raises $0.04 to $0.06
+4Rchy: folds 
+Filonous: folds 
+neuge04: folds 
+ollikahn23: folds 
+eldarinho05: folds 
+Cezar164: folds 
+Uncalled bet ($0.04) returned to RAMZES_BLR
+RAMZES_BLR collected $0.05 from pot
+RAMZES_BLR: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Filonous folded before Flop (didn't bet)
+Seat 2: neuge04 folded before Flop (didn't bet)
+Seat 4: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 5: eldarinho05 (small blind) folded before Flop
+Seat 6: Cezar164 (big blind) folded before Flop
+Seat 7: norma_bro_57 folded before Flop (didn't bet)
+Seat 8: RAMZES_BLR collected ($0.05)
+Seat 9: 4Rchy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114602194:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:37:19 ET
+Table 'Ontake II' 9-max Seat #5 is the button
+Seat 1: Filonous ($2.30 in chips) 
+Seat 2: neuge04 ($4.38 in chips) 
+Seat 4: ollikahn23 ($2 in chips) 
+Seat 5: eldarinho05 ($2.59 in chips) 
+Seat 6: Cezar164 ($1.03 in chips) 
+Seat 7: norma_bro_57 ($1.21 in chips) 
+Seat 8: RAMZES_BLR ($2.03 in chips) 
+Seat 9: 4Rchy ($2 in chips) 
+Cezar164: posts small blind $0.01
+norma_bro_57: posts big blind $0.02
+Omahabest: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kh Qc]
+RAMZES_BLR: folds 
+4Rchy: folds 
+Filonous: folds 
+neuge04: calls $0.02
+ollikahn23: raises $0.06 to $0.08
+eldarinho05: folds 
+Cezar164: calls $0.07
+norma_bro_57: calls $0.06
+neuge04: calls $0.06
+*** FLOP *** [5h 2d 8d]
+Cezar164: checks 
+norma_bro_57: bets $0.14
+neuge04: calls $0.14
+ollikahn23: folds 
+Cezar164: folds 
+*** TURN *** [5h 2d 8d] [4h]
+norma_bro_57: checks 
+neuge04: checks 
+*** RIVER *** [5h 2d 8d 4h] [7h]
+norma_bro_57: checks 
+neuge04: checks 
+*** SHOW DOWN ***
+norma_bro_57: shows [Kc Tc] (high card King)
+neuge04: shows [5s 7s] (two pair, Sevens and Fives)
+neuge04 collected $0.58 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.02 
+Board [5h 2d 8d 4h 7h]
+Seat 1: Filonous folded before Flop (didn't bet)
+Seat 2: neuge04 showed [5s 7s] and won ($0.58) with two pair, Sevens and Fives
+Seat 4: ollikahn23 folded on the Flop
+Seat 5: eldarinho05 (button) folded before Flop (didn't bet)
+Seat 6: Cezar164 (small blind) folded on the Flop
+Seat 7: norma_bro_57 (big blind) showed [Kc Tc] and lost with high card King
+Seat 8: RAMZES_BLR folded before Flop (didn't bet)
+Seat 9: 4Rchy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114652819:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:38:21 ET
+Table 'Ontake II' 9-max Seat #6 is the button
+Seat 1: Filonous ($2.30 in chips) 
+Seat 2: neuge04 ($4.74 in chips) 
+Seat 4: ollikahn23 ($2 in chips) 
+Seat 5: eldarinho05 ($2.59 in chips) 
+Seat 6: Cezar164 ($0.95 in chips) 
+Seat 7: norma_bro_57 ($0.99 in chips) 
+Seat 8: RAMZES_BLR ($2.03 in chips) 
+Seat 9: 4Rchy ($2 in chips) 
+norma_bro_57: posts small blind $0.01
+RAMZES_BLR: posts big blind $0.02
+Omahabest: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3c 7h]
+4Rchy: folds 
+Filonous: folds 
+neuge04: folds 
+ollikahn23: folds 
+eldarinho05: folds 
+Cezar164: folds 
+norma_bro_57: folds 
+Uncalled bet ($0.01) returned to RAMZES_BLR
+RAMZES_BLR collected $0.02 from pot
+RAMZES_BLR: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Filonous folded before Flop (didn't bet)
+Seat 2: neuge04 folded before Flop (didn't bet)
+Seat 4: ollikahn23 folded before Flop (didn't bet)
+Seat 5: eldarinho05 folded before Flop (didn't bet)
+Seat 6: Cezar164 (button) folded before Flop (didn't bet)
+Seat 7: norma_bro_57 (small blind) folded before Flop
+Seat 8: RAMZES_BLR (big blind) collected ($0.02)
+Seat 9: 4Rchy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114665070:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:38:36 ET
+Table 'Ontake II' 9-max Seat #7 is the button
+Seat 1: Filonous ($2.30 in chips) 
+Seat 2: neuge04 ($4.74 in chips) 
+Seat 4: ollikahn23 ($2 in chips) 
+Seat 5: eldarinho05 ($2.59 in chips) 
+Seat 6: Cezar164 ($0.95 in chips) 
+Seat 7: norma_bro_57 ($0.98 in chips) 
+Seat 8: RAMZES_BLR ($2.04 in chips) 
+Seat 9: 4Rchy ($2 in chips) 
+RAMZES_BLR: posts small blind $0.01
+4Rchy: posts big blind $0.02
+Omahabest: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Th Jd]
+Filonous: folds 
+neuge04: calls $0.02
+ollikahn23: folds 
+eldarinho05: folds 
+Cezar164: folds 
+norma_bro_57: raises $0.08 to $0.10
+RAMZES_BLR: folds 
+4Rchy: folds 
+neuge04: folds 
+Uncalled bet ($0.08) returned to norma_bro_57
+norma_bro_57 collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: Filonous folded before Flop (didn't bet)
+Seat 2: neuge04 folded before Flop
+Seat 4: ollikahn23 folded before Flop (didn't bet)
+Seat 5: eldarinho05 folded before Flop (didn't bet)
+Seat 6: Cezar164 folded before Flop (didn't bet)
+Seat 7: norma_bro_57 (button) collected ($0.07)
+Seat 8: RAMZES_BLR (small blind) folded before Flop
+Seat 9: 4Rchy (big blind) folded before Flop
+
+
+
+PokerStars Hand #182114685289:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:39:01 ET
+Table 'Ontake II' 9-max Seat #8 is the button
+Seat 1: Filonous ($2.30 in chips) 
+Seat 2: neuge04 ($4.72 in chips) 
+Seat 4: ollikahn23 ($2 in chips) 
+Seat 5: eldarinho05 ($2.59 in chips) 
+Seat 6: Cezar164 ($0.95 in chips) 
+Seat 7: norma_bro_57 ($1.03 in chips) 
+Seat 8: RAMZES_BLR ($2.03 in chips) 
+Seat 9: 4Rchy ($2 in chips) 
+4Rchy: posts small blind $0.01
+Filonous: posts big blind $0.02
+Omahabest: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7s Qh]
+neuge04: calls $0.02
+ollikahn23: folds 
+eldarinho05: folds 
+Cezar164: folds 
+norma_bro_57: raises $0.02 to $0.04
+RAMZES_BLR: folds 
+4Rchy: calls $0.03
+Filonous: folds 
+neuge04: calls $0.02
+*** FLOP *** [Js Ah 2c]
+4Rchy: checks 
+neuge04: checks 
+norma_bro_57: checks 
+*** TURN *** [Js Ah 2c] [9h]
+4Rchy: checks 
+neuge04: checks 
+norma_bro_57: bets $0.07
+4Rchy: folds 
+neuge04: calls $0.07
+*** RIVER *** [Js Ah 2c 9h] [3d]
+neuge04: checks 
+norma_bro_57: bets $0.12
+neuge04: calls $0.12
+*** SHOW DOWN ***
+norma_bro_57: shows [Th 8h] (high card Ace)
+neuge04: shows [Ad 6d] (a pair of Aces)
+neuge04 collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.52 | Rake $0.02 
+Board [Js Ah 2c 9h 3d]
+Seat 1: Filonous (big blind) folded before Flop
+Seat 2: neuge04 showed [Ad 6d] and won ($0.50) with a pair of Aces
+Seat 4: ollikahn23 folded before Flop (didn't bet)
+Seat 5: eldarinho05 folded before Flop (didn't bet)
+Seat 6: Cezar164 folded before Flop (didn't bet)
+Seat 7: norma_bro_57 showed [Th 8h] and lost with high card Ace
+Seat 8: RAMZES_BLR (button) folded before Flop (didn't bet)
+Seat 9: 4Rchy (small blind) folded on the Turn
+
+
+
+PokerStars Hand #182114724736:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:39:49 ET
+Table 'Ontake II' 9-max Seat #9 is the button
+Seat 1: Filonous ($2.28 in chips) 
+Seat 2: neuge04 ($4.99 in chips) 
+Seat 4: ollikahn23 ($2 in chips) 
+Seat 5: eldarinho05 ($2.59 in chips) 
+Seat 6: Cezar164 ($0.95 in chips) 
+Seat 7: norma_bro_57 ($0.80 in chips) 
+Seat 8: RAMZES_BLR ($2.03 in chips) 
+Seat 9: 4Rchy ($2 in chips) 
+Filonous: posts small blind $0.01
+neuge04: posts big blind $0.02
+Omahabest: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qs 3h]
+ollikahn23: folds 
+eldarinho05: folds 
+Cezar164: raises $0.04 to $0.06
+norma_bro_57: calls $0.06
+RAMZES_BLR: folds 
+4Rchy: folds 
+Filonous: folds 
+neuge04: folds 
+*** FLOP *** [Qc 2c Ts]
+Cezar164: bets $0.09
+norma_bro_57: calls $0.09
+*** TURN *** [Qc 2c Ts] [Qd]
+Cezar164: bets $0.20
+norma_bro_57: calls $0.20
+*** RIVER *** [Qc 2c Ts Qd] [Kc]
+Cezar164: bets $0.43
+norma_bro_57: raises $0.02 to $0.45 and is all-in
+Cezar164: calls $0.02
+*** SHOW DOWN ***
+norma_bro_57: shows [Ks 9d] (two pair, Kings and Queens)
+Cezar164: shows [Ac Jc] (a flush, Ace high)
+Cezar164 collected $1.57 from pot
+*** SUMMARY ***
+Total pot $1.63 | Rake $0.06 
+Board [Qc 2c Ts Qd Kc]
+Seat 1: Filonous (small blind) folded before Flop
+Seat 2: neuge04 (big blind) folded before Flop
+Seat 4: ollikahn23 folded before Flop (didn't bet)
+Seat 5: eldarinho05 folded before Flop (didn't bet)
+Seat 6: Cezar164 showed [Ac Jc] and won ($1.57) with a flush, Ace high
+Seat 7: norma_bro_57 showed [Ks 9d] and lost with two pair, Kings and Queens
+Seat 8: RAMZES_BLR folded before Flop (didn't bet)
+Seat 9: 4Rchy (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114774504:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:40:49 ET
+Table 'Ontake II' 9-max Seat #1 is the button
+Seat 1: Filonous ($2.27 in chips) 
+Seat 2: neuge04 ($4.97 in chips) 
+Seat 3: Omahabest ($2 in chips) 
+Seat 4: ollikahn23 ($2 in chips) 
+Seat 5: eldarinho05 ($2.59 in chips) 
+Seat 6: Cezar164 ($1.72 in chips) 
+Seat 8: RAMZES_BLR ($2.03 in chips) 
+Seat 9: 4Rchy ($2 in chips) 
+neuge04: posts small blind $0.01
+Omahabest: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8c Ks]
+ollikahn23: calls $0.02
+norma_bro_57 leaves the table
+eldarinho05: folds 
+Cezar164: folds 
+RAMZES_BLR: folds 
+4Rchy: folds 
+Filonous: raises $0.06 to $0.08
+neuge04: folds 
+Omahabest: folds 
+ollikahn23: folds 
+Uncalled bet ($0.06) returned to Filonous
+Filonous collected $0.07 from pot
+Filonous: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: Filonous (button) collected ($0.07)
+Seat 2: neuge04 (small blind) folded before Flop
+Seat 3: Omahabest (big blind) folded before Flop
+Seat 4: ollikahn23 folded before Flop
+Seat 5: eldarinho05 folded before Flop (didn't bet)
+Seat 6: Cezar164 folded before Flop (didn't bet)
+Seat 8: RAMZES_BLR folded before Flop (didn't bet)
+Seat 9: 4Rchy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114789471:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:41:08 ET
+Table 'Ontake II' 9-max Seat #2 is the button
+Seat 1: Filonous ($2.32 in chips) 
+Seat 2: neuge04 ($4.96 in chips) 
+Seat 3: Omahabest ($2 in chips) 
+Seat 4: ollikahn23 ($2 in chips) 
+Seat 5: eldarinho05 ($2.59 in chips) 
+Seat 6: Cezar164 ($1.72 in chips) 
+Seat 8: RAMZES_BLR ($2.03 in chips) 
+Seat 9: 4Rchy ($2 in chips) 
+Omahabest: posts small blind $0.01
+ollikahn23: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9h 9s]
+eldarinho05: folds 
+Cezar164: raises $0.04 to $0.06
+RAMZES_BLR: folds 
+4Rchy: folds 
+Filonous: folds 
+neuge04: calls $0.06
+Omahabest: folds 
+ollikahn23: calls $0.04
+*** FLOP *** [4d Td Qd]
+ollikahn23: checks 
+Cezar164: checks 
+neuge04: checks 
+*** TURN *** [4d Td Qd] [7h]
+ollikahn23: bets $0.08
+Cezar164: folds 
+neuge04: calls $0.08
+*** RIVER *** [4d Td Qd 7h] [Qh]
+ollikahn23: checks 
+neuge04: checks 
+*** SHOW DOWN ***
+ollikahn23: shows [9h 9s] (two pair, Queens and Nines)
+neuge04: shows [8h Th] (two pair, Queens and Tens)
+neuge04 collected $0.34 from pot
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [4d Td Qd 7h Qh]
+Seat 1: Filonous folded before Flop (didn't bet)
+Seat 2: neuge04 (button) showed [8h Th] and won ($0.34) with two pair, Queens and Tens
+Seat 3: Omahabest (small blind) folded before Flop
+Seat 4: ollikahn23 (big blind) showed [9h 9s] and lost with two pair, Queens and Nines
+Seat 5: eldarinho05 folded before Flop (didn't bet)
+Seat 6: Cezar164 folded on the Turn
+Seat 8: RAMZES_BLR folded before Flop (didn't bet)
+Seat 9: 4Rchy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114830646:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:41:58 ET
+Table 'Ontake II' 9-max Seat #3 is the button
+Seat 1: Filonous ($2.32 in chips) 
+Seat 2: neuge04 ($5.16 in chips) 
+Seat 3: Omahabest ($2 in chips) 
+Seat 4: ollikahn23 ($2 in chips) 
+Seat 6: Cezar164 ($1.66 in chips) 
+Seat 9: 4Rchy ($2 in chips) 
+ollikahn23: posts small blind $0.01
+eldarinho05: is sitting out 
+eldarinho05 leaves the table
+Cezar164: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5d 3c]
+4Rchy: folds 
+Filonous: folds 
+neuge04: calls $0.02
+Omahabest: raises $0.06 to $0.08
+ollikahn23: folds 
+Cezar164: calls $0.06
+neuge04: calls $0.06
+*** FLOP *** [7h Qh 8h]
+Cezar164: checks 
+neuge04: checks 
+Omahabest: checks 
+*** TURN *** [7h Qh 8h] [3s]
+Cezar164: checks 
+neuge04: checks 
+Omahabest: checks 
+*** RIVER *** [7h Qh 8h 3s] [6h]
+Cezar164: checks 
+neuge04: checks 
+Omahabest: checks 
+*** SHOW DOWN ***
+Cezar164: shows [Jd Jh] (a flush, Queen high)
+neuge04: mucks hand 
+Omahabest: mucks hand 
+Cezar164 collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [7h Qh 8h 3s 6h]
+Seat 1: Filonous folded before Flop (didn't bet)
+Seat 2: neuge04 mucked [4h Ac]
+Seat 3: Omahabest (button) mucked [Ts Js]
+Seat 4: ollikahn23 (small blind) folded before Flop
+Seat 6: Cezar164 (big blind) showed [Jd Jh] and won ($0.24) with a flush, Queen high
+Seat 9: 4Rchy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114875232:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:42:52 ET
+Table 'Ontake II' 9-max Seat #4 is the button
+Seat 1: Filonous ($2.32 in chips) 
+Seat 2: neuge04 ($5.08 in chips) 
+Seat 3: Omahabest ($2 in chips) 
+Seat 4: ollikahn23 ($2 in chips) 
+Seat 6: Cezar164 ($1.82 in chips) 
+Seat 9: 4Rchy ($2 in chips) 
+Cezar164: posts small blind $0.01
+4Rchy: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7d Ks]
+Filonous: folds 
+neuge04: folds 
+Omahabest: folds 
+ollikahn23: raises $0.04 to $0.06
+Cezar164: raises $0.12 to $0.18
+4Rchy: folds 
+ollikahn23: folds 
+Uncalled bet ($0.12) returned to Cezar164
+Cezar164 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Seat 1: Filonous folded before Flop (didn't bet)
+Seat 2: neuge04 folded before Flop (didn't bet)
+Seat 3: Omahabest folded before Flop (didn't bet)
+Seat 4: ollikahn23 (button) folded before Flop
+Seat 6: Cezar164 (small blind) collected ($0.14)
+Seat 9: 4Rchy (big blind) folded before Flop
+
+
+
+PokerStars Hand #182114892783:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:43:13 ET
+Table 'Ontake II' 9-max Seat #6 is the button
+Seat 1: Filonous ($2.32 in chips) 
+Seat 2: neuge04 ($5.08 in chips) 
+Seat 3: Omahabest ($2 in chips) 
+Seat 4: ollikahn23 ($2 in chips) 
+Seat 6: Cezar164 ($1.90 in chips) 
+Seat 9: 4Rchy ($2 in chips) 
+4Rchy: posts small blind $0.01
+Filonous: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8c Ks]
+neuge04: calls $0.02
+Omahabest: folds 
+ollikahn23: folds 
+Cezar164: folds 
+4Rchy: folds 
+Filonous: checks 
+*** FLOP *** [Jc Qh 9d]
+Filonous: checks 
+neuge04: checks 
+*** TURN *** [Jc Qh 9d] [6h]
+Filonous: checks 
+neuge04: checks 
+*** RIVER *** [Jc Qh 9d 6h] [4c]
+Filonous: checks 
+neuge04: checks 
+*** SHOW DOWN ***
+Filonous: shows [9h 3s] (a pair of Nines)
+neuge04: mucks hand 
+Filonous collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Jc Qh 9d 6h 4c]
+Seat 1: Filonous (big blind) showed [9h 3s] and won ($0.05) with a pair of Nines
+Seat 2: neuge04 mucked [7d 7h]
+Seat 3: Omahabest folded before Flop (didn't bet)
+Seat 4: ollikahn23 folded before Flop (didn't bet)
+Seat 6: Cezar164 (button) folded before Flop (didn't bet)
+Seat 9: 4Rchy (small blind) folded before Flop
+
+
+
+PokerStars Hand #182114919119:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:43:45 ET
+Table 'Ontake II' 9-max Seat #9 is the button
+Seat 1: Filonous ($2.35 in chips) 
+Seat 2: neuge04 ($5.06 in chips) 
+Seat 3: Omahabest ($2 in chips) 
+Seat 4: ollikahn23 ($2 in chips) 
+Seat 6: Cezar164 ($1.90 in chips) 
+Seat 9: 4Rchy ($2 in chips) 
+Filonous: posts small blind $0.01
+neuge04: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2d Kd]
+Omahabest: folds 
+ollikahn23: folds 
+Cezar164: folds 
+4Rchy: raises $0.03 to $0.05
+Filonous: folds 
+neuge04: folds 
+Uncalled bet ($0.03) returned to 4Rchy
+4Rchy collected $0.05 from pot
+4Rchy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Filonous (small blind) folded before Flop
+Seat 2: neuge04 (big blind) folded before Flop
+Seat 3: Omahabest folded before Flop (didn't bet)
+Seat 4: ollikahn23 folded before Flop (didn't bet)
+Seat 6: Cezar164 folded before Flop (didn't bet)
+Seat 9: 4Rchy (button) collected ($0.05)
+
+
+
+PokerStars Hand #182114944314:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:44:16 ET
+Table 'Ontake II' 9-max Seat #1 is the button
+Seat 1: Filonous ($2.34 in chips) 
+Seat 2: neuge04 ($5.04 in chips) 
+Seat 3: Omahabest ($2 in chips) 
+Seat 4: ollikahn23 ($2 in chips) 
+Seat 6: Cezar164 ($1.90 in chips) 
+Seat 9: 4Rchy ($2.03 in chips) 
+neuge04: posts small blind $0.01
+Omahabest: posts big blind $0.02
+RAMZES_BLR: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3s 9d]
+ollikahn23: folds 
+Cezar164: folds 
+sapr.549 joins the table at seat #5 
+4Rchy: raises $0.04 to $0.06
+Filonous: folds 
+neuge04: folds 
+Omahabest: folds 
+Uncalled bet ($0.04) returned to 4Rchy
+4Rchy collected $0.05 from pot
+4Rchy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Filonous (button) folded before Flop (didn't bet)
+Seat 2: neuge04 (small blind) folded before Flop
+Seat 3: Omahabest (big blind) folded before Flop
+Seat 4: ollikahn23 folded before Flop (didn't bet)
+Seat 6: Cezar164 folded before Flop (didn't bet)
+Seat 9: 4Rchy collected ($0.05)
+
+
+
+PokerStars Hand #182114962926:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:44:38 ET
+Table 'Ontake II' 9-max Seat #2 is the button
+Seat 1: Filonous ($2.34 in chips) 
+Seat 2: neuge04 ($5.03 in chips) 
+Seat 3: Omahabest ($2 in chips) 
+Seat 4: ollikahn23 ($2 in chips) 
+Seat 6: Cezar164 ($1.90 in chips) 
+Seat 9: 4Rchy ($2.06 in chips) 
+Omahabest: posts small blind $0.01
+ollikahn23: posts big blind $0.02
+sapr.549: sits out 
+RAMZES_BLR: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5c Qh]
+Cezar164: folds 
+4Rchy: raises $0.04 to $0.06
+Filonous: folds 
+neuge04: folds 
+Omahabest: calls $0.05
+ollikahn23: folds 
+*** FLOP *** [6s 8h 4c]
+marmalidi joins the table at seat #7 
+Omahabest: bets $0.07
+4Rchy: calls $0.07
+*** TURN *** [6s 8h 4c] [Jc]
+Omahabest: checks 
+4Rchy: checks 
+*** RIVER *** [6s 8h 4c Jc] [Ks]
+Omahabest: checks 
+4Rchy: checks 
+*** SHOW DOWN ***
+Omahabest: shows [9h 9s] (a pair of Nines)
+4Rchy: mucks hand 
+Omahabest collected $0.27 from pot
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01 
+Board [6s 8h 4c Jc Ks]
+Seat 1: Filonous folded before Flop (didn't bet)
+Seat 2: neuge04 (button) folded before Flop (didn't bet)
+Seat 3: Omahabest (small blind) showed [9h 9s] and won ($0.27) with a pair of Nines
+Seat 4: ollikahn23 (big blind) folded before Flop
+Seat 6: Cezar164 folded before Flop (didn't bet)
+Seat 9: 4Rchy mucked [8c 9c]
+
+
+
+PokerStars Hand #182115000128:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:45:23 ET
+Table 'Ontake II' 9-max Seat #3 is the button
+Seat 1: Filonous ($2.34 in chips) 
+Seat 2: neuge04 ($5.03 in chips) 
+Seat 3: Omahabest ($2.14 in chips) 
+Seat 4: ollikahn23 ($2 in chips) 
+Seat 5: sapr.549 ($2 in chips) 
+Seat 6: Cezar164 ($1.90 in chips) 
+Seat 9: 4Rchy ($2 in chips) 
+ollikahn23: posts small blind $0.01
+sapr.549: posts big blind $0.02
+marmalidi: sits out 
+RAMZES_BLR: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9h Ad]
+Cezar164: folds 
+4Rchy: folds 
+Filonous: raises $0.04 to $0.06
+neuge04: folds 
+Omahabest: folds 
+ollikahn23: folds 
+sapr.549: folds 
+Uncalled bet ($0.04) returned to Filonous
+Filonous collected $0.05 from pot
+Filonous: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Filonous collected ($0.05)
+Seat 2: neuge04 folded before Flop (didn't bet)
+Seat 3: Omahabest (button) folded before Flop (didn't bet)
+Seat 4: ollikahn23 (small blind) folded before Flop
+Seat 5: sapr.549 (big blind) folded before Flop
+Seat 6: Cezar164 folded before Flop (didn't bet)
+Seat 9: 4Rchy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182115015240:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:45:42 ET
+Table 'Ontake II' 9-max Seat #4 is the button
+Seat 1: Filonous ($2.37 in chips) 
+Seat 2: neuge04 ($5.03 in chips) 
+Seat 3: Omahabest ($2.14 in chips) 
+Seat 4: ollikahn23 ($2 in chips) 
+Seat 5: sapr.549 ($1.98 in chips) 
+Seat 6: Cezar164 ($1.90 in chips) 
+Seat 9: 4Rchy ($2 in chips) 
+sapr.549: posts small blind $0.01
+Cezar164: posts big blind $0.02
+marmalidi: sits out 
+RAMZES_BLR: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2h Kd]
+4Rchy: folds 
+Filonous: folds 
+neuge04: calls $0.02
+Omahabest: folds 
+ollikahn23: folds 
+sapr.549: calls $0.01
+Cezar164: checks 
+*** FLOP *** [2s 8s 7h]
+sapr.549: checks 
+Cezar164: checks 
+neuge04: checks 
+*** TURN *** [2s 8s 7h] [9d]
+sapr.549: checks 
+Cezar164: checks 
+neuge04: bets $0.06
+sapr.549: folds 
+Cezar164: folds 
+Uncalled bet ($0.06) returned to neuge04
+neuge04 collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [2s 8s 7h 9d]
+Seat 1: Filonous folded before Flop (didn't bet)
+Seat 2: neuge04 collected ($0.06)
+Seat 3: Omahabest folded before Flop (didn't bet)
+Seat 4: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 5: sapr.549 (small blind) folded on the Turn
+Seat 6: Cezar164 (big blind) folded on the Turn
+Seat 9: 4Rchy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182115043513:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:46:16 ET
+Table 'Ontake II' 9-max Seat #5 is the button
+Seat 1: Filonous ($2.37 in chips) 
+Seat 2: neuge04 ($5.07 in chips) 
+Seat 3: Omahabest ($2.14 in chips) 
+Seat 4: ollikahn23 ($2 in chips) 
+Seat 5: sapr.549 ($1.96 in chips) 
+Seat 6: Cezar164 ($1.88 in chips) 
+Seat 7: marmalidi ($1 in chips) 
+Seat 9: 4Rchy ($2 in chips) 
+Cezar164: posts small blind $0.01
+marmalidi: posts big blind $0.02
+RAMZES_BLR: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jh Ad]
+4Rchy: folds 
+Filonous: folds 
+neuge04: folds 
+Omahabest: folds 
+ollikahn23: raises $0.04 to $0.06
+sapr.549: folds 
+Cezar164: folds 
+marmalidi: calls $0.04
+*** FLOP *** [Ts 4d 8c]
+marmalidi: bets $0.06
+ollikahn23: calls $0.06
+*** TURN *** [Ts 4d 8c] [Ah]
+marmalidi: checks 
+ollikahn23: bets $0.14
+marmalidi: folds 
+Uncalled bet ($0.14) returned to ollikahn23
+ollikahn23 collected $0.24 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Ts 4d 8c Ah]
+Seat 1: Filonous folded before Flop (didn't bet)
+Seat 2: neuge04 folded before Flop (didn't bet)
+Seat 3: Omahabest folded before Flop (didn't bet)
+Seat 4: ollikahn23 collected ($0.24)
+Seat 5: sapr.549 (button) folded before Flop (didn't bet)
+Seat 6: Cezar164 (small blind) folded before Flop
+Seat 7: marmalidi (big blind) folded on the Turn
+Seat 9: 4Rchy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182115084257:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:47:05 ET
+Table 'Ontake II' 9-max Seat #6 is the button
+Seat 1: Filonous ($2.37 in chips) 
+Seat 2: neuge04 ($5.07 in chips) 
+Seat 3: Omahabest ($2.14 in chips) 
+Seat 4: ollikahn23 ($2.12 in chips) 
+Seat 5: sapr.549 ($1.96 in chips) 
+Seat 6: Cezar164 ($1.87 in chips) 
+Seat 7: marmalidi ($0.88 in chips) 
+Seat 8: RAMZES_BLR ($2.03 in chips) 
+Seat 9: 4Rchy ($2 in chips) 
+marmalidi: posts small blind $0.01
+RAMZES_BLR: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [As 9h]
+4Rchy: folds 
+Filonous: folds 
+neuge04: calls $0.02
+Omahabest: folds 
+ollikahn23: raises $0.06 to $0.08
+sapr.549: folds 
+Cezar164: folds 
+marmalidi: folds 
+RAMZES_BLR: folds 
+neuge04: calls $0.06
+*** FLOP *** [9d Kh Qs]
+neuge04: checks 
+ollikahn23: bets $0.08
+neuge04: calls $0.08
+*** TURN *** [9d Kh Qs] [8h]
+neuge04: checks 
+ollikahn23: checks 
+*** RIVER *** [9d Kh Qs 8h] [2c]
+neuge04: checks 
+ollikahn23: checks 
+*** SHOW DOWN ***
+neuge04: shows [Ah Qh] (a pair of Queens)
+ollikahn23: mucks hand 
+neuge04 collected $0.34 from pot
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [9d Kh Qs 8h 2c]
+Seat 1: Filonous folded before Flop (didn't bet)
+Seat 2: neuge04 showed [Ah Qh] and won ($0.34) with a pair of Queens
+Seat 3: Omahabest folded before Flop (didn't bet)
+Seat 4: ollikahn23 mucked [As 9h]
+Seat 5: sapr.549 folded before Flop (didn't bet)
+Seat 6: Cezar164 (button) folded before Flop (didn't bet)
+Seat 7: marmalidi (small blind) folded before Flop
+Seat 8: RAMZES_BLR (big blind) folded before Flop
+Seat 9: 4Rchy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182115130343:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:48:01 ET
+Table 'Ontake II' 9-max Seat #7 is the button
+Seat 1: Filonous ($2.37 in chips) 
+Seat 2: neuge04 ($5.25 in chips) 
+Seat 3: Omahabest ($2.14 in chips) 
+Seat 4: ollikahn23 ($2 in chips) 
+Seat 5: sapr.549 ($1.96 in chips) 
+Seat 6: Cezar164 ($1.87 in chips) 
+Seat 7: marmalidi ($0.87 in chips) 
+Seat 8: RAMZES_BLR ($2.01 in chips) 
+Seat 9: 4Rchy ($2 in chips) 
+RAMZES_BLR: posts small blind $0.01
+4Rchy: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9s 3s]
+Filonous: folds 
+neuge04: folds 
+Omahabest: folds 
+ollikahn23: folds 
+sapr.549: folds 
+Cezar164: folds 
+marmalidi: raises $0.02 to $0.04
+RAMZES_BLR: folds 
+4Rchy: folds 
+Uncalled bet ($0.02) returned to marmalidi
+marmalidi collected $0.05 from pot
+marmalidi: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Filonous folded before Flop (didn't bet)
+Seat 2: neuge04 folded before Flop (didn't bet)
+Seat 3: Omahabest folded before Flop (didn't bet)
+Seat 4: ollikahn23 folded before Flop (didn't bet)
+Seat 5: sapr.549 folded before Flop (didn't bet)
+Seat 6: Cezar164 folded before Flop (didn't bet)
+Seat 7: marmalidi (button) collected ($0.05)
+Seat 8: RAMZES_BLR (small blind) folded before Flop
+Seat 9: 4Rchy (big blind) folded before Flop
+
+
+
+PokerStars Hand #182115149059:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:48:24 ET
+Table 'Ontake II' 9-max Seat #8 is the button
+Seat 1: Filonous ($2.37 in chips) 
+Seat 2: neuge04 ($5.25 in chips) 
+Seat 3: Omahabest ($2.14 in chips) 
+Seat 4: ollikahn23 ($2 in chips) 
+Seat 5: sapr.549 ($1.96 in chips) 
+Seat 6: Cezar164 ($1.87 in chips) 
+Seat 7: marmalidi ($0.90 in chips) 
+Seat 8: RAMZES_BLR ($2 in chips) 
+Seat 9: 4Rchy ($2 in chips) 
+4Rchy: posts small blind $0.01
+Filonous: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ac 5s]
+neuge04: folds 
+Omahabest: folds 
+ollikahn23: folds 
+sapr.549: folds 
+Cezar164: folds 
+marmalidi: calls $0.02
+RAMZES_BLR: folds 
+4Rchy: folds 
+Filonous: checks 
+*** FLOP *** [2s 8h Qh]
+Filonous: checks 
+marmalidi: bets $0.06
+Filonous: folds 
+Uncalled bet ($0.06) returned to marmalidi
+marmalidi collected $0.05 from pot
+marmalidi: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [2s 8h Qh]
+Seat 1: Filonous (big blind) folded on the Flop
+Seat 2: neuge04 folded before Flop (didn't bet)
+Seat 3: Omahabest folded before Flop (didn't bet)
+Seat 4: ollikahn23 folded before Flop (didn't bet)
+Seat 5: sapr.549 folded before Flop (didn't bet)
+Seat 6: Cezar164 folded before Flop (didn't bet)
+Seat 7: marmalidi collected ($0.05)
+Seat 8: RAMZES_BLR (button) folded before Flop (didn't bet)
+Seat 9: 4Rchy (small blind) folded before Flop
+
+
+
+PokerStars Hand #182115185215:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:49:08 ET
+Table 'Ontake II' 9-max Seat #9 is the button
+Seat 1: Filonous ($2.35 in chips) 
+Seat 2: neuge04 ($5.25 in chips) 
+Seat 3: Omahabest ($2.14 in chips) 
+Seat 4: ollikahn23 ($2 in chips) 
+Seat 5: sapr.549 ($1.96 in chips) 
+Seat 6: Cezar164 ($1.87 in chips) 
+Seat 7: marmalidi ($0.93 in chips) 
+Seat 8: RAMZES_BLR ($2 in chips) 
+Seat 9: 4Rchy ($2 in chips) 
+Filonous: posts small blind $0.01
+neuge04: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qc 7c]
+Omahabest: folds 
+ollikahn23: folds 
+sapr.549: folds 
+Cezar164: folds 
+marmalidi: folds 
+RAMZES_BLR: folds 
+4Rchy: folds 
+Filonous: folds 
+Uncalled bet ($0.01) returned to neuge04
+neuge04 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Filonous (small blind) folded before Flop
+Seat 2: neuge04 (big blind) collected ($0.02)
+Seat 3: Omahabest folded before Flop (didn't bet)
+Seat 4: ollikahn23 folded before Flop (didn't bet)
+Seat 5: sapr.549 folded before Flop (didn't bet)
+Seat 6: Cezar164 folded before Flop (didn't bet)
+Seat 7: marmalidi folded before Flop (didn't bet)
+Seat 8: RAMZES_BLR folded before Flop (didn't bet)
+Seat 9: 4Rchy (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182115212057:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:49:41 ET
+Table 'Ontake II' 9-max Seat #1 is the button
+Seat 1: Filonous ($2.34 in chips) 
+Seat 2: neuge04 ($5.26 in chips) 
+Seat 3: Omahabest ($2.14 in chips) 
+Seat 4: ollikahn23 ($2 in chips) 
+Seat 5: sapr.549 ($1.96 in chips) 
+Seat 6: Cezar164 ($1.87 in chips) 
+Seat 7: marmalidi ($0.93 in chips) 
+Seat 8: RAMZES_BLR ($2 in chips) 
+Seat 9: 4Rchy ($2 in chips) 
+neuge04: posts small blind $0.01
+Omahabest: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3h 8s]
+ollikahn23: folds 
+sapr.549: folds 
+Cezar164: folds 
+marmalidi: calls $0.02
+RAMZES_BLR: folds 
+4Rchy: raises $0.06 to $0.08
+Filonous: calls $0.08
+neuge04: folds 
+Omahabest: folds 
+marmalidi: calls $0.06
+*** FLOP *** [Qh 8d Js]
+marmalidi: checks 
+4Rchy: checks 
+Filonous: checks 
+*** TURN *** [Qh 8d Js] [Jd]
+marmalidi: bets $0.06
+4Rchy: folds 
+Filonous: folds 
+Uncalled bet ($0.06) returned to marmalidi
+marmalidi collected $0.26 from pot
+marmalidi: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [Qh 8d Js Jd]
+Seat 1: Filonous (button) folded on the Turn
+Seat 2: neuge04 (small blind) folded before Flop
+Seat 3: Omahabest (big blind) folded before Flop
+Seat 4: ollikahn23 folded before Flop (didn't bet)
+Seat 5: sapr.549 folded before Flop (didn't bet)
+Seat 6: Cezar164 folded before Flop (didn't bet)
+Seat 7: marmalidi collected ($0.26)
+Seat 8: RAMZES_BLR folded before Flop (didn't bet)
+Seat 9: 4Rchy folded on the Turn
+
+
+
+PokerStars Hand #182115294349:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:51:22 ET
+Table 'Ontake II' 9-max Seat #2 is the button
+Seat 1: Filonous ($2.26 in chips) 
+Seat 2: neuge04 ($5.25 in chips) 
+Seat 3: Omahabest ($2.12 in chips) 
+Seat 4: ollikahn23 ($2 in chips) 
+Seat 5: sapr.549 ($1.96 in chips) 
+Seat 6: Cezar164 ($1.87 in chips) 
+Seat 7: marmalidi ($1.11 in chips) 
+Seat 8: RAMZES_BLR ($2 in chips) 
+Seat 9: 4Rchy ($2 in chips) 
+Omahabest: posts small blind $0.01
+ollikahn23: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8s 4c]
+sapr.549: folds 
+Cezar164: folds 
+marmalidi: folds 
+RAMZES_BLR: folds 
+4Rchy: folds 
+Filonous has timed out
+Filonous: folds 
+neuge04: calls $0.02
+Omahabest: folds 
+ollikahn23: checks 
+*** FLOP *** [9h 4s Ts]
+ollikahn23: checks 
+neuge04: checks 
+*** TURN *** [9h 4s Ts] [7c]
+ollikahn23: checks 
+neuge04: bets $0.02
+ollikahn23: calls $0.02
+*** RIVER *** [9h 4s Ts 7c] [Kd]
+ollikahn23: checks 
+neuge04: bets $0.05
+ollikahn23: calls $0.05
+*** SHOW DOWN ***
+neuge04: shows [Jd 8h] (a straight, Seven to Jack)
+ollikahn23: mucks hand 
+neuge04 collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [9h 4s Ts 7c Kd]
+Seat 1: Filonous folded before Flop (didn't bet)
+Seat 2: neuge04 (button) showed [Jd 8h] and won ($0.18) with a straight, Seven to Jack
+Seat 3: Omahabest (small blind) folded before Flop
+Seat 4: ollikahn23 (big blind) mucked [8s 4c]
+Seat 5: sapr.549 folded before Flop (didn't bet)
+Seat 6: Cezar164 folded before Flop (didn't bet)
+Seat 7: marmalidi folded before Flop (didn't bet)
+Seat 8: RAMZES_BLR folded before Flop (didn't bet)
+Seat 9: 4Rchy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182115347984:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:52:26 ET
+Table 'Ontake II' 9-max Seat #3 is the button
+Seat 1: Filonous ($2.26 in chips) 
+Seat 2: neuge04 ($5.34 in chips) 
+Seat 3: Omahabest ($2.11 in chips) 
+Seat 4: ollikahn23 ($2 in chips) 
+Seat 5: sapr.549 ($1.96 in chips) 
+Seat 6: Cezar164 ($1.87 in chips) 
+Seat 7: marmalidi ($1.11 in chips) 
+Seat 8: RAMZES_BLR ($2 in chips) 
+Seat 9: 4Rchy ($2 in chips) 
+ollikahn23: posts small blind $0.01
+sapr.549: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7s 6c]
+Cezar164: folds 
+marmalidi: raises $0.04 to $0.06
+RAMZES_BLR: folds 
+4Rchy: folds 
+Filonous: folds 
+neuge04: calls $0.06
+Omahabest: raises $0.10 to $0.16
+ollikahn23: folds 
+sapr.549: folds 
+marmalidi: calls $0.10
+neuge04: calls $0.10
+*** FLOP *** [Kd 7d Jc]
+marmalidi: checks 
+neuge04: checks 
+Omahabest: checks 
+*** TURN *** [Kd 7d Jc] [7c]
+marmalidi: checks 
+neuge04: checks 
+Omahabest: bets $0.18
+marmalidi: folds 
+neuge04: calls $0.18
+*** RIVER *** [Kd 7d Jc 7c] [9s]
+neuge04: checks 
+Omahabest: checks 
+*** SHOW DOWN ***
+neuge04: shows [8h 8c] (two pair, Eights and Sevens)
+Omahabest: shows [Qd Qc] (two pair, Queens and Sevens)
+Omahabest collected $0.84 from pot
+*** SUMMARY ***
+Total pot $0.87 | Rake $0.03 
+Board [Kd 7d Jc 7c 9s]
+Seat 1: Filonous folded before Flop (didn't bet)
+Seat 2: neuge04 showed [8h 8c] and lost with two pair, Eights and Sevens
+Seat 3: Omahabest (button) showed [Qd Qc] and won ($0.84) with two pair, Queens and Sevens
+Seat 4: ollikahn23 (small blind) folded before Flop
+Seat 5: sapr.549 (big blind) folded before Flop
+Seat 6: Cezar164 folded before Flop (didn't bet)
+Seat 7: marmalidi folded on the Turn
+Seat 8: RAMZES_BLR folded before Flop (didn't bet)
+Seat 9: 4Rchy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182115397262:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:53:26 ET
+Table 'Ontake II' 9-max Seat #4 is the button
+Seat 1: Filonous ($2.26 in chips) 
+Seat 2: neuge04 ($5 in chips) 
+Seat 3: Omahabest ($2.61 in chips) 
+Seat 4: ollikahn23 ($2 in chips) 
+Seat 5: sapr.549 ($1.94 in chips) 
+Seat 6: Cezar164 ($1.87 in chips) 
+Seat 7: marmalidi ($0.95 in chips) 
+Seat 8: RAMZES_BLR ($2 in chips) 
+Seat 9: 4Rchy ($2 in chips) 
+sapr.549: posts small blind $0.01
+Cezar164: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2h 8c]
+marmalidi: raises $0.04 to $0.06
+RAMZES_BLR: folds 
+4Rchy: folds 
+Filonous: folds 
+neuge04: folds 
+Omahabest: folds 
+neuge04 leaves the table
+ollikahn23: folds 
+sapr.549: folds 
+Cezar164: folds 
+Uncalled bet ($0.04) returned to marmalidi
+marmalidi collected $0.05 from pot
+marmalidi: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Filonous folded before Flop (didn't bet)
+Seat 2: neuge04 folded before Flop (didn't bet)
+Seat 3: Omahabest folded before Flop (didn't bet)
+Seat 4: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 5: sapr.549 (small blind) folded before Flop
+Seat 6: Cezar164 (big blind) folded before Flop
+Seat 7: marmalidi collected ($0.05)
+Seat 8: RAMZES_BLR folded before Flop (didn't bet)
+Seat 9: 4Rchy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182115421132:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:53:56 ET
+Table 'Ontake II' 9-max Seat #5 is the button
+Seat 1: Filonous ($2.26 in chips) 
+Seat 3: Omahabest ($2.61 in chips) 
+Seat 4: ollikahn23 ($2 in chips) 
+Seat 5: sapr.549 ($1.93 in chips) 
+Seat 6: Cezar164 ($1.85 in chips) 
+Seat 7: marmalidi ($0.98 in chips) 
+Seat 8: RAMZES_BLR ($2 in chips) 
+Seat 9: 4Rchy ($2 in chips) 
+Cezar164: posts small blind $0.01
+marmalidi: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2d Ah]
+RAMZES_BLR: folds 
+4Rchy: folds 
+Filonous: folds 
+Omahabest: folds 
+ollikahn23: folds 
+sapr.549: folds 
+Cezar164: folds 
+Uncalled bet ($0.01) returned to marmalidi
+marmalidi collected $0.02 from pot
+marmalidi: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Filonous folded before Flop (didn't bet)
+Seat 3: Omahabest folded before Flop (didn't bet)
+Seat 4: ollikahn23 folded before Flop (didn't bet)
+Seat 5: sapr.549 (button) folded before Flop (didn't bet)
+Seat 6: Cezar164 (small blind) folded before Flop
+Seat 7: marmalidi (big blind) collected ($0.02)
+Seat 8: RAMZES_BLR folded before Flop (didn't bet)
+Seat 9: 4Rchy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182115435041:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:54:12 ET
+Table 'Ontake II' 9-max Seat #6 is the button
+Seat 1: Filonous ($2.26 in chips) 
+Seat 3: Omahabest ($2.61 in chips) 
+Seat 4: ollikahn23 ($2 in chips) 
+Seat 5: sapr.549 ($1.93 in chips) 
+Seat 6: Cezar164 ($1.84 in chips) 
+Seat 7: marmalidi ($0.99 in chips) 
+Seat 8: RAMZES_BLR ($2 in chips) 
+Seat 9: 4Rchy ($2 in chips) 
+marmalidi: posts small blind $0.01
+RAMZES_BLR: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qs 7h]
+4Rchy: raises $0.04 to $0.06
+Filonous: folds 
+Omahabest: folds 
+ollikahn23: folds 
+sapr.549: folds 
+Cezar164: calls $0.06
+marmalidi: calls $0.05
+RAMZES_BLR: folds 
+*** FLOP *** [8h 3s 3d]
+marmalidi: checks 
+isv777 joins the table at seat #2 
+4Rchy: checks 
+Cezar164: checks 
+*** TURN *** [8h 3s 3d] [Jd]
+marmalidi: checks 
+4Rchy: checks 
+Cezar164: checks 
+*** RIVER *** [8h 3s 3d Jd] [Ad]
+marmalidi: bets $0.08
+4Rchy: calls $0.08
+Cezar164: calls $0.08
+*** SHOW DOWN ***
+marmalidi: shows [3c 6c] (three of a kind, Threes)
+4Rchy: mucks hand 
+Cezar164: mucks hand 
+marmalidi collected $0.42 from pot
+*** SUMMARY ***
+Total pot $0.44 | Rake $0.02 
+Board [8h 3s 3d Jd Ad]
+Seat 1: Filonous folded before Flop (didn't bet)
+Seat 3: Omahabest folded before Flop (didn't bet)
+Seat 4: ollikahn23 folded before Flop (didn't bet)
+Seat 5: sapr.549 folded before Flop (didn't bet)
+Seat 6: Cezar164 (button) mucked [Ks As]
+Seat 7: marmalidi (small blind) showed [3c 6c] and won ($0.42) with three of a kind, Threes
+Seat 8: RAMZES_BLR (big blind) folded before Flop
+Seat 9: 4Rchy mucked [Qh Ah]
+
+
+
+PokerStars Hand #182115495255:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:55:29 ET
+Table 'Ontake II' 9-max Seat #7 is the button
+Seat 1: Filonous ($2.26 in chips) 
+Seat 2: isv777 ($1.04 in chips) 
+Seat 3: Omahabest ($2.61 in chips) 
+Seat 4: ollikahn23 ($2 in chips) 
+Seat 5: sapr.549 ($1.93 in chips) 
+Seat 6: Cezar164 ($1.70 in chips) 
+Seat 7: marmalidi ($1.27 in chips) 
+Seat 8: RAMZES_BLR ($2 in chips) 
+Seat 9: 4Rchy ($2 in chips) 
+RAMZES_BLR: posts small blind $0.01
+4Rchy: posts big blind $0.02
+isv777: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4s 6h]
+Filonous: folds 
+isv777: checks 
+Omahabest: folds 
+ollikahn23: folds 
+sapr.549: folds 
+Cezar164: raises $0.06 to $0.08
+marmalidi: calls $0.08
+RAMZES_BLR: folds 
+4Rchy: folds 
+isv777: folds 
+*** FLOP *** [Jh Kh 8c]
+Cezar164: bets $0.12
+marmalidi: calls $0.12
+*** TURN *** [Jh Kh 8c] [Qs]
+Cezar164: bets $0.27
+marmalidi: raises $0.27 to $0.54
+Cezar164: calls $0.27
+*** RIVER *** [Jh Kh 8c Qs] [8h]
+Cezar164: checks 
+marmalidi: bets $0.53 and is all-in
+Cezar164: folds 
+Uncalled bet ($0.53) returned to marmalidi
+marmalidi collected $1.48 from pot
+marmalidi: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.53 | Rake $0.05 
+Board [Jh Kh 8c Qs 8h]
+Seat 1: Filonous folded before Flop (didn't bet)
+Seat 2: isv777 folded before Flop
+Seat 3: Omahabest folded before Flop (didn't bet)
+Seat 4: ollikahn23 folded before Flop (didn't bet)
+Seat 5: sapr.549 folded before Flop (didn't bet)
+Seat 6: Cezar164 folded on the River
+Seat 7: marmalidi (button) collected ($1.48)
+Seat 8: RAMZES_BLR (small blind) folded before Flop
+Seat 9: 4Rchy (big blind) folded before Flop
+
+
+
+PokerStars Hand #182115543294:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:56:39 ET
+Table 'Ontake II' 9-max Seat #8 is the button
+Seat 2: isv777 ($1.02 in chips) 
+Seat 3: Omahabest ($2.61 in chips) 
+Seat 4: ollikahn23 ($2 in chips) 
+Seat 5: sapr.549 ($1.93 in chips) 
+Seat 6: Cezar164 ($0.96 in chips) 
+Seat 7: marmalidi ($2.01 in chips) 
+Seat 8: RAMZES_BLR ($2 in chips) 
+Seat 9: 4Rchy ($2 in chips) 
+4Rchy: posts small blind $0.01
+Filonous: is sitting out 
+Filonous leaves the table
+isv777: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Tc 4s]
+alehandro_e joins the table at seat #1 
+Omahabest: folds 
+ollikahn23: folds 
+sapr.549: raises $0.06 to $0.08
+Cezar164: raises $0.19 to $0.27
+marmalidi: folds 
+RAMZES_BLR: folds 
+4Rchy: folds 
+isv777: folds 
+sapr.549: calls $0.19
+*** FLOP *** [8h 6s Ks]
+sapr.549: checks 
+Cezar164: checks 
+*** TURN *** [8h 6s Ks] [4h]
+sapr.549: bets $0.23
+Cezar164: raises $0.46 to $0.69 and is all-in
+sapr.549: calls $0.46
+*** RIVER *** [8h 6s Ks 4h] [3s]
+*** SHOW DOWN ***
+sapr.549: shows [Kc Ah] (a pair of Kings)
+Cezar164: shows [Ac As] (a pair of Aces)
+Cezar164 collected $1.88 from pot
+*** SUMMARY ***
+Total pot $1.95 | Rake $0.07 
+Board [8h 6s Ks 4h 3s]
+Seat 2: isv777 (big blind) folded before Flop
+Seat 3: Omahabest folded before Flop (didn't bet)
+Seat 4: ollikahn23 folded before Flop (didn't bet)
+Seat 5: sapr.549 showed [Kc Ah] and lost with a pair of Kings
+Seat 6: Cezar164 showed [Ac As] and won ($1.88) with a pair of Aces
+Seat 7: marmalidi folded before Flop (didn't bet)
+Seat 8: RAMZES_BLR (button) folded before Flop (didn't bet)
+Seat 9: 4Rchy (small blind) folded before Flop
+
+
+
+PokerStars Hand #182115578463:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:57:31 ET
+Table 'Ontake II' 9-max Seat #9 is the button
+Seat 2: isv777 ($1 in chips) 
+Seat 3: Omahabest ($2.61 in chips) 
+Seat 4: ollikahn23 ($2 in chips) 
+Seat 5: sapr.549 ($0.97 in chips) 
+Seat 6: Cezar164 ($1.88 in chips) 
+Seat 7: marmalidi ($2.01 in chips) 
+Seat 8: RAMZES_BLR ($2 in chips) 
+Seat 9: 4Rchy ($2 in chips) 
+alehandro_e will be allowed to play after the button
+isv777: posts small blind $0.01
+Omahabest: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6s Tc]
+ollikahn23: folds 
+sapr.549: folds 
+Cezar164: raises $0.04 to $0.06
+marmalidi: calls $0.06
+RAMZES_BLR: raises $0.12 to $0.18
+4Rchy: folds 
+isv777: folds 
+Omahabest: folds 
+Cezar164: calls $0.12
+marmalidi: folds 
+*** FLOP *** [3s 5h Jh]
+Cezar164: checks 
+RAMZES_BLR: bets $0.32
+Cezar164: folds 
+Uncalled bet ($0.32) returned to RAMZES_BLR
+RAMZES_BLR collected $0.43 from pot
+RAMZES_BLR: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [3s 5h Jh]
+Seat 2: isv777 (small blind) folded before Flop
+Seat 3: Omahabest (big blind) folded before Flop
+Seat 4: ollikahn23 folded before Flop (didn't bet)
+Seat 5: sapr.549 folded before Flop (didn't bet)
+Seat 6: Cezar164 folded on the Flop
+Seat 7: marmalidi folded before Flop
+Seat 8: RAMZES_BLR collected ($0.43)
+Seat 9: 4Rchy (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182115622820:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:58:22 ET
+Table 'Ontake II' 9-max Seat #2 is the button
+Seat 2: isv777 ($0.99 in chips) 
+Seat 3: Omahabest ($2.59 in chips) 
+Seat 4: ollikahn23 ($2 in chips) 
+Seat 5: sapr.549 ($0.97 in chips) 
+Seat 6: Cezar164 ($1.70 in chips) 
+Seat 7: marmalidi ($1.95 in chips) 
+Seat 8: RAMZES_BLR ($2.25 in chips) 
+Seat 9: 4Rchy ($2 in chips) 
+Omahabest: posts small blind $0.01
+ollikahn23: posts big blind $0.02
+alehandro_e: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8c Td]
+sapr.549: folds 
+Cezar164: folds 
+marmalidi: folds 
+RAMZES_BLR: folds 
+4Rchy: raises $0.04 to $0.06
+isv777: folds 
+Omahabest: folds 
+ollikahn23: folds 
+Uncalled bet ($0.04) returned to 4Rchy
+4Rchy collected $0.05 from pot
+4Rchy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: isv777 (button) folded before Flop (didn't bet)
+Seat 3: Omahabest (small blind) folded before Flop
+Seat 4: ollikahn23 (big blind) folded before Flop
+Seat 5: sapr.549 folded before Flop (didn't bet)
+Seat 6: Cezar164 folded before Flop (didn't bet)
+Seat 7: marmalidi folded before Flop (didn't bet)
+Seat 8: RAMZES_BLR folded before Flop (didn't bet)
+Seat 9: 4Rchy collected ($0.05)
+
+
+
+PokerStars Hand #182115638847:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:58:45 ET
+Table 'Ontake II' 9-max Seat #3 is the button
+Seat 2: isv777 ($0.99 in chips) 
+Seat 3: Omahabest ($2.58 in chips) 
+Seat 4: ollikahn23 ($2 in chips) 
+Seat 5: sapr.549 ($0.97 in chips) 
+Seat 6: Cezar164 ($1.70 in chips) 
+Seat 7: marmalidi ($1.95 in chips) 
+Seat 8: RAMZES_BLR ($2.25 in chips) 
+Seat 9: 4Rchy ($2.03 in chips) 
+ollikahn23: posts small blind $0.01
+sapr.549: posts big blind $0.02
+alehandro_e: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kh Qc]
+Cezar164: folds 
+marmalidi: raises $0.02 to $0.04
+RAMZES_BLR: folds 
+4Rchy: folds 
+isv777: folds 
+Omahabest: folds 
+ollikahn23: folds 
+sapr.549: calls $0.02
+*** FLOP *** [5s 4h 5h]
+sapr.549: checks 
+marmalidi: checks 
+*** TURN *** [5s 4h 5h] [Kd]
+sapr.549: checks 
+marmalidi: bets $0.04
+sapr.549: folds 
+Uncalled bet ($0.04) returned to marmalidi
+marmalidi collected $0.09 from pot
+marmalidi: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [5s 4h 5h Kd]
+Seat 2: isv777 folded before Flop (didn't bet)
+Seat 3: Omahabest (button) folded before Flop (didn't bet)
+Seat 4: ollikahn23 (small blind) folded before Flop
+Seat 5: sapr.549 (big blind) folded on the Turn
+Seat 6: Cezar164 folded before Flop (didn't bet)
+Seat 7: marmalidi collected ($0.09)
+Seat 8: RAMZES_BLR folded before Flop (didn't bet)
+Seat 9: 4Rchy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182115665390:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:59:24 ET
+Table 'Ontake II' 9-max Seat #4 is the button
+Seat 2: isv777 ($0.99 in chips) 
+Seat 3: Omahabest ($2.58 in chips) 
+Seat 4: ollikahn23 ($2 in chips) 
+Seat 5: sapr.549 ($0.93 in chips) 
+Seat 6: Cezar164 ($1.70 in chips) 
+Seat 7: marmalidi ($2 in chips) 
+Seat 8: RAMZES_BLR ($2.25 in chips) 
+Seat 9: 4Rchy ($2.03 in chips) 
+sapr.549: posts small blind $0.01
+Cezar164: posts big blind $0.02
+alehandro_e: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Tc 8c]
+marmalidi: folds 
+RAMZES_BLR: raises $0.04 to $0.06
+4Rchy: folds 
+isv777: folds 
+Omahabest: folds 
+ollikahn23: folds 
+sapr.549: calls $0.05
+Cezar164: folds 
+*** FLOP *** [2d 3d Ac]
+sapr.549: checks 
+RAMZES_BLR: bets $0.10
+sapr.549: folds 
+Uncalled bet ($0.10) returned to RAMZES_BLR
+RAMZES_BLR collected $0.14 from pot
+RAMZES_BLR: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [2d 3d Ac]
+Seat 2: isv777 folded before Flop (didn't bet)
+Seat 3: Omahabest folded before Flop (didn't bet)
+Seat 4: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 5: sapr.549 (small blind) folded on the Flop
+Seat 6: Cezar164 (big blind) folded before Flop
+Seat 7: marmalidi folded before Flop (didn't bet)
+Seat 8: RAMZES_BLR collected ($0.14)
+Seat 9: 4Rchy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182115696629:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 13:00:08 ET
+Table 'Ontake II' 9-max Seat #5 is the button
+Seat 2: isv777 ($0.99 in chips) 
+Seat 3: Omahabest ($2.58 in chips) 
+Seat 4: ollikahn23 ($2 in chips) 
+Seat 5: sapr.549 ($0.87 in chips) 
+Seat 6: Cezar164 ($1.68 in chips) 
+Seat 7: marmalidi ($2 in chips) 
+Seat 8: RAMZES_BLR ($2.33 in chips) 
+Seat 9: 4Rchy ($2.03 in chips) 
+Cezar164: posts small blind $0.01
+marmalidi: posts big blind $0.02
+alehandro_e: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4c Ac]
+RAMZES_BLR: folds 
+4Rchy: folds 
+isv777: folds 
+Omahabest: folds 
+ollikahn23: raises $0.04 to $0.06
+sapr.549: calls $0.06
+Cezar164: folds 
+marmalidi: calls $0.04
+*** FLOP *** [Kc 9s Ad]
+marmalidi: checks 
+ollikahn23: bets $0.08
+sapr.549: folds 
+marmalidi: folds 
+Uncalled bet ($0.08) returned to ollikahn23
+ollikahn23 collected $0.18 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Kc 9s Ad]
+Seat 2: isv777 folded before Flop (didn't bet)
+Seat 3: Omahabest folded before Flop (didn't bet)
+Seat 4: ollikahn23 collected ($0.18)
+Seat 5: sapr.549 (button) folded on the Flop
+Seat 6: Cezar164 (small blind) folded before Flop
+Seat 7: marmalidi (big blind) folded on the Flop
+Seat 8: RAMZES_BLR folded before Flop (didn't bet)
+Seat 9: 4Rchy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182115733478:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 13:00:58 ET
+Table 'Ontake II' 9-max Seat #6 is the button
+Seat 2: isv777 ($0.99 in chips) 
+Seat 3: Omahabest ($2.58 in chips) 
+Seat 4: ollikahn23 ($2.12 in chips) 
+Seat 5: sapr.549 ($0.81 in chips) 
+Seat 6: Cezar164 ($1.67 in chips) 
+Seat 7: marmalidi ($1.94 in chips) 
+Seat 8: RAMZES_BLR ($2.33 in chips) 
+Seat 9: 4Rchy ($2.03 in chips) 
+marmalidi: posts small blind $0.01
+RAMZES_BLR: posts big blind $0.02
+alehandro_e: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8d 6s]
+4Rchy: folds 
+isv777: folds 
+Omahabest: folds 
+ollikahn23: folds 
+sapr.549: folds 
+Cezar164: folds 
+marmalidi: calls $0.01
+RAMZES_BLR: checks 
+*** FLOP *** [4s 6c 2c]
+marmalidi: checks 
+RAMZES_BLR: checks 
+*** TURN *** [4s 6c 2c] [Ah]
+marmalidi: checks 
+RAMZES_BLR: checks 
+*** RIVER *** [4s 6c 2c Ah] [3s]
+marmalidi: checks 
+RAMZES_BLR: checks 
+*** SHOW DOWN ***
+marmalidi: shows [9h Qs] (high card Ace)
+RAMZES_BLR: mucks hand 
+marmalidi collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [4s 6c 2c Ah 3s]
+Seat 2: isv777 folded before Flop (didn't bet)
+Seat 3: Omahabest folded before Flop (didn't bet)
+Seat 4: ollikahn23 folded before Flop (didn't bet)
+Seat 5: sapr.549 folded before Flop (didn't bet)
+Seat 6: Cezar164 (button) folded before Flop (didn't bet)
+Seat 7: marmalidi (small blind) showed [9h Qs] and won ($0.04) with high card Ace
+Seat 8: RAMZES_BLR (big blind) mucked [Js Ts]
+Seat 9: 4Rchy folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182115781132:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 13:01:58 ET
+Table 'Ontake II' 9-max Seat #7 is the button
+Seat 2: isv777 ($0.99 in chips) 
+Seat 3: Omahabest ($2.58 in chips) 
+Seat 4: ollikahn23 ($2.12 in chips) 
+Seat 5: sapr.549 ($0.81 in chips) 
+Seat 6: Cezar164 ($1.67 in chips) 
+Seat 7: marmalidi ($1.96 in chips) 
+Seat 8: RAMZES_BLR ($2.31 in chips) 
+Seat 9: 4Rchy ($2.03 in chips) 
+RAMZES_BLR: posts small blind $0.01
+4Rchy: posts big blind $0.02
+alehandro_e: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7c Ah]
+isv777: folds 
+Omahabest: folds 
+ollikahn23: folds 
+sapr.549: folds 
+Cezar164: raises $0.04 to $0.06
+marmalidi: raises $0.04 to $0.10
+RAMZES_BLR: folds 
+4Rchy: folds 
+Cezar164: calls $0.04
+*** FLOP *** [8h 4h Th]
+Cezar164: checks 
+marmalidi: checks 
+*** TURN *** [8h 4h Th] [Qd]
+Cezar164: checks 
+marmalidi: checks 
+*** RIVER *** [8h 4h Th Qd] [4s]
+Cezar164: checks 
+marmalidi: checks 
+*** SHOW DOWN ***
+Cezar164: shows [Js Qs] (two pair, Queens and Fours)
+marmalidi: mucks hand 
+Cezar164 collected $0.22 from pot
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [8h 4h Th Qd 4s]
+Seat 2: isv777 folded before Flop (didn't bet)
+Seat 3: Omahabest folded before Flop (didn't bet)
+Seat 4: ollikahn23 folded before Flop (didn't bet)
+Seat 5: sapr.549 folded before Flop (didn't bet)
+Seat 6: Cezar164 showed [Js Qs] and won ($0.22) with two pair, Queens and Fours
+Seat 7: marmalidi (button) mucked [Jd Kd]
+Seat 8: RAMZES_BLR (small blind) folded before Flop
+Seat 9: 4Rchy (big blind) folded before Flop
+
+
+
+PokerStars Hand #182115819391:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 13:02:43 ET
+Table 'Ontake II' 9-max Seat #8 is the button
+Seat 1: alehandro_e ($1.60 in chips) 
+Seat 2: isv777 ($0.99 in chips) 
+Seat 3: Omahabest ($2.58 in chips) 
+Seat 4: ollikahn23 ($2.12 in chips) 
+Seat 5: sapr.549 ($0.81 in chips) 
+Seat 6: Cezar164 ($1.79 in chips) 
+Seat 7: marmalidi ($1.86 in chips) 
+Seat 8: RAMZES_BLR ($2.30 in chips) 
+Seat 9: 4Rchy ($2.01 in chips) 
+4Rchy: posts small blind $0.01
+alehandro_e: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6h 7s]
+isv777: folds 
+Omahabest: folds 
+ollikahn23: folds 
+sapr.549: folds 
+Cezar164: folds 
+marmalidi: folds 
+marmalidi leaves the table
+RAMZES_BLR: folds 
+4Rchy: raises $0.04 to $0.06
+alehandro_e: folds 
+Uncalled bet ($0.04) returned to 4Rchy
+4Rchy collected $0.04 from pot
+4Rchy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: alehandro_e (big blind) folded before Flop
+Seat 2: isv777 folded before Flop (didn't bet)
+Seat 3: Omahabest folded before Flop (didn't bet)
+Seat 4: ollikahn23 folded before Flop (didn't bet)
+Seat 5: sapr.549 folded before Flop (didn't bet)
+Seat 6: Cezar164 folded before Flop (didn't bet)
+Seat 7: marmalidi folded before Flop (didn't bet)
+Seat 8: RAMZES_BLR (button) folded before Flop (didn't bet)
+Seat 9: 4Rchy (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #182115839562:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 13:03:08 ET
+Table 'Ontake II' 9-max Seat #9 is the button
+Seat 1: alehandro_e ($1.58 in chips) 
+Seat 2: isv777 ($0.99 in chips) 
+Seat 3: Omahabest ($2.58 in chips) 
+Seat 4: ollikahn23 ($2.12 in chips) 
+Seat 5: sapr.549 ($0.81 in chips) 
+Seat 6: Cezar164 ($1.79 in chips) 
+Seat 8: RAMZES_BLR ($2.30 in chips) 
+Seat 9: 4Rchy ($2.03 in chips) 
+alehandro_e: posts small blind $0.01
+isv777: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8s Jd]
+Omahabest: folds 
+ollikahn23: folds 
+sapr.549: folds 
+Cezar164: folds 
+RAMZES_BLR: folds 
+4Rchy: folds 
+4Rchy leaves the table
+alehandro_e: calls $0.01
+isv777: checks 
+*** FLOP *** [As 6h Qh]
+alehandro_e: checks 
+isv777: checks 
+*** TURN *** [As 6h Qh] [Qc]
+alehandro_e: bets $0.02
+isv777: folds 
+Uncalled bet ($0.02) returned to alehandro_e
+alehandro_e collected $0.04 from pot
+alehandro_e: doesn't show hand 
+User207 joins the table at seat #9 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [As 6h Qh Qc]
+Seat 1: alehandro_e (small blind) collected ($0.04)
+Seat 2: isv777 (big blind) folded on the Turn
+Seat 3: Omahabest folded before Flop (didn't bet)
+Seat 4: ollikahn23 folded before Flop (didn't bet)
+Seat 5: sapr.549 folded before Flop (didn't bet)
+Seat 6: Cezar164 folded before Flop (didn't bet)
+Seat 8: RAMZES_BLR folded before Flop (didn't bet)
+Seat 9: 4Rchy (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182115868092:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 13:03:41 ET
+Table 'Ontake II' 9-max Seat #1 is the button
+Seat 1: alehandro_e ($1.60 in chips) 
+Seat 2: isv777 ($0.97 in chips) 
+Seat 3: Omahabest ($2.58 in chips) 
+Seat 4: ollikahn23 ($2.12 in chips) 
+Seat 5: sapr.549 ($0.81 in chips) 
+Seat 6: Cezar164 ($1.79 in chips) 
+Seat 8: RAMZES_BLR ($2.30 in chips) 
+isv777: posts small blind $0.01
+Omahabest: posts big blind $0.02
+User207: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jc Ad]
+ollikahn23: raises $0.04 to $0.06
+sapr.549: folds 
+Cezar164: folds 
+RAMZES_BLR: folds 
+alehandro_e: folds 
+isv777: folds 
+Omahabest: folds 
+Uncalled bet ($0.04) returned to ollikahn23
+ollikahn23 collected $0.05 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: alehandro_e (button) folded before Flop (didn't bet)
+Seat 2: isv777 (small blind) folded before Flop
+Seat 3: Omahabest (big blind) folded before Flop
+Seat 4: ollikahn23 collected ($0.05)
+Seat 5: sapr.549 folded before Flop (didn't bet)
+Seat 6: Cezar164 folded before Flop (didn't bet)
+Seat 8: RAMZES_BLR folded before Flop (didn't bet)
+
+
+

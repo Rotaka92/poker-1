@@ -1,0 +1,59 @@
+"""PokerStars Hand #182153766627: Tournament #2211561885, $4.10+$0.40 USD Hold'em No Limit - Level VII (125/250) - 2018/02/07 8:49:30 ET
+Table '2211561885 2' 9-max Seat #2 is the button
+Seat 1: Yolo19 (7035 in chips)
+Seat 2: neuiwirt28 (21457 in chips)
+Seat 4: RUBL72 (4104 in chips)
+Seat 5: Jahjge (7873 in chips)
+Seat 6: AlekseyK7777 (6497 in chips)
+Seat 7: RTS-Rob (5481 in chips)
+Seat 8: ollikahn23 (13759 in chips)
+Yolo19: posts the ante 25
+neuiwirt28: posts the ante 25
+RUBL72: posts the ante 25
+Jahjge: posts the ante 25
+AlekseyK7777: posts the ante 25
+RTS-Rob: posts the ante 25
+ollikahn23: posts the ante 25
+RUBL72: posts small blind 125
+Jahjge: posts big blind 250
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7h 7s]
+AlekseyK7777: calls 250
+RTS-Rob: calls 250
+ollikahn23: calls 250
+Yolo19: folds
+neuiwirt28: folds
+RUBL72: calls 125
+Jahjge: checks
+*** FLOP *** [Kh 8c 7c]
+RUBL72: checks
+Jahjge: checks
+AlekseyK7777: checks
+RTS-Rob: checks
+ollikahn23: bets 1025
+RUBL72: folds
+Jahjge: folds
+AlekseyK7777: folds
+RTS-Rob: calls 1025
+*** TURN *** [Kh 8c 7c] [3h]
+RTS-Rob: checks
+ollikahn23: bets 3000
+RTS-Rob: calls 3000
+*** RIVER *** [Kh 8c 7c 3h] [8h]
+RTS-Rob: bets 1181 and is all-in
+ollikahn23: calls 1181
+*** SHOW DOWN ***
+RTS-Rob: shows [Tc 9c] (a pair of Eights)
+ollikahn23: shows [7h 7s] (a full house, Sevens full of Eights)
+ollikahn23 collected 11837 from pot
+RTS-Rob finished the tournament in 23rd place
+*** SUMMARY ***
+Total pot 11837 | Rake 0
+Board [Kh 8c 7c 3h 8h]
+Seat 1: Yolo19 folded before Flop (didn't bet)
+Seat 2: neuiwirt28 (button) folded before Flop (didn't bet)
+Seat 4: RUBL72 (small blind) folded on the Flop
+Seat 5: Jahjge (big blind) folded on the Flop
+Seat 6: AlekseyK7777 folded on the Flop
+Seat 7: RTS-Rob showed [Tc 9c] and lost with a pair of Eights
+Seat 8: ollikahn23 showed [7h 7s] and won (11837) with a full house, Sevens full of Eights"""

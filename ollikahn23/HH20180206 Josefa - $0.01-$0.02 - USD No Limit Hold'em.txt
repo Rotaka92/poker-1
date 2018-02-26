@@ -1,0 +1,2680 @@
+﻿PokerStars Hand #182113717532:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:18:59 ET
+Table 'Josefa' 9-max Seat #8 is the button
+Seat 1: ollikahn23 ($2 in chips) 
+Seat 2: DQA Shark ($2.58 in chips) 
+Seat 3: juraj`t ($2.06 in chips) 
+Seat 5: byChios ($2.29 in chips) 
+Seat 6: punnu ($3.64 in chips) 
+Seat 8: MiSpa1122 ($1.99 in chips) 
+Seat 9: makaron_75 ($2.02 in chips) 
+makaron_75: posts small blind $0.01
+ollikahn23: posts big blind $0.02
+BoerAas: sits out 
+777fenya777: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jc 8s]
+DQA Shark: folds 
+juraj`t: folds 
+byChios: folds 
+punnu: folds 
+MiSpa1122: calls $0.02
+makaron_75: calls $0.01
+ollikahn23: checks 
+*** FLOP *** [5h Td Qd]
+makaron_75: checks 
+ollikahn23: checks 
+MiSpa1122: checks 
+*** TURN *** [5h Td Qd] [9s]
+makaron_75: bets $0.04
+ollikahn23: raises $0.08 to $0.12
+MiSpa1122: folds 
+makaron_75: folds 
+Uncalled bet ($0.08) returned to ollikahn23
+ollikahn23 collected $0.14 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [5h Td Qd 9s]
+Seat 1: ollikahn23 (big blind) collected ($0.14)
+Seat 2: DQA Shark folded before Flop (didn't bet)
+Seat 3: juraj`t folded before Flop (didn't bet)
+Seat 5: byChios folded before Flop (didn't bet)
+Seat 6: punnu folded before Flop (didn't bet)
+Seat 8: MiSpa1122 (button) folded on the Turn
+Seat 9: makaron_75 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #182113758972:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:19:51 ET
+Table 'Josefa' 9-max Seat #9 is the button
+Seat 1: ollikahn23 ($2.08 in chips) 
+Seat 2: DQA Shark ($2.58 in chips) 
+Seat 3: juraj`t ($2.06 in chips) 
+Seat 5: byChios ($2.29 in chips) 
+Seat 6: punnu ($3.64 in chips) 
+Seat 8: MiSpa1122 ($1.97 in chips) 
+Seat 9: makaron_75 ($2 in chips) 
+ollikahn23: posts small blind $0.01
+DQA Shark: posts big blind $0.02
+BoerAas: sits out 
+777fenya777: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5c 3c]
+juraj`t: folds 
+byChios: calls $0.02
+punnu: folds 
+MiSpa1122: folds 
+makaron_75: calls $0.02
+ollikahn23: folds 
+DQA Shark: checks 
+*** FLOP *** [Ks Qh 2d]
+DQA Shark: checks 
+byChios: checks 
+makaron_75: checks 
+*** TURN *** [Ks Qh 2d] [6h]
+DQA Shark: checks 
+byChios: checks 
+makaron_75: checks 
+*** RIVER *** [Ks Qh 2d 6h] [7h]
+DQA Shark: checks 
+byChios: checks 
+makaron_75: checks 
+*** SHOW DOWN ***
+DQA Shark: shows [3d 7c] (a pair of Sevens)
+byChios: mucks hand 
+makaron_75: mucks hand 
+DQA Shark collected $0.07 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [Ks Qh 2d 6h 7h]
+Seat 1: ollikahn23 (small blind) folded before Flop
+Seat 2: DQA Shark (big blind) showed [3d 7c] and won ($0.07) with a pair of Sevens
+Seat 3: juraj`t folded before Flop (didn't bet)
+Seat 5: byChios mucked [9h 8s]
+Seat 6: punnu folded before Flop (didn't bet)
+Seat 8: MiSpa1122 folded before Flop (didn't bet)
+Seat 9: makaron_75 (button) mucked [Jh 9s]
+
+
+
+PokerStars Hand #182113794873:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:20:36 ET
+Table 'Josefa' 9-max Seat #1 is the button
+Seat 1: ollikahn23 ($2.07 in chips) 
+Seat 2: DQA Shark ($2.63 in chips) 
+Seat 3: juraj`t ($2.06 in chips) 
+Seat 5: byChios ($2.27 in chips) 
+Seat 6: punnu ($3.64 in chips) 
+Seat 8: MiSpa1122 ($1.97 in chips) 
+Seat 9: makaron_75 ($2 in chips) 
+DQA Shark: posts small blind $0.01
+juraj`t: posts big blind $0.02
+BoerAas: sits out 
+777fenya777: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ah Tc]
+byChios: raises $0.04 to $0.06
+punnu: folds 
+MiSpa1122: calls $0.06
+makaron_75: folds 
+ollikahn23: folds 
+DQA Shark: folds 
+juraj`t: calls $0.04
+*** FLOP *** [Ks 7c 8c]
+juraj`t: checks 
+byChios: bets $0.18
+MiSpa1122 said, "d..th putin"
+MiSpa1122: folds 
+juraj`t: folds 
+Uncalled bet ($0.18) returned to byChios
+byChios collected $0.18 from pot
+byChios: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Ks 7c 8c]
+Seat 1: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 2: DQA Shark (small blind) folded before Flop
+Seat 3: juraj`t (big blind) folded on the Flop
+Seat 5: byChios collected ($0.18)
+Seat 6: punnu folded before Flop (didn't bet)
+Seat 8: MiSpa1122 folded on the Flop
+Seat 9: makaron_75 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182113831989:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:21:23 ET
+Table 'Josefa' 9-max Seat #2 is the button
+Seat 1: ollikahn23 ($2.07 in chips) 
+Seat 2: DQA Shark ($2.62 in chips) 
+Seat 3: juraj`t ($2 in chips) 
+Seat 4: BoerAas ($2 in chips) 
+Seat 5: byChios ($2.39 in chips) 
+Seat 6: punnu ($3.64 in chips) 
+Seat 8: MiSpa1122 ($1.91 in chips) 
+Seat 9: makaron_75 ($2 in chips) 
+juraj`t: posts small blind $0.01
+BoerAas: posts big blind $0.02
+777fenya777: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4h Kd]
+byChios: folds 
+punnu: folds 
+MiSpa1122: folds 
+makaron_75: folds 
+ollikahn23: folds 
+DQA Shark: raises $0.04 to $0.06
+juraj`t: raises $0.14 to $0.20
+BoerAas: folds 
+DQA Shark: folds 
+Uncalled bet ($0.14) returned to juraj`t
+juraj`t collected $0.14 from pot
+juraj`t: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: DQA Shark (button) folded before Flop
+Seat 3: juraj`t (small blind) collected ($0.14)
+Seat 4: BoerAas (big blind) folded before Flop
+Seat 5: byChios folded before Flop (didn't bet)
+Seat 6: punnu folded before Flop (didn't bet)
+Seat 8: MiSpa1122 folded before Flop (didn't bet)
+Seat 9: makaron_75 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182113850467:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:21:46 ET
+Table 'Josefa' 9-max Seat #3 is the button
+Seat 1: ollikahn23 ($2.07 in chips) 
+Seat 2: DQA Shark ($2.56 in chips) 
+Seat 3: juraj`t ($2.08 in chips) 
+Seat 4: BoerAas ($1.98 in chips) 
+Seat 5: byChios ($2.39 in chips) 
+Seat 6: punnu ($3.64 in chips) 
+Seat 8: MiSpa1122 ($1.91 in chips) 
+Seat 9: makaron_75 ($2 in chips) 
+BoerAas: posts small blind $0.01
+byChios: posts big blind $0.02
+777fenya777: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5d 6c]
+punnu: folds 
+MiSpa1122: calls $0.02
+makaron_75: folds 
+ollikahn23: folds 
+DQA Shark: folds 
+juraj`t: raises $0.06 to $0.08
+BoerAas: calls $0.07
+byChios: calls $0.06
+MiSpa1122: calls $0.06
+*** FLOP *** [3h 2d Jh]
+BoerAas: checks 
+byChios: checks 
+MiSpa1122: checks 
+juraj`t: checks 
+*** TURN *** [3h 2d Jh] [Ts]
+BoerAas: checks 
+byChios: checks 
+MiSpa1122: checks 
+juraj`t: checks 
+*** RIVER *** [3h 2d Jh Ts] [4h]
+makaron_75 said, "deuche schweine"
+BoerAas: checks 
+byChios: checks 
+MiSpa1122: checks 
+juraj`t: checks 
+*** SHOW DOWN ***
+BoerAas: shows [Ad Qs] (high card Ace)
+byChios: shows [4s 6d] (a pair of Fours)
+MiSpa1122: mucks hand 
+juraj`t: mucks hand 
+byChios collected $0.31 from pot
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [3h 2d Jh Ts 4h]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: DQA Shark folded before Flop (didn't bet)
+Seat 3: juraj`t (button) mucked [7d 8h]
+Seat 4: BoerAas (small blind) showed [Ad Qs] and lost with high card Ace
+Seat 5: byChios (big blind) showed [4s 6d] and won ($0.31) with a pair of Fours
+Seat 6: punnu folded before Flop (didn't bet)
+Seat 8: MiSpa1122 mucked [2c Ah]
+Seat 9: makaron_75 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182113890512:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:22:36 ET
+Table 'Josefa' 9-max Seat #4 is the button
+Seat 1: ollikahn23 ($2.07 in chips) 
+Seat 2: DQA Shark ($2.56 in chips) 
+Seat 3: juraj`t ($2 in chips) 
+Seat 4: BoerAas ($1.90 in chips) 
+Seat 5: byChios ($2.62 in chips) 
+Seat 6: punnu ($3.64 in chips) 
+Seat 8: MiSpa1122 ($1.83 in chips) 
+Seat 9: makaron_75 ($2 in chips) 
+byChios: posts small blind $0.01
+punnu: posts big blind $0.02
+777fenya777: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9d Qh]
+MiSpa1122: calls $0.02
+makaron_75: calls $0.02
+ollikahn23: folds 
+DQA Shark: folds 
+juraj`t: raises $0.08 to $0.10
+BoerAas: folds 
+byChios: folds 
+punnu: folds 
+MiSpa1122 said, "lerne deutsch du putin G...y"
+MiSpa1122: calls $0.08
+makaron_75: folds 
+*** FLOP *** [3c 4h 7s]
+MiSpa1122: checks 
+juraj`t: bets $0.16
+MiSpa1122: calls $0.16
+*** TURN *** [3c 4h 7s] [Qc]
+MiSpa1122: checks 
+makaron_75 said, "<'))><"
+juraj`t: checks 
+*** RIVER *** [3c 4h 7s Qc] [5c]
+MiSpa1122: checks 
+juraj`t: checks 
+*** SHOW DOWN ***
+MiSpa1122: shows [7h Th] (a pair of Sevens)
+juraj`t: mucks hand 
+MiSpa1122 collected $0.55 from pot
+*** SUMMARY ***
+Total pot $0.57 | Rake $0.02 
+Board [3c 4h 7s Qc 5c]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: DQA Shark folded before Flop (didn't bet)
+Seat 3: juraj`t mucked [5s As]
+Seat 4: BoerAas (button) folded before Flop (didn't bet)
+Seat 5: byChios (small blind) folded before Flop
+Seat 6: punnu (big blind) folded before Flop
+Seat 8: MiSpa1122 showed [7h Th] and won ($0.55) with a pair of Sevens
+Seat 9: makaron_75 folded before Flop
+
+
+
+PokerStars Hand #182113947228:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:23:47 ET
+Table 'Josefa' 9-max Seat #5 is the button
+Seat 1: ollikahn23 ($2.07 in chips) 
+Seat 2: DQA Shark ($2.56 in chips) 
+Seat 3: juraj`t ($2 in chips) 
+Seat 4: BoerAas ($1.90 in chips) 
+Seat 5: byChios ($2.61 in chips) 
+Seat 6: punnu ($3.62 in chips) 
+Seat 7: 777fenya777 ($2 in chips) 
+Seat 8: MiSpa1122 ($2.12 in chips) 
+Seat 9: makaron_75 ($2 in chips) 
+punnu: posts small blind $0.01
+777fenya777: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7h 4d]
+MiSpa1122: folds 
+makaron_75: folds 
+ollikahn23: folds 
+DQA Shark: folds 
+juraj`t: folds 
+BoerAas: folds 
+byChios: raises $0.02 to $0.04
+punnu: folds 
+MiSpa1122 said, "putin <'))><<'))><<'))><"
+777fenya777: folds 
+Uncalled bet ($0.02) returned to byChios
+byChios collected $0.05 from pot
+byChios: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: DQA Shark folded before Flop (didn't bet)
+Seat 3: juraj`t folded before Flop (didn't bet)
+Seat 4: BoerAas folded before Flop (didn't bet)
+Seat 5: byChios (button) collected ($0.05)
+Seat 6: punnu (small blind) folded before Flop
+Seat 7: 777fenya777 (big blind) folded before Flop
+Seat 8: MiSpa1122 folded before Flop (didn't bet)
+Seat 9: makaron_75 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182113965963:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:24:11 ET
+Table 'Josefa' 9-max Seat #6 is the button
+Seat 1: ollikahn23 ($2.07 in chips) 
+Seat 2: DQA Shark ($2.56 in chips) 
+Seat 3: juraj`t ($2 in chips) 
+Seat 4: BoerAas ($1.90 in chips) 
+Seat 5: byChios ($2.64 in chips) 
+Seat 6: punnu ($3.61 in chips) 
+Seat 7: 777fenya777 ($2 in chips) 
+Seat 8: MiSpa1122 ($2.12 in chips) 
+Seat 9: makaron_75 ($2 in chips) 
+777fenya777: posts small blind $0.01
+MiSpa1122: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4s Jd]
+makaron_75: calls $0.02
+ollikahn23: folds 
+DQA Shark: folds 
+juraj`t: folds 
+BoerAas: raises $0.05 to $0.07
+byChios: folds 
+punnu: folds 
+777fenya777: folds 
+MiSpa1122: calls $0.05
+makaron_75: calls $0.05
+*** FLOP *** [5h Qd 8c]
+MiSpa1122: checks 
+makaron_75: checks 
+BoerAas: checks 
+*** TURN *** [5h Qd 8c] [8d]
+MiSpa1122: checks 
+makaron_75: checks 
+BoerAas: checks 
+*** RIVER *** [5h Qd 8c 8d] [Jh]
+MiSpa1122: checks 
+makaron_75: checks 
+BoerAas: bets $0.13
+MiSpa1122: folds 
+makaron_75: folds 
+Uncalled bet ($0.13) returned to BoerAas
+BoerAas collected $0.21 from pot
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [5h Qd 8c 8d Jh]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: DQA Shark folded before Flop (didn't bet)
+Seat 3: juraj`t folded before Flop (didn't bet)
+Seat 4: BoerAas collected ($0.21)
+Seat 5: byChios folded before Flop (didn't bet)
+Seat 6: punnu (button) folded before Flop (didn't bet)
+Seat 7: 777fenya777 (small blind) folded before Flop
+Seat 8: MiSpa1122 (big blind) folded on the River
+Seat 9: makaron_75 folded on the River
+
+
+
+PokerStars Hand #182114028853:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:25:30 ET
+Table 'Josefa' 9-max Seat #7 is the button
+Seat 1: ollikahn23 ($2.07 in chips) 
+Seat 2: DQA Shark ($2.56 in chips) 
+Seat 3: juraj`t ($2 in chips) 
+Seat 4: BoerAas ($2.04 in chips) 
+Seat 5: byChios ($2.64 in chips) 
+Seat 6: punnu ($3.61 in chips) 
+Seat 7: 777fenya777 ($2 in chips) 
+Seat 8: MiSpa1122 ($2.05 in chips) 
+Seat 9: makaron_75 ($2 in chips) 
+MiSpa1122: posts small blind $0.01
+makaron_75: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8d Td]
+ollikahn23: folds 
+DQA Shark: folds 
+juraj`t: folds 
+BoerAas: calls $0.02
+byChios: folds 
+punnu: raises $0.06 to $0.08
+777fenya777: folds 
+MiSpa1122: calls $0.07
+makaron_75: folds 
+BoerAas: calls $0.06
+*** FLOP *** [9s 9d 2c]
+MiSpa1122: checks 
+BoerAas: checks 
+punnu: bets $0.16
+MiSpa1122: folds 
+BoerAas: folds 
+Uncalled bet ($0.16) returned to punnu
+punnu collected $0.25 from pot
+punnu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [9s 9d 2c]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: DQA Shark folded before Flop (didn't bet)
+Seat 3: juraj`t folded before Flop (didn't bet)
+Seat 4: BoerAas folded on the Flop
+Seat 5: byChios folded before Flop (didn't bet)
+Seat 6: punnu collected ($0.25)
+Seat 7: 777fenya777 (button) folded before Flop (didn't bet)
+Seat 8: MiSpa1122 (small blind) folded on the Flop
+Seat 9: makaron_75 (big blind) folded before Flop
+
+
+
+PokerStars Hand #182114060799:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:26:09 ET
+Table 'Josefa' 9-max Seat #8 is the button
+Seat 1: ollikahn23 ($2.07 in chips) 
+Seat 2: DQA Shark ($2.56 in chips) 
+Seat 3: juraj`t ($2 in chips) 
+Seat 4: BoerAas ($1.96 in chips) 
+Seat 5: byChios ($2.64 in chips) 
+Seat 6: punnu ($3.78 in chips) 
+Seat 7: 777fenya777 ($2 in chips) 
+Seat 8: MiSpa1122 ($1.97 in chips) 
+Seat 9: makaron_75 ($2 in chips) 
+makaron_75: posts small blind $0.01
+ollikahn23: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4d Kc]
+DQA Shark: folds 
+juraj`t: folds 
+BoerAas: folds 
+byChios: calls $0.02
+punnu: folds 
+777fenya777: folds 
+MiSpa1122: calls $0.02
+makaron_75: calls $0.01
+ollikahn23: checks 
+*** FLOP *** [9c 4h Ah]
+makaron_75: checks 
+ollikahn23: checks 
+byChios: checks 
+juraj`t leaves the table
+MiSpa1122: checks 
+*** TURN *** [9c 4h Ah] [4s]
+gizmondouk joins the table at seat #3 
+makaron_75: checks 
+ollikahn23: checks 
+byChios: checks 
+MiSpa1122: checks 
+*** RIVER *** [9c 4h Ah 4s] [8s]
+makaron_75: checks 
+ollikahn23: bets $0.06
+byChios: folds 
+MiSpa1122: folds 
+makaron_75: folds 
+Uncalled bet ($0.06) returned to ollikahn23
+ollikahn23 collected $0.08 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [9c 4h Ah 4s 8s]
+Seat 1: ollikahn23 (big blind) collected ($0.08)
+Seat 2: DQA Shark folded before Flop (didn't bet)
+Seat 3: juraj`t folded before Flop (didn't bet)
+Seat 4: BoerAas folded before Flop (didn't bet)
+Seat 5: byChios folded on the River
+Seat 6: punnu folded before Flop (didn't bet)
+Seat 7: 777fenya777 folded before Flop (didn't bet)
+Seat 8: MiSpa1122 (button) folded on the River
+Seat 9: makaron_75 (small blind) folded on the River
+
+
+
+PokerStars Hand #182114116769:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:27:19 ET
+Table 'Josefa' 9-max Seat #9 is the button
+Seat 1: ollikahn23 ($2.13 in chips) 
+Seat 2: DQA Shark ($2.56 in chips) 
+Seat 4: BoerAas ($1.96 in chips) 
+Seat 5: byChios ($2.62 in chips) 
+Seat 6: punnu ($3.78 in chips) 
+Seat 7: 777fenya777 ($2 in chips) 
+Seat 8: MiSpa1122 ($1.95 in chips) 
+Seat 9: makaron_75 ($2 in chips) 
+ollikahn23: posts small blind $0.01
+DQA Shark: posts big blind $0.02
+gizmondouk: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jh 7d]
+BoerAas: folds 
+byChios: raises $0.05 to $0.07
+punnu: calls $0.07
+777fenya777: folds 
+MiSpa1122: calls $0.07
+makaron_75: folds 
+ollikahn23: folds 
+DQA Shark: folds 
+*** FLOP *** [Th 2h Kd]
+byChios: checks 
+punnu: bets $0.14
+MiSpa1122: calls $0.14
+byChios: calls $0.14
+*** TURN *** [Th 2h Kd] [2s]
+byChios: checks 
+punnu: bets $0.32
+MiSpa1122: folds 
+byChios: folds 
+Uncalled bet ($0.32) returned to punnu
+punnu collected $0.64 from pot
+punnu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.66 | Rake $0.02 
+Board [Th 2h Kd 2s]
+Seat 1: ollikahn23 (small blind) folded before Flop
+Seat 2: DQA Shark (big blind) folded before Flop
+Seat 4: BoerAas folded before Flop (didn't bet)
+Seat 5: byChios folded on the Turn
+Seat 6: punnu collected ($0.64)
+Seat 7: 777fenya777 folded before Flop (didn't bet)
+Seat 8: MiSpa1122 folded on the Turn
+Seat 9: makaron_75 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114159840:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:28:13 ET
+Table 'Josefa' 9-max Seat #1 is the button
+Seat 1: ollikahn23 ($2.12 in chips) 
+Seat 2: DQA Shark ($2.54 in chips) 
+Seat 3: gizmondouk ($2 in chips) 
+Seat 4: BoerAas ($1.96 in chips) 
+Seat 5: byChios ($2.41 in chips) 
+Seat 6: punnu ($4.21 in chips) 
+Seat 7: 777fenya777 ($2 in chips) 
+Seat 8: MiSpa1122 ($1.74 in chips) 
+Seat 9: makaron_75 ($2 in chips) 
+DQA Shark: posts small blind $0.01
+gizmondouk: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Td 2c]
+BoerAas: folds 
+byChios: folds 
+punnu: folds 
+777fenya777: folds 
+MiSpa1122: calls $0.02
+makaron_75: folds 
+ollikahn23: folds 
+DQA Shark: calls $0.01
+gizmondouk: raises $0.06 to $0.08
+MiSpa1122: calls $0.06
+DQA Shark: folds 
+*** FLOP *** [2h As 5c]
+gizmondouk: bets $0.12
+MiSpa1122: calls $0.12
+*** TURN *** [2h As 5c] [Kd]
+gizmondouk: checks 
+MiSpa1122: checks 
+*** RIVER *** [2h As 5c Kd] [4h]
+gizmondouk: checks 
+MiSpa1122: bets $0.41
+gizmondouk: folds 
+Uncalled bet ($0.41) returned to MiSpa1122
+MiSpa1122 collected $0.41 from pot
+*** SUMMARY ***
+Total pot $0.42 | Rake $0.01 
+Board [2h As 5c Kd 4h]
+Seat 1: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 2: DQA Shark (small blind) folded before Flop
+Seat 3: gizmondouk (big blind) folded on the River
+Seat 4: BoerAas folded before Flop (didn't bet)
+Seat 5: byChios folded before Flop (didn't bet)
+Seat 6: punnu folded before Flop (didn't bet)
+Seat 7: 777fenya777 folded before Flop (didn't bet)
+Seat 8: MiSpa1122 collected ($0.41)
+Seat 9: makaron_75 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114202579:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:29:06 ET
+Table 'Josefa' 9-max Seat #2 is the button
+Seat 1: ollikahn23 ($2.12 in chips) 
+Seat 2: DQA Shark ($2.52 in chips) 
+Seat 3: gizmondouk ($2 in chips) 
+Seat 4: BoerAas ($1.96 in chips) 
+Seat 5: byChios ($2.41 in chips) 
+Seat 6: punnu ($4.21 in chips) 
+Seat 7: 777fenya777 ($2 in chips) 
+Seat 8: MiSpa1122 ($1.95 in chips) 
+Seat 9: makaron_75 ($2 in chips) 
+gizmondouk: posts small blind $0.01
+BoerAas: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [As 3c]
+byChios: calls $0.02
+punnu: folds 
+777fenya777: folds 
+MiSpa1122: calls $0.02
+makaron_75: folds 
+ollikahn23: folds 
+DQA Shark: folds 
+gizmondouk: folds 
+BoerAas: checks 
+*** FLOP *** [Jd Qh 5s]
+BoerAas: checks 
+byChios: checks 
+MiSpa1122: checks 
+*** TURN *** [Jd Qh 5s] [7s]
+BoerAas: checks 
+byChios: checks 
+MiSpa1122: checks 
+*** RIVER *** [Jd Qh 5s 7s] [6h]
+BoerAas: checks 
+byChios: checks 
+MiSpa1122: bets $0.07
+BoerAas: calls $0.07
+byChios: folds 
+*** SHOW DOWN ***
+MiSpa1122: shows [3d 4c] (a straight, Three to Seven)
+BoerAas: mucks hand 
+MiSpa1122 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [Jd Qh 5s 7s 6h]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: DQA Shark (button) folded before Flop (didn't bet)
+Seat 3: gizmondouk (small blind) folded before Flop
+Seat 4: BoerAas (big blind) mucked [7d 8c]
+Seat 5: byChios folded on the River
+Seat 6: punnu folded before Flop (didn't bet)
+Seat 7: 777fenya777 folded before Flop (didn't bet)
+Seat 8: MiSpa1122 showed [3d 4c] and won ($0.20) with a straight, Three to Seven
+Seat 9: makaron_75 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114247724:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:30:02 ET
+Table 'Josefa' 9-max Seat #3 is the button
+Seat 1: ollikahn23 ($2.12 in chips) 
+Seat 2: DQA Shark ($2.52 in chips) 
+Seat 3: gizmondouk ($2 in chips) 
+Seat 4: BoerAas ($1.87 in chips) 
+Seat 5: byChios ($2.39 in chips) 
+Seat 6: punnu ($4.21 in chips) 
+Seat 7: 777fenya777 ($2 in chips) 
+Seat 8: MiSpa1122 ($2.06 in chips) 
+Seat 9: makaron_75 ($2 in chips) 
+BoerAas: posts small blind $0.01
+byChios: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jc Kd]
+punnu: folds 
+777fenya777: folds 
+MiSpa1122: calls $0.02
+makaron_75: folds 
+ollikahn23: raises $0.06 to $0.08
+DQA Shark: folds 
+gizmondouk: folds 
+BoerAas: folds 
+byChios: folds 
+MiSpa1122: calls $0.06
+*** FLOP *** [2d 8d Kc]
+MiSpa1122: checks 
+ollikahn23: bets $0.10
+MiSpa1122: calls $0.10
+*** TURN *** [2d 8d Kc] [Jh]
+MiSpa1122: checks 
+ollikahn23: bets $0.28
+MiSpa1122: calls $0.28
+*** RIVER *** [2d 8d Kc Jh] [9s]
+MiSpa1122: checks 
+ollikahn23: bets $0.68
+MiSpa1122: folds [8c]
+Uncalled bet ($0.68) returned to ollikahn23
+ollikahn23 collected $0.92 from pot
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.03 
+Board [2d 8d Kc Jh 9s]
+Seat 1: ollikahn23 collected ($0.92)
+Seat 2: DQA Shark folded before Flop (didn't bet)
+Seat 3: gizmondouk (button) folded before Flop (didn't bet)
+Seat 4: BoerAas (small blind) folded before Flop
+Seat 5: byChios (big blind) folded before Flop
+Seat 6: punnu folded before Flop (didn't bet)
+Seat 7: 777fenya777 folded before Flop (didn't bet)
+Seat 8: MiSpa1122 folded on the River
+Seat 9: makaron_75 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114309127:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:31:18 ET
+Table 'Josefa' 9-max Seat #4 is the button
+Seat 1: ollikahn23 ($2.58 in chips) 
+Seat 2: DQA Shark ($2.52 in chips) 
+Seat 3: gizmondouk ($2 in chips) 
+Seat 4: BoerAas ($1.86 in chips) 
+Seat 5: byChios ($2.37 in chips) 
+Seat 6: punnu ($4.21 in chips) 
+Seat 7: 777fenya777 ($2 in chips) 
+Seat 8: MiSpa1122 ($1.60 in chips) 
+Seat 9: makaron_75 ($2 in chips) 
+byChios: posts small blind $0.01
+punnu: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6d Ks]
+777fenya777: folds 
+MiSpa1122: raises $0.18 to $0.20
+makaron_75: folds 
+ollikahn23: folds 
+DQA Shark: folds 
+gizmondouk: folds 
+BoerAas: folds 
+byChios: folds 
+punnu: folds 
+Uncalled bet ($0.18) returned to MiSpa1122
+MiSpa1122 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: DQA Shark folded before Flop (didn't bet)
+Seat 3: gizmondouk folded before Flop (didn't bet)
+Seat 4: BoerAas (button) folded before Flop (didn't bet)
+Seat 5: byChios (small blind) folded before Flop
+Seat 6: punnu (big blind) folded before Flop
+Seat 7: 777fenya777 folded before Flop (didn't bet)
+Seat 8: MiSpa1122 collected ($0.05)
+Seat 9: makaron_75 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114339409:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:31:55 ET
+Table 'Josefa' 9-max Seat #5 is the button
+Seat 1: ollikahn23 ($2.58 in chips) 
+Seat 2: DQA Shark ($2.52 in chips) 
+Seat 3: gizmondouk ($2 in chips) 
+Seat 4: BoerAas ($1.86 in chips) 
+Seat 5: byChios ($2.36 in chips) 
+Seat 6: punnu ($4.19 in chips) 
+Seat 8: MiSpa1122 ($1.63 in chips) 
+Seat 9: makaron_75 ($2 in chips) 
+punnu: posts small blind $0.01
+777fenya777: is sitting out 
+777fenya777 leaves the table
+MiSpa1122: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Td 6s]
+makaron_75: folds 
+ollikahn23: folds 
+DQA Shark: folds 
+zabulicaionu joins the table at seat #7 
+gizmondouk: folds 
+BoerAas: calls $0.02
+byChios: calls $0.02
+punnu: folds 
+MiSpa1122: checks 
+*** FLOP *** [9h Jc Th]
+MiSpa1122: checks 
+BoerAas: checks 
+byChios: bets $0.04
+MiSpa1122: calls $0.04
+BoerAas: folds 
+*** TURN *** [9h Jc Th] [Kd]
+MiSpa1122: checks 
+byChios: checks 
+*** RIVER *** [9h Jc Th Kd] [Qs]
+MiSpa1122: bets $0.02
+byChios: calls $0.02
+*** SHOW DOWN ***
+MiSpa1122: shows [2h Js] (a straight, Nine to King)
+byChios: shows [8d 8c] (a straight, Nine to King)
+MiSpa1122 collected $0.09 from pot
+byChios collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [9h Jc Th Kd Qs]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: DQA Shark folded before Flop (didn't bet)
+Seat 3: gizmondouk folded before Flop (didn't bet)
+Seat 4: BoerAas folded on the Flop
+Seat 5: byChios (button) showed [8d 8c] and won ($0.09) with a straight, Nine to King
+Seat 6: punnu (small blind) folded before Flop
+Seat 8: MiSpa1122 (big blind) showed [2h Js] and won ($0.09) with a straight, Nine to King
+Seat 9: makaron_75 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114367766:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:32:30 ET
+Table 'Josefa' 9-max Seat #6 is the button
+Seat 1: ollikahn23 ($2.58 in chips) 
+Seat 2: DQA Shark ($2.52 in chips) 
+Seat 3: gizmondouk ($2 in chips) 
+Seat 4: BoerAas ($1.84 in chips) 
+Seat 5: byChios ($2.37 in chips) 
+Seat 6: punnu ($4.18 in chips) 
+Seat 8: MiSpa1122 ($1.64 in chips) 
+Seat 9: makaron_75 ($2 in chips) 
+zabulicaionu will be allowed to play after the button
+MiSpa1122: posts small blind $0.01
+makaron_75: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Tc Ad]
+ollikahn23: raises $0.04 to $0.06
+DQA Shark: folds 
+gizmondouk: folds 
+BoerAas: folds 
+byChios: folds 
+punnu: folds 
+MiSpa1122: calls $0.05
+makaron_75: folds 
+*** FLOP *** [Ac Qh 5s]
+MiSpa1122: checks 
+ollikahn23: bets $0.08
+MiSpa1122: calls $0.08
+*** TURN *** [Ac Qh 5s] [Td]
+MiSpa1122: checks 
+ollikahn23: bets $0.22
+MiSpa1122: folds 
+Uncalled bet ($0.22) returned to ollikahn23
+ollikahn23 collected $0.29 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [Ac Qh 5s Td]
+Seat 1: ollikahn23 collected ($0.29)
+Seat 2: DQA Shark folded before Flop (didn't bet)
+Seat 3: gizmondouk folded before Flop (didn't bet)
+Seat 4: BoerAas folded before Flop (didn't bet)
+Seat 5: byChios folded before Flop (didn't bet)
+Seat 6: punnu (button) folded before Flop (didn't bet)
+Seat 8: MiSpa1122 (small blind) folded on the Turn
+Seat 9: makaron_75 (big blind) folded before Flop
+
+
+
+PokerStars Hand #182114394264:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:33:03 ET
+Table 'Josefa' 9-max Seat #8 is the button
+Seat 1: ollikahn23 ($2.73 in chips) 
+Seat 2: DQA Shark ($2.52 in chips) 
+Seat 3: gizmondouk ($2 in chips) 
+Seat 4: BoerAas ($1.84 in chips) 
+Seat 5: byChios ($2.37 in chips) 
+Seat 6: punnu ($4.18 in chips) 
+Seat 8: MiSpa1122 ($1.50 in chips) 
+Seat 9: makaron_75 ($2 in chips) 
+makaron_75: posts small blind $0.01
+ollikahn23: posts big blind $0.02
+zabulicaionu: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kd Qh]
+DQA Shark: raises $0.04 to $0.06
+gizmondouk: folds 
+BoerAas: folds 
+byChios: calls $0.06
+punnu: folds 
+MiSpa1122: calls $0.06
+makaron_75: folds 
+ollikahn23: calls $0.04
+*** FLOP *** [6h 6s Ac]
+ollikahn23: checks 
+DQA Shark: bets $0.14
+byChios: calls $0.14
+MiSpa1122: folds 
+ollikahn23: folds 
+*** TURN *** [6h 6s Ac] [Js]
+DQA Shark: bets $0.26
+byChios: folds 
+Uncalled bet ($0.26) returned to DQA Shark
+DQA Shark collected $0.51 from pot
+DQA Shark: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.53 | Rake $0.02 
+Board [6h 6s Ac Js]
+Seat 1: ollikahn23 (big blind) folded on the Flop
+Seat 2: DQA Shark collected ($0.51)
+Seat 3: gizmondouk folded before Flop (didn't bet)
+Seat 4: BoerAas folded before Flop (didn't bet)
+Seat 5: byChios folded on the Turn
+Seat 6: punnu folded before Flop (didn't bet)
+Seat 8: MiSpa1122 (button) folded on the Flop
+Seat 9: makaron_75 (small blind) folded before Flop
+
+
+
+PokerStars Hand #182114428147:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:33:45 ET
+Table 'Josefa' 9-max Seat #9 is the button
+Seat 1: ollikahn23 ($2.67 in chips) 
+Seat 2: DQA Shark ($2.83 in chips) 
+Seat 3: gizmondouk ($2 in chips) 
+Seat 4: BoerAas ($1.84 in chips) 
+Seat 5: byChios ($2.17 in chips) 
+Seat 6: punnu ($4.18 in chips) 
+Seat 8: MiSpa1122 ($1.44 in chips) 
+Seat 9: makaron_75 ($2 in chips) 
+ollikahn23: posts small blind $0.01
+DQA Shark: posts big blind $0.02
+zabulicaionu: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2c 7h]
+gizmondouk: folds 
+BoerAas: calls $0.02
+byChios: calls $0.02
+punnu: folds 
+MiSpa1122 is connected 
+MiSpa1122: calls $0.02
+makaron_75: folds 
+ollikahn23: folds 
+DQA Shark: checks 
+*** FLOP *** [7s Qs Kc]
+DQA Shark: checks 
+BoerAas: checks 
+byChios: checks 
+MiSpa1122: bets $0.12
+DQA Shark: folds 
+BoerAas: folds 
+byChios: folds 
+Uncalled bet ($0.12) returned to MiSpa1122
+MiSpa1122 collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [7s Qs Kc]
+Seat 1: ollikahn23 (small blind) folded before Flop
+Seat 2: DQA Shark (big blind) folded on the Flop
+Seat 3: gizmondouk folded before Flop (didn't bet)
+Seat 4: BoerAas folded on the Flop
+Seat 5: byChios folded on the Flop
+Seat 6: punnu folded before Flop (didn't bet)
+Seat 8: MiSpa1122 collected ($0.09)
+Seat 9: makaron_75 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114469194:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:34:35 ET
+Table 'Josefa' 9-max Seat #1 is the button
+Seat 1: ollikahn23 ($2.66 in chips) 
+Seat 2: DQA Shark ($2.81 in chips) 
+Seat 3: gizmondouk ($2 in chips) 
+Seat 4: BoerAas ($1.82 in chips) 
+Seat 5: byChios ($2.15 in chips) 
+Seat 6: punnu ($4.18 in chips) 
+Seat 8: MiSpa1122 ($1.51 in chips) 
+Seat 9: makaron_75 ($2 in chips) 
+DQA Shark: posts small blind $0.01
+gizmondouk: posts big blind $0.02
+zabulicaionu: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4c Jd]
+BoerAas: calls $0.02
+byChios: calls $0.02
+punnu: folds 
+MiSpa1122: calls $0.02
+makaron_75: folds 
+ollikahn23: folds 
+DQA Shark: folds 
+gizmondouk: checks 
+*** FLOP *** [Qs Ac 3h]
+gizmondouk: checks 
+BoerAas: checks 
+byChios: checks 
+MiSpa1122: checks 
+*** TURN *** [Qs Ac 3h] [6c]
+gizmondouk: bets $0.05
+BoerAas: folds 
+byChios: calls $0.05
+MiSpa1122: folds 
+*** RIVER *** [Qs Ac 3h 6c] [6s]
+gizmondouk: checks 
+byChios: checks 
+*** SHOW DOWN ***
+gizmondouk: shows [Ah 9c] (two pair, Aces and Sixes)
+byChios: mucks hand 
+gizmondouk collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Qs Ac 3h 6c 6s]
+Seat 1: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 2: DQA Shark (small blind) folded before Flop
+Seat 3: gizmondouk (big blind) showed [Ah 9c] and won ($0.18) with two pair, Aces and Sixes
+Seat 4: BoerAas folded on the Turn
+Seat 5: byChios mucked [Kh Js]
+Seat 6: punnu folded before Flop (didn't bet)
+Seat 8: MiSpa1122 folded on the Turn
+Seat 9: makaron_75 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114514570:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:35:31 ET
+Table 'Josefa' 9-max Seat #2 is the button
+Seat 1: ollikahn23 ($2.66 in chips) 
+Seat 2: DQA Shark ($2.80 in chips) 
+Seat 3: gizmondouk ($2.11 in chips) 
+Seat 4: BoerAas ($1.80 in chips) 
+Seat 5: byChios ($2.08 in chips) 
+Seat 6: punnu ($4.18 in chips) 
+Seat 8: MiSpa1122 ($1.49 in chips) 
+Seat 9: makaron_75 ($2 in chips) 
+gizmondouk: posts small blind $0.01
+BoerAas: posts big blind $0.02
+zabulicaionu: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kd 6c]
+byChios: raises $0.05 to $0.07
+punnu: folds 
+MiSpa1122: calls $0.07
+makaron_75: folds 
+ollikahn23: folds 
+DQA Shark: calls $0.07
+gizmondouk: folds 
+BoerAas: folds 
+*** FLOP *** [7s Qc Ks]
+byChios: checks 
+MiSpa1122: checks 
+DQA Shark: checks 
+*** TURN *** [7s Qc Ks] [Jd]
+byChios: checks 
+MiSpa1122: checks 
+DQA Shark: checks 
+*** RIVER *** [7s Qc Ks Jd] [Ah]
+byChios: checks 
+MiSpa1122: checks 
+DQA Shark: checks 
+*** SHOW DOWN ***
+byChios: shows [9d Ad] (a pair of Aces)
+MiSpa1122: mucks hand 
+DQA Shark: mucks hand 
+byChios collected $0.23 from pot
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [7s Qc Ks Jd Ah]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: DQA Shark (button) mucked [4d 4h]
+Seat 3: gizmondouk (small blind) folded before Flop
+Seat 4: BoerAas (big blind) folded before Flop
+Seat 5: byChios showed [9d Ad] and won ($0.23) with a pair of Aces
+Seat 6: punnu folded before Flop (didn't bet)
+Seat 8: MiSpa1122 mucked [6s 5s]
+Seat 9: makaron_75 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114543123:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:36:06 ET
+Table 'Josefa' 9-max Seat #3 is the button
+Seat 1: ollikahn23 ($2.66 in chips) 
+Seat 2: DQA Shark ($2.73 in chips) 
+Seat 3: gizmondouk ($2.10 in chips) 
+Seat 4: BoerAas ($1.78 in chips) 
+Seat 5: byChios ($2.24 in chips) 
+Seat 6: punnu ($4.18 in chips) 
+Seat 8: MiSpa1122 ($1.42 in chips) 
+Seat 9: makaron_75 ($2 in chips) 
+BoerAas: posts small blind $0.01
+byChios: posts big blind $0.02
+zabulicaionu: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8c Jc]
+punnu: folds 
+MiSpa1122: raises $0.20 to $0.22
+makaron_75: folds 
+ollikahn23: folds 
+DQA Shark: folds 
+gizmondouk: folds 
+BoerAas: folds 
+byChios: folds 
+Uncalled bet ($0.20) returned to MiSpa1122
+MiSpa1122 collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: DQA Shark folded before Flop (didn't bet)
+Seat 3: gizmondouk (button) folded before Flop (didn't bet)
+Seat 4: BoerAas (small blind) folded before Flop
+Seat 5: byChios (big blind) folded before Flop
+Seat 6: punnu folded before Flop (didn't bet)
+Seat 8: MiSpa1122 collected ($0.05)
+Seat 9: makaron_75 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114561382:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:36:29 ET
+Table 'Josefa' 9-max Seat #4 is the button
+Seat 1: ollikahn23 ($2.66 in chips) 
+Seat 2: DQA Shark ($2.73 in chips) 
+Seat 3: gizmondouk ($2.10 in chips) 
+Seat 4: BoerAas ($1.77 in chips) 
+Seat 5: byChios ($2.22 in chips) 
+Seat 6: punnu ($4.18 in chips) 
+Seat 8: MiSpa1122 ($1.45 in chips) 
+Seat 9: makaron_75 ($2 in chips) 
+byChios: posts small blind $0.01
+punnu: posts big blind $0.02
+zabulicaionu: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8s Ts]
+MiSpa1122: calls $0.02
+makaron_75: folds 
+ollikahn23: folds 
+DQA Shark: raises $0.04 to $0.06
+gizmondouk: folds 
+BoerAas: calls $0.06
+byChios: folds 
+punnu: calls $0.04
+MiSpa1122: calls $0.04
+*** FLOP *** [Ah 7s 5h]
+punnu: checks 
+MiSpa1122: checks 
+DQA Shark: checks 
+BoerAas: bets $0.10
+punnu: folds 
+MiSpa1122: calls $0.10
+DQA Shark: folds 
+*** TURN *** [Ah 7s 5h] [Td]
+MiSpa1122: checks 
+BoerAas: checks 
+*** RIVER *** [Ah 7s 5h Td] [2s]
+MiSpa1122: checks 
+BoerAas: checks 
+*** SHOW DOWN ***
+MiSpa1122: shows [Qc 2h] (a pair of Deuces)
+BoerAas: shows [3s As] (a pair of Aces)
+BoerAas collected $0.43 from pot
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [Ah 7s 5h Td 2s]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: DQA Shark folded on the Flop
+Seat 3: gizmondouk folded before Flop (didn't bet)
+Seat 4: BoerAas (button) showed [3s As] and won ($0.43) with a pair of Aces
+Seat 5: byChios (small blind) folded before Flop
+Seat 6: punnu (big blind) folded on the Flop
+Seat 8: MiSpa1122 showed [Qc 2h] and lost with a pair of Deuces
+Seat 9: makaron_75 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114622252:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:37:43 ET
+Table 'Josefa' 9-max Seat #5 is the button
+Seat 1: ollikahn23 ($2.66 in chips) 
+Seat 2: DQA Shark ($2.67 in chips) 
+Seat 3: gizmondouk ($2.10 in chips) 
+Seat 4: BoerAas ($2.04 in chips) 
+Seat 5: byChios ($2.21 in chips) 
+Seat 6: punnu ($4.12 in chips) 
+Seat 7: zabulicaionu ($2 in chips) 
+Seat 8: MiSpa1122 ($1.29 in chips) 
+Seat 9: makaron_75 ($2 in chips) 
+punnu: posts small blind $0.01
+zabulicaionu: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ts 9c]
+MiSpa1122: calls $0.02
+makaron_75: folds 
+ollikahn23: folds 
+DQA Shark: folds 
+gizmondouk: raises $0.04 to $0.06
+BoerAas: folds 
+byChios: folds 
+punnu: folds 
+zabulicaionu: folds 
+MiSpa1122: calls $0.04
+*** FLOP *** [Kh 8d Jc]
+MiSpa1122: checks 
+gizmondouk: bets $0.08
+MiSpa1122: calls $0.08
+*** TURN *** [Kh 8d Jc] [8s]
+MiSpa1122: checks 
+gizmondouk: checks 
+*** RIVER *** [Kh 8d Jc 8s] [7h]
+MiSpa1122: checks 
+gizmondouk: bets $0.18
+MiSpa1122: calls $0.18
+*** SHOW DOWN ***
+gizmondouk: shows [Kc Qd] (two pair, Kings and Eights)
+MiSpa1122: mucks hand 
+gizmondouk collected $0.65 from pot
+*** SUMMARY ***
+Total pot $0.67 | Rake $0.02 
+Board [Kh 8d Jc 8s 7h]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: DQA Shark folded before Flop (didn't bet)
+Seat 3: gizmondouk showed [Kc Qd] and won ($0.65) with two pair, Kings and Eights
+Seat 4: BoerAas folded before Flop (didn't bet)
+Seat 5: byChios (button) folded before Flop (didn't bet)
+Seat 6: punnu (small blind) folded before Flop
+Seat 7: zabulicaionu (big blind) folded before Flop
+Seat 8: MiSpa1122 mucked [Qh 7d]
+Seat 9: makaron_75 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114658777:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:38:28 ET
+Table 'Josefa' 9-max Seat #6 is the button
+Seat 1: ollikahn23 ($2.66 in chips) 
+Seat 2: DQA Shark ($2.67 in chips) 
+Seat 3: gizmondouk ($2.43 in chips) 
+Seat 4: BoerAas ($2.04 in chips) 
+Seat 5: byChios ($2.21 in chips) 
+Seat 6: punnu ($4.11 in chips) 
+Seat 7: zabulicaionu ($1.98 in chips) 
+Seat 8: MiSpa1122 ($0.97 in chips) 
+Seat 9: makaron_75 ($2 in chips) 
+zabulicaionu: posts small blind $0.01
+MiSpa1122: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6s 9h]
+makaron_75: folds 
+ollikahn23: folds 
+DQA Shark: folds 
+gizmondouk: raises $0.04 to $0.06
+BoerAas: folds 
+byChios: folds 
+punnu: folds 
+zabulicaionu: folds 
+MiSpa1122: calls $0.04
+*** FLOP *** [8d Kd 8h]
+MiSpa1122: checks 
+gizmondouk: bets $0.10
+MiSpa1122: folds 
+Uncalled bet ($0.10) returned to gizmondouk
+gizmondouk collected $0.13 from pot
+gizmondouk: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [8d Kd 8h]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: DQA Shark folded before Flop (didn't bet)
+Seat 3: gizmondouk collected ($0.13)
+Seat 4: BoerAas folded before Flop (didn't bet)
+Seat 5: byChios folded before Flop (didn't bet)
+Seat 6: punnu (button) folded before Flop (didn't bet)
+Seat 7: zabulicaionu (small blind) folded before Flop
+Seat 8: MiSpa1122 (big blind) folded on the Flop
+Seat 9: makaron_75 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114685714:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:39:01 ET
+Table 'Josefa' 9-max Seat #7 is the button
+Seat 1: ollikahn23 ($2.66 in chips) 
+Seat 2: DQA Shark ($2.67 in chips) 
+Seat 3: gizmondouk ($2.50 in chips) 
+Seat 4: BoerAas ($2.04 in chips) 
+Seat 5: byChios ($2.21 in chips) 
+Seat 6: punnu ($4.11 in chips) 
+Seat 7: zabulicaionu ($2 in chips) 
+Seat 8: MiSpa1122 ($0.91 in chips) 
+Seat 9: makaron_75 ($2 in chips) 
+MiSpa1122: posts small blind $0.01
+makaron_75: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3c Qd]
+ollikahn23: folds 
+DQA Shark: folds 
+gizmondouk: folds 
+BoerAas: folds 
+byChios: calls $0.02
+punnu: folds 
+zabulicaionu: raises $0.06 to $0.08
+MiSpa1122: calls $0.07
+makaron_75: folds 
+byChios: calls $0.06
+*** FLOP *** [9c 5h Tc]
+MiSpa1122: checks 
+byChios: bets $0.24
+zabulicaionu: folds 
+MiSpa1122: folds 
+Uncalled bet ($0.24) returned to byChios
+byChios collected $0.25 from pot
+byChios: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [9c 5h Tc]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: DQA Shark folded before Flop (didn't bet)
+Seat 3: gizmondouk folded before Flop (didn't bet)
+Seat 4: BoerAas folded before Flop (didn't bet)
+Seat 5: byChios collected ($0.25)
+Seat 6: punnu folded before Flop (didn't bet)
+Seat 7: zabulicaionu (button) folded on the Flop
+Seat 8: MiSpa1122 (small blind) folded on the Flop
+Seat 9: makaron_75 (big blind) folded before Flop
+
+
+
+PokerStars Hand #182114716753:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:39:39 ET
+Table 'Josefa' 9-max Seat #8 is the button
+Seat 1: ollikahn23 ($2.66 in chips) 
+Seat 2: DQA Shark ($2.67 in chips) 
+Seat 3: gizmondouk ($2.50 in chips) 
+Seat 4: BoerAas ($2.04 in chips) 
+Seat 5: byChios ($2.38 in chips) 
+Seat 6: punnu ($4.11 in chips) 
+Seat 7: zabulicaionu ($2 in chips) 
+Seat 8: MiSpa1122 ($0.83 in chips) 
+Seat 9: makaron_75 ($2 in chips) 
+makaron_75: posts small blind $0.01
+ollikahn23: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kd Jd]
+DQA Shark: folds 
+gizmondouk: folds 
+BoerAas: folds 
+byChios: folds 
+punnu: folds 
+zabulicaionu: folds 
+MiSpa1122: calls $0.02
+makaron_75: calls $0.01
+ollikahn23: checks 
+*** FLOP *** [Tc 4s 7d]
+makaron_75: bets $0.02
+ollikahn23: calls $0.02
+MiSpa1122: calls $0.02
+*** TURN *** [Tc 4s 7d] [4h]
+makaron_75: bets $0.04
+ollikahn23: folds 
+MiSpa1122: folds 
+Uncalled bet ($0.04) returned to makaron_75
+makaron_75 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Tc 4s 7d 4h]
+Seat 1: ollikahn23 (big blind) folded on the Turn
+Seat 2: DQA Shark folded before Flop (didn't bet)
+Seat 3: gizmondouk folded before Flop (didn't bet)
+Seat 4: BoerAas folded before Flop (didn't bet)
+Seat 5: byChios folded before Flop (didn't bet)
+Seat 6: punnu folded before Flop (didn't bet)
+Seat 7: zabulicaionu folded before Flop (didn't bet)
+Seat 8: MiSpa1122 (button) folded on the Turn
+Seat 9: makaron_75 (small blind) collected ($0.12)
+
+
+
+PokerStars Hand #182114752492:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:40:23 ET
+Table 'Josefa' 9-max Seat #9 is the button
+Seat 1: ollikahn23 ($2.62 in chips) 
+Seat 2: DQA Shark ($2.67 in chips) 
+Seat 3: gizmondouk ($2.50 in chips) 
+Seat 4: BoerAas ($2.04 in chips) 
+Seat 5: byChios ($2.38 in chips) 
+Seat 6: punnu ($4.11 in chips) 
+Seat 7: zabulicaionu ($2 in chips) 
+Seat 8: MiSpa1122 ($0.79 in chips) 
+Seat 9: makaron_75 ($2.08 in chips) 
+ollikahn23: posts small blind $0.01
+DQA Shark: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3c 2d]
+gizmondouk: folds 
+BoerAas: folds 
+byChios: calls $0.02
+punnu: folds 
+zabulicaionu: folds 
+MiSpa1122: calls $0.02
+makaron_75: calls $0.02
+ollikahn23: folds 
+DQA Shark: checks 
+*** FLOP *** [Td 8s 6s]
+DQA Shark: checks 
+byChios: checks 
+MiSpa1122: checks 
+makaron_75: checks 
+*** TURN *** [Td 8s 6s] [7h]
+DQA Shark: checks 
+byChios: checks 
+MiSpa1122: checks 
+makaron_75: checks 
+*** RIVER *** [Td 8s 6s 7h] [Jc]
+DQA Shark: checks 
+byChios: checks 
+MiSpa1122: bets $0.02
+makaron_75: folds 
+DQA Shark: folds 
+byChios: folds 
+Uncalled bet ($0.02) returned to MiSpa1122
+MiSpa1122 collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Td 8s 6s 7h Jc]
+Seat 1: ollikahn23 (small blind) folded before Flop
+Seat 2: DQA Shark (big blind) folded on the River
+Seat 3: gizmondouk folded before Flop (didn't bet)
+Seat 4: BoerAas folded before Flop (didn't bet)
+Seat 5: byChios folded on the River
+Seat 6: punnu folded before Flop (didn't bet)
+Seat 7: zabulicaionu folded before Flop (didn't bet)
+Seat 8: MiSpa1122 collected ($0.09)
+Seat 9: makaron_75 (button) folded on the River
+
+
+
+PokerStars Hand #182114821026:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:41:46 ET
+Table 'Josefa' 9-max Seat #1 is the button
+Seat 1: ollikahn23 ($2.61 in chips) 
+Seat 2: DQA Shark ($2.65 in chips) 
+Seat 3: gizmondouk ($2.50 in chips) 
+Seat 4: BoerAas ($2.04 in chips) 
+Seat 5: byChios ($2.36 in chips) 
+Seat 6: punnu ($4.11 in chips) 
+Seat 7: zabulicaionu ($2 in chips) 
+Seat 8: MiSpa1122 ($0.86 in chips) 
+Seat 9: makaron_75 ($2.06 in chips) 
+DQA Shark: posts small blind $0.01
+gizmondouk: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6d 7d]
+BoerAas: raises $0.03 to $0.05
+byChios: calls $0.05
+punnu: folds 
+zabulicaionu: folds 
+MiSpa1122: folds 
+makaron_75: folds 
+ollikahn23: calls $0.05
+DQA Shark: folds 
+gizmondouk: calls $0.03
+*** FLOP *** [Ts 9s 9c]
+gizmondouk: checks 
+BoerAas: checks 
+byChios: checks 
+ollikahn23: checks 
+*** TURN *** [Ts 9s 9c] [7s]
+gizmondouk: checks 
+BoerAas: checks 
+byChios: bets $0.10
+ollikahn23: folds 
+gizmondouk: folds 
+MiSpa1122 leaves the table
+BoerAas: calls $0.10
+*** RIVER *** [Ts 9s 9c 7s] [4c]
+Vanga333 joins the table at seat #8 
+BoerAas: checks 
+byChios: bets $0.40
+BoerAas: folds 
+Uncalled bet ($0.40) returned to byChios
+byChios collected $0.40 from pot
+byChios: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.01 
+Board [Ts 9s 9c 7s 4c]
+Seat 1: ollikahn23 (button) folded on the Turn
+Seat 2: DQA Shark (small blind) folded before Flop
+Seat 3: gizmondouk (big blind) folded on the Turn
+Seat 4: BoerAas folded on the River
+Seat 5: byChios collected ($0.40)
+Seat 6: punnu folded before Flop (didn't bet)
+Seat 7: zabulicaionu folded before Flop (didn't bet)
+Seat 8: MiSpa1122 folded before Flop (didn't bet)
+Seat 9: makaron_75 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114877665:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:42:55 ET
+Table 'Josefa' 9-max Seat #2 is the button
+Seat 1: ollikahn23 ($2.56 in chips) 
+Seat 2: DQA Shark ($2.64 in chips) 
+Seat 3: gizmondouk ($2.45 in chips) 
+Seat 4: BoerAas ($1.89 in chips) 
+Seat 5: byChios ($2.61 in chips) 
+Seat 6: punnu ($4.11 in chips) 
+Seat 7: zabulicaionu ($2 in chips) 
+Seat 9: makaron_75 ($2.06 in chips) 
+gizmondouk: posts small blind $0.01
+BoerAas: posts big blind $0.02
+Vanga333: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2h Qh]
+byChios: folds 
+punnu: folds 
+zabulicaionu: folds 
+makaron_75: folds 
+makaron_75 leaves the table
+ollikahn23: folds 
+DQA Shark: raises $0.04 to $0.06
+gizmondouk: folds 
+BoerAas: folds 
+Uncalled bet ($0.04) returned to DQA Shark
+DQA Shark collected $0.05 from pot
+DQA Shark: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: DQA Shark (button) collected ($0.05)
+Seat 3: gizmondouk (small blind) folded before Flop
+Seat 4: BoerAas (big blind) folded before Flop
+Seat 5: byChios folded before Flop (didn't bet)
+Seat 6: punnu folded before Flop (didn't bet)
+Seat 7: zabulicaionu folded before Flop (didn't bet)
+Seat 9: makaron_75 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114898279:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:43:20 ET
+Table 'Josefa' 9-max Seat #3 is the button
+Seat 1: ollikahn23 ($2.56 in chips) 
+Seat 2: DQA Shark ($2.67 in chips) 
+Seat 3: gizmondouk ($2.44 in chips) 
+Seat 4: BoerAas ($1.87 in chips) 
+Seat 5: byChios ($2.61 in chips) 
+Seat 6: punnu ($4.11 in chips) 
+Seat 7: zabulicaionu ($2 in chips) 
+BoerAas: posts small blind $0.01
+byChios: posts big blind $0.02
+Vanga333: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6s Th]
+punnu: folds 
+zabulicaionu: folds 
+ollikahn23: folds 
+DQA Shark: folds 
+gizmondouk: raises $0.04 to $0.06
+Zuludererste joins the table at seat #9 
+BoerAas: calls $0.05
+byChios: calls $0.04
+*** FLOP *** [6h Qd 8s]
+BoerAas: checks 
+byChios: checks 
+gizmondouk: checks 
+*** TURN *** [6h Qd 8s] [7h]
+BoerAas: checks 
+byChios: bets $0.08
+gizmondouk: folds 
+BoerAas: calls $0.08
+*** RIVER *** [6h Qd 8s 7h] [Ts]
+BoerAas: checks 
+byChios: checks 
+*** SHOW DOWN ***
+BoerAas: shows [5h Jh] (high card Queen)
+byChios: shows [Ah Kh] (high card Ace)
+byChios collected $0.33 from pot
+*** SUMMARY ***
+Total pot $0.34 | Rake $0.01 
+Board [6h Qd 8s 7h Ts]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: DQA Shark folded before Flop (didn't bet)
+Seat 3: gizmondouk (button) folded on the Turn
+Seat 4: BoerAas (small blind) showed [5h Jh] and lost with high card Queen
+Seat 5: byChios (big blind) showed [Ah Kh] and won ($0.33) with high card Ace
+Seat 6: punnu folded before Flop (didn't bet)
+Seat 7: zabulicaionu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114948717:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:44:21 ET
+Table 'Josefa' 9-max Seat #4 is the button
+Seat 1: ollikahn23 ($2.56 in chips) 
+Seat 2: DQA Shark ($2.67 in chips) 
+Seat 3: gizmondouk ($2.38 in chips) 
+Seat 4: BoerAas ($1.73 in chips) 
+Seat 5: byChios ($2.80 in chips) 
+Seat 6: punnu ($4.11 in chips) 
+Seat 7: zabulicaionu ($2 in chips) 
+byChios: posts small blind $0.01
+punnu: posts big blind $0.02
+Vanga333: sits out 
+Zuludererste: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2s Ts]
+zabulicaionu: raises $0.06 to $0.08
+ollikahn23: folds 
+DQA Shark: folds 
+gizmondouk: calls $0.08
+BoerAas: calls $0.08
+byChios: folds 
+punnu: folds 
+*** FLOP *** [7c Kd 8c]
+zabulicaionu: checks 
+gizmondouk: checks 
+BoerAas: checks 
+*** TURN *** [7c Kd 8c] [Td]
+zabulicaionu: checks 
+gizmondouk: bets $0.14
+BoerAas: calls $0.14
+zabulicaionu: folds 
+*** RIVER *** [7c Kd 8c Td] [9c]
+gizmondouk: bets $0.48
+BoerAas: calls $0.48
+*** SHOW DOWN ***
+gizmondouk: shows [Jc Qc] (a flush, Queen high)
+BoerAas: mucks hand 
+gizmondouk collected $1.46 from pot
+*** SUMMARY ***
+Total pot $1.51 | Rake $0.05 
+Board [7c Kd 8c Td 9c]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: DQA Shark folded before Flop (didn't bet)
+Seat 3: gizmondouk showed [Jc Qc] and won ($1.46) with a flush, Queen high
+Seat 4: BoerAas (button) mucked [Jh Ah]
+Seat 5: byChios (small blind) folded before Flop
+Seat 6: punnu (big blind) folded before Flop
+Seat 7: zabulicaionu folded on the Turn
+
+
+
+PokerStars Hand #182115002470:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:45:26 ET
+Table 'Josefa' 9-max Seat #5 is the button
+Seat 1: ollikahn23 ($2.56 in chips) 
+Seat 2: DQA Shark ($2.67 in chips) 
+Seat 3: gizmondouk ($3.14 in chips) 
+Seat 4: BoerAas ($1.03 in chips) 
+Seat 5: byChios ($2.79 in chips) 
+Seat 6: punnu ($4.09 in chips) 
+Seat 7: zabulicaionu ($2 in chips) 
+punnu: posts small blind $0.01
+zabulicaionu: posts big blind $0.02
+Vanga333: sits out 
+Zuludererste: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Td 9c]
+ollikahn23: folds 
+DQA Shark: folds 
+gizmondouk: folds 
+BoerAas: folds 
+byChios: raises $0.02 to $0.04
+punnu: folds 
+zabulicaionu: calls $0.02
+*** FLOP *** [6d 6h Ks]
+zabulicaionu: checks 
+byChios: checks 
+*** TURN *** [6d 6h Ks] [7c]
+zabulicaionu: checks 
+byChios: checks 
+*** RIVER *** [6d 6h Ks 7c] [Ac]
+zabulicaionu: checks 
+byChios: checks 
+*** SHOW DOWN ***
+zabulicaionu: shows [2h 2d] (two pair, Sixes and Deuces)
+byChios: mucks hand 
+zabulicaionu collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [6d 6h Ks 7c Ac]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: DQA Shark folded before Flop (didn't bet)
+Seat 3: gizmondouk folded before Flop (didn't bet)
+Seat 4: BoerAas folded before Flop (didn't bet)
+Seat 5: byChios (button) mucked [4d Qd]
+Seat 6: punnu (small blind) folded before Flop
+Seat 7: zabulicaionu (big blind) showed [2h 2d] and won ($0.09) with two pair, Sixes and Deuces
+
+
+
+PokerStars Hand #182115043661:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:46:16 ET
+Table 'Josefa' 9-max Seat #6 is the button
+Seat 1: ollikahn23 ($2.56 in chips) 
+Seat 2: DQA Shark ($2.67 in chips) 
+Seat 3: gizmondouk ($3.14 in chips) 
+Seat 4: BoerAas ($1.03 in chips) 
+Seat 5: byChios ($2.75 in chips) 
+Seat 6: punnu ($4.08 in chips) 
+Seat 7: zabulicaionu ($2.05 in chips) 
+Seat 8: Vanga333 ($2 in chips) 
+zabulicaionu: posts small blind $0.01
+Vanga333: posts big blind $0.02
+Zuludererste: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ac 2d]
+ollikahn23: folds 
+DQA Shark: raises $0.04 to $0.06
+gizmondouk: folds 
+BoerAas: folds 
+byChios: folds 
+punnu: folds 
+zabulicaionu: folds 
+Vanga333: folds 
+Uncalled bet ($0.04) returned to DQA Shark
+DQA Shark collected $0.05 from pot
+DQA Shark: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: DQA Shark collected ($0.05)
+Seat 3: gizmondouk folded before Flop (didn't bet)
+Seat 4: BoerAas folded before Flop (didn't bet)
+Seat 5: byChios folded before Flop (didn't bet)
+Seat 6: punnu (button) folded before Flop (didn't bet)
+Seat 7: zabulicaionu (small blind) folded before Flop
+Seat 8: Vanga333 (big blind) folded before Flop
+
+
+
+PokerStars Hand #182115062802:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:46:39 ET
+Table 'Josefa' 9-max Seat #7 is the button
+Seat 1: ollikahn23 ($2.56 in chips) 
+Seat 2: DQA Shark ($2.70 in chips) 
+Seat 3: gizmondouk ($3.14 in chips) 
+Seat 4: BoerAas ($1.03 in chips) 
+Seat 5: byChios ($2.75 in chips) 
+Seat 6: punnu ($4.08 in chips) 
+Seat 7: zabulicaionu ($2.04 in chips) 
+Seat 8: Vanga333 ($2 in chips) 
+Seat 9: Zuludererste ($0.96 in chips) 
+Vanga333: posts small blind $0.01
+Zuludererste: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9d As]
+ollikahn23: folds 
+DQA Shark: folds 
+gizmondouk: folds 
+BoerAas: folds 
+byChios: raises $0.02 to $0.04
+punnu: folds 
+zabulicaionu: folds 
+Vanga333: folds 
+Zuludererste: folds 
+Uncalled bet ($0.02) returned to byChios
+byChios collected $0.05 from pot
+byChios: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: DQA Shark folded before Flop (didn't bet)
+Seat 3: gizmondouk folded before Flop (didn't bet)
+Seat 4: BoerAas folded before Flop (didn't bet)
+Seat 5: byChios collected ($0.05)
+Seat 6: punnu folded before Flop (didn't bet)
+Seat 7: zabulicaionu (button) folded before Flop (didn't bet)
+Seat 8: Vanga333 (small blind) folded before Flop
+Seat 9: Zuludererste (big blind) folded before Flop
+
+
+
+PokerStars Hand #182115082974:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:47:04 ET
+Table 'Josefa' 9-max Seat #8 is the button
+Seat 1: ollikahn23 ($2.56 in chips) 
+Seat 2: DQA Shark ($2.70 in chips) 
+Seat 3: gizmondouk ($3.14 in chips) 
+Seat 4: BoerAas ($1.03 in chips) 
+Seat 5: byChios ($2.78 in chips) 
+Seat 6: punnu ($4.08 in chips) 
+Seat 7: zabulicaionu ($2.04 in chips) 
+Seat 8: Vanga333 ($2 in chips) 
+Seat 9: Zuludererste ($0.94 in chips) 
+Zuludererste: posts small blind $0.01
+ollikahn23: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Td Tc]
+DQA Shark: folds 
+gizmondouk: folds 
+BoerAas: calls $0.02
+byChios: folds 
+punnu: folds 
+zabulicaionu: folds 
+Vanga333: folds 
+Zuludererste: calls $0.01
+ollikahn23: raises $0.08 to $0.10
+BoerAas: calls $0.08
+Zuludererste: calls $0.08
+*** FLOP *** [Qh 6c 7h]
+Zuludererste: checks 
+ollikahn23: bets $0.14
+BoerAas: folds 
+Zuludererste: folds 
+Uncalled bet ($0.14) returned to ollikahn23
+ollikahn23 collected $0.29 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [Qh 6c 7h]
+Seat 1: ollikahn23 (big blind) collected ($0.29)
+Seat 2: DQA Shark folded before Flop (didn't bet)
+Seat 3: gizmondouk folded before Flop (didn't bet)
+Seat 4: BoerAas folded on the Flop
+Seat 5: byChios folded before Flop (didn't bet)
+Seat 6: punnu folded before Flop (didn't bet)
+Seat 7: zabulicaionu folded before Flop (didn't bet)
+Seat 8: Vanga333 (button) folded before Flop (didn't bet)
+Seat 9: Zuludererste (small blind) folded on the Flop
+
+
+
+PokerStars Hand #182115126888:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:47:57 ET
+Table 'Josefa' 9-max Seat #9 is the button
+Seat 1: ollikahn23 ($2.75 in chips) 
+Seat 3: gizmondouk ($3.14 in chips) 
+Seat 4: BoerAas ($0.93 in chips) 
+Seat 5: byChios ($2.78 in chips) 
+Seat 6: punnu ($4.08 in chips) 
+Seat 7: zabulicaionu ($2.04 in chips) 
+Seat 8: Vanga333 ($2 in chips) 
+Seat 9: Zuludererste ($0.84 in chips) 
+ollikahn23: posts small blind $0.01
+DQA Shark: is sitting out 
+gizmondouk: posts big blind $0.02
+DQA Shark leaves the table
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ts 7h]
+BoerAas: folds 
+byChios: folds 
+punnu: folds 
+Bily Bo joins the table at seat #2 
+zabulicaionu: folds 
+Vanga333: folds 
+Zuludererste: raises $0.05 to $0.07
+ollikahn23: folds 
+gizmondouk: folds 
+Uncalled bet ($0.05) returned to Zuludererste
+Zuludererste collected $0.05 from pot
+Zuludererste: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: ollikahn23 (small blind) folded before Flop
+Seat 3: gizmondouk (big blind) folded before Flop
+Seat 4: BoerAas folded before Flop (didn't bet)
+Seat 5: byChios folded before Flop (didn't bet)
+Seat 6: punnu folded before Flop (didn't bet)
+Seat 7: zabulicaionu folded before Flop (didn't bet)
+Seat 8: Vanga333 folded before Flop (didn't bet)
+Seat 9: Zuludererste (button) collected ($0.05)
+
+
+
+PokerStars Hand #182115147581:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:48:23 ET
+Table 'Josefa' 9-max Seat #1 is the button
+Seat 1: ollikahn23 ($2.74 in chips) 
+Seat 3: gizmondouk ($3.12 in chips) 
+Seat 4: BoerAas ($0.93 in chips) 
+Seat 5: byChios ($2.78 in chips) 
+Seat 6: punnu ($4.08 in chips) 
+Seat 7: zabulicaionu ($2.04 in chips) 
+Seat 8: Vanga333 ($2 in chips) 
+Seat 9: Zuludererste ($0.87 in chips) 
+Bily Bo will be allowed to play after the button
+gizmondouk: posts small blind $0.01
+BoerAas: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8s 3c]
+byChios: folds 
+punnu: raises $0.04 to $0.06
+zabulicaionu: folds 
+Vanga333: folds 
+Zuludererste: folds 
+ollikahn23: folds 
+gizmondouk: folds 
+BoerAas: calls $0.04
+*** FLOP *** [3d 6h 7h]
+BoerAas: checks 
+punnu: bets $0.07
+BoerAas: folds 
+Uncalled bet ($0.07) returned to punnu
+punnu collected $0.13 from pot
+punnu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [3d 6h 7h]
+Seat 1: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 3: gizmondouk (small blind) folded before Flop
+Seat 4: BoerAas (big blind) folded on the Flop
+Seat 5: byChios folded before Flop (didn't bet)
+Seat 6: punnu collected ($0.13)
+Seat 7: zabulicaionu folded before Flop (didn't bet)
+Seat 8: Vanga333 folded before Flop (didn't bet)
+Seat 9: Zuludererste folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182115186622:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:49:10 ET
+Table 'Josefa' 9-max Seat #3 is the button
+Seat 1: ollikahn23 ($2.74 in chips) 
+Seat 3: gizmondouk ($3.11 in chips) 
+Seat 4: BoerAas ($0.87 in chips) 
+Seat 5: byChios ($2.78 in chips) 
+Seat 6: punnu ($4.15 in chips) 
+Seat 7: zabulicaionu ($2.04 in chips) 
+Seat 8: Vanga333 ($2 in chips) 
+Seat 9: Zuludererste ($0.87 in chips) 
+BoerAas: posts small blind $0.01
+byChios: posts big blind $0.02
+Bily Bo: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9s Qs]
+punnu: folds 
+zabulicaionu: folds 
+Vanga333: folds 
+Zuludererste: folds 
+ollikahn23: raises $0.04 to $0.06
+gizmondouk: folds 
+BoerAas: calls $0.05
+byChios: calls $0.04
+*** FLOP *** [Js 2h 2d]
+BoerAas: checks 
+byChios: bets $0.08
+ollikahn23: folds 
+BoerAas: calls $0.08
+*** TURN *** [Js 2h 2d] [3c]
+BoerAas: checks 
+byChios: bets $0.16
+BoerAas: calls $0.16
+*** RIVER *** [Js 2h 2d 3c] [7h]
+BoerAas: checks 
+byChios: bets $0.64
+BoerAas: calls $0.57 and is all-in
+Uncalled bet ($0.07) returned to byChios
+*** SHOW DOWN ***
+byChios: shows [Ks 2c] (three of a kind, Deuces)
+BoerAas: shows [Ac Jh] (two pair, Jacks and Deuces)
+byChios collected $1.74 from pot
+*** SUMMARY ***
+Total pot $1.80 | Rake $0.06 
+Board [Js 2h 2d 3c 7h]
+Seat 1: ollikahn23 folded on the Flop
+Seat 3: gizmondouk (button) folded before Flop (didn't bet)
+Seat 4: BoerAas (small blind) showed [Ac Jh] and lost with two pair, Jacks and Deuces
+Seat 5: byChios (big blind) showed [Ks 2c] and won ($1.74) with three of a kind, Deuces
+Seat 6: punnu folded before Flop (didn't bet)
+Seat 7: zabulicaionu folded before Flop (didn't bet)
+Seat 8: Vanga333 folded before Flop (didn't bet)
+Seat 9: Zuludererste folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182115255504:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:50:34 ET
+Table 'Josefa' 9-max Seat #5 is the button
+Seat 1: ollikahn23 ($2.68 in chips) 
+Seat 3: gizmondouk ($3.11 in chips) 
+Seat 5: byChios ($3.65 in chips) 
+Seat 6: punnu ($4.15 in chips) 
+Seat 7: zabulicaionu ($2.04 in chips) 
+Seat 8: Vanga333 ($2 in chips) 
+Seat 9: Zuludererste ($0.87 in chips) 
+punnu: posts small blind $0.01
+zabulicaionu: posts big blind $0.02
+Bily Bo: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9d 6d]
+BoerAas leaves the table
+Vanga333: folds 
+Zuludererste: folds 
+10202614 joins the table at seat #4 
+ollikahn23: folds 
+gizmondouk: folds 
+byChios: raises $0.02 to $0.04
+punnu: calls $0.03
+zabulicaionu: folds 
+*** FLOP *** [Ah Kh 7s]
+punnu: checks 
+byChios: bets $0.04
+punnu: calls $0.04
+*** TURN *** [Ah Kh 7s] [2h]
+punnu: checks 
+byChios: bets $0.08
+punnu: folds 
+Uncalled bet ($0.08) returned to byChios
+byChios collected $0.17 from pot
+byChios: doesn't show hand 
+Bily Bo leaves the table
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [Ah Kh 7s 2h]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 3: gizmondouk folded before Flop (didn't bet)
+Seat 5: byChios (button) collected ($0.17)
+Seat 6: punnu (small blind) folded on the Turn
+Seat 7: zabulicaionu (big blind) folded before Flop
+Seat 8: Vanga333 folded before Flop (didn't bet)
+Seat 9: Zuludererste folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182115295804:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:51:24 ET
+Table 'Josefa' 9-max Seat #6 is the button
+Seat 1: ollikahn23 ($2.68 in chips) 
+Seat 3: gizmondouk ($3.11 in chips) 
+Seat 5: byChios ($3.74 in chips) 
+Seat 6: punnu ($4.07 in chips) 
+Seat 7: zabulicaionu ($2.02 in chips) 
+Seat 8: Vanga333 ($2 in chips) 
+Seat 9: Zuludererste ($0.87 in chips) 
+zabulicaionu: posts small blind $0.01
+Vanga333: posts big blind $0.02
+10202614: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qh 4h]
+Zuludererste: folds 
+ollikahn23: folds 
+Zuludererste leaves the table
+777fenya777 joins the table at seat #9 
+gizmondouk: raises $0.04 to $0.06
+byChios: calls $0.06
+punnu: calls $0.06
+zabulicaionu: folds 
+Vanga333: folds 
+*** FLOP *** [6h 5s 3c]
+gizmondouk: bets $0.14
+byChios: calls $0.14
+punnu: folds 
+*** TURN *** [6h 5s 3c] [2c]
+gizmondouk: checks 
+byChios: checks 
+*** RIVER *** [6h 5s 3c 2c] [9c]
+gizmondouk: checks 
+byChios: bets $0.46
+gizmondouk: folds 
+Uncalled bet ($0.46) returned to byChios
+byChios collected $0.47 from pot
+byChios: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.49 | Rake $0.02 
+Board [6h 5s 3c 2c 9c]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 3: gizmondouk folded on the River
+Seat 5: byChios collected ($0.47)
+Seat 6: punnu (button) folded on the Flop
+Seat 7: zabulicaionu (small blind) folded before Flop
+Seat 8: Vanga333 (big blind) folded before Flop
+Seat 9: Zuludererste folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182115351390:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:52:31 ET
+Table 'Josefa' 9-max Seat #7 is the button
+Seat 1: ollikahn23 ($2.68 in chips) 
+Seat 3: gizmondouk ($2.91 in chips) 
+Seat 5: byChios ($4.01 in chips) 
+Seat 6: punnu ($4.01 in chips) 
+Seat 7: zabulicaionu ($2.01 in chips) 
+Seat 8: Vanga333 ($2 in chips) 
+Seat 9: 777fenya777 ($2 in chips) 
+Vanga333: posts small blind $0.01
+777fenya777: posts big blind $0.02
+10202614: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2h 3d]
+ollikahn23: folds 
+gizmondouk: raises $0.04 to $0.06
+byChios: folds 
+punnu: folds 
+zabulicaionu: folds 
+Vanga333: folds 
+777fenya777: folds 
+Uncalled bet ($0.04) returned to gizmondouk
+gizmondouk collected $0.05 from pot
+gizmondouk: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 3: gizmondouk collected ($0.05)
+Seat 5: byChios folded before Flop (didn't bet)
+Seat 6: punnu folded before Flop (didn't bet)
+Seat 7: zabulicaionu (button) folded before Flop (didn't bet)
+Seat 8: Vanga333 (small blind) folded before Flop
+Seat 9: 777fenya777 (big blind) folded before Flop
+
+
+
+PokerStars Hand #182115365484:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:52:48 ET
+Table 'Josefa' 9-max Seat #8 is the button
+Seat 1: ollikahn23 ($2.68 in chips) 
+Seat 3: gizmondouk ($2.94 in chips) 
+Seat 5: byChios ($4.01 in chips) 
+Seat 6: punnu ($4.01 in chips) 
+Seat 7: zabulicaionu ($2.01 in chips) 
+Seat 8: Vanga333 ($2 in chips) 
+Seat 9: 777fenya777 ($2 in chips) 
+777fenya777: posts small blind $0.01
+ollikahn23: posts big blind $0.02
+10202614: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6s Ad]
+gizmondouk: folds 
+byChios: folds 
+punnu: folds 
+zabulicaionu: folds 
+Vanga333: raises $0.03 to $0.05
+777fenya777: folds 
+ollikahn23: folds 
+Uncalled bet ($0.03) returned to Vanga333
+Vanga333 collected $0.05 from pot
+Vanga333: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: ollikahn23 (big blind) folded before Flop
+Seat 3: gizmondouk folded before Flop (didn't bet)
+Seat 5: byChios folded before Flop (didn't bet)
+Seat 6: punnu folded before Flop (didn't bet)
+Seat 7: zabulicaionu folded before Flop (didn't bet)
+Seat 8: Vanga333 (button) collected ($0.05)
+Seat 9: 777fenya777 (small blind) folded before Flop
+
+
+
+PokerStars Hand #182115381166:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:53:07 ET
+Table 'Josefa' 9-max Seat #9 is the button
+Seat 1: ollikahn23 ($2.66 in chips) 
+Seat 3: gizmondouk ($2.94 in chips) 
+Seat 5: byChios ($4.01 in chips) 
+Seat 6: punnu ($4.01 in chips) 
+Seat 7: zabulicaionu ($2.01 in chips) 
+Seat 8: Vanga333 ($2.03 in chips) 
+Seat 9: 777fenya777 ($2 in chips) 
+ollikahn23: posts small blind $0.01
+gizmondouk: posts big blind $0.02
+10202614: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2h 9d]
+byChios: folds 
+punnu: folds 
+zabulicaionu: folds 
+Vanga333: folds 
+777fenya777: folds 
+ollikahn23: folds 
+Uncalled bet ($0.01) returned to gizmondouk
+gizmondouk collected $0.02 from pot
+gizmondouk: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: ollikahn23 (small blind) folded before Flop
+Seat 3: gizmondouk (big blind) collected ($0.02)
+Seat 5: byChios folded before Flop (didn't bet)
+Seat 6: punnu folded before Flop (didn't bet)
+Seat 7: zabulicaionu folded before Flop (didn't bet)
+Seat 8: Vanga333 folded before Flop (didn't bet)
+Seat 9: 777fenya777 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182115394746:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:53:23 ET
+Table 'Josefa' 9-max Seat #1 is the button
+Seat 1: ollikahn23 ($2.65 in chips) 
+Seat 3: gizmondouk ($2.95 in chips) 
+Seat 4: 10202614 ($2 in chips) 
+Seat 5: byChios ($4.01 in chips) 
+Seat 6: punnu ($4.01 in chips) 
+Seat 7: zabulicaionu ($2.01 in chips) 
+Seat 8: Vanga333 ($2.03 in chips) 
+Seat 9: 777fenya777 ($2 in chips) 
+gizmondouk: posts small blind $0.01
+10202614: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2s Ts]
+byChios: folds 
+punnu: folds 
+zabulicaionu: folds 
+Vanga333: folds 
+777fenya777: folds 
+ollikahn23: folds 
+gizmondouk: folds 
+Uncalled bet ($0.01) returned to 10202614
+10202614 collected $0.02 from pot
+10202614: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 3: gizmondouk (small blind) folded before Flop
+Seat 4: 10202614 (big blind) collected ($0.02)
+Seat 5: byChios folded before Flop (didn't bet)
+Seat 6: punnu folded before Flop (didn't bet)
+Seat 7: zabulicaionu folded before Flop (didn't bet)
+Seat 8: Vanga333 folded before Flop (didn't bet)
+Seat 9: 777fenya777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182115413784:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:53:47 ET
+Table 'Josefa' 9-max Seat #3 is the button
+Seat 1: ollikahn23 ($2.65 in chips) 
+Seat 3: gizmondouk ($2.94 in chips) 
+Seat 4: 10202614 ($2.01 in chips) 
+Seat 5: byChios ($4.01 in chips) 
+Seat 6: punnu ($4.01 in chips) 
+Seat 7: zabulicaionu ($2.01 in chips) 
+Seat 8: Vanga333 ($2.03 in chips) 
+Seat 9: 777fenya777 ($2 in chips) 
+10202614: posts small blind $0.01
+byChios: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qc Tc]
+punnu: folds 
+zabulicaionu: folds 
+Vanga333: folds 
+777fenya777: folds 
+ollikahn23: raises $0.04 to $0.06
+gizmondouk: folds 
+10202614: folds 
+byChios: calls $0.04
+*** FLOP *** [9h 3c 7h]
+byChios: checks 
+Master8366 joins the table at seat #2 
+ollikahn23: checks 
+*** TURN *** [9h 3c 7h] [7d]
+byChios: checks 
+ollikahn23: bets $0.06
+byChios: calls $0.06
+*** RIVER *** [9h 3c 7h 7d] [7c]
+byChios: checks 
+ollikahn23: checks 
+*** SHOW DOWN ***
+byChios: shows [3s Qs] (a full house, Sevens full of Threes)
+ollikahn23: mucks hand 
+byChios collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [9h 3c 7h 7d 7c]
+Seat 1: ollikahn23 mucked [Qc Tc]
+Seat 3: gizmondouk (button) folded before Flop (didn't bet)
+Seat 4: 10202614 (small blind) folded before Flop
+Seat 5: byChios (big blind) showed [3s Qs] and won ($0.24) with a full house, Sevens full of Threes
+Seat 6: punnu folded before Flop (didn't bet)
+Seat 7: zabulicaionu folded before Flop (didn't bet)
+Seat 8: Vanga333 folded before Flop (didn't bet)
+Seat 9: 777fenya777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182115463540:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:54:47 ET
+Table 'Josefa' 9-max Seat #4 is the button
+Seat 1: ollikahn23 ($2.53 in chips) 
+Seat 2: Master8366 ($1.93 in chips) 
+Seat 3: gizmondouk ($2.94 in chips) 
+Seat 4: 10202614 ($2 in chips) 
+Seat 5: byChios ($4.13 in chips) 
+Seat 7: zabulicaionu ($2.01 in chips) 
+Seat 8: Vanga333 ($2.03 in chips) 
+Seat 9: 777fenya777 ($2 in chips) 
+byChios: posts small blind $0.01
+punnu: is sitting out 
+zabulicaionu: posts big blind $0.02
+Master8366: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3s Ks]
+Vanga333: folds 
+777fenya777: folds 
+ollikahn23: folds 
+Master8366: checks 
+gizmondouk: folds 
+10202614: folds 
+byChios: folds 
+zabulicaionu: checks 
+*** FLOP *** [9h 3h As]
+punnu leaves the table
+zabulicaionu: bets $0.03
+Master8366: folds 
+Uncalled bet ($0.03) returned to zabulicaionu
+zabulicaionu collected $0.05 from pot
+zabulicaionu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [9h 3h As]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: Master8366 folded on the Flop
+Seat 3: gizmondouk folded before Flop (didn't bet)
+Seat 4: 10202614 (button) folded before Flop (didn't bet)
+Seat 5: byChios (small blind) folded before Flop
+Seat 7: zabulicaionu (big blind) collected ($0.05)
+Seat 8: Vanga333 folded before Flop (didn't bet)
+Seat 9: 777fenya777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182115481546:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:55:09 ET
+Table 'Josefa' 9-max Seat #5 is the button
+Seat 1: ollikahn23 ($2.53 in chips) 
+Seat 2: Master8366 ($1.91 in chips) 
+Seat 3: gizmondouk ($2.94 in chips) 
+Seat 4: 10202614 ($2 in chips) 
+Seat 5: byChios ($4.12 in chips) 
+Seat 7: zabulicaionu ($2.04 in chips) 
+Seat 8: Vanga333 ($2.03 in chips) 
+Seat 9: 777fenya777 ($2 in chips) 
+zabulicaionu: posts small blind $0.01
+Vanga333: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qc 8s]
+777fenya777: raises $0.04 to $0.06
+ollikahn23: folds 
+Master8366: folds 
+gizmondouk: folds 
+10202614: folds 
+byChios: folds 
+zabulicaionu: folds 
+Vanga333: calls $0.04
+*** FLOP *** [Qh 5c Kc]
+byChios leaves the table
+Vanga333: checks 
+chryspa k. joins the table at seat #5 
+Lehrte dein joins the table at seat #6 
+777fenya777 is disconnected 
+777fenya777 has timed out while disconnected
+777fenya777: checks 
+*** TURN *** [Qh 5c Kc] [Kd]
+Vanga333: bets $0.08
+777fenya777 has timed out while disconnected
+777fenya777: folds 
+Uncalled bet ($0.08) returned to Vanga333
+Vanga333 collected $0.13 from pot
+Vanga333: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Qh 5c Kc Kd]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: Master8366 folded before Flop (didn't bet)
+Seat 3: gizmondouk folded before Flop (didn't bet)
+Seat 4: 10202614 folded before Flop (didn't bet)
+Seat 5: byChios (button) folded before Flop (didn't bet)
+Seat 7: zabulicaionu (small blind) folded before Flop
+Seat 8: Vanga333 (big blind) collected ($0.13)
+Seat 9: 777fenya777 folded on the Turn
+
+
+
+PokerStars Hand #182115596425:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:57:45 ET
+Table 'Josefa' 9-max Seat #7 is the button
+Seat 1: ollikahn23 ($2.53 in chips) 
+Seat 2: Master8366 ($1.91 in chips) 
+Seat 3: gizmondouk ($2.94 in chips) 
+Seat 4: 10202614 ($2 in chips) 
+Seat 6: Lehrte dein ($1.60 in chips) 
+Seat 7: zabulicaionu ($2.03 in chips) 
+Seat 8: Vanga333 ($2.10 in chips) 
+Vanga333: posts small blind $0.01
+ollikahn23: posts big blind $0.02
+chryspa k.: sits out 
+Lehrte dein: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ad Ac]
+Master8366: raises $0.02 to $0.04
+gizmondouk: folds 
+10202614: folds 
+Lehrte dein: calls $0.02
+zabulicaionu: folds 
+Vanga333: folds 
+ollikahn23: raises $0.10 to $0.14
+Master8366: calls $0.10
+Lehrte dein: calls $0.10
+*** FLOP *** [Qh 4s Kd]
+ollikahn23: bets $0.28
+Master8366: folds 
+Lehrte dein: folds 
+Uncalled bet ($0.28) returned to ollikahn23
+ollikahn23 collected $0.41 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02 
+Board [Qh 4s Kd]
+Seat 1: ollikahn23 (big blind) collected ($0.41)
+Seat 2: Master8366 folded on the Flop
+Seat 3: gizmondouk folded before Flop (didn't bet)
+Seat 4: 10202614 folded before Flop (didn't bet)
+Seat 6: Lehrte dein folded on the Flop
+Seat 7: zabulicaionu (button) folded before Flop (didn't bet)
+Seat 8: Vanga333 (small blind) folded before Flop
+
+
+
+PokerStars Hand #182115630847:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:58:34 ET
+Table 'Josefa' 9-max Seat #8 is the button
+Seat 1: ollikahn23 ($2.80 in chips) 
+Seat 2: Master8366 ($1.77 in chips) 
+Seat 3: gizmondouk ($2.94 in chips) 
+Seat 4: 10202614 ($2 in chips) 
+Seat 6: Lehrte dein ($1.46 in chips) 
+Seat 7: zabulicaionu ($2.03 in chips) 
+Seat 8: Vanga333 ($2.09 in chips) 
+ollikahn23: posts small blind $0.01
+Master8366: posts big blind $0.02
+chryspa k.: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5c 5h]
+gizmondouk: folds 
+10202614: raises $0.04 to $0.06
+Lehrte dein: folds 
+zabulicaionu: calls $0.06
+Vanga333: folds 
+ollikahn23: calls $0.05
+Master8366: folds 
+*** FLOP *** [2s Qh 7h]
+ollikahn23: checks 
+10202614: checks 
+zabulicaionu: checks 
+*** TURN *** [2s Qh 7h] [3s]
+ollikahn23: checks 
+10202614: checks 
+zabulicaionu: checks 
+*** RIVER *** [2s Qh 7h 3s] [4c]
+ollikahn23: checks 
+10202614: checks 
+zabulicaionu: checks 
+*** SHOW DOWN ***
+ollikahn23: shows [5c 5h] (a pair of Fives)
+10202614: shows [Th Td] (a pair of Tens)
+zabulicaionu: mucks hand 
+10202614 collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [2s Qh 7h 3s 4c]
+Seat 1: ollikahn23 (small blind) showed [5c 5h] and lost with a pair of Fives
+Seat 2: Master8366 (big blind) folded before Flop
+Seat 3: gizmondouk folded before Flop (didn't bet)
+Seat 4: 10202614 showed [Th Td] and won ($0.19) with a pair of Tens
+Seat 6: Lehrte dein folded before Flop (didn't bet)
+Seat 7: zabulicaionu mucked [Kh Ac]
+Seat 8: Vanga333 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182115664990:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:59:23 ET
+Table 'Josefa' 9-max Seat #1 is the button
+Seat 1: ollikahn23 ($2.74 in chips) 
+Seat 2: Master8366 ($1.75 in chips) 
+Seat 3: gizmondouk ($2.94 in chips) 
+Seat 4: 10202614 ($2.13 in chips) 
+Seat 6: Lehrte dein ($1.46 in chips) 
+Seat 7: zabulicaionu ($2 in chips) 
+Seat 8: Vanga333 ($2.09 in chips) 
+Master8366: posts small blind $0.01
+gizmondouk: posts big blind $0.02
+chryspa k.: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5d 3d]
+10202614: folds 
+Lehrte dein: folds 
+zabulicaionu: folds 
+Vanga333: folds 
+ollikahn23: folds 
+Master8366: raises $0.02 to $0.04
+gizmondouk: folds 
+Uncalled bet ($0.02) returned to Master8366
+Master8366 collected $0.04 from pot
+Master8366: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 2: Master8366 (small blind) collected ($0.04)
+Seat 3: gizmondouk (big blind) folded before Flop
+Seat 4: 10202614 folded before Flop (didn't bet)
+Seat 6: Lehrte dein folded before Flop (didn't bet)
+Seat 7: zabulicaionu folded before Flop (didn't bet)
+Seat 8: Vanga333 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182115687148:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:59:55 ET
+Table 'Josefa' 9-max Seat #2 is the button
+Seat 1: ollikahn23 ($2.74 in chips) 
+Seat 2: Master8366 ($1.77 in chips) 
+Seat 3: gizmondouk ($2.92 in chips) 
+Seat 4: 10202614 ($2.13 in chips) 
+Seat 6: Lehrte dein ($1.46 in chips) 
+Seat 7: zabulicaionu ($2 in chips) 
+Seat 8: Vanga333 ($2.09 in chips) 
+gizmondouk: posts small blind $0.01
+10202614: posts big blind $0.02
+chryspa k.: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7d 4h]
+Lehrte dein: calls $0.02
+zabulicaionu: folds 
+Vanga333: calls $0.02
+ollikahn23: folds 
+Master8366: folds 
+gizmondouk: folds 
+10202614: checks 
+*** FLOP *** [4s Ac 5s]
+10202614: checks 
+Lehrte dein: checks 
+Vanga333: checks 
+*** TURN *** [4s Ac 5s] [4d]
+10202614: checks 
+Lehrte dein: checks 
+Vanga333: checks 
+*** RIVER *** [4s Ac 5s 4d] [5h]
+10202614: checks 
+Lehrte dein: checks 
+Vanga333: checks 
+*** SHOW DOWN ***
+10202614: shows [Ts Js] (two pair, Fives and Fours)
+Lehrte dein: shows [2h Kd] (two pair, Fives and Fours)
+Vanga333: shows [Kc Qs] (two pair, Fives and Fours)
+10202614 collected $0.03 from pot
+Lehrte dein collected $0.02 from pot
+Vanga333 collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [4s Ac 5s 4d 5h]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: Master8366 (button) folded before Flop (didn't bet)
+Seat 3: gizmondouk (small blind) folded before Flop
+Seat 4: 10202614 (big blind) showed [Ts Js] and won ($0.03) with two pair, Fives and Fours
+Seat 6: Lehrte dein showed [2h Kd] and won ($0.02) with two pair, Fives and Fours
+Seat 7: zabulicaionu folded before Flop (didn't bet)
+Seat 8: Vanga333 showed [Kc Qs] and won ($0.02) with two pair, Fives and Fours
+
+
+
+PokerStars Hand #182115731527:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 13:00:56 ET
+Table 'Josefa' 9-max Seat #3 is the button
+Seat 1: ollikahn23 ($2.74 in chips) 
+Seat 2: Master8366 ($1.77 in chips) 
+Seat 3: gizmondouk ($2.91 in chips) 
+Seat 4: 10202614 ($2.14 in chips) 
+Seat 5: chryspa k. ($2 in chips) 
+Seat 6: Lehrte dein ($1.46 in chips) 
+Seat 7: zabulicaionu ($2 in chips) 
+Seat 8: Vanga333 ($2.09 in chips) 
+10202614: posts small blind $0.01
+chryspa k.: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6c 9d]
+Lehrte dein: calls $0.02
+zabulicaionu: folds 
+Vanga333: folds 
+ollikahn23: folds 
+Master8366: folds 
+gizmondouk: folds 
+10202614: folds 
+chryspa k.: raises $0.05 to $0.07
+Lehrte dein: calls $0.05
+*** FLOP *** [Qs 2c 9s]
+chryspa k.: bets $0.08
+Lehrte dein: folds 
+Uncalled bet ($0.08) returned to chryspa k.
+chryspa k. collected $0.14 from pot
+chryspa k.: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Qs 2c 9s]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: Master8366 folded before Flop (didn't bet)
+Seat 3: gizmondouk (button) folded before Flop (didn't bet)
+Seat 4: 10202614 (small blind) folded before Flop
+Seat 5: chryspa k. (big blind) collected ($0.14)
+Seat 6: Lehrte dein folded on the Flop
+Seat 7: zabulicaionu folded before Flop (didn't bet)
+Seat 8: Vanga333 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182115761052:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 13:01:34 ET
+Table 'Josefa' 9-max Seat #4 is the button
+Seat 1: ollikahn23 ($2.74 in chips) 
+Seat 2: Master8366 ($1.77 in chips) 
+Seat 3: gizmondouk ($2.91 in chips) 
+Seat 4: 10202614 ($2.13 in chips) 
+Seat 5: chryspa k. ($2.07 in chips) 
+Seat 6: Lehrte dein ($1.39 in chips) 
+Seat 7: zabulicaionu ($2 in chips) 
+Seat 8: Vanga333 ($2.09 in chips) 
+chryspa k.: posts small blind $0.01
+Lehrte dein: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8c Tc]
+zabulicaionu: folds 
+Vanga333: folds 
+ollikahn23: folds 
+Master8366: folds 
+gizmondouk: folds 
+10202614: raises $0.03 to $0.05
+chryspa k.: folds 
+Lehrte dein: calls $0.03
+*** FLOP *** [7d 2h Qh]
+Lehrte dein: checks 
+10202614: bets $0.06
+Lehrte dein: folds 
+Uncalled bet ($0.06) returned to 10202614
+10202614 collected $0.11 from pot
+10202614: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [7d 2h Qh]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: Master8366 folded before Flop (didn't bet)
+Seat 3: gizmondouk folded before Flop (didn't bet)
+Seat 4: 10202614 (button) collected ($0.11)
+Seat 5: chryspa k. (small blind) folded before Flop
+Seat 6: Lehrte dein (big blind) folded on the Flop
+Seat 7: zabulicaionu folded before Flop (didn't bet)
+Seat 8: Vanga333 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182115786652:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 13:02:05 ET
+Table 'Josefa' 9-max Seat #5 is the button
+Seat 1: ollikahn23 ($2.74 in chips) 
+Seat 2: Master8366 ($1.77 in chips) 
+Seat 3: gizmondouk ($2.91 in chips) 
+Seat 4: 10202614 ($2.19 in chips) 
+Seat 5: chryspa k. ($2.06 in chips) 
+Seat 6: Lehrte dein ($1.34 in chips) 
+Seat 7: zabulicaionu ($2 in chips) 
+Seat 8: Vanga333 ($2.09 in chips) 
+Lehrte dein: posts small blind $0.01
+zabulicaionu: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3d 3c]
+Vanga333: folds 
+ollikahn23: raises $0.04 to $0.06
+Master8366: folds 
+gizmondouk: folds 
+10202614: folds 
+chryspa k.: folds 
+Lehrte dein: calls $0.05
+zabulicaionu: calls $0.04
+*** FLOP *** [Ah 8s Ad]
+Lehrte dein: checks 
+zabulicaionu: checks 
+ollikahn23: bets $0.08
+Lehrte dein: folds 
+zabulicaionu: folds 
+Uncalled bet ($0.08) returned to ollikahn23
+ollikahn23 collected $0.17 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [Ah 8s Ad]
+Seat 1: ollikahn23 collected ($0.17)
+Seat 2: Master8366 folded before Flop (didn't bet)
+Seat 3: gizmondouk folded before Flop (didn't bet)
+Seat 4: 10202614 folded before Flop (didn't bet)
+Seat 5: chryspa k. (button) folded before Flop (didn't bet)
+Seat 6: Lehrte dein (small blind) folded on the Flop
+Seat 7: zabulicaionu (big blind) folded on the Flop
+Seat 8: Vanga333 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182115817374:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 13:02:41 ET
+Table 'Josefa' 9-max Seat #6 is the button
+Seat 1: ollikahn23 ($2.85 in chips) 
+Seat 2: Master8366 ($1.77 in chips) 
+Seat 3: gizmondouk ($2.91 in chips) 
+Seat 4: 10202614 ($2.19 in chips) 
+Seat 5: chryspa k. ($2.06 in chips) 
+Seat 6: Lehrte dein ($1.28 in chips) 
+Seat 7: zabulicaionu ($2 in chips) 
+Seat 8: Vanga333 ($2.09 in chips) 
+zabulicaionu: posts small blind $0.01
+Vanga333: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Td 9d]
+ollikahn23: folds 
+Master8366: folds 
+gizmondouk: folds 
+10202614: folds 
+chryspa k.: raises $0.03 to $0.05
+Lehrte dein: folds 
+zabulicaionu: folds 
+Vanga333: raises $0.11 to $0.16
+chryspa k.: folds 
+Uncalled bet ($0.11) returned to Vanga333
+Vanga333 collected $0.11 from pot
+Vanga333: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: Master8366 folded before Flop (didn't bet)
+Seat 3: gizmondouk folded before Flop (didn't bet)
+Seat 4: 10202614 folded before Flop (didn't bet)
+Seat 5: chryspa k. folded before Flop
+Seat 6: Lehrte dein (button) folded before Flop (didn't bet)
+Seat 7: zabulicaionu (small blind) folded before Flop
+Seat 8: Vanga333 (big blind) collected ($0.11)
+
+
+

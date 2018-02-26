@@ -1,0 +1,43 @@
+"""
+PokerStars Hand #105024000105: Tournament #797469411, $3.19+$0.31 USD Hold'em No Limit - Level I (10/20) - 2013/10/04 19:53:27 CET [2013/10/04 13:53:27 ET]
+Table '797469411 15' 9-max Seat #1 is the button
+Seat 1: flettl2 (1500 in chips)
+Seat 2: santy312 (3000 in chips)
+Seat 3: flavio766 (3000 in chips)
+Seat 4: strongi82 (3000 in chips)
+Seat 5: W2lkm2n (3000 in chips)
+Seat 6: MISTRPerfect (3000 in chips)
+Seat 7: blak_douglas (3000 in chips)
+Seat 8: sinus91 (1500 in chips)
+Seat 9: STBIJUJA (1500 in chips)
+santy312: posts small blind 10
+flavio766: posts big blind 20
+*** HOLE CARDS ***
+Dealt to W2lkm2n [Ac Jh]
+strongi82: folds
+W2lkm2n: raises 40 to 60
+MISTRPerfect: calls 60
+blak_douglas: folds
+sinus91: folds
+STBIJUJA: folds
+flettl2: folds
+santy312: folds
+flavio766: folds
+*** FLOP *** [2s 6d 6h]
+W2lkm2n: bets 80
+MISTRPerfect: folds
+Uncalled bet (80) returned to W2lkm2n
+W2lkm2n collected 150 from pot
+W2lkm2n: doesn't show hand
+*** SUMMARY ***
+Total pot 150 | Rake 0
+Board [2s 6d 6h]
+Seat 1: flettl2 (button) folded before Flop (didn't bet)
+Seat 2: santy312 (small blind) folded before Flop
+Seat 3: flavio766 (big blind) folded before Flop
+Seat 4: strongi82 folded before Flop (didn't bet)
+Seat 5: W2lkm2n collected (150)
+Seat 6: MISTRPerfect folded on the Flop
+Seat 7: blak_douglas folded before Flop (didn't bet)
+Seat 8: sinus91 folded before Flop (didn't bet)
+Seat 9: STBIJUJA folded before Flop (didn't bet)"""

@@ -1,0 +1,3732 @@
+﻿PokerStars Hand #182149019106: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/02/07 6:09:18 ET
+Table '2211497365 2' 9-max Seat #1 is the button
+Seat 1: TerehinPerm (1500 in chips) 
+Seat 2: 918171 (1500 in chips) 
+Seat 3: peitharxia (1500 in chips) 
+Seat 5: Jonnyjohn556 (1500 in chips) 
+Seat 6: danipah (1500 in chips) 
+Seat 7: DNadai (1500 in chips) 
+Seat 8: ollikahn23 (1500 in chips) 
+Seat 9: Donkey1996 (1500 in chips) 
+TerehinPerm: posts the ante 3
+918171: posts the ante 3
+peitharxia: posts the ante 3
+Jonnyjohn556: posts the ante 3
+danipah: posts the ante 3
+DNadai: posts the ante 3
+ollikahn23: posts the ante 3
+Donkey1996: posts the ante 3
+918171: posts small blind 10
+peitharxia: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Th 5d]
+Jonnyjohn556: folds 
+danipah: raises 40 to 60
+DNadai: raises 120 to 180
+ollikahn23: folds 
+Donkey1996: folds 
+TerehinPerm: folds 
+918171: folds 
+peitharxia: folds 
+danipah: folds 
+Uncalled bet (120) returned to DNadai
+DNadai collected 174 from pot
+*** SUMMARY ***
+Total pot 174 | Rake 0 
+Seat 1: TerehinPerm (button) folded before Flop (didn't bet)
+Seat 2: 918171 (small blind) folded before Flop
+Seat 3: peitharxia (big blind) folded before Flop
+Seat 5: Jonnyjohn556 folded before Flop (didn't bet)
+Seat 6: danipah folded before Flop
+Seat 7: DNadai collected (174)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: Donkey1996 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182149031376: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/02/07 6:09:47 ET
+Table '2211497365 2' 9-max Seat #2 is the button
+Seat 1: TerehinPerm (1497 in chips) 
+Seat 2: 918171 (1487 in chips) 
+Seat 3: peitharxia (1477 in chips) 
+Seat 5: Jonnyjohn556 (1497 in chips) 
+Seat 6: danipah (1437 in chips) 
+Seat 7: DNadai (1611 in chips) 
+Seat 8: ollikahn23 (1497 in chips) 
+Seat 9: Donkey1996 (1497 in chips) 
+TerehinPerm: posts the ante 3
+918171: posts the ante 3
+peitharxia: posts the ante 3
+Jonnyjohn556: posts the ante 3
+danipah: posts the ante 3
+DNadai: posts the ante 3
+ollikahn23: posts the ante 3
+Donkey1996: posts the ante 3
+peitharxia: posts small blind 10
+Jonnyjohn556: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qs 4c]
+danipah: folds 
+DNadai: folds 
+ollikahn23: folds 
+Donkey1996: folds 
+TerehinPerm: folds 
+918171: calls 20
+peitharxia: calls 10
+Jonnyjohn556: checks 
+*** FLOP *** [9d Js 5c]
+peitharxia: bets 46
+Jonnyjohn556: folds 
+918171: calls 46
+*** TURN *** [9d Js 5c] [7d]
+peitharxia: bets 96
+918171: calls 96
+*** RIVER *** [9d Js 5c 7d] [Ac]
+peitharxia: bets 150
+918171: folds 
+Uncalled bet (150) returned to peitharxia
+peitharxia collected 368 from pot
+peitharxia: doesn't show hand 
+*** SUMMARY ***
+Total pot 368 | Rake 0 
+Board [9d Js 5c 7d Ac]
+Seat 1: TerehinPerm folded before Flop (didn't bet)
+Seat 2: 918171 (button) folded on the River
+Seat 3: peitharxia (small blind) collected (368)
+Seat 5: Jonnyjohn556 (big blind) folded on the Flop
+Seat 6: danipah folded before Flop (didn't bet)
+Seat 7: DNadai folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: Donkey1996 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182149049628: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/02/07 6:10:30 ET
+Table '2211497365 2' 9-max Seat #3 is the button
+Seat 1: TerehinPerm (1494 in chips) 
+Seat 2: 918171 (1322 in chips) 
+Seat 3: peitharxia (1680 in chips) 
+Seat 5: Jonnyjohn556 (1474 in chips) 
+Seat 6: danipah (1434 in chips) 
+Seat 7: DNadai (1608 in chips) 
+Seat 8: ollikahn23 (1494 in chips) 
+Seat 9: Donkey1996 (1494 in chips) 
+TerehinPerm: posts the ante 3
+918171: posts the ante 3
+peitharxia: posts the ante 3
+Jonnyjohn556: posts the ante 3
+danipah: posts the ante 3
+DNadai: posts the ante 3
+ollikahn23: posts the ante 3
+Donkey1996: posts the ante 3
+Jonnyjohn556: posts small blind 10
+danipah: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9s 4c]
+DNadai: folds 
+ollikahn23: folds 
+Donkey1996: folds 
+TerehinPerm: folds 
+918171: folds 
+peitharxia: folds 
+Jonnyjohn556: calls 10
+danipah: checks 
+*** FLOP *** [9h 6s Qh]
+Jonnyjohn556: checks 
+danipah: checks 
+*** TURN *** [9h 6s Qh] [6c]
+Jonnyjohn556: bets 32
+danipah: folds 
+Uncalled bet (32) returned to Jonnyjohn556
+Jonnyjohn556 collected 64 from pot
+*** SUMMARY ***
+Total pot 64 | Rake 0 
+Board [9h 6s Qh 6c]
+Seat 1: TerehinPerm folded before Flop (didn't bet)
+Seat 2: 918171 folded before Flop (didn't bet)
+Seat 3: peitharxia (button) folded before Flop (didn't bet)
+Seat 5: Jonnyjohn556 (small blind) collected (64)
+Seat 6: danipah (big blind) folded on the Turn
+Seat 7: DNadai folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: Donkey1996 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182149072279: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/02/07 6:11:23 ET
+Table '2211497365 2' 9-max Seat #5 is the button
+Seat 1: TerehinPerm (1491 in chips) 
+Seat 2: 918171 (1319 in chips) 
+Seat 3: peitharxia (1677 in chips) 
+Seat 4: Randy's S**t (1500 in chips) 
+Seat 5: Jonnyjohn556 (1515 in chips) 
+Seat 6: danipah (1411 in chips) 
+Seat 8: ollikahn23 (1491 in chips) 
+Seat 9: Donkey1996 (1491 in chips) 
+TerehinPerm: posts the ante 3
+918171: posts the ante 3
+peitharxia: posts the ante 3
+Randy's S**t: posts the ante 3
+Jonnyjohn556: posts the ante 3
+danipah: posts the ante 3
+ollikahn23: posts the ante 3
+Donkey1996: posts the ante 3
+danipah: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3c Ah]
+Donkey1996: folds 
+TerehinPerm: folds 
+918171: folds 
+peitharxia: raises 40 to 60
+Randy's S**t: folds 
+Jonnyjohn556: folds 
+danipah: folds 
+ollikahn23: folds 
+Uncalled bet (40) returned to peitharxia
+ollikahn23 is sitting out
+peitharxia collected 74 from pot
+peitharxia: doesn't show hand 
+*** SUMMARY ***
+Total pot 74 | Rake 0 
+Seat 1: TerehinPerm folded before Flop (didn't bet)
+Seat 2: 918171 folded before Flop (didn't bet)
+Seat 3: peitharxia collected (74)
+Seat 4: Randy's S**t folded before Flop (didn't bet)
+Seat 5: Jonnyjohn556 (button) folded before Flop (didn't bet)
+Seat 6: danipah (small blind) folded before Flop
+Seat 8: ollikahn23 (big blind) folded before Flop
+Seat 9: Donkey1996 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182149079648: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/02/07 6:11:40 ET
+Table '2211497365 2' 9-max Seat #6 is the button
+Seat 1: TerehinPerm (1488 in chips) 
+Seat 2: 918171 (1316 in chips) 
+Seat 3: peitharxia (1728 in chips) 
+Seat 4: Randy's S**t (1497 in chips) 
+Seat 5: Jonnyjohn556 (1512 in chips) 
+Seat 6: danipah (1398 in chips) 
+Seat 8: ollikahn23 (1468 in chips) is sitting out
+TerehinPerm: posts the ante 3
+918171: posts the ante 3
+peitharxia: posts the ante 3
+Randy's S**t: posts the ante 3
+Jonnyjohn556: posts the ante 3
+danipah: posts the ante 3
+ollikahn23: posts the ante 3
+ollikahn23: posts small blind 10
+TerehinPerm: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5d 7c]
+918171: folds 
+peitharxia: folds 
+Randy's S**t: folds 
+Jonnyjohn556: folds 
+danipah: raises 20 to 40
+ollikahn23: folds 
+TerehinPerm: raises 80 to 120
+danipah: calls 80
+*** FLOP *** [Td 2c 6s]
+TerehinPerm: bets 136
+danipah: folds 
+Uncalled bet (136) returned to TerehinPerm
+TerehinPerm collected 271 from pot
+TerehinPerm: doesn't show hand 
+*** SUMMARY ***
+Total pot 271 | Rake 0 
+Board [Td 2c 6s]
+Seat 1: TerehinPerm (big blind) collected (271)
+Seat 2: 918171 folded before Flop (didn't bet)
+Seat 3: peitharxia folded before Flop (didn't bet)
+Seat 4: Randy's S**t folded before Flop (didn't bet)
+Seat 5: Jonnyjohn556 folded before Flop (didn't bet)
+Seat 6: danipah (button) folded on the Flop
+Seat 8: ollikahn23 (small blind) folded before Flop
+
+
+
+PokerStars Hand #182149101487: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/02/07 6:12:32 ET
+Table '2211497365 2' 9-max Seat #8 is the button
+Seat 1: TerehinPerm (1636 in chips) 
+Seat 2: 918171 (1313 in chips) 
+Seat 3: peitharxia (1725 in chips) 
+Seat 4: Randy's S**t (1494 in chips) 
+Seat 5: Jonnyjohn556 (1509 in chips) 
+Seat 6: danipah (1275 in chips) 
+Seat 7: Aigil (1494 in chips) 
+Seat 8: ollikahn23 (1455 in chips) is sitting out
+TerehinPerm: posts the ante 3
+918171: posts the ante 3
+peitharxia: posts the ante 3
+Randy's S**t: posts the ante 3
+Jonnyjohn556: posts the ante 3
+danipah: posts the ante 3
+Aigil: posts the ante 3
+ollikahn23: posts the ante 3
+TerehinPerm: posts small blind 10
+918171: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qc 4c]
+peitharxia: folds 
+Randy's S**t: folds 
+Jonnyjohn556: folds 
+danipah: raises 40 to 60
+Aigil: folds 
+ollikahn23: folds 
+TerehinPerm: folds 
+918171: folds 
+Uncalled bet (40) returned to danipah
+danipah collected 74 from pot
+*** SUMMARY ***
+Total pot 74 | Rake 0 
+Seat 1: TerehinPerm (small blind) folded before Flop
+Seat 2: 918171 (big blind) folded before Flop
+Seat 3: peitharxia folded before Flop (didn't bet)
+Seat 4: Randy's S**t folded before Flop (didn't bet)
+Seat 5: Jonnyjohn556 folded before Flop (didn't bet)
+Seat 6: danipah collected (74)
+Seat 7: Aigil folded before Flop (didn't bet)
+Seat 8: ollikahn23 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182149110937: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/02/07 6:12:54 ET
+Table '2211497365 2' 9-max Seat #1 is the button
+Seat 1: TerehinPerm (1623 in chips) 
+Seat 2: 918171 (1290 in chips) 
+Seat 3: peitharxia (1722 in chips) 
+Seat 4: Randy's S**t (1491 in chips) 
+Seat 5: Jonnyjohn556 (1506 in chips) 
+Seat 6: danipah (1326 in chips) 
+Seat 7: Aigil (1491 in chips) 
+Seat 8: ollikahn23 (1452 in chips) is sitting out
+TerehinPerm: posts the ante 3
+918171: posts the ante 3
+peitharxia: posts the ante 3
+Randy's S**t: posts the ante 3
+Jonnyjohn556: posts the ante 3
+danipah: posts the ante 3
+Aigil: posts the ante 3
+ollikahn23: posts the ante 3
+918171: posts small blind 10
+peitharxia: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8h 3d]
+Randy's S**t: folds 
+Jonnyjohn556: folds 
+danipah: raises 22 to 42
+Aigil: folds 
+ollikahn23: folds 
+TerehinPerm: folds 
+918171: calls 32
+peitharxia: folds 
+*** FLOP *** [6h 5d 8d]
+918171: checks 
+danipah: checks 
+*** TURN *** [6h 5d 8d] [2h]
+918171: checks 
+danipah: checks 
+*** RIVER *** [6h 5d 8d 2h] [Jc]
+918171: bets 40
+danipah: calls 40
+*** SHOW DOWN ***
+918171: shows [Ks Qc] (high card King)
+danipah: shows [As Th] (high card Ace)
+danipah collected 208 from pot
+*** SUMMARY ***
+Total pot 208 | Rake 0 
+Board [6h 5d 8d 2h Jc]
+Seat 1: TerehinPerm (button) folded before Flop (didn't bet)
+Seat 2: 918171 (small blind) showed [Ks Qc] and lost with high card King
+Seat 3: peitharxia (big blind) folded before Flop
+Seat 4: Randy's S**t folded before Flop (didn't bet)
+Seat 5: Jonnyjohn556 folded before Flop (didn't bet)
+Seat 6: danipah showed [As Th] and won (208) with high card Ace
+Seat 7: Aigil folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182149138087: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/02/07 6:13:57 ET
+Table '2211497365 2' 9-max Seat #2 is the button
+Seat 1: TerehinPerm (1620 in chips) 
+Seat 2: 918171 (1205 in chips) 
+Seat 3: peitharxia (1699 in chips) 
+Seat 4: Randy's S**t (1488 in chips) 
+Seat 5: Jonnyjohn556 (1503 in chips) 
+Seat 6: danipah (1449 in chips) 
+Seat 7: Aigil (1488 in chips) 
+Seat 8: ollikahn23 (1449 in chips) is sitting out
+TerehinPerm: posts the ante 3
+918171: posts the ante 3
+peitharxia: posts the ante 3
+Randy's S**t: posts the ante 3
+Jonnyjohn556: posts the ante 3
+danipah: posts the ante 3
+Aigil: posts the ante 3
+ollikahn23: posts the ante 3
+peitharxia: posts small blind 10
+Randy's S**t: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kd Qc]
+Jonnyjohn556: folds 
+danipah: folds 
+Aigil: folds 
+ollikahn23: folds 
+TerehinPerm: folds 
+918171: calls 20
+peitharxia: calls 10
+Randy's S**t: checks 
+*** FLOP *** [Qh Js Tc]
+peitharxia: checks 
+Randy's S**t: checks 
+918171: checks 
+*** TURN *** [Qh Js Tc] [9s]
+peitharxia: checks 
+Randy's S**t: checks 
+918171: checks 
+*** RIVER *** [Qh Js Tc 9s] [Th]
+peitharxia: bets 34
+Randy's S**t: folds 
+918171: raises 126 to 160
+peitharxia: calls 126
+*** SHOW DOWN ***
+918171: shows [Ks 5s] (a straight, Nine to King)
+peitharxia: shows [8c Kc] (a straight, Nine to King)
+peitharxia collected 202 from pot
+918171 collected 202 from pot
+*** SUMMARY ***
+Total pot 404 | Rake 0 
+Board [Qh Js Tc 9s Th]
+Seat 1: TerehinPerm folded before Flop (didn't bet)
+Seat 2: 918171 (button) showed [Ks 5s] and won (202) with a straight, Nine to King
+Seat 3: peitharxia (small blind) showed [8c Kc] and won (202) with a straight, Nine to King
+Seat 4: Randy's S**t (big blind) folded on the River
+Seat 5: Jonnyjohn556 folded before Flop (didn't bet)
+Seat 6: danipah folded before Flop (didn't bet)
+Seat 7: Aigil folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182149170120: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/02/07 6:15:11 ET
+Table '2211497365 2' 9-max Seat #3 is the button
+Seat 1: TerehinPerm (1617 in chips) 
+Seat 2: 918171 (1224 in chips) 
+Seat 3: peitharxia (1718 in chips) 
+Seat 4: Randy's S**t (1465 in chips) 
+Seat 5: Jonnyjohn556 (1500 in chips) 
+Seat 6: danipah (1446 in chips) 
+Seat 7: Aigil (1485 in chips) 
+Seat 8: ollikahn23 (1446 in chips) is sitting out
+TerehinPerm: posts the ante 3
+918171: posts the ante 3
+peitharxia: posts the ante 3
+Randy's S**t: posts the ante 3
+Jonnyjohn556: posts the ante 3
+danipah: posts the ante 3
+Aigil: posts the ante 3
+ollikahn23: posts the ante 3
+Randy's S**t: posts small blind 10
+Jonnyjohn556: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ad 8s]
+danipah: folds 
+Aigil: folds 
+ollikahn23: folds 
+TerehinPerm: folds 
+918171: folds 
+peitharxia: folds 
+Randy's S**t: folds 
+Uncalled bet (10) returned to Jonnyjohn556
+Jonnyjohn556 collected 44 from pot
+*** SUMMARY ***
+Total pot 44 | Rake 0 
+Seat 1: TerehinPerm folded before Flop (didn't bet)
+Seat 2: 918171 folded before Flop (didn't bet)
+Seat 3: peitharxia (button) folded before Flop (didn't bet)
+Seat 4: Randy's S**t (small blind) folded before Flop
+Seat 5: Jonnyjohn556 (big blind) collected (44)
+Seat 6: danipah folded before Flop (didn't bet)
+Seat 7: Aigil folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182149178703: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/02/07 6:15:31 ET
+Table '2211497365 2' 9-max Seat #4 is the button
+Seat 1: TerehinPerm (1614 in chips) 
+Seat 2: 918171 (1221 in chips) 
+Seat 3: peitharxia (1715 in chips) 
+Seat 4: Randy's S**t (1452 in chips) 
+Seat 5: Jonnyjohn556 (1531 in chips) 
+Seat 7: Aigil (1482 in chips) 
+Seat 8: ollikahn23 (1443 in chips) is sitting out
+Seat 9: jamesg777 (1500 in chips) 
+TerehinPerm: posts the ante 3
+918171: posts the ante 3
+peitharxia: posts the ante 3
+Randy's S**t: posts the ante 3
+Jonnyjohn556: posts the ante 3
+Aigil: posts the ante 3
+ollikahn23: posts the ante 3
+jamesg777: posts the ante 3
+Jonnyjohn556: posts small blind 10
+Aigil: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2h 5c]
+ollikahn23: folds 
+jamesg777: folds 
+TerehinPerm: folds 
+918171: calls 20
+peitharxia: folds 
+Randy's S**t: folds 
+Jonnyjohn556: calls 10
+Aigil: checks 
+*** FLOP *** [Jh 8h 2c]
+Jonnyjohn556: checks 
+Aigil: bets 31
+918171: calls 31
+Jonnyjohn556: folds 
+*** TURN *** [Jh 8h 2c] [Kd]
+Aigil: checks 
+918171: checks 
+*** RIVER *** [Jh 8h 2c Kd] [6s]
+Aigil: checks 
+918171: checks 
+*** SHOW DOWN ***
+Aigil: shows [Js Qs] (a pair of Jacks)
+918171: mucks hand 
+Aigil collected 146 from pot
+*** SUMMARY ***
+Total pot 146 | Rake 0 
+Board [Jh 8h 2c Kd 6s]
+Seat 1: TerehinPerm folded before Flop (didn't bet)
+Seat 2: 918171 mucked [Th Ad]
+Seat 3: peitharxia folded before Flop (didn't bet)
+Seat 4: Randy's S**t (button) folded before Flop (didn't bet)
+Seat 5: Jonnyjohn556 (small blind) folded on the Flop
+Seat 7: Aigil (big blind) showed [Js Qs] and won (146) with a pair of Jacks
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: jamesg777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182149209373: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/02/07 6:16:42 ET
+Table '2211497365 2' 9-max Seat #5 is the button
+Seat 1: TerehinPerm (1611 in chips) 
+Seat 2: 918171 (1167 in chips) 
+Seat 3: peitharxia (1712 in chips) 
+Seat 4: Randy's S**t (1449 in chips) 
+Seat 5: Jonnyjohn556 (1508 in chips) 
+Seat 7: Aigil (1574 in chips) 
+Seat 8: ollikahn23 (1440 in chips) is sitting out
+Seat 9: jamesg777 (1497 in chips) 
+TerehinPerm: posts the ante 3
+918171: posts the ante 3
+peitharxia: posts the ante 3
+Randy's S**t: posts the ante 3
+Jonnyjohn556: posts the ante 3
+Aigil: posts the ante 3
+ollikahn23: posts the ante 3
+jamesg777: posts the ante 3
+Aigil: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9h Th]
+jamesg777: folds 
+TerehinPerm: raises 30 to 50
+918171: folds 
+peitharxia: folds 
+Randy's S**t: folds 
+Jonnyjohn556: folds 
+Aigil: calls 40
+ollikahn23: folds 
+*** FLOP *** [Ah Qd 3h]
+Aigil: checks 
+TerehinPerm: checks 
+*** TURN *** [Ah Qd 3h] [2c]
+Aigil: checks 
+TerehinPerm: checks 
+*** RIVER *** [Ah Qd 3h 2c] [Ad]
+Aigil: checks 
+TerehinPerm: checks 
+*** SHOW DOWN ***
+Aigil: shows [6s 6c] (two pair, Aces and Sixes)
+TerehinPerm: shows [Qs Kc] (two pair, Aces and Queens)
+TerehinPerm collected 144 from pot
+*** SUMMARY ***
+Total pot 144 | Rake 0 
+Board [Ah Qd 3h 2c Ad]
+Seat 1: TerehinPerm showed [Qs Kc] and won (144) with two pair, Aces and Queens
+Seat 2: 918171 folded before Flop (didn't bet)
+Seat 3: peitharxia folded before Flop (didn't bet)
+Seat 4: Randy's S**t folded before Flop (didn't bet)
+Seat 5: Jonnyjohn556 (button) folded before Flop (didn't bet)
+Seat 7: Aigil (small blind) showed [6s 6c] and lost with two pair, Aces and Sixes
+Seat 8: ollikahn23 (big blind) folded before Flop
+Seat 9: jamesg777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182149229960: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/02/07 6:17:29 ET
+Table '2211497365 2' 9-max Seat #7 is the button
+Seat 1: TerehinPerm (1702 in chips) 
+Seat 2: 918171 (1164 in chips) 
+Seat 3: peitharxia (1709 in chips) 
+Seat 4: Randy's S**t (1446 in chips) 
+Seat 5: Jonnyjohn556 (1505 in chips) 
+Seat 7: Aigil (1521 in chips) 
+Seat 8: ollikahn23 (1417 in chips) is sitting out
+Seat 9: jamesg777 (1494 in chips) 
+TerehinPerm: posts the ante 3
+918171: posts the ante 3
+peitharxia: posts the ante 3
+Randy's S**t: posts the ante 3
+Jonnyjohn556: posts the ante 3
+Aigil: posts the ante 3
+ollikahn23: posts the ante 3
+jamesg777: posts the ante 3
+ollikahn23: posts small blind 10
+jamesg777: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6d 8s]
+TerehinPerm: folds 
+918171: folds 
+peitharxia: raises 30 to 50
+Randy's S**t: folds 
+Jonnyjohn556: folds 
+Aigil: calls 50
+ollikahn23: folds 
+jamesg777: folds 
+*** FLOP *** [9s Jd 4h]
+peitharxia: bets 63
+Aigil: folds 
+Uncalled bet (63) returned to peitharxia
+peitharxia collected 154 from pot
+peitharxia: doesn't show hand 
+*** SUMMARY ***
+Total pot 154 | Rake 0 
+Board [9s Jd 4h]
+Seat 1: TerehinPerm folded before Flop (didn't bet)
+Seat 2: 918171 folded before Flop (didn't bet)
+Seat 3: peitharxia collected (154)
+Seat 4: Randy's S**t folded before Flop (didn't bet)
+Seat 5: Jonnyjohn556 folded before Flop (didn't bet)
+Seat 7: Aigil (button) folded on the Flop
+Seat 8: ollikahn23 (small blind) folded before Flop
+Seat 9: jamesg777 (big blind) folded before Flop
+
+
+
+PokerStars Hand #182149247591: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/02/07 6:18:09 ET
+Table '2211497365 2' 9-max Seat #8 is the button
+Seat 1: TerehinPerm (1699 in chips) 
+Seat 2: 918171 (1161 in chips) 
+Seat 3: peitharxia (1810 in chips) 
+Seat 4: Randy's S**t (1443 in chips) 
+Seat 5: Jonnyjohn556 (1502 in chips) 
+Seat 7: Aigil (1468 in chips) 
+Seat 8: ollikahn23 (1404 in chips) is sitting out
+Seat 9: jamesg777 (1471 in chips) 
+TerehinPerm: posts the ante 3
+918171: posts the ante 3
+peitharxia: posts the ante 3
+Randy's S**t: posts the ante 3
+Jonnyjohn556: posts the ante 3
+Aigil: posts the ante 3
+ollikahn23: posts the ante 3
+jamesg777: posts the ante 3
+jamesg777: posts small blind 10
+TerehinPerm: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jd 5s]
+918171: calls 20
+peitharxia: folds 
+Randy's S**t: folds 
+Jonnyjohn556: folds 
+Aigil: raises 60 to 80
+ollikahn23: folds 
+jamesg777: folds 
+TerehinPerm: folds 
+918171: calls 60
+*** FLOP *** [8h 8s Jc]
+918171: bets 200
+Aigil: folds 
+Uncalled bet (200) returned to 918171
+918171 collected 214 from pot
+918171: doesn't show hand 
+*** SUMMARY ***
+Total pot 214 | Rake 0 
+Board [8h 8s Jc]
+Seat 1: TerehinPerm (big blind) folded before Flop
+Seat 2: 918171 collected (214)
+Seat 3: peitharxia folded before Flop (didn't bet)
+Seat 4: Randy's S**t folded before Flop (didn't bet)
+Seat 5: Jonnyjohn556 folded before Flop (didn't bet)
+Seat 7: Aigil folded on the Flop
+Seat 8: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 9: jamesg777 (small blind) folded before Flop
+
+
+
+PokerStars Hand #182149273451: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/02/07 6:19:08 ET
+Table '2211497365 2' 9-max Seat #9 is the button
+Seat 1: TerehinPerm (1676 in chips) 
+Seat 2: 918171 (1292 in chips) 
+Seat 3: peitharxia (1807 in chips) 
+Seat 4: Randy's S**t (1440 in chips) 
+Seat 5: Jonnyjohn556 (1499 in chips) 
+Seat 7: Aigil (1385 in chips) 
+Seat 8: ollikahn23 (1401 in chips) is sitting out
+Seat 9: jamesg777 (1458 in chips) 
+TerehinPerm: posts the ante 3
+918171: posts the ante 3
+peitharxia: posts the ante 3
+Randy's S**t: posts the ante 3
+Jonnyjohn556: posts the ante 3
+Aigil: posts the ante 3
+ollikahn23: posts the ante 3
+jamesg777: posts the ante 3
+TerehinPerm: posts small blind 10
+918171: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2s Th]
+peitharxia: raises 40 to 60
+Randy's S**t: folds 
+Jonnyjohn556: folds 
+Aigil: folds 
+ollikahn23: folds 
+jamesg777: folds 
+TerehinPerm: folds 
+918171: calls 40
+*** FLOP *** [9c Kh Ah]
+918171: checks 
+peitharxia: bets 84
+918171: calls 84
+*** TURN *** [9c Kh Ah] [Qc]
+ollikahn23 has returned
+918171: bets 240
+peitharxia: calls 240
+*** RIVER *** [9c Kh Ah Qc] [As]
+918171: bets 100
+peitharxia: calls 100
+*** SHOW DOWN ***
+918171: shows [Jc Kd] (two pair, Aces and Kings)
+peitharxia: shows [Kc Ac] (a full house, Aces full of Kings)
+peitharxia collected 1002 from pot
+*** SUMMARY ***
+Total pot 1002 | Rake 0 
+Board [9c Kh Ah Qc As]
+Seat 1: TerehinPerm (small blind) folded before Flop
+Seat 2: 918171 (big blind) showed [Jc Kd] and lost with two pair, Aces and Kings
+Seat 3: peitharxia showed [Kc Ac] and won (1002) with a full house, Aces full of Kings
+Seat 4: Randy's S**t folded before Flop (didn't bet)
+Seat 5: Jonnyjohn556 folded before Flop (didn't bet)
+Seat 7: Aigil folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: jamesg777 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182149310446: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/02/07 6:20:31 ET
+Table '2211497365 2' 9-max Seat #1 is the button
+Seat 1: TerehinPerm (1663 in chips) 
+Seat 2: 918171 (805 in chips) 
+Seat 4: Randy's S**t (1437 in chips) 
+Seat 5: Jonnyjohn556 (1496 in chips) 
+Seat 6: Andrloxa 86 (1500 in chips) 
+Seat 7: Aigil (1382 in chips) 
+Seat 8: ollikahn23 (1398 in chips) 
+Seat 9: jamesg777 (1455 in chips) 
+TerehinPerm: posts the ante 3
+918171: posts the ante 3
+Randy's S**t: posts the ante 3
+Jonnyjohn556: posts the ante 3
+Andrloxa 86: posts the ante 3
+Aigil: posts the ante 3
+ollikahn23: posts the ante 3
+jamesg777: posts the ante 3
+918171: posts small blind 10
+Randy's S**t: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jc 5s]
+Jonnyjohn556: calls 20
+Andrloxa 86: folds 
+Aigil: calls 20
+ollikahn23: folds 
+jamesg777: folds 
+TerehinPerm: raises 80 to 100
+918171: folds 
+Randy's S**t: folds 
+Jonnyjohn556: folds 
+Aigil: calls 80
+*** FLOP *** [Js 7h 4s]
+Aigil: checks 
+TerehinPerm: checks 
+*** TURN *** [Js 7h 4s] [Qc]
+Aigil: checks 
+TerehinPerm: bets 137
+Aigil: calls 137
+*** RIVER *** [Js 7h 4s Qc] [6c]
+Aigil: checks 
+TerehinPerm: checks 
+*** SHOW DOWN ***
+Aigil: shows [Ts Qs] (a pair of Queens)
+TerehinPerm: shows [Qh Ah] (a pair of Queens - Ace kicker)
+TerehinPerm collected 548 from pot
+*** SUMMARY ***
+Total pot 548 | Rake 0 
+Board [Js 7h 4s Qc 6c]
+Seat 1: TerehinPerm (button) showed [Qh Ah] and won (548) with a pair of Queens
+Seat 2: 918171 (small blind) folded before Flop
+Seat 4: Randy's S**t (big blind) folded before Flop
+Seat 5: Jonnyjohn556 folded before Flop
+Seat 6: Andrloxa 86 folded before Flop (didn't bet)
+Seat 7: Aigil showed [Ts Qs] and lost with a pair of Queens
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: jamesg777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182149346603: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/02/07 6:21:53 ET
+Table '2211497365 2' 9-max Seat #2 is the button
+Seat 1: TerehinPerm (1971 in chips) 
+Seat 2: 918171 (792 in chips) 
+Seat 4: Randy's S**t (1414 in chips) 
+Seat 5: Jonnyjohn556 (1473 in chips) 
+Seat 6: Andrloxa 86 (1497 in chips) 
+Seat 7: Aigil (1142 in chips) 
+Seat 8: ollikahn23 (1395 in chips) 
+Seat 9: jamesg777 (1452 in chips) 
+TerehinPerm: posts the ante 3
+918171: posts the ante 3
+Randy's S**t: posts the ante 3
+Jonnyjohn556: posts the ante 3
+Andrloxa 86: posts the ante 3
+Aigil: posts the ante 3
+ollikahn23: posts the ante 3
+jamesg777: posts the ante 3
+Randy's S**t: posts small blind 10
+Jonnyjohn556: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5s 6c]
+Andrloxa 86: folds 
+Aigil: folds 
+ollikahn23: folds 
+jamesg777: folds 
+TerehinPerm: folds 
+918171: folds 
+Randy's S**t: calls 10
+Jonnyjohn556: checks 
+*** FLOP *** [Tc 4s Jd]
+Randy's S**t: checks 
+Jonnyjohn556: bets 32
+Randy's S**t: folds 
+Uncalled bet (32) returned to Jonnyjohn556
+Jonnyjohn556 collected 64 from pot
+*** SUMMARY ***
+Total pot 64 | Rake 0 
+Board [Tc 4s Jd]
+Seat 1: TerehinPerm folded before Flop (didn't bet)
+Seat 2: 918171 (button) folded before Flop (didn't bet)
+Seat 4: Randy's S**t (small blind) folded on the Flop
+Seat 5: Jonnyjohn556 (big blind) collected (64)
+Seat 6: Andrloxa 86 folded before Flop (didn't bet)
+Seat 7: Aigil folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: jamesg777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182149367170: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/02/07 6:22:40 ET
+Table '2211497365 2' 9-max Seat #4 is the button
+Seat 1: TerehinPerm (1968 in chips) 
+Seat 2: 918171 (789 in chips) 
+Seat 4: Randy's S**t (1391 in chips) 
+Seat 5: Jonnyjohn556 (1514 in chips) 
+Seat 6: Andrloxa 86 (1494 in chips) 
+Seat 7: Aigil (1139 in chips) 
+Seat 8: ollikahn23 (1392 in chips) 
+Seat 9: jamesg777 (1449 in chips) 
+TerehinPerm: posts the ante 3
+918171: posts the ante 3
+Randy's S**t: posts the ante 3
+Jonnyjohn556: posts the ante 3
+Andrloxa 86: posts the ante 3
+Aigil: posts the ante 3
+ollikahn23: posts the ante 3
+jamesg777: posts the ante 3
+Jonnyjohn556: posts small blind 10
+Andrloxa 86: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6h Td]
+Aigil: folds 
+ollikahn23: folds 
+jamesg777: folds 
+TerehinPerm: folds 
+918171: folds 
+Randy's S**t: folds 
+Jonnyjohn556: calls 10
+Andrloxa 86: checks 
+*** FLOP *** [Kd Jh 6d]
+Jonnyjohn556: checks 
+Andrloxa 86: checks 
+*** TURN *** [Kd Jh 6d] [4s]
+Jonnyjohn556: bets 32
+Andrloxa 86: folds 
+Uncalled bet (32) returned to Jonnyjohn556
+Jonnyjohn556 collected 64 from pot
+*** SUMMARY ***
+Total pot 64 | Rake 0 
+Board [Kd Jh 6d 4s]
+Seat 1: TerehinPerm folded before Flop (didn't bet)
+Seat 2: 918171 folded before Flop (didn't bet)
+Seat 4: Randy's S**t (button) folded before Flop (didn't bet)
+Seat 5: Jonnyjohn556 (small blind) collected (64)
+Seat 6: Andrloxa 86 (big blind) folded on the Turn
+Seat 7: Aigil folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: jamesg777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182149387164: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/02/07 6:23:25 ET
+Table '2211497365 2' 9-max Seat #5 is the button
+Seat 1: TerehinPerm (1965 in chips) 
+Seat 2: 918171 (786 in chips) 
+Seat 4: Randy's S**t (1388 in chips) 
+Seat 5: Jonnyjohn556 (1555 in chips) 
+Seat 6: Andrloxa 86 (1471 in chips) 
+Seat 7: Aigil (1136 in chips) 
+Seat 8: ollikahn23 (1389 in chips) 
+Seat 9: jamesg777 (1446 in chips) 
+TerehinPerm: posts the ante 3
+918171: posts the ante 3
+Randy's S**t: posts the ante 3
+Jonnyjohn556: posts the ante 3
+Andrloxa 86: posts the ante 3
+Aigil: posts the ante 3
+ollikahn23: posts the ante 3
+jamesg777: posts the ante 3
+Andrloxa 86: posts small blind 10
+Aigil: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5s 7s]
+ollikahn23: folds 
+jamesg777: raises 20 to 40
+TerehinPerm: calls 40
+918171: calls 40
+Randy's S**t: folds 
+Jonnyjohn556: folds 
+Andrloxa 86: folds 
+ollikahn23 is sitting out
+Aigil: calls 20
+*** FLOP *** [6h 6c 3d]
+Aigil: checks 
+jamesg777: bets 64
+TerehinPerm: folds 
+918171: folds 
+Aigil: folds 
+Uncalled bet (64) returned to jamesg777
+jamesg777 collected 194 from pot
+jamesg777: doesn't show hand 
+*** SUMMARY ***
+Total pot 194 | Rake 0 
+Board [6h 6c 3d]
+Seat 1: TerehinPerm folded on the Flop
+Seat 2: 918171 folded on the Flop
+Seat 4: Randy's S**t folded before Flop (didn't bet)
+Seat 5: Jonnyjohn556 (button) folded before Flop (didn't bet)
+Seat 6: Andrloxa 86 (small blind) folded before Flop
+Seat 7: Aigil (big blind) folded on the Flop
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: jamesg777 collected (194)
+
+
+
+PokerStars Hand #182149405167: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/02/07 6:24:05 ET
+Table '2211497365 2' 9-max Seat #6 is the button
+Seat 1: TerehinPerm (1922 in chips) 
+Seat 2: 918171 (743 in chips) 
+Seat 4: Randy's S**t (1385 in chips) 
+Seat 5: Jonnyjohn556 (1552 in chips) 
+Seat 6: Andrloxa 86 (1458 in chips) 
+Seat 7: Aigil (1093 in chips) 
+Seat 8: ollikahn23 (1386 in chips) is sitting out
+Seat 9: jamesg777 (1597 in chips) 
+TerehinPerm: posts the ante 3
+918171: posts the ante 3
+Randy's S**t: posts the ante 3
+Jonnyjohn556: posts the ante 3
+Andrloxa 86: posts the ante 3
+Aigil: posts the ante 3
+ollikahn23: posts the ante 3
+jamesg777: posts the ante 3
+Aigil: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8s 4s]
+jamesg777: folds 
+TerehinPerm: folds 
+918171: calls 20
+Randy's S**t: folds 
+Jonnyjohn556: folds 
+Andrloxa 86: folds 
+Aigil: calls 10
+ollikahn23: folds 
+*** FLOP *** [4d Jc Kc]
+Aigil: checks 
+918171: checks 
+*** TURN *** [4d Jc Kc] [5s]
+Aigil: checks 
+918171: checks 
+*** RIVER *** [4d Jc Kc 5s] [Kd]
+Aigil: checks 
+918171: bets 100
+Aigil: folds 
+Uncalled bet (100) returned to 918171
+918171 collected 84 from pot
+918171: doesn't show hand 
+*** SUMMARY ***
+Total pot 84 | Rake 0 
+Board [4d Jc Kc 5s Kd]
+Seat 1: TerehinPerm folded before Flop (didn't bet)
+Seat 2: 918171 collected (84)
+Seat 4: Randy's S**t folded before Flop (didn't bet)
+Seat 5: Jonnyjohn556 folded before Flop (didn't bet)
+Seat 6: Andrloxa 86 (button) folded before Flop (didn't bet)
+Seat 7: Aigil (small blind) folded on the River
+Seat 8: ollikahn23 (big blind) folded before Flop
+Seat 9: jamesg777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182149427789: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/02/07 6:24:56 ET
+Table '2211497365 2' 9-max Seat #7 is the button
+Seat 1: TerehinPerm (1919 in chips) 
+Seat 2: 918171 (804 in chips) 
+Seat 4: Randy's S**t (1382 in chips) 
+Seat 5: Jonnyjohn556 (1549 in chips) 
+Seat 6: Andrloxa 86 (1455 in chips) 
+Seat 7: Aigil (1070 in chips) 
+Seat 8: ollikahn23 (1363 in chips) is sitting out
+Seat 9: jamesg777 (1594 in chips) 
+TerehinPerm: posts the ante 4
+918171: posts the ante 4
+Randy's S**t: posts the ante 4
+Jonnyjohn556: posts the ante 4
+Andrloxa 86: posts the ante 4
+Aigil: posts the ante 4
+ollikahn23: posts the ante 4
+jamesg777: posts the ante 4
+ollikahn23: posts small blind 15
+jamesg777: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jc 4s]
+TerehinPerm: folds 
+918171: folds 
+Randy's S**t: folds 
+Jonnyjohn556: raises 45 to 75
+Andrloxa 86: folds 
+Aigil: folds 
+ollikahn23: folds 
+jamesg777: folds 
+Uncalled bet (45) returned to Jonnyjohn556
+Jonnyjohn556 collected 107 from pot
+*** SUMMARY ***
+Total pot 107 | Rake 0 
+Seat 1: TerehinPerm folded before Flop (didn't bet)
+Seat 2: 918171 folded before Flop (didn't bet)
+Seat 4: Randy's S**t folded before Flop (didn't bet)
+Seat 5: Jonnyjohn556 collected (107)
+Seat 6: Andrloxa 86 folded before Flop (didn't bet)
+Seat 7: Aigil (button) folded before Flop (didn't bet)
+Seat 8: ollikahn23 (small blind) folded before Flop
+Seat 9: jamesg777 (big blind) folded before Flop
+
+
+
+PokerStars Hand #182149441342: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/02/07 6:25:26 ET
+Table '2211497365 2' 9-max Seat #8 is the button
+Seat 1: TerehinPerm (1915 in chips) 
+Seat 2: 918171 (800 in chips) 
+Seat 4: Randy's S**t (1378 in chips) 
+Seat 5: Jonnyjohn556 (1622 in chips) 
+Seat 6: Andrloxa 86 (1451 in chips) 
+Seat 7: Aigil (1066 in chips) 
+Seat 8: ollikahn23 (1344 in chips) is sitting out
+Seat 9: jamesg777 (1560 in chips) 
+TerehinPerm: posts the ante 4
+918171: posts the ante 4
+Randy's S**t: posts the ante 4
+Jonnyjohn556: posts the ante 4
+Andrloxa 86: posts the ante 4
+Aigil: posts the ante 4
+ollikahn23: posts the ante 4
+jamesg777: posts the ante 4
+jamesg777: posts small blind 15
+TerehinPerm: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jc Js]
+918171: calls 30
+Randy's S**t: folds 
+Jonnyjohn556: folds 
+Andrloxa 86: folds 
+Aigil: calls 30
+ollikahn23: folds 
+jamesg777: calls 15
+TerehinPerm: raises 120 to 150
+918171: calls 120
+Aigil: calls 120
+jamesg777: folds 
+*** FLOP *** [5c 7d 3s]
+TerehinPerm: bets 356
+918171: raises 290 to 646 and is all-in
+Aigil: raises 266 to 912 and is all-in
+TerehinPerm: calls 556
+*** TURN *** [5c 7d 3s] [Kh]
+*** RIVER *** [5c 7d 3s Kh] [2s]
+*** SHOW DOWN ***
+TerehinPerm: shows [Ad Ac] (a pair of Aces)
+Aigil: shows [3c 3h] (three of a kind, Threes)
+Aigil collected 532 from side pot
+918171: shows [Jd Th] (high card King)
+Aigil collected 2450 from main pot
+918171 finished the tournament
+*** SUMMARY ***
+Total pot 2982 Main pot 2450. Side pot 532. | Rake 0 
+Board [5c 7d 3s Kh 2s]
+Seat 1: TerehinPerm (big blind) showed [Ad Ac] and lost with a pair of Aces
+Seat 2: 918171 showed [Jd Th] and lost with high card King
+Seat 4: Randy's S**t folded before Flop (didn't bet)
+Seat 5: Jonnyjohn556 folded before Flop (didn't bet)
+Seat 6: Andrloxa 86 folded before Flop (didn't bet)
+Seat 7: Aigil showed [3c 3h] and won (2982) with three of a kind, Threes
+Seat 8: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 9: jamesg777 (small blind) folded before Flop
+
+
+
+PokerStars Hand #182149467832: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/02/07 6:26:25 ET
+Table '2211497365 2' 9-max Seat #9 is the button
+Seat 1: TerehinPerm (849 in chips) 
+Seat 4: Randy's S**t (1374 in chips) 
+Seat 5: Jonnyjohn556 (1618 in chips) 
+Seat 6: Andrloxa 86 (1447 in chips) 
+Seat 7: Aigil (2982 in chips) 
+Seat 8: ollikahn23 (1340 in chips) is sitting out
+Seat 9: jamesg777 (1526 in chips) 
+TerehinPerm: posts the ante 4
+Randy's S**t: posts the ante 4
+Jonnyjohn556: posts the ante 4
+Andrloxa 86: posts the ante 4
+Aigil: posts the ante 4
+ollikahn23: posts the ante 4
+jamesg777: posts the ante 4
+TerehinPerm: posts small blind 15
+Randy's S**t: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qs 9d]
+Jonnyjohn556: folds 
+Andrloxa 86: folds 
+Aigil: folds 
+ollikahn23: folds 
+jamesg777: raises 30 to 60
+TerehinPerm: folds 
+ollikahn23 has returned
+Randy's S**t: folds 
+Uncalled bet (30) returned to jamesg777
+jamesg777 collected 103 from pot
+jamesg777: doesn't show hand 
+*** SUMMARY ***
+Total pot 103 | Rake 0 
+Seat 1: TerehinPerm (small blind) folded before Flop
+Seat 4: Randy's S**t (big blind) folded before Flop
+Seat 5: Jonnyjohn556 folded before Flop (didn't bet)
+Seat 6: Andrloxa 86 folded before Flop (didn't bet)
+Seat 7: Aigil folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: jamesg777 (button) collected (103)
+
+
+
+PokerStars Hand #182149479012: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/02/07 6:26:50 ET
+Table '2211497365 2' 9-max Seat #1 is the button
+Seat 1: TerehinPerm (830 in chips) 
+Seat 2: kaloti4a (827 in chips) out of hand (moved from another table into small blind)
+Seat 3: ANTOMC72 (1500 in chips) out of hand (moved from another table into small blind)
+Seat 4: Randy's S**t (1340 in chips) 
+Seat 5: Jonnyjohn556 (1614 in chips) 
+Seat 6: Andrloxa 86 (1443 in chips) 
+Seat 7: Aigil (2978 in chips) 
+Seat 8: ollikahn23 (1336 in chips) 
+Seat 9: jamesg777 (1595 in chips) 
+TerehinPerm: posts the ante 4
+Randy's S**t: posts the ante 4
+Jonnyjohn556: posts the ante 4
+Andrloxa 86: posts the ante 4
+Aigil: posts the ante 4
+ollikahn23: posts the ante 4
+jamesg777: posts the ante 4
+Randy's S**t: posts small blind 15
+Jonnyjohn556: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7d 5c]
+Andrloxa 86: folds 
+Aigil: folds 
+ollikahn23: folds 
+jamesg777: folds 
+TerehinPerm: raises 60 to 90
+Randy's S**t: folds 
+Jonnyjohn556: folds 
+Uncalled bet (60) returned to TerehinPerm
+TerehinPerm collected 103 from pot
+TerehinPerm: doesn't show hand 
+*** SUMMARY ***
+Total pot 103 | Rake 0 
+Seat 1: TerehinPerm (button) collected (103)
+Seat 4: Randy's S**t (small blind) folded before Flop
+Seat 5: Jonnyjohn556 (big blind) folded before Flop
+Seat 6: Andrloxa 86 folded before Flop (didn't bet)
+Seat 7: Aigil folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: jamesg777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182149491681: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/02/07 6:27:19 ET
+Table '2211497365 2' 9-max Seat #4 is the button
+Seat 1: TerehinPerm (899 in chips) 
+Seat 2: kaloti4a (827 in chips) 
+Seat 3: ANTOMC72 (1500 in chips) 
+Seat 4: Randy's S**t (1321 in chips) 
+Seat 5: Jonnyjohn556 (1580 in chips) 
+Seat 6: Andrloxa 86 (1439 in chips) 
+Seat 7: Aigil (2974 in chips) 
+Seat 8: ollikahn23 (1332 in chips) 
+Seat 9: jamesg777 (1591 in chips) 
+TerehinPerm: posts the ante 4
+kaloti4a: posts the ante 4
+ANTOMC72: posts the ante 4
+Randy's S**t: posts the ante 4
+Jonnyjohn556: posts the ante 4
+Andrloxa 86: posts the ante 4
+Aigil: posts the ante 4
+ollikahn23: posts the ante 4
+jamesg777: posts the ante 4
+Jonnyjohn556: posts small blind 15
+Andrloxa 86: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5d As]
+Aigil: folds 
+ollikahn23: folds 
+jamesg777: folds 
+TerehinPerm: raises 45 to 75
+kaloti4a: folds 
+ANTOMC72: folds 
+Randy's S**t: folds 
+Jonnyjohn556: folds 
+Andrloxa 86: folds 
+Uncalled bet (45) returned to TerehinPerm
+TerehinPerm collected 111 from pot
+TerehinPerm: doesn't show hand 
+*** SUMMARY ***
+Total pot 111 | Rake 0 
+Seat 1: TerehinPerm collected (111)
+Seat 2: kaloti4a folded before Flop (didn't bet)
+Seat 3: ANTOMC72 folded before Flop (didn't bet)
+Seat 4: Randy's S**t (button) folded before Flop (didn't bet)
+Seat 5: Jonnyjohn556 (small blind) folded before Flop
+Seat 6: Andrloxa 86 (big blind) folded before Flop
+Seat 7: Aigil folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: jamesg777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182149502296: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/02/07 6:27:42 ET
+Table '2211497365 2' 9-max Seat #5 is the button
+Seat 1: TerehinPerm (976 in chips) 
+Seat 2: kaloti4a (823 in chips) 
+Seat 3: ANTOMC72 (1496 in chips) 
+Seat 4: Randy's S**t (1317 in chips) 
+Seat 5: Jonnyjohn556 (1561 in chips) 
+Seat 6: Andrloxa 86 (1405 in chips) 
+Seat 7: Aigil (2970 in chips) 
+Seat 8: ollikahn23 (1328 in chips) 
+Seat 9: jamesg777 (1587 in chips) 
+TerehinPerm: posts the ante 4
+kaloti4a: posts the ante 4
+ANTOMC72: posts the ante 4
+Randy's S**t: posts the ante 4
+Jonnyjohn556: posts the ante 4
+Andrloxa 86: posts the ante 4
+Aigil: posts the ante 4
+ollikahn23: posts the ante 4
+jamesg777: posts the ante 4
+Andrloxa 86: posts small blind 15
+Aigil: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5c 6s]
+ollikahn23: folds 
+jamesg777: folds 
+TerehinPerm: folds 
+kaloti4a: folds 
+ANTOMC72: folds 
+Randy's S**t: raises 60 to 90
+Jonnyjohn556: folds 
+Andrloxa 86: folds 
+Aigil: folds 
+Uncalled bet (60) returned to Randy's S**t
+Randy's S**t collected 111 from pot
+Randy's S**t: doesn't show hand 
+*** SUMMARY ***
+Total pot 111 | Rake 0 
+Seat 1: TerehinPerm folded before Flop (didn't bet)
+Seat 2: kaloti4a folded before Flop (didn't bet)
+Seat 3: ANTOMC72 folded before Flop (didn't bet)
+Seat 4: Randy's S**t collected (111)
+Seat 5: Jonnyjohn556 (button) folded before Flop (didn't bet)
+Seat 6: Andrloxa 86 (small blind) folded before Flop
+Seat 7: Aigil (big blind) folded before Flop
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: jamesg777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182149522129: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/02/07 6:28:27 ET
+Table '2211497365 2' 9-max Seat #6 is the button
+Seat 2: kaloti4a (819 in chips) 
+Seat 3: ANTOMC72 (1492 in chips) 
+Seat 4: Randy's S**t (1394 in chips) 
+Seat 5: Jonnyjohn556 (1557 in chips) 
+Seat 6: Andrloxa 86 (1386 in chips) 
+Seat 7: Aigil (2936 in chips) 
+Seat 8: ollikahn23 (1324 in chips) 
+Seat 9: jamesg777 (1583 in chips) 
+kaloti4a: posts the ante 4
+ANTOMC72: posts the ante 4
+Randy's S**t: posts the ante 4
+Jonnyjohn556: posts the ante 4
+Andrloxa 86: posts the ante 4
+Aigil: posts the ante 4
+ollikahn23: posts the ante 4
+jamesg777: posts the ante 4
+Aigil: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3h 3c]
+jamesg777: folds 
+kaloti4a: folds 
+ANTOMC72: folds 
+Randy's S**t: folds 
+Jonnyjohn556: folds 
+Andrloxa 86: raises 45 to 75
+Aigil: calls 60
+ollikahn23: calls 45
+*** FLOP *** [8s 4d 7s]
+Aigil: checks 
+ollikahn23: checks 
+Andrloxa 86: checks 
+*** TURN *** [8s 4d 7s] [As]
+Aigil: bets 120
+ollikahn23: folds 
+Andrloxa 86: folds 
+Uncalled bet (120) returned to Aigil
+Aigil collected 257 from pot
+Aigil: doesn't show hand 
+*** SUMMARY ***
+Total pot 257 | Rake 0 
+Board [8s 4d 7s As]
+Seat 2: kaloti4a folded before Flop (didn't bet)
+Seat 3: ANTOMC72 folded before Flop (didn't bet)
+Seat 4: Randy's S**t folded before Flop (didn't bet)
+Seat 5: Jonnyjohn556 folded before Flop (didn't bet)
+Seat 6: Andrloxa 86 (button) folded on the Turn
+Seat 7: Aigil (small blind) collected (257)
+Seat 8: ollikahn23 (big blind) folded on the Turn
+Seat 9: jamesg777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182149545087: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/02/07 6:29:17 ET
+Table '2211497365 2' 9-max Seat #7 is the button
+Seat 2: kaloti4a (815 in chips) 
+Seat 3: ANTOMC72 (1488 in chips) 
+Seat 4: Randy's S**t (1390 in chips) 
+Seat 5: Jonnyjohn556 (1553 in chips) 
+Seat 6: Andrloxa 86 (1307 in chips) 
+Seat 7: Aigil (3114 in chips) 
+Seat 8: ollikahn23 (1245 in chips) 
+Seat 9: jamesg777 (1579 in chips) 
+kaloti4a: posts the ante 4
+ANTOMC72: posts the ante 4
+Randy's S**t: posts the ante 4
+Jonnyjohn556: posts the ante 4
+Andrloxa 86: posts the ante 4
+Aigil: posts the ante 4
+ollikahn23: posts the ante 4
+jamesg777: posts the ante 4
+ollikahn23: posts small blind 15
+jamesg777: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [As 7h]
+kaloti4a: folds 
+ANTOMC72 has timed out
+ANTOMC72: folds 
+ANTOMC72 is sitting out
+Randy's S**t: folds 
+Jonnyjohn556: folds 
+Andrloxa 86: folds 
+Aigil: folds 
+ollikahn23: raises 90 to 120
+jamesg777: folds 
+Uncalled bet (90) returned to ollikahn23
+ollikahn23 collected 92 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 92 | Rake 0 
+Seat 2: kaloti4a folded before Flop (didn't bet)
+Seat 3: ANTOMC72 folded before Flop (didn't bet)
+Seat 4: Randy's S**t folded before Flop (didn't bet)
+Seat 5: Jonnyjohn556 folded before Flop (didn't bet)
+Seat 6: Andrloxa 86 folded before Flop (didn't bet)
+Seat 7: Aigil (button) folded before Flop (didn't bet)
+Seat 8: ollikahn23 (small blind) collected (92)
+Seat 9: jamesg777 (big blind) folded before Flop
+
+
+
+PokerStars Hand #182149569108: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/02/07 6:30:11 ET
+Table '2211497365 2' 9-max Seat #8 is the button
+Seat 2: kaloti4a (811 in chips) 
+Seat 3: ANTOMC72 (1484 in chips) is sitting out
+Seat 4: Randy's S**t (1386 in chips) 
+Seat 5: Jonnyjohn556 (1549 in chips) 
+Seat 6: Andrloxa 86 (1303 in chips) 
+Seat 7: Aigil (3110 in chips) 
+Seat 8: ollikahn23 (1303 in chips) 
+Seat 9: jamesg777 (1545 in chips) 
+kaloti4a: posts the ante 4
+ANTOMC72: posts the ante 4
+Randy's S**t: posts the ante 4
+Jonnyjohn556: posts the ante 4
+Andrloxa 86: posts the ante 4
+Aigil: posts the ante 4
+ollikahn23: posts the ante 4
+jamesg777: posts the ante 4
+jamesg777: posts small blind 15
+kaloti4a: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qs 6h]
+ANTOMC72: folds 
+Randy's S**t: folds 
+ANTOMC72 has returned
+Jonnyjohn556: folds 
+Andrloxa 86: folds 
+Aigil: folds 
+ollikahn23: raises 30 to 60
+jamesg777: folds 
+kaloti4a: folds 
+Uncalled bet (30) returned to ollikahn23
+ollikahn23 collected 107 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 107 | Rake 0 
+Seat 2: kaloti4a (big blind) folded before Flop
+Seat 3: ANTOMC72 folded before Flop (didn't bet)
+Seat 4: Randy's S**t folded before Flop (didn't bet)
+Seat 5: Jonnyjohn556 folded before Flop (didn't bet)
+Seat 6: Andrloxa 86 folded before Flop (didn't bet)
+Seat 7: Aigil folded before Flop (didn't bet)
+Seat 8: ollikahn23 (button) collected (107)
+Seat 9: jamesg777 (small blind) folded before Flop
+
+
+
+PokerStars Hand #182149586219: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/02/07 6:30:49 ET
+Table '2211497365 2' 9-max Seat #9 is the button
+Seat 2: kaloti4a (777 in chips) 
+Seat 3: ANTOMC72 (1480 in chips) 
+Seat 4: Randy's S**t (1382 in chips) 
+Seat 5: Jonnyjohn556 (1545 in chips) 
+Seat 6: Andrloxa 86 (1299 in chips) 
+Seat 7: Aigil (3106 in chips) 
+Seat 8: ollikahn23 (1376 in chips) 
+Seat 9: jamesg777 (1526 in chips) 
+kaloti4a: posts the ante 4
+ANTOMC72: posts the ante 4
+Randy's S**t: posts the ante 4
+Jonnyjohn556: posts the ante 4
+Andrloxa 86: posts the ante 4
+Aigil: posts the ante 4
+ollikahn23: posts the ante 4
+jamesg777: posts the ante 4
+kaloti4a: posts small blind 15
+ANTOMC72: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4d 9h]
+Randy's S**t: folds 
+Jonnyjohn556: folds 
+Andrloxa 86: folds 
+Aigil: folds 
+ollikahn23: folds 
+jamesg777: raises 30 to 60
+kaloti4a: calls 45
+ANTOMC72: folds 
+*** FLOP *** [Ah 3d 9s]
+kaloti4a: checks 
+jamesg777: bets 60
+kaloti4a: calls 60
+*** TURN *** [Ah 3d 9s] [3c]
+kaloti4a: checks 
+jamesg777: checks 
+*** RIVER *** [Ah 3d 9s 3c] [6s]
+kaloti4a: checks 
+jamesg777: bets 225
+kaloti4a: folds 
+Uncalled bet (225) returned to jamesg777
+jamesg777 collected 302 from pot
+jamesg777: doesn't show hand 
+*** SUMMARY ***
+Total pot 302 | Rake 0 
+Board [Ah 3d 9s 3c 6s]
+Seat 2: kaloti4a (small blind) folded on the River
+Seat 3: ANTOMC72 (big blind) folded before Flop
+Seat 4: Randy's S**t folded before Flop (didn't bet)
+Seat 5: Jonnyjohn556 folded before Flop (didn't bet)
+Seat 6: Andrloxa 86 folded before Flop (didn't bet)
+Seat 7: Aigil folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: jamesg777 (button) collected (302)
+
+
+
+PokerStars Hand #182149610525: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/02/07 6:31:43 ET
+Table '2211497365 2' 9-max Seat #2 is the button
+Seat 1: Skkoorr16 (1500 in chips) 
+Seat 2: kaloti4a (653 in chips) 
+Seat 3: ANTOMC72 (1446 in chips) 
+Seat 4: Randy's S**t (1378 in chips) 
+Seat 5: Jonnyjohn556 (1541 in chips) 
+Seat 6: Andrloxa 86 (1295 in chips) 
+Seat 7: Aigil (3102 in chips) 
+Seat 8: ollikahn23 (1372 in chips) 
+Seat 9: jamesg777 (1704 in chips) 
+Skkoorr16: posts the ante 4
+kaloti4a: posts the ante 4
+ANTOMC72: posts the ante 4
+Randy's S**t: posts the ante 4
+Jonnyjohn556: posts the ante 4
+Andrloxa 86: posts the ante 4
+Aigil: posts the ante 4
+ollikahn23: posts the ante 4
+jamesg777: posts the ante 4
+ANTOMC72: posts small blind 15
+Randy's S**t: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kc 2d]
+Jonnyjohn556: folds 
+Andrloxa 86: folds 
+Aigil: raises 54 to 84
+ollikahn23: folds 
+jamesg777: folds 
+Skkoorr16: folds 
+kaloti4a: folds 
+ANTOMC72: folds 
+Randy's S**t: folds 
+Uncalled bet (54) returned to Aigil
+Aigil collected 111 from pot
+*** SUMMARY ***
+Total pot 111 | Rake 0 
+Seat 1: Skkoorr16 folded before Flop (didn't bet)
+Seat 2: kaloti4a (button) folded before Flop (didn't bet)
+Seat 3: ANTOMC72 (small blind) folded before Flop
+Seat 4: Randy's S**t (big blind) folded before Flop
+Seat 5: Jonnyjohn556 folded before Flop (didn't bet)
+Seat 6: Andrloxa 86 folded before Flop (didn't bet)
+Seat 7: Aigil collected (111)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: jamesg777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182149631865: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/02/07 6:32:30 ET
+Table '2211497365 2' 9-max Seat #3 is the button
+Seat 1: Skkoorr16 (1496 in chips) 
+Seat 2: kaloti4a (649 in chips) 
+Seat 3: ANTOMC72 (1427 in chips) 
+Seat 4: Randy's S**t (1344 in chips) 
+Seat 5: Jonnyjohn556 (1537 in chips) 
+Seat 6: Andrloxa 86 (1291 in chips) 
+Seat 8: ollikahn23 (1368 in chips) 
+Seat 9: jamesg777 (1700 in chips) 
+Skkoorr16: posts the ante 4
+kaloti4a: posts the ante 4
+ANTOMC72: posts the ante 4
+Randy's S**t: posts the ante 4
+Jonnyjohn556: posts the ante 4
+Andrloxa 86: posts the ante 4
+ollikahn23: posts the ante 4
+jamesg777: posts the ante 4
+Randy's S**t: posts small blind 15
+Jonnyjohn556: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7c 5h]
+Andrloxa 86: folds 
+ollikahn23: folds 
+jamesg777: folds 
+Skkoorr16: raises 32 to 62
+kaloti4a: folds 
+ANTOMC72: folds 
+Randy's S**t: calls 47
+Jonnyjohn556: calls 32
+*** FLOP *** [8d 5d Qc]
+Randy's S**t: checks 
+Jonnyjohn556: checks 
+Skkoorr16 has timed out
+Skkoorr16: checks 
+*** TURN *** [8d 5d Qc] [Kc]
+Randy's S**t: checks 
+Jonnyjohn556: checks 
+Skkoorr16: bets 150
+Randy's S**t: calls 150
+Jonnyjohn556: calls 150
+*** RIVER *** [8d 5d Qc Kc] [Js]
+Randy's S**t: bets 330
+Jonnyjohn556: folds 
+Skkoorr16: calls 330
+*** SHOW DOWN ***
+Randy's S**t: shows [Ks Kd] (three of a kind, Kings)
+Skkoorr16: mucks hand 
+Randy's S**t collected 1328 from pot
+*** SUMMARY ***
+Total pot 1328 | Rake 0 
+Board [8d 5d Qc Kc Js]
+Seat 1: Skkoorr16 mucked [Qh 8h]
+Seat 2: kaloti4a folded before Flop (didn't bet)
+Seat 3: ANTOMC72 (button) folded before Flop (didn't bet)
+Seat 4: Randy's S**t (small blind) showed [Ks Kd] and won (1328) with three of a kind, Kings
+Seat 5: Jonnyjohn556 (big blind) folded on the River
+Seat 6: Andrloxa 86 folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: jamesg777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182149682222: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/02/07 6:34:23 ET
+Table '2211497365 2' 9-max Seat #4 is the button
+Seat 1: Skkoorr16 (950 in chips) 
+Seat 2: kaloti4a (645 in chips) 
+Seat 3: ANTOMC72 (1423 in chips) 
+Seat 4: Randy's S**t (2126 in chips) 
+Seat 5: Jonnyjohn556 (1321 in chips) 
+Seat 6: Andrloxa 86 (1287 in chips) 
+Seat 8: ollikahn23 (1364 in chips) 
+Seat 9: jamesg777 (1696 in chips) 
+Skkoorr16: posts the ante 4
+kaloti4a: posts the ante 4
+ANTOMC72: posts the ante 4
+Randy's S**t: posts the ante 4
+Jonnyjohn556: posts the ante 4
+Andrloxa 86: posts the ante 4
+ollikahn23: posts the ante 4
+jamesg777: posts the ante 4
+Jonnyjohn556: posts small blind 15
+Andrloxa 86: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5s 5h]
+ollikahn23: raises 60 to 90
+jamesg777: folds 
+Skkoorr16: folds 
+kaloti4a: folds 
+ANTOMC72: calls 90
+Randy's S**t: folds 
+Jonnyjohn556: folds 
+Andrloxa 86: folds 
+*** FLOP *** [2d 9c 6s]
+ollikahn23: bets 180
+ANTOMC72: calls 180
+*** TURN *** [2d 9c 6s] [Ks]
+ollikahn23: checks 
+ANTOMC72: checks 
+*** RIVER *** [2d 9c 6s Ks] [Ah]
+ollikahn23: checks 
+ANTOMC72: checks 
+*** SHOW DOWN ***
+ollikahn23: shows [5s 5h] (a pair of Fives)
+ANTOMC72: shows [8h 8s] (a pair of Eights)
+ANTOMC72 collected 617 from pot
+*** SUMMARY ***
+Total pot 617 | Rake 0 
+Board [2d 9c 6s Ks Ah]
+Seat 1: Skkoorr16 folded before Flop (didn't bet)
+Seat 2: kaloti4a folded before Flop (didn't bet)
+Seat 3: ANTOMC72 showed [8h 8s] and won (617) with a pair of Eights
+Seat 4: Randy's S**t (button) folded before Flop (didn't bet)
+Seat 5: Jonnyjohn556 (small blind) folded before Flop
+Seat 6: Andrloxa 86 (big blind) folded before Flop
+Seat 8: ollikahn23 showed [5s 5h] and lost with a pair of Fives
+Seat 9: jamesg777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182149716263: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/02/07 6:35:38 ET
+Table '2211497365 2' 9-max Seat #5 is the button
+Seat 1: Skkoorr16 (946 in chips) 
+Seat 2: kaloti4a (641 in chips) 
+Seat 3: ANTOMC72 (1766 in chips) 
+Seat 4: Randy's S**t (2122 in chips) 
+Seat 5: Jonnyjohn556 (1302 in chips) 
+Seat 6: Andrloxa 86 (1253 in chips) 
+Seat 8: ollikahn23 (1090 in chips) 
+Seat 9: jamesg777 (1692 in chips) 
+Skkoorr16: posts the ante 4
+kaloti4a: posts the ante 4
+ANTOMC72: posts the ante 4
+Randy's S**t: posts the ante 4
+Jonnyjohn556: posts the ante 4
+Andrloxa 86: posts the ante 4
+ollikahn23: posts the ante 4
+jamesg777: posts the ante 4
+Andrloxa 86: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6s 4h]
+jamesg777: raises 30 to 60
+Skkoorr16: folds 
+kaloti4a: folds 
+ANTOMC72: folds 
+Randy's S**t: folds 
+Jonnyjohn556: folds 
+Andrloxa 86: folds 
+ollikahn23: folds 
+Uncalled bet (30) returned to jamesg777
+jamesg777 collected 107 from pot
+jamesg777: doesn't show hand 
+*** SUMMARY ***
+Total pot 107 | Rake 0 
+Seat 1: Skkoorr16 folded before Flop (didn't bet)
+Seat 2: kaloti4a folded before Flop (didn't bet)
+Seat 3: ANTOMC72 folded before Flop (didn't bet)
+Seat 4: Randy's S**t folded before Flop (didn't bet)
+Seat 5: Jonnyjohn556 (button) folded before Flop (didn't bet)
+Seat 6: Andrloxa 86 (small blind) folded before Flop
+Seat 8: ollikahn23 (big blind) folded before Flop
+Seat 9: jamesg777 collected (107)
+
+
+
+PokerStars Hand #182149736393: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/02/07 6:36:23 ET
+Table '2211497365 2' 9-max Seat #6 is the button
+Seat 1: Skkoorr16 (942 in chips) 
+Seat 2: kaloti4a (637 in chips) 
+Seat 3: ANTOMC72 (1762 in chips) 
+Seat 4: Randy's S**t (2118 in chips) 
+Seat 5: Jonnyjohn556 (1298 in chips) 
+Seat 6: Andrloxa 86 (1234 in chips) 
+Seat 8: ollikahn23 (1056 in chips) 
+Seat 9: jamesg777 (1765 in chips) 
+Skkoorr16: posts the ante 4
+kaloti4a: posts the ante 4
+ANTOMC72: posts the ante 4
+Randy's S**t: posts the ante 4
+Jonnyjohn556: posts the ante 4
+Andrloxa 86: posts the ante 4
+ollikahn23: posts the ante 4
+jamesg777: posts the ante 4
+ollikahn23: posts small blind 15
+jamesg777: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qc 3c]
+Skkoorr16: folds 
+kaloti4a: folds 
+ANTOMC72: folds 
+Randy's S**t: folds 
+Jonnyjohn556: folds 
+Andrloxa 86: folds 
+ollikahn23: raises 60 to 90
+jamesg777: calls 60
+*** FLOP *** [4d 5c 2h]
+ollikahn23: bets 150
+jamesg777: folds 
+Uncalled bet (150) returned to ollikahn23
+ollikahn23 collected 212 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 212 | Rake 0 
+Board [4d 5c 2h]
+Seat 1: Skkoorr16 folded before Flop (didn't bet)
+Seat 2: kaloti4a folded before Flop (didn't bet)
+Seat 3: ANTOMC72 folded before Flop (didn't bet)
+Seat 4: Randy's S**t folded before Flop (didn't bet)
+Seat 5: Jonnyjohn556 folded before Flop (didn't bet)
+Seat 6: Andrloxa 86 (button) folded before Flop (didn't bet)
+Seat 8: ollikahn23 (small blind) collected (212)
+Seat 9: jamesg777 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #182149756991: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/02/07 6:37:08 ET
+Table '2211497365 2' 9-max Seat #8 is the button
+Seat 1: Skkoorr16 (938 in chips) 
+Seat 2: kaloti4a (633 in chips) 
+Seat 3: ANTOMC72 (1758 in chips) 
+Seat 4: Randy's S**t (2114 in chips) 
+Seat 5: Jonnyjohn556 (1294 in chips) 
+Seat 6: Andrloxa 86 (1230 in chips) 
+Seat 8: ollikahn23 (1174 in chips) 
+Seat 9: jamesg777 (1671 in chips) 
+Skkoorr16: posts the ante 4
+kaloti4a: posts the ante 4
+ANTOMC72: posts the ante 4
+Randy's S**t: posts the ante 4
+Jonnyjohn556: posts the ante 4
+Andrloxa 86: posts the ante 4
+ollikahn23: posts the ante 4
+jamesg777: posts the ante 4
+jamesg777: posts small blind 15
+Skkoorr16: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qd 8s]
+kaloti4a: calls 30
+ANTOMC72 has timed out
+ANTOMC72: folds 
+ANTOMC72 is sitting out
+Randy's S**t: folds 
+Jonnyjohn556: folds 
+Andrloxa 86: folds 
+ANTOMC72 has returned
+ollikahn23: raises 45 to 75
+jamesg777: folds 
+Skkoorr16: calls 45
+kaloti4a: calls 45
+*** FLOP *** [6h 4c Th]
+Skkoorr16: checks 
+kaloti4a: checks 
+ollikahn23: bets 115
+Skkoorr16: raises 199 to 314
+kaloti4a: folds 
+ollikahn23: folds 
+Uncalled bet (199) returned to Skkoorr16
+Skkoorr16 collected 502 from pot
+Skkoorr16: doesn't show hand 
+*** SUMMARY ***
+Total pot 502 | Rake 0 
+Board [6h 4c Th]
+Seat 1: Skkoorr16 (big blind) collected (502)
+Seat 2: kaloti4a folded on the Flop
+Seat 3: ANTOMC72 folded before Flop (didn't bet)
+Seat 4: Randy's S**t folded before Flop (didn't bet)
+Seat 5: Jonnyjohn556 folded before Flop (didn't bet)
+Seat 6: Andrloxa 86 folded before Flop (didn't bet)
+Seat 8: ollikahn23 (button) folded on the Flop
+Seat 9: jamesg777 (small blind) folded before Flop
+
+
+
+PokerStars Hand #182149790100: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/02/07 6:38:22 ET
+Table '2211497365 2' 9-max Seat #9 is the button
+Seat 1: Skkoorr16 (1246 in chips) 
+Seat 2: kaloti4a (554 in chips) 
+Seat 3: ANTOMC72 (1754 in chips) 
+Seat 4: Randy's S**t (2110 in chips) 
+Seat 5: Jonnyjohn556 (1290 in chips) 
+Seat 6: Andrloxa 86 (1226 in chips) 
+Seat 7: 37183161 (1500 in chips) 
+Seat 8: ollikahn23 (980 in chips) 
+Seat 9: jamesg777 (1652 in chips) 
+Skkoorr16: posts the ante 4
+kaloti4a: posts the ante 4
+ANTOMC72: posts the ante 4
+Randy's S**t: posts the ante 4
+Jonnyjohn556: posts the ante 4
+Andrloxa 86: posts the ante 4
+37183161: posts the ante 4
+ollikahn23: posts the ante 4
+jamesg777: posts the ante 4
+Skkoorr16: posts small blind 15
+kaloti4a: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [As 6d]
+ANTOMC72 has timed out
+ANTOMC72: folds 
+ANTOMC72 is sitting out
+Randy's S**t: folds 
+Jonnyjohn556: calls 30
+Andrloxa 86: folds 
+37183161: folds 
+ANTOMC72 has returned
+ollikahn23: raises 60 to 90
+jamesg777: folds 
+Skkoorr16: calls 75
+kaloti4a: folds 
+Jonnyjohn556: calls 60
+*** FLOP *** [Qd 2d 3h]
+Skkoorr16: checks 
+Jonnyjohn556: checks 
+ollikahn23: bets 150
+Skkoorr16: folds 
+Jonnyjohn556: folds 
+Uncalled bet (150) returned to ollikahn23
+ollikahn23 collected 336 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 336 | Rake 0 
+Board [Qd 2d 3h]
+Seat 1: Skkoorr16 (small blind) folded on the Flop
+Seat 2: kaloti4a (big blind) folded before Flop
+Seat 3: ANTOMC72 folded before Flop (didn't bet)
+Seat 4: Randy's S**t folded before Flop (didn't bet)
+Seat 5: Jonnyjohn556 folded on the Flop
+Seat 6: Andrloxa 86 folded before Flop (didn't bet)
+Seat 7: 37183161 folded before Flop (didn't bet)
+Seat 8: ollikahn23 collected (336)
+Seat 9: jamesg777 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182149824542: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/02/07 6:39:38 ET
+Table '2211497365 2' 9-max Seat #1 is the button
+Seat 1: Skkoorr16 (1152 in chips) 
+Seat 2: kaloti4a (520 in chips) 
+Seat 3: ANTOMC72 (1750 in chips) 
+Seat 4: Randy's S**t (2106 in chips) 
+Seat 5: Jonnyjohn556 (1196 in chips) 
+Seat 6: Andrloxa 86 (1222 in chips) 
+Seat 7: 37183161 (1496 in chips) 
+Seat 8: ollikahn23 (1222 in chips) 
+Seat 9: jamesg777 (1648 in chips) 
+Skkoorr16: posts the ante 6
+kaloti4a: posts the ante 6
+ANTOMC72: posts the ante 6
+Randy's S**t: posts the ante 6
+Jonnyjohn556: posts the ante 6
+Andrloxa 86: posts the ante 6
+37183161: posts the ante 6
+ollikahn23: posts the ante 6
+jamesg777: posts the ante 6
+kaloti4a: posts small blind 25
+ANTOMC72: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5h 3c]
+Randy's S**t: folds 
+Jonnyjohn556: folds 
+Andrloxa 86: folds 
+37183161: folds 
+ollikahn23: folds 
+jamesg777: raises 50 to 100
+Skkoorr16: raises 1046 to 1146 and is all-in
+kaloti4a: calls 489 and is all-in
+ANTOMC72: folds 
+jamesg777: folds 
+Uncalled bet (632) returned to Skkoorr16
+*** FLOP *** [2d 7d 6c]
+*** TURN *** [2d 7d 6c] [6h]
+*** RIVER *** [2d 7d 6c 6h] [Td]
+*** SHOW DOWN ***
+kaloti4a: shows [Ad Qh] (a pair of Sixes)
+Skkoorr16: shows [Ah 2s] (two pair, Sixes and Deuces)
+Skkoorr16 collected 1232 from pot
+kaloti4a finished the tournament
+*** SUMMARY ***
+Total pot 1232 | Rake 0 
+Board [2d 7d 6c 6h Td]
+Seat 1: Skkoorr16 (button) showed [Ah 2s] and won (1232) with two pair, Sixes and Deuces
+Seat 2: kaloti4a (small blind) showed [Ad Qh] and lost with a pair of Sixes
+Seat 3: ANTOMC72 (big blind) folded before Flop
+Seat 4: Randy's S**t folded before Flop (didn't bet)
+Seat 5: Jonnyjohn556 folded before Flop (didn't bet)
+Seat 6: Andrloxa 86 folded before Flop (didn't bet)
+Seat 7: 37183161 folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: jamesg777 folded before Flop
+
+
+
+PokerStars Hand #182149840896: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/02/07 6:40:14 ET
+Table '2211497365 2' 9-max Seat #3 is the button
+Seat 1: Skkoorr16 (1864 in chips) 
+Seat 3: ANTOMC72 (1694 in chips) 
+Seat 4: Randy's S**t (2100 in chips) 
+Seat 5: Jonnyjohn556 (1190 in chips) 
+Seat 6: Andrloxa 86 (1216 in chips) 
+Seat 7: 37183161 (1490 in chips) 
+Seat 8: ollikahn23 (1216 in chips) 
+Seat 9: jamesg777 (1542 in chips) 
+Skkoorr16: posts the ante 6
+ANTOMC72: posts the ante 6
+Randy's S**t: posts the ante 6
+Jonnyjohn556: posts the ante 6
+Andrloxa 86: posts the ante 6
+37183161: posts the ante 6
+ollikahn23: posts the ante 6
+jamesg777: posts the ante 6
+Randy's S**t: posts small blind 25
+Jonnyjohn556: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3c 3d]
+Andrloxa 86: folds 
+37183161: folds 
+ollikahn23: raises 50 to 100
+jamesg777: folds 
+Skkoorr16 has timed out
+Skkoorr16: folds 
+Skkoorr16 is sitting out
+ANTOMC72: folds 
+Randy's S**t: folds 
+Jonnyjohn556: folds 
+Uncalled bet (50) returned to ollikahn23
+ollikahn23 collected 173 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 173 | Rake 0 
+Seat 1: Skkoorr16 folded before Flop (didn't bet)
+Seat 3: ANTOMC72 (button) folded before Flop (didn't bet)
+Seat 4: Randy's S**t (small blind) folded before Flop
+Seat 5: Jonnyjohn556 (big blind) folded before Flop
+Seat 6: Andrloxa 86 folded before Flop (didn't bet)
+Seat 7: 37183161 folded before Flop (didn't bet)
+Seat 8: ollikahn23 collected (173)
+Seat 9: jamesg777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182149878604: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/02/07 6:41:36 ET
+Table '2211497365 2' 9-max Seat #4 is the button
+Seat 1: Skkoorr16 (1858 in chips) is sitting out
+Seat 2: GONWEIN (1500 in chips) 
+Seat 3: ANTOMC72 (1688 in chips) 
+Seat 4: Randy's S**t (2069 in chips) 
+Seat 5: Jonnyjohn556 (1134 in chips) 
+Seat 6: Andrloxa 86 (1210 in chips) 
+Seat 7: 37183161 (1484 in chips) 
+Seat 8: ollikahn23 (1333 in chips) 
+Seat 9: jamesg777 (1536 in chips) 
+Skkoorr16: posts the ante 6
+GONWEIN: posts the ante 6
+ANTOMC72: posts the ante 6
+Randy's S**t: posts the ante 6
+Jonnyjohn556: posts the ante 6
+Andrloxa 86: posts the ante 6
+37183161: posts the ante 6
+ollikahn23: posts the ante 6
+jamesg777: posts the ante 6
+Jonnyjohn556: posts small blind 25
+Andrloxa 86: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qc As]
+37183161: folds 
+ollikahn23: raises 50 to 100
+jamesg777: folds 
+Skkoorr16: folds 
+GONWEIN: folds 
+ANTOMC72: folds 
+Randy's S**t: folds 
+Jonnyjohn556: folds 
+Andrloxa 86: folds 
+Uncalled bet (50) returned to ollikahn23
+ollikahn23 collected 179 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 179 | Rake 0 
+Seat 1: Skkoorr16 folded before Flop (didn't bet)
+Seat 2: GONWEIN folded before Flop (didn't bet)
+Seat 3: ANTOMC72 folded before Flop (didn't bet)
+Seat 4: Randy's S**t (button) folded before Flop (didn't bet)
+Seat 5: Jonnyjohn556 (small blind) folded before Flop
+Seat 6: Andrloxa 86 (big blind) folded before Flop
+Seat 7: 37183161 folded before Flop (didn't bet)
+Seat 8: ollikahn23 collected (179)
+Seat 9: jamesg777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182149905069: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/02/07 6:42:33 ET
+Table '2211497365 2' 9-max Seat #5 is the button
+Seat 1: Skkoorr16 (1852 in chips) is sitting out
+Seat 2: GONWEIN (1494 in chips) 
+Seat 3: ANTOMC72 (1682 in chips) 
+Seat 4: Randy's S**t (2063 in chips) 
+Seat 5: Jonnyjohn556 (1103 in chips) 
+Seat 6: Andrloxa 86 (1154 in chips) 
+Seat 7: 37183161 (1478 in chips) 
+Seat 8: ollikahn23 (1456 in chips) 
+Seat 9: jamesg777 (1530 in chips) 
+Skkoorr16: posts the ante 6
+GONWEIN: posts the ante 6
+ANTOMC72: posts the ante 6
+Randy's S**t: posts the ante 6
+Jonnyjohn556: posts the ante 6
+Andrloxa 86: posts the ante 6
+37183161: posts the ante 6
+ollikahn23: posts the ante 6
+jamesg777: posts the ante 6
+Andrloxa 86: posts small blind 25
+37183161: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6c 2h]
+ollikahn23: folds 
+jamesg777: folds 
+Skkoorr16: folds 
+GONWEIN: folds 
+ANTOMC72: folds 
+Randy's S**t: folds 
+Jonnyjohn556: folds 
+Andrloxa 86: calls 25
+37183161: raises 100 to 150
+Andrloxa 86: folds 
+Uncalled bet (100) returned to 37183161
+37183161 collected 154 from pot
+37183161: doesn't show hand 
+*** SUMMARY ***
+Total pot 154 | Rake 0 
+Seat 1: Skkoorr16 folded before Flop (didn't bet)
+Seat 2: GONWEIN folded before Flop (didn't bet)
+Seat 3: ANTOMC72 folded before Flop (didn't bet)
+Seat 4: Randy's S**t folded before Flop (didn't bet)
+Seat 5: Jonnyjohn556 (button) folded before Flop (didn't bet)
+Seat 6: Andrloxa 86 (small blind) folded before Flop
+Seat 7: 37183161 (big blind) collected (154)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: jamesg777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182149926038: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/02/07 6:43:19 ET
+Table '2211497365 2' 9-max Seat #6 is the button
+Seat 1: Skkoorr16 (1846 in chips) is sitting out
+Seat 2: GONWEIN (1488 in chips) 
+Seat 3: ANTOMC72 (1676 in chips) 
+Seat 4: Randy's S**t (2057 in chips) 
+Seat 5: Jonnyjohn556 (1097 in chips) 
+Seat 6: Andrloxa 86 (1098 in chips) 
+Seat 7: 37183161 (1576 in chips) 
+Seat 8: ollikahn23 (1450 in chips) 
+Seat 9: jamesg777 (1524 in chips) 
+Skkoorr16: posts the ante 6
+GONWEIN: posts the ante 6
+ANTOMC72: posts the ante 6
+Randy's S**t: posts the ante 6
+Jonnyjohn556: posts the ante 6
+Andrloxa 86: posts the ante 6
+37183161: posts the ante 6
+ollikahn23: posts the ante 6
+jamesg777: posts the ante 6
+37183161: posts small blind 25
+ollikahn23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9d 9h]
+jamesg777: folds 
+Skkoorr16: folds 
+GONWEIN: folds 
+Skkoorr16 has returned
+ANTOMC72 has timed out
+ANTOMC72: folds 
+ANTOMC72 is sitting out
+ANTOMC72 has returned
+Randy's S**t: folds 
+Jonnyjohn556: folds 
+Andrloxa 86: folds 
+37183161: raises 1520 to 1570 and is all-in
+ollikahn23: folds 
+Uncalled bet (1520) returned to 37183161
+37183161 collected 154 from pot
+37183161: doesn't show hand 
+*** SUMMARY ***
+Total pot 154 | Rake 0 
+Seat 1: Skkoorr16 folded before Flop (didn't bet)
+Seat 2: GONWEIN folded before Flop (didn't bet)
+Seat 3: ANTOMC72 folded before Flop (didn't bet)
+Seat 4: Randy's S**t folded before Flop (didn't bet)
+Seat 5: Jonnyjohn556 folded before Flop (didn't bet)
+Seat 6: Andrloxa 86 (button) folded before Flop (didn't bet)
+Seat 7: 37183161 (small blind) collected (154)
+Seat 8: ollikahn23 (big blind) folded before Flop
+Seat 9: jamesg777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182149954460: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/02/07 6:44:21 ET
+Table '2211497365 2' 9-max Seat #7 is the button
+Seat 2: GONWEIN (1482 in chips) 
+Seat 3: ANTOMC72 (1670 in chips) 
+Seat 4: Randy's S**t (2051 in chips) 
+Seat 5: Jonnyjohn556 (1091 in chips) 
+Seat 6: Andrloxa 86 (1092 in chips) 
+Seat 7: 37183161 (1674 in chips) 
+Seat 8: ollikahn23 (1394 in chips) 
+Seat 9: jamesg777 (1518 in chips) 
+GONWEIN: posts the ante 6
+ANTOMC72: posts the ante 6
+Randy's S**t: posts the ante 6
+Jonnyjohn556: posts the ante 6
+Andrloxa 86: posts the ante 6
+37183161: posts the ante 6
+ollikahn23: posts the ante 6
+jamesg777: posts the ante 6
+ollikahn23: posts small blind 25
+jamesg777: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5h Jh]
+GONWEIN: folds 
+ANTOMC72: folds 
+Randy's S**t: folds 
+Jonnyjohn556: raises 75 to 125
+Andrloxa 86: folds 
+37183161: folds 
+ollikahn23: folds 
+jamesg777: folds 
+Uncalled bet (75) returned to Jonnyjohn556
+Jonnyjohn556 collected 173 from pot
+*** SUMMARY ***
+Total pot 173 | Rake 0 
+Seat 2: GONWEIN folded before Flop (didn't bet)
+Seat 3: ANTOMC72 folded before Flop (didn't bet)
+Seat 4: Randy's S**t folded before Flop (didn't bet)
+Seat 5: Jonnyjohn556 collected (173)
+Seat 6: Andrloxa 86 folded before Flop (didn't bet)
+Seat 7: 37183161 (button) folded before Flop (didn't bet)
+Seat 8: ollikahn23 (small blind) folded before Flop
+Seat 9: jamesg777 (big blind) folded before Flop
+
+
+
+PokerStars Hand #182149973173: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/02/07 6:45:02 ET
+Table '2211497365 2' 9-max Seat #8 is the button
+Seat 2: GONWEIN (1476 in chips) 
+Seat 3: ANTOMC72 (1664 in chips) 
+Seat 4: Randy's S**t (2045 in chips) 
+Seat 5: Jonnyjohn556 (1208 in chips) 
+Seat 6: Andrloxa 86 (1086 in chips) 
+Seat 7: 37183161 (1668 in chips) 
+Seat 8: ollikahn23 (1363 in chips) 
+Seat 9: jamesg777 (1462 in chips) 
+GONWEIN: posts the ante 6
+ANTOMC72: posts the ante 6
+Randy's S**t: posts the ante 6
+Jonnyjohn556: posts the ante 6
+Andrloxa 86: posts the ante 6
+37183161: posts the ante 6
+ollikahn23: posts the ante 6
+jamesg777: posts the ante 6
+jamesg777: posts small blind 25
+GONWEIN: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7s 7d]
+ANTOMC72 has timed out
+ANTOMC72: folds 
+ANTOMC72 is sitting out
+ANTOMC72 has returned
+Randy's S**t: folds 
+Jonnyjohn556: folds 
+Andrloxa 86: folds 
+37183161: folds 
+ollikahn23: raises 50 to 100
+jamesg777: raises 1356 to 1456 and is all-in
+GONWEIN: folds 
+ollikahn23: folds [7s 7d]
+Uncalled bet (1356) returned to jamesg777
+jamesg777 collected 298 from pot
+jamesg777: doesn't show hand 
+*** SUMMARY ***
+Total pot 298 | Rake 0 
+Seat 2: GONWEIN (big blind) folded before Flop
+Seat 3: ANTOMC72 folded before Flop (didn't bet)
+Seat 4: Randy's S**t folded before Flop (didn't bet)
+Seat 5: Jonnyjohn556 folded before Flop (didn't bet)
+Seat 6: Andrloxa 86 folded before Flop (didn't bet)
+Seat 7: 37183161 folded before Flop (didn't bet)
+Seat 8: ollikahn23 (button) folded before Flop
+Seat 9: jamesg777 (small blind) collected (298)
+
+
+
+PokerStars Hand #182150002991: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/02/07 6:46:07 ET
+Table '2211497365 2' 9-max Seat #9 is the button
+Seat 1: Guster197 (1500 in chips) out of hand (moved from another table into small blind)
+Seat 2: GONWEIN (1420 in chips) 
+Seat 3: ANTOMC72 (1658 in chips) 
+Seat 4: Randy's S**t (2039 in chips) 
+Seat 5: Jonnyjohn556 (1202 in chips) 
+Seat 6: Andrloxa 86 (1080 in chips) 
+Seat 8: ollikahn23 (1257 in chips) 
+Seat 9: jamesg777 (1654 in chips) 
+GONWEIN: posts the ante 6
+ANTOMC72: posts the ante 6
+Randy's S**t: posts the ante 6
+Jonnyjohn556: posts the ante 6
+Andrloxa 86: posts the ante 6
+ollikahn23: posts the ante 6
+jamesg777: posts the ante 6
+GONWEIN: posts small blind 25
+ANTOMC72: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2c Ks]
+Randy's S**t: folds 
+Jonnyjohn556: folds 
+Andrloxa 86: folds 
+ollikahn23: folds 
+jamesg777: folds 
+GONWEIN: folds 
+Uncalled bet (25) returned to ANTOMC72
+ANTOMC72 collected 92 from pot
+ANTOMC72: doesn't show hand 
+*** SUMMARY ***
+Total pot 92 | Rake 0 
+Seat 2: GONWEIN (small blind) folded before Flop
+Seat 3: ANTOMC72 (big blind) collected (92)
+Seat 4: Randy's S**t folded before Flop (didn't bet)
+Seat 5: Jonnyjohn556 folded before Flop (didn't bet)
+Seat 6: Andrloxa 86 folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: jamesg777 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182150011416: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/02/07 6:46:25 ET
+Table '2211497365 2' 9-max Seat #2 is the button
+Seat 1: Guster197 (1500 in chips) 
+Seat 2: GONWEIN (1389 in chips) 
+Seat 3: ANTOMC72 (1719 in chips) 
+Seat 4: Randy's S**t (2033 in chips) 
+Seat 5: Jonnyjohn556 (1196 in chips) 
+Seat 6: Andrloxa 86 (1074 in chips) 
+Seat 8: ollikahn23 (1251 in chips) 
+Seat 9: jamesg777 (1648 in chips) 
+Guster197: posts the ante 6
+GONWEIN: posts the ante 6
+ANTOMC72: posts the ante 6
+Randy's S**t: posts the ante 6
+Jonnyjohn556: posts the ante 6
+Andrloxa 86: posts the ante 6
+ollikahn23: posts the ante 6
+jamesg777: posts the ante 6
+ANTOMC72: posts small blind 25
+Randy's S**t: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qh Th]
+Jonnyjohn556: folds 
+Andrloxa 86: folds 
+ollikahn23: raises 50 to 100
+jamesg777: folds 
+Guster197: folds 
+GONWEIN: folds 
+ANTOMC72 has timed out
+ANTOMC72: folds 
+ANTOMC72 is sitting out
+ANTOMC72 has returned
+Randy's S**t: calls 50
+*** FLOP *** [Jc As Jd]
+Randy's S**t: checks 
+ollikahn23: bets 125
+Randy's S**t: folds 
+Uncalled bet (125) returned to ollikahn23
+ollikahn23 collected 273 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 273 | Rake 0 
+Board [Jc As Jd]
+Seat 1: Guster197 folded before Flop (didn't bet)
+Seat 2: GONWEIN (button) folded before Flop (didn't bet)
+Seat 3: ANTOMC72 (small blind) folded before Flop
+Seat 4: Randy's S**t (big blind) folded on the Flop
+Seat 5: Jonnyjohn556 folded before Flop (didn't bet)
+Seat 6: Andrloxa 86 folded before Flop (didn't bet)
+Seat 8: ollikahn23 collected (273)
+Seat 9: jamesg777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182150041827: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/02/07 6:47:31 ET
+Table '2211497365 2' 9-max Seat #3 is the button
+Seat 1: Guster197 (1494 in chips) 
+Seat 2: GONWEIN (1383 in chips) 
+Seat 3: ANTOMC72 (1688 in chips) 
+Seat 4: Randy's S**t (1927 in chips) 
+Seat 6: Andrloxa 86 (1068 in chips) 
+Seat 7: Io 4 (1500 in chips) 
+Seat 8: ollikahn23 (1418 in chips) 
+Seat 9: jamesg777 (1642 in chips) 
+Guster197: posts the ante 6
+GONWEIN: posts the ante 6
+ANTOMC72: posts the ante 6
+Randy's S**t: posts the ante 6
+Andrloxa 86: posts the ante 6
+Io 4: posts the ante 6
+ollikahn23: posts the ante 6
+jamesg777: posts the ante 6
+Randy's S**t: posts small blind 25
+Andrloxa 86: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9d As]
+Io 4: folds 
+ollikahn23: folds 
+jamesg777: folds 
+Guster197: folds 
+GONWEIN: raises 60 to 110
+ANTOMC72: folds 
+Randy's S**t: folds 
+Andrloxa 86: folds 
+Uncalled bet (60) returned to GONWEIN
+GONWEIN collected 173 from pot
+GONWEIN: doesn't show hand 
+*** SUMMARY ***
+Total pot 173 | Rake 0 
+Seat 1: Guster197 folded before Flop (didn't bet)
+Seat 2: GONWEIN collected (173)
+Seat 3: ANTOMC72 (button) folded before Flop (didn't bet)
+Seat 4: Randy's S**t (small blind) folded before Flop
+Seat 6: Andrloxa 86 (big blind) folded before Flop
+Seat 7: Io 4 folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: jamesg777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182150057975: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/02/07 6:48:06 ET
+Table '2211497365 2' 9-max Seat #4 is the button
+Seat 1: Guster197 (1488 in chips) 
+Seat 2: GONWEIN (1500 in chips) 
+Seat 3: ANTOMC72 (1682 in chips) 
+Seat 4: Randy's S**t (1896 in chips) 
+Seat 6: Andrloxa 86 (1012 in chips) 
+Seat 7: Io 4 (1494 in chips) 
+Seat 8: ollikahn23 (1412 in chips) 
+Seat 9: jamesg777 (1636 in chips) 
+Guster197: posts the ante 6
+GONWEIN: posts the ante 6
+ANTOMC72: posts the ante 6
+Randy's S**t: posts the ante 6
+Andrloxa 86: posts the ante 6
+Io 4: posts the ante 6
+ollikahn23: posts the ante 6
+jamesg777: posts the ante 6
+Andrloxa 86: posts small blind 25
+Io 4: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qh 4h]
+ollikahn23: folds 
+jamesg777: folds 
+Guster197: folds 
+GONWEIN: folds 
+ANTOMC72: raises 50 to 100
+Randy's S**t: folds 
+Andrloxa 86: folds 
+Io 4: raises 150 to 250
+ANTOMC72: calls 150
+*** FLOP *** [7s 2d 4s]
+Io 4: bets 287
+ANTOMC72: calls 287
+*** TURN *** [7s 2d 4s] [2c]
+Io 4: bets 574
+ANTOMC72: calls 574
+*** RIVER *** [7s 2d 4s 2c] [Qs]
+Io 4: bets 377 and is all-in
+ANTOMC72: calls 377
+*** SHOW DOWN ***
+Io 4: shows [Ks Kh] (two pair, Kings and Deuces)
+ANTOMC72: shows [As Ts] (a flush, Ace high)
+ANTOMC72 collected 3049 from pot
+Io 4 finished the tournament
+*** SUMMARY ***
+Total pot 3049 | Rake 0 
+Board [7s 2d 4s 2c Qs]
+Seat 1: Guster197 folded before Flop (didn't bet)
+Seat 2: GONWEIN folded before Flop (didn't bet)
+Seat 3: ANTOMC72 showed [As Ts] and won (3049) with a flush, Ace high
+Seat 4: Randy's S**t (button) folded before Flop (didn't bet)
+Seat 6: Andrloxa 86 (small blind) folded before Flop
+Seat 7: Io 4 (big blind) showed [Ks Kh] and lost with two pair, Kings and Deuces
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: jamesg777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182150089657: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/02/07 6:49:14 ET
+Table '2211497365 2' 9-max Seat #6 is the button
+Seat 1: Guster197 (1482 in chips) 
+Seat 2: GONWEIN (1494 in chips) 
+Seat 3: ANTOMC72 (3237 in chips) 
+Seat 4: Randy's S**t (1890 in chips) 
+Seat 5: zopapi (1500 in chips) 
+Seat 6: Andrloxa 86 (981 in chips) 
+Seat 8: ollikahn23 (1406 in chips) 
+Seat 9: jamesg777 (1630 in chips) 
+Guster197: posts the ante 6
+GONWEIN: posts the ante 6
+ANTOMC72: posts the ante 6
+Randy's S**t: posts the ante 6
+zopapi: posts the ante 6
+Andrloxa 86: posts the ante 6
+ollikahn23: posts the ante 6
+jamesg777: posts the ante 6
+ollikahn23: posts small blind 25
+jamesg777: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5d Ac]
+Guster197: folds 
+GONWEIN: raises 50 to 100
+ANTOMC72: calls 100
+Randy's S**t: folds 
+zopapi: folds 
+Andrloxa 86: folds 
+ollikahn23: folds 
+jamesg777: calls 50
+*** FLOP *** [3c 6h 9c]
+jamesg777: checks 
+GONWEIN: bets 261
+ANTOMC72 has timed out
+ANTOMC72: folds 
+ANTOMC72 is sitting out
+jamesg777: calls 261
+*** TURN *** [3c 6h 9c] [5h]
+ANTOMC72 has returned
+jamesg777: bets 627
+GONWEIN: raises 500 to 1127 and is all-in
+jamesg777: calls 500
+*** RIVER *** [3c 6h 9c 5h] [Ts]
+*** SHOW DOWN ***
+jamesg777: shows [7s Tc] (a pair of Tens)
+GONWEIN: shows [Th 9h] (two pair, Tens and Nines)
+GONWEIN collected 3149 from pot
+*** SUMMARY ***
+Total pot 3149 | Rake 0 
+Board [3c 6h 9c 5h Ts]
+Seat 1: Guster197 folded before Flop (didn't bet)
+Seat 2: GONWEIN showed [Th 9h] and won (3149) with two pair, Tens and Nines
+Seat 3: ANTOMC72 folded on the Flop
+Seat 4: Randy's S**t folded before Flop (didn't bet)
+Seat 5: zopapi folded before Flop (didn't bet)
+Seat 6: Andrloxa 86 (button) folded before Flop (didn't bet)
+Seat 8: ollikahn23 (small blind) folded before Flop
+Seat 9: jamesg777 (big blind) showed [7s Tc] and lost with a pair of Tens
+
+
+
+PokerStars Hand #182150138006: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/02/07 6:50:58 ET
+Table '2211497365 2' 9-max Seat #8 is the button
+Seat 1: Guster197 (1476 in chips) 
+Seat 2: GONWEIN (3149 in chips) 
+Seat 3: ANTOMC72 (3131 in chips) 
+Seat 4: Randy's S**t (1884 in chips) 
+Seat 5: zopapi (1494 in chips) 
+Seat 6: Andrloxa 86 (975 in chips) 
+Seat 8: ollikahn23 (1375 in chips) 
+Seat 9: jamesg777 (136 in chips) 
+Guster197: posts the ante 6
+GONWEIN: posts the ante 6
+ANTOMC72: posts the ante 6
+Randy's S**t: posts the ante 6
+zopapi: posts the ante 6
+Andrloxa 86: posts the ante 6
+ollikahn23: posts the ante 6
+jamesg777: posts the ante 6
+jamesg777: posts small blind 25
+Guster197: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kc 5h]
+GONWEIN: folds 
+ANTOMC72: folds 
+Randy's S**t: folds 
+zopapi: folds 
+Andrloxa 86: folds 
+ollikahn23: raises 50 to 100
+jamesg777: raises 30 to 130 and is all-in
+Guster197: folds 
+ollikahn23: calls 30
+*** FLOP *** [4d 6d Jh]
+*** TURN *** [4d 6d Jh] [Kh]
+*** RIVER *** [4d 6d Jh Kh] [Js]
+*** SHOW DOWN ***
+jamesg777: shows [Ts Jd] (three of a kind, Jacks)
+ollikahn23: shows [Kc 5h] (two pair, Kings and Jacks)
+jamesg777 collected 358 from pot
+*** SUMMARY ***
+Total pot 358 | Rake 0 
+Board [4d 6d Jh Kh Js]
+Seat 1: Guster197 (big blind) folded before Flop
+Seat 2: GONWEIN folded before Flop (didn't bet)
+Seat 3: ANTOMC72 folded before Flop (didn't bet)
+Seat 4: Randy's S**t folded before Flop (didn't bet)
+Seat 5: zopapi folded before Flop (didn't bet)
+Seat 6: Andrloxa 86 folded before Flop (didn't bet)
+Seat 8: ollikahn23 (button) showed [Kc 5h] and lost with two pair, Kings and Jacks
+Seat 9: jamesg777 (small blind) showed [Ts Jd] and won (358) with three of a kind, Jacks
+
+
+
+PokerStars Hand #182150158776: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/02/07 6:51:42 ET
+Table '2211497365 2' 9-max Seat #9 is the button
+Seat 1: Guster197 (1420 in chips) 
+Seat 2: GONWEIN (3143 in chips) 
+Seat 3: ANTOMC72 (3125 in chips) 
+Seat 4: Randy's S**t (1878 in chips) 
+Seat 5: zopapi (1488 in chips) 
+Seat 6: Andrloxa 86 (969 in chips) 
+Seat 8: ollikahn23 (1239 in chips) 
+Seat 9: jamesg777 (358 in chips) 
+Guster197: posts the ante 6
+GONWEIN: posts the ante 6
+ANTOMC72: posts the ante 6
+Randy's S**t: posts the ante 6
+zopapi: posts the ante 6
+Andrloxa 86: posts the ante 6
+ollikahn23: posts the ante 6
+jamesg777: posts the ante 6
+Guster197: posts small blind 25
+GONWEIN: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2h 8d]
+ANTOMC72: folds 
+Randy's S**t: folds 
+zopapi: folds 
+Andrloxa 86: folds 
+ollikahn23: folds 
+jamesg777: folds 
+Guster197: folds 
+Uncalled bet (25) returned to GONWEIN
+GONWEIN collected 98 from pot
+GONWEIN: doesn't show hand 
+*** SUMMARY ***
+Total pot 98 | Rake 0 
+Seat 1: Guster197 (small blind) folded before Flop
+Seat 2: GONWEIN (big blind) collected (98)
+Seat 3: ANTOMC72 folded before Flop (didn't bet)
+Seat 4: Randy's S**t folded before Flop (didn't bet)
+Seat 5: zopapi folded before Flop (didn't bet)
+Seat 6: Andrloxa 86 folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: jamesg777 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182150169335: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/02/07 6:52:04 ET
+Table '2211497365 2' 9-max Seat #1 is the button
+Seat 1: Guster197 (1389 in chips) 
+Seat 2: GONWEIN (3210 in chips) 
+Seat 3: ANTOMC72 (3119 in chips) 
+Seat 4: Randy's S**t (1872 in chips) 
+Seat 5: zopapi (1482 in chips) 
+Seat 6: Andrloxa 86 (963 in chips) 
+Seat 8: ollikahn23 (1233 in chips) 
+Seat 9: jamesg777 (352 in chips) 
+Guster197: posts the ante 6
+GONWEIN: posts the ante 6
+ANTOMC72: posts the ante 6
+Randy's S**t: posts the ante 6
+zopapi: posts the ante 6
+Andrloxa 86: posts the ante 6
+ollikahn23: posts the ante 6
+jamesg777: posts the ante 6
+GONWEIN: posts small blind 25
+ANTOMC72: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3c Th]
+Randy's S**t: raises 50 to 100
+zopapi: folds 
+Andrloxa 86: folds 
+ollikahn23: folds 
+jamesg777: folds 
+Guster197: folds 
+GONWEIN: folds 
+ANTOMC72: calls 50
+*** FLOP *** [8s Jc Ks]
+ANTOMC72 has timed out
+ANTOMC72: checks 
+Randy's S**t: bets 134
+ANTOMC72: calls 134
+*** TURN *** [8s Jc Ks] [2h]
+ANTOMC72: checks 
+Randy's S**t: bets 234
+ANTOMC72: calls 234
+*** RIVER *** [8s Jc Ks 2h] [5s]
+ANTOMC72: bets 2645 and is all-in
+Randy's S**t: folds 
+Uncalled bet (2645) returned to ANTOMC72
+ANTOMC72 collected 1009 from pot
+ANTOMC72: doesn't show hand 
+*** SUMMARY ***
+Total pot 1009 | Rake 0 
+Board [8s Jc Ks 2h 5s]
+Seat 1: Guster197 (button) folded before Flop (didn't bet)
+Seat 2: GONWEIN (small blind) folded before Flop
+Seat 3: ANTOMC72 (big blind) collected (1009)
+Seat 4: Randy's S**t folded on the River
+Seat 5: zopapi folded before Flop (didn't bet)
+Seat 6: Andrloxa 86 folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: jamesg777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182150219093: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/02/07 6:53:51 ET
+Table '2211497365 2' 9-max Seat #2 is the button
+Seat 1: Guster197 (1383 in chips) 
+Seat 2: GONWEIN (3179 in chips) 
+Seat 3: ANTOMC72 (3654 in chips) 
+Seat 4: Randy's S**t (1398 in chips) 
+Seat 5: zopapi (1476 in chips) 
+Seat 6: Andrloxa 86 (957 in chips) 
+Seat 8: ollikahn23 (1227 in chips) 
+Seat 9: jamesg777 (346 in chips) 
+Guster197: posts the ante 6
+GONWEIN: posts the ante 6
+ANTOMC72: posts the ante 6
+Randy's S**t: posts the ante 6
+zopapi: posts the ante 6
+Andrloxa 86: posts the ante 6
+ollikahn23: posts the ante 6
+jamesg777: posts the ante 6
+ANTOMC72: posts small blind 25
+Randy's S**t: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kd 7s]
+zopapi: folds 
+Andrloxa 86: raises 50 to 100
+ollikahn23: folds 
+jamesg777: folds 
+Guster197: folds 
+GONWEIN: folds 
+ANTOMC72: calls 75
+Randy's S**t: calls 50
+*** FLOP *** [Jc 8c Ac]
+ANTOMC72: checks 
+Randy's S**t: checks 
+Andrloxa 86: checks 
+*** TURN *** [Jc 8c Ac] [9c]
+ANTOMC72 has timed out
+ANTOMC72: checks 
+Randy's S**t: bets 110
+Andrloxa 86: folds 
+ANTOMC72: folds 
+Uncalled bet (110) returned to Randy's S**t
+Randy's S**t collected 348 from pot
+Randy's S**t: doesn't show hand 
+*** SUMMARY ***
+Total pot 348 | Rake 0 
+Board [Jc 8c Ac 9c]
+Seat 1: Guster197 folded before Flop (didn't bet)
+Seat 2: GONWEIN (button) folded before Flop (didn't bet)
+Seat 3: ANTOMC72 (small blind) folded on the Turn
+Seat 4: Randy's S**t (big blind) collected (348)
+Seat 5: zopapi folded before Flop (didn't bet)
+Seat 6: Andrloxa 86 folded on the Turn
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: jamesg777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182150405442: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/02/07 7:01:03 ET
+Table '2211497365 2' 9-max Seat #3 is the button
+Seat 1: Guster197 (1377 in chips) 
+Seat 2: GONWEIN (3173 in chips) 
+Seat 3: ANTOMC72 (3548 in chips) 
+Seat 4: Randy's S**t (1640 in chips) 
+Seat 5: zopapi (1470 in chips) 
+Seat 6: Andrloxa 86 (851 in chips) 
+Seat 7: Skkoorr16 (3578 in chips) 
+Seat 8: ollikahn23 (1221 in chips) 
+Seat 9: jamesg777 (340 in chips) 
+Guster197: posts the ante 10
+GONWEIN: posts the ante 10
+ANTOMC72: posts the ante 10
+Randy's S**t: posts the ante 10
+zopapi: posts the ante 10
+Andrloxa 86: posts the ante 10
+Skkoorr16: posts the ante 10
+ollikahn23: posts the ante 10
+jamesg777: posts the ante 10
+Randy's S**t: posts small blind 50
+zopapi: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9d Ah]
+Andrloxa 86: folds 
+Skkoorr16: raises 188 to 288
+ollikahn23: folds 
+jamesg777: folds 
+Guster197: folds 
+GONWEIN: folds 
+ANTOMC72: folds 
+Randy's S**t: folds 
+zopapi: raises 212 to 500
+Skkoorr16: calls 212
+*** FLOP *** [As 4d Qs]
+zopapi: bets 100
+Skkoorr16: calls 100
+*** TURN *** [As 4d Qs] [3s]
+zopapi: bets 200
+Skkoorr16: folds 
+Uncalled bet (200) returned to zopapi
+zopapi collected 1340 from pot
+zopapi: doesn't show hand 
+*** SUMMARY ***
+Total pot 1340 | Rake 0 
+Board [As 4d Qs 3s]
+Seat 1: Guster197 folded before Flop (didn't bet)
+Seat 2: GONWEIN folded before Flop (didn't bet)
+Seat 3: ANTOMC72 (button) folded before Flop (didn't bet)
+Seat 4: Randy's S**t (small blind) folded before Flop
+Seat 5: zopapi (big blind) collected (1340)
+Seat 6: Andrloxa 86 folded before Flop (didn't bet)
+Seat 7: Skkoorr16 folded on the Turn
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: jamesg777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182150443967: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/02/07 7:02:28 ET
+Table '2211497365 2' 9-max Seat #4 is the button
+Seat 1: Guster197 (1367 in chips) 
+Seat 2: GONWEIN (3163 in chips) 
+Seat 3: ANTOMC72 (3538 in chips) 
+Seat 4: Randy's S**t (1580 in chips) 
+Seat 5: zopapi (2200 in chips) 
+Seat 6: Andrloxa 86 (841 in chips) 
+Seat 7: Skkoorr16 (2968 in chips) 
+Seat 8: ollikahn23 (1211 in chips) 
+Seat 9: jamesg777 (330 in chips) 
+Guster197: posts the ante 10
+GONWEIN: posts the ante 10
+ANTOMC72: posts the ante 10
+Randy's S**t: posts the ante 10
+zopapi: posts the ante 10
+Andrloxa 86: posts the ante 10
+Skkoorr16: posts the ante 10
+ollikahn23: posts the ante 10
+jamesg777: posts the ante 10
+zopapi: posts small blind 50
+Andrloxa 86: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2s Jc]
+Skkoorr16: folds 
+ollikahn23: folds 
+jamesg777: raises 100 to 200
+Guster197: folds 
+GONWEIN: folds 
+ANTOMC72: folds 
+Randy's S**t: folds 
+zopapi: folds 
+Andrloxa 86: folds 
+Uncalled bet (100) returned to jamesg777
+jamesg777 collected 340 from pot
+jamesg777: doesn't show hand 
+*** SUMMARY ***
+Total pot 340 | Rake 0 
+Seat 1: Guster197 folded before Flop (didn't bet)
+Seat 2: GONWEIN folded before Flop (didn't bet)
+Seat 3: ANTOMC72 folded before Flop (didn't bet)
+Seat 4: Randy's S**t (button) folded before Flop (didn't bet)
+Seat 5: zopapi (small blind) folded before Flop
+Seat 6: Andrloxa 86 (big blind) folded before Flop
+Seat 7: Skkoorr16 folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: jamesg777 collected (340)
+
+
+
+PokerStars Hand #182150455585: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/02/07 7:02:52 ET
+Table '2211497365 2' 9-max Seat #5 is the button
+Seat 1: Guster197 (1357 in chips) 
+Seat 2: GONWEIN (3153 in chips) 
+Seat 3: ANTOMC72 (3528 in chips) 
+Seat 4: Randy's S**t (1570 in chips) 
+Seat 5: zopapi (2140 in chips) 
+Seat 6: Andrloxa 86 (731 in chips) 
+Seat 7: Skkoorr16 (2958 in chips) 
+Seat 8: ollikahn23 (1201 in chips) 
+Seat 9: jamesg777 (560 in chips) 
+Guster197: posts the ante 10
+GONWEIN: posts the ante 10
+ANTOMC72: posts the ante 10
+Randy's S**t: posts the ante 10
+zopapi: posts the ante 10
+Andrloxa 86: posts the ante 10
+Skkoorr16: posts the ante 10
+ollikahn23: posts the ante 10
+jamesg777: posts the ante 10
+Andrloxa 86: posts small blind 50
+Skkoorr16: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ks 4s]
+ollikahn23: folds 
+jamesg777: raises 450 to 550 and is all-in
+Guster197: folds 
+GONWEIN: folds 
+ANTOMC72: folds 
+Randy's S**t: raises 1010 to 1560 and is all-in
+zopapi: folds 
+Andrloxa 86: folds 
+Skkoorr16: folds 
+Uncalled bet (1010) returned to Randy's S**t
+*** FLOP *** [Kh 6c 4c]
+*** TURN *** [Kh 6c 4c] [Qh]
+*** RIVER *** [Kh 6c 4c Qh] [7d]
+*** SHOW DOWN ***
+jamesg777: shows [Qc 8c] (a pair of Queens)
+Randy's S**t: shows [Tc Ad] (high card Ace)
+jamesg777 collected 1340 from pot
+*** SUMMARY ***
+Total pot 1340 | Rake 0 
+Board [Kh 6c 4c Qh 7d]
+Seat 1: Guster197 folded before Flop (didn't bet)
+Seat 2: GONWEIN folded before Flop (didn't bet)
+Seat 3: ANTOMC72 folded before Flop (didn't bet)
+Seat 4: Randy's S**t showed [Tc Ad] and lost with high card Ace
+Seat 5: zopapi (button) folded before Flop (didn't bet)
+Seat 6: Andrloxa 86 (small blind) folded before Flop
+Seat 7: Skkoorr16 (big blind) folded before Flop
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: jamesg777 showed [Qc 8c] and won (1340) with a pair of Queens
+
+
+
+PokerStars Hand #182150477702: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/02/07 7:03:40 ET
+Table '2211497365 2' 9-max Seat #6 is the button
+Seat 1: Guster197 (1347 in chips) 
+Seat 2: GONWEIN (3143 in chips) 
+Seat 3: ANTOMC72 (3518 in chips) 
+Seat 4: Randy's S**t (1010 in chips) 
+Seat 5: zopapi (2130 in chips) 
+Seat 6: Andrloxa 86 (671 in chips) 
+Seat 7: Skkoorr16 (2848 in chips) 
+Seat 8: ollikahn23 (1191 in chips) 
+Seat 9: jamesg777 (1340 in chips) 
+Guster197: posts the ante 10
+GONWEIN: posts the ante 10
+ANTOMC72: posts the ante 10
+Randy's S**t: posts the ante 10
+zopapi: posts the ante 10
+Andrloxa 86: posts the ante 10
+Skkoorr16: posts the ante 10
+ollikahn23: posts the ante 10
+jamesg777: posts the ante 10
+Skkoorr16: posts small blind 50
+ollikahn23: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kd 4d]
+jamesg777: folds 
+Guster197: folds 
+GONWEIN: folds 
+ANTOMC72: folds 
+Randy's S**t: folds 
+zopapi: folds 
+Andrloxa 86: raises 561 to 661 and is all-in
+Skkoorr16: folds 
+ollikahn23: folds 
+Uncalled bet (561) returned to Andrloxa 86
+Andrloxa 86 collected 340 from pot
+Andrloxa 86: doesn't show hand 
+*** SUMMARY ***
+Total pot 340 | Rake 0 
+Seat 1: Guster197 folded before Flop (didn't bet)
+Seat 2: GONWEIN folded before Flop (didn't bet)
+Seat 3: ANTOMC72 folded before Flop (didn't bet)
+Seat 4: Randy's S**t folded before Flop (didn't bet)
+Seat 5: zopapi folded before Flop (didn't bet)
+Seat 6: Andrloxa 86 (button) collected (340)
+Seat 7: Skkoorr16 (small blind) folded before Flop
+Seat 8: ollikahn23 (big blind) folded before Flop
+Seat 9: jamesg777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182150504129: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/02/07 7:04:37 ET
+Table '2211497365 2' 9-max Seat #7 is the button
+Seat 1: Guster197 (1337 in chips) 
+Seat 2: GONWEIN (3133 in chips) 
+Seat 3: ANTOMC72 (3508 in chips) 
+Seat 4: Randy's S**t (1000 in chips) 
+Seat 5: zopapi (2120 in chips) 
+Seat 6: Andrloxa 86 (901 in chips) 
+Seat 7: Skkoorr16 (2788 in chips) 
+Seat 8: ollikahn23 (1081 in chips) 
+Seat 9: jamesg777 (1330 in chips) 
+Guster197: posts the ante 10
+GONWEIN: posts the ante 10
+ANTOMC72: posts the ante 10
+Randy's S**t: posts the ante 10
+zopapi: posts the ante 10
+Andrloxa 86: posts the ante 10
+Skkoorr16: posts the ante 10
+ollikahn23: posts the ante 10
+jamesg777: posts the ante 10
+ollikahn23: posts small blind 50
+jamesg777: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8d 2s]
+Guster197: folds 
+GONWEIN: folds 
+ANTOMC72: raises 100 to 200
+Randy's S**t: folds 
+zopapi: folds 
+Andrloxa 86: folds 
+Skkoorr16: calls 200
+ollikahn23: folds 
+jamesg777: calls 100
+*** FLOP *** [Qs 4h 6h]
+jamesg777: checks 
+ANTOMC72: checks 
+Skkoorr16: bets 323
+jamesg777: folds 
+ANTOMC72: folds 
+Uncalled bet (323) returned to Skkoorr16
+Skkoorr16 collected 740 from pot
+Skkoorr16: doesn't show hand 
+*** SUMMARY ***
+Total pot 740 | Rake 0 
+Board [Qs 4h 6h]
+Seat 1: Guster197 folded before Flop (didn't bet)
+Seat 2: GONWEIN folded before Flop (didn't bet)
+Seat 3: ANTOMC72 folded on the Flop
+Seat 4: Randy's S**t folded before Flop (didn't bet)
+Seat 5: zopapi folded before Flop (didn't bet)
+Seat 6: Andrloxa 86 folded before Flop (didn't bet)
+Seat 7: Skkoorr16 (button) collected (740)
+Seat 8: ollikahn23 (small blind) folded before Flop
+Seat 9: jamesg777 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #182150549207: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/02/07 7:06:12 ET
+Table '2211497365 2' 9-max Seat #8 is the button
+Seat 1: Guster197 (1327 in chips) 
+Seat 2: GONWEIN (3123 in chips) 
+Seat 3: ANTOMC72 (3298 in chips) 
+Seat 4: Randy's S**t (990 in chips) 
+Seat 5: zopapi (2110 in chips) 
+Seat 6: Andrloxa 86 (891 in chips) 
+Seat 7: Skkoorr16 (3318 in chips) 
+Seat 8: ollikahn23 (1021 in chips) 
+Seat 9: jamesg777 (1120 in chips) 
+Guster197: posts the ante 10
+GONWEIN: posts the ante 10
+ANTOMC72: posts the ante 10
+Randy's S**t: posts the ante 10
+zopapi: posts the ante 10
+Andrloxa 86: posts the ante 10
+Skkoorr16: posts the ante 10
+ollikahn23: posts the ante 10
+jamesg777: posts the ante 10
+jamesg777: posts small blind 50
+Guster197: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6h 7h]
+GONWEIN: folds 
+ANTOMC72: folds 
+Randy's S**t: raises 880 to 980 and is all-in
+zopapi: folds 
+Andrloxa 86: folds 
+Skkoorr16: folds 
+ollikahn23: folds 
+jamesg777: folds 
+Guster197: folds 
+Uncalled bet (880) returned to Randy's S**t
+Randy's S**t collected 340 from pot
+Randy's S**t: doesn't show hand 
+*** SUMMARY ***
+Total pot 340 | Rake 0 
+Seat 1: Guster197 (big blind) folded before Flop
+Seat 2: GONWEIN folded before Flop (didn't bet)
+Seat 3: ANTOMC72 folded before Flop (didn't bet)
+Seat 4: Randy's S**t collected (340)
+Seat 5: zopapi folded before Flop (didn't bet)
+Seat 6: Andrloxa 86 folded before Flop (didn't bet)
+Seat 7: Skkoorr16 folded before Flop (didn't bet)
+Seat 8: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 9: jamesg777 (small blind) folded before Flop
+
+
+
+PokerStars Hand #182150574275: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/02/07 7:07:05 ET
+Table '2211497365 2' 9-max Seat #9 is the button
+Seat 1: Guster197 (1217 in chips) 
+Seat 2: GONWEIN (3113 in chips) 
+Seat 3: ANTOMC72 (3288 in chips) 
+Seat 4: Randy's S**t (1220 in chips) 
+Seat 5: zopapi (2100 in chips) 
+Seat 6: Andrloxa 86 (881 in chips) 
+Seat 7: Skkoorr16 (3308 in chips) 
+Seat 8: ollikahn23 (1011 in chips) 
+Seat 9: jamesg777 (1060 in chips) 
+Guster197: posts the ante 10
+GONWEIN: posts the ante 10
+ANTOMC72: posts the ante 10
+Randy's S**t: posts the ante 10
+zopapi: posts the ante 10
+Andrloxa 86: posts the ante 10
+Skkoorr16: posts the ante 10
+ollikahn23: posts the ante 10
+jamesg777: posts the ante 10
+Guster197: posts small blind 50
+GONWEIN: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5h Js]
+ANTOMC72: folds 
+Randy's S**t: folds 
+zopapi: folds 
+Andrloxa 86: raises 771 to 871 and is all-in
+Skkoorr16: folds 
+ollikahn23: folds 
+jamesg777: folds 
+Guster197: folds 
+GONWEIN: folds 
+Uncalled bet (771) returned to Andrloxa 86
+Andrloxa 86 collected 340 from pot
+Andrloxa 86: doesn't show hand 
+*** SUMMARY ***
+Total pot 340 | Rake 0 
+Seat 1: Guster197 (small blind) folded before Flop
+Seat 2: GONWEIN (big blind) folded before Flop
+Seat 3: ANTOMC72 folded before Flop (didn't bet)
+Seat 4: Randy's S**t folded before Flop (didn't bet)
+Seat 5: zopapi folded before Flop (didn't bet)
+Seat 6: Andrloxa 86 collected (340)
+Seat 7: Skkoorr16 folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: jamesg777 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182150597346: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/02/07 7:07:53 ET
+Table '2211497365 2' 9-max Seat #1 is the button
+Seat 1: Guster197 (1157 in chips) 
+Seat 2: GONWEIN (3003 in chips) 
+Seat 3: ANTOMC72 (3278 in chips) 
+Seat 4: Randy's S**t (1210 in chips) 
+Seat 5: zopapi (2090 in chips) 
+Seat 6: Andrloxa 86 (1111 in chips) 
+Seat 7: Skkoorr16 (3298 in chips) 
+Seat 8: ollikahn23 (1001 in chips) 
+Seat 9: jamesg777 (1050 in chips) 
+Guster197: posts the ante 10
+GONWEIN: posts the ante 10
+ANTOMC72: posts the ante 10
+Randy's S**t: posts the ante 10
+zopapi: posts the ante 10
+Andrloxa 86: posts the ante 10
+Skkoorr16: posts the ante 10
+ollikahn23: posts the ante 10
+jamesg777: posts the ante 10
+GONWEIN: posts small blind 50
+ANTOMC72: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2c Tc]
+Randy's S**t: folds 
+zopapi: raises 150 to 250
+Andrloxa 86: folds 
+Skkoorr16: folds 
+ollikahn23: folds 
+jamesg777: folds 
+Guster197: folds 
+GONWEIN: folds 
+ANTOMC72: folds 
+Uncalled bet (150) returned to zopapi
+zopapi collected 340 from pot
+zopapi: doesn't show hand 
+*** SUMMARY ***
+Total pot 340 | Rake 0 
+Seat 1: Guster197 (button) folded before Flop (didn't bet)
+Seat 2: GONWEIN (small blind) folded before Flop
+Seat 3: ANTOMC72 (big blind) folded before Flop
+Seat 4: Randy's S**t folded before Flop (didn't bet)
+Seat 5: zopapi collected (340)
+Seat 6: Andrloxa 86 folded before Flop (didn't bet)
+Seat 7: Skkoorr16 folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: jamesg777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182150609930: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/02/07 7:08:20 ET
+Table '2211497365 2' 9-max Seat #2 is the button
+Seat 2: GONWEIN (2943 in chips) 
+Seat 3: ANTOMC72 (3168 in chips) 
+Seat 4: Randy's S**t (1200 in chips) 
+Seat 5: zopapi (2320 in chips) 
+Seat 6: Andrloxa 86 (1101 in chips) 
+Seat 7: Skkoorr16 (3288 in chips) 
+Seat 8: ollikahn23 (991 in chips) 
+Seat 9: jamesg777 (1040 in chips) 
+GONWEIN: posts the ante 10
+ANTOMC72: posts the ante 10
+Randy's S**t: posts the ante 10
+zopapi: posts the ante 10
+Andrloxa 86: posts the ante 10
+Skkoorr16: posts the ante 10
+ollikahn23: posts the ante 10
+jamesg777: posts the ante 10
+ANTOMC72: posts small blind 50
+Randy's S**t: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4h 3c]
+zopapi: folds 
+Andrloxa 86: raises 991 to 1091 and is all-in
+Skkoorr16: folds 
+ollikahn23: folds 
+jamesg777: folds 
+GONWEIN: folds 
+ANTOMC72 has timed out
+ANTOMC72: folds 
+ANTOMC72 is sitting out
+Randy's S**t: calls 991
+*** FLOP *** [Jd 7c Th]
+*** TURN *** [Jd 7c Th] [5c]
+*** RIVER *** [Jd 7c Th 5c] [4s]
+*** SHOW DOWN ***
+Randy's S**t: shows [Qc Ad] (high card Ace)
+Andrloxa 86: shows [9s 9c] (a pair of Nines)
+Andrloxa 86 collected 2312 from pot
+ANTOMC72 has returned
+*** SUMMARY ***
+Total pot 2312 | Rake 0 
+Board [Jd 7c Th 5c 4s]
+Seat 2: GONWEIN (button) folded before Flop (didn't bet)
+Seat 3: ANTOMC72 (small blind) folded before Flop
+Seat 4: Randy's S**t (big blind) showed [Qc Ad] and lost with high card Ace
+Seat 5: zopapi folded before Flop (didn't bet)
+Seat 6: Andrloxa 86 showed [9s 9c] and won (2312) with a pair of Nines
+Seat 7: Skkoorr16 folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: jamesg777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182150632507: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/02/07 7:09:08 ET
+Table '2211497365 2' 9-max Seat #3 is the button
+Seat 1: wejo33 (880 in chips) 
+Seat 2: GONWEIN (2933 in chips) 
+Seat 3: ANTOMC72 (3108 in chips) 
+Seat 4: Randy's S**t (99 in chips) 
+Seat 5: zopapi (2310 in chips) 
+Seat 6: Andrloxa 86 (2312 in chips) 
+Seat 7: Skkoorr16 (3278 in chips) 
+Seat 8: ollikahn23 (981 in chips) 
+Seat 9: jamesg777 (1030 in chips) 
+wejo33: posts the ante 10
+GONWEIN: posts the ante 10
+ANTOMC72: posts the ante 10
+Randy's S**t: posts the ante 10
+zopapi: posts the ante 10
+Andrloxa 86: posts the ante 10
+Skkoorr16: posts the ante 10
+ollikahn23: posts the ante 10
+jamesg777: posts the ante 10
+Randy's S**t: posts small blind 50
+zopapi: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jc As]
+Andrloxa 86: folds 
+Skkoorr16: folds 
+ollikahn23: raises 120 to 220
+jamesg777: folds 
+wejo33: folds 
+GONWEIN: folds 
+ANTOMC72: folds 
+Randy's S**t: calls 39 and is all-in
+zopapi: folds 
+Uncalled bet (120) returned to ollikahn23
+*** FLOP *** [Js 5d Qc]
+*** TURN *** [Js 5d Qc] [2s]
+*** RIVER *** [Js 5d Qc 2s] [Jh]
+*** SHOW DOWN ***
+ollikahn23: shows [Jc As] (three of a kind, Jacks)
+ollikahn23 collected 22 from side pot
+Randy's S**t: shows [8s 8h] (two pair, Jacks and Eights)
+ollikahn23 collected 357 from main pot
+Randy's S**t finished the tournament in 62nd place
+*** SUMMARY ***
+Total pot 379 Main pot 357. Side pot 22. | Rake 0 
+Board [Js 5d Qc 2s Jh]
+Seat 1: wejo33 folded before Flop (didn't bet)
+Seat 2: GONWEIN folded before Flop (didn't bet)
+Seat 3: ANTOMC72 (button) folded before Flop (didn't bet)
+Seat 4: Randy's S**t (small blind) showed [8s 8h] and lost with two pair, Jacks and Eights
+Seat 5: zopapi (big blind) folded before Flop
+Seat 6: Andrloxa 86 folded before Flop (didn't bet)
+Seat 7: Skkoorr16 folded before Flop (didn't bet)
+Seat 8: ollikahn23 showed [Jc As] and won (379) with three of a kind, Jacks
+Seat 9: jamesg777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182150655806: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/02/07 7:09:57 ET
+Table '2211497365 2' 9-max Seat #5 is the button
+Seat 1: wejo33 (870 in chips) 
+Seat 2: GONWEIN (2923 in chips) 
+Seat 3: ANTOMC72 (3098 in chips) 
+Seat 5: zopapi (2200 in chips) 
+Seat 6: Andrloxa 86 (2302 in chips) 
+Seat 7: Skkoorr16 (3268 in chips) 
+Seat 8: ollikahn23 (1250 in chips) 
+Seat 9: jamesg777 (1020 in chips) 
+wejo33: posts the ante 10
+GONWEIN: posts the ante 10
+ANTOMC72: posts the ante 10
+zopapi: posts the ante 10
+Andrloxa 86: posts the ante 10
+Skkoorr16: posts the ante 10
+ollikahn23: posts the ante 10
+jamesg777: posts the ante 10
+Andrloxa 86: posts small blind 50
+Skkoorr16: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6h 9h]
+ollikahn23: folds 
+jamesg777: folds 
+wejo33: folds 
+GONWEIN: folds 
+ANTOMC72: folds 
+zopapi: raises 100 to 200
+Andrloxa 86: folds 
+Skkoorr16: folds 
+Uncalled bet (100) returned to zopapi
+zopapi collected 330 from pot
+zopapi: doesn't show hand 
+*** SUMMARY ***
+Total pot 330 | Rake 0 
+Seat 1: wejo33 folded before Flop (didn't bet)
+Seat 2: GONWEIN folded before Flop (didn't bet)
+Seat 3: ANTOMC72 folded before Flop (didn't bet)
+Seat 5: zopapi (button) collected (330)
+Seat 6: Andrloxa 86 (small blind) folded before Flop
+Seat 7: Skkoorr16 (big blind) folded before Flop
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: jamesg777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182150666335: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/02/07 7:10:19 ET
+Table '2211497365 2' 9-max Seat #6 is the button
+Seat 1: wejo33 (860 in chips) 
+Seat 2: GONWEIN (2913 in chips) 
+Seat 3: ANTOMC72 (3088 in chips) 
+Seat 5: zopapi (2420 in chips) 
+Seat 6: Andrloxa 86 (2242 in chips) 
+Seat 7: Skkoorr16 (3158 in chips) 
+Seat 8: ollikahn23 (1240 in chips) 
+Seat 9: jamesg777 (1010 in chips) 
+wejo33: posts the ante 10
+GONWEIN: posts the ante 10
+ANTOMC72: posts the ante 10
+zopapi: posts the ante 10
+Andrloxa 86: posts the ante 10
+Skkoorr16: posts the ante 10
+ollikahn23: posts the ante 10
+jamesg777: posts the ante 10
+Skkoorr16: posts small blind 50
+ollikahn23: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9h Tc]
+jamesg777: folds 
+wejo33: folds 
+GONWEIN: folds 
+ANTOMC72: raises 100 to 200
+zopapi: folds 
+Andrloxa 86: calls 200
+Skkoorr16: raises 2948 to 3148 and is all-in
+ollikahn23: folds 
+ANTOMC72: folds 
+Andrloxa 86: calls 2032 and is all-in
+Uncalled bet (916) returned to Skkoorr16
+*** FLOP *** [7s Th Ad]
+*** TURN *** [7s Th Ad] [6d]
+*** RIVER *** [7s Th Ad 6d] [2c]
+*** SHOW DOWN ***
+Skkoorr16: shows [9d 9c] (a pair of Nines)
+Andrloxa 86: shows [Jd Kd] (high card Ace)
+Skkoorr16 collected 4844 from pot
+Andrloxa 86 finished the tournament in 61st place
+*** SUMMARY ***
+Total pot 4844 | Rake 0 
+Board [7s Th Ad 6d 2c]
+Seat 1: wejo33 folded before Flop (didn't bet)
+Seat 2: GONWEIN folded before Flop (didn't bet)
+Seat 3: ANTOMC72 folded before Flop
+Seat 5: zopapi folded before Flop (didn't bet)
+Seat 6: Andrloxa 86 (button) showed [Jd Kd] and lost with high card Ace
+Seat 7: Skkoorr16 (small blind) showed [9d 9c] and won (4844) with a pair of Nines
+Seat 8: ollikahn23 (big blind) folded before Flop
+Seat 9: jamesg777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182150695310: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/02/07 7:11:19 ET
+Table '2211497365 2' 9-max Seat #7 is the button
+Seat 1: wejo33 (850 in chips) 
+Seat 2: GONWEIN (2903 in chips) 
+Seat 3: ANTOMC72 (2878 in chips) 
+Seat 5: zopapi (2410 in chips) 
+Seat 7: Skkoorr16 (5760 in chips) 
+Seat 8: ollikahn23 (1130 in chips) 
+Seat 9: jamesg777 (1000 in chips) 
+wejo33: posts the ante 10
+GONWEIN: posts the ante 10
+ANTOMC72: posts the ante 10
+zopapi: posts the ante 10
+Skkoorr16: posts the ante 10
+ollikahn23: posts the ante 10
+jamesg777: posts the ante 10
+ollikahn23: posts small blind 50
+jamesg777: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4h 5s]
+wejo33: raises 100 to 200
+GONWEIN: folds 
+ANTOMC72: calls 200
+zopapi: folds 
+Skkoorr16: folds 
+ollikahn23: folds 
+jamesg777: calls 100
+*** FLOP *** [7d 6s 4c]
+jamesg777: bets 790 and is all-in
+wejo33: calls 640 and is all-in
+ANTOMC72: calls 790
+*** TURN *** [7d 6s 4c] [6d]
+*** RIVER *** [7d 6s 4c 6d] [5c]
+*** SHOW DOWN ***
+jamesg777: shows [Th 7s] (two pair, Sevens and Sixes)
+ANTOMC72: shows [5h Ah] (two pair, Sixes and Fives)
+jamesg777 collected 300 from side pot
+wejo33: shows [7h Kh] (two pair, Sevens and Sixes - King kicker)
+wejo33 collected 2640 from main pot
+*** SUMMARY ***
+Total pot 2940 Main pot 2640. Side pot 300. | Rake 0 
+Board [7d 6s 4c 6d 5c]
+Seat 1: wejo33 showed [7h Kh] and won (2640) with two pair, Sevens and Sixes
+Seat 2: GONWEIN folded before Flop (didn't bet)
+Seat 3: ANTOMC72 showed [5h Ah] and lost with two pair, Sixes and Fives
+Seat 5: zopapi folded before Flop (didn't bet)
+Seat 7: Skkoorr16 (button) folded before Flop (didn't bet)
+Seat 8: ollikahn23 (small blind) folded before Flop
+Seat 9: jamesg777 (big blind) showed [Th 7s] and won (300) with two pair, Sevens and Sixes
+
+
+
+PokerStars Hand #182150713963: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/02/07 7:11:58 ET
+Table '2211497365 2' 9-max Seat #8 is the button
+Seat 1: wejo33 (2640 in chips) 
+Seat 2: GONWEIN (2893 in chips) 
+Seat 3: ANTOMC72 (1878 in chips) 
+Seat 4: dragan_alex (1833 in chips) 
+Seat 5: zopapi (2400 in chips) 
+Seat 7: Skkoorr16 (5750 in chips) 
+Seat 8: ollikahn23 (1070 in chips) 
+Seat 9: jamesg777 (300 in chips) 
+wejo33: posts the ante 10
+GONWEIN: posts the ante 10
+ANTOMC72: posts the ante 10
+dragan_alex: posts the ante 10
+zopapi: posts the ante 10
+Skkoorr16: posts the ante 10
+ollikahn23: posts the ante 10
+jamesg777: posts the ante 10
+jamesg777: posts small blind 50
+wejo33: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6h Ks]
+GONWEIN: folds 
+ANTOMC72: folds 
+dragan_alex: folds 
+zopapi: raises 150 to 250
+Skkoorr16: folds 
+ollikahn23: folds 
+jamesg777: raises 40 to 290 and is all-in
+wejo33: folds 
+zopapi: calls 40
+*** FLOP *** [As Ac 6s]
+*** TURN *** [As Ac 6s] [Qd]
+*** RIVER *** [As Ac 6s Qd] [5s]
+*** SHOW DOWN ***
+jamesg777: shows [Ad 3d] (three of a kind, Aces)
+zopapi: shows [Kc 8c] (a pair of Aces)
+jamesg777 collected 760 from pot
+*** SUMMARY ***
+Total pot 760 | Rake 0 
+Board [As Ac 6s Qd 5s]
+Seat 1: wejo33 (big blind) folded before Flop
+Seat 2: GONWEIN folded before Flop (didn't bet)
+Seat 3: ANTOMC72 folded before Flop (didn't bet)
+Seat 4: dragan_alex folded before Flop (didn't bet)
+Seat 5: zopapi showed [Kc 8c] and lost with a pair of Aces
+Seat 7: Skkoorr16 folded before Flop (didn't bet)
+Seat 8: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 9: jamesg777 (small blind) showed [Ad 3d] and won (760) with three of a kind, Aces
+
+
+
+PokerStars Hand #182150735670: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/02/07 7:12:44 ET
+Table '2211497365 2' 9-max Seat #9 is the button
+Seat 1: wejo33 (2530 in chips) 
+Seat 2: GONWEIN (2883 in chips) 
+Seat 3: ANTOMC72 (1868 in chips) 
+Seat 4: dragan_alex (1823 in chips) 
+Seat 5: zopapi (2100 in chips) 
+Seat 7: Skkoorr16 (5740 in chips) 
+Seat 8: ollikahn23 (1060 in chips) 
+Seat 9: jamesg777 (760 in chips) 
+wejo33: posts the ante 10
+GONWEIN: posts the ante 10
+ANTOMC72: posts the ante 10
+dragan_alex: posts the ante 10
+zopapi: posts the ante 10
+Skkoorr16: posts the ante 10
+ollikahn23: posts the ante 10
+jamesg777: posts the ante 10
+wejo33: posts small blind 50
+GONWEIN: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3c Qd]
+ANTOMC72: folds 
+dragan_alex: folds 
+zopapi: folds 
+Skkoorr16: folds 
+ollikahn23: folds 
+jamesg777: folds 
+wejo33: calls 50
+GONWEIN: checks 
+*** FLOP *** [Js Jh 8c]
+wejo33: checks 
+GONWEIN: checks 
+*** TURN *** [Js Jh 8c] [Jc]
+wejo33: bets 100
+GONWEIN: folds 
+Uncalled bet (100) returned to wejo33
+wejo33 collected 280 from pot
+wejo33: doesn't show hand 
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Board [Js Jh 8c Jc]
+Seat 1: wejo33 (small blind) collected (280)
+Seat 2: GONWEIN (big blind) folded on the Turn
+Seat 3: ANTOMC72 folded before Flop (didn't bet)
+Seat 4: dragan_alex folded before Flop (didn't bet)
+Seat 5: zopapi folded before Flop (didn't bet)
+Seat 7: Skkoorr16 folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: jamesg777 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182150763835: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/02/07 7:13:42 ET
+Table '2211497365 2' 9-max Seat #1 is the button
+Seat 1: wejo33 (2700 in chips) 
+Seat 2: GONWEIN (2773 in chips) 
+Seat 3: ANTOMC72 (1858 in chips) 
+Seat 4: dragan_alex (1813 in chips) 
+Seat 5: zopapi (2090 in chips) 
+Seat 7: Skkoorr16 (5730 in chips) 
+Seat 8: ollikahn23 (1050 in chips) 
+Seat 9: jamesg777 (750 in chips) 
+wejo33: posts the ante 10
+GONWEIN: posts the ante 10
+ANTOMC72: posts the ante 10
+dragan_alex: posts the ante 10
+zopapi: posts the ante 10
+Skkoorr16: posts the ante 10
+ollikahn23: posts the ante 10
+jamesg777: posts the ante 10
+GONWEIN: posts small blind 50
+ANTOMC72: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6h Ad]
+dragan_alex: folds 
+zopapi: folds 
+Skkoorr16: folds 
+ollikahn23: raises 120 to 220
+jamesg777: raises 520 to 740 and is all-in
+wejo33: folds 
+GONWEIN: folds 
+ANTOMC72 has timed out
+ANTOMC72: folds 
+ANTOMC72 is sitting out
+ollikahn23: calls 520
+ANTOMC72 has returned
+*** FLOP *** [Kc 4c Qc]
+*** TURN *** [Kc 4c Qc] [Js]
+*** RIVER *** [Kc 4c Qc Js] [4h]
+*** SHOW DOWN ***
+ollikahn23: shows [6h Ad] (a pair of Fours)
+jamesg777: shows [6s 6c] (two pair, Sixes and Fours)
+jamesg777 collected 1710 from pot
+*** SUMMARY ***
+Total pot 1710 | Rake 0 
+Board [Kc 4c Qc Js 4h]
+Seat 1: wejo33 (button) folded before Flop (didn't bet)
+Seat 2: GONWEIN (small blind) folded before Flop
+Seat 3: ANTOMC72 (big blind) folded before Flop
+Seat 4: dragan_alex folded before Flop (didn't bet)
+Seat 5: zopapi folded before Flop (didn't bet)
+Seat 7: Skkoorr16 folded before Flop (didn't bet)
+Seat 8: ollikahn23 showed [6h Ad] and lost with a pair of Fours
+Seat 9: jamesg777 showed [6s 6c] and won (1710) with two pair, Sixes and Fours
+
+
+
+PokerStars Hand #182150789276: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/02/07 7:14:35 ET
+Table '2211497365 2' 9-max Seat #2 is the button
+Seat 1: wejo33 (2690 in chips) 
+Seat 2: GONWEIN (2713 in chips) 
+Seat 3: ANTOMC72 (1748 in chips) 
+Seat 4: dragan_alex (1803 in chips) 
+Seat 5: zopapi (2080 in chips) 
+Seat 7: Skkoorr16 (5720 in chips) 
+Seat 8: ollikahn23 (300 in chips) 
+Seat 9: jamesg777 (1710 in chips) 
+wejo33: posts the ante 10
+GONWEIN: posts the ante 10
+ANTOMC72: posts the ante 10
+dragan_alex: posts the ante 10
+zopapi: posts the ante 10
+Skkoorr16: posts the ante 10
+ollikahn23: posts the ante 10
+jamesg777: posts the ante 10
+ANTOMC72: posts small blind 50
+dragan_alex: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9c 2d]
+zopapi: folds 
+Skkoorr16: folds 
+ollikahn23: folds 
+jamesg777: folds 
+wejo33: folds 
+GONWEIN: folds 
+ANTOMC72 has timed out
+ANTOMC72: folds 
+Uncalled bet (50) returned to dragan_alex
+ANTOMC72 is sitting out
+dragan_alex collected 180 from pot
+dragan_alex: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Seat 1: wejo33 folded before Flop (didn't bet)
+Seat 2: GONWEIN (button) folded before Flop (didn't bet)
+Seat 3: ANTOMC72 (small blind) folded before Flop
+Seat 4: dragan_alex (big blind) collected (180)
+Seat 5: zopapi folded before Flop (didn't bet)
+Seat 7: Skkoorr16 folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: jamesg777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182150815286: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level V (75/150) - 2018/02/07 7:15:28 ET
+Table '2211497365 2' 9-max Seat #3 is the button
+Seat 1: wejo33 (2680 in chips) 
+Seat 2: GONWEIN (2703 in chips) 
+Seat 3: ANTOMC72 (1688 in chips) 
+Seat 4: dragan_alex (1923 in chips) 
+Seat 5: zopapi (2070 in chips) 
+Seat 6: 6opusbI4 (1139 in chips) 
+Seat 7: Skkoorr16 (5710 in chips) 
+Seat 8: ollikahn23 (290 in chips) 
+Seat 9: jamesg777 (1700 in chips) 
+wejo33: posts the ante 15
+GONWEIN: posts the ante 15
+ANTOMC72: posts the ante 15
+dragan_alex: posts the ante 15
+zopapi: posts the ante 15
+6opusbI4: posts the ante 15
+Skkoorr16: posts the ante 15
+ollikahn23: posts the ante 15
+jamesg777: posts the ante 15
+dragan_alex: posts small blind 75
+zopapi: posts big blind 150
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2s 3d]
+6opusbI4: folds 
+Skkoorr16: folds 
+ollikahn23: folds 
+jamesg777: raises 1535 to 1685 and is all-in
+wejo33: folds 
+GONWEIN: folds 
+ANTOMC72: folds 
+dragan_alex has timed out
+dragan_alex: folds 
+dragan_alex is sitting out
+zopapi: folds 
+Uncalled bet (1535) returned to jamesg777
+jamesg777 collected 510 from pot
+jamesg777: doesn't show hand 
+dragan_alex has returned
+*** SUMMARY ***
+Total pot 510 | Rake 0 
+Seat 1: wejo33 folded before Flop (didn't bet)
+Seat 2: GONWEIN folded before Flop (didn't bet)
+Seat 3: ANTOMC72 (button) folded before Flop (didn't bet)
+Seat 4: dragan_alex (small blind) folded before Flop
+Seat 5: zopapi (big blind) folded before Flop
+Seat 6: 6opusbI4 folded before Flop (didn't bet)
+Seat 7: Skkoorr16 folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: jamesg777 collected (510)
+
+
+
+PokerStars Hand #182150835117: Tournament #2211497365, $4.10+$0.40 USD Hold'em No Limit - Level V (75/150) - 2018/02/07 7:16:09 ET
+Table '2211497365 2' 9-max Seat #4 is the button
+Seat 1: wejo33 (2665 in chips) 
+Seat 2: GONWEIN (2688 in chips) 
+Seat 3: ANTOMC72 (1673 in chips) 
+Seat 4: dragan_alex (1833 in chips) 
+Seat 5: zopapi (1905 in chips) 
+Seat 6: 6opusbI4 (1124 in chips) 
+Seat 7: Skkoorr16 (5695 in chips) 
+Seat 8: ollikahn23 (275 in chips) 
+Seat 9: jamesg777 (2045 in chips) 
+wejo33: posts the ante 15
+GONWEIN: posts the ante 15
+ANTOMC72: posts the ante 15
+dragan_alex: posts the ante 15
+zopapi: posts the ante 15
+6opusbI4: posts the ante 15
+Skkoorr16: posts the ante 15
+ollikahn23: posts the ante 15
+jamesg777: posts the ante 15
+zopapi: posts small blind 75
+6opusbI4: posts big blind 150
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kd Tc]
+Skkoorr16: raises 180 to 330
+ollikahn23: calls 260 and is all-in
+jamesg777: folds 
+wejo33: folds 
+GONWEIN: folds 
+ANTOMC72: folds 
+dragan_alex: folds 
+zopapi: calls 255
+6opusbI4: calls 180
+*** FLOP *** [7h Qs 4d]
+zopapi: checks 
+6opusbI4: checks 
+Skkoorr16: checks 
+*** TURN *** [7h Qs 4d] [Js]
+zopapi: bets 485
+6opusbI4: raises 294 to 779 and is all-in
+Skkoorr16: folds 
+zopapi: calls 294
+*** RIVER *** [7h Qs 4d Js] [7c]
+*** SHOW DOWN ***
+zopapi: shows [Qc 8c] (two pair, Queens and Sevens)
+6opusbI4: shows [Jc Kc] (two pair, Jacks and Sevens)
+zopapi collected 1768 from side pot
+ollikahn23: shows [Kd Tc] (a pair of Sevens)
+zopapi collected 1175 from main pot
+*** SUMMARY ***
+Total pot 2943 Main pot 1175. Side pot 1768. | Rake 0 
+Board [7h Qs 4d Js 7c]
+Seat 1: wejo33 folded before Flop (didn't bet)
+Seat 2: GONWEIN folded before Flop (didn't bet)
+Seat 3: ANTOMC72 folded before Flop (didn't bet)
+Seat 4: dragan_alex (button) folded before Flop (didn't bet)
+Seat 5: zopapi (small blind) showed [Qc 8c] and won (2943) with two pair, Queens and Sevens
+Seat 6: 6opusbI4 (big blind) showed [Jc Kc] and lost with two pair, Jacks and Sevens
+Seat 7: Skkoorr16 folded on the Turn
+Seat 8: ollikahn23 showed [Kd Tc] and lost with a pair of Sevens
+Seat 9: jamesg777 folded before Flop (didn't bet)
+
+
+

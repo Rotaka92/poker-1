@@ -1,0 +1,1403 @@
+﻿PokerStars Hand #183060520733: Tournament #2231774187, $3.16+$0.34 USD Hold'em No Limit - Level I (10/20) - 2018/02/26 1:27:21 ET
+Table '2231774187 2' 9-max Seat #1 is the button
+Seat 1: Michael Keys (1500 in chips) 
+Seat 2: ollikahn23 (1500 in chips) 
+Seat 3: felipecosta5 (1500 in chips) 
+Seat 4: maximus11478 (1500 in chips) 
+Seat 5: Nelson261189 (1500 in chips) 
+Seat 6: bazchaki (1500 in chips) 
+Seat 7: eceed (1500 in chips) 
+Seat 8: dastt11 (1500 in chips) 
+Seat 9: FougaziQc (1500 in chips) 
+Michael Keys: posts the ante 3
+ollikahn23: posts the ante 3
+felipecosta5: posts the ante 3
+maximus11478: posts the ante 3
+Nelson261189: posts the ante 3
+bazchaki: posts the ante 3
+eceed: posts the ante 3
+dastt11: posts the ante 3
+FougaziQc: posts the ante 3
+ollikahn23: posts small blind 10
+felipecosta5: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jd Js]
+maximus11478: folds 
+Nelson261189: calls 20
+bazchaki: folds 
+eceed: folds 
+dastt11: folds 
+FougaziQc: folds 
+Michael Keys: raises 70 to 90
+ollikahn23: calls 80
+felipecosta5: calls 70
+Nelson261189: calls 70
+*** FLOP *** [3s Kc 9d]
+ollikahn23: checks 
+felipecosta5: checks 
+Nelson261189: bets 100
+Michael Keys: raises 247 to 347
+ollikahn23: folds 
+felipecosta5: folds 
+Nelson261189: folds 
+Uncalled bet (247) returned to Michael Keys
+Michael Keys collected 587 from pot
+Michael Keys: doesn't show hand 
+*** SUMMARY ***
+Total pot 587 | Rake 0 
+Board [3s Kc 9d]
+Seat 1: Michael Keys (button) collected (587)
+Seat 2: ollikahn23 (small blind) folded on the Flop
+Seat 3: felipecosta5 (big blind) folded on the Flop
+Seat 4: maximus11478 folded before Flop (didn't bet)
+Seat 5: Nelson261189 folded on the Flop
+Seat 6: bazchaki folded before Flop (didn't bet)
+Seat 7: eceed folded before Flop (didn't bet)
+Seat 8: dastt11 folded before Flop (didn't bet)
+Seat 9: FougaziQc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183060538931: Tournament #2231774187, $3.16+$0.34 USD Hold'em No Limit - Level I (10/20) - 2018/02/26 1:28:37 ET
+Table '2231774187 2' 9-max Seat #2 is the button
+Seat 1: Michael Keys (1894 in chips) 
+Seat 2: ollikahn23 (1407 in chips) 
+Seat 3: felipecosta5 (1407 in chips) 
+Seat 4: maximus11478 (1497 in chips) 
+Seat 5: Nelson261189 (1307 in chips) 
+Seat 6: bazchaki (1497 in chips) 
+Seat 7: eceed (1497 in chips) 
+Seat 8: dastt11 (1497 in chips) 
+Seat 9: FougaziQc (1497 in chips) 
+Michael Keys: posts the ante 3
+ollikahn23: posts the ante 3
+felipecosta5: posts the ante 3
+maximus11478: posts the ante 3
+Nelson261189: posts the ante 3
+bazchaki: posts the ante 3
+eceed: posts the ante 3
+dastt11: posts the ante 3
+FougaziQc: posts the ante 3
+felipecosta5: posts small blind 10
+maximus11478: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4d 2d]
+Nelson261189: calls 20
+bazchaki: folds 
+eceed: folds 
+dastt11: calls 20
+FougaziQc: folds 
+Michael Keys: calls 20
+ollikahn23: calls 20
+felipecosta5: raises 147 to 167
+maximus11478: folds 
+Nelson261189: calls 147
+dastt11: folds 
+Michael Keys: calls 147
+ollikahn23: folds 
+*** FLOP *** [As 8c 9h]
+felipecosta5: bets 382
+Nelson261189: calls 382
+Michael Keys: folds 
+*** TURN *** [As 8c 9h] [5d]
+felipecosta5: bets 855 and is all-in
+Nelson261189: folds 
+Uncalled bet (855) returned to felipecosta5
+felipecosta5 collected 1352 from pot
+felipecosta5: doesn't show hand 
+*** SUMMARY ***
+Total pot 1352 | Rake 0 
+Board [As 8c 9h 5d]
+Seat 1: Michael Keys folded on the Flop
+Seat 2: ollikahn23 (button) folded before Flop
+Seat 3: felipecosta5 (small blind) collected (1352)
+Seat 4: maximus11478 (big blind) folded before Flop
+Seat 5: Nelson261189 folded on the Turn
+Seat 6: bazchaki folded before Flop (didn't bet)
+Seat 7: eceed folded before Flop (didn't bet)
+Seat 8: dastt11 folded before Flop
+Seat 9: FougaziQc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183060556876: Tournament #2231774187, $3.16+$0.34 USD Hold'em No Limit - Level I (10/20) - 2018/02/26 1:29:52 ET
+Table '2231774187 2' 9-max Seat #3 is the button
+Seat 1: Michael Keys (1724 in chips) 
+Seat 2: ollikahn23 (1384 in chips) 
+Seat 3: felipecosta5 (2207 in chips) 
+Seat 4: maximus11478 (1474 in chips) 
+Seat 5: Nelson261189 (755 in chips) 
+Seat 6: bazchaki (1494 in chips) 
+Seat 7: eceed (1494 in chips) 
+Seat 8: dastt11 (1474 in chips) 
+Seat 9: FougaziQc (1494 in chips) 
+Michael Keys: posts the ante 3
+ollikahn23: posts the ante 3
+felipecosta5: posts the ante 3
+maximus11478: posts the ante 3
+Nelson261189: posts the ante 3
+bazchaki: posts the ante 3
+eceed: posts the ante 3
+dastt11: posts the ante 3
+FougaziQc: posts the ante 3
+maximus11478: posts small blind 10
+Nelson261189: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7d Qh]
+bazchaki: folds 
+eceed: folds 
+dastt11: folds 
+FougaziQc: folds 
+Michael Keys: folds 
+ollikahn23: folds 
+felipecosta5: folds 
+maximus11478: folds 
+Uncalled bet (10) returned to Nelson261189
+Nelson261189 collected 47 from pot
+Nelson261189: doesn't show hand 
+*** SUMMARY ***
+Total pot 47 | Rake 0 
+Seat 1: Michael Keys folded before Flop (didn't bet)
+Seat 2: ollikahn23 folded before Flop (didn't bet)
+Seat 3: felipecosta5 (button) folded before Flop (didn't bet)
+Seat 4: maximus11478 (small blind) folded before Flop
+Seat 5: Nelson261189 (big blind) collected (47)
+Seat 6: bazchaki folded before Flop (didn't bet)
+Seat 7: eceed folded before Flop (didn't bet)
+Seat 8: dastt11 folded before Flop (didn't bet)
+Seat 9: FougaziQc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183060563113: Tournament #2231774187, $3.16+$0.34 USD Hold'em No Limit - Level I (10/20) - 2018/02/26 1:30:18 ET
+Table '2231774187 2' 9-max Seat #4 is the button
+Seat 1: Michael Keys (1721 in chips) 
+Seat 2: ollikahn23 (1381 in chips) 
+Seat 3: felipecosta5 (2204 in chips) 
+Seat 4: maximus11478 (1461 in chips) 
+Seat 5: Nelson261189 (789 in chips) 
+Seat 6: bazchaki (1491 in chips) 
+Seat 7: eceed (1491 in chips) 
+Seat 8: dastt11 (1471 in chips) 
+Seat 9: FougaziQc (1491 in chips) 
+Michael Keys: posts the ante 3
+ollikahn23: posts the ante 3
+felipecosta5: posts the ante 3
+maximus11478: posts the ante 3
+Nelson261189: posts the ante 3
+bazchaki: posts the ante 3
+eceed: posts the ante 3
+dastt11: posts the ante 3
+FougaziQc: posts the ante 3
+Nelson261189: posts small blind 10
+bazchaki: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2c 8h]
+eceed: raises 60 to 80
+dastt11: folds 
+FougaziQc: folds 
+Michael Keys: calls 80
+ollikahn23: folds 
+felipecosta5: raises 2121 to 2201 and is all-in
+maximus11478: folds 
+Nelson261189: folds 
+bazchaki: folds 
+eceed: calls 1408 and is all-in
+Michael Keys: folds [9d 9c]
+Uncalled bet (713) returned to felipecosta5
+*** FLOP *** [Ad 6h 3c]
+*** TURN *** [Ad 6h 3c] [9h]
+*** RIVER *** [Ad 6h 3c 9h] [5s]
+*** SHOW DOWN ***
+eceed: shows [Ac Kh] (a pair of Aces)
+felipecosta5: shows [Qs As] (a pair of Aces - lower kicker)
+eceed collected 3113 from pot
+*** SUMMARY ***
+Total pot 3113 | Rake 0 
+Board [Ad 6h 3c 9h 5s]
+Seat 1: Michael Keys folded before Flop
+Seat 2: ollikahn23 folded before Flop (didn't bet)
+Seat 3: felipecosta5 showed [Qs As] and lost with a pair of Aces
+Seat 4: maximus11478 (button) folded before Flop (didn't bet)
+Seat 5: Nelson261189 (small blind) folded before Flop
+Seat 6: bazchaki (big blind) folded before Flop
+Seat 7: eceed showed [Ac Kh] and won (3113) with a pair of Aces
+Seat 8: dastt11 folded before Flop (didn't bet)
+Seat 9: FougaziQc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183060576106: Tournament #2231774187, $3.16+$0.34 USD Hold'em No Limit - Level I (10/20) - 2018/02/26 1:31:13 ET
+Table '2231774187 2' 9-max Seat #5 is the button
+Seat 1: Michael Keys (1638 in chips) 
+Seat 2: ollikahn23 (1378 in chips) 
+Seat 3: felipecosta5 (713 in chips) 
+Seat 4: maximus11478 (1458 in chips) 
+Seat 5: Nelson261189 (776 in chips) 
+Seat 6: bazchaki (1468 in chips) 
+Seat 7: eceed (3113 in chips) 
+Seat 8: dastt11 (1468 in chips) 
+Seat 9: FougaziQc (1488 in chips) 
+Michael Keys: posts the ante 3
+ollikahn23: posts the ante 3
+felipecosta5: posts the ante 3
+maximus11478: posts the ante 3
+Nelson261189: posts the ante 3
+bazchaki: posts the ante 3
+eceed: posts the ante 3
+dastt11: posts the ante 3
+FougaziQc: posts the ante 3
+bazchaki: posts small blind 10
+eceed: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Td Jd]
+dastt11: raises 40 to 60
+FougaziQc: folds 
+Michael Keys: folds 
+ollikahn23: calls 60
+felipecosta5: folds 
+maximus11478: folds 
+Nelson261189: folds 
+bazchaki: folds 
+eceed: calls 40
+*** FLOP *** [3d Ah 8d]
+eceed: checks 
+dastt11: bets 100
+ollikahn23: calls 100
+eceed: folds 
+*** TURN *** [3d Ah 8d] [6h]
+dastt11: bets 200
+ollikahn23: folds 
+Uncalled bet (200) returned to dastt11
+dastt11 collected 417 from pot
+dastt11: doesn't show hand 
+*** SUMMARY ***
+Total pot 417 | Rake 0 
+Board [3d Ah 8d 6h]
+Seat 1: Michael Keys folded before Flop (didn't bet)
+Seat 2: ollikahn23 folded on the Turn
+Seat 3: felipecosta5 folded before Flop (didn't bet)
+Seat 4: maximus11478 folded before Flop (didn't bet)
+Seat 5: Nelson261189 (button) folded before Flop (didn't bet)
+Seat 6: bazchaki (small blind) folded before Flop
+Seat 7: eceed (big blind) folded on the Flop
+Seat 8: dastt11 collected (417)
+Seat 9: FougaziQc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183060591081: Tournament #2231774187, $3.16+$0.34 USD Hold'em No Limit - Level I (10/20) - 2018/02/26 1:32:15 ET
+Table '2231774187 2' 9-max Seat #6 is the button
+Seat 1: Michael Keys (1635 in chips) 
+Seat 2: ollikahn23 (1215 in chips) 
+Seat 3: felipecosta5 (710 in chips) 
+Seat 4: maximus11478 (1455 in chips) 
+Seat 5: Nelson261189 (773 in chips) 
+Seat 6: bazchaki (1455 in chips) 
+Seat 7: eceed (3050 in chips) 
+Seat 8: dastt11 (1722 in chips) 
+Seat 9: FougaziQc (1485 in chips) 
+Michael Keys: posts the ante 3
+ollikahn23: posts the ante 3
+felipecosta5: posts the ante 3
+maximus11478: posts the ante 3
+Nelson261189: posts the ante 3
+bazchaki: posts the ante 3
+eceed: posts the ante 3
+dastt11: posts the ante 3
+FougaziQc: posts the ante 3
+eceed: posts small blind 10
+dastt11: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Js 7c]
+FougaziQc: folds 
+Michael Keys: raises 30 to 50
+ollikahn23: folds 
+felipecosta5: folds 
+maximus11478: calls 50
+Nelson261189: raises 30 to 80
+bazchaki: folds 
+eceed: folds 
+dastt11: folds 
+Michael Keys: calls 30
+maximus11478: calls 30
+*** FLOP *** [6c Ac Qd]
+Michael Keys: checks 
+maximus11478: checks 
+Nelson261189: bets 80
+Michael Keys: raises 192 to 272
+maximus11478: folds 
+Nelson261189: calls 192
+*** TURN *** [6c Ac Qd] [2d]
+Michael Keys: bets 1280 and is all-in
+Nelson261189: calls 418 and is all-in
+Uncalled bet (862) returned to Michael Keys
+*** RIVER *** [6c Ac Qd 2d] [Jd]
+*** SHOW DOWN ***
+Michael Keys: shows [9c As] (a pair of Aces)
+Nelson261189: shows [7d 7s] (a pair of Sevens)
+Michael Keys collected 1677 from pot
+Nelson261189 finished the tournament in 18th place
+*** SUMMARY ***
+Total pot 1677 | Rake 0 
+Board [6c Ac Qd 2d Jd]
+Seat 1: Michael Keys showed [9c As] and won (1677) with a pair of Aces
+Seat 2: ollikahn23 folded before Flop (didn't bet)
+Seat 3: felipecosta5 folded before Flop (didn't bet)
+Seat 4: maximus11478 folded on the Flop
+Seat 5: Nelson261189 showed [7d 7s] and lost with a pair of Sevens
+Seat 6: bazchaki (button) folded before Flop (didn't bet)
+Seat 7: eceed (small blind) folded before Flop
+Seat 8: dastt11 (big blind) folded before Flop
+Seat 9: FougaziQc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183060609781: Tournament #2231774187, $3.16+$0.34 USD Hold'em No Limit - Level II (15/30) - 2018/02/26 1:33:34 ET
+Table '2231774187 2' 9-max Seat #7 is the button
+Seat 1: Michael Keys (2539 in chips) 
+Seat 2: ollikahn23 (1212 in chips) 
+Seat 3: felipecosta5 (707 in chips) 
+Seat 4: maximus11478 (1372 in chips) 
+Seat 6: bazchaki (1452 in chips) 
+Seat 7: eceed (3037 in chips) 
+Seat 8: dastt11 (1699 in chips) 
+Seat 9: FougaziQc (1482 in chips) 
+Michael Keys: posts the ante 4
+ollikahn23: posts the ante 4
+felipecosta5: posts the ante 4
+maximus11478: posts the ante 4
+bazchaki: posts the ante 4
+eceed: posts the ante 4
+dastt11: posts the ante 4
+FougaziQc: posts the ante 4
+dastt11: posts small blind 15
+FougaziQc: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kd 8s]
+Michael Keys: folds 
+ollikahn23: folds 
+felipecosta5: raises 673 to 703 and is all-in
+maximus11478: folds 
+bazchaki: folds 
+eceed: folds 
+dastt11: raises 992 to 1695 and is all-in
+FougaziQc: folds 
+Uncalled bet (992) returned to dastt11
+*** FLOP *** [4d 8c 6c]
+*** TURN *** [4d 8c 6c] [5c]
+*** RIVER *** [4d 8c 6c 5c] [Qc]
+*** SHOW DOWN ***
+dastt11: shows [9c 9h] (a flush, Queen high)
+felipecosta5: shows [5d Ad] (a pair of Fives)
+dastt11 collected 1468 from pot
+felipecosta5 finished the tournament in 17th place
+*** SUMMARY ***
+Total pot 1468 | Rake 0 
+Board [4d 8c 6c 5c Qc]
+Seat 1: Michael Keys folded before Flop (didn't bet)
+Seat 2: ollikahn23 folded before Flop (didn't bet)
+Seat 3: felipecosta5 showed [5d Ad] and lost with a pair of Fives
+Seat 4: maximus11478 folded before Flop (didn't bet)
+Seat 6: bazchaki folded before Flop (didn't bet)
+Seat 7: eceed (button) folded before Flop (didn't bet)
+Seat 8: dastt11 (small blind) showed [9c 9h] and won (1468) with a flush, Queen high
+Seat 9: FougaziQc (big blind) folded before Flop
+
+
+
+PokerStars Hand #183060616204: Tournament #2231774187, $3.16+$0.34 USD Hold'em No Limit - Level II (15/30) - 2018/02/26 1:34:02 ET
+Table '2231774187 2' 9-max Seat #8 is the button
+Seat 1: Michael Keys (2535 in chips) 
+Seat 2: ollikahn23 (1208 in chips) 
+Seat 4: maximus11478 (1368 in chips) 
+Seat 6: bazchaki (1448 in chips) 
+Seat 7: eceed (3033 in chips) 
+Seat 8: dastt11 (2460 in chips) 
+Seat 9: FougaziQc (1448 in chips) 
+Michael Keys: posts the ante 4
+ollikahn23: posts the ante 4
+maximus11478: posts the ante 4
+bazchaki: posts the ante 4
+eceed: posts the ante 4
+dastt11: posts the ante 4
+FougaziQc: posts the ante 4
+FougaziQc: posts small blind 15
+Michael Keys: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jd 2d]
+ollikahn23: folds 
+maximus11478: folds 
+bazchaki: folds 
+eceed: calls 30
+dastt11: folds 
+FougaziQc: folds 
+Michael Keys: checks 
+*** FLOP *** [7h Kh Qc]
+Michael Keys: checks 
+eceed: bets 103
+Michael Keys: folds 
+Uncalled bet (103) returned to eceed
+eceed collected 103 from pot
+eceed: doesn't show hand 
+*** SUMMARY ***
+Total pot 103 | Rake 0 
+Board [7h Kh Qc]
+Seat 1: Michael Keys (big blind) folded on the Flop
+Seat 2: ollikahn23 folded before Flop (didn't bet)
+Seat 4: maximus11478 folded before Flop (didn't bet)
+Seat 6: bazchaki folded before Flop (didn't bet)
+Seat 7: eceed collected (103)
+Seat 8: dastt11 (button) folded before Flop (didn't bet)
+Seat 9: FougaziQc (small blind) folded before Flop
+
+
+
+PokerStars Hand #183060624654: Tournament #2231774187, $3.16+$0.34 USD Hold'em No Limit - Level II (15/30) - 2018/02/26 1:34:37 ET
+Table '2231774187 2' 9-max Seat #9 is the button
+Seat 1: Michael Keys (2501 in chips) 
+Seat 2: ollikahn23 (1204 in chips) 
+Seat 4: maximus11478 (1364 in chips) 
+Seat 6: bazchaki (1444 in chips) 
+Seat 7: eceed (3102 in chips) 
+Seat 8: dastt11 (2456 in chips) 
+Seat 9: FougaziQc (1429 in chips) 
+Michael Keys: posts the ante 4
+ollikahn23: posts the ante 4
+maximus11478: posts the ante 4
+bazchaki: posts the ante 4
+eceed: posts the ante 4
+dastt11: posts the ante 4
+FougaziQc: posts the ante 4
+Michael Keys: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kd 7d]
+maximus11478: folds 
+bazchaki: folds 
+eceed: folds 
+dastt11: folds 
+FougaziQc: folds 
+Michael Keys: raises 78 to 108
+ollikahn23: calls 78
+*** FLOP *** [Js 4h 3s]
+Michael Keys: bets 102
+ollikahn23: calls 102
+*** TURN *** [Js 4h 3s] [Ts]
+Michael Keys: bets 299
+ollikahn23: folds 
+Uncalled bet (299) returned to Michael Keys
+Michael Keys collected 448 from pot
+Michael Keys: doesn't show hand 
+*** SUMMARY ***
+Total pot 448 | Rake 0 
+Board [Js 4h 3s Ts]
+Seat 1: Michael Keys (small blind) collected (448)
+Seat 2: ollikahn23 (big blind) folded on the Turn
+Seat 4: maximus11478 folded before Flop (didn't bet)
+Seat 6: bazchaki folded before Flop (didn't bet)
+Seat 7: eceed folded before Flop (didn't bet)
+Seat 8: dastt11 folded before Flop (didn't bet)
+Seat 9: FougaziQc (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183060634379: Tournament #2231774187, $3.16+$0.34 USD Hold'em No Limit - Level II (15/30) - 2018/02/26 1:35:17 ET
+Table '2231774187 2' 9-max Seat #1 is the button
+Seat 1: Michael Keys (2735 in chips) 
+Seat 2: ollikahn23 (990 in chips) 
+Seat 3: viktor444150 (1596 in chips) 
+Seat 4: maximus11478 (1360 in chips) 
+Seat 6: bazchaki (1440 in chips) 
+Seat 7: eceed (3098 in chips) 
+Seat 8: dastt11 (2452 in chips) 
+Seat 9: FougaziQc (1425 in chips) 
+Michael Keys: posts the ante 4
+ollikahn23: posts the ante 4
+viktor444150: posts the ante 4
+maximus11478: posts the ante 4
+bazchaki: posts the ante 4
+eceed: posts the ante 4
+dastt11: posts the ante 4
+FougaziQc: posts the ante 4
+ollikahn23: posts small blind 15
+viktor444150: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3s 9h]
+maximus11478: folds 
+bazchaki: folds 
+eceed: folds 
+dastt11: folds 
+FougaziQc: calls 30
+Michael Keys: calls 30
+ollikahn23: folds 
+viktor444150 has timed out
+viktor444150: checks 
+*** FLOP *** [6h Qh Qs]
+viktor444150 has timed out
+viktor444150: checks 
+FougaziQc: checks 
+Michael Keys: checks 
+*** TURN *** [6h Qh Qs] [8d]
+viktor444150: checks 
+FougaziQc: bets 150
+Michael Keys: folds 
+viktor444150: folds 
+Uncalled bet (150) returned to FougaziQc
+FougaziQc collected 137 from pot
+FougaziQc: doesn't show hand 
+*** SUMMARY ***
+Total pot 137 | Rake 0 
+Board [6h Qh Qs 8d]
+Seat 1: Michael Keys (button) folded on the Turn
+Seat 2: ollikahn23 (small blind) folded before Flop
+Seat 3: viktor444150 (big blind) folded on the Turn
+Seat 4: maximus11478 folded before Flop (didn't bet)
+Seat 6: bazchaki folded before Flop (didn't bet)
+Seat 7: eceed folded before Flop (didn't bet)
+Seat 8: dastt11 folded before Flop (didn't bet)
+Seat 9: FougaziQc collected (137)
+
+
+
+PokerStars Hand #183060666494: Tournament #2231774187, $3.16+$0.34 USD Hold'em No Limit - Level III (25/50) - 2018/02/26 1:37:30 ET
+Table '2231774187 2' 9-max Seat #2 is the button
+Seat 1: Michael Keys (2701 in chips) 
+Seat 2: ollikahn23 (971 in chips) 
+Seat 3: viktor444150 (1562 in chips) 
+Seat 4: maximus11478 (1356 in chips) 
+Seat 6: bazchaki (1436 in chips) 
+Seat 7: eceed (3094 in chips) 
+Seat 8: dastt11 (2448 in chips) 
+Seat 9: FougaziQc (1528 in chips) 
+Michael Keys: posts the ante 6
+ollikahn23: posts the ante 6
+viktor444150: posts the ante 6
+maximus11478: posts the ante 6
+bazchaki: posts the ante 6
+eceed: posts the ante 6
+dastt11: posts the ante 6
+FougaziQc: posts the ante 6
+viktor444150: posts small blind 25
+maximus11478: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Tc 2c]
+bazchaki: folds 
+eceed: calls 50
+dastt11: calls 50
+FougaziQc: folds 
+Michael Keys: raises 200 to 250
+ollikahn23: folds 
+viktor444150: folds 
+maximus11478: folds 
+eceed: calls 200
+dastt11: folds 
+*** FLOP *** [9s 6s 2s]
+eceed: checks 
+Michael Keys: checks 
+*** TURN *** [9s 6s 2s] [6d]
+eceed: checks 
+Michael Keys: bets 283
+eceed: calls 283
+*** RIVER *** [9s 6s 2s 6d] [Qd]
+eceed: bets 750
+Michael Keys: folds 
+Uncalled bet (750) returned to eceed
+eceed collected 1239 from pot
+eceed: doesn't show hand 
+*** SUMMARY ***
+Total pot 1239 | Rake 0 
+Board [9s 6s 2s 6d Qd]
+Seat 1: Michael Keys folded on the River
+Seat 2: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 3: viktor444150 (small blind) folded before Flop
+Seat 4: maximus11478 (big blind) folded before Flop
+Seat 6: bazchaki folded before Flop (didn't bet)
+Seat 7: eceed collected (1239)
+Seat 8: dastt11 folded before Flop
+Seat 9: FougaziQc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183060683884: Tournament #2231774187, $3.16+$0.34 USD Hold'em No Limit - Level III (25/50) - 2018/02/26 1:38:43 ET
+Table '2231774187 2' 9-max Seat #3 is the button
+Seat 1: Michael Keys (2162 in chips) 
+Seat 2: ollikahn23 (965 in chips) 
+Seat 3: viktor444150 (1531 in chips) 
+Seat 4: maximus11478 (1300 in chips) 
+Seat 6: bazchaki (1430 in chips) 
+Seat 7: eceed (3794 in chips) 
+Seat 8: dastt11 (2392 in chips) 
+Seat 9: FougaziQc (1522 in chips) 
+Michael Keys: posts the ante 6
+ollikahn23: posts the ante 6
+viktor444150: posts the ante 6
+maximus11478: posts the ante 6
+bazchaki: posts the ante 6
+eceed: posts the ante 6
+dastt11: posts the ante 6
+FougaziQc: posts the ante 6
+maximus11478: posts small blind 25
+bazchaki: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6c Qh]
+eceed: folds 
+dastt11: folds 
+FougaziQc: raises 173 to 223
+Michael Keys: folds 
+ollikahn23: folds 
+viktor444150: folds 
+maximus11478: folds 
+bazchaki: folds 
+Uncalled bet (173) returned to FougaziQc
+FougaziQc collected 173 from pot
+FougaziQc: doesn't show hand 
+*** SUMMARY ***
+Total pot 173 | Rake 0 
+Seat 1: Michael Keys folded before Flop (didn't bet)
+Seat 2: ollikahn23 folded before Flop (didn't bet)
+Seat 3: viktor444150 (button) folded before Flop (didn't bet)
+Seat 4: maximus11478 (small blind) folded before Flop
+Seat 6: bazchaki (big blind) folded before Flop
+Seat 7: eceed folded before Flop (didn't bet)
+Seat 8: dastt11 folded before Flop (didn't bet)
+Seat 9: FougaziQc collected (173)
+
+
+
+PokerStars Hand #183060692714: Tournament #2231774187, $3.16+$0.34 USD Hold'em No Limit - Level III (25/50) - 2018/02/26 1:39:20 ET
+Table '2231774187 2' 9-max Seat #4 is the button
+Seat 1: Michael Keys (2156 in chips) 
+Seat 2: ollikahn23 (959 in chips) 
+Seat 3: viktor444150 (1525 in chips) 
+Seat 4: maximus11478 (1269 in chips) 
+Seat 6: bazchaki (1374 in chips) 
+Seat 7: eceed (3788 in chips) 
+Seat 8: dastt11 (2386 in chips) 
+Seat 9: FougaziQc (1639 in chips) 
+Michael Keys: posts the ante 6
+ollikahn23: posts the ante 6
+viktor444150: posts the ante 6
+maximus11478: posts the ante 6
+bazchaki: posts the ante 6
+eceed: posts the ante 6
+dastt11: posts the ante 6
+FougaziQc: posts the ante 6
+bazchaki: posts small blind 25
+eceed: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4s Jc]
+dastt11: folds 
+FougaziQc: folds 
+Michael Keys: folds 
+ollikahn23: folds 
+viktor444150: raises 100 to 150
+maximus11478: folds 
+bazchaki: folds 
+eceed: calls 100
+*** FLOP *** [Kd 2c Qd]
+eceed: checks 
+viktor444150: bets 200
+eceed: folds 
+Uncalled bet (200) returned to viktor444150
+viktor444150 collected 373 from pot
+viktor444150: doesn't show hand 
+*** SUMMARY ***
+Total pot 373 | Rake 0 
+Board [Kd 2c Qd]
+Seat 1: Michael Keys folded before Flop (didn't bet)
+Seat 2: ollikahn23 folded before Flop (didn't bet)
+Seat 3: viktor444150 collected (373)
+Seat 4: maximus11478 (button) folded before Flop (didn't bet)
+Seat 6: bazchaki (small blind) folded before Flop
+Seat 7: eceed (big blind) folded on the Flop
+Seat 8: dastt11 folded before Flop (didn't bet)
+Seat 9: FougaziQc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183060701357: Tournament #2231774187, $3.16+$0.34 USD Hold'em No Limit - Level III (25/50) - 2018/02/26 1:39:56 ET
+Table '2231774187 2' 9-max Seat #6 is the button
+Seat 1: Michael Keys (2150 in chips) 
+Seat 2: ollikahn23 (953 in chips) 
+Seat 3: viktor444150 (1742 in chips) 
+Seat 4: maximus11478 (1263 in chips) 
+Seat 6: bazchaki (1343 in chips) 
+Seat 7: eceed (3632 in chips) 
+Seat 8: dastt11 (2380 in chips) 
+Seat 9: FougaziQc (1633 in chips) 
+Michael Keys: posts the ante 6
+ollikahn23: posts the ante 6
+viktor444150: posts the ante 6
+maximus11478: posts the ante 6
+bazchaki: posts the ante 6
+eceed: posts the ante 6
+dastt11: posts the ante 6
+FougaziQc: posts the ante 6
+eceed: posts small blind 25
+dastt11: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7c 2s]
+FougaziQc: folds 
+Michael Keys: raises 70 to 120
+ollikahn23: folds 
+viktor444150: folds 
+maximus11478: folds 
+bazchaki: folds 
+eceed: folds 
+dastt11: calls 70
+*** FLOP *** [3h Js 5h]
+dastt11: checks 
+Michael Keys: bets 131
+dastt11: calls 131
+*** TURN *** [3h Js 5h] [Ah]
+dastt11: checks 
+Michael Keys: bets 383
+dastt11: raises 1740 to 2123 and is all-in
+Michael Keys: folds 
+Uncalled bet (1740) returned to dastt11
+dastt11 collected 1341 from pot
+dastt11: doesn't show hand 
+*** SUMMARY ***
+Total pot 1341 | Rake 0 
+Board [3h Js 5h Ah]
+Seat 1: Michael Keys folded on the Turn
+Seat 2: ollikahn23 folded before Flop (didn't bet)
+Seat 3: viktor444150 folded before Flop (didn't bet)
+Seat 4: maximus11478 folded before Flop (didn't bet)
+Seat 6: bazchaki (button) folded before Flop (didn't bet)
+Seat 7: eceed (small blind) folded before Flop
+Seat 8: dastt11 (big blind) collected (1341)
+Seat 9: FougaziQc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183060716483: Tournament #2231774187, $3.16+$0.34 USD Hold'em No Limit - Level III (25/50) - 2018/02/26 1:40:59 ET
+Table '2231774187 2' 9-max Seat #7 is the button
+Seat 1: Michael Keys (1510 in chips) 
+Seat 2: ollikahn23 (947 in chips) 
+Seat 3: viktor444150 (1736 in chips) 
+Seat 4: maximus11478 (1257 in chips) 
+Seat 6: bazchaki (1337 in chips) 
+Seat 7: eceed (3601 in chips) 
+Seat 8: dastt11 (3081 in chips) 
+Seat 9: FougaziQc (1627 in chips) 
+Michael Keys: posts the ante 6
+ollikahn23: posts the ante 6
+viktor444150: posts the ante 6
+maximus11478: posts the ante 6
+bazchaki: posts the ante 6
+eceed: posts the ante 6
+dastt11: posts the ante 6
+FougaziQc: posts the ante 6
+dastt11: posts small blind 25
+FougaziQc: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ac Jd]
+Michael Keys: folds 
+ollikahn23: raises 100 to 150
+viktor444150: folds 
+maximus11478: folds 
+bazchaki: folds 
+eceed: folds 
+dastt11: folds 
+FougaziQc: folds 
+Uncalled bet (100) returned to ollikahn23
+ollikahn23 collected 173 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 173 | Rake 0 
+Seat 1: Michael Keys folded before Flop (didn't bet)
+Seat 2: ollikahn23 collected (173)
+Seat 3: viktor444150 folded before Flop (didn't bet)
+Seat 4: maximus11478 folded before Flop (didn't bet)
+Seat 6: bazchaki folded before Flop (didn't bet)
+Seat 7: eceed (button) folded before Flop (didn't bet)
+Seat 8: dastt11 (small blind) folded before Flop
+Seat 9: FougaziQc (big blind) folded before Flop
+
+
+
+PokerStars Hand #183060722254: Tournament #2231774187, $3.16+$0.34 USD Hold'em No Limit - Level III (25/50) - 2018/02/26 1:41:23 ET
+Table '2231774187 2' 9-max Seat #8 is the button
+Seat 1: Michael Keys (1504 in chips) 
+Seat 2: ollikahn23 (1064 in chips) 
+Seat 3: viktor444150 (1730 in chips) 
+Seat 4: maximus11478 (1251 in chips) 
+Seat 6: bazchaki (1331 in chips) 
+Seat 7: eceed (3595 in chips) 
+Seat 8: dastt11 (3050 in chips) 
+Seat 9: FougaziQc (1571 in chips) 
+Michael Keys: posts the ante 6
+ollikahn23: posts the ante 6
+viktor444150: posts the ante 6
+maximus11478: posts the ante 6
+bazchaki: posts the ante 6
+eceed: posts the ante 6
+dastt11: posts the ante 6
+FougaziQc: posts the ante 6
+FougaziQc: posts small blind 25
+Michael Keys: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4h 3c]
+ollikahn23: folds 
+viktor444150: folds 
+maximus11478: folds 
+bazchaki: folds 
+eceed: folds 
+dastt11: folds 
+FougaziQc: raises 50 to 100
+Michael Keys: calls 50
+*** FLOP *** [Ts 7c Tc]
+FougaziQc: checks 
+Michael Keys: checks 
+*** TURN *** [Ts 7c Tc] [Qc]
+FougaziQc: bets 250
+Michael Keys: folds 
+Uncalled bet (250) returned to FougaziQc
+FougaziQc collected 248 from pot
+FougaziQc: doesn't show hand 
+*** SUMMARY ***
+Total pot 248 | Rake 0 
+Board [Ts 7c Tc Qc]
+Seat 1: Michael Keys (big blind) folded on the Turn
+Seat 2: ollikahn23 folded before Flop (didn't bet)
+Seat 3: viktor444150 folded before Flop (didn't bet)
+Seat 4: maximus11478 folded before Flop (didn't bet)
+Seat 6: bazchaki folded before Flop (didn't bet)
+Seat 7: eceed folded before Flop (didn't bet)
+Seat 8: dastt11 (button) folded before Flop (didn't bet)
+Seat 9: FougaziQc (small blind) collected (248)
+
+
+
+PokerStars Hand #183060731573: Tournament #2231774187, $3.16+$0.34 USD Hold'em No Limit - Level III (25/50) - 2018/02/26 1:42:01 ET
+Table '2231774187 2' 9-max Seat #9 is the button
+Seat 1: Michael Keys (1398 in chips) 
+Seat 2: ollikahn23 (1058 in chips) 
+Seat 3: viktor444150 (1724 in chips) 
+Seat 4: maximus11478 (1245 in chips) 
+Seat 6: bazchaki (1325 in chips) 
+Seat 7: eceed (3589 in chips) 
+Seat 8: dastt11 (3044 in chips) 
+Seat 9: FougaziQc (1713 in chips) 
+Michael Keys: posts the ante 6
+ollikahn23: posts the ante 6
+viktor444150: posts the ante 6
+maximus11478: posts the ante 6
+bazchaki: posts the ante 6
+eceed: posts the ante 6
+dastt11: posts the ante 6
+FougaziQc: posts the ante 6
+Michael Keys: posts small blind 25
+ollikahn23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6d 9h]
+viktor444150: folds 
+maximus11478: raises 50 to 100
+bazchaki: folds 
+eceed: raises 3483 to 3583 and is all-in
+dastt11: folds 
+FougaziQc: folds 
+Michael Keys: folds 
+ollikahn23: folds 
+maximus11478: folds 
+Uncalled bet (3483) returned to eceed
+eceed collected 323 from pot
+eceed: doesn't show hand 
+*** SUMMARY ***
+Total pot 323 | Rake 0 
+Seat 1: Michael Keys (small blind) folded before Flop
+Seat 2: ollikahn23 (big blind) folded before Flop
+Seat 3: viktor444150 folded before Flop (didn't bet)
+Seat 4: maximus11478 folded before Flop
+Seat 6: bazchaki folded before Flop (didn't bet)
+Seat 7: eceed collected (323)
+Seat 8: dastt11 folded before Flop (didn't bet)
+Seat 9: FougaziQc (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183060739122: Tournament #2231774187, $3.16+$0.34 USD Hold'em No Limit - Level IV (40/80) - 2018/02/26 1:42:32 ET
+Table '2231774187 2' 9-max Seat #1 is the button
+Seat 1: Michael Keys (1367 in chips) 
+Seat 2: ollikahn23 (1002 in chips) 
+Seat 3: viktor444150 (1718 in chips) 
+Seat 4: maximus11478 (1139 in chips) 
+Seat 6: bazchaki (1319 in chips) 
+Seat 7: eceed (3806 in chips) 
+Seat 8: dastt11 (3038 in chips) 
+Seat 9: FougaziQc (1707 in chips) 
+Michael Keys: posts the ante 10
+ollikahn23: posts the ante 10
+viktor444150: posts the ante 10
+maximus11478: posts the ante 10
+bazchaki: posts the ante 10
+eceed: posts the ante 10
+dastt11: posts the ante 10
+FougaziQc: posts the ante 10
+ollikahn23: posts small blind 40
+viktor444150: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ts Jd]
+maximus11478: folds 
+bazchaki: folds 
+eceed: folds 
+dastt11: folds 
+FougaziQc: folds 
+Michael Keys: raises 120 to 200
+ollikahn23: folds 
+viktor444150: calls 120
+*** FLOP *** [Kc Td Tc]
+viktor444150: checks 
+Michael Keys: checks 
+*** TURN *** [Kc Td Tc] [2h]
+viktor444150: bets 240
+Michael Keys: calls 240
+*** RIVER *** [Kc Td Tc 2h] [8h]
+viktor444150: bets 960
+Michael Keys: folds 
+Uncalled bet (960) returned to viktor444150
+viktor444150 collected 1000 from pot
+viktor444150: doesn't show hand 
+*** SUMMARY ***
+Total pot 1000 | Rake 0 
+Board [Kc Td Tc 2h 8h]
+Seat 1: Michael Keys (button) folded on the River
+Seat 2: ollikahn23 (small blind) folded before Flop
+Seat 3: viktor444150 (big blind) collected (1000)
+Seat 4: maximus11478 folded before Flop (didn't bet)
+Seat 6: bazchaki folded before Flop (didn't bet)
+Seat 7: eceed folded before Flop (didn't bet)
+Seat 8: dastt11 folded before Flop (didn't bet)
+Seat 9: FougaziQc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183060748875: Tournament #2231774187, $3.16+$0.34 USD Hold'em No Limit - Level IV (40/80) - 2018/02/26 1:43:13 ET
+Table '2231774187 2' 9-max Seat #2 is the button
+Seat 1: Michael Keys (917 in chips) 
+Seat 2: ollikahn23 (952 in chips) 
+Seat 3: viktor444150 (2268 in chips) 
+Seat 4: maximus11478 (1129 in chips) 
+Seat 6: bazchaki (1309 in chips) 
+Seat 7: eceed (3796 in chips) 
+Seat 8: dastt11 (3028 in chips) 
+Seat 9: FougaziQc (1697 in chips) 
+Michael Keys: posts the ante 10
+ollikahn23: posts the ante 10
+viktor444150: posts the ante 10
+maximus11478: posts the ante 10
+bazchaki: posts the ante 10
+eceed: posts the ante 10
+dastt11: posts the ante 10
+FougaziQc: posts the ante 10
+viktor444150: posts small blind 40
+maximus11478: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9d 2s]
+bazchaki: folds 
+eceed: folds 
+dastt11: folds 
+FougaziQc: folds 
+Michael Keys: folds 
+ollikahn23: folds 
+viktor444150: folds 
+Uncalled bet (40) returned to maximus11478
+maximus11478 collected 160 from pot
+maximus11478: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 1: Michael Keys folded before Flop (didn't bet)
+Seat 2: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 3: viktor444150 (small blind) folded before Flop
+Seat 4: maximus11478 (big blind) collected (160)
+Seat 6: bazchaki folded before Flop (didn't bet)
+Seat 7: eceed folded before Flop (didn't bet)
+Seat 8: dastt11 folded before Flop (didn't bet)
+Seat 9: FougaziQc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183060757414: Tournament #2231774187, $3.16+$0.34 USD Hold'em No Limit - Level IV (40/80) - 2018/02/26 1:43:48 ET
+Table '2231774187 2' 9-max Seat #3 is the button
+Seat 1: Michael Keys (907 in chips) 
+Seat 2: ollikahn23 (942 in chips) 
+Seat 3: viktor444150 (2218 in chips) 
+Seat 4: maximus11478 (1239 in chips) 
+Seat 6: bazchaki (1299 in chips) 
+Seat 7: eceed (3786 in chips) 
+Seat 8: dastt11 (3018 in chips) 
+Seat 9: FougaziQc (1687 in chips) 
+Michael Keys: posts the ante 10
+ollikahn23: posts the ante 10
+viktor444150: posts the ante 10
+maximus11478: posts the ante 10
+bazchaki: posts the ante 10
+eceed: posts the ante 10
+dastt11: posts the ante 10
+FougaziQc: posts the ante 10
+maximus11478: posts small blind 40
+bazchaki: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [As 7c]
+eceed: folds 
+dastt11: folds 
+FougaziQc: raises 160 to 240
+Michael Keys: folds 
+ollikahn23: folds 
+viktor444150: raises 160 to 400
+maximus11478: folds 
+bazchaki: folds 
+FougaziQc: calls 160
+*** FLOP *** [Kc 5d 4s]
+FougaziQc: checks 
+viktor444150: checks 
+*** TURN *** [Kc 5d 4s] [2c]
+FougaziQc: bets 960
+viktor444150: calls 960
+*** RIVER *** [Kc 5d 4s 2c] [4d]
+FougaziQc: bets 317 and is all-in
+viktor444150: folds 
+Uncalled bet (317) returned to FougaziQc
+FougaziQc collected 2920 from pot
+FougaziQc: doesn't show hand 
+*** SUMMARY ***
+Total pot 2920 | Rake 0 
+Board [Kc 5d 4s 2c 4d]
+Seat 1: Michael Keys folded before Flop (didn't bet)
+Seat 2: ollikahn23 folded before Flop (didn't bet)
+Seat 3: viktor444150 (button) folded on the River
+Seat 4: maximus11478 (small blind) folded before Flop
+Seat 6: bazchaki (big blind) folded before Flop
+Seat 7: eceed folded before Flop (didn't bet)
+Seat 8: dastt11 folded before Flop (didn't bet)
+Seat 9: FougaziQc collected (2920)
+
+
+
+PokerStars Hand #183060767271: Tournament #2231774187, $3.16+$0.34 USD Hold'em No Limit - Level IV (40/80) - 2018/02/26 1:44:29 ET
+Table '2231774187 2' 9-max Seat #4 is the button
+Seat 1: Michael Keys (897 in chips) 
+Seat 2: ollikahn23 (932 in chips) 
+Seat 3: viktor444150 (848 in chips) 
+Seat 4: maximus11478 (1189 in chips) 
+Seat 6: bazchaki (1209 in chips) 
+Seat 7: eceed (3776 in chips) 
+Seat 8: dastt11 (3008 in chips) 
+Seat 9: FougaziQc (3237 in chips) 
+Michael Keys: posts the ante 10
+ollikahn23: posts the ante 10
+viktor444150: posts the ante 10
+maximus11478: posts the ante 10
+bazchaki: posts the ante 10
+eceed: posts the ante 10
+dastt11: posts the ante 10
+FougaziQc: posts the ante 10
+bazchaki: posts small blind 40
+eceed: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ks 4c]
+dastt11: folds 
+FougaziQc: folds 
+Michael Keys: raises 112 to 192
+ollikahn23: folds 
+viktor444150: folds 
+maximus11478: folds 
+bazchaki: folds 
+eceed: calls 112
+*** FLOP *** [2d 4d Td]
+eceed: checks 
+Michael Keys: bets 212
+eceed: calls 212
+*** TURN *** [2d 4d Td] [9c]
+eceed: bets 928
+Michael Keys: folds 
+Uncalled bet (928) returned to eceed
+eceed collected 928 from pot
+eceed: doesn't show hand 
+*** SUMMARY ***
+Total pot 928 | Rake 0 
+Board [2d 4d Td 9c]
+Seat 1: Michael Keys folded on the Turn
+Seat 2: ollikahn23 folded before Flop (didn't bet)
+Seat 3: viktor444150 folded before Flop (didn't bet)
+Seat 4: maximus11478 (button) folded before Flop (didn't bet)
+Seat 6: bazchaki (small blind) folded before Flop
+Seat 7: eceed (big blind) collected (928)
+Seat 8: dastt11 folded before Flop (didn't bet)
+Seat 9: FougaziQc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183060778680: Tournament #2231774187, $3.16+$0.34 USD Hold'em No Limit - Level IV (40/80) - 2018/02/26 1:45:16 ET
+Table '2231774187 2' 9-max Seat #6 is the button
+Seat 1: Michael Keys (483 in chips) 
+Seat 2: ollikahn23 (922 in chips) 
+Seat 3: viktor444150 (838 in chips) 
+Seat 4: maximus11478 (1179 in chips) 
+Seat 6: bazchaki (1159 in chips) 
+Seat 7: eceed (4290 in chips) 
+Seat 8: dastt11 (2998 in chips) 
+Seat 9: FougaziQc (3227 in chips) 
+Michael Keys: posts the ante 10
+ollikahn23: posts the ante 10
+viktor444150: posts the ante 10
+maximus11478: posts the ante 10
+bazchaki: posts the ante 10
+eceed: posts the ante 10
+dastt11: posts the ante 10
+FougaziQc: posts the ante 10
+eceed: posts small blind 40
+dastt11: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2d 8d]
+FougaziQc: folds 
+Michael Keys: raises 393 to 473 and is all-in
+ollikahn23: folds 
+viktor444150: raises 355 to 828 and is all-in
+maximus11478: folds 
+bazchaki: folds 
+eceed: folds 
+dastt11: folds 
+Uncalled bet (355) returned to viktor444150
+*** FLOP *** [Ah 3s Ts]
+*** TURN *** [Ah 3s Ts] [Ac]
+*** RIVER *** [Ah 3s Ts Ac] [5s]
+*** SHOW DOWN ***
+Michael Keys: shows [Qd Jd] (a pair of Aces)
+viktor444150: shows [7h 5h] (two pair, Aces and Fives)
+viktor444150 collected 1146 from pot
+Michael Keys finished the tournament in 15th place
+*** SUMMARY ***
+Total pot 1146 | Rake 0 
+Board [Ah 3s Ts Ac 5s]
+Seat 1: Michael Keys showed [Qd Jd] and lost with a pair of Aces
+Seat 2: ollikahn23 folded before Flop (didn't bet)
+Seat 3: viktor444150 showed [7h 5h] and won (1146) with two pair, Aces and Fives
+Seat 4: maximus11478 folded before Flop (didn't bet)
+Seat 6: bazchaki (button) folded before Flop (didn't bet)
+Seat 7: eceed (small blind) folded before Flop
+Seat 8: dastt11 (big blind) folded before Flop
+Seat 9: FougaziQc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183060786974: Tournament #2231774187, $3.16+$0.34 USD Hold'em No Limit - Level IV (40/80) - 2018/02/26 1:45:51 ET
+Table '2231774187 2' 9-max Seat #7 is the button
+Seat 2: ollikahn23 (912 in chips) 
+Seat 3: viktor444150 (1501 in chips) 
+Seat 4: maximus11478 (1169 in chips) 
+Seat 6: bazchaki (1149 in chips) 
+Seat 7: eceed (4240 in chips) 
+Seat 8: dastt11 (2908 in chips) 
+Seat 9: FougaziQc (3217 in chips) 
+ollikahn23: posts the ante 10
+viktor444150: posts the ante 10
+maximus11478: posts the ante 10
+bazchaki: posts the ante 10
+eceed: posts the ante 10
+dastt11: posts the ante 10
+FougaziQc: posts the ante 10
+dastt11: posts small blind 40
+FougaziQc: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6d 5c]
+ollikahn23: folds 
+viktor444150: folds 
+maximus11478: folds 
+bazchaki: folds 
+eceed: raises 80 to 160
+dastt11: folds 
+FougaziQc: folds 
+Uncalled bet (80) returned to eceed
+eceed collected 270 from pot
+eceed: doesn't show hand 
+*** SUMMARY ***
+Total pot 270 | Rake 0 
+Seat 2: ollikahn23 folded before Flop (didn't bet)
+Seat 3: viktor444150 folded before Flop (didn't bet)
+Seat 4: maximus11478 folded before Flop (didn't bet)
+Seat 6: bazchaki folded before Flop (didn't bet)
+Seat 7: eceed (button) collected (270)
+Seat 8: dastt11 (small blind) folded before Flop
+Seat 9: FougaziQc (big blind) folded before Flop
+
+
+
+PokerStars Hand #183060790629: Tournament #2231774187, $3.16+$0.34 USD Hold'em No Limit - Level IV (40/80) - 2018/02/26 1:46:07 ET
+Table '2231774187 2' 9-max Seat #8 is the button
+Seat 2: ollikahn23 (902 in chips) 
+Seat 3: viktor444150 (1491 in chips) 
+Seat 4: maximus11478 (1159 in chips) 
+Seat 6: bazchaki (1139 in chips) 
+Seat 7: eceed (4420 in chips) 
+Seat 8: dastt11 (2858 in chips) 
+Seat 9: FougaziQc (3127 in chips) 
+ollikahn23: posts the ante 10
+viktor444150: posts the ante 10
+maximus11478: posts the ante 10
+bazchaki: posts the ante 10
+eceed: posts the ante 10
+dastt11: posts the ante 10
+FougaziQc: posts the ante 10
+FougaziQc: posts small blind 40
+ollikahn23: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Td 4s]
+viktor444150: folds 
+maximus11478: folds 
+bazchaki: folds 
+eceed: raises 80 to 160
+dastt11: folds 
+FougaziQc: folds 
+ollikahn23: folds 
+Uncalled bet (80) returned to eceed
+eceed collected 270 from pot
+eceed: doesn't show hand 
+*** SUMMARY ***
+Total pot 270 | Rake 0 
+Seat 2: ollikahn23 (big blind) folded before Flop
+Seat 3: viktor444150 folded before Flop (didn't bet)
+Seat 4: maximus11478 folded before Flop (didn't bet)
+Seat 6: bazchaki folded before Flop (didn't bet)
+Seat 7: eceed collected (270)
+Seat 8: dastt11 (button) folded before Flop (didn't bet)
+Seat 9: FougaziQc (small blind) folded before Flop
+
+
+
+PokerStars Hand #183060797098: Tournament #2231774187, $3.16+$0.34 USD Hold'em No Limit - Level IV (40/80) - 2018/02/26 1:46:34 ET
+Table '2231774187 2' 9-max Seat #9 is the button
+Seat 2: ollikahn23 (812 in chips) 
+Seat 3: viktor444150 (1481 in chips) 
+Seat 4: maximus11478 (1149 in chips) 
+Seat 6: bazchaki (1129 in chips) 
+Seat 7: eceed (4600 in chips) 
+Seat 8: dastt11 (2848 in chips) 
+Seat 9: FougaziQc (3077 in chips) 
+ollikahn23: posts the ante 10
+viktor444150: posts the ante 10
+maximus11478: posts the ante 10
+bazchaki: posts the ante 10
+eceed: posts the ante 10
+dastt11: posts the ante 10
+FougaziQc: posts the ante 10
+ollikahn23: posts small blind 40
+viktor444150: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jh 6d]
+maximus11478: folds 
+bazchaki: folds 
+eceed: folds 
+dastt11: folds 
+FougaziQc: folds 
+ollikahn23: folds 
+Uncalled bet (40) returned to viktor444150
+viktor444150 collected 150 from pot
+viktor444150: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Seat 2: ollikahn23 (small blind) folded before Flop
+Seat 3: viktor444150 (big blind) collected (150)
+Seat 4: maximus11478 folded before Flop (didn't bet)
+Seat 6: bazchaki folded before Flop (didn't bet)
+Seat 7: eceed folded before Flop (didn't bet)
+Seat 8: dastt11 folded before Flop (didn't bet)
+Seat 9: FougaziQc (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183060801360: Tournament #2231774187, $3.16+$0.34 USD Hold'em No Limit - Level IV (40/80) - 2018/02/26 1:46:51 ET
+Table '2231774187 2' 9-max Seat #2 is the button
+Seat 2: ollikahn23 (762 in chips) 
+Seat 3: viktor444150 (1581 in chips) 
+Seat 4: maximus11478 (1139 in chips) 
+Seat 6: bazchaki (1119 in chips) 
+Seat 7: eceed (4590 in chips) 
+Seat 8: dastt11 (2838 in chips) 
+Seat 9: FougaziQc (3067 in chips) 
+ollikahn23: posts the ante 10
+viktor444150: posts the ante 10
+maximus11478: posts the ante 10
+bazchaki: posts the ante 10
+eceed: posts the ante 10
+dastt11: posts the ante 10
+FougaziQc: posts the ante 10
+viktor444150: posts small blind 40
+maximus11478: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ts 6s]
+bazchaki: folds 
+eceed: folds 
+dastt11: folds 
+FougaziQc: raises 160 to 240
+ollikahn23: folds 
+viktor444150: folds 
+maximus11478: folds 
+Uncalled bet (160) returned to FougaziQc
+FougaziQc collected 270 from pot
+FougaziQc: doesn't show hand 
+*** SUMMARY ***
+Total pot 270 | Rake 0 
+Seat 2: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 3: viktor444150 (small blind) folded before Flop
+Seat 4: maximus11478 (big blind) folded before Flop
+Seat 6: bazchaki folded before Flop (didn't bet)
+Seat 7: eceed folded before Flop (didn't bet)
+Seat 8: dastt11 folded before Flop (didn't bet)
+Seat 9: FougaziQc collected (270)
+
+
+
+PokerStars Hand #183060810666: Tournament #2231774187, $3.16+$0.34 USD Hold'em No Limit - Level V (60/120) - 2018/02/26 1:47:30 ET
+Table '2231774187 2' 9-max Seat #3 is the button
+Seat 2: ollikahn23 (752 in chips) 
+Seat 3: viktor444150 (1531 in chips) 
+Seat 4: maximus11478 (1049 in chips) 
+Seat 6: bazchaki (1109 in chips) 
+Seat 7: eceed (4580 in chips) 
+Seat 8: dastt11 (2828 in chips) 
+Seat 9: FougaziQc (3247 in chips) 
+ollikahn23: posts the ante 15
+viktor444150: posts the ante 15
+maximus11478: posts the ante 15
+bazchaki: posts the ante 15
+eceed: posts the ante 15
+dastt11: posts the ante 15
+FougaziQc: posts the ante 15
+maximus11478: posts small blind 60
+bazchaki: posts big blind 120
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qh 3d]
+eceed: folds 
+dastt11: folds 
+FougaziQc: folds 
+ollikahn23: raises 617 to 737 and is all-in
+viktor444150 has timed out
+viktor444150: folds 
+viktor444150 is sitting out
+maximus11478: raises 297 to 1034 and is all-in
+bazchaki: folds 
+Uncalled bet (297) returned to maximus11478
+*** FLOP *** [Jc 8s 6s]
+*** TURN *** [Jc 8s 6s] [2h]
+*** RIVER *** [Jc 8s 6s 2h] [7d]
+*** SHOW DOWN ***
+maximus11478: shows [Ad Tc] (high card Ace)
+ollikahn23: shows [Qh 3d] (high card Queen)
+maximus11478 collected 1699 from pot
+ollikahn23 finished the tournament in 13th place
+*** SUMMARY ***
+Total pot 1699 | Rake 0 
+Board [Jc 8s 6s 2h 7d]
+Seat 2: ollikahn23 showed [Qh 3d] and lost with high card Queen
+Seat 3: viktor444150 (button) folded before Flop (didn't bet)
+Seat 4: maximus11478 (small blind) showed [Ad Tc] and won (1699) with high card Ace
+Seat 6: bazchaki (big blind) folded before Flop
+Seat 7: eceed folded before Flop (didn't bet)
+Seat 8: dastt11 folded before Flop (didn't bet)
+Seat 9: FougaziQc folded before Flop (didn't bet)
+
+
+

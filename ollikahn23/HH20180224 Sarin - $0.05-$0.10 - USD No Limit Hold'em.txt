@@ -1,0 +1,4801 @@
+﻿PokerStars Hand #183001414583:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 19:47:59 ET
+Table 'Sarin' 9-max Seat #8 is the button
+Seat 1: ollikahn23 ($10 in chips) 
+Seat 2: your_drama1 ($18.73 in chips) 
+Seat 3: Sasha Ghan ($13.88 in chips) 
+Seat 4: Velliton87 ($10.16 in chips) 
+Seat 5: kasatka07 ($17.53 in chips) 
+Seat 6: Denisella ($10.24 in chips) 
+Seat 7: Mr_Dick666 ($11.06 in chips) 
+Seat 8: JasonAG ($10.32 in chips) 
+Seat 9: ZuJIOk ($18.53 in chips) 
+ZuJIOk: posts small blind $0.05
+ollikahn23: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6h Th]
+your_drama1: folds 
+Sasha Ghan: folds 
+Velliton87: folds 
+kasatka07: folds 
+Denisella: folds 
+Mr_Dick666: folds 
+JasonAG: raises $0.10 to $0.20
+ZuJIOk: folds 
+ollikahn23: folds 
+Uncalled bet ($0.10) returned to JasonAG
+JasonAG collected $0.25 from pot
+JasonAG: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: ollikahn23 (big blind) folded before Flop
+Seat 2: your_drama1 folded before Flop (didn't bet)
+Seat 3: Sasha Ghan folded before Flop (didn't bet)
+Seat 4: Velliton87 folded before Flop (didn't bet)
+Seat 5: kasatka07 folded before Flop (didn't bet)
+Seat 6: Denisella folded before Flop (didn't bet)
+Seat 7: Mr_Dick666 folded before Flop (didn't bet)
+Seat 8: JasonAG (button) collected ($0.25)
+Seat 9: ZuJIOk (small blind) folded before Flop
+
+
+
+PokerStars Hand #183001430998:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 19:48:29 ET
+Table 'Sarin' 9-max Seat #9 is the button
+Seat 1: ollikahn23 ($10 in chips) 
+Seat 2: your_drama1 ($18.73 in chips) 
+Seat 3: Sasha Ghan ($13.88 in chips) 
+Seat 4: Velliton87 ($10.16 in chips) 
+Seat 5: kasatka07 ($17.53 in chips) 
+Seat 6: Denisella ($10.24 in chips) 
+Seat 7: Mr_Dick666 ($11.06 in chips) 
+Seat 8: JasonAG ($10.47 in chips) 
+Seat 9: ZuJIOk ($18.48 in chips) 
+ollikahn23: posts small blind $0.05
+your_drama1: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Tc Ad]
+Sasha Ghan has timed out
+Sasha Ghan: folds 
+Velliton87: folds 
+kasatka07: folds 
+Denisella: raises $0.20 to $0.30
+Mr_Dick666: folds 
+JasonAG: calls $0.30
+ZuJIOk: folds 
+ollikahn23: folds 
+your_drama1: folds 
+*** FLOP *** [7s 3h 8s]
+Denisella: bets $0.36
+JasonAG: calls $0.36
+*** TURN *** [7s 3h 8s] [4c]
+Denisella: checks 
+JasonAG: checks 
+*** RIVER *** [7s 3h 8s 4c] [Qd]
+Denisella: checks 
+JasonAG: bets $0.40
+Denisella: calls $0.40
+*** SHOW DOWN ***
+JasonAG: shows [6c 8c] (a pair of Eights)
+Denisella: mucks hand 
+JasonAG collected $2.17 from pot
+*** SUMMARY ***
+Total pot $2.27 | Rake $0.10 
+Board [7s 3h 8s 4c Qd]
+Seat 1: ollikahn23 (small blind) folded before Flop
+Seat 2: your_drama1 (big blind) folded before Flop
+Seat 3: Sasha Ghan folded before Flop (didn't bet)
+Seat 4: Velliton87 folded before Flop (didn't bet)
+Seat 5: kasatka07 folded before Flop (didn't bet)
+Seat 6: Denisella mucked [Ac Kd]
+Seat 7: Mr_Dick666 folded before Flop (didn't bet)
+Seat 8: JasonAG showed [6c 8c] and won ($2.17) with a pair of Eights
+Seat 9: ZuJIOk (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183001467227:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 19:49:36 ET
+Table 'Sarin' 9-max Seat #1 is the button
+Seat 1: ollikahn23 ($10 in chips) 
+Seat 2: your_drama1 ($18.63 in chips) 
+Seat 4: Velliton87 ($10.16 in chips) 
+Seat 5: kasatka07 ($17.53 in chips) 
+Seat 6: Denisella ($10 in chips) 
+Seat 7: Mr_Dick666 ($11.06 in chips) 
+Seat 8: JasonAG ($11.58 in chips) 
+Seat 9: ZuJIOk ($18.48 in chips) 
+your_drama1: posts small blind $0.05
+Velliton87: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6c 9d]
+kasatka07: folds 
+Denisella: folds 
+Mr_Dick666: folds 
+JasonAG: raises $0.10 to $0.20
+ZuJIOk: calls $0.20
+ollikahn23: folds 
+your_drama1: folds 
+Velliton87: folds 
+*** FLOP *** [Ad 6s 4h]
+JasonAG: bets $0.30
+ZuJIOk: calls $0.30
+*** TURN *** [Ad 6s 4h] [2d]
+JasonAG: checks 
+ZuJIOk: bets $0.62
+JasonAG: calls $0.62
+*** RIVER *** [Ad 6s 4h 2d] [Tc]
+JasonAG: checks 
+ZuJIOk: checks 
+*** SHOW DOWN ***
+JasonAG: shows [8s 8h] (a pair of Eights)
+ZuJIOk: shows [As Jc] (a pair of Aces)
+ZuJIOk collected $2.28 from pot
+*** SUMMARY ***
+Total pot $2.39 | Rake $0.11 
+Board [Ad 6s 4h 2d Tc]
+Seat 1: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 2: your_drama1 (small blind) folded before Flop
+Seat 4: Velliton87 (big blind) folded before Flop
+Seat 5: kasatka07 folded before Flop (didn't bet)
+Seat 6: Denisella folded before Flop (didn't bet)
+Seat 7: Mr_Dick666 folded before Flop (didn't bet)
+Seat 8: JasonAG showed [8s 8h] and lost with a pair of Eights
+Seat 9: ZuJIOk showed [As Jc] and won ($2.28) with a pair of Aces
+
+
+
+PokerStars Hand #183001491581:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 19:50:21 ET
+Table 'Sarin' 9-max Seat #2 is the button
+Seat 1: ollikahn23 ($10 in chips) 
+Seat 2: your_drama1 ($18.58 in chips) 
+Seat 4: Velliton87 ($10.06 in chips) 
+Seat 5: kasatka07 ($17.53 in chips) 
+Seat 6: Denisella ($10 in chips) 
+Seat 7: Mr_Dick666 ($11.06 in chips) 
+Seat 8: JasonAG ($10.46 in chips) 
+Seat 9: ZuJIOk ($19.64 in chips) 
+Sasha Ghan will be allowed to play after the button
+Velliton87: posts small blind $0.05
+kasatka07: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2d 9h]
+Denisella: folds 
+Mr_Dick666: raises $0.20 to $0.30
+JasonAG: folds 
+ZuJIOk has timed out
+ZuJIOk: folds 
+ollikahn23: folds 
+your_drama1: folds 
+Velliton87: folds 
+kasatka07: folds 
+Uncalled bet ($0.20) returned to Mr_Dick666
+Mr_Dick666 collected $0.25 from pot
+Mr_Dick666: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: your_drama1 (button) folded before Flop (didn't bet)
+Seat 4: Velliton87 (small blind) folded before Flop
+Seat 5: kasatka07 (big blind) folded before Flop
+Seat 6: Denisella folded before Flop (didn't bet)
+Seat 7: Mr_Dick666 collected ($0.25)
+Seat 8: JasonAG folded before Flop (didn't bet)
+Seat 9: ZuJIOk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183001509388:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 19:50:54 ET
+Table 'Sarin' 9-max Seat #4 is the button
+Seat 1: ollikahn23 ($10 in chips) 
+Seat 2: your_drama1 ($18.58 in chips) 
+Seat 3: Sasha Ghan ($13.88 in chips) 
+Seat 4: Velliton87 ($10.01 in chips) 
+Seat 5: kasatka07 ($17.43 in chips) 
+Seat 6: Denisella ($10 in chips) 
+Seat 7: Mr_Dick666 ($11.21 in chips) 
+Seat 8: JasonAG ($10.46 in chips) 
+kasatka07: posts small blind $0.05
+Denisella: posts big blind $0.10
+Sasha Ghan: posts small & big blinds $0.15
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2c Ah]
+Mr_Dick666: raises $0.20 to $0.30
+JasonAG: folds 
+ollikahn23: folds 
+your_drama1: calls $0.30
+Sasha Ghan: calls $0.20
+Velliton87: folds 
+kasatka07: folds 
+Denisella: folds 
+*** FLOP *** [3h Jc 9h]
+Mr_Dick666: checks 
+your_drama1: checks 
+Sasha Ghan: checks 
+*** TURN *** [3h Jc 9h] [7s]
+Mr_Dick666: checks 
+your_drama1: checks 
+Sasha Ghan: checks 
+*** RIVER *** [3h Jc 9h 7s] [Qs]
+Mr_Dick666: checks 
+your_drama1: bets $0.70
+Sasha Ghan: folds 
+Mr_Dick666: folds 
+Uncalled bet ($0.70) returned to your_drama1
+your_drama1 collected $1.05 from pot
+your_drama1: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [3h Jc 9h 7s Qs]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: your_drama1 collected ($1.05)
+Seat 3: Sasha Ghan folded on the River
+Seat 4: Velliton87 (button) folded before Flop (didn't bet)
+Seat 5: kasatka07 (small blind) folded before Flop
+Seat 6: Denisella (big blind) folded before Flop
+Seat 7: Mr_Dick666 folded on the River
+Seat 8: JasonAG folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183001540628:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 19:51:52 ET
+Table 'Sarin' 9-max Seat #5 is the button
+Seat 1: ollikahn23 ($10 in chips) 
+Seat 2: your_drama1 ($19.33 in chips) 
+Seat 3: Sasha Ghan ($13.53 in chips) 
+Seat 4: Velliton87 ($10.01 in chips) 
+Seat 5: kasatka07 ($17.38 in chips) 
+Seat 6: Denisella ($10 in chips) 
+Seat 8: JasonAG ($10.46 in chips) 
+Seat 9: ZuJIOk ($19.64 in chips) 
+Denisella: posts small blind $0.05
+Mr_Dick666: is sitting out 
+JasonAG: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7h 3c]
+Mr_Dick666 leaves the table
+ZuJIOk: folds 
+ollikahn23: folds 
+your_drama1: raises $0.10 to $0.20
+Sasha Ghan: calls $0.20
+Velliton87: folds 
+kasatka07: folds 
+Denisella: folds 
+alexandr_KLN joins the table at seat #7 
+JasonAG: raises $0.70 to $0.90
+your_drama1: folds 
+Sasha Ghan: calls $0.70
+*** FLOP *** [2s 4h 8d]
+JasonAG: bets $1
+Sasha Ghan: folds 
+Uncalled bet ($1) returned to JasonAG
+JasonAG collected $1.96 from pot
+JasonAG: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.05 | Rake $0.09 
+Board [2s 4h 8d]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: your_drama1 folded before Flop
+Seat 3: Sasha Ghan folded on the Flop
+Seat 4: Velliton87 folded before Flop (didn't bet)
+Seat 5: kasatka07 (button) folded before Flop (didn't bet)
+Seat 6: Denisella (small blind) folded before Flop
+Seat 8: JasonAG (big blind) collected ($1.96)
+Seat 9: ZuJIOk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183001569850:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 19:52:47 ET
+Table 'Sarin' 9-max Seat #6 is the button
+Seat 1: ollikahn23 ($10 in chips) 
+Seat 2: your_drama1 ($19.13 in chips) 
+Seat 3: Sasha Ghan ($12.63 in chips) 
+Seat 4: Velliton87 ($10.01 in chips) 
+Seat 5: kasatka07 ($17.38 in chips) 
+Seat 6: Denisella ($10 in chips) 
+Seat 8: JasonAG ($11.52 in chips) 
+Seat 9: ZuJIOk ($19.64 in chips) 
+alexandr_KLN will be allowed to play after the button
+JasonAG: posts small blind $0.05
+ZuJIOk: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kh 5c]
+ollikahn23: folds 
+your_drama1: folds 
+Sasha Ghan: folds 
+Sasha Ghan leaves the table
+Mr_Dick666 joins the table at seat #3 
+Velliton87: folds 
+kasatka07: raises $0.15 to $0.25
+Mr_Dick666 leaves the table
+Denisella: folds 
+JasonAG: folds 
+ZuJIOk: folds 
+Uncalled bet ($0.15) returned to kasatka07
+kasatka07 collected $0.25 from pot
+kasatka07: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: your_drama1 folded before Flop (didn't bet)
+Seat 3: Sasha Ghan folded before Flop (didn't bet)
+Seat 4: Velliton87 folded before Flop (didn't bet)
+Seat 5: kasatka07 collected ($0.25)
+Seat 6: Denisella (button) folded before Flop (didn't bet)
+Seat 8: JasonAG (small blind) folded before Flop
+Seat 9: ZuJIOk (big blind) folded before Flop
+
+
+
+PokerStars Hand #183001584340:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 19:53:14 ET
+Table 'Sarin' 9-max Seat #8 is the button
+Seat 1: ollikahn23 ($10 in chips) 
+Seat 2: your_drama1 ($19.13 in chips) 
+Seat 4: Velliton87 ($10.01 in chips) 
+Seat 5: kasatka07 ($17.53 in chips) 
+Seat 6: Denisella ($10 in chips) 
+Seat 8: JasonAG ($11.47 in chips) 
+Seat 9: ZuJIOk ($19.54 in chips) 
+ZuJIOk: posts small blind $0.05
+ollikahn23: posts big blind $0.10
+alexandr_KLN: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6s As]
+your_drama1: folds 
+Velliton87: folds 
+kasatka07: folds 
+Denisella: folds 
+JasonAG: raises $0.10 to $0.20
+ZuJIOk: folds 
+ollikahn23: calls $0.10
+*** FLOP *** [3s 6c 7d]
+ollikahn23: checks 
+JasonAG: bets $0.20
+ollikahn23: calls $0.20
+*** TURN *** [3s 6c 7d] [4h]
+ollikahn23: checks 
+JasonAG: bets $0.80
+DominatorCH joins the table at seat #3 
+ollikahn23: folds 
+Uncalled bet ($0.80) returned to JasonAG
+kasatka07 leaves the table
+JasonAG collected $0.81 from pot
+JasonAG: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0.04 
+Board [3s 6c 7d 4h]
+Seat 1: ollikahn23 (big blind) folded on the Turn
+Seat 2: your_drama1 folded before Flop (didn't bet)
+Seat 4: Velliton87 folded before Flop (didn't bet)
+Seat 5: kasatka07 folded before Flop (didn't bet)
+Seat 6: Denisella folded before Flop (didn't bet)
+Seat 8: JasonAG (button) collected ($0.81)
+Seat 9: ZuJIOk (small blind) folded before Flop
+
+
+
+PokerStars Hand #183001609808:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 19:54:01 ET
+Table 'Sarin' 9-max Seat #9 is the button
+Seat 1: ollikahn23 ($10 in chips) 
+Seat 2: your_drama1 ($19.13 in chips) 
+Seat 4: Velliton87 ($10.01 in chips) 
+Seat 6: Denisella ($10 in chips) 
+Seat 8: JasonAG ($11.88 in chips) 
+Seat 9: ZuJIOk ($19.49 in chips) 
+ollikahn23: posts small blind $0.05
+your_drama1: posts big blind $0.10
+DominatorCH: sits out 
+alexandr_KLN: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qs 5c]
+Velliton87: folds 
+Denisella: folds 
+JasonAG: raises $0.10 to $0.20
+ZuJIOk: folds 
+ollikahn23: folds 
+your_drama1: calls $0.10
+*** FLOP *** [Th Jc As]
+your_drama1: checks 
+JasonAG: bets $0.20
+your_drama1: calls $0.20
+*** TURN *** [Th Jc As] [2c]
+your_drama1: checks 
+Kezêb joins the table at seat #5 
+JasonAG: checks 
+*** RIVER *** [Th Jc As 2c] [Js]
+your_drama1: bets $0.50
+JasonAG: calls $0.50
+*** SHOW DOWN ***
+your_drama1: shows [9s 8s] (a pair of Jacks)
+JasonAG: shows [3d Ac] (two pair, Aces and Jacks)
+JasonAG collected $1.77 from pot
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.08 
+Board [Th Jc As 2c Js]
+Seat 1: ollikahn23 (small blind) folded before Flop
+Seat 2: your_drama1 (big blind) showed [9s 8s] and lost with a pair of Jacks
+Seat 4: Velliton87 folded before Flop (didn't bet)
+Seat 6: Denisella folded before Flop (didn't bet)
+Seat 8: JasonAG showed [3d Ac] and won ($1.77) with two pair, Aces and Jacks
+Seat 9: ZuJIOk (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183001633039:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 19:54:45 ET
+Table 'Sarin' 9-max Seat #1 is the button
+Seat 1: ollikahn23 ($10 in chips) 
+Seat 2: your_drama1 ($18.23 in chips) 
+Seat 3: DominatorCH ($10 in chips) 
+Seat 4: Velliton87 ($10.01 in chips) 
+Seat 6: Denisella ($10 in chips) 
+Seat 8: JasonAG ($12.75 in chips) 
+Seat 9: ZuJIOk ($19.49 in chips) 
+your_drama1: posts small blind $0.05
+DominatorCH: posts big blind $0.10
+Kezêb: sits out 
+alexandr_KLN: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6d Kd]
+Velliton87: folds 
+Denisella: folds 
+JasonAG: folds 
+ZuJIOk: raises $0.15 to $0.25
+ollikahn23: folds 
+your_drama1: folds 
+DominatorCH: folds 
+Uncalled bet ($0.15) returned to ZuJIOk
+ZuJIOk collected $0.25 from pot
+ZuJIOk: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 2: your_drama1 (small blind) folded before Flop
+Seat 3: DominatorCH (big blind) folded before Flop
+Seat 4: Velliton87 folded before Flop (didn't bet)
+Seat 6: Denisella folded before Flop (didn't bet)
+Seat 8: JasonAG folded before Flop (didn't bet)
+Seat 9: ZuJIOk collected ($0.25)
+
+
+
+PokerStars Hand #183001643841:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 19:55:05 ET
+Table 'Sarin' 9-max Seat #2 is the button
+Seat 1: ollikahn23 ($10 in chips) 
+Seat 2: your_drama1 ($18.18 in chips) 
+Seat 3: DominatorCH ($9.90 in chips) 
+Seat 4: Velliton87 ($10.01 in chips) 
+Seat 6: Denisella ($10 in chips) 
+Seat 8: JasonAG ($12.75 in chips) 
+Seat 9: ZuJIOk ($19.64 in chips) 
+DominatorCH: posts small blind $0.05
+Velliton87: posts big blind $0.10
+Kezêb: sits out 
+alexandr_KLN: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8c 2s]
+Denisella: folds 
+JasonAG: folds 
+ZuJIOk: folds 
+ollikahn23: folds 
+your_drama1: raises $0.10 to $0.20
+DominatorCH: folds 
+Velliton87: raises $0.60 to $0.80
+your_drama1: folds 
+Uncalled bet ($0.60) returned to Velliton87
+Velliton87 collected $0.45 from pot
+*** SUMMARY ***
+Total pot $0.45 | Rake $0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: your_drama1 (button) folded before Flop
+Seat 3: DominatorCH (small blind) folded before Flop
+Seat 4: Velliton87 (big blind) collected ($0.45)
+Seat 6: Denisella folded before Flop (didn't bet)
+Seat 8: JasonAG folded before Flop (didn't bet)
+Seat 9: ZuJIOk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183001656917:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 19:55:34 ET
+Table 'Sarin' 9-max Seat #3 is the button
+Seat 1: ollikahn23 ($10 in chips) 
+Seat 2: your_drama1 ($17.98 in chips) 
+Seat 3: DominatorCH ($9.85 in chips) 
+Seat 4: Velliton87 ($10.26 in chips) 
+Seat 5: Kezêb ($4.70 in chips) 
+Seat 6: Denisella ($10 in chips) 
+Seat 8: JasonAG ($12.75 in chips) 
+Seat 9: ZuJIOk ($19.64 in chips) 
+Velliton87: posts small blind $0.05
+Kezêb: posts big blind $0.10
+alexandr_KLN: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4s Ac]
+Denisella: folds 
+JasonAG: calls $0.10
+ZuJIOk: folds 
+ollikahn23: folds 
+your_drama1: folds 
+DominatorCH: folds 
+Velliton87: calls $0.05
+Kezêb: checks 
+*** FLOP *** [Jc Qd 7h]
+Velliton87: checks 
+Kezêb: bets $0.10
+JasonAG: calls $0.10
+Velliton87: folds 
+*** TURN *** [Jc Qd 7h] [5d]
+Kezêb: bets $0.10
+JasonAG: calls $0.10
+*** RIVER *** [Jc Qd 7h 5d] [Jd]
+Kezêb: bets $0.10
+JasonAG: calls $0.10
+*** SHOW DOWN ***
+Kezêb: shows [8s Qc] (two pair, Queens and Jacks)
+JasonAG: mucks hand 
+Kezêb collected $0.86 from pot
+*** SUMMARY ***
+Total pot $0.90 | Rake $0.04 
+Board [Jc Qd 7h 5d Jd]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: your_drama1 folded before Flop (didn't bet)
+Seat 3: DominatorCH (button) folded before Flop (didn't bet)
+Seat 4: Velliton87 (small blind) folded on the Flop
+Seat 5: Kezêb (big blind) showed [8s Qc] and won ($0.86) with two pair, Queens and Jacks
+Seat 6: Denisella folded before Flop (didn't bet)
+Seat 8: JasonAG mucked [9c Kc]
+Seat 9: ZuJIOk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183001683070:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 19:56:31 ET
+Table 'Sarin' 9-max Seat #4 is the button
+Seat 1: ollikahn23 ($10 in chips) 
+Seat 2: your_drama1 ($17.98 in chips) 
+Seat 3: DominatorCH ($9.85 in chips) 
+Seat 4: Velliton87 ($10.16 in chips) 
+Seat 5: Kezêb ($5.16 in chips) 
+Seat 7: alexandr_KLN ($10 in chips) 
+Seat 8: JasonAG ($12.35 in chips) 
+Seat 9: ZuJIOk ($19.64 in chips) 
+Kezêb: posts small blind $0.05
+alexandr_KLN: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ad 2s]
+JasonAG: folds 
+ZuJIOk: folds 
+ollikahn23: raises $0.25 to $0.35
+your_drama1: calls $0.35
+DominatorCH: folds 
+Velliton87: folds 
+Kezêb: folds 
+alexandr_KLN: calls $0.25
+*** FLOP *** [6c 2h 3h]
+alexandr_KLN: checks 
+ollikahn23: bets $0.60
+your_drama1: calls $0.60
+alexandr_KLN: calls $0.60
+*** TURN *** [6c 2h 3h] [7c]
+alexandr_KLN: checks 
+ollikahn23: checks 
+your_drama1: checks 
+*** RIVER *** [6c 2h 3h 7c] [5h]
+alexandr_KLN: checks 
+ollikahn23: checks 
+your_drama1: bets $2
+alexandr_KLN: folds 
+ollikahn23: folds 
+Uncalled bet ($2) returned to your_drama1
+your_drama1 collected $2.77 from pot
+your_drama1: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.90 | Rake $0.13 
+Board [6c 2h 3h 7c 5h]
+Seat 1: ollikahn23 folded on the River
+Seat 2: your_drama1 collected ($2.77)
+Seat 3: DominatorCH folded before Flop (didn't bet)
+Seat 4: Velliton87 (button) folded before Flop (didn't bet)
+Seat 5: Kezêb (small blind) folded before Flop
+Seat 7: alexandr_KLN (big blind) folded on the River
+Seat 8: JasonAG folded before Flop (didn't bet)
+Seat 9: ZuJIOk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183001721062:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 19:57:54 ET
+Table 'Sarin' 9-max Seat #5 is the button
+Seat 1: ollikahn23 ($10 in chips) 
+Seat 2: your_drama1 ($19.80 in chips) 
+Seat 3: DominatorCH ($9.85 in chips) 
+Seat 4: Velliton87 ($10.16 in chips) 
+Seat 5: Kezêb ($5.11 in chips) 
+Seat 7: alexandr_KLN ($10 in chips) 
+Seat 8: JasonAG ($12.35 in chips) 
+Seat 9: ZuJIOk ($19.64 in chips) 
+alexandr_KLN: posts small blind $0.05
+JasonAG: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3c Js]
+ZuJIOk: folds 
+ollikahn23: folds 
+your_drama1: folds 
+DominatorCH: folds 
+Velliton87: folds 
+Kezêb: calls $0.10
+alexandr_KLN: folds 
+JasonAG: checks 
+*** FLOP *** [5h Kc Ah]
+JasonAG: checks 
+Kezêb: checks 
+*** TURN *** [5h Kc Ah] [Qh]
+JasonAG: bets $0.10
+Kezêb: calls $0.10
+*** RIVER *** [5h Kc Ah Qh] [7d]
+JasonAG: bets $0.20
+Kezêb: folds 
+Uncalled bet ($0.20) returned to JasonAG
+JasonAG collected $0.43 from pot
+JasonAG: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [5h Kc Ah Qh 7d]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: your_drama1 folded before Flop (didn't bet)
+Seat 3: DominatorCH folded before Flop (didn't bet)
+Seat 4: Velliton87 folded before Flop (didn't bet)
+Seat 5: Kezêb (button) folded on the River
+Seat 7: alexandr_KLN (small blind) folded before Flop
+Seat 8: JasonAG (big blind) collected ($0.43)
+Seat 9: ZuJIOk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183001749646:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 19:58:56 ET
+Table 'Sarin' 9-max Seat #7 is the button
+Seat 1: ollikahn23 ($10 in chips) 
+Seat 2: your_drama1 ($19.80 in chips) 
+Seat 3: DominatorCH ($9.85 in chips) 
+Seat 4: Velliton87 ($10.16 in chips) 
+Seat 5: Kezêb ($4.91 in chips) 
+Seat 7: alexandr_KLN ($10 in chips) 
+Seat 8: JasonAG ($12.58 in chips) 
+Seat 9: ZuJIOk ($19.64 in chips) 
+JasonAG: posts small blind $0.05
+ZuJIOk: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7d 5c]
+ollikahn23: folds 
+your_drama1: folds 
+DominatorCH: folds 
+Velliton87: folds 
+Kezêb: calls $0.10
+alexandr_KLN: raises $0.20 to $0.30
+JasonAG: folds 
+ZuJIOk: folds 
+Kezêb: calls $0.20
+*** FLOP *** [9h 3s Ad]
+Kezêb: checks 
+alexandr_KLN: checks 
+*** TURN *** [9h 3s Ad] [6s]
+Kezêb: bets $0.36
+alexandr_KLN: calls $0.36
+*** RIVER *** [9h 3s Ad 6s] [Tc]
+Kezêb: bets $0.50
+alexandr_KLN: raises $1.80 to $2.30
+Kezêb: folds 
+Uncalled bet ($1.80) returned to alexandr_KLN
+alexandr_KLN collected $2.36 from pot
+*** SUMMARY ***
+Total pot $2.47 | Rake $0.11 
+Board [9h 3s Ad 6s Tc]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: your_drama1 folded before Flop (didn't bet)
+Seat 3: DominatorCH folded before Flop (didn't bet)
+Seat 4: Velliton87 folded before Flop (didn't bet)
+Seat 5: Kezêb folded on the River
+Seat 7: alexandr_KLN (button) collected ($2.36)
+Seat 8: JasonAG (small blind) folded before Flop
+Seat 9: ZuJIOk (big blind) folded before Flop
+
+
+
+PokerStars Hand #183001789410:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:00:22 ET
+Table 'Sarin' 9-max Seat #8 is the button
+Seat 1: ollikahn23 ($10 in chips) 
+Seat 2: your_drama1 ($19.80 in chips) 
+Seat 3: DominatorCH ($9.85 in chips) 
+Seat 4: Velliton87 ($10.16 in chips) 
+Seat 5: Kezêb ($3.75 in chips) 
+Seat 7: alexandr_KLN ($11.20 in chips) 
+Seat 8: JasonAG ($12.53 in chips) 
+Seat 9: ZuJIOk ($19.54 in chips) 
+ZuJIOk: posts small blind $0.05
+ollikahn23: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4h Kh]
+your_drama1: folds 
+DominatorCH: folds 
+Velliton87: folds 
+Kezêb: folds 
+alexandr_KLN: raises $0.20 to $0.30
+JasonAG: folds 
+ZuJIOk: folds 
+ollikahn23: folds 
+Uncalled bet ($0.20) returned to alexandr_KLN
+alexandr_KLN collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: ollikahn23 (big blind) folded before Flop
+Seat 2: your_drama1 folded before Flop (didn't bet)
+Seat 3: DominatorCH folded before Flop (didn't bet)
+Seat 4: Velliton87 folded before Flop (didn't bet)
+Seat 5: Kezêb folded before Flop (didn't bet)
+Seat 7: alexandr_KLN collected ($0.25)
+Seat 8: JasonAG (button) folded before Flop (didn't bet)
+Seat 9: ZuJIOk (small blind) folded before Flop
+
+
+
+PokerStars Hand #183001802225:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:00:49 ET
+Table 'Sarin' 9-max Seat #9 is the button
+Seat 1: ollikahn23 ($10 in chips) 
+Seat 2: your_drama1 ($19.80 in chips) 
+Seat 3: DominatorCH ($9.85 in chips) 
+Seat 4: Velliton87 ($10.16 in chips) 
+Seat 5: Kezêb ($3.75 in chips) 
+Seat 7: alexandr_KLN ($11.35 in chips) 
+Seat 8: JasonAG ($12.53 in chips) 
+Seat 9: ZuJIOk ($19.49 in chips) 
+ollikahn23: posts small blind $0.05
+your_drama1: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8s Kc]
+DominatorCH: folds 
+Velliton87: folds 
+Kezêb: folds 
+alexandr_KLN: folds 
+JasonAG: raises $0.20 to $0.30
+ZuJIOk: folds 
+ollikahn23: folds 
+your_drama1: folds 
+Uncalled bet ($0.20) returned to JasonAG
+JasonAG collected $0.25 from pot
+JasonAG: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: ollikahn23 (small blind) folded before Flop
+Seat 2: your_drama1 (big blind) folded before Flop
+Seat 3: DominatorCH folded before Flop (didn't bet)
+Seat 4: Velliton87 folded before Flop (didn't bet)
+Seat 5: Kezêb folded before Flop (didn't bet)
+Seat 7: alexandr_KLN folded before Flop (didn't bet)
+Seat 8: JasonAG collected ($0.25)
+Seat 9: ZuJIOk (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183001821596:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:01:27 ET
+Table 'Sarin' 9-max Seat #1 is the button
+Seat 1: ollikahn23 ($10 in chips) 
+Seat 2: your_drama1 ($19.70 in chips) 
+Seat 3: DominatorCH ($9.85 in chips) 
+Seat 4: Velliton87 ($10.16 in chips) 
+Seat 5: Kezêb ($3.75 in chips) 
+Seat 7: alexandr_KLN ($11.35 in chips) 
+Seat 8: JasonAG ($12.68 in chips) 
+Seat 9: ZuJIOk ($19.49 in chips) 
+your_drama1: posts small blind $0.05
+DominatorCH: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6h 8c]
+Velliton87: raises $0.15 to $0.25
+Kezêb: folds 
+alexandr_KLN: folds 
+JasonAG: folds 
+ZuJIOk: folds 
+ollikahn23: folds 
+your_drama1: folds 
+DominatorCH: calls $0.15
+*** FLOP *** [Kh Kc As]
+DominatorCH: checks 
+Velliton87: checks 
+*** TURN *** [Kh Kc As] [Td]
+DominatorCH: bets $0.30
+Velliton87: folds 
+Uncalled bet ($0.30) returned to DominatorCH
+DominatorCH collected $0.53 from pot
+DominatorCH: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [Kh Kc As Td]
+Seat 1: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 2: your_drama1 (small blind) folded before Flop
+Seat 3: DominatorCH (big blind) collected ($0.53)
+Seat 4: Velliton87 folded on the Turn
+Seat 5: Kezêb folded before Flop (didn't bet)
+Seat 7: alexandr_KLN folded before Flop (didn't bet)
+Seat 8: JasonAG folded before Flop (didn't bet)
+Seat 9: ZuJIOk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183001846860:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:02:16 ET
+Table 'Sarin' 9-max Seat #2 is the button
+Seat 1: ollikahn23 ($10 in chips) 
+Seat 2: your_drama1 ($19.65 in chips) 
+Seat 3: DominatorCH ($10.13 in chips) 
+Seat 4: Velliton87 ($10 in chips) 
+Seat 5: Kezêb ($3.75 in chips) 
+Seat 7: alexandr_KLN ($11.35 in chips) 
+Seat 8: JasonAG ($12.68 in chips) 
+Seat 9: ZuJIOk ($19.49 in chips) 
+DominatorCH: posts small blind $0.05
+Velliton87: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ac 4s]
+Kezêb: folds 
+alexandr_KLN: folds 
+JasonAG: folds 
+ZuJIOk: folds 
+ollikahn23: raises $0.15 to $0.25
+your_drama1: folds 
+DominatorCH: folds 
+Velliton87: folds 
+Uncalled bet ($0.15) returned to ollikahn23
+ollikahn23 collected $0.25 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: ollikahn23 collected ($0.25)
+Seat 2: your_drama1 (button) folded before Flop (didn't bet)
+Seat 3: DominatorCH (small blind) folded before Flop
+Seat 4: Velliton87 (big blind) folded before Flop
+Seat 5: Kezêb folded before Flop (didn't bet)
+Seat 7: alexandr_KLN folded before Flop (didn't bet)
+Seat 8: JasonAG folded before Flop (didn't bet)
+Seat 9: ZuJIOk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183001866183:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:02:53 ET
+Table 'Sarin' 9-max Seat #3 is the button
+Seat 1: ollikahn23 ($10.15 in chips) 
+Seat 2: your_drama1 ($19.65 in chips) 
+Seat 3: DominatorCH ($10.08 in chips) 
+Seat 4: Velliton87 ($10 in chips) 
+Seat 5: Kezêb ($3.75 in chips) 
+Seat 7: alexandr_KLN ($11.35 in chips) 
+Seat 8: JasonAG ($12.68 in chips) 
+Seat 9: ZuJIOk ($19.49 in chips) 
+Velliton87: posts small blind $0.05
+Kezêb: posts big blind $0.10
+Denisella: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kh 7h]
+alexandr_KLN: folds 
+JasonAG: raises $0.20 to $0.30
+ZuJIOk: folds 
+ollikahn23: folds 
+your_drama1: folds 
+DominatorCH: folds 
+Velliton87: folds 
+Kezêb: folds 
+Uncalled bet ($0.20) returned to JasonAG
+JasonAG collected $0.25 from pot
+JasonAG: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: your_drama1 folded before Flop (didn't bet)
+Seat 3: DominatorCH (button) folded before Flop (didn't bet)
+Seat 4: Velliton87 (small blind) folded before Flop
+Seat 5: Kezêb (big blind) folded before Flop
+Seat 7: alexandr_KLN folded before Flop (didn't bet)
+Seat 8: JasonAG collected ($0.25)
+Seat 9: ZuJIOk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183001885875:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:03:31 ET
+Table 'Sarin' 9-max Seat #4 is the button
+Seat 1: ollikahn23 ($10.15 in chips) 
+Seat 2: your_drama1 ($19.65 in chips) 
+Seat 3: DominatorCH ($10.08 in chips) 
+Seat 4: Velliton87 ($10 in chips) 
+Seat 5: Kezêb ($3.65 in chips) 
+Seat 6: Denisella ($10 in chips) 
+Seat 7: alexandr_KLN ($11.35 in chips) 
+Seat 8: JasonAG ($12.83 in chips) 
+Seat 9: ZuJIOk ($19.49 in chips) 
+Kezêb: posts small blind $0.05
+Denisella: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3d 5c]
+alexandr_KLN: raises $0.20 to $0.30
+JasonAG: calls $0.30
+ZuJIOk: folds 
+ollikahn23: folds 
+your_drama1: calls $0.30
+DominatorCH: folds 
+Velliton87: folds 
+Kezêb: folds 
+Denisella: folds 
+*** FLOP *** [Kd 4d 3h]
+alexandr_KLN: checks 
+JasonAG: checks 
+your_drama1: bets $0.70
+alexandr_KLN: folds 
+JasonAG: calls $0.70
+*** TURN *** [Kd 4d 3h] [Qd]
+JasonAG: checks 
+your_drama1: checks 
+*** RIVER *** [Kd 4d 3h Qd] [Qs]
+JasonAG: bets $1.10
+your_drama1: folds 
+Uncalled bet ($1.10) returned to JasonAG
+JasonAG collected $2.34 from pot
+JasonAG: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.45 | Rake $0.11 
+Board [Kd 4d 3h Qd Qs]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: your_drama1 folded on the River
+Seat 3: DominatorCH folded before Flop (didn't bet)
+Seat 4: Velliton87 (button) folded before Flop (didn't bet)
+Seat 5: Kezêb (small blind) folded before Flop
+Seat 6: Denisella (big blind) folded before Flop
+Seat 7: alexandr_KLN folded on the Flop
+Seat 8: JasonAG collected ($2.34)
+Seat 9: ZuJIOk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183001926925:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:04:49 ET
+Table 'Sarin' 9-max Seat #5 is the button
+Seat 1: ollikahn23 ($10.15 in chips) 
+Seat 2: your_drama1 ($18.65 in chips) 
+Seat 3: DominatorCH ($10.08 in chips) 
+Seat 4: Velliton87 ($10 in chips) 
+Seat 5: Kezêb ($3.60 in chips) 
+Seat 6: Denisella ($10 in chips) 
+Seat 7: alexandr_KLN ($11.05 in chips) 
+Seat 8: JasonAG ($14.17 in chips) 
+Seat 9: ZuJIOk ($19.49 in chips) 
+Denisella: posts small blind $0.05
+alexandr_KLN: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6c Ac]
+JasonAG: calls $0.10
+ZuJIOk: folds 
+ollikahn23: calls $0.10
+your_drama1: folds 
+DominatorCH: folds 
+Velliton87: calls $0.10
+Kezêb: calls $0.10
+Denisella: calls $0.05
+alexandr_KLN: checks 
+*** FLOP *** [Kd 3h 2h]
+Denisella: bets $0.38
+alexandr_KLN: folds 
+JasonAG: folds 
+ollikahn23: folds 
+Velliton87: folds 
+Kezêb: folds 
+Uncalled bet ($0.38) returned to Denisella
+Denisella collected $0.57 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [Kd 3h 2h]
+Seat 1: ollikahn23 folded on the Flop
+Seat 2: your_drama1 folded before Flop (didn't bet)
+Seat 3: DominatorCH folded before Flop (didn't bet)
+Seat 4: Velliton87 folded on the Flop
+Seat 5: Kezêb (button) folded on the Flop
+Seat 6: Denisella (small blind) collected ($0.57)
+Seat 7: alexandr_KLN (big blind) folded on the Flop
+Seat 8: JasonAG folded on the Flop
+Seat 9: ZuJIOk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183001958356:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:05:49 ET
+Table 'Sarin' 9-max Seat #6 is the button
+Seat 1: ollikahn23 ($10.05 in chips) 
+Seat 2: your_drama1 ($18.65 in chips) 
+Seat 3: DominatorCH ($10.08 in chips) 
+Seat 4: Velliton87 ($10 in chips) 
+Seat 5: Kezêb ($3.50 in chips) 
+Seat 6: Denisella ($10.47 in chips) 
+Seat 7: alexandr_KLN ($10.95 in chips) 
+Seat 8: JasonAG ($14.07 in chips) 
+Seat 9: ZuJIOk ($19.49 in chips) 
+alexandr_KLN: posts small blind $0.05
+JasonAG: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3s 8h]
+ZuJIOk: folds 
+ollikahn23: folds 
+your_drama1: folds 
+DominatorCH: folds 
+Velliton87: folds 
+Kezêb: folds 
+Denisella: raises $0.11 to $0.21
+alexandr_KLN: folds 
+JasonAG: folds 
+Uncalled bet ($0.11) returned to Denisella
+Denisella collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: your_drama1 folded before Flop (didn't bet)
+Seat 3: DominatorCH folded before Flop (didn't bet)
+Seat 4: Velliton87 folded before Flop (didn't bet)
+Seat 5: Kezêb folded before Flop (didn't bet)
+Seat 6: Denisella (button) collected ($0.25)
+Seat 7: alexandr_KLN (small blind) folded before Flop
+Seat 8: JasonAG (big blind) folded before Flop
+Seat 9: ZuJIOk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183001976808:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:06:25 ET
+Table 'Sarin' 9-max Seat #7 is the button
+Seat 1: ollikahn23 ($10.05 in chips) 
+Seat 2: your_drama1 ($18.65 in chips) 
+Seat 3: DominatorCH ($10.08 in chips) 
+Seat 4: Velliton87 ($10 in chips) 
+Seat 5: Kezêb ($3.50 in chips) 
+Seat 6: Denisella ($10.62 in chips) 
+Seat 7: alexandr_KLN ($10.90 in chips) 
+Seat 8: JasonAG ($13.97 in chips) 
+Seat 9: ZuJIOk ($19.49 in chips) 
+JasonAG: posts small blind $0.05
+ZuJIOk: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Tc 8c]
+ollikahn23: folds 
+your_drama1: folds 
+DominatorCH: folds 
+Velliton87: folds 
+Kezêb: folds 
+Denisella: folds 
+alexandr_KLN: raises $0.20 to $0.30
+JasonAG: folds 
+ZuJIOk: raises $0.65 to $0.95
+alexandr_KLN: raises $1.25 to $2.20
+ZuJIOk: folds 
+Uncalled bet ($1.25) returned to alexandr_KLN
+alexandr_KLN collected $1.95 from pot
+*** SUMMARY ***
+Total pot $1.95 | Rake $0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: your_drama1 folded before Flop (didn't bet)
+Seat 3: DominatorCH folded before Flop (didn't bet)
+Seat 4: Velliton87 folded before Flop (didn't bet)
+Seat 5: Kezêb folded before Flop (didn't bet)
+Seat 6: Denisella folded before Flop (didn't bet)
+Seat 7: alexandr_KLN (button) collected ($1.95)
+Seat 8: JasonAG (small blind) folded before Flop
+Seat 9: ZuJIOk (big blind) folded before Flop
+
+
+
+PokerStars Hand #183002003648:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:07:17 ET
+Table 'Sarin' 9-max Seat #8 is the button
+Seat 1: ollikahn23 ($10.05 in chips) 
+Seat 2: your_drama1 ($18.65 in chips) 
+Seat 3: DominatorCH ($10.08 in chips) 
+Seat 4: Velliton87 ($10 in chips) 
+Seat 5: Kezêb ($3.50 in chips) 
+Seat 6: Denisella ($10.62 in chips) 
+Seat 7: alexandr_KLN ($11.90 in chips) 
+Seat 8: JasonAG ($13.92 in chips) 
+Seat 9: ZuJIOk ($18.54 in chips) 
+ZuJIOk: posts small blind $0.05
+ollikahn23: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3s As]
+your_drama1 has timed out
+your_drama1: folds 
+DominatorCH: folds 
+Velliton87: folds 
+Kezêb: calls $0.10
+Denisella: folds 
+alexandr_KLN: folds 
+JasonAG: calls $0.10
+ZuJIOk: folds 
+ollikahn23: checks 
+*** FLOP *** [Ts Qs 9s]
+ollikahn23: checks 
+Kezêb: checks 
+JasonAG: bets $0.20
+ollikahn23: calls $0.20
+Kezêb: folds 
+*** TURN *** [Ts Qs 9s] [6h]
+ollikahn23: bets $0.50
+JasonAG: folds 
+Uncalled bet ($0.50) returned to ollikahn23
+ollikahn23 collected $0.72 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [Ts Qs 9s 6h]
+Seat 1: ollikahn23 (big blind) collected ($0.72)
+Seat 2: your_drama1 folded before Flop (didn't bet)
+Seat 3: DominatorCH folded before Flop (didn't bet)
+Seat 4: Velliton87 folded before Flop (didn't bet)
+Seat 5: Kezêb folded on the Flop
+Seat 6: Denisella folded before Flop (didn't bet)
+Seat 7: alexandr_KLN folded before Flop (didn't bet)
+Seat 8: JasonAG (button) folded on the Turn
+Seat 9: ZuJIOk (small blind) folded before Flop
+
+
+
+PokerStars Hand #183002036095:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:08:20 ET
+Table 'Sarin' 9-max Seat #9 is the button
+Seat 1: ollikahn23 ($10.47 in chips) 
+Seat 3: DominatorCH ($10.08 in chips) 
+Seat 4: Velliton87 ($10 in chips) 
+Seat 5: Kezêb ($3.40 in chips) 
+Seat 6: Denisella ($10.62 in chips) 
+Seat 7: alexandr_KLN ($11.90 in chips) 
+Seat 8: JasonAG ($13.62 in chips) 
+Seat 9: ZuJIOk ($18.49 in chips) 
+ollikahn23: posts small blind $0.05
+DominatorCH: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9s 8c]
+Velliton87: folds 
+Kezêb: folds 
+Denisella: folds 
+alexandr_KLN: raises $0.20 to $0.30
+JasonAG: folds 
+ZuJIOk: folds 
+ollikahn23: folds 
+DominatorCH: folds 
+Uncalled bet ($0.20) returned to alexandr_KLN
+alexandr_KLN collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: ollikahn23 (small blind) folded before Flop
+Seat 3: DominatorCH (big blind) folded before Flop
+Seat 4: Velliton87 folded before Flop (didn't bet)
+Seat 5: Kezêb folded before Flop (didn't bet)
+Seat 6: Denisella folded before Flop (didn't bet)
+Seat 7: alexandr_KLN collected ($0.25)
+Seat 8: JasonAG folded before Flop (didn't bet)
+Seat 9: ZuJIOk (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183002048550:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:08:44 ET
+Table 'Sarin' 9-max Seat #1 is the button
+Seat 1: ollikahn23 ($10.42 in chips) 
+Seat 3: DominatorCH ($9.98 in chips) 
+Seat 4: Velliton87 ($10 in chips) 
+Seat 5: Kezêb ($3.40 in chips) 
+Seat 6: Denisella ($10.62 in chips) 
+Seat 7: alexandr_KLN ($12.05 in chips) 
+Seat 8: JasonAG ($13.62 in chips) 
+Seat 9: ZuJIOk ($18.49 in chips) 
+DominatorCH: posts small blind $0.05
+Velliton87: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8c 3c]
+Kezêb: folds 
+Denisella: folds 
+alexandr_KLN: folds 
+JasonAG: folds 
+ZuJIOk: folds 
+ollikahn23: folds 
+DominatorCH: raises $0.10 to $0.20
+Velliton87: folds 
+Uncalled bet ($0.10) returned to DominatorCH
+DominatorCH collected $0.20 from pot
+DominatorCH: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 3: DominatorCH (small blind) collected ($0.20)
+Seat 4: Velliton87 (big blind) folded before Flop
+Seat 5: Kezêb folded before Flop (didn't bet)
+Seat 6: Denisella folded before Flop (didn't bet)
+Seat 7: alexandr_KLN folded before Flop (didn't bet)
+Seat 8: JasonAG folded before Flop (didn't bet)
+Seat 9: ZuJIOk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183002059882:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:09:06 ET
+Table 'Sarin' 9-max Seat #3 is the button
+Seat 1: ollikahn23 ($10.42 in chips) 
+Seat 3: DominatorCH ($10.08 in chips) 
+Seat 4: Velliton87 ($10 in chips) 
+Seat 5: Kezêb ($3.40 in chips) 
+Seat 6: Denisella ($10.62 in chips) 
+Seat 7: alexandr_KLN ($12.05 in chips) 
+Seat 8: JasonAG ($13.62 in chips) 
+Seat 9: ZuJIOk ($18.49 in chips) 
+Velliton87: posts small blind $0.05
+Kezêb: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5s 2h]
+Denisella: folds 
+alexandr_KLN: folds 
+JasonAG: folds 
+ZuJIOk: folds 
+ollikahn23: folds 
+DominatorCH: raises $0.20 to $0.30
+Velliton87: folds 
+Kezêb: folds 
+Uncalled bet ($0.20) returned to DominatorCH
+DominatorCH collected $0.25 from pot
+DominatorCH: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 3: DominatorCH (button) collected ($0.25)
+Seat 4: Velliton87 (small blind) folded before Flop
+Seat 5: Kezêb (big blind) folded before Flop
+Seat 6: Denisella folded before Flop (didn't bet)
+Seat 7: alexandr_KLN folded before Flop (didn't bet)
+Seat 8: JasonAG folded before Flop (didn't bet)
+Seat 9: ZuJIOk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183002073973:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:09:35 ET
+Table 'Sarin' 9-max Seat #4 is the button
+Seat 1: ollikahn23 ($10.42 in chips) 
+Seat 3: DominatorCH ($10.23 in chips) 
+Seat 4: Velliton87 ($10 in chips) 
+Seat 5: Kezêb ($3.30 in chips) 
+Seat 6: Denisella ($10.62 in chips) 
+Seat 7: alexandr_KLN ($12.05 in chips) 
+Seat 8: JasonAG ($13.62 in chips) 
+Seat 9: ZuJIOk ($18.49 in chips) 
+Kezêb: posts small blind $0.05
+Denisella: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4h Qs]
+alexandr_KLN: folds 
+JasonAG: folds 
+ZuJIOk: raises $0.20 to $0.30
+ollikahn23: folds 
+DominatorCH: calls $0.30
+Velliton87: folds 
+Kezêb: folds 
+Denisella: raises $1.20 to $1.50
+ZuJIOk: folds 
+DominatorCH: folds 
+Uncalled bet ($1.20) returned to Denisella
+Denisella collected $0.95 from pot
+*** SUMMARY ***
+Total pot $0.95 | Rake $0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 3: DominatorCH folded before Flop
+Seat 4: Velliton87 (button) folded before Flop (didn't bet)
+Seat 5: Kezêb (small blind) folded before Flop
+Seat 6: Denisella (big blind) collected ($0.95)
+Seat 7: alexandr_KLN folded before Flop (didn't bet)
+Seat 8: JasonAG folded before Flop (didn't bet)
+Seat 9: ZuJIOk folded before Flop
+
+
+
+PokerStars Hand #183002095074:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:10:16 ET
+Table 'Sarin' 9-max Seat #5 is the button
+Seat 1: ollikahn23 ($10.42 in chips) 
+Seat 3: DominatorCH ($9.93 in chips) 
+Seat 4: Velliton87 ($10 in chips) 
+Seat 5: Kezêb ($3.25 in chips) 
+Seat 6: Denisella ($11.27 in chips) 
+Seat 7: alexandr_KLN ($12.05 in chips) 
+Seat 8: JasonAG ($13.62 in chips) 
+Seat 9: ZuJIOk ($18.19 in chips) 
+Denisella: posts small blind $0.05
+alexandr_KLN: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ac Th]
+JasonAG: raises $0.30 to $0.40
+ZuJIOk: folds 
+ollikahn23: folds 
+DominatorCH: folds 
+Velliton87: folds 
+Kezêb: folds 
+Denisella: folds 
+alexandr_KLN: folds 
+Uncalled bet ($0.30) returned to JasonAG
+JasonAG collected $0.25 from pot
+JasonAG: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 3: DominatorCH folded before Flop (didn't bet)
+Seat 4: Velliton87 folded before Flop (didn't bet)
+Seat 5: Kezêb (button) folded before Flop (didn't bet)
+Seat 6: Denisella (small blind) folded before Flop
+Seat 7: alexandr_KLN (big blind) folded before Flop
+Seat 8: JasonAG collected ($0.25)
+Seat 9: ZuJIOk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183002112776:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:10:50 ET
+Table 'Sarin' 9-max Seat #6 is the button
+Seat 1: ollikahn23 ($10.42 in chips) 
+Seat 3: DominatorCH ($9.93 in chips) 
+Seat 4: Velliton87 ($10 in chips) 
+Seat 5: Kezêb ($3.25 in chips) 
+Seat 6: Denisella ($11.22 in chips) 
+Seat 7: alexandr_KLN ($11.95 in chips) 
+Seat 8: JasonAG ($13.77 in chips) 
+Seat 9: ZuJIOk ($18.19 in chips) 
+alexandr_KLN: posts small blind $0.05
+JasonAG: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jd Js]
+ZuJIOk: folds 
+ollikahn23: raises $0.20 to $0.30
+DominatorCH: folds 
+Velliton87: folds 
+Kezêb: folds 
+Denisella: folds 
+alexandr_KLN: raises $0.70 to $1
+JasonAG: calls $0.90
+ollikahn23: calls $0.70
+*** FLOP *** [Kd Kc 8c]
+alexandr_KLN: checks 
+JasonAG: checks 
+ollikahn23: checks 
+*** TURN *** [Kd Kc 8c] [2s]
+alexandr_KLN: checks 
+JasonAG: bets $1.40
+ollikahn23: folds 
+alexandr_KLN: calls $1.40
+*** RIVER *** [Kd Kc 8c 2s] [6c]
+alexandr_KLN: checks 
+JasonAG: checks 
+*** SHOW DOWN ***
+alexandr_KLN: shows [Qc Qd] (two pair, Kings and Queens)
+JasonAG: mucks hand 
+alexandr_KLN collected $5.54 from pot
+*** SUMMARY ***
+Total pot $5.80 | Rake $0.26 
+Board [Kd Kc 8c 2s 6c]
+Seat 1: ollikahn23 folded on the Turn
+Seat 3: DominatorCH folded before Flop (didn't bet)
+Seat 4: Velliton87 folded before Flop (didn't bet)
+Seat 5: Kezêb folded before Flop (didn't bet)
+Seat 6: Denisella (button) folded before Flop (didn't bet)
+Seat 7: alexandr_KLN (small blind) showed [Qc Qd] and won ($5.54) with two pair, Kings and Queens
+Seat 8: JasonAG (big blind) mucked [9d 9h]
+Seat 9: ZuJIOk folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183002158896:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:12:19 ET
+Table 'Sarin' 9-max Seat #7 is the button
+Seat 1: ollikahn23 ($10 in chips) 
+Seat 3: DominatorCH ($9.93 in chips) 
+Seat 4: Velliton87 ($10 in chips) 
+Seat 5: Kezêb ($3.25 in chips) 
+Seat 6: Denisella ($11.22 in chips) 
+Seat 7: alexandr_KLN ($15.09 in chips) 
+Seat 8: JasonAG ($11.37 in chips) 
+JasonAG: posts small blind $0.05
+ZuJIOk: is sitting out 
+ollikahn23: posts big blind $0.10
+ZuJIOk leaves the table
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3d Ad]
+'I'arantino9 joins the table at seat #9 
+DominatorCH has timed out
+DominatorCH: folds 
+Velliton87: raises $0.15 to $0.25
+Kezêb: folds 
+Denisella: folds 
+alexandr_KLN: folds 
+JasonAG: folds 
+ollikahn23: folds 
+Uncalled bet ($0.15) returned to Velliton87
+JasonAG leaves the table
+Velliton87 collected $0.25 from pot
+Haller59 joins the table at seat #8 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: ollikahn23 (big blind) folded before Flop
+Seat 3: DominatorCH folded before Flop (didn't bet)
+Seat 4: Velliton87 collected ($0.25)
+Seat 5: Kezêb folded before Flop (didn't bet)
+Seat 6: Denisella folded before Flop (didn't bet)
+Seat 7: alexandr_KLN (button) folded before Flop (didn't bet)
+Seat 8: JasonAG (small blind) folded before Flop
+
+
+
+PokerStars Hand #183002177201:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:12:56 ET
+Table 'Sarin' 9-max Seat #1 is the button
+Seat 1: ollikahn23 ($10 in chips) 
+Seat 3: DominatorCH ($9.93 in chips) 
+Seat 4: Velliton87 ($10.15 in chips) 
+Seat 5: Kezêb ($3.25 in chips) 
+Seat 6: Denisella ($11.22 in chips) 
+Seat 7: alexandr_KLN ($15.09 in chips) 
+DominatorCH: posts small blind $0.05
+Velliton87: posts big blind $0.10
+Haller59: sits out 
+'I'arantino9: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3d 9h]
+Kezêb: folds 
+Denisella: folds 
+alexandr_KLN: raises $0.20 to $0.30
+ollikahn23: folds 
+DominatorCH: calls $0.25
+Velliton87: calls $0.20
+*** FLOP *** [2h Tc 6c]
+DominatorCH: bets $0.43
+Velliton87: folds 
+alexandr_KLN: raises $0.86 to $1.29
+DominatorCH: folds 
+Uncalled bet ($0.86) returned to alexandr_KLN
+alexandr_KLN collected $1.68 from pot
+*** SUMMARY ***
+Total pot $1.76 | Rake $0.08 
+Board [2h Tc 6c]
+Seat 1: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 3: DominatorCH (small blind) folded on the Flop
+Seat 4: Velliton87 (big blind) folded on the Flop
+Seat 5: Kezêb folded before Flop (didn't bet)
+Seat 6: Denisella folded before Flop (didn't bet)
+Seat 7: alexandr_KLN collected ($1.68)
+
+
+
+PokerStars Hand #183002198568:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:13:38 ET
+Table 'Sarin' 9-max Seat #3 is the button
+Seat 1: ollikahn23 ($10 in chips) 
+Seat 3: DominatorCH ($9.20 in chips) 
+Seat 4: Velliton87 ($10 in chips) 
+Seat 5: Kezêb ($3.25 in chips) 
+Seat 6: Denisella ($11.22 in chips) 
+Seat 7: alexandr_KLN ($16.04 in chips) 
+Velliton87: posts small blind $0.05
+Kezêb: posts big blind $0.10
+Haller59: sits out 
+'I'arantino9: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kc 6d]
+Denisella: folds 
+Denisella leaves the table
+alexandr_KLN: folds 
+mikeliketool joins the table at seat #6 
+ollikahn23: folds 
+DominatorCH: folds 
+Velliton87: raises $0.15 to $0.25
+Kezêb: folds 
+Uncalled bet ($0.15) returned to Velliton87
+Velliton87 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 3: DominatorCH (button) folded before Flop (didn't bet)
+Seat 4: Velliton87 (small blind) collected ($0.20)
+Seat 5: Kezêb (big blind) folded before Flop
+Seat 6: Denisella folded before Flop (didn't bet)
+Seat 7: alexandr_KLN folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183002212949:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:14:06 ET
+Table 'Sarin' 9-max Seat #4 is the button
+Seat 1: ollikahn23 ($10 in chips) 
+Seat 3: DominatorCH ($9.20 in chips) 
+Seat 4: Velliton87 ($10.10 in chips) 
+Seat 5: Kezêb ($3.15 in chips) 
+Seat 6: mikeliketool ($10 in chips) 
+Seat 7: alexandr_KLN ($16.04 in chips) 
+Kezêb: posts small blind $0.05
+mikeliketool: posts big blind $0.10
+Haller59: sits out 
+'I'arantino9: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2h Td]
+alexandr_KLN has timed out
+alexandr_KLN: folds 
+ollikahn23: folds 
+DominatorCH: folds 
+Velliton87: folds 
+Kezêb: folds 
+Uncalled bet ($0.05) returned to mikeliketool
+mikeliketool collected $0.10 from pot
+mikeliketool: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 3: DominatorCH folded before Flop (didn't bet)
+Seat 4: Velliton87 (button) folded before Flop (didn't bet)
+Seat 5: Kezêb (small blind) folded before Flop
+Seat 6: mikeliketool (big blind) collected ($0.10)
+Seat 7: alexandr_KLN folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183002225986:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:14:32 ET
+Table 'Sarin' 9-max Seat #5 is the button
+Seat 1: ollikahn23 ($10 in chips) 
+Seat 3: DominatorCH ($9.20 in chips) 
+Seat 4: Velliton87 ($10.10 in chips) 
+Seat 5: Kezêb ($3.10 in chips) 
+Seat 6: mikeliketool ($10.05 in chips) 
+Seat 8: Haller59 ($10 in chips) 
+mikeliketool: posts small blind $0.05
+Haller59: posts big blind $0.10
+'I'arantino9: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7c Jh]
+ollikahn23: folds 
+DominatorCH: folds 
+Velliton87: raises $0.15 to $0.25
+Kezêb: folds 
+mikeliketool: folds 
+Haller59: raises $0.65 to $0.90
+Velliton87: folds 
+Uncalled bet ($0.65) returned to Haller59
+Haller59 collected $0.55 from pot
+Haller59: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 3: DominatorCH folded before Flop (didn't bet)
+Seat 4: Velliton87 folded before Flop
+Seat 5: Kezêb (button) folded before Flop (didn't bet)
+Seat 6: mikeliketool (small blind) folded before Flop
+Seat 8: Haller59 (big blind) collected ($0.55)
+
+
+
+PokerStars Hand #183002240360:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:15:01 ET
+Table 'Sarin' 9-max Seat #6 is the button
+Seat 1: ollikahn23 ($10 in chips) 
+Seat 3: DominatorCH ($9.20 in chips) 
+Seat 4: Velliton87 ($10 in chips) 
+Seat 5: Kezêb ($3.10 in chips) 
+Seat 6: mikeliketool ($10 in chips) 
+Seat 8: Haller59 ($10.30 in chips) 
+Seat 9: 'I'arantino9 ($11.15 in chips) 
+Haller59: posts small blind $0.05
+'I'arantino9: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ac Jc]
+ollikahn23: raises $0.15 to $0.25
+DominatorCH: folds 
+Velliton87: folds 
+Kezêb: folds 
+mikeliketool: folds 
+Haller59: folds 
+'I'arantino9: folds 
+Uncalled bet ($0.15) returned to ollikahn23
+ollikahn23 collected $0.25 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: ollikahn23 collected ($0.25)
+Seat 3: DominatorCH folded before Flop (didn't bet)
+Seat 4: Velliton87 folded before Flop (didn't bet)
+Seat 5: Kezêb folded before Flop (didn't bet)
+Seat 6: mikeliketool (button) folded before Flop (didn't bet)
+Seat 8: Haller59 (small blind) folded before Flop
+Seat 9: 'I'arantino9 (big blind) folded before Flop
+
+
+
+PokerStars Hand #183002252746:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:15:26 ET
+Table 'Sarin' 9-max Seat #8 is the button
+Seat 1: ollikahn23 ($10.15 in chips) 
+Seat 3: DominatorCH ($9.20 in chips) 
+Seat 4: Velliton87 ($10 in chips) 
+Seat 5: Kezêb ($3.10 in chips) 
+Seat 6: mikeliketool ($10 in chips) 
+Seat 8: Haller59 ($10.25 in chips) 
+Seat 9: 'I'arantino9 ($11.05 in chips) 
+'I'arantino9: posts small blind $0.05
+ollikahn23: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6c 9d]
+DominatorCH: folds 
+Velliton87: folds 
+Kezêb: folds 
+mikeliketool: raises $0.20 to $0.30
+Haller59: folds 
+'I'arantino9: folds 
+ollikahn23: folds 
+Uncalled bet ($0.20) returned to mikeliketool
+mikeliketool collected $0.25 from pot
+mikeliketool: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: ollikahn23 (big blind) folded before Flop
+Seat 3: DominatorCH folded before Flop (didn't bet)
+Seat 4: Velliton87 folded before Flop (didn't bet)
+Seat 5: Kezêb folded before Flop (didn't bet)
+Seat 6: mikeliketool collected ($0.25)
+Seat 8: Haller59 (button) folded before Flop (didn't bet)
+Seat 9: 'I'arantino9 (small blind) folded before Flop
+
+
+
+PokerStars Hand #183002268044:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:15:56 ET
+Table 'Sarin' 9-max Seat #9 is the button
+Seat 1: ollikahn23 ($10.05 in chips) 
+Seat 3: DominatorCH ($9.20 in chips) 
+Seat 4: Velliton87 ($10 in chips) 
+Seat 5: Kezêb ($3.10 in chips) 
+Seat 6: mikeliketool ($10.15 in chips) 
+Seat 8: Haller59 ($10.25 in chips) 
+Seat 9: 'I'arantino9 ($11 in chips) 
+ollikahn23: posts small blind $0.05
+DominatorCH: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qh Qd]
+Velliton87: folds 
+Velliton87 leaves the table
+Kezêb: folds 
+mikeliketool: folds 
+aligned1 joins the table at seat #4 
+Haller59: folds 
+'I'arantino9: raises $0.15 to $0.25
+ollikahn23: raises $0.45 to $0.70
+DominatorCH: folds 
+'I'arantino9: folds 
+Uncalled bet ($0.45) returned to ollikahn23
+ollikahn23 collected $0.60 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: ollikahn23 (small blind) collected ($0.60)
+Seat 3: DominatorCH (big blind) folded before Flop
+Seat 4: Velliton87 folded before Flop (didn't bet)
+Seat 5: Kezêb folded before Flop (didn't bet)
+Seat 6: mikeliketool folded before Flop (didn't bet)
+Seat 8: Haller59 folded before Flop (didn't bet)
+Seat 9: 'I'arantino9 (button) folded before Flop
+
+
+
+PokerStars Hand #183002283610:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:16:28 ET
+Table 'Sarin' 9-max Seat #1 is the button
+Seat 1: ollikahn23 ($10.40 in chips) 
+Seat 3: DominatorCH ($9.10 in chips) 
+Seat 4: aligned1 ($10 in chips) 
+Seat 5: Kezêb ($3.10 in chips) 
+Seat 6: mikeliketool ($10.15 in chips) 
+Seat 8: Haller59 ($10.25 in chips) 
+Seat 9: 'I'arantino9 ($10.75 in chips) 
+DominatorCH: posts small blind $0.05
+aligned1: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5c 9h]
+Kezêb: folds 
+mikeliketool: folds 
+Haller59: folds 
+'I'arantino9: folds 
+ollikahn23: folds 
+DominatorCH: calls $0.05
+aligned1: checks 
+*** FLOP *** [6h Ah 4h]
+DominatorCH: bets $0.10
+aligned1: folds 
+Uncalled bet ($0.10) returned to DominatorCH
+DominatorCH collected $0.19 from pot
+DominatorCH: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [6h Ah 4h]
+Seat 1: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 3: DominatorCH (small blind) collected ($0.19)
+Seat 4: aligned1 (big blind) folded on the Flop
+Seat 5: Kezêb folded before Flop (didn't bet)
+Seat 6: mikeliketool folded before Flop (didn't bet)
+Seat 8: Haller59 folded before Flop (didn't bet)
+Seat 9: 'I'arantino9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183002301242:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:16:59 ET
+Table 'Sarin' 9-max Seat #3 is the button
+Seat 1: ollikahn23 ($10.40 in chips) 
+Seat 3: DominatorCH ($9.19 in chips) 
+Seat 4: aligned1 ($9.90 in chips) 
+Seat 5: Kezêb ($3.10 in chips) 
+Seat 6: mikeliketool ($10.15 in chips) 
+Seat 8: Haller59 ($10.25 in chips) 
+Seat 9: 'I'arantino9 ($10.75 in chips) 
+aligned1: posts small blind $0.05
+Kezêb: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qs 9h]
+mikeliketool: folds 
+Haller59: folds 
+'I'arantino9: folds 
+ollikahn23: raises $0.15 to $0.25
+DominatorCH: folds 
+aligned1: folds 
+Kezêb: folds 
+Uncalled bet ($0.15) returned to ollikahn23
+ollikahn23 collected $0.25 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: ollikahn23 collected ($0.25)
+Seat 3: DominatorCH (button) folded before Flop (didn't bet)
+Seat 4: aligned1 (small blind) folded before Flop
+Seat 5: Kezêb (big blind) folded before Flop
+Seat 6: mikeliketool folded before Flop (didn't bet)
+Seat 8: Haller59 folded before Flop (didn't bet)
+Seat 9: 'I'arantino9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183002314666:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:17:26 ET
+Table 'Sarin' 9-max Seat #4 is the button
+Seat 1: ollikahn23 ($10.55 in chips) 
+Seat 3: DominatorCH ($9.19 in chips) 
+Seat 4: aligned1 ($9.85 in chips) 
+Seat 5: Kezêb ($3 in chips) 
+Seat 6: mikeliketool ($10.15 in chips) 
+Seat 8: Haller59 ($10.25 in chips) 
+Seat 9: 'I'arantino9 ($10.75 in chips) 
+Kezêb: posts small blind $0.05
+mikeliketool: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4h 8d]
+Haller59: folds 
+'I'arantino9: folds 
+ollikahn23: folds 
+DominatorCH: folds 
+aligned1: folds 
+Kezêb: folds 
+Uncalled bet ($0.05) returned to mikeliketool
+mikeliketool collected $0.10 from pot
+mikeliketool: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 3: DominatorCH folded before Flop (didn't bet)
+Seat 4: aligned1 (button) folded before Flop (didn't bet)
+Seat 5: Kezêb (small blind) folded before Flop
+Seat 6: mikeliketool (big blind) collected ($0.10)
+Seat 8: Haller59 folded before Flop (didn't bet)
+Seat 9: 'I'arantino9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183002323225:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:17:43 ET
+Table 'Sarin' 9-max Seat #5 is the button
+Seat 1: ollikahn23 ($10.55 in chips) 
+Seat 3: DominatorCH ($9.19 in chips) 
+Seat 4: aligned1 ($9.85 in chips) 
+Seat 5: Kezêb ($2.95 in chips) 
+Seat 6: mikeliketool ($10.20 in chips) 
+Seat 8: Haller59 ($10.25 in chips) 
+Seat 9: 'I'arantino9 ($10.75 in chips) 
+mikeliketool: posts small blind $0.05
+Haller59: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5s Tc]
+'I'arantino9: folds 
+ollikahn23: folds 
+DominatorCH: raises $0.20 to $0.30
+aligned1: folds 
+Kezêb: folds 
+mikeliketool: folds 
+Haller59: calls $0.20
+*** FLOP *** [Kc 8s Kh]
+Haller59: checks 
+DominatorCH: checks 
+*** TURN *** [Kc 8s Kh] [Ah]
+Haller59: checks 
+DominatorCH: bets $0.40
+Haller59: folds 
+Uncalled bet ($0.40) returned to DominatorCH
+DominatorCH collected $0.62 from pot
+DominatorCH: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [Kc 8s Kh Ah]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 3: DominatorCH collected ($0.62)
+Seat 4: aligned1 folded before Flop (didn't bet)
+Seat 5: Kezêb (button) folded before Flop (didn't bet)
+Seat 6: mikeliketool (small blind) folded before Flop
+Seat 8: Haller59 (big blind) folded on the Turn
+Seat 9: 'I'arantino9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183002348256:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:18:34 ET
+Table 'Sarin' 9-max Seat #6 is the button
+Seat 1: ollikahn23 ($10.55 in chips) 
+Seat 3: DominatorCH ($9.51 in chips) 
+Seat 4: aligned1 ($9.85 in chips) 
+Seat 5: Kezêb ($2.95 in chips) 
+Seat 6: mikeliketool ($10.15 in chips) 
+Seat 8: Haller59 ($10 in chips) 
+Seat 9: 'I'arantino9 ($10.75 in chips) 
+Haller59: posts small blind $0.05
+'I'arantino9: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jc Js]
+ollikahn23: raises $0.15 to $0.25
+DominatorCH: folds 
+aligned1: folds 
+Kezêb: folds 
+mikeliketool: calls $0.25
+Haller59: folds 
+'I'arantino9: folds 
+*** FLOP *** [4s 3d 6h]
+ollikahn23: bets $0.40
+mikeliketool: calls $0.40
+*** TURN *** [4s 3d 6h] [Kd]
+ollikahn23: bets $0.65
+mikeliketool: raises $0.65 to $1.30
+ollikahn23: calls $0.65
+*** RIVER *** [4s 3d 6h Kd] [Ac]
+ollikahn23: checks 
+mikeliketool: checks 
+*** SHOW DOWN ***
+ollikahn23: shows [Jc Js] (a pair of Jacks)
+mikeliketool: shows [4d As] (two pair, Aces and Fours)
+mikeliketool collected $3.87 from pot
+*** SUMMARY ***
+Total pot $4.05 | Rake $0.18 
+Board [4s 3d 6h Kd Ac]
+Seat 1: ollikahn23 showed [Jc Js] and lost with a pair of Jacks
+Seat 3: DominatorCH folded before Flop (didn't bet)
+Seat 4: aligned1 folded before Flop (didn't bet)
+Seat 5: Kezêb folded before Flop (didn't bet)
+Seat 6: mikeliketool (button) showed [4d As] and won ($3.87) with two pair, Aces and Fours
+Seat 8: Haller59 (small blind) folded before Flop
+Seat 9: 'I'arantino9 (big blind) folded before Flop
+
+
+
+PokerStars Hand #183002386978:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:19:51 ET
+Table 'Sarin' 9-max Seat #8 is the button
+Seat 1: ollikahn23 ($10 in chips) 
+Seat 3: DominatorCH ($9.51 in chips) 
+Seat 4: aligned1 ($9.85 in chips) 
+Seat 5: Kezêb ($2.95 in chips) 
+Seat 6: mikeliketool ($12.07 in chips) 
+Seat 8: Haller59 ($10 in chips) 
+Seat 9: 'I'arantino9 ($10.65 in chips) 
+'I'arantino9: posts small blind $0.05
+ollikahn23: posts big blind $0.10
+your_drama1: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5c Kd]
+DominatorCH: folds 
+aligned1: raises $0.20 to $0.30
+Kezêb: folds 
+mikeliketool: folds 
+Haller59: folds 
+'I'arantino9: folds 
+ollikahn23: folds 
+Uncalled bet ($0.20) returned to aligned1
+aligned1 collected $0.25 from pot
+aligned1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: ollikahn23 (big blind) folded before Flop
+Seat 3: DominatorCH folded before Flop (didn't bet)
+Seat 4: aligned1 collected ($0.25)
+Seat 5: Kezêb folded before Flop (didn't bet)
+Seat 6: mikeliketool folded before Flop (didn't bet)
+Seat 8: Haller59 (button) folded before Flop (didn't bet)
+Seat 9: 'I'arantino9 (small blind) folded before Flop
+
+
+
+PokerStars Hand #183002401662:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:20:21 ET
+Table 'Sarin' 9-max Seat #9 is the button
+Seat 1: ollikahn23 ($10 in chips) 
+Seat 2: your_drama1 ($18.65 in chips) 
+Seat 3: DominatorCH ($9.51 in chips) 
+Seat 4: aligned1 ($10 in chips) 
+Seat 5: Kezêb ($2.95 in chips) 
+Seat 6: mikeliketool ($12.07 in chips) 
+Seat 8: Haller59 ($10 in chips) 
+Seat 9: 'I'arantino9 ($10.60 in chips) 
+ollikahn23: posts small blind $0.05
+your_drama1: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3d Kc]
+DominatorCH: folds 
+aligned1: folds 
+Kezêb: folds 
+mikeliketool has timed out
+mikeliketool: folds 
+Haller59: raises $0.20 to $0.30
+'I'arantino9: folds 
+ollikahn23: folds 
+your_drama1: folds 
+Uncalled bet ($0.20) returned to Haller59
+Haller59 collected $0.25 from pot
+Haller59: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: ollikahn23 (small blind) folded before Flop
+Seat 2: your_drama1 (big blind) folded before Flop
+Seat 3: DominatorCH folded before Flop (didn't bet)
+Seat 4: aligned1 folded before Flop (didn't bet)
+Seat 5: Kezêb folded before Flop (didn't bet)
+Seat 6: mikeliketool folded before Flop (didn't bet)
+Seat 8: Haller59 collected ($0.25)
+Seat 9: 'I'arantino9 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183002419116:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:20:57 ET
+Table 'Sarin' 9-max Seat #1 is the button
+Seat 1: ollikahn23 ($10 in chips) 
+Seat 2: your_drama1 ($18.55 in chips) 
+Seat 3: DominatorCH ($9.51 in chips) 
+Seat 4: aligned1 ($10 in chips) 
+Seat 5: Kezêb ($2.95 in chips) 
+Seat 8: Haller59 ($10.15 in chips) 
+Seat 9: 'I'arantino9 ($10.60 in chips) 
+your_drama1: posts small blind $0.05
+DominatorCH: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6c Ks]
+aligned1: folds 
+Kezêb: folds 
+Haller59: raises $0.20 to $0.30
+'I'arantino9: folds 
+ollikahn23: folds 
+your_drama1: folds 
+DominatorCH: folds 
+Uncalled bet ($0.20) returned to Haller59
+Haller59 collected $0.25 from pot
+Haller59: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 2: your_drama1 (small blind) folded before Flop
+Seat 3: DominatorCH (big blind) folded before Flop
+Seat 4: aligned1 folded before Flop (didn't bet)
+Seat 5: Kezêb folded before Flop (didn't bet)
+Seat 8: Haller59 collected ($0.25)
+Seat 9: 'I'arantino9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183002430612:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:21:20 ET
+Table 'Sarin' 9-max Seat #2 is the button
+Seat 1: ollikahn23 ($10 in chips) 
+Seat 2: your_drama1 ($18.50 in chips) 
+Seat 3: DominatorCH ($9.41 in chips) 
+Seat 4: aligned1 ($10 in chips) 
+Seat 5: Kezêb ($2.95 in chips) 
+Seat 6: mikeliketool ($12.07 in chips) 
+Seat 8: Haller59 ($10.30 in chips) 
+Seat 9: 'I'arantino9 ($10.60 in chips) 
+DominatorCH: posts small blind $0.05
+aligned1: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5h 3h]
+Kezêb: folds 
+mikeliketool: folds 
+Haller59: folds 
+'I'arantino9: folds 
+ollikahn23: raises $0.15 to $0.25
+your_drama1: folds 
+DominatorCH: folds 
+aligned1: folds 
+Uncalled bet ($0.15) returned to ollikahn23
+ollikahn23 collected $0.25 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: ollikahn23 collected ($0.25)
+Seat 2: your_drama1 (button) folded before Flop (didn't bet)
+Seat 3: DominatorCH (small blind) folded before Flop
+Seat 4: aligned1 (big blind) folded before Flop
+Seat 5: Kezêb folded before Flop (didn't bet)
+Seat 6: mikeliketool folded before Flop (didn't bet)
+Seat 8: Haller59 folded before Flop (didn't bet)
+Seat 9: 'I'arantino9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183002442452:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:21:44 ET
+Table 'Sarin' 9-max Seat #3 is the button
+Seat 1: ollikahn23 ($10.15 in chips) 
+Seat 2: your_drama1 ($18.50 in chips) 
+Seat 3: DominatorCH ($9.36 in chips) 
+Seat 4: aligned1 ($9.90 in chips) 
+Seat 5: Kezêb ($2.95 in chips) 
+Seat 6: mikeliketool ($12.07 in chips) 
+Seat 8: Haller59 ($10.30 in chips) 
+Seat 9: 'I'arantino9 ($10.60 in chips) 
+aligned1: posts small blind $0.05
+Kezêb: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9d Ts]
+mikeliketool: folds 
+Haller59: folds 
+'I'arantino9: folds 
+ollikahn23: folds 
+your_drama1: folds 
+DominatorCH: folds 
+aligned1: raises $0.20 to $0.30
+Kezêb: calls $0.20
+*** FLOP *** [8c 3d 5c]
+aligned1: checks 
+Kezêb: checks 
+*** TURN *** [8c 3d 5c] [3c]
+aligned1: bets $0.50
+Kezêb: folds 
+Uncalled bet ($0.50) returned to aligned1
+aligned1 collected $0.57 from pot
+aligned1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [8c 3d 5c 3c]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: your_drama1 folded before Flop (didn't bet)
+Seat 3: DominatorCH (button) folded before Flop (didn't bet)
+Seat 4: aligned1 (small blind) collected ($0.57)
+Seat 5: Kezêb (big blind) folded on the Turn
+Seat 6: mikeliketool folded before Flop (didn't bet)
+Seat 8: Haller59 folded before Flop (didn't bet)
+Seat 9: 'I'arantino9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183002469798:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:22:39 ET
+Table 'Sarin' 9-max Seat #4 is the button
+Seat 1: ollikahn23 ($10.15 in chips) 
+Seat 2: your_drama1 ($18.50 in chips) 
+Seat 3: DominatorCH ($9.36 in chips) 
+Seat 4: aligned1 ($10.17 in chips) 
+Seat 5: Kezêb ($2.65 in chips) 
+Seat 6: mikeliketool ($12.07 in chips) 
+Seat 8: Haller59 ($10.30 in chips) 
+Seat 9: 'I'arantino9 ($10.60 in chips) 
+Kezêb: posts small blind $0.05
+mikeliketool: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2h 6h]
+Haller59: folds 
+'I'arantino9: folds 
+ollikahn23: folds 
+your_drama1: folds 
+DominatorCH: folds 
+alexandr_KLN leaves the table
+aligned1: folds 
+Kezêb: folds 
+Uncalled bet ($0.05) returned to mikeliketool
+mikeliketool collected $0.10 from pot
+mikeliketool: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: your_drama1 folded before Flop (didn't bet)
+Seat 3: DominatorCH folded before Flop (didn't bet)
+Seat 4: aligned1 (button) folded before Flop (didn't bet)
+Seat 5: Kezêb (small blind) folded before Flop
+Seat 6: mikeliketool (big blind) collected ($0.10)
+Seat 8: Haller59 folded before Flop (didn't bet)
+Seat 9: 'I'arantino9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183002483283:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:23:07 ET
+Table 'Sarin' 9-max Seat #5 is the button
+Seat 1: ollikahn23 ($10.15 in chips) 
+Seat 2: your_drama1 ($18.50 in chips) 
+Seat 3: DominatorCH ($9.36 in chips) 
+Seat 4: aligned1 ($10.17 in chips) 
+Seat 5: Kezêb ($2.60 in chips) 
+Seat 6: mikeliketool ($12.12 in chips) 
+Seat 9: 'I'arantino9 ($10.60 in chips) 
+mikeliketool: posts small blind $0.05
+Haller59: is sitting out 
+'I'arantino9: posts big blind $0.10
+Haller59 leaves the table
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4s Jc]
+ollikahn23: folds 
+your_drama1: raises $0.20 to $0.30
+DominatorCH: calls $0.30
+aligned1: folds 
+Kezêb: folds 
+mikeliketool: folds 
+'I'arantino9: folds 
+*** FLOP *** [Qd 6d 5h]
+your_drama1: bets $0.50
+DominatorCH: folds 
+Uncalled bet ($0.50) returned to your_drama1
+your_drama1 collected $0.72 from pot
+your_drama1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [Qd 6d 5h]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: your_drama1 collected ($0.72)
+Seat 3: DominatorCH folded on the Flop
+Seat 4: aligned1 folded before Flop (didn't bet)
+Seat 5: Kezêb (button) folded before Flop (didn't bet)
+Seat 6: mikeliketool (small blind) folded before Flop
+Seat 9: 'I'arantino9 (big blind) folded before Flop
+
+
+
+PokerStars Hand #183002495602:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:23:32 ET
+Table 'Sarin' 9-max Seat #6 is the button
+Seat 1: ollikahn23 ($10.15 in chips) 
+Seat 2: your_drama1 ($18.92 in chips) 
+Seat 3: DominatorCH ($9.06 in chips) 
+Seat 4: aligned1 ($10.17 in chips) 
+Seat 5: Kezêb ($2.60 in chips) 
+Seat 6: mikeliketool ($12.07 in chips) 
+Seat 9: 'I'arantino9 ($10.50 in chips) 
+'I'arantino9: posts small blind $0.05
+ollikahn23: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9d 9s]
+your_drama1: folds 
+DominatorCH: folds 
+aligned1: folds 
+Kezêb: raises $0.20 to $0.30
+mikeliketool: calls $0.30
+'I'arantino9: folds 
+ollikahn23: calls $0.20
+*** FLOP *** [3s 6d Td]
+ollikahn23: checks 
+Kezêb: bets $0.30
+mikeliketool: calls $0.30
+ollikahn23: calls $0.30
+*** TURN *** [3s 6d Td] [7d]
+ollikahn23: checks 
+Kezêb: checks 
+mikeliketool: checks 
+*** RIVER *** [3s 6d Td 7d] [6h]
+ollikahn23: checks 
+Kezêb: checks 
+mikeliketool: checks 
+Haller59 joins the table at seat #7 
+*** SHOW DOWN ***
+ollikahn23: shows [9d 9s] (two pair, Nines and Sixes)
+Kezêb: mucks hand 
+mikeliketool: mucks hand 
+ollikahn23 collected $1.77 from pot
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.08 
+Board [3s 6d Td 7d 6h]
+Seat 1: ollikahn23 (big blind) showed [9d 9s] and won ($1.77) with two pair, Nines and Sixes
+Seat 2: your_drama1 folded before Flop (didn't bet)
+Seat 3: DominatorCH folded before Flop (didn't bet)
+Seat 4: aligned1 folded before Flop (didn't bet)
+Seat 5: Kezêb mucked [Ks As]
+Seat 6: mikeliketool (button) mucked [Kh Ad]
+Seat 9: 'I'arantino9 (small blind) folded before Flop
+
+
+
+PokerStars Hand #183002534540:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:24:52 ET
+Table 'Sarin' 9-max Seat #9 is the button
+Seat 1: ollikahn23 ($11.32 in chips) 
+Seat 2: your_drama1 ($18.92 in chips) 
+Seat 3: DominatorCH ($9.06 in chips) 
+Seat 4: aligned1 ($10.17 in chips) 
+Seat 5: Kezêb ($2 in chips) 
+Seat 6: mikeliketool ($11.47 in chips) 
+Seat 9: 'I'arantino9 ($10.45 in chips) 
+ollikahn23: posts small blind $0.05
+your_drama1: posts big blind $0.10
+Haller59: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2s 8s]
+DominatorCH: folds 
+aligned1: folds 
+Kezêb: folds 
+mikeliketool: folds 
+'I'arantino9: raises $0.15 to $0.25
+ollikahn23: folds 
+your_drama1: calls $0.15
+*** FLOP *** [Qd 3s 7h]
+your_drama1: checks 
+'I'arantino9: checks 
+*** TURN *** [Qd 3s 7h] [7s]
+your_drama1: bets $0.30
+raresz12 joins the table at seat #8 
+'I'arantino9: folds 
+Uncalled bet ($0.30) returned to your_drama1
+your_drama1 collected $0.53 from pot
+your_drama1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [Qd 3s 7h 7s]
+Seat 1: ollikahn23 (small blind) folded before Flop
+Seat 2: your_drama1 (big blind) collected ($0.53)
+Seat 3: DominatorCH folded before Flop (didn't bet)
+Seat 4: aligned1 folded before Flop (didn't bet)
+Seat 5: Kezêb folded before Flop (didn't bet)
+Seat 6: mikeliketool folded before Flop (didn't bet)
+Seat 9: 'I'arantino9 (button) folded on the Turn
+
+
+
+PokerStars Hand #183002565952:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:25:52 ET
+Table 'Sarin' 9-max Seat #1 is the button
+Seat 1: ollikahn23 ($11.27 in chips) 
+Seat 2: your_drama1 ($19.20 in chips) 
+Seat 3: DominatorCH ($9.06 in chips) 
+Seat 4: aligned1 ($10.17 in chips) 
+Seat 5: Kezêb ($2 in chips) 
+Seat 6: mikeliketool ($11.47 in chips) 
+Seat 8: raresz12 ($5 in chips) 
+Seat 9: 'I'arantino9 ($10.20 in chips) 
+your_drama1: posts small blind $0.05
+DominatorCH: posts big blind $0.10
+Haller59: sits out 
+raresz12: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6s 2c]
+aligned1: folds 
+Kezêb: folds 
+mikeliketool: folds 
+raresz12: checks 
+'I'arantino9: folds 
+ollikahn23: folds 
+your_drama1: folds 
+DominatorCH: checks 
+*** FLOP *** [5s 2d 7d]
+DominatorCH: checks 
+raresz12: bets $0.40
+DominatorCH: folds 
+Uncalled bet ($0.40) returned to raresz12
+raresz12 collected $0.24 from pot
+raresz12: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [5s 2d 7d]
+Seat 1: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 2: your_drama1 (small blind) folded before Flop
+Seat 3: DominatorCH (big blind) folded on the Flop
+Seat 4: aligned1 folded before Flop (didn't bet)
+Seat 5: Kezêb folded before Flop (didn't bet)
+Seat 6: mikeliketool folded before Flop (didn't bet)
+Seat 8: raresz12 collected ($0.24)
+Seat 9: 'I'arantino9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183002582685:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:26:27 ET
+Table 'Sarin' 9-max Seat #2 is the button
+Seat 1: ollikahn23 ($11.27 in chips) 
+Seat 2: your_drama1 ($19.15 in chips) 
+Seat 3: DominatorCH ($8.96 in chips) 
+Seat 4: aligned1 ($10.17 in chips) 
+Seat 5: Kezêb ($2 in chips) 
+Seat 6: mikeliketool ($11.47 in chips) 
+Seat 8: raresz12 ($5.14 in chips) 
+Seat 9: 'I'arantino9 ($10.20 in chips) 
+DominatorCH: posts small blind $0.05
+aligned1: posts big blind $0.10
+Haller59: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5c 5h]
+Kezêb: folds 
+Kezêb leaves the table
+Mr_Dick666 joins the table at seat #5 
+mikeliketool: folds 
+raresz12: raises $0.90 to $1
+'I'arantino9: folds 
+ollikahn23: folds 
+your_drama1: folds 
+DominatorCH: folds 
+aligned1: folds 
+Uncalled bet ($0.90) returned to raresz12
+raresz12 collected $0.25 from pot
+raresz12: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: your_drama1 (button) folded before Flop (didn't bet)
+Seat 3: DominatorCH (small blind) folded before Flop
+Seat 4: aligned1 (big blind) folded before Flop
+Seat 5: Kezêb folded before Flop (didn't bet)
+Seat 6: mikeliketool folded before Flop (didn't bet)
+Seat 8: raresz12 collected ($0.25)
+Seat 9: 'I'arantino9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183002597160:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:26:57 ET
+Table 'Sarin' 9-max Seat #3 is the button
+Seat 1: ollikahn23 ($11.27 in chips) 
+Seat 2: your_drama1 ($19.15 in chips) 
+Seat 3: DominatorCH ($8.91 in chips) 
+Seat 4: aligned1 ($10.07 in chips) 
+Seat 5: Mr_Dick666 ($10.91 in chips) 
+Seat 6: mikeliketool ($11.47 in chips) 
+Seat 8: raresz12 ($5.29 in chips) 
+Seat 9: 'I'arantino9 ($10.20 in chips) 
+aligned1: posts small blind $0.05
+Mr_Dick666: posts big blind $0.10
+Haller59: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kd 7s]
+mikeliketool: raises $0.20 to $0.30
+raresz12: raises $0.75 to $1.05
+'I'arantino9: folds 
+ollikahn23: folds 
+your_drama1: folds 
+DominatorCH: calls $1.05
+aligned1: folds 
+Mr_Dick666: folds 
+mikeliketool: raises $10.42 to $11.47 and is all-in
+raresz12: folds 
+DominatorCH: folds 
+Uncalled bet ($10.42) returned to mikeliketool
+mikeliketool collected $3.30 from pot
+mikeliketool: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.30 | Rake $0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: your_drama1 folded before Flop (didn't bet)
+Seat 3: DominatorCH (button) folded before Flop
+Seat 4: aligned1 (small blind) folded before Flop
+Seat 5: Mr_Dick666 (big blind) folded before Flop
+Seat 6: mikeliketool collected ($3.30)
+Seat 8: raresz12 folded before Flop
+Seat 9: 'I'arantino9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183002617932:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:27:40 ET
+Table 'Sarin' 9-max Seat #4 is the button
+Seat 1: ollikahn23 ($11.27 in chips) 
+Seat 2: your_drama1 ($19.15 in chips) 
+Seat 3: DominatorCH ($7.86 in chips) 
+Seat 4: aligned1 ($10.02 in chips) 
+Seat 5: Mr_Dick666 ($10.81 in chips) 
+Seat 6: mikeliketool ($13.72 in chips) 
+Seat 8: raresz12 ($4.24 in chips) 
+Seat 9: 'I'arantino9 ($10.20 in chips) 
+Mr_Dick666: posts small blind $0.05
+mikeliketool: posts big blind $0.10
+Haller59: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4s 8d]
+raresz12: folds 
+'I'arantino9: folds 
+ollikahn23: folds 
+your_drama1: raises $0.10 to $0.20
+DominatorCH: folds 
+aligned1: folds 
+Mr_Dick666: folds 
+mikeliketool: calls $0.10
+*** FLOP *** [2c Th 8c]
+mikeliketool: bets $0.20
+your_drama1: folds 
+Uncalled bet ($0.20) returned to mikeliketool
+mikeliketool collected $0.43 from pot
+mikeliketool: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [2c Th 8c]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: your_drama1 folded on the Flop
+Seat 3: DominatorCH folded before Flop (didn't bet)
+Seat 4: aligned1 (button) folded before Flop (didn't bet)
+Seat 5: Mr_Dick666 (small blind) folded before Flop
+Seat 6: mikeliketool (big blind) collected ($0.43)
+Seat 8: raresz12 folded before Flop (didn't bet)
+Seat 9: 'I'arantino9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183002632873:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:28:11 ET
+Table 'Sarin' 9-max Seat #5 is the button
+Seat 1: ollikahn23 ($11.27 in chips) 
+Seat 2: your_drama1 ($18.95 in chips) 
+Seat 3: DominatorCH ($7.86 in chips) 
+Seat 4: aligned1 ($10.02 in chips) 
+Seat 5: Mr_Dick666 ($10.76 in chips) 
+Seat 6: mikeliketool ($13.95 in chips) 
+Seat 7: Haller59 ($10.30 in chips) 
+Seat 8: raresz12 ($4.24 in chips) 
+Seat 9: 'I'arantino9 ($10.20 in chips) 
+mikeliketool: posts small blind $0.05
+Haller59: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9h Jc]
+raresz12: folds 
+'I'arantino9: folds 
+ollikahn23: folds 
+your_drama1: folds 
+DominatorCH: folds 
+aligned1: raises $0.20 to $0.30
+Mr_Dick666: folds 
+mikeliketool: folds 
+Haller59: folds 
+Uncalled bet ($0.20) returned to aligned1
+aligned1 collected $0.25 from pot
+aligned1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: your_drama1 folded before Flop (didn't bet)
+Seat 3: DominatorCH folded before Flop (didn't bet)
+Seat 4: aligned1 collected ($0.25)
+Seat 5: Mr_Dick666 (button) folded before Flop (didn't bet)
+Seat 6: mikeliketool (small blind) folded before Flop
+Seat 7: Haller59 (big blind) folded before Flop
+Seat 8: raresz12 folded before Flop (didn't bet)
+Seat 9: 'I'arantino9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183002648682:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:28:44 ET
+Table 'Sarin' 9-max Seat #6 is the button
+Seat 1: ollikahn23 ($11.27 in chips) 
+Seat 2: your_drama1 ($18.95 in chips) 
+Seat 3: DominatorCH ($7.86 in chips) 
+Seat 4: aligned1 ($10.17 in chips) 
+Seat 5: Mr_Dick666 ($10.76 in chips) 
+Seat 6: mikeliketool ($13.90 in chips) 
+Seat 7: Haller59 ($10.20 in chips) 
+Seat 8: raresz12 ($4.24 in chips) 
+Seat 9: 'I'arantino9 ($10.20 in chips) 
+Haller59: posts small blind $0.05
+raresz12: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kc Jc]
+'I'arantino9: folds 
+ollikahn23: calls $0.10
+your_drama1: folds 
+DominatorCH: folds 
+aligned1: calls $0.10
+Mr_Dick666: folds 
+mikeliketool: calls $0.10
+Haller59: folds 
+raresz12: checks 
+*** FLOP *** [5d 4s 8h]
+raresz12: checks 
+ollikahn23: checks 
+aligned1: checks 
+mikeliketool: bets $0.20
+raresz12: calls $0.20
+ollikahn23: folds 
+aligned1: folds 
+*** TURN *** [5d 4s 8h] [Kh]
+raresz12: checks 
+mikeliketool: checks 
+*** RIVER *** [5d 4s 8h Kh] [3s]
+raresz12: checks 
+mikeliketool: checks 
+*** SHOW DOWN ***
+raresz12: shows [Th 6s] (high card King)
+mikeliketool: shows [Ad 8s] (a pair of Eights)
+mikeliketool collected $0.81 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0.04 
+Board [5d 4s 8h Kh 3s]
+Seat 1: ollikahn23 folded on the Flop
+Seat 2: your_drama1 folded before Flop (didn't bet)
+Seat 3: DominatorCH folded before Flop (didn't bet)
+Seat 4: aligned1 folded on the Flop
+Seat 5: Mr_Dick666 folded before Flop (didn't bet)
+Seat 6: mikeliketool (button) showed [Ad 8s] and won ($0.81) with a pair of Eights
+Seat 7: Haller59 (small blind) folded before Flop
+Seat 8: raresz12 (big blind) showed [Th 6s] and lost with high card King
+Seat 9: 'I'arantino9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183002683312:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:29:57 ET
+Table 'Sarin' 9-max Seat #7 is the button
+Seat 1: ollikahn23 ($11.17 in chips) 
+Seat 2: your_drama1 ($18.95 in chips) 
+Seat 3: DominatorCH ($7.86 in chips) 
+Seat 4: aligned1 ($10.07 in chips) 
+Seat 5: Mr_Dick666 ($10.76 in chips) 
+Seat 6: mikeliketool ($14.41 in chips) 
+Seat 7: Haller59 ($10.15 in chips) 
+Seat 8: raresz12 ($3.94 in chips) 
+Seat 9: 'I'arantino9 ($10.20 in chips) 
+raresz12: posts small blind $0.05
+'I'arantino9: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ts 8c]
+ollikahn23: folds 
+your_drama1: folds 
+DominatorCH: folds 
+aligned1: raises $0.20 to $0.30
+Mr_Dick666: folds 
+mikeliketool: calls $0.30
+Haller59: folds 
+raresz12: calls $0.25
+'I'arantino9: folds 
+*** FLOP *** [4h Ks Td]
+raresz12: checks 
+aligned1: checks 
+mikeliketool: checks 
+*** TURN *** [4h Ks Td] [7d]
+raresz12: checks 
+aligned1: bets $0.96
+mikeliketool: folds 
+raresz12: folds 
+Uncalled bet ($0.96) returned to aligned1
+aligned1 collected $0.96 from pot
+aligned1: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.04 
+Board [4h Ks Td 7d]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: your_drama1 folded before Flop (didn't bet)
+Seat 3: DominatorCH folded before Flop (didn't bet)
+Seat 4: aligned1 collected ($0.96)
+Seat 5: Mr_Dick666 folded before Flop (didn't bet)
+Seat 6: mikeliketool folded on the Turn
+Seat 7: Haller59 (button) folded before Flop (didn't bet)
+Seat 8: raresz12 (small blind) folded on the Turn
+Seat 9: 'I'arantino9 (big blind) folded before Flop
+
+
+
+PokerStars Hand #183002725725:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:31:25 ET
+Table 'Sarin' 9-max Seat #8 is the button
+Seat 1: ollikahn23 ($11.17 in chips) 
+Seat 2: your_drama1 ($18.95 in chips) 
+Seat 3: DominatorCH ($7.86 in chips) 
+Seat 4: aligned1 ($10.73 in chips) 
+Seat 5: Mr_Dick666 ($10.76 in chips) 
+Seat 6: mikeliketool ($14.11 in chips) 
+Seat 7: Haller59 ($10.15 in chips) 
+Seat 8: raresz12 ($3.64 in chips) 
+Seat 9: 'I'arantino9 ($10.10 in chips) 
+'I'arantino9: posts small blind $0.05
+ollikahn23: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4s 8s]
+your_drama1: folds 
+DominatorCH: folds 
+aligned1: folds 
+Mr_Dick666: folds 
+mikeliketool has timed out
+mikeliketool: folds 
+Haller59: folds 
+raresz12: raises $0.25 to $0.35
+'I'arantino9: folds 
+ollikahn23: folds 
+Uncalled bet ($0.25) returned to raresz12
+raresz12 collected $0.25 from pot
+raresz12: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: ollikahn23 (big blind) folded before Flop
+Seat 2: your_drama1 folded before Flop (didn't bet)
+Seat 3: DominatorCH folded before Flop (didn't bet)
+Seat 4: aligned1 folded before Flop (didn't bet)
+Seat 5: Mr_Dick666 folded before Flop (didn't bet)
+Seat 6: mikeliketool folded before Flop (didn't bet)
+Seat 7: Haller59 folded before Flop (didn't bet)
+Seat 8: raresz12 (button) collected ($0.25)
+Seat 9: 'I'arantino9 (small blind) folded before Flop
+
+
+
+PokerStars Hand #183002744114:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:32:04 ET
+Table 'Sarin' 9-max Seat #9 is the button
+Seat 1: ollikahn23 ($11.07 in chips) 
+Seat 2: your_drama1 ($18.95 in chips) 
+Seat 3: DominatorCH ($7.86 in chips) 
+Seat 4: aligned1 ($10.73 in chips) 
+Seat 5: Mr_Dick666 ($10.76 in chips) 
+Seat 6: mikeliketool ($14.11 in chips) 
+Seat 7: Haller59 ($10.15 in chips) 
+Seat 8: raresz12 ($3.79 in chips) 
+Seat 9: 'I'arantino9 ($10.05 in chips) 
+ollikahn23: posts small blind $0.05
+your_drama1: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qh Ts]
+DominatorCH: folds 
+aligned1: folds 
+Mr_Dick666: folds 
+mikeliketool: folds 
+Haller59: raises $0.20 to $0.30
+raresz12: folds 
+'I'arantino9: calls $0.30
+ollikahn23: folds 
+your_drama1: folds 
+*** FLOP *** [Th 7s 9h]
+Haller59: checks 
+'I'arantino9: checks 
+*** TURN *** [Th 7s 9h] [2s]
+Haller59: bets $0.48
+'I'arantino9: folds 
+Uncalled bet ($0.48) returned to Haller59
+Haller59 collected $0.72 from pot
+Haller59: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [Th 7s 9h 2s]
+Seat 1: ollikahn23 (small blind) folded before Flop
+Seat 2: your_drama1 (big blind) folded before Flop
+Seat 3: DominatorCH folded before Flop (didn't bet)
+Seat 4: aligned1 folded before Flop (didn't bet)
+Seat 5: Mr_Dick666 folded before Flop (didn't bet)
+Seat 6: mikeliketool folded before Flop (didn't bet)
+Seat 7: Haller59 collected ($0.72)
+Seat 8: raresz12 folded before Flop (didn't bet)
+Seat 9: 'I'arantino9 (button) folded on the Turn
+
+
+
+PokerStars Hand #183002773592:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:33:07 ET
+Table 'Sarin' 9-max Seat #1 is the button
+Seat 1: ollikahn23 ($11.02 in chips) 
+Seat 2: your_drama1 ($18.85 in chips) 
+Seat 3: DominatorCH ($7.86 in chips) 
+Seat 4: aligned1 ($10.73 in chips) 
+Seat 5: Mr_Dick666 ($10.76 in chips) 
+Seat 6: mikeliketool ($14.11 in chips) 
+Seat 7: Haller59 ($10.57 in chips) 
+Seat 8: raresz12 ($3.79 in chips) 
+Seat 9: 'I'arantino9 ($10 in chips) 
+your_drama1: posts small blind $0.05
+DominatorCH: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2d 4c]
+aligned1: folds 
+Mr_Dick666: folds 
+mikeliketool: folds 
+Haller59: raises $0.20 to $0.30
+raresz12: folds 
+'I'arantino9: raises $0.60 to $0.90
+ollikahn23: folds 
+your_drama1: folds 
+DominatorCH: folds 
+Haller59: raises $1.50 to $2.40
+'I'arantino9: folds 
+Uncalled bet ($1.50) returned to Haller59
+Haller59 collected $1.95 from pot
+Haller59: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.95 | Rake $0 
+Seat 1: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 2: your_drama1 (small blind) folded before Flop
+Seat 3: DominatorCH (big blind) folded before Flop
+Seat 4: aligned1 folded before Flop (didn't bet)
+Seat 5: Mr_Dick666 folded before Flop (didn't bet)
+Seat 6: mikeliketool folded before Flop (didn't bet)
+Seat 7: Haller59 collected ($1.95)
+Seat 8: raresz12 folded before Flop (didn't bet)
+Seat 9: 'I'arantino9 folded before Flop
+
+
+
+PokerStars Hand #183002792844:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:33:47 ET
+Table 'Sarin' 9-max Seat #2 is the button
+Seat 1: ollikahn23 ($11.02 in chips) 
+Seat 2: your_drama1 ($18.80 in chips) 
+Seat 3: DominatorCH ($7.76 in chips) 
+Seat 4: aligned1 ($10.73 in chips) 
+Seat 5: Mr_Dick666 ($10.76 in chips) 
+Seat 6: mikeliketool ($14.11 in chips) 
+Seat 7: Haller59 ($11.62 in chips) 
+Seat 8: raresz12 ($3.79 in chips) 
+Seat 9: 'I'arantino9 ($10 in chips) 
+DominatorCH: posts small blind $0.05
+aligned1: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4h Js]
+Mr_Dick666: folds 
+mikeliketool: folds 
+Haller59: folds 
+raresz12: folds 
+'I'arantino9: folds 
+ollikahn23: folds 
+your_drama1: folds 
+DominatorCH: folds 
+Uncalled bet ($0.05) returned to aligned1
+aligned1 collected $0.10 from pot
+aligned1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: your_drama1 (button) folded before Flop (didn't bet)
+Seat 3: DominatorCH (small blind) folded before Flop
+Seat 4: aligned1 (big blind) collected ($0.10)
+Seat 5: Mr_Dick666 folded before Flop (didn't bet)
+Seat 6: mikeliketool folded before Flop (didn't bet)
+Seat 7: Haller59 folded before Flop (didn't bet)
+Seat 8: raresz12 folded before Flop (didn't bet)
+Seat 9: 'I'arantino9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183002806462:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:34:16 ET
+Table 'Sarin' 9-max Seat #3 is the button
+Seat 1: ollikahn23 ($11.02 in chips) 
+Seat 2: your_drama1 ($18.80 in chips) 
+Seat 3: DominatorCH ($7.71 in chips) 
+Seat 4: aligned1 ($10.78 in chips) 
+Seat 6: mikeliketool ($14.11 in chips) 
+Seat 7: Haller59 ($11.62 in chips) 
+Seat 8: raresz12 ($3.79 in chips) 
+Seat 9: 'I'arantino9 ($10 in chips) 
+aligned1: posts small blind $0.05
+mikeliketool: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3h 5s]
+Mr_Dick666 leaves the table
+Haller59: folds 
+raresz12: folds 
+'I'arantino9: folds 
+ollikahn23: folds 
+your_drama1 has timed out
+your_drama1: folds 
+DominatorCH: raises $0.20 to $0.30
+Stingg joins the table at seat #5 
+aligned1: folds 
+mikeliketool: calls $0.20
+*** FLOP *** [8d Td As]
+mikeliketool: checks 
+DominatorCH: bets $0.50
+mikeliketool: folds 
+Uncalled bet ($0.50) returned to DominatorCH
+DominatorCH collected $0.62 from pot
+DominatorCH: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [8d Td As]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: your_drama1 folded before Flop (didn't bet)
+Seat 3: DominatorCH (button) collected ($0.62)
+Seat 4: aligned1 (small blind) folded before Flop
+Seat 6: mikeliketool (big blind) folded on the Flop
+Seat 7: Haller59 folded before Flop (didn't bet)
+Seat 8: raresz12 folded before Flop (didn't bet)
+Seat 9: 'I'arantino9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183002829134:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:35:05 ET
+Table 'Sarin' 9-max Seat #4 is the button
+Seat 1: ollikahn23 ($11.02 in chips) 
+Seat 2: your_drama1 ($18.80 in chips) 
+Seat 3: DominatorCH ($8.03 in chips) 
+Seat 4: aligned1 ($10.73 in chips) 
+Seat 6: mikeliketool ($13.81 in chips) 
+Seat 7: Haller59 ($11.62 in chips) 
+Seat 8: raresz12 ($3.79 in chips) 
+Seat 9: 'I'arantino9 ($10 in chips) 
+Stingg will be allowed to play after the button
+mikeliketool: posts small blind $0.05
+Haller59: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8h Js]
+raresz12: folds 
+'I'arantino9: folds 
+ollikahn23: folds 
+your_drama1: folds 
+DominatorCH has timed out
+DominatorCH: folds 
+aligned1: raises $0.20 to $0.30
+mikeliketool: folds 
+Haller59: folds 
+Uncalled bet ($0.20) returned to aligned1
+aligned1 collected $0.25 from pot
+aligned1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: your_drama1 folded before Flop (didn't bet)
+Seat 3: DominatorCH folded before Flop (didn't bet)
+Seat 4: aligned1 (button) collected ($0.25)
+Seat 6: mikeliketool (small blind) folded before Flop
+Seat 7: Haller59 (big blind) folded before Flop
+Seat 8: raresz12 folded before Flop (didn't bet)
+Seat 9: 'I'arantino9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183002848834:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:35:47 ET
+Table 'Sarin' 9-max Seat #6 is the button
+Seat 1: ollikahn23 ($11.02 in chips) 
+Seat 2: your_drama1 ($18.80 in chips) 
+Seat 4: aligned1 ($10.88 in chips) 
+Seat 6: mikeliketool ($13.76 in chips) 
+Seat 7: Haller59 ($11.52 in chips) 
+Seat 8: raresz12 ($3.79 in chips) 
+Seat 9: 'I'arantino9 ($10 in chips) 
+Haller59: posts small blind $0.05
+raresz12: posts big blind $0.10
+Stingg: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8d 3h]
+'I'arantino9: folds 
+ollikahn23: folds 
+your_drama1: folds 
+aligned1: folds 
+mikeliketool: folds 
+Haller59: folds 
+Uncalled bet ($0.05) returned to raresz12
+raresz12 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: your_drama1 folded before Flop (didn't bet)
+Seat 4: aligned1 folded before Flop (didn't bet)
+Seat 6: mikeliketool (button) folded before Flop (didn't bet)
+Seat 7: Haller59 (small blind) folded before Flop
+Seat 8: raresz12 (big blind) collected ($0.10)
+Seat 9: 'I'arantino9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183002868206:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:36:12 ET
+Table 'Sarin' 9-max Seat #7 is the button
+Seat 1: ollikahn23 ($11.02 in chips) 
+Seat 2: your_drama1 ($18.80 in chips) 
+Seat 4: aligned1 ($10.88 in chips) 
+Seat 6: mikeliketool ($13.76 in chips) 
+Seat 7: Haller59 ($11.47 in chips) 
+Seat 8: raresz12 ($3.84 in chips) 
+Seat 9: 'I'arantino9 ($10 in chips) 
+raresz12: posts small blind $0.05
+'I'arantino9: posts big blind $0.10
+Stingg: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jd Qd]
+ollikahn23: raises $0.15 to $0.25
+your_drama1: calls $0.25
+aligned1: folds 
+mikeliketool: calls $0.25
+Haller59: calls $0.25
+raresz12: folds 
+'I'arantino9: folds 
+*** FLOP *** [5h Kd Td]
+ollikahn23: bets $0.75
+your_drama1: folds 
+mikeliketool: calls $0.75
+Haller59: folds 
+*** TURN *** [5h Kd Td] [8s]
+ollikahn23: bets $2.10
+mikeliketool: calls $2.10
+*** RIVER *** [5h Kd Td 8s] [4c]
+ollikahn23: checks 
+mikeliketool: bets $3.30
+ollikahn23: folds 
+Uncalled bet ($3.30) returned to mikeliketool
+mikeliketool collected $6.54 from pot
+mikeliketool: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.85 | Rake $0.31 
+Board [5h Kd Td 8s 4c]
+Seat 1: ollikahn23 folded on the River
+Seat 2: your_drama1 folded on the Flop
+Seat 4: aligned1 folded before Flop (didn't bet)
+Seat 6: mikeliketool collected ($6.54)
+Seat 7: Haller59 (button) folded on the Flop
+Seat 8: raresz12 (small blind) folded before Flop
+Seat 9: 'I'arantino9 (big blind) folded before Flop
+
+
+
+PokerStars Hand #183002919111:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:38:00 ET
+Table 'Sarin' 9-max Seat #8 is the button
+Seat 1: ollikahn23 ($10 in chips) 
+Seat 2: your_drama1 ($18.55 in chips) 
+Seat 3: DominatorCH ($8.03 in chips) 
+Seat 4: aligned1 ($10.88 in chips) 
+Seat 6: mikeliketool ($17.20 in chips) 
+Seat 7: Haller59 ($11.22 in chips) 
+Seat 8: raresz12 ($3.79 in chips) 
+Seat 9: 'I'arantino9 ($10 in chips) 
+'I'arantino9: posts small blind $0.05
+ollikahn23: posts big blind $0.10
+Stingg: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7h Kc]
+your_drama1: folds 
+DominatorCH: folds 
+aligned1: raises $0.20 to $0.30
+mikeliketool: folds 
+Haller59: folds 
+raresz12: folds 
+'I'arantino9: folds 
+ollikahn23: folds 
+Uncalled bet ($0.20) returned to aligned1
+aligned1 collected $0.25 from pot
+aligned1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: ollikahn23 (big blind) folded before Flop
+Seat 2: your_drama1 folded before Flop (didn't bet)
+Seat 3: DominatorCH folded before Flop (didn't bet)
+Seat 4: aligned1 collected ($0.25)
+Seat 6: mikeliketool folded before Flop (didn't bet)
+Seat 7: Haller59 folded before Flop (didn't bet)
+Seat 8: raresz12 (button) folded before Flop (didn't bet)
+Seat 9: 'I'arantino9 (small blind) folded before Flop
+
+
+
+PokerStars Hand #183002934819:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:38:34 ET
+Table 'Sarin' 9-max Seat #9 is the button
+Seat 1: ollikahn23 ($10 in chips) 
+Seat 2: your_drama1 ($18.55 in chips) 
+Seat 3: DominatorCH ($8.03 in chips) 
+Seat 4: aligned1 ($11.03 in chips) 
+Seat 6: mikeliketool ($17.20 in chips) 
+Seat 7: Haller59 ($11.22 in chips) 
+Seat 8: raresz12 ($3.79 in chips) 
+Seat 9: 'I'arantino9 ($10 in chips) 
+ollikahn23: posts small blind $0.05
+your_drama1: posts big blind $0.10
+Stingg: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3d 5h]
+DominatorCH: folds 
+aligned1: folds 
+mikeliketool: folds 
+Haller59: raises $0.20 to $0.30
+raresz12: calls $0.30
+'I'arantino9: folds 
+ollikahn23: folds 
+your_drama1: raises $1.20 to $1.50
+Haller59: folds 
+raresz12: folds 
+Uncalled bet ($1.20) returned to your_drama1
+your_drama1 collected $0.95 from pot
+your_drama1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.95 | Rake $0 
+Seat 1: ollikahn23 (small blind) folded before Flop
+Seat 2: your_drama1 (big blind) collected ($0.95)
+Seat 3: DominatorCH folded before Flop (didn't bet)
+Seat 4: aligned1 folded before Flop (didn't bet)
+Seat 6: mikeliketool folded before Flop (didn't bet)
+Seat 7: Haller59 folded before Flop
+Seat 8: raresz12 folded before Flop
+Seat 9: 'I'arantino9 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183002954770:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:39:17 ET
+Table 'Sarin' 9-max Seat #1 is the button
+Seat 1: ollikahn23 ($10 in chips) 
+Seat 2: your_drama1 ($19.20 in chips) 
+Seat 3: DominatorCH ($8.03 in chips) 
+Seat 4: aligned1 ($11.03 in chips) 
+Seat 6: mikeliketool ($17.20 in chips) 
+Seat 7: Haller59 ($10.92 in chips) 
+Seat 8: raresz12 ($3.49 in chips) 
+Seat 9: 'I'arantino9 ($10 in chips) 
+your_drama1: posts small blind $0.05
+DominatorCH: posts big blind $0.10
+Stingg: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2d Ac]
+aligned1: calls $0.10
+mikeliketool: raises $0.20 to $0.30
+Haller59: folds 
+raresz12: folds 
+'I'arantino9: folds 
+ollikahn23: folds 
+your_drama1: folds 
+DominatorCH: folds 
+aligned1: calls $0.20
+*** FLOP *** [4d 3h Qh]
+aligned1: checks 
+mikeliketool: bets $0.70
+aligned1: folds 
+Uncalled bet ($0.70) returned to mikeliketool
+mikeliketool collected $0.72 from pot
+mikeliketool: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [4d 3h Qh]
+Seat 1: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 2: your_drama1 (small blind) folded before Flop
+Seat 3: DominatorCH (big blind) folded before Flop
+Seat 4: aligned1 folded on the Flop
+Seat 6: mikeliketool collected ($0.72)
+Seat 7: Haller59 folded before Flop (didn't bet)
+Seat 8: raresz12 folded before Flop (didn't bet)
+Seat 9: 'I'arantino9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183002981020:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:40:14 ET
+Table 'Sarin' 9-max Seat #2 is the button
+Seat 1: ollikahn23 ($10 in chips) 
+Seat 2: your_drama1 ($19.15 in chips) 
+Seat 3: DominatorCH ($7.93 in chips) 
+Seat 4: aligned1 ($10.73 in chips) 
+Seat 6: mikeliketool ($17.62 in chips) 
+Seat 7: Haller59 ($10.92 in chips) 
+Seat 8: raresz12 ($3.49 in chips) 
+Seat 9: 'I'arantino9 ($10 in chips) 
+DominatorCH: posts small blind $0.05
+aligned1: posts big blind $0.10
+Stingg: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7c Qd]
+mikeliketool: folds 
+Haller59: folds 
+raresz12: folds 
+'I'arantino9: folds 
+ollikahn23: folds 
+your_drama1: folds 
+DominatorCH: raises $0.10 to $0.20
+aligned1: calls $0.10
+*** FLOP *** [3s Ac Td]
+DominatorCH: checks 
+aligned1: bets $0.30
+DominatorCH: folds 
+Uncalled bet ($0.30) returned to aligned1
+aligned1 collected $0.38 from pot
+aligned1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.02 
+Board [3s Ac Td]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: your_drama1 (button) folded before Flop (didn't bet)
+Seat 3: DominatorCH (small blind) folded on the Flop
+Seat 4: aligned1 (big blind) collected ($0.38)
+Seat 6: mikeliketool folded before Flop (didn't bet)
+Seat 7: Haller59 folded before Flop (didn't bet)
+Seat 8: raresz12 folded before Flop (didn't bet)
+Seat 9: 'I'arantino9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183002995455:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:40:46 ET
+Table 'Sarin' 9-max Seat #3 is the button
+Seat 1: ollikahn23 ($10 in chips) 
+Seat 2: your_drama1 ($19.15 in chips) 
+Seat 3: DominatorCH ($7.73 in chips) 
+Seat 4: aligned1 ($10.91 in chips) 
+Seat 5: Stingg ($10 in chips) 
+Seat 6: mikeliketool ($17.62 in chips) 
+Seat 7: Haller59 ($10.92 in chips) 
+Seat 8: raresz12 ($3.49 in chips) 
+Seat 9: 'I'arantino9 ($10 in chips) 
+aligned1: posts small blind $0.05
+Stingg: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8d Jd]
+mikeliketool: folds 
+Haller59: folds 
+raresz12: folds 
+'I'arantino9: folds 
+ollikahn23: raises $0.15 to $0.25
+your_drama1: folds 
+DominatorCH: folds 
+aligned1: folds 
+Stingg: folds 
+Uncalled bet ($0.15) returned to ollikahn23
+ollikahn23 collected $0.25 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: ollikahn23 collected ($0.25)
+Seat 2: your_drama1 folded before Flop (didn't bet)
+Seat 3: DominatorCH (button) folded before Flop (didn't bet)
+Seat 4: aligned1 (small blind) folded before Flop
+Seat 5: Stingg (big blind) folded before Flop
+Seat 6: mikeliketool folded before Flop (didn't bet)
+Seat 7: Haller59 folded before Flop (didn't bet)
+Seat 8: raresz12 folded before Flop (didn't bet)
+Seat 9: 'I'arantino9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183003010717:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:41:19 ET
+Table 'Sarin' 9-max Seat #4 is the button
+Seat 1: ollikahn23 ($10.15 in chips) 
+Seat 2: your_drama1 ($19.15 in chips) 
+Seat 3: DominatorCH ($7.73 in chips) 
+Seat 4: aligned1 ($10.86 in chips) 
+Seat 5: Stingg ($10 in chips) 
+Seat 6: mikeliketool ($17.62 in chips) 
+Seat 7: Haller59 ($10.92 in chips) 
+Seat 8: raresz12 ($3.49 in chips) 
+Seat 9: 'I'arantino9 ($10 in chips) 
+Stingg: posts small blind $0.05
+mikeliketool: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3c 4s]
+Haller59: folds 
+Haller59 leaves the table
+Mr_Dick666 joins the table at seat #7 
+Mr_Dick666 leaves the table
+raresz12: folds 
+'I'arantino9: raises $0.15 to $0.25
+ollikahn23: folds 
+your_drama1: folds 
+DominatorCH: folds 
+aligned1: folds 
+Stingg: folds 
+mikeliketool: calls $0.15
+*** FLOP *** [5h Qh 9d]
+mikeliketool: bets $0.30
+'I'arantino9: folds 
+Uncalled bet ($0.30) returned to mikeliketool
+mikeliketool collected $0.53 from pot
+mikeliketool: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [5h Qh 9d]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: your_drama1 folded before Flop (didn't bet)
+Seat 3: DominatorCH folded before Flop (didn't bet)
+Seat 4: aligned1 (button) folded before Flop (didn't bet)
+Seat 5: Stingg (small blind) folded before Flop
+Seat 6: mikeliketool (big blind) collected ($0.53)
+Seat 7: Haller59 folded before Flop (didn't bet)
+Seat 8: raresz12 folded before Flop (didn't bet)
+Seat 9: 'I'arantino9 folded on the Flop
+
+
+
+PokerStars Hand #183003038838:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:42:19 ET
+Table 'Sarin' 9-max Seat #5 is the button
+Seat 1: ollikahn23 ($10.15 in chips) 
+Seat 2: your_drama1 ($19.15 in chips) 
+Seat 3: DominatorCH ($7.73 in chips) 
+Seat 4: aligned1 ($10.86 in chips) 
+Seat 5: Stingg ($10 in chips) 
+Seat 6: mikeliketool ($17.90 in chips) 
+Seat 8: raresz12 ($3.49 in chips) 
+Seat 9: 'I'arantino9 ($10 in chips) 
+mikeliketool: posts small blind $0.05
+raresz12: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7s 6h]
+WafflesCrisp joins the table at seat #7 
+'I'arantino9: folds 
+ollikahn23: folds 
+your_drama1: folds 
+DominatorCH: folds 
+aligned1: raises $0.20 to $0.30
+Stingg: folds 
+mikeliketool: folds 
+raresz12: folds 
+Uncalled bet ($0.20) returned to aligned1
+aligned1 collected $0.25 from pot
+aligned1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: your_drama1 folded before Flop (didn't bet)
+Seat 3: DominatorCH folded before Flop (didn't bet)
+Seat 4: aligned1 collected ($0.25)
+Seat 5: Stingg (button) folded before Flop (didn't bet)
+Seat 6: mikeliketool (small blind) folded before Flop
+Seat 8: raresz12 (big blind) folded before Flop
+Seat 9: 'I'arantino9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183003050168:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:42:44 ET
+Table 'Sarin' 9-max Seat #6 is the button
+Seat 1: ollikahn23 ($10.15 in chips) 
+Seat 2: your_drama1 ($19.15 in chips) 
+Seat 3: DominatorCH ($7.73 in chips) 
+Seat 4: aligned1 ($11.01 in chips) 
+Seat 5: Stingg ($10 in chips) 
+Seat 6: mikeliketool ($17.85 in chips) 
+Seat 8: raresz12 ($3.39 in chips) 
+Seat 9: 'I'arantino9 ($10 in chips) 
+WafflesCrisp will be allowed to play after the button
+raresz12: posts small blind $0.05
+'I'arantino9: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6h 6s]
+ollikahn23: raises $0.15 to $0.25
+your_drama1: calls $0.25
+DominatorCH: folds 
+aligned1: folds 
+Stingg: raises $1.25 to $1.50
+mikeliketool: folds 
+raresz12: folds 
+'I'arantino9: folds 
+ollikahn23: folds 
+your_drama1: folds 
+Uncalled bet ($1.25) returned to Stingg
+Stingg collected $0.90 from pot
+Stingg: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.90 | Rake $0 
+Seat 1: ollikahn23 folded before Flop
+Seat 2: your_drama1 folded before Flop
+Seat 3: DominatorCH folded before Flop (didn't bet)
+Seat 4: aligned1 folded before Flop (didn't bet)
+Seat 5: Stingg collected ($0.90)
+Seat 6: mikeliketool (button) folded before Flop (didn't bet)
+Seat 8: raresz12 (small blind) folded before Flop
+Seat 9: 'I'arantino9 (big blind) folded before Flop
+
+
+
+PokerStars Hand #183003068967:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:43:25 ET
+Table 'Sarin' 9-max Seat #8 is the button
+Seat 1: ollikahn23 ($10 in chips) 
+Seat 2: your_drama1 ($18.90 in chips) 
+Seat 3: DominatorCH ($7.73 in chips) 
+Seat 4: aligned1 ($11.01 in chips) 
+Seat 5: Stingg ($10.65 in chips) 
+Seat 6: mikeliketool ($17.85 in chips) 
+Seat 8: raresz12 ($3.34 in chips) 
+Seat 9: 'I'arantino9 ($10 in chips) 
+'I'arantino9: posts small blind $0.05
+ollikahn23: posts big blind $0.10
+WafflesCrisp: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9d 8s]
+your_drama1: folds 
+DominatorCH: folds 
+aligned1 has timed out
+aligned1: folds 
+Stingg: folds 
+mikeliketool: raises $0.20 to $0.30
+raresz12: folds 
+'I'arantino9: folds 
+ollikahn23: folds 
+Uncalled bet ($0.20) returned to mikeliketool
+mikeliketool collected $0.25 from pot
+mikeliketool: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: ollikahn23 (big blind) folded before Flop
+Seat 2: your_drama1 folded before Flop (didn't bet)
+Seat 3: DominatorCH folded before Flop (didn't bet)
+Seat 4: aligned1 folded before Flop (didn't bet)
+Seat 5: Stingg folded before Flop (didn't bet)
+Seat 6: mikeliketool collected ($0.25)
+Seat 8: raresz12 (button) folded before Flop (didn't bet)
+Seat 9: 'I'arantino9 (small blind) folded before Flop
+
+
+
+PokerStars Hand #183003091462:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:44:14 ET
+Table 'Sarin' 9-max Seat #9 is the button
+Seat 1: ollikahn23 ($10 in chips) 
+Seat 2: your_drama1 ($18.90 in chips) 
+Seat 3: DominatorCH ($7.73 in chips) 
+Seat 4: aligned1 ($11.01 in chips) 
+Seat 5: Stingg ($10.65 in chips) 
+Seat 6: mikeliketool ($18 in chips) 
+Seat 7: WafflesCrisp ($8 in chips) 
+Seat 8: raresz12 ($3.34 in chips) 
+Seat 9: 'I'arantino9 ($10 in chips) 
+ollikahn23: posts small blind $0.05
+your_drama1: posts big blind $0.10
+WafflesCrisp: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jc Ah]
+DominatorCH: folds 
+aligned1: folds 
+Stingg: folds 
+mikeliketool: folds 
+WafflesCrisp: checks 
+raresz12: folds 
+'I'arantino9: folds 
+ollikahn23: raises $0.15 to $0.25
+your_drama1: folds 
+WafflesCrisp: calls $0.15
+*** FLOP *** [7s Kh 2h]
+ollikahn23: bets $0.25
+WafflesCrisp: folds 
+Uncalled bet ($0.25) returned to ollikahn23
+ollikahn23 collected $0.57 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [7s Kh 2h]
+Seat 1: ollikahn23 (small blind) collected ($0.57)
+Seat 2: your_drama1 (big blind) folded before Flop
+Seat 3: DominatorCH folded before Flop (didn't bet)
+Seat 4: aligned1 folded before Flop (didn't bet)
+Seat 5: Stingg folded before Flop (didn't bet)
+Seat 6: mikeliketool folded before Flop (didn't bet)
+Seat 7: WafflesCrisp folded on the Flop
+Seat 8: raresz12 folded before Flop (didn't bet)
+Seat 9: 'I'arantino9 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183003113344:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:45:03 ET
+Table 'Sarin' 9-max Seat #1 is the button
+Seat 1: ollikahn23 ($10.32 in chips) 
+Seat 2: your_drama1 ($18.80 in chips) 
+Seat 3: DominatorCH ($7.73 in chips) 
+Seat 4: aligned1 ($11.01 in chips) 
+Seat 5: Stingg ($10.65 in chips) 
+Seat 6: mikeliketool ($18 in chips) 
+Seat 7: WafflesCrisp ($7.75 in chips) 
+Seat 8: raresz12 ($3.34 in chips) 
+Seat 9: 'I'arantino9 ($10 in chips) 
+your_drama1: posts small blind $0.05
+DominatorCH: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kh 9h]
+aligned1: folds 
+Stingg: folds 
+mikeliketool: folds 
+WafflesCrisp: folds 
+raresz12: folds 
+'I'arantino9: folds 
+ollikahn23: raises $0.10 to $0.20
+your_drama1: folds 
+DominatorCH: calls $0.10
+*** FLOP *** [3d 7d Jh]
+DominatorCH: checks 
+ollikahn23: bets $0.20
+DominatorCH: calls $0.20
+*** TURN *** [3d 7d Jh] [Kc]
+DominatorCH: checks 
+ollikahn23: checks 
+*** RIVER *** [3d 7d Jh Kc] [9c]
+DominatorCH: checks 
+ollikahn23: bets $0.70
+DominatorCH: folds 
+Uncalled bet ($0.70) returned to ollikahn23
+ollikahn23 collected $0.81 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0.04 
+Board [3d 7d Jh Kc 9c]
+Seat 1: ollikahn23 (button) collected ($0.81)
+Seat 2: your_drama1 (small blind) folded before Flop
+Seat 3: DominatorCH (big blind) folded on the River
+Seat 4: aligned1 folded before Flop (didn't bet)
+Seat 5: Stingg folded before Flop (didn't bet)
+Seat 6: mikeliketool folded before Flop (didn't bet)
+Seat 7: WafflesCrisp folded before Flop (didn't bet)
+Seat 8: raresz12 folded before Flop (didn't bet)
+Seat 9: 'I'arantino9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183003138351:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:45:57 ET
+Table 'Sarin' 9-max Seat #2 is the button
+Seat 1: ollikahn23 ($10.73 in chips) 
+Seat 2: your_drama1 ($18.75 in chips) 
+Seat 3: DominatorCH ($7.33 in chips) 
+Seat 4: aligned1 ($11.01 in chips) 
+Seat 5: Stingg ($10.65 in chips) 
+Seat 6: mikeliketool ($18 in chips) 
+Seat 7: WafflesCrisp ($7.75 in chips) 
+Seat 8: raresz12 ($3.34 in chips) 
+Seat 9: 'I'arantino9 ($10 in chips) 
+DominatorCH: posts small blind $0.05
+aligned1: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6s 9h]
+Stingg: folds 
+mikeliketool: folds 
+WafflesCrisp: raises $0.10 to $0.20
+raresz12: folds 
+'I'arantino9: folds 
+ollikahn23: folds 
+your_drama1: folds 
+DominatorCH: folds 
+aligned1: calls $0.10
+*** FLOP *** [8h 7c Kh]
+aligned1: checks 
+WafflesCrisp: bets $0.20
+aligned1: folds 
+Uncalled bet ($0.20) returned to WafflesCrisp
+WafflesCrisp collected $0.43 from pot
+WafflesCrisp: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [8h 7c Kh]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: your_drama1 (button) folded before Flop (didn't bet)
+Seat 3: DominatorCH (small blind) folded before Flop
+Seat 4: aligned1 (big blind) folded on the Flop
+Seat 5: Stingg folded before Flop (didn't bet)
+Seat 6: mikeliketool folded before Flop (didn't bet)
+Seat 7: WafflesCrisp collected ($0.43)
+Seat 8: raresz12 folded before Flop (didn't bet)
+Seat 9: 'I'arantino9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183003152470:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:46:28 ET
+Table 'Sarin' 9-max Seat #3 is the button
+Seat 1: ollikahn23 ($10.73 in chips) 
+Seat 2: your_drama1 ($18.75 in chips) 
+Seat 3: DominatorCH ($7.28 in chips) 
+Seat 4: aligned1 ($10.81 in chips) 
+Seat 5: Stingg ($10.65 in chips) 
+Seat 6: mikeliketool ($18 in chips) 
+Seat 7: WafflesCrisp ($7.98 in chips) 
+Seat 8: raresz12 ($3.34 in chips) 
+Seat 9: 'I'arantino9 ($10 in chips) 
+aligned1: posts small blind $0.05
+Stingg: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qc 2s]
+mikeliketool: folds 
+WafflesCrisp: folds 
+raresz12: calls $0.10
+'I'arantino9: folds 
+ollikahn23: folds 
+your_drama1: folds 
+DominatorCH: folds 
+aligned1: calls $0.05
+Stingg: checks 
+*** FLOP *** [Ad 5c 4s]
+aligned1: checks 
+Stingg: checks 
+raresz12: bets $0.29
+aligned1: folds 
+Stingg: folds 
+Uncalled bet ($0.29) returned to raresz12
+raresz12 collected $0.29 from pot
+raresz12: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [Ad 5c 4s]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: your_drama1 folded before Flop (didn't bet)
+Seat 3: DominatorCH (button) folded before Flop (didn't bet)
+Seat 4: aligned1 (small blind) folded on the Flop
+Seat 5: Stingg (big blind) folded on the Flop
+Seat 6: mikeliketool folded before Flop (didn't bet)
+Seat 7: WafflesCrisp folded before Flop (didn't bet)
+Seat 8: raresz12 collected ($0.29)
+Seat 9: 'I'arantino9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183003169166:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:47:04 ET
+Table 'Sarin' 9-max Seat #4 is the button
+Seat 1: ollikahn23 ($10.73 in chips) 
+Seat 2: your_drama1 ($18.75 in chips) 
+Seat 3: DominatorCH ($7.28 in chips) 
+Seat 4: aligned1 ($10.71 in chips) 
+Seat 5: Stingg ($10.55 in chips) 
+Seat 6: mikeliketool ($18 in chips) 
+Seat 7: WafflesCrisp ($7.98 in chips) 
+Seat 8: raresz12 ($3.53 in chips) 
+Seat 9: 'I'arantino9 ($10 in chips) 
+Stingg: posts small blind $0.05
+mikeliketool: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qh Ac]
+WafflesCrisp: folds 
+raresz12: folds 
+'I'arantino9: folds 
+ollikahn23: raises $0.15 to $0.25
+your_drama1: folds 
+DominatorCH: folds 
+aligned1: folds 
+Stingg: calls $0.20
+mikeliketool: folds 
+*** FLOP *** [8s 7c Ah]
+Stingg: checks 
+ollikahn23: bets $0.30
+Stingg: folds 
+Uncalled bet ($0.30) returned to ollikahn23
+ollikahn23 collected $0.57 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [8s 7c Ah]
+Seat 1: ollikahn23 collected ($0.57)
+Seat 2: your_drama1 folded before Flop (didn't bet)
+Seat 3: DominatorCH folded before Flop (didn't bet)
+Seat 4: aligned1 (button) folded before Flop (didn't bet)
+Seat 5: Stingg (small blind) folded on the Flop
+Seat 6: mikeliketool (big blind) folded before Flop
+Seat 7: WafflesCrisp folded before Flop (didn't bet)
+Seat 8: raresz12 folded before Flop (didn't bet)
+Seat 9: 'I'arantino9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183003185244:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:47:40 ET
+Table 'Sarin' 9-max Seat #5 is the button
+Seat 1: ollikahn23 ($11.05 in chips) 
+Seat 2: your_drama1 ($18.75 in chips) 
+Seat 3: DominatorCH ($7.28 in chips) 
+Seat 4: aligned1 ($10.71 in chips) 
+Seat 5: Stingg ($10.30 in chips) 
+Seat 6: mikeliketool ($17.90 in chips) 
+Seat 7: WafflesCrisp ($7.98 in chips) 
+Seat 8: raresz12 ($3.53 in chips) 
+Seat 9: 'I'arantino9 ($10 in chips) 
+mikeliketool: posts small blind $0.05
+WafflesCrisp: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3d 6d]
+raresz12: folds 
+'I'arantino9: folds 
+ollikahn23: folds 
+your_drama1: folds 
+DominatorCH: folds 
+aligned1: raises $0.20 to $0.30
+Stingg: folds 
+mikeliketool: calls $0.25
+WafflesCrisp: calls $0.20
+*** FLOP *** [Th Qh 7c]
+mikeliketool: checks 
+WafflesCrisp: bets $0.30
+aligned1: calls $0.30
+mikeliketool: calls $0.30
+*** TURN *** [Th Qh 7c] [Qs]
+mikeliketool: checks 
+WafflesCrisp: checks 
+aligned1: checks 
+*** RIVER *** [Th Qh 7c Qs] [2s]
+mikeliketool: checks 
+WafflesCrisp: checks 
+aligned1: checks 
+*** SHOW DOWN ***
+mikeliketool: shows [9d Qd] (three of a kind, Queens)
+WafflesCrisp: mucks hand 
+aligned1: mucks hand 
+mikeliketool collected $1.72 from pot
+*** SUMMARY ***
+Total pot $1.80 | Rake $0.08 
+Board [Th Qh 7c Qs 2s]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: your_drama1 folded before Flop (didn't bet)
+Seat 3: DominatorCH folded before Flop (didn't bet)
+Seat 4: aligned1 mucked [Ad Td]
+Seat 5: Stingg (button) folded before Flop (didn't bet)
+Seat 6: mikeliketool (small blind) showed [9d Qd] and won ($1.72) with three of a kind, Queens
+Seat 7: WafflesCrisp (big blind) mucked [5h 3h]
+Seat 8: raresz12 folded before Flop (didn't bet)
+Seat 9: 'I'arantino9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183003208549:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:48:32 ET
+Table 'Sarin' 9-max Seat #6 is the button
+Seat 1: ollikahn23 ($11.05 in chips) 
+Seat 2: your_drama1 ($18.75 in chips) 
+Seat 3: DominatorCH ($7.28 in chips) 
+Seat 4: aligned1 ($10.11 in chips) 
+Seat 5: Stingg ($10.30 in chips) 
+Seat 6: mikeliketool ($19.02 in chips) 
+Seat 7: WafflesCrisp ($7.38 in chips) 
+Seat 8: raresz12 ($3.53 in chips) 
+Seat 9: 'I'arantino9 ($10 in chips) 
+WafflesCrisp: posts small blind $0.05
+raresz12: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9s Kd]
+'I'arantino9: folds 
+ollikahn23: folds 
+your_drama1: folds 
+DominatorCH: folds 
+aligned1: folds 
+Stingg: raises $0.15 to $0.25
+mikeliketool: calls $0.25
+WafflesCrisp: folds 
+raresz12: calls $0.15
+*** FLOP *** [Jh Ks 6s]
+raresz12: bets $0.38
+Stingg: raises $1.01 to $1.39
+mikeliketool: folds 
+raresz12: calls $1.01
+*** TURN *** [Jh Ks 6s] [As]
+raresz12: checks 
+Stingg: bets $1.90
+raresz12: folds 
+Uncalled bet ($1.90) returned to Stingg
+Stingg collected $3.42 from pot
+Stingg: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.58 | Rake $0.16 
+Board [Jh Ks 6s As]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: your_drama1 folded before Flop (didn't bet)
+Seat 3: DominatorCH folded before Flop (didn't bet)
+Seat 4: aligned1 folded before Flop (didn't bet)
+Seat 5: Stingg collected ($3.42)
+Seat 6: mikeliketool (button) folded on the Flop
+Seat 7: WafflesCrisp (small blind) folded before Flop
+Seat 8: raresz12 (big blind) folded on the Turn
+Seat 9: 'I'arantino9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183003239715:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:49:41 ET
+Table 'Sarin' 9-max Seat #7 is the button
+Seat 1: ollikahn23 ($11.05 in chips) 
+Seat 2: your_drama1 ($18.75 in chips) 
+Seat 3: DominatorCH ($7.28 in chips) 
+Seat 4: aligned1 ($10.11 in chips) 
+Seat 5: Stingg ($12.08 in chips) 
+Seat 6: mikeliketool ($18.77 in chips) 
+Seat 7: WafflesCrisp ($7.33 in chips) 
+Seat 8: raresz12 ($1.89 in chips) 
+Seat 9: 'I'arantino9 ($10 in chips) 
+raresz12: posts small blind $0.05
+'I'arantino9: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8h 7h]
+ollikahn23: folds 
+your_drama1: folds 
+DominatorCH: folds 
+aligned1: folds 
+Stingg: folds 
+mikeliketool: raises $0.20 to $0.30
+WafflesCrisp: folds 
+raresz12: raises $1.59 to $1.89 and is all-in
+'I'arantino9: folds 
+mikeliketool: folds 
+Uncalled bet ($1.59) returned to raresz12
+raresz12 collected $0.70 from pot
+raresz12: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: your_drama1 folded before Flop (didn't bet)
+Seat 3: DominatorCH folded before Flop (didn't bet)
+Seat 4: aligned1 folded before Flop (didn't bet)
+Seat 5: Stingg folded before Flop (didn't bet)
+Seat 6: mikeliketool folded before Flop
+Seat 7: WafflesCrisp (button) folded before Flop (didn't bet)
+Seat 8: raresz12 (small blind) collected ($0.70)
+Seat 9: 'I'arantino9 (big blind) folded before Flop
+
+
+
+PokerStars Hand #183003256918:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:50:19 ET
+Table 'Sarin' 9-max Seat #8 is the button
+Seat 1: ollikahn23 ($11.05 in chips) 
+Seat 2: your_drama1 ($18.75 in chips) 
+Seat 3: DominatorCH ($7.28 in chips) 
+Seat 4: aligned1 ($10.11 in chips) 
+Seat 5: Stingg ($12.08 in chips) 
+Seat 6: mikeliketool ($18.47 in chips) 
+Seat 7: WafflesCrisp ($7.33 in chips) 
+Seat 8: raresz12 ($2.29 in chips) 
+Seat 9: 'I'arantino9 ($10 in chips) 
+'I'arantino9: posts small blind $0.05
+ollikahn23: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8c 3s]
+your_drama1: folds 
+DominatorCH: folds 
+aligned1: folds 
+Stingg: folds 
+mikeliketool: folds 
+WafflesCrisp: raises $0.20 to $0.30
+raresz12: raises $1.99 to $2.29 and is all-in
+'I'arantino9: folds 
+ollikahn23: folds 
+WafflesCrisp: calls $1.99
+*** FLOP *** [3d 2s Kd]
+*** TURN *** [3d 2s Kd] [7d]
+*** RIVER *** [3d 2s Kd 7d] [Kh]
+*** SHOW DOWN ***
+WafflesCrisp: shows [Tc Qc] (a pair of Kings)
+raresz12: shows [Ad Th] (a pair of Kings - Ace kicker)
+raresz12 collected $4.52 from pot
+*** SUMMARY ***
+Total pot $4.73 | Rake $0.21 
+Board [3d 2s Kd 7d Kh]
+Seat 1: ollikahn23 (big blind) folded before Flop
+Seat 2: your_drama1 folded before Flop (didn't bet)
+Seat 3: DominatorCH folded before Flop (didn't bet)
+Seat 4: aligned1 folded before Flop (didn't bet)
+Seat 5: Stingg folded before Flop (didn't bet)
+Seat 6: mikeliketool folded before Flop (didn't bet)
+Seat 7: WafflesCrisp showed [Tc Qc] and lost with a pair of Kings
+Seat 8: raresz12 (button) showed [Ad Th] and won ($4.52) with a pair of Kings
+Seat 9: 'I'arantino9 (small blind) folded before Flop
+
+
+
+PokerStars Hand #183003275064:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:51:00 ET
+Table 'Sarin' 9-max Seat #9 is the button
+Seat 1: ollikahn23 ($10.95 in chips) 
+Seat 2: your_drama1 ($18.75 in chips) 
+Seat 3: DominatorCH ($7.28 in chips) 
+Seat 4: aligned1 ($10.11 in chips) 
+Seat 5: Stingg ($12.08 in chips) 
+Seat 6: mikeliketool ($18.47 in chips) 
+Seat 7: WafflesCrisp ($5.04 in chips) 
+Seat 8: raresz12 ($4.52 in chips) 
+Seat 9: 'I'arantino9 ($10 in chips) 
+ollikahn23: posts small blind $0.05
+your_drama1: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6h 6d]
+DominatorCH: folds 
+aligned1: folds 
+Stingg: raises $0.20 to $0.30
+mikeliketool: folds 
+WafflesCrisp: folds 
+raresz12: folds 
+'I'arantino9: folds 
+ollikahn23: calls $0.25
+your_drama1: raises $1.20 to $1.50
+Stingg: folds 
+ollikahn23: folds 
+Uncalled bet ($1.20) returned to your_drama1
+your_drama1 collected $0.90 from pot
+your_drama1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.90 | Rake $0 
+Seat 1: ollikahn23 (small blind) folded before Flop
+Seat 2: your_drama1 (big blind) collected ($0.90)
+Seat 3: DominatorCH folded before Flop (didn't bet)
+Seat 4: aligned1 folded before Flop (didn't bet)
+Seat 5: Stingg folded before Flop
+Seat 6: mikeliketool folded before Flop (didn't bet)
+Seat 7: WafflesCrisp folded before Flop (didn't bet)
+Seat 8: raresz12 folded before Flop (didn't bet)
+Seat 9: 'I'arantino9 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183003288991:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:51:31 ET
+Table 'Sarin' 9-max Seat #1 is the button
+Seat 1: ollikahn23 ($10.65 in chips) 
+Seat 2: your_drama1 ($19.35 in chips) 
+Seat 3: DominatorCH ($7.28 in chips) 
+Seat 4: aligned1 ($10.11 in chips) 
+Seat 5: Stingg ($11.78 in chips) 
+Seat 6: mikeliketool ($18.47 in chips) 
+Seat 7: WafflesCrisp ($5.04 in chips) 
+Seat 8: raresz12 ($4.52 in chips) 
+Seat 9: 'I'arantino9 ($10 in chips) 
+your_drama1: posts small blind $0.05
+DominatorCH: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6c 7d]
+aligned1: folds 
+Stingg: folds 
+mikeliketool: folds 
+WafflesCrisp: folds 
+raresz12: raises $0.25 to $0.35
+'I'arantino9: folds 
+ollikahn23: folds 
+your_drama1: folds 
+DominatorCH: folds 
+Uncalled bet ($0.25) returned to raresz12
+raresz12 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 2: your_drama1 (small blind) folded before Flop
+Seat 3: DominatorCH (big blind) folded before Flop
+Seat 4: aligned1 folded before Flop (didn't bet)
+Seat 5: Stingg folded before Flop (didn't bet)
+Seat 6: mikeliketool folded before Flop (didn't bet)
+Seat 7: WafflesCrisp folded before Flop (didn't bet)
+Seat 8: raresz12 collected ($0.25)
+Seat 9: 'I'arantino9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183003306153:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:52:09 ET
+Table 'Sarin' 9-max Seat #2 is the button
+Seat 1: ollikahn23 ($10.65 in chips) 
+Seat 2: your_drama1 ($19.30 in chips) 
+Seat 3: DominatorCH ($7.18 in chips) 
+Seat 4: aligned1 ($10.11 in chips) 
+Seat 5: Stingg ($11.78 in chips) 
+Seat 6: mikeliketool ($18.47 in chips) 
+Seat 7: WafflesCrisp ($5.04 in chips) 
+Seat 8: raresz12 ($4.67 in chips) 
+Seat 9: 'I'arantino9 ($10 in chips) 
+DominatorCH: posts small blind $0.05
+aligned1: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kh 8s]
+Stingg: folds 
+mikeliketool: folds 
+WafflesCrisp: raises $0.10 to $0.20
+raresz12: raises $0.10 to $0.30
+'I'arantino9: folds 
+ollikahn23: folds 
+your_drama1: raises $0.95 to $1.25
+DominatorCH: folds 
+aligned1: folds 
+WafflesCrisp: folds 
+raresz12: folds 
+Uncalled bet ($0.95) returned to your_drama1
+your_drama1 collected $0.95 from pot
+your_drama1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.95 | Rake $0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: your_drama1 (button) collected ($0.95)
+Seat 3: DominatorCH (small blind) folded before Flop
+Seat 4: aligned1 (big blind) folded before Flop
+Seat 5: Stingg folded before Flop (didn't bet)
+Seat 6: mikeliketool folded before Flop (didn't bet)
+Seat 7: WafflesCrisp folded before Flop
+Seat 8: raresz12 folded before Flop
+Seat 9: 'I'arantino9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183003329847:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:53:03 ET
+Table 'Sarin' 9-max Seat #3 is the button
+Seat 1: ollikahn23 ($10.65 in chips) 
+Seat 2: your_drama1 ($19.95 in chips) 
+Seat 3: DominatorCH ($7.13 in chips) 
+Seat 4: aligned1 ($10.01 in chips) 
+Seat 5: Stingg ($11.78 in chips) 
+Seat 6: mikeliketool ($18.47 in chips) 
+Seat 7: WafflesCrisp ($4.84 in chips) 
+Seat 8: raresz12 ($4.37 in chips) 
+Seat 9: 'I'arantino9 ($10 in chips) 
+aligned1: posts small blind $0.05
+Stingg: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9h 4h]
+mikeliketool: folds 
+WafflesCrisp: calls $0.10
+raresz12: calls $0.10
+'I'arantino9: folds 
+ollikahn23: folds 
+your_drama1: folds 
+DominatorCH: calls $0.10
+aligned1: calls $0.05
+Stingg: checks 
+*** FLOP *** [As 2h Qd]
+aligned1: checks 
+Stingg: checks 
+WafflesCrisp: checks 
+raresz12: checks 
+DominatorCH: bets $0.40
+aligned1: folds 
+Stingg: folds 
+WafflesCrisp: calls $0.40
+raresz12: folds 
+*** TURN *** [As 2h Qd] [4d]
+WafflesCrisp: checks 
+DominatorCH: checks 
+*** RIVER *** [As 2h Qd 4d] [7s]
+WafflesCrisp: checks 
+DominatorCH: checks 
+*** SHOW DOWN ***
+WafflesCrisp: shows [Jc Ac] (a pair of Aces)
+DominatorCH: mucks hand 
+WafflesCrisp collected $1.24 from pot
+*** SUMMARY ***
+Total pot $1.30 | Rake $0.06 
+Board [As 2h Qd 4d 7s]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: your_drama1 folded before Flop (didn't bet)
+Seat 3: DominatorCH (button) mucked [8s Ad]
+Seat 4: aligned1 (small blind) folded on the Flop
+Seat 5: Stingg (big blind) folded on the Flop
+Seat 6: mikeliketool folded before Flop (didn't bet)
+Seat 7: WafflesCrisp showed [Jc Ac] and won ($1.24) with a pair of Aces
+Seat 8: raresz12 folded on the Flop
+Seat 9: 'I'arantino9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183003367855:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:54:30 ET
+Table 'Sarin' 9-max Seat #4 is the button
+Seat 1: ollikahn23 ($10.65 in chips) 
+Seat 2: your_drama1 ($19.95 in chips) 
+Seat 3: DominatorCH ($6.63 in chips) 
+Seat 4: aligned1 ($9.91 in chips) 
+Seat 5: Stingg ($11.68 in chips) 
+Seat 6: mikeliketool ($18.47 in chips) 
+Seat 7: WafflesCrisp ($5.58 in chips) 
+Seat 8: raresz12 ($4.27 in chips) 
+Seat 9: 'I'arantino9 ($10 in chips) 
+Stingg: posts small blind $0.05
+mikeliketool: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3h 7h]
+WafflesCrisp: folds 
+raresz12: raises $0.25 to $0.35
+'I'arantino9: folds 
+ollikahn23: folds 
+your_drama1: folds 
+DominatorCH: folds 
+aligned1: folds 
+Stingg: folds 
+mikeliketool: calls $0.25
+*** FLOP *** [6c 2c 8d]
+mikeliketool: checks 
+raresz12: checks 
+*** TURN *** [6c 2c 8d] [3c]
+mikeliketool: bets $0.40
+raresz12: calls $0.40
+*** RIVER *** [6c 2c 8d 3c] [9h]
+mikeliketool: bets $0.70
+raresz12: folds 
+Uncalled bet ($0.70) returned to mikeliketool
+mikeliketool collected $1.48 from pot
+mikeliketool: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.55 | Rake $0.07 
+Board [6c 2c 8d 3c 9h]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: your_drama1 folded before Flop (didn't bet)
+Seat 3: DominatorCH folded before Flop (didn't bet)
+Seat 4: aligned1 (button) folded before Flop (didn't bet)
+Seat 5: Stingg (small blind) folded before Flop
+Seat 6: mikeliketool (big blind) collected ($1.48)
+Seat 7: WafflesCrisp folded before Flop (didn't bet)
+Seat 8: raresz12 folded on the River
+Seat 9: 'I'arantino9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183003392269:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:55:29 ET
+Table 'Sarin' 9-max Seat #5 is the button
+Seat 1: ollikahn23 ($10.65 in chips) 
+Seat 2: your_drama1 ($19.95 in chips) 
+Seat 3: DominatorCH ($6.63 in chips) 
+Seat 4: aligned1 ($9.91 in chips) 
+Seat 5: Stingg ($11.63 in chips) 
+Seat 6: mikeliketool ($19.20 in chips) 
+Seat 7: WafflesCrisp ($5.58 in chips) 
+Seat 8: raresz12 ($3.52 in chips) 
+Seat 9: 'I'arantino9 ($10 in chips) 
+mikeliketool: posts small blind $0.05
+WafflesCrisp: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3c Tc]
+raresz12: raises $0.25 to $0.35
+'I'arantino9: folds 
+ollikahn23: folds 
+your_drama1: folds 
+DominatorCH: folds 
+aligned1: calls $0.35
+Stingg: folds 
+mikeliketool: folds 
+WafflesCrisp: calls $0.25
+*** FLOP *** [Qc 2d 5s]
+WafflesCrisp: bets $0.40
+raresz12: folds 
+aligned1: folds 
+Uncalled bet ($0.40) returned to WafflesCrisp
+WafflesCrisp collected $1.05 from pot
+WafflesCrisp: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [Qc 2d 5s]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: your_drama1 folded before Flop (didn't bet)
+Seat 3: DominatorCH folded before Flop (didn't bet)
+Seat 4: aligned1 folded on the Flop
+Seat 5: Stingg (button) folded before Flop (didn't bet)
+Seat 6: mikeliketool (small blind) folded before Flop
+Seat 7: WafflesCrisp (big blind) collected ($1.05)
+Seat 8: raresz12 folded on the Flop
+Seat 9: 'I'arantino9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183003410184:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:56:16 ET
+Table 'Sarin' 9-max Seat #6 is the button
+Seat 1: ollikahn23 ($10.65 in chips) 
+Seat 2: your_drama1 ($19.95 in chips) 
+Seat 3: DominatorCH ($6.63 in chips) 
+Seat 4: aligned1 ($9.56 in chips) 
+Seat 5: Stingg ($11.63 in chips) 
+Seat 6: mikeliketool ($19.15 in chips) 
+Seat 7: WafflesCrisp ($6.28 in chips) 
+Seat 8: raresz12 ($3.17 in chips) 
+Seat 9: 'I'arantino9 ($10 in chips) 
+WafflesCrisp: posts small blind $0.05
+raresz12: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6s 5d]
+'I'arantino9: folds 
+ollikahn23: folds 
+your_drama1: folds 
+DominatorCH: folds 
+aligned1: folds 
+Stingg: folds 
+mikeliketool: raises $0.20 to $0.30
+WafflesCrisp: folds 
+raresz12: calls $0.20
+*** FLOP *** [Jd As Jh]
+raresz12: checks 
+mikeliketool: bets $0.30
+raresz12: calls $0.30
+*** TURN *** [Jd As Jh] [Tc]
+raresz12: checks 
+mikeliketool: checks 
+*** RIVER *** [Jd As Jh Tc] [Js]
+raresz12: checks 
+mikeliketool: bets $1.20
+raresz12: calls $1.20
+*** SHOW DOWN ***
+mikeliketool: shows [5h 7h] (three of a kind, Jacks)
+raresz12: shows [9d Kh] (three of a kind, Jacks - Ace+King kicker)
+raresz12 collected $3.49 from pot
+*** SUMMARY ***
+Total pot $3.65 | Rake $0.16 
+Board [Jd As Jh Tc Js]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: your_drama1 folded before Flop (didn't bet)
+Seat 3: DominatorCH folded before Flop (didn't bet)
+Seat 4: aligned1 folded before Flop (didn't bet)
+Seat 5: Stingg folded before Flop (didn't bet)
+Seat 6: mikeliketool (button) showed [5h 7h] and lost with three of a kind, Jacks
+Seat 7: WafflesCrisp (small blind) folded before Flop
+Seat 8: raresz12 (big blind) showed [9d Kh] and won ($3.49) with three of a kind, Jacks
+Seat 9: 'I'arantino9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183003446933:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:57:53 ET
+Table 'Sarin' 9-max Seat #7 is the button
+Seat 1: ollikahn23 ($10.65 in chips) 
+Seat 2: your_drama1 ($19.95 in chips) 
+Seat 3: DominatorCH ($6.63 in chips) 
+Seat 4: aligned1 ($9.56 in chips) 
+Seat 5: Stingg ($11.63 in chips) 
+Seat 6: mikeliketool ($17.35 in chips) 
+Seat 7: WafflesCrisp ($6.23 in chips) 
+Seat 8: raresz12 ($4.86 in chips) 
+Seat 9: 'I'arantino9 ($10 in chips) 
+raresz12: posts small blind $0.05
+'I'arantino9: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qh Jd]
+ollikahn23: folds 
+your_drama1: folds 
+DominatorCH: folds 
+aligned1: folds 
+Stingg: folds 
+mikeliketool: raises $0.20 to $0.30
+WafflesCrisp: calls $0.30
+raresz12: calls $0.25
+'I'arantino9: raises $0.90 to $1.20
+mikeliketool: folds 
+WafflesCrisp: folds 
+raresz12: folds 
+Uncalled bet ($0.90) returned to 'I'arantino9
+'I'arantino9 collected $1.20 from pot
+*** SUMMARY ***
+Total pot $1.20 | Rake $0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: your_drama1 folded before Flop (didn't bet)
+Seat 3: DominatorCH folded before Flop (didn't bet)
+Seat 4: aligned1 folded before Flop (didn't bet)
+Seat 5: Stingg folded before Flop (didn't bet)
+Seat 6: mikeliketool folded before Flop
+Seat 7: WafflesCrisp (button) folded before Flop
+Seat 8: raresz12 (small blind) folded before Flop
+Seat 9: 'I'arantino9 (big blind) collected ($1.20)
+
+
+
+PokerStars Hand #183003471673:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:58:57 ET
+Table 'Sarin' 9-max Seat #8 is the button
+Seat 1: ollikahn23 ($10.65 in chips) 
+Seat 2: your_drama1 ($19.95 in chips) 
+Seat 3: DominatorCH ($6.63 in chips) 
+Seat 4: aligned1 ($9.56 in chips) 
+Seat 5: Stingg ($11.63 in chips) 
+Seat 6: mikeliketool ($17.05 in chips) 
+Seat 7: WafflesCrisp ($5.93 in chips) 
+Seat 8: raresz12 ($4.56 in chips) 
+Seat 9: 'I'arantino9 ($10.90 in chips) 
+'I'arantino9: posts small blind $0.05
+ollikahn23: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9s Qd]
+your_drama1: folds 
+DominatorCH: folds 
+aligned1: folds 
+Stingg: folds 
+mikeliketool: folds 
+mikeliketool leaves the table
+WafflesCrisp: folds 
+raresz12: folds 
+'I'arantino9: folds 
+Uncalled bet ($0.05) returned to ollikahn23
+ollikahn23 collected $0.10 from pot
+ollikahn23: doesn't show hand 
+Toldik5 joins the table at seat #6 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: ollikahn23 (big blind) collected ($0.10)
+Seat 2: your_drama1 folded before Flop (didn't bet)
+Seat 3: DominatorCH folded before Flop (didn't bet)
+Seat 4: aligned1 folded before Flop (didn't bet)
+Seat 5: Stingg folded before Flop (didn't bet)
+Seat 6: mikeliketool folded before Flop (didn't bet)
+Seat 7: WafflesCrisp folded before Flop (didn't bet)
+Seat 8: raresz12 (button) folded before Flop (didn't bet)
+Seat 9: 'I'arantino9 (small blind) folded before Flop
+
+
+
+PokerStars Hand #183003480324:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 20:59:20 ET
+Table 'Sarin' 9-max Seat #9 is the button
+Seat 1: ollikahn23 ($10.70 in chips) 
+Seat 2: your_drama1 ($19.95 in chips) 
+Seat 3: DominatorCH ($6.63 in chips) 
+Seat 4: aligned1 ($9.56 in chips) 
+Seat 5: Stingg ($11.63 in chips) 
+Seat 7: WafflesCrisp ($5.93 in chips) 
+Seat 8: raresz12 ($4.56 in chips) 
+Seat 9: 'I'arantino9 ($10.85 in chips) 
+ollikahn23: posts small blind $0.05
+your_drama1: posts big blind $0.10
+Toldik5: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2s As]
+DominatorCH: folds 
+aligned1: folds 
+Stingg: folds 
+WafflesCrisp: folds 
+raresz12: raises $0.20 to $0.30
+'I'arantino9: folds 
+Toldik5 leaves the table
+Ebabanel joins the table at seat #6 
+ollikahn23: calls $0.25
+your_drama1: folds 
+*** FLOP *** [4s 4d 7d]
+ollikahn23: checks 
+Ebabanel leaves the table
+raresz12: bets $0.34
+PirogUdachi joins the table at seat #6 
+ollikahn23: calls $0.34
+*** TURN *** [4s 4d 7d] [3d]
+ollikahn23: checks 
+raresz12: checks 
+*** RIVER *** [4s 4d 7d 3d] [7c]
+ollikahn23: checks 
+raresz12: bets $1.32
+ollikahn23: calls $1.32
+*** SHOW DOWN ***
+raresz12: shows [Ac 6s] (two pair, Sevens and Fours)
+ollikahn23: shows [2s As] (two pair, Sevens and Fours)
+ollikahn23 collected $1.92 from pot
+raresz12 collected $1.92 from pot
+*** SUMMARY ***
+Total pot $4.02 | Rake $0.18 
+Board [4s 4d 7d 3d 7c]
+Seat 1: ollikahn23 (small blind) showed [2s As] and won ($1.92) with two pair, Sevens and Fours
+Seat 2: your_drama1 (big blind) folded before Flop
+Seat 3: DominatorCH folded before Flop (didn't bet)
+Seat 4: aligned1 folded before Flop (didn't bet)
+Seat 5: Stingg folded before Flop (didn't bet)
+Seat 7: WafflesCrisp folded before Flop (didn't bet)
+Seat 8: raresz12 showed [Ac 6s] and won ($1.92) with two pair, Sevens and Fours
+Seat 9: 'I'arantino9 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183003497587:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 21:00:05 ET
+Table 'Sarin' 9-max Seat #1 is the button
+Seat 1: ollikahn23 ($10.66 in chips) 
+Seat 2: your_drama1 ($19.85 in chips) 
+Seat 3: DominatorCH ($6.63 in chips) 
+Seat 4: aligned1 ($9.56 in chips) 
+Seat 5: Stingg ($11.63 in chips) 
+Seat 7: WafflesCrisp ($5.93 in chips) 
+Seat 8: raresz12 ($4.52 in chips) 
+Seat 9: 'I'arantino9 ($10.85 in chips) 
+your_drama1: posts small blind $0.05
+DominatorCH: posts big blind $0.10
+PirogUdachi: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qh 7c]
+aligned1: folds 
+Stingg: folds 
+WafflesCrisp: folds 
+raresz12: raises $0.20 to $0.30
+'I'arantino9: folds 
+ollikahn23: folds 
+your_drama1: folds 
+DominatorCH: folds 
+Uncalled bet ($0.20) returned to raresz12
+raresz12 collected $0.25 from pot
+raresz12: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 2: your_drama1 (small blind) folded before Flop
+Seat 3: DominatorCH (big blind) folded before Flop
+Seat 4: aligned1 folded before Flop (didn't bet)
+Seat 5: Stingg folded before Flop (didn't bet)
+Seat 7: WafflesCrisp folded before Flop (didn't bet)
+Seat 8: raresz12 collected ($0.25)
+Seat 9: 'I'arantino9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183003514661:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 21:00:49 ET
+Table 'Sarin' 9-max Seat #2 is the button
+Seat 1: ollikahn23 ($10.66 in chips) 
+Seat 2: your_drama1 ($19.80 in chips) 
+Seat 3: DominatorCH ($6.53 in chips) 
+Seat 4: aligned1 ($9.56 in chips) 
+Seat 5: Stingg ($11.63 in chips) 
+Seat 7: WafflesCrisp ($5.93 in chips) 
+Seat 8: raresz12 ($4.67 in chips) 
+Seat 9: 'I'arantino9 ($10.85 in chips) 
+DominatorCH: posts small blind $0.05
+aligned1: posts big blind $0.10
+PirogUdachi: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qh 9d]
+Stingg: folds 
+WafflesCrisp: raises $0.20 to $0.30
+raresz12: folds 
+'I'arantino9: raises $0.60 to $0.90
+ollikahn23: folds 
+your_drama1: folds 
+DominatorCH: folds 
+aligned1: folds 
+WafflesCrisp: calls $0.60
+*** FLOP *** [9s As Th]
+WafflesCrisp: bets $0.80
+'I'arantino9: raises $9.15 to $9.95 and is all-in
+WafflesCrisp: calls $4.23 and is all-in
+Uncalled bet ($4.92) returned to 'I'arantino9
+*** TURN *** [9s As Th] [Ad]
+*** RIVER *** [9s As Th Ad] [Kh]
+*** SHOW DOWN ***
+WafflesCrisp: shows [8c Jc] (a pair of Aces)
+'I'arantino9: shows [Qs Ah] (three of a kind, Aces)
+'I'arantino9 collected $11.47 from pot
+*** SUMMARY ***
+Total pot $12.01 | Rake $0.54 
+Board [9s As Th Ad Kh]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: your_drama1 (button) folded before Flop (didn't bet)
+Seat 3: DominatorCH (small blind) folded before Flop
+Seat 4: aligned1 (big blind) folded before Flop
+Seat 5: Stingg folded before Flop (didn't bet)
+Seat 7: WafflesCrisp showed [8c Jc] and lost with a pair of Aces
+Seat 8: raresz12 folded before Flop (didn't bet)
+Seat 9: 'I'arantino9 showed [Qs Ah] and won ($11.47) with three of a kind, Aces
+
+
+
+PokerStars Hand #183003534702:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 21:01:37 ET
+Table 'Sarin' 9-max Seat #3 is the button
+Seat 1: ollikahn23 ($10.66 in chips) 
+Seat 2: your_drama1 ($19.80 in chips) 
+Seat 3: DominatorCH ($6.48 in chips) 
+Seat 4: aligned1 ($9.46 in chips) 
+Seat 5: Stingg ($11.63 in chips) 
+Seat 8: raresz12 ($4.67 in chips) 
+Seat 9: 'I'arantino9 ($16.39 in chips) 
+aligned1: posts small blind $0.05
+Stingg: posts big blind $0.10
+PirogUdachi: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7c Qc]
+raresz12: folds 
+'I'arantino9: folds 
+WafflesCrisp leaves the table
+ollikahn23: raises $0.15 to $0.25
+Toldik5 joins the table at seat #7 
+your_drama1: folds 
+DominatorCH: folds 
+aligned1: raises $1.05 to $1.30
+Toldik5 leaves the table
+Stingg: folds 
+Ebabanel joins the table at seat #7 
+ollikahn23: calls $1.05
+*** FLOP *** [7d 3c Th]
+Ebabanel leaves the table
+Mr_Dick666 joins the table at seat #7 
+aligned1: checks 
+ollikahn23: checks 
+*** TURN *** [7d 3c Th] [8c]
+aligned1: bets $1.91
+ollikahn23: raises $2.29 to $4.20
+aligned1: folds 
+Uncalled bet ($2.29) returned to ollikahn23
+ollikahn23 collected $6.23 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.52 | Rake $0.29 
+Board [7d 3c Th 8c]
+Seat 1: ollikahn23 collected ($6.23)
+Seat 2: your_drama1 folded before Flop (didn't bet)
+Seat 3: DominatorCH (button) folded before Flop (didn't bet)
+Seat 4: aligned1 (small blind) folded on the Turn
+Seat 5: Stingg (big blind) folded before Flop
+Seat 8: raresz12 folded before Flop (didn't bet)
+Seat 9: 'I'arantino9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183003557799:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 21:02:31 ET
+Table 'Sarin' 9-max Seat #4 is the button
+Seat 1: ollikahn23 ($13.68 in chips) 
+Seat 2: your_drama1 ($19.80 in chips) 
+Seat 3: DominatorCH ($6.48 in chips) 
+Seat 4: aligned1 ($6.25 in chips) 
+Seat 5: Stingg ($11.53 in chips) 
+Seat 6: PirogUdachi ($10 in chips) 
+Seat 8: raresz12 ($4.67 in chips) 
+Seat 9: 'I'arantino9 ($16.39 in chips) 
+Stingg: posts small blind $0.05
+PirogUdachi: posts big blind $0.10
+Mr_Dick666: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8c 7h]
+raresz12: calls $0.10
+'I'arantino9: folds 
+ollikahn23: folds 
+your_drama1: folds 
+DominatorCH: folds 
+aligned1: folds 
+Stingg: folds 
+PirogUdachi: checks 
+*** FLOP *** [5c Ts Tc]
+PirogUdachi: checks 
+raresz12: checks 
+*** TURN *** [5c Ts Tc] [Ah]
+PirogUdachi: checks 
+raresz12: checks 
+*** RIVER *** [5c Ts Tc Ah] [Jc]
+PirogUdachi: checks 
+raresz12: checks 
+*** SHOW DOWN ***
+PirogUdachi: shows [8s Kd] (a pair of Tens)
+raresz12: shows [Kc 2d] (a pair of Tens)
+PirogUdachi collected $0.12 from pot
+raresz12 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [5c Ts Tc Ah Jc]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: your_drama1 folded before Flop (didn't bet)
+Seat 3: DominatorCH folded before Flop (didn't bet)
+Seat 4: aligned1 (button) folded before Flop (didn't bet)
+Seat 5: Stingg (small blind) folded before Flop
+Seat 6: PirogUdachi (big blind) showed [8s Kd] and won ($0.12) with a pair of Tens
+Seat 8: raresz12 showed [Kc 2d] and won ($0.12) with a pair of Tens
+Seat 9: 'I'arantino9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183003578427:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 21:03:19 ET
+Table 'Sarin' 9-max Seat #5 is the button
+Seat 1: ollikahn23 ($13.68 in chips) 
+Seat 2: your_drama1 ($19.80 in chips) 
+Seat 3: DominatorCH ($6.48 in chips) 
+Seat 4: aligned1 ($10 in chips) 
+Seat 5: Stingg ($11.48 in chips) 
+Seat 6: PirogUdachi ($10.02 in chips) 
+Seat 7: Mr_Dick666 ($10.76 in chips) 
+Seat 8: raresz12 ($4.69 in chips) 
+Seat 9: 'I'arantino9 ($16.39 in chips) 
+PirogUdachi: posts small blind $0.05
+Mr_Dick666: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8h 9d]
+raresz12: raises $4.59 to $4.69 and is all-in
+'I'arantino9: folds 
+ollikahn23: folds 
+your_drama1: folds 
+DominatorCH: folds 
+aligned1: folds 
+Stingg: folds 
+PirogUdachi: folds 
+Mr_Dick666: folds 
+Uncalled bet ($4.59) returned to raresz12
+raresz12 collected $0.25 from pot
+raresz12: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: your_drama1 folded before Flop (didn't bet)
+Seat 3: DominatorCH folded before Flop (didn't bet)
+Seat 4: aligned1 folded before Flop (didn't bet)
+Seat 5: Stingg (button) folded before Flop (didn't bet)
+Seat 6: PirogUdachi (small blind) folded before Flop
+Seat 7: Mr_Dick666 (big blind) folded before Flop
+Seat 8: raresz12 collected ($0.25)
+Seat 9: 'I'arantino9 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183003589542:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 21:03:44 ET
+Table 'Sarin' 9-max Seat #6 is the button
+Seat 1: ollikahn23 ($13.68 in chips) 
+Seat 2: your_drama1 ($19.80 in chips) 
+Seat 3: DominatorCH ($6.48 in chips) 
+Seat 4: aligned1 ($10 in chips) 
+Seat 5: Stingg ($11.48 in chips) 
+Seat 6: PirogUdachi ($10 in chips) 
+Seat 7: Mr_Dick666 ($10.66 in chips) 
+Seat 8: raresz12 ($4.84 in chips) 
+Seat 9: 'I'arantino9 ($16.39 in chips) 
+Mr_Dick666: posts small blind $0.05
+raresz12: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8d 4s]
+'I'arantino9: raises $0.15 to $0.25
+ollikahn23: folds 
+your_drama1: folds 
+DominatorCH: folds 
+aligned1: folds 
+Stingg: folds 
+PirogUdachi: folds 
+Mr_Dick666: folds 
+raresz12: calls $0.15
+*** FLOP *** [5h 3d Js]
+raresz12: checks 
+'I'arantino9: bets $0.30
+raresz12: folds 
+Uncalled bet ($0.30) returned to 'I'arantino9
+'I'arantino9 collected $0.53 from pot
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [5h 3d Js]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: your_drama1 folded before Flop (didn't bet)
+Seat 3: DominatorCH folded before Flop (didn't bet)
+Seat 4: aligned1 folded before Flop (didn't bet)
+Seat 5: Stingg folded before Flop (didn't bet)
+Seat 6: PirogUdachi (button) folded before Flop (didn't bet)
+Seat 7: Mr_Dick666 (small blind) folded before Flop
+Seat 8: raresz12 (big blind) folded on the Flop
+Seat 9: 'I'arantino9 collected ($0.53)
+
+
+
+PokerStars Hand #183003603911:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 21:04:17 ET
+Table 'Sarin' 9-max Seat #7 is the button
+Seat 1: ollikahn23 ($13.68 in chips) 
+Seat 2: your_drama1 ($19.80 in chips) 
+Seat 3: DominatorCH ($6.48 in chips) 
+Seat 4: aligned1 ($10 in chips) 
+Seat 5: Stingg ($11.48 in chips) 
+Seat 6: PirogUdachi ($10 in chips) 
+Seat 7: Mr_Dick666 ($10.61 in chips) 
+Seat 8: raresz12 ($4.59 in chips) 
+raresz12: posts small blind $0.05
+'I'arantino9: is sitting out 
+ollikahn23: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3h 6d]
+your_drama1: folds 
+DominatorCH: folds 
+aligned1: folds 
+Stingg: folds 
+PirogUdachi: folds 
+Mr_Dick666: folds 
+raresz12: folds 
+Uncalled bet ($0.05) returned to ollikahn23
+ollikahn23 collected $0.10 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: ollikahn23 (big blind) collected ($0.10)
+Seat 2: your_drama1 folded before Flop (didn't bet)
+Seat 3: DominatorCH folded before Flop (didn't bet)
+Seat 4: aligned1 folded before Flop (didn't bet)
+Seat 5: Stingg folded before Flop (didn't bet)
+Seat 6: PirogUdachi folded before Flop (didn't bet)
+Seat 7: Mr_Dick666 (button) folded before Flop (didn't bet)
+Seat 8: raresz12 (small blind) folded before Flop
+
+
+
+PokerStars Hand #183003609114:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 21:04:29 ET
+Table 'Sarin' 9-max Seat #8 is the button
+Seat 1: ollikahn23 ($13.73 in chips) 
+Seat 2: your_drama1 ($19.80 in chips) 
+Seat 3: DominatorCH ($6.48 in chips) 
+Seat 4: aligned1 ($10 in chips) 
+Seat 5: Stingg ($11.48 in chips) 
+Seat 6: PirogUdachi ($10 in chips) 
+Seat 7: Mr_Dick666 ($10.61 in chips) 
+Seat 8: raresz12 ($4.54 in chips) 
+ollikahn23: posts small blind $0.05
+your_drama1: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jd Ts]
+DominatorCH: raises $0.20 to $0.30
+aligned1: folds 
+Stingg: folds 
+PirogUdachi: folds 
+Mr_Dick666: raises $0.60 to $0.90
+raresz12: calls $0.90
+ollikahn23: folds 
+your_drama1: folds 
+DominatorCH: calls $0.60
+*** FLOP *** [8c As Ac]
+DominatorCH: checks 
+Mr_Dick666: checks 
+raresz12: checks 
+*** TURN *** [8c As Ac] [7d]
+DominatorCH: bets $1.36
+Mr_Dick666: folds 
+raresz12: calls $1.36
+*** RIVER *** [8c As Ac 7d] [8h]
+DominatorCH: bets $2.66
+raresz12: calls $2.28 and is all-in
+Uncalled bet ($0.38) returned to DominatorCH
+*** SHOW DOWN ***
+DominatorCH: shows [Ah 9h] (a full house, Aces full of Eights)
+raresz12: shows [Kh 7h] (two pair, Aces and Eights)
+DominatorCH collected $9.67 from pot
+*** SUMMARY ***
+Total pot $10.13 | Rake $0.46 
+Board [8c As Ac 7d 8h]
+Seat 1: ollikahn23 (small blind) folded before Flop
+Seat 2: your_drama1 (big blind) folded before Flop
+Seat 3: DominatorCH showed [Ah 9h] and won ($9.67) with a full house, Aces full of Eights
+Seat 4: aligned1 folded before Flop (didn't bet)
+Seat 5: Stingg folded before Flop (didn't bet)
+Seat 6: PirogUdachi folded before Flop (didn't bet)
+Seat 7: Mr_Dick666 folded on the Turn
+Seat 8: raresz12 (button) showed [Kh 7h] and lost with two pair, Aces and Eights
+
+
+
+PokerStars Hand #183003642066:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 21:05:44 ET
+Table 'Sarin' 9-max Seat #1 is the button
+Seat 1: ollikahn23 ($13.68 in chips) 
+Seat 2: your_drama1 ($19.70 in chips) 
+Seat 3: DominatorCH ($11.61 in chips) 
+Seat 4: aligned1 ($10 in chips) 
+Seat 5: Stingg ($11.48 in chips) 
+Seat 6: PirogUdachi ($10 in chips) 
+Seat 7: Mr_Dick666 ($10 in chips) 
+your_drama1: posts small blind $0.05
+DominatorCH: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ts Td]
+aligned1: raises $0.20 to $0.30
+Stingg: folds 
+PirogUdachi: folds 
+raresz12 leaves the table
+Mr_Dick666: folds 
+ollikahn23: calls $0.30
+your_drama1: folds 
+DominatorCH: folds 
+*** FLOP *** [Qs Tc 5c]
+aligned1: bets $0.60
+ollikahn23: raises $0.80 to $1.40
+zabiyaka13 joins the table at seat #8 
+aligned1: calls $0.80
+*** TURN *** [Qs Tc 5c] [Kh]
+aligned1: checks 
+ollikahn23: bets $1.50
+aligned1: raises $3.20 to $4.70
+ollikahn23: raises $3.20 to $7.90
+aligned1: raises $0.40 to $8.30 and is all-in
+ollikahn23: calls $0.40
+*** RIVER *** [Qs Tc 5c Kh] [9h]
+*** SHOW DOWN ***
+aligned1: shows [Js Ad] (a straight, Ten to Ace)
+ollikahn23: shows [Ts Td] (three of a kind, Tens)
+aligned1 collected $19.24 from pot
+*** SUMMARY ***
+Total pot $20.15 | Rake $0.91 
+Board [Qs Tc 5c Kh 9h]
+Seat 1: ollikahn23 (button) showed [Ts Td] and lost with three of a kind, Tens
+Seat 2: your_drama1 (small blind) folded before Flop
+Seat 3: DominatorCH (big blind) folded before Flop
+Seat 4: aligned1 showed [Js Ad] and won ($19.24) with a straight, Ten to Ace
+Seat 5: Stingg folded before Flop (didn't bet)
+Seat 6: PirogUdachi folded before Flop (didn't bet)
+Seat 7: Mr_Dick666 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183003667716:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 21:06:43 ET
+Table 'Sarin' 9-max Seat #2 is the button
+Seat 1: ollikahn23 ($10 in chips) 
+Seat 2: your_drama1 ($19.65 in chips) 
+Seat 3: DominatorCH ($11.51 in chips) 
+Seat 5: Stingg ($11.48 in chips) 
+Seat 6: PirogUdachi ($10 in chips) 
+Seat 7: Mr_Dick666 ($10 in chips) 
+DominatorCH: posts small blind $0.05
+aligned1: is sitting out 
+Stingg: posts big blind $0.10
+zabiyaka13: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Th 6d]
+PirogUdachi: raises $0.20 to $0.30
+Mr_Dick666: folds 
+ollikahn23: folds 
+your_drama1: folds 
+DominatorCH: folds 
+Stingg: folds 
+Uncalled bet ($0.20) returned to PirogUdachi
+PirogUdachi collected $0.25 from pot
+PirogUdachi: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: your_drama1 (button) folded before Flop (didn't bet)
+Seat 3: DominatorCH (small blind) folded before Flop
+Seat 5: Stingg (big blind) folded before Flop
+Seat 6: PirogUdachi collected ($0.25)
+Seat 7: Mr_Dick666 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183003674505:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 21:06:58 ET
+Table 'Sarin' 9-max Seat #3 is the button
+Seat 1: ollikahn23 ($10 in chips) 
+Seat 2: your_drama1 ($19.65 in chips) 
+Seat 3: DominatorCH ($11.46 in chips) 
+Seat 5: Stingg ($11.38 in chips) 
+Seat 8: zabiyaka13 ($4.10 in chips) 
+Stingg: posts small blind $0.05
+PirogUdachi: is sitting out 
+Mr_Dick666: is sitting out 
+zabiyaka13: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jh Td]
+Mr_Dick666 leaves the table
+ollikahn23: folds 
+your_drama1: folds 
+DominatorCH: raises $0.20 to $0.30
+Stingg: folds 
+PirogUdachi leaves the table
+zabiyaka13: folds 
+Uncalled bet ($0.20) returned to DominatorCH
+DominatorCH collected $0.25 from pot
+DominatorCH: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: your_drama1 folded before Flop (didn't bet)
+Seat 3: DominatorCH (button) collected ($0.25)
+Seat 5: Stingg (small blind) folded before Flop
+Seat 8: zabiyaka13 (big blind) folded before Flop
+
+
+
+PokerStars Hand #183003682134:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 21:07:15 ET
+Table 'Sarin' 9-max Seat #5 is the button
+Seat 1: ollikahn23 ($10 in chips) 
+Seat 2: your_drama1 ($19.65 in chips) 
+Seat 3: DominatorCH ($11.61 in chips) 
+Seat 5: Stingg ($11.33 in chips) 
+Seat 8: zabiyaka13 ($4.10 in chips) 
+zabiyaka13: posts small blind $0.05
+ollikahn23: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Tc 8c]
+your_drama1: folds 
+DominatorCH: raises $0.20 to $0.30
+Stingg: folds 
+zabiyaka13: folds 
+ollikahn23: calls $0.20
+*** FLOP *** [Th 7s Qh]
+ollikahn23: checks 
+DominatorCH: bets $0.50
+ollikahn23: calls $0.50
+*** TURN *** [Th 7s Qh] [5h]
+ollikahn23: checks 
+DominatorCH: bets $0.79
+ollikahn23: folds 
+Uncalled bet ($0.79) returned to DominatorCH
+DominatorCH collected $1.58 from pot
+DominatorCH: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.65 | Rake $0.07 
+Board [Th 7s Qh 5h]
+Seat 1: ollikahn23 (big blind) folded on the Turn
+Seat 2: your_drama1 folded before Flop (didn't bet)
+Seat 3: DominatorCH collected ($1.58)
+Seat 5: Stingg (button) folded before Flop (didn't bet)
+Seat 8: zabiyaka13 (small blind) folded before Flop
+
+
+
+PokerStars Hand #183003706957:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 21:07:52 ET
+Table 'Sarin' 9-max Seat #8 is the button
+Seat 1: ollikahn23 ($10 in chips) 
+Seat 2: your_drama1 ($19.65 in chips) 
+Seat 3: DominatorCH ($12.39 in chips) 
+Seat 5: Stingg ($11.33 in chips) 
+Seat 8: zabiyaka13 ($4.10 in chips) 
+ollikahn23: posts small blind $0.05
+your_drama1: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7d Jc]
+DominatorCH: folds 
+Stingg: folds 
+zabiyaka13: folds 
+ollikahn23: folds 
+Uncalled bet ($0.05) returned to your_drama1
+'I'arantino9 leaves the table
+your_drama1 collected $0.10 from pot
+your_drama1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: ollikahn23 (small blind) folded before Flop
+Seat 2: your_drama1 (big blind) collected ($0.10)
+Seat 3: DominatorCH folded before Flop (didn't bet)
+Seat 5: Stingg folded before Flop (didn't bet)
+Seat 8: zabiyaka13 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183003712066:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 21:08:04 ET
+Table 'Sarin' 9-max Seat #1 is the button
+Seat 1: ollikahn23 ($10 in chips) 
+Seat 2: your_drama1 ($19.70 in chips) 
+Seat 3: DominatorCH ($12.39 in chips) 
+Seat 5: Stingg ($11.33 in chips) 
+Seat 8: zabiyaka13 ($4.10 in chips) 
+your_drama1: posts small blind $0.05
+DominatorCH: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kh Jc]
+Stingg: folds 
+zabiyaka13: folds 
+ollikahn23: raises $0.10 to $0.20
+your_drama1: calls $0.15
+DominatorCH: calls $0.10
+*** FLOP *** [As Kc Td]
+your_drama1: checks 
+DominatorCH: checks 
+ollikahn23: bets $0.30
+your_drama1: folds 
+DominatorCH: folds 
+Uncalled bet ($0.30) returned to ollikahn23
+ollikahn23 collected $0.57 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [As Kc Td]
+Seat 1: ollikahn23 (button) collected ($0.57)
+Seat 2: your_drama1 (small blind) folded on the Flop
+Seat 3: DominatorCH (big blind) folded on the Flop
+Seat 5: Stingg folded before Flop (didn't bet)
+Seat 8: zabiyaka13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183003727557:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 21:08:38 ET
+Table 'Sarin' 9-max Seat #2 is the button
+Seat 1: ollikahn23 ($10.37 in chips) 
+Seat 2: your_drama1 ($19.50 in chips) 
+Seat 3: DominatorCH ($12.19 in chips) 
+Seat 5: Stingg ($11.33 in chips) 
+Seat 8: zabiyaka13 ($4.10 in chips) 
+DominatorCH: posts small blind $0.05
+Stingg: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ks 2h]
+zabiyaka13: folds 
+ollikahn23: folds 
+your_drama1: folds 
+DominatorCH: folds 
+Uncalled bet ($0.05) returned to Stingg
+Stingg collected $0.10 from pot
+Stingg: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: your_drama1 (button) folded before Flop (didn't bet)
+Seat 3: DominatorCH (small blind) folded before Flop
+Seat 5: Stingg (big blind) collected ($0.10)
+Seat 8: zabiyaka13 folded before Flop (didn't bet)
+
+
+

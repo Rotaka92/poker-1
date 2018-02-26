@@ -1,0 +1,3002 @@
+﻿PokerStars Hand #182113837270:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:21:29 ET
+Table 'Amicitia' 9-max Seat #9 is the button
+Seat 1: ars_time ($8.19 in chips) 
+Seat 2: ollikahn23 ($2 in chips) 
+Seat 3: parlo123 ($2.30 in chips) 
+Seat 4: Kirhgof_1988 ($2.36 in chips) 
+Seat 5: ArnoutsD ($1.76 in chips) 
+Seat 7: obeglova ($3.85 in chips) 
+Seat 8: cubon2507 ($2.29 in chips) 
+Seat 9: Addicted8804 ($2.05 in chips) 
+ars_time: posts small blind $0.01
+ollikahn23: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ad 5d]
+parlo123: calls $0.02
+Kirhgof_1988: folds 
+ArnoutsD: folds 
+obeglova: folds 
+cubon2507: folds 
+Addicted8804: raises $0.08 to $0.10
+ars_time: folds 
+ollikahn23: folds 
+parlo123: calls $0.08
+*** FLOP *** [3d Kh 2s]
+parlo123: checks 
+Addicted8804: checks 
+*** TURN *** [3d Kh 2s] [9c]
+parlo123: checks 
+Addicted8804: bets $0.14
+parlo123: calls $0.14
+*** RIVER *** [3d Kh 2s 9c] [Ac]
+parlo123: checks 
+Addicted8804: bets $0.36
+parlo123: folds 
+Uncalled bet ($0.36) returned to Addicted8804
+Addicted8804 collected $0.49 from pot
+Addicted8804: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.51 | Rake $0.02 
+Board [3d Kh 2s 9c Ac]
+Seat 1: ars_time (small blind) folded before Flop
+Seat 2: ollikahn23 (big blind) folded before Flop
+Seat 3: parlo123 folded on the River
+Seat 4: Kirhgof_1988 folded before Flop (didn't bet)
+Seat 5: ArnoutsD folded before Flop (didn't bet)
+Seat 7: obeglova folded before Flop (didn't bet)
+Seat 8: cubon2507 folded before Flop (didn't bet)
+Seat 9: Addicted8804 (button) collected ($0.49)
+
+
+
+PokerStars Hand #182113868961:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:22:09 ET
+Table 'Amicitia' 9-max Seat #1 is the button
+Seat 1: ars_time ($8.18 in chips) 
+Seat 2: ollikahn23 ($2 in chips) 
+Seat 3: parlo123 ($2.06 in chips) 
+Seat 4: Kirhgof_1988 ($2.36 in chips) 
+Seat 5: ArnoutsD ($1.76 in chips) 
+Seat 7: obeglova ($3.85 in chips) 
+Seat 8: cubon2507 ($2.29 in chips) 
+ollikahn23: posts small blind $0.01
+parlo123: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8d Jh]
+Kirhgof_1988: folds 
+ArnoutsD: folds 
+obeglova: folds 
+cubon2507: raises $0.04 to $0.06
+ars_time: folds 
+ollikahn23: folds 
+parlo123: raises $0.13 to $0.19
+cubon2507: calls $0.13
+*** FLOP *** [Ts Kd Js]
+parlo123: bets $0.38
+cubon2507: raises $0.40 to $0.78
+parlo123: calls $0.40
+*** TURN *** [Ts Kd Js] [Qs]
+parlo123: checks 
+cubon2507: checks 
+*** RIVER *** [Ts Kd Js Qs] [Ah]
+parlo123: checks 
+cubon2507: checks 
+*** SHOW DOWN ***
+parlo123: shows [Kh Ks] (a straight, Ten to Ace)
+cubon2507: shows [Td Tc] (a straight, Ten to Ace)
+parlo123 collected $0.94 from pot
+cubon2507 collected $0.94 from pot
+*** SUMMARY ***
+Total pot $1.95 | Rake $0.07 
+Board [Ts Kd Js Qs Ah]
+Seat 1: ars_time (button) folded before Flop (didn't bet)
+Seat 2: ollikahn23 (small blind) folded before Flop
+Seat 3: parlo123 (big blind) showed [Kh Ks] and won ($0.94) with a straight, Ten to Ace
+Seat 4: Kirhgof_1988 folded before Flop (didn't bet)
+Seat 5: ArnoutsD folded before Flop (didn't bet)
+Seat 7: obeglova folded before Flop (didn't bet)
+Seat 8: cubon2507 showed [Td Tc] and won ($0.94) with a straight, Ten to Ace
+
+
+
+PokerStars Hand #182113916877:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:23:09 ET
+Table 'Amicitia' 9-max Seat #2 is the button
+Seat 1: ars_time ($8.18 in chips) 
+Seat 2: ollikahn23 ($2 in chips) 
+Seat 3: parlo123 ($2.03 in chips) 
+Seat 4: Kirhgof_1988 ($2.36 in chips) 
+Seat 5: ArnoutsD ($1.76 in chips) 
+Seat 7: obeglova ($3.85 in chips) 
+Seat 8: cubon2507 ($2.26 in chips) 
+parlo123: posts small blind $0.01
+Kirhgof_1988: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kc 5s]
+ArnoutsD: calls $0.02
+obeglova: folds 
+cubon2507: folds 
+ars_time: raises $0.04 to $0.06
+ollikahn23: folds 
+parlo123: folds 
+Kirhgof_1988: folds 
+ArnoutsD: calls $0.04
+*** FLOP *** [Qs 4s 6c]
+ArnoutsD: checks 
+ars_time: bets $0.10
+ArnoutsD: calls $0.10
+*** TURN *** [Qs 4s 6c] [Jd]
+haibaneden is disconnected 
+ArnoutsD: checks 
+ars_time: checks 
+*** RIVER *** [Qs 4s 6c Jd] [Js]
+ArnoutsD: bets $0.17
+ars_time: raises $0.33 to $0.50
+ArnoutsD: raises $1.10 to $1.60 and is all-in
+ars_time: folds 
+Uncalled bet ($1.10) returned to ArnoutsD
+ArnoutsD collected $1.30 from pot
+ArnoutsD: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.35 | Rake $0.05 
+Board [Qs 4s 6c Jd Js]
+Seat 1: ars_time folded on the River
+Seat 2: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 3: parlo123 (small blind) folded before Flop
+Seat 4: Kirhgof_1988 (big blind) folded before Flop
+Seat 5: ArnoutsD collected ($1.30)
+Seat 7: obeglova folded before Flop (didn't bet)
+Seat 8: cubon2507 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182113954698:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:23:57 ET
+Table 'Amicitia' 9-max Seat #3 is the button
+Seat 1: ars_time ($7.52 in chips) 
+Seat 2: ollikahn23 ($2 in chips) 
+Seat 3: parlo123 ($2.02 in chips) 
+Seat 4: Kirhgof_1988 ($2.34 in chips) 
+Seat 5: ArnoutsD ($2.40 in chips) 
+Seat 7: obeglova ($3.85 in chips) 
+Seat 8: cubon2507 ($2.26 in chips) 
+Kirhgof_1988: posts small blind $0.01
+ArnoutsD: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qc 9h]
+obeglova: folds 
+cubon2507: folds 
+ars_time: raises $0.04 to $0.06
+ollikahn23: folds 
+parlo123: calls $0.06
+Kirhgof_1988: calls $0.05
+ArnoutsD: folds 
+*** FLOP *** [6h 9d Tc]
+Kirhgof_1988: checks 
+ars_time: bets $0.13
+parlo123: folds 
+Kirhgof_1988: folds 
+Uncalled bet ($0.13) returned to ars_time
+ars_time collected $0.19 from pot
+ars_time: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [6h 9d Tc]
+Seat 1: ars_time collected ($0.19)
+Seat 2: ollikahn23 folded before Flop (didn't bet)
+Seat 3: parlo123 (button) folded on the Flop
+Seat 4: Kirhgof_1988 (small blind) folded on the Flop
+Seat 5: ArnoutsD (big blind) folded before Flop
+Seat 7: obeglova folded before Flop (didn't bet)
+Seat 8: cubon2507 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182113983713:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:24:33 ET
+Table 'Amicitia' 9-max Seat #4 is the button
+Seat 1: ars_time ($7.65 in chips) 
+Seat 2: ollikahn23 ($2 in chips) 
+Seat 3: parlo123 ($2 in chips) 
+Seat 4: Kirhgof_1988 ($2.28 in chips) 
+Seat 5: ArnoutsD ($2.38 in chips) 
+Seat 7: obeglova ($3.85 in chips) 
+Seat 8: cubon2507 ($2.26 in chips) 
+ArnoutsD: posts small blind $0.01
+obeglova: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8c 5c]
+cubon2507: folds 
+ars_time: raises $0.04 to $0.06
+ollikahn23: folds 
+parlo123: folds 
+Kirhgof_1988: calls $0.06
+ArnoutsD: folds 
+obeglova: folds 
+*** FLOP *** [6h 6s Qc]
+ars_time: checks 
+Kirhgof_1988: checks 
+*** TURN *** [6h 6s Qc] [Td]
+ars_time: checks 
+Kirhgof_1988: checks 
+*** RIVER *** [6h 6s Qc Td] [2s]
+ars_time: bets $0.02
+Kirhgof_1988: folds 
+Uncalled bet ($0.02) returned to ars_time
+ars_time collected $0.14 from pot
+ars_time: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [6h 6s Qc Td 2s]
+Seat 1: ars_time collected ($0.14)
+Seat 2: ollikahn23 folded before Flop (didn't bet)
+Seat 3: parlo123 folded before Flop (didn't bet)
+Seat 4: Kirhgof_1988 (button) folded on the River
+Seat 5: ArnoutsD (small blind) folded before Flop
+Seat 7: obeglova (big blind) folded before Flop
+Seat 8: cubon2507 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114022127:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:25:21 ET
+Table 'Amicitia' 9-max Seat #5 is the button
+Seat 1: ars_time ($7.73 in chips) 
+Seat 2: ollikahn23 ($2 in chips) 
+Seat 3: parlo123 ($2 in chips) 
+Seat 4: Kirhgof_1988 ($2.22 in chips) 
+Seat 5: ArnoutsD ($2.37 in chips) 
+Seat 7: obeglova ($3.83 in chips) 
+Seat 8: cubon2507 ($2.26 in chips) 
+obeglova: posts small blind $0.01
+cubon2507: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qd Kd]
+ars_time: folds 
+ollikahn23: raises $0.04 to $0.06
+parlo123: raises $0.15 to $0.21
+Kirhgof_1988: folds 
+ArnoutsD: folds 
+obeglova: folds 
+cubon2507: folds 
+ollikahn23: folds 
+Uncalled bet ($0.15) returned to parlo123
+parlo123 collected $0.15 from pot
+parlo123: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 1: ars_time folded before Flop (didn't bet)
+Seat 2: ollikahn23 folded before Flop
+Seat 3: parlo123 collected ($0.15)
+Seat 4: Kirhgof_1988 folded before Flop (didn't bet)
+Seat 5: ArnoutsD (button) folded before Flop (didn't bet)
+Seat 7: obeglova (small blind) folded before Flop
+Seat 8: cubon2507 (big blind) folded before Flop
+
+
+
+PokerStars Hand #182114043679:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:25:48 ET
+Table 'Amicitia' 9-max Seat #7 is the button
+Seat 1: ars_time ($7.73 in chips) 
+Seat 2: ollikahn23 ($2 in chips) 
+Seat 3: parlo123 ($2.09 in chips) 
+Seat 4: Kirhgof_1988 ($2.22 in chips) 
+Seat 5: ArnoutsD ($2.37 in chips) 
+Seat 7: obeglova ($3.82 in chips) 
+Seat 8: cubon2507 ($2.24 in chips) 
+cubon2507: posts small blind $0.01
+ars_time: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8s 7d]
+ollikahn23: folds 
+parlo123: folds 
+Kirhgof_1988: folds 
+ArnoutsD: folds 
+obeglova: raises $0.04 to $0.06
+cubon2507: folds 
+ars_time: folds 
+Uncalled bet ($0.04) returned to obeglova
+obeglova collected $0.05 from pot
+obeglova: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: ars_time (big blind) folded before Flop
+Seat 2: ollikahn23 folded before Flop (didn't bet)
+Seat 3: parlo123 folded before Flop (didn't bet)
+Seat 4: Kirhgof_1988 folded before Flop (didn't bet)
+Seat 5: ArnoutsD folded before Flop (didn't bet)
+Seat 7: obeglova (button) collected ($0.05)
+Seat 8: cubon2507 (small blind) folded before Flop
+
+
+
+PokerStars Hand #182114056138:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:26:04 ET
+Table 'Amicitia' 9-max Seat #8 is the button
+Seat 1: ars_time ($7.71 in chips) 
+Seat 2: ollikahn23 ($2 in chips) 
+Seat 3: parlo123 ($2.09 in chips) 
+Seat 4: Kirhgof_1988 ($2.22 in chips) 
+Seat 5: ArnoutsD ($2.37 in chips) 
+Seat 7: obeglova ($3.85 in chips) 
+Seat 8: cubon2507 ($2.23 in chips) 
+ars_time: posts small blind $0.01
+ollikahn23: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ac Th]
+parlo123: folds 
+Kirhgof_1988: folds 
+ArnoutsD: folds 
+obeglova: folds 
+cubon2507: folds 
+ars_time: folds 
+Uncalled bet ($0.01) returned to ollikahn23
+ollikahn23 collected $0.02 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: ars_time (small blind) folded before Flop
+Seat 2: ollikahn23 (big blind) collected ($0.02)
+Seat 3: parlo123 folded before Flop (didn't bet)
+Seat 4: Kirhgof_1988 folded before Flop (didn't bet)
+Seat 5: ArnoutsD folded before Flop (didn't bet)
+Seat 7: obeglova folded before Flop (didn't bet)
+Seat 8: cubon2507 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114071745:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:26:23 ET
+Table 'Amicitia' 9-max Seat #1 is the button
+Seat 1: ars_time ($7.70 in chips) 
+Seat 2: ollikahn23 ($2.01 in chips) 
+Seat 3: parlo123 ($2.09 in chips) 
+Seat 4: Kirhgof_1988 ($2.22 in chips) 
+Seat 5: ArnoutsD ($2.37 in chips) 
+Seat 7: obeglova ($3.85 in chips) 
+Seat 8: cubon2507 ($2.23 in chips) 
+ollikahn23: posts small blind $0.01
+parlo123: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jd 5s]
+Kirhgof_1988: folds 
+ArnoutsD: folds 
+obeglova: folds 
+cubon2507: raises $0.04 to $0.06
+ars_time: folds 
+ollikahn23: folds 
+parlo123: folds 
+Uncalled bet ($0.04) returned to cubon2507
+cubon2507 collected $0.05 from pot
+cubon2507: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: ars_time (button) folded before Flop (didn't bet)
+Seat 2: ollikahn23 (small blind) folded before Flop
+Seat 3: parlo123 (big blind) folded before Flop
+Seat 4: Kirhgof_1988 folded before Flop (didn't bet)
+Seat 5: ArnoutsD folded before Flop (didn't bet)
+Seat 7: obeglova folded before Flop (didn't bet)
+Seat 8: cubon2507 collected ($0.05)
+
+
+
+PokerStars Hand #182114085031:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:26:40 ET
+Table 'Amicitia' 9-max Seat #2 is the button
+Seat 1: ars_time ($7.70 in chips) 
+Seat 2: ollikahn23 ($2 in chips) 
+Seat 3: parlo123 ($2.07 in chips) 
+Seat 4: Kirhgof_1988 ($2.22 in chips) 
+Seat 5: ArnoutsD ($2.37 in chips) 
+Seat 7: obeglova ($3.85 in chips) 
+Seat 8: cubon2507 ($2.26 in chips) 
+parlo123: posts small blind $0.01
+Kirhgof_1988: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7d 4d]
+ArnoutsD: calls $0.02
+obeglova: folds 
+cubon2507: folds 
+ars_time: raises $0.04 to $0.06
+ollikahn23: folds 
+parlo123: calls $0.05
+Kirhgof_1988: folds 
+ArnoutsD: calls $0.04
+*** FLOP *** [2h Js 3s]
+parlo123: checks 
+ArnoutsD: checks 
+ars_time: checks 
+*** TURN *** [2h Js 3s] [5d]
+parlo123: checks 
+ArnoutsD: checks 
+ars_time: bets $0.13
+parlo123: calls $0.13
+ArnoutsD: calls $0.13
+*** RIVER *** [2h Js 3s 5d] [Jd]
+parlo123: checks 
+ArnoutsD: bets $0.29
+ars_time: folds 
+parlo123: folds 
+Uncalled bet ($0.29) returned to ArnoutsD
+ArnoutsD collected $0.57 from pot
+ArnoutsD: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.59 | Rake $0.02 
+Board [2h Js 3s 5d Jd]
+Seat 1: ars_time folded on the River
+Seat 2: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 3: parlo123 (small blind) folded on the River
+Seat 4: Kirhgof_1988 (big blind) folded before Flop
+Seat 5: ArnoutsD collected ($0.57)
+Seat 7: obeglova folded before Flop (didn't bet)
+Seat 8: cubon2507 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114125697:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:27:31 ET
+Table 'Amicitia' 9-max Seat #3 is the button
+Seat 1: ars_time ($7.51 in chips) 
+Seat 2: ollikahn23 ($2 in chips) 
+Seat 3: parlo123 ($2 in chips) 
+Seat 4: Kirhgof_1988 ($2.20 in chips) 
+Seat 5: ArnoutsD ($2.75 in chips) 
+Seat 7: obeglova ($3.85 in chips) 
+Seat 8: cubon2507 ($2.26 in chips) 
+Kirhgof_1988: posts small blind $0.01
+ArnoutsD: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9d Jd]
+obeglova: folds 
+cubon2507: folds 
+ars_time: folds 
+ollikahn23: raises $0.04 to $0.06
+parlo123: folds 
+Kirhgof_1988: calls $0.05
+ArnoutsD: folds 
+*** FLOP *** [2h Ad 9s]
+Kirhgof_1988: checks 
+ollikahn23: bets $0.06
+Kirhgof_1988: folds 
+Uncalled bet ($0.06) returned to ollikahn23
+ollikahn23 collected $0.14 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [2h Ad 9s]
+Seat 1: ars_time folded before Flop (didn't bet)
+Seat 2: ollikahn23 collected ($0.14)
+Seat 3: parlo123 (button) folded before Flop (didn't bet)
+Seat 4: Kirhgof_1988 (small blind) folded on the Flop
+Seat 5: ArnoutsD (big blind) folded before Flop
+Seat 7: obeglova folded before Flop (didn't bet)
+Seat 8: cubon2507 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114146466:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:27:56 ET
+Table 'Amicitia' 9-max Seat #4 is the button
+Seat 1: ars_time ($7.51 in chips) 
+Seat 2: ollikahn23 ($2.08 in chips) 
+Seat 3: parlo123 ($2 in chips) 
+Seat 4: Kirhgof_1988 ($2.14 in chips) 
+Seat 5: ArnoutsD ($2.73 in chips) 
+Seat 7: obeglova ($3.85 in chips) 
+Seat 8: cubon2507 ($2.26 in chips) 
+ArnoutsD: posts small blind $0.01
+obeglova: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jh 4s]
+cubon2507: folds 
+ars_time: raises $0.04 to $0.06
+ollikahn23: folds 
+parlo123: folds 
+Kirhgof_1988: calls $0.06
+ArnoutsD: calls $0.05
+obeglova: folds 
+*** FLOP *** [Th 5d 5s]
+ArnoutsD: checks 
+ars_time: bets $0.09
+Kirhgof_1988: folds 
+ArnoutsD: folds 
+Uncalled bet ($0.09) returned to ars_time
+ars_time collected $0.19 from pot
+ars_time: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Th 5d 5s]
+Seat 1: ars_time collected ($0.19)
+Seat 2: ollikahn23 folded before Flop (didn't bet)
+Seat 3: parlo123 folded before Flop (didn't bet)
+Seat 4: Kirhgof_1988 (button) folded on the Flop
+Seat 5: ArnoutsD (small blind) folded on the Flop
+Seat 7: obeglova (big blind) folded before Flop
+Seat 8: cubon2507 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114183417:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:28:42 ET
+Table 'Amicitia' 9-max Seat #5 is the button
+Seat 1: ars_time ($7.64 in chips) 
+Seat 2: ollikahn23 ($2.08 in chips) 
+Seat 3: parlo123 ($2 in chips) 
+Seat 4: Kirhgof_1988 ($2.08 in chips) 
+Seat 5: ArnoutsD ($2.67 in chips) 
+Seat 7: obeglova ($3.83 in chips) 
+Seat 8: cubon2507 ($2.26 in chips) 
+obeglova: posts small blind $0.01
+cubon2507: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9h 9d]
+ars_time: raises $0.04 to $0.06
+ollikahn23: calls $0.06
+parlo123: folds 
+Kirhgof_1988: folds 
+ArnoutsD: calls $0.06
+obeglova: folds 
+cubon2507: folds 
+*** FLOP *** [7d As 3s]
+ars_time: bets $0.12
+ollikahn23: folds 
+ArnoutsD: folds 
+Uncalled bet ($0.12) returned to ars_time
+ars_time collected $0.20 from pot
+ars_time: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [7d As 3s]
+Seat 1: ars_time collected ($0.20)
+Seat 2: ollikahn23 folded on the Flop
+Seat 3: parlo123 folded before Flop (didn't bet)
+Seat 4: Kirhgof_1988 folded before Flop (didn't bet)
+Seat 5: ArnoutsD (button) folded on the Flop
+Seat 7: obeglova (small blind) folded before Flop
+Seat 8: cubon2507 (big blind) folded before Flop
+
+
+
+PokerStars Hand #182114206379:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:29:11 ET
+Table 'Amicitia' 9-max Seat #7 is the button
+Seat 1: ars_time ($7.78 in chips) 
+Seat 2: ollikahn23 ($2.02 in chips) 
+Seat 3: parlo123 ($2 in chips) 
+Seat 4: Kirhgof_1988 ($2.08 in chips) 
+Seat 5: ArnoutsD ($2.61 in chips) 
+Seat 7: obeglova ($3.82 in chips) 
+Seat 8: cubon2507 ($2.24 in chips) 
+cubon2507: posts small blind $0.01
+ars_time: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9h 3h]
+ollikahn23: folds 
+parlo123: folds 
+Kirhgof_1988: folds 
+ArnoutsD: folds 
+obeglova: folds 
+cubon2507: folds 
+Uncalled bet ($0.01) returned to ars_time
+ars_time collected $0.02 from pot
+ars_time: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: ars_time (big blind) collected ($0.02)
+Seat 2: ollikahn23 folded before Flop (didn't bet)
+Seat 3: parlo123 folded before Flop (didn't bet)
+Seat 4: Kirhgof_1988 folded before Flop (didn't bet)
+Seat 5: ArnoutsD folded before Flop (didn't bet)
+Seat 7: obeglova (button) folded before Flop (didn't bet)
+Seat 8: cubon2507 (small blind) folded before Flop
+
+
+
+PokerStars Hand #182114216858:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:29:24 ET
+Table 'Amicitia' 9-max Seat #8 is the button
+Seat 1: ars_time ($7.79 in chips) 
+Seat 2: ollikahn23 ($2.02 in chips) 
+Seat 3: parlo123 ($2 in chips) 
+Seat 4: Kirhgof_1988 ($2.08 in chips) 
+Seat 5: ArnoutsD ($2.61 in chips) 
+Seat 7: obeglova ($3.82 in chips) 
+Seat 8: cubon2507 ($2.23 in chips) 
+ars_time: posts small blind $0.01
+ollikahn23: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8h 5h]
+parlo123: folds 
+Kirhgof_1988: folds 
+ArnoutsD: raises $0.02 to $0.04
+obeglova: folds 
+cubon2507: folds 
+ars_time: folds 
+ollikahn23: folds 
+Uncalled bet ($0.02) returned to ArnoutsD
+ArnoutsD collected $0.05 from pot
+ArnoutsD: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: ars_time (small blind) folded before Flop
+Seat 2: ollikahn23 (big blind) folded before Flop
+Seat 3: parlo123 folded before Flop (didn't bet)
+Seat 4: Kirhgof_1988 folded before Flop (didn't bet)
+Seat 5: ArnoutsD collected ($0.05)
+Seat 7: obeglova folded before Flop (didn't bet)
+Seat 8: cubon2507 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114227842:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:29:38 ET
+Table 'Amicitia' 9-max Seat #1 is the button
+Seat 1: ars_time ($7.78 in chips) 
+Seat 2: ollikahn23 ($2 in chips) 
+Seat 3: parlo123 ($2 in chips) 
+Seat 4: Kirhgof_1988 ($2.08 in chips) 
+Seat 5: ArnoutsD ($2.64 in chips) 
+Seat 7: obeglova ($3.82 in chips) 
+Seat 8: cubon2507 ($2.23 in chips) 
+ollikahn23: posts small blind $0.01
+parlo123: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Js Tc]
+Kirhgof_1988: folds 
+ArnoutsD: calls $0.02
+obeglova: raises $0.06 to $0.08
+cubon2507: folds 
+ars_time: folds 
+ollikahn23: folds 
+parlo123: folds 
+ArnoutsD: calls $0.06
+*** FLOP *** [3d 9s Jd]
+ArnoutsD: checks 
+obeglova: bets $0.09
+ArnoutsD: calls $0.09
+*** TURN *** [3d 9s Jd] [2c]
+ArnoutsD: checks 
+obeglova: bets $0.18
+ArnoutsD: calls $0.18
+*** RIVER *** [3d 9s Jd 2c] [7s]
+ArnoutsD: checks 
+obeglova: checks 
+*** SHOW DOWN ***
+ArnoutsD: shows [6h Jh] (a pair of Jacks)
+obeglova: mucks hand 
+ArnoutsD collected $0.70 from pot
+*** SUMMARY ***
+Total pot $0.73 | Rake $0.03 
+Board [3d 9s Jd 2c 7s]
+Seat 1: ars_time (button) folded before Flop (didn't bet)
+Seat 2: ollikahn23 (small blind) folded before Flop
+Seat 3: parlo123 (big blind) folded before Flop
+Seat 4: Kirhgof_1988 folded before Flop (didn't bet)
+Seat 5: ArnoutsD showed [6h Jh] and won ($0.70) with a pair of Jacks
+Seat 7: obeglova mucked [Td Ts]
+Seat 8: cubon2507 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114268145:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:30:27 ET
+Table 'Amicitia' 9-max Seat #2 is the button
+Seat 1: ars_time ($7.78 in chips) 
+Seat 2: ollikahn23 ($2 in chips) 
+Seat 3: parlo123 ($2 in chips) 
+Seat 4: Kirhgof_1988 ($2.08 in chips) 
+Seat 5: ArnoutsD ($2.99 in chips) 
+Seat 7: obeglova ($3.47 in chips) 
+Seat 8: cubon2507 ($2.23 in chips) 
+parlo123: posts small blind $0.01
+Kirhgof_1988: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6c Ad]
+ArnoutsD: folds 
+obeglova: folds 
+cubon2507: folds 
+ars_time: raises $0.02 to $0.04
+ollikahn23: folds 
+parlo123: calls $0.03
+Kirhgof_1988: raises $0.44 to $0.48
+ars_time: folds 
+parlo123: folds 
+Uncalled bet ($0.44) returned to Kirhgof_1988
+Kirhgof_1988 collected $0.12 from pot
+Kirhgof_1988: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: ars_time folded before Flop
+Seat 2: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 3: parlo123 (small blind) folded before Flop
+Seat 4: Kirhgof_1988 (big blind) collected ($0.12)
+Seat 5: ArnoutsD folded before Flop (didn't bet)
+Seat 7: obeglova folded before Flop (didn't bet)
+Seat 8: cubon2507 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114290149:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:30:54 ET
+Table 'Amicitia' 9-max Seat #3 is the button
+Seat 1: ars_time ($7.74 in chips) 
+Seat 2: ollikahn23 ($2 in chips) 
+Seat 3: parlo123 ($2 in chips) 
+Seat 4: Kirhgof_1988 ($2.16 in chips) 
+Seat 5: ArnoutsD ($2.99 in chips) 
+Seat 7: obeglova ($3.47 in chips) 
+Seat 8: cubon2507 ($2.23 in chips) 
+Kirhgof_1988: posts small blind $0.01
+ArnoutsD: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5d 5h]
+obeglova: folds 
+cubon2507: folds 
+ars_time: raises $0.04 to $0.06
+ollikahn23: calls $0.06
+parlo123: folds 
+Kirhgof_1988: folds 
+ArnoutsD: calls $0.04
+*** FLOP *** [4h Ts 7s]
+ArnoutsD: checks 
+ars_time: bets $0.13
+ollikahn23: folds 
+ArnoutsD: calls $0.13
+*** TURN *** [4h Ts 7s] [Kd]
+ArnoutsD: checks 
+ars_time: bets $0.31
+ArnoutsD: calls $0.31
+*** RIVER *** [4h Ts 7s Kd] [Js]
+ArnoutsD: checks 
+ars_time: checks 
+*** SHOW DOWN ***
+ArnoutsD: shows [Jc Qc] (a pair of Jacks)
+ars_time: shows [Ks Kh] (three of a kind, Kings)
+ars_time collected $1.03 from pot
+*** SUMMARY ***
+Total pot $1.07 | Rake $0.04 
+Board [4h Ts 7s Kd Js]
+Seat 1: ars_time showed [Ks Kh] and won ($1.03) with three of a kind, Kings
+Seat 2: ollikahn23 folded on the Flop
+Seat 3: parlo123 (button) folded before Flop (didn't bet)
+Seat 4: Kirhgof_1988 (small blind) folded before Flop
+Seat 5: ArnoutsD (big blind) showed [Jc Qc] and lost with a pair of Jacks
+Seat 7: obeglova folded before Flop (didn't bet)
+Seat 8: cubon2507 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114340255:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:31:56 ET
+Table 'Amicitia' 9-max Seat #4 is the button
+Seat 1: ars_time ($8.27 in chips) 
+Seat 2: ollikahn23 ($2 in chips) 
+Seat 3: parlo123 ($2 in chips) 
+Seat 4: Kirhgof_1988 ($2.15 in chips) 
+Seat 5: ArnoutsD ($2.49 in chips) 
+Seat 7: obeglova ($3.47 in chips) 
+Seat 8: cubon2507 ($2.23 in chips) 
+ArnoutsD: posts small blind $0.01
+obeglova: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kh 2h]
+cubon2507: folds 
+ars_time: raises $0.04 to $0.06
+ollikahn23: folds 
+parlo123: folds 
+Kirhgof_1988: calls $0.06
+ArnoutsD: folds 
+obeglova: folds 
+*** FLOP *** [3s Th Ks]
+ars_time: checks 
+Kirhgof_1988: bets $0.07
+ars_time: folds 
+Uncalled bet ($0.07) returned to Kirhgof_1988
+Kirhgof_1988 collected $0.14 from pot
+Kirhgof_1988: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [3s Th Ks]
+Seat 1: ars_time folded on the Flop
+Seat 2: ollikahn23 folded before Flop (didn't bet)
+Seat 3: parlo123 folded before Flop (didn't bet)
+Seat 4: Kirhgof_1988 (button) collected ($0.14)
+Seat 5: ArnoutsD (small blind) folded before Flop
+Seat 7: obeglova (big blind) folded before Flop
+Seat 8: cubon2507 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114371530:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:32:35 ET
+Table 'Amicitia' 9-max Seat #5 is the button
+Seat 1: ars_time ($8.21 in chips) 
+Seat 2: ollikahn23 ($2 in chips) 
+Seat 3: parlo123 ($2 in chips) 
+Seat 4: Kirhgof_1988 ($2.23 in chips) 
+Seat 5: ArnoutsD ($2.48 in chips) 
+Seat 7: obeglova ($3.45 in chips) 
+Seat 8: cubon2507 ($2.23 in chips) 
+obeglova: posts small blind $0.01
+cubon2507: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6c Td]
+ars_time: folds 
+ollikahn23: folds 
+parlo123: folds 
+Kirhgof_1988: folds 
+ArnoutsD: folds 
+obeglova: folds 
+Uncalled bet ($0.01) returned to cubon2507
+cubon2507 collected $0.02 from pot
+cubon2507: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: ars_time folded before Flop (didn't bet)
+Seat 2: ollikahn23 folded before Flop (didn't bet)
+Seat 3: parlo123 folded before Flop (didn't bet)
+Seat 4: Kirhgof_1988 folded before Flop (didn't bet)
+Seat 5: ArnoutsD (button) folded before Flop (didn't bet)
+Seat 7: obeglova (small blind) folded before Flop
+Seat 8: cubon2507 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #182114379646:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:32:45 ET
+Table 'Amicitia' 9-max Seat #7 is the button
+Seat 1: ars_time ($8.21 in chips) 
+Seat 2: ollikahn23 ($2 in chips) 
+Seat 3: parlo123 ($2 in chips) 
+Seat 4: Kirhgof_1988 ($2.23 in chips) 
+Seat 5: ArnoutsD ($2.48 in chips) 
+Seat 7: obeglova ($3.44 in chips) 
+Seat 8: cubon2507 ($2.24 in chips) 
+cubon2507: posts small blind $0.01
+ars_time: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9h 9s]
+ollikahn23: raises $0.04 to $0.06
+parlo123: folds 
+Kirhgof_1988: folds 
+ArnoutsD: folds 
+obeglova: folds 
+cubon2507: folds 
+ars_time: folds 
+Uncalled bet ($0.04) returned to ollikahn23
+ollikahn23 collected $0.05 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: ars_time (big blind) folded before Flop
+Seat 2: ollikahn23 collected ($0.05)
+Seat 3: parlo123 folded before Flop (didn't bet)
+Seat 4: Kirhgof_1988 folded before Flop (didn't bet)
+Seat 5: ArnoutsD folded before Flop (didn't bet)
+Seat 7: obeglova (button) folded before Flop (didn't bet)
+Seat 8: cubon2507 (small blind) folded before Flop
+
+
+
+PokerStars Hand #182114393729:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:33:02 ET
+Table 'Amicitia' 9-max Seat #8 is the button
+Seat 1: ars_time ($8.19 in chips) 
+Seat 2: ollikahn23 ($2.03 in chips) 
+Seat 3: parlo123 ($2 in chips) 
+Seat 4: Kirhgof_1988 ($2.23 in chips) 
+Seat 5: ArnoutsD ($2.48 in chips) 
+Seat 7: obeglova ($3.44 in chips) 
+Seat 8: cubon2507 ($2.23 in chips) 
+ars_time: posts small blind $0.01
+ollikahn23: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7h 5s]
+parlo123: folds 
+Kirhgof_1988: folds 
+ArnoutsD: calls $0.02
+obeglova: folds 
+cubon2507: folds 
+ars_time: folds 
+ollikahn23: checks 
+*** FLOP *** [4h 3d 9h]
+ollikahn23: checks 
+ArnoutsD: checks 
+*** TURN *** [4h 3d 9h] [4c]
+ollikahn23: checks 
+ArnoutsD: checks 
+*** RIVER *** [4h 3d 9h 4c] [Ks]
+ollikahn23: bets $0.04
+ArnoutsD: raises $0.04 to $0.08
+ollikahn23: folds 
+Uncalled bet ($0.04) returned to ArnoutsD
+ArnoutsD collected $0.13 from pot
+ArnoutsD: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [4h 3d 9h 4c Ks]
+Seat 1: ars_time (small blind) folded before Flop
+Seat 2: ollikahn23 (big blind) folded on the River
+Seat 3: parlo123 folded before Flop (didn't bet)
+Seat 4: Kirhgof_1988 folded before Flop (didn't bet)
+Seat 5: ArnoutsD collected ($0.13)
+Seat 7: obeglova folded before Flop (didn't bet)
+Seat 8: cubon2507 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114419615:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:33:34 ET
+Table 'Amicitia' 9-max Seat #1 is the button
+Seat 1: ars_time ($8.18 in chips) 
+Seat 2: ollikahn23 ($2 in chips) 
+Seat 3: parlo123 ($2 in chips) 
+Seat 4: Kirhgof_1988 ($2.23 in chips) 
+Seat 5: ArnoutsD ($2.55 in chips) 
+Seat 7: obeglova ($3.44 in chips) 
+Seat 8: cubon2507 ($2.23 in chips) 
+ollikahn23: posts small blind $0.01
+parlo123: posts big blind $0.02
+Addicted8804: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jc 2s]
+haibaneden was removed from the table for failing to post
+Kirhgof_1988: folds 
+ArnoutsD: folds 
+obeglova: folds 
+cubon2507: folds 
+ars_time has timed out
+ars_time: folds 
+ollikahn23: folds 
+Uncalled bet ($0.01) returned to parlo123
+parlo123 collected $0.02 from pot
+parlo123: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: ars_time (button) folded before Flop (didn't bet)
+Seat 2: ollikahn23 (small blind) folded before Flop
+Seat 3: parlo123 (big blind) collected ($0.02)
+Seat 4: Kirhgof_1988 folded before Flop (didn't bet)
+Seat 5: ArnoutsD folded before Flop (didn't bet)
+Seat 7: obeglova folded before Flop (didn't bet)
+Seat 8: cubon2507 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114437055:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:33:56 ET
+Table 'Amicitia' 9-max Seat #2 is the button
+Seat 2: ollikahn23 ($2 in chips) 
+Seat 3: parlo123 ($2.01 in chips) 
+Seat 4: Kirhgof_1988 ($2.23 in chips) 
+Seat 5: ArnoutsD ($2.55 in chips) 
+Seat 7: obeglova ($3.44 in chips) 
+Seat 8: cubon2507 ($2.23 in chips) 
+parlo123: posts small blind $0.01
+Kirhgof_1988: posts big blind $0.02
+yjqian23 joins the table at seat #6 
+Addicted8804: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5c Ad]
+ArnoutsD: calls $0.02
+obeglova: folds 
+cubon2507: folds 
+ollikahn23: raises $0.06 to $0.08
+parlo123: folds 
+Kirhgof_1988: folds 
+ArnoutsD: calls $0.06
+*** FLOP *** [9c Qd 7h]
+ArnoutsD: checks 
+ollikahn23: bets $0.08
+ArnoutsD: calls $0.08
+*** TURN *** [9c Qd 7h] [3s]
+ArnoutsD: checks 
+ars_time leaves the table
+ollikahn23: bets $0.14
+ArnoutsD: folds 
+Uncalled bet ($0.14) returned to ollikahn23
+ollikahn23 collected $0.34 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [9c Qd 7h 3s]
+Seat 2: ollikahn23 (button) collected ($0.34)
+Seat 3: parlo123 (small blind) folded before Flop
+Seat 4: Kirhgof_1988 (big blind) folded before Flop
+Seat 5: ArnoutsD folded on the Turn
+Seat 7: obeglova folded before Flop (didn't bet)
+Seat 8: cubon2507 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114467247:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:34:33 ET
+Table 'Amicitia' 9-max Seat #3 is the button
+Seat 2: ollikahn23 ($2.18 in chips) 
+Seat 3: parlo123 ($2 in chips) 
+Seat 4: Kirhgof_1988 ($2.21 in chips) 
+Seat 5: ArnoutsD ($2.39 in chips) 
+Seat 7: obeglova ($3.44 in chips) 
+Seat 8: cubon2507 ($2.23 in chips) 
+Kirhgof_1988: posts small blind $0.01
+ArnoutsD: posts big blind $0.02
+yjqian23: sits out 
+Addicted8804: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8d Qc]
+obeglova: raises $0.04 to $0.06
+cubon2507: folds 
+ollikahn23: folds 
+parlo123: folds 
+Kirhgof_1988: folds 
+ArnoutsD: folds 
+Uncalled bet ($0.04) returned to obeglova
+obeglova collected $0.05 from pot
+obeglova: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: ollikahn23 folded before Flop (didn't bet)
+Seat 3: parlo123 (button) folded before Flop (didn't bet)
+Seat 4: Kirhgof_1988 (small blind) folded before Flop
+Seat 5: ArnoutsD (big blind) folded before Flop
+Seat 7: obeglova collected ($0.05)
+Seat 8: cubon2507 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114475530:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:34:43 ET
+Table 'Amicitia' 9-max Seat #4 is the button
+Seat 2: ollikahn23 ($2.18 in chips) 
+Seat 3: parlo123 ($2 in chips) 
+Seat 4: Kirhgof_1988 ($2.20 in chips) 
+Seat 5: ArnoutsD ($2.37 in chips) 
+Seat 6: yjqian23 ($2 in chips) 
+Seat 7: obeglova ($3.47 in chips) 
+Seat 8: cubon2507 ($2.23 in chips) 
+ArnoutsD: posts small blind $0.01
+yjqian23: posts big blind $0.02
+Addicted8804: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2d 8c]
+obeglova: folds 
+cubon2507: raises $0.04 to $0.06
+ollikahn23: folds 
+parlo123: raises $0.15 to $0.21
+Kirhgof_1988: folds 
+ArnoutsD: folds 
+yjqian23: folds 
+cubon2507: calls $0.15
+*** FLOP *** [Jd 3c Tc]
+cubon2507: checks 
+parlo123: checks 
+*** TURN *** [Jd 3c Tc] [8s]
+cubon2507: bets $0.24
+parlo123: calls $0.24
+*** RIVER *** [Jd 3c Tc 8s] [2s]
+cubon2507: bets $0.80
+IBetIWanted joins the table at seat #1 
+parlo123: folds 
+Uncalled bet ($0.80) returned to cubon2507
+cubon2507 collected $0.90 from pot
+cubon2507: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.93 | Rake $0.03 
+Board [Jd 3c Tc 8s 2s]
+Seat 2: ollikahn23 folded before Flop (didn't bet)
+Seat 3: parlo123 folded on the River
+Seat 4: Kirhgof_1988 (button) folded before Flop (didn't bet)
+Seat 5: ArnoutsD (small blind) folded before Flop
+Seat 6: yjqian23 (big blind) folded before Flop
+Seat 7: obeglova folded before Flop (didn't bet)
+Seat 8: cubon2507 collected ($0.90)
+
+
+
+PokerStars Hand #182114525800:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:35:45 ET
+Table 'Amicitia' 9-max Seat #5 is the button
+Seat 2: ollikahn23 ($2.18 in chips) 
+Seat 3: parlo123 ($2 in chips) 
+Seat 4: Kirhgof_1988 ($2.20 in chips) 
+Seat 5: ArnoutsD ($2.36 in chips) 
+Seat 6: yjqian23 ($1.98 in chips) 
+Seat 7: obeglova ($3.47 in chips) 
+Seat 8: cubon2507 ($2.68 in chips) 
+yjqian23: posts small blind $0.01
+obeglova: posts big blind $0.02
+Addicted8804: sits out 
+IBetIWanted: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4c Kh]
+cubon2507: folds 
+ollikahn23: folds 
+parlo123: folds 
+Kirhgof_1988: folds 
+ArnoutsD: folds 
+yjqian23: folds 
+Uncalled bet ($0.01) returned to obeglova
+obeglova collected $0.02 from pot
+obeglova: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: ollikahn23 folded before Flop (didn't bet)
+Seat 3: parlo123 folded before Flop (didn't bet)
+Seat 4: Kirhgof_1988 folded before Flop (didn't bet)
+Seat 5: ArnoutsD (button) folded before Flop (didn't bet)
+Seat 6: yjqian23 (small blind) folded before Flop
+Seat 7: obeglova (big blind) collected ($0.02)
+Seat 8: cubon2507 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114539547:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:36:02 ET
+Table 'Amicitia' 9-max Seat #6 is the button
+Seat 2: ollikahn23 ($2.18 in chips) 
+Seat 3: parlo123 ($2 in chips) 
+Seat 4: Kirhgof_1988 ($2.20 in chips) 
+Seat 5: ArnoutsD ($2.36 in chips) 
+Seat 6: yjqian23 ($1.97 in chips) 
+Seat 7: obeglova ($3.48 in chips) 
+Seat 8: cubon2507 ($2.68 in chips) 
+obeglova: posts small blind $0.01
+cubon2507: posts big blind $0.02
+Addicted8804: sits out 
+IBetIWanted: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kh 9s]
+ollikahn23: folds 
+parlo123: folds 
+Kirhgof_1988: folds 
+ArnoutsD: calls $0.02
+yjqian23: folds 
+obeglova: folds 
+cubon2507: checks 
+*** FLOP *** [4h 2h Kd]
+cubon2507: checks 
+ArnoutsD: checks 
+*** TURN *** [4h 2h Kd] [8c]
+cubon2507: checks 
+ArnoutsD: checks 
+*** RIVER *** [4h 2h Kd 8c] [Qh]
+cubon2507: checks 
+ArnoutsD: checks 
+*** SHOW DOWN ***
+cubon2507: shows [Tc 3s] (high card King)
+ArnoutsD: shows [Ah 8s] (a pair of Eights)
+IBetIWanted leaves the table
+ArnoutsD collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [4h 2h Kd 8c Qh]
+Seat 2: ollikahn23 folded before Flop (didn't bet)
+Seat 3: parlo123 folded before Flop (didn't bet)
+Seat 4: Kirhgof_1988 folded before Flop (didn't bet)
+Seat 5: ArnoutsD showed [Ah 8s] and won ($0.05) with a pair of Eights
+Seat 6: yjqian23 (button) folded before Flop (didn't bet)
+Seat 7: obeglova (small blind) folded before Flop
+Seat 8: cubon2507 (big blind) showed [Tc 3s] and lost with high card King
+
+
+
+PokerStars Hand #182114574890:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:36:45 ET
+Table 'Amicitia' 9-max Seat #7 is the button
+Seat 2: ollikahn23 ($2.18 in chips) 
+Seat 3: parlo123 ($2 in chips) 
+Seat 4: Kirhgof_1988 ($2.20 in chips) 
+Seat 5: ArnoutsD ($2.39 in chips) 
+Seat 6: yjqian23 ($1.97 in chips) 
+Seat 7: obeglova ($3.47 in chips) 
+Seat 8: cubon2507 ($2.66 in chips) 
+Seat 9: Addicted8804 ($2.30 in chips) 
+cubon2507: posts small blind $0.01
+Addicted8804: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6h 4h]
+ollikahn23: folds 
+parlo123: folds 
+Kirhgof_1988: folds 
+ArnoutsD: folds 
+yjqian23 has timed out
+yjqian23: folds 
+obeglova: folds 
+cubon2507: folds 
+Uncalled bet ($0.01) returned to Addicted8804
+Addicted8804 collected $0.02 from pot
+Addicted8804: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: ollikahn23 folded before Flop (didn't bet)
+Seat 3: parlo123 folded before Flop (didn't bet)
+Seat 4: Kirhgof_1988 folded before Flop (didn't bet)
+Seat 5: ArnoutsD folded before Flop (didn't bet)
+Seat 6: yjqian23 folded before Flop (didn't bet)
+Seat 7: obeglova (button) folded before Flop (didn't bet)
+Seat 8: cubon2507 (small blind) folded before Flop
+Seat 9: Addicted8804 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #182114595508:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:37:10 ET
+Table 'Amicitia' 9-max Seat #8 is the button
+Seat 2: ollikahn23 ($2.18 in chips) 
+Seat 3: parlo123 ($2 in chips) 
+Seat 4: Kirhgof_1988 ($2.20 in chips) 
+Seat 5: ArnoutsD ($2.39 in chips) 
+Seat 7: obeglova ($3.47 in chips) 
+Seat 8: cubon2507 ($2.65 in chips) 
+Seat 9: Addicted8804 ($2.31 in chips) 
+Addicted8804: posts small blind $0.01
+ollikahn23: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Tc Jh]
+parlo123: folds 
+Kirhgof_1988: folds 
+ArnoutsD: folds 
+obeglova: folds 
+cubon2507: folds 
+Addicted8804: folds 
+Uncalled bet ($0.01) returned to ollikahn23
+ollikahn23 collected $0.02 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: ollikahn23 (big blind) collected ($0.02)
+Seat 3: parlo123 folded before Flop (didn't bet)
+Seat 4: Kirhgof_1988 folded before Flop (didn't bet)
+Seat 5: ArnoutsD folded before Flop (didn't bet)
+Seat 7: obeglova folded before Flop (didn't bet)
+Seat 8: cubon2507 (button) folded before Flop (didn't bet)
+Seat 9: Addicted8804 (small blind) folded before Flop
+
+
+
+PokerStars Hand #182114606213:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:37:24 ET
+Table 'Amicitia' 9-max Seat #9 is the button
+Seat 2: ollikahn23 ($2.19 in chips) 
+Seat 4: Kirhgof_1988 ($2.20 in chips) 
+Seat 5: ArnoutsD ($2.39 in chips) 
+Seat 6: yjqian23 ($1.97 in chips) 
+Seat 7: obeglova ($3.47 in chips) 
+Seat 8: cubon2507 ($2.65 in chips) 
+Seat 9: Addicted8804 ($2.30 in chips) 
+ollikahn23: posts small blind $0.01
+parlo123: is sitting out 
+Kirhgof_1988: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6c 4c]
+ArnoutsD: folds 
+yjqian23 has timed out
+yjqian23: folds 
+obeglova: folds 
+cubon2507: folds 
+Addicted8804: folds 
+ollikahn23: folds 
+Uncalled bet ($0.01) returned to Kirhgof_1988
+Kirhgof_1988 collected $0.02 from pot
+Kirhgof_1988: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: ollikahn23 (small blind) folded before Flop
+Seat 4: Kirhgof_1988 (big blind) collected ($0.02)
+Seat 5: ArnoutsD folded before Flop (didn't bet)
+Seat 6: yjqian23 folded before Flop (didn't bet)
+Seat 7: obeglova folded before Flop (didn't bet)
+Seat 8: cubon2507 folded before Flop (didn't bet)
+Seat 9: Addicted8804 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114630484:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:37:53 ET
+Table 'Amicitia' 9-max Seat #2 is the button
+Seat 2: ollikahn23 ($2.18 in chips) 
+Seat 4: Kirhgof_1988 ($2.21 in chips) 
+Seat 5: ArnoutsD ($2.39 in chips) 
+Seat 6: yjqian23 ($1.97 in chips) 
+Seat 7: obeglova ($3.47 in chips) 
+Seat 8: cubon2507 ($2.65 in chips) 
+Seat 9: Addicted8804 ($2.30 in chips) 
+Kirhgof_1988: posts small blind $0.01
+ArnoutsD: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7h Ac]
+yjqian23: folds 
+obeglova: raises $0.04 to $0.06
+cubon2507: folds 
+Addicted8804: calls $0.06
+ollikahn23: folds 
+Kirhgof_1988: calls $0.05
+ArnoutsD: folds 
+*** FLOP *** [9d Qd Qc]
+Kirhgof_1988: checks 
+obeglova: bets $0.10
+Addicted8804: calls $0.10
+Kirhgof_1988: folds 
+*** TURN *** [9d Qd Qc] [5h]
+obeglova: bets $0.39
+Addicted8804: folds 
+Uncalled bet ($0.39) returned to obeglova
+obeglova collected $0.39 from pot
+obeglova: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.01 
+Board [9d Qd Qc 5h]
+Seat 2: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 4: Kirhgof_1988 (small blind) folded on the Flop
+Seat 5: ArnoutsD (big blind) folded before Flop
+Seat 6: yjqian23 folded before Flop (didn't bet)
+Seat 7: obeglova collected ($0.39)
+Seat 8: cubon2507 folded before Flop (didn't bet)
+Seat 9: Addicted8804 folded on the Turn
+
+
+
+PokerStars Hand #182114668625:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:38:41 ET
+Table 'Amicitia' 9-max Seat #4 is the button
+Seat 2: ollikahn23 ($2.18 in chips) 
+Seat 4: Kirhgof_1988 ($2.15 in chips) 
+Seat 5: ArnoutsD ($2.37 in chips) 
+Seat 7: obeglova ($3.70 in chips) 
+Seat 8: cubon2507 ($2.65 in chips) 
+Seat 9: Addicted8804 ($2.14 in chips) 
+ArnoutsD: posts small blind $0.01
+yjqian23: is sitting out 
+obeglova: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ad 3c]
+cubon2507: folds 
+Foyek2000 joins the table at seat #1 
+Addicted8804: raises $0.03 to $0.05
+ollikahn23: folds 
+Kirhgof_1988: raises $0.15 to $0.20
+ArnoutsD: folds 
+obeglova: folds 
+Addicted8804: folds 
+Uncalled bet ($0.15) returned to Kirhgof_1988
+Kirhgof_1988 collected $0.13 from pot
+Kirhgof_1988: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Seat 2: ollikahn23 folded before Flop (didn't bet)
+Seat 4: Kirhgof_1988 (button) collected ($0.13)
+Seat 5: ArnoutsD (small blind) folded before Flop
+Seat 7: obeglova (big blind) folded before Flop
+Seat 8: cubon2507 folded before Flop (didn't bet)
+Seat 9: Addicted8804 folded before Flop
+
+
+
+PokerStars Hand #182114698751:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:39:17 ET
+Table 'Amicitia' 9-max Seat #5 is the button
+Seat 2: ollikahn23 ($2.18 in chips) 
+Seat 4: Kirhgof_1988 ($2.23 in chips) 
+Seat 5: ArnoutsD ($2.36 in chips) 
+Seat 7: obeglova ($3.68 in chips) 
+Seat 8: cubon2507 ($2.65 in chips) 
+Seat 9: Addicted8804 ($2.09 in chips) 
+obeglova: posts small blind $0.01
+cubon2507: posts big blind $0.02
+Foyek2000: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6c 5d]
+Addicted8804: folds 
+ollikahn23: folds 
+Kirhgof_1988: folds 
+ArnoutsD: calls $0.02
+obeglova: folds 
+cubon2507: checks 
+*** FLOP *** [3s Tc Ks]
+cubon2507: checks 
+ArnoutsD: checks 
+*** TURN *** [3s Tc Ks] [3c]
+cubon2507: checks 
+ArnoutsD: checks 
+*** RIVER *** [3s Tc Ks 3c] [Qd]
+cubon2507: bets $0.04
+ArnoutsD: folds 
+Uncalled bet ($0.04) returned to cubon2507
+cubon2507 collected $0.05 from pot
+cubon2507: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [3s Tc Ks 3c Qd]
+Seat 2: ollikahn23 folded before Flop (didn't bet)
+Seat 4: Kirhgof_1988 folded before Flop (didn't bet)
+Seat 5: ArnoutsD (button) folded on the River
+Seat 7: obeglova (small blind) folded before Flop
+Seat 8: cubon2507 (big blind) collected ($0.05)
+Seat 9: Addicted8804 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114722433:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:39:46 ET
+Table 'Amicitia' 9-max Seat #7 is the button
+Seat 2: ollikahn23 ($2.18 in chips) 
+Seat 4: Kirhgof_1988 ($2.23 in chips) 
+Seat 5: ArnoutsD ($2.34 in chips) 
+Seat 7: obeglova ($3.67 in chips) 
+Seat 8: cubon2507 ($2.68 in chips) 
+Seat 9: Addicted8804 ($2.09 in chips) 
+cubon2507: posts small blind $0.01
+Addicted8804: posts big blind $0.02
+Foyek2000: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8s 2s]
+ollikahn23: folds 
+Kirhgof_1988: folds 
+ArnoutsD: folds 
+obeglova: folds 
+cubon2507: folds 
+Uncalled bet ($0.01) returned to Addicted8804
+yjqian23 leaves the table
+Addicted8804 collected $0.02 from pot
+Addicted8804: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: ollikahn23 folded before Flop (didn't bet)
+Seat 4: Kirhgof_1988 folded before Flop (didn't bet)
+Seat 5: ArnoutsD folded before Flop (didn't bet)
+Seat 7: obeglova (button) folded before Flop (didn't bet)
+Seat 8: cubon2507 (small blind) folded before Flop
+Seat 9: Addicted8804 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #182114731677:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:39:58 ET
+Table 'Amicitia' 9-max Seat #8 is the button
+Seat 1: Foyek2000 ($0.80 in chips) 
+Seat 2: ollikahn23 ($2.18 in chips) 
+Seat 4: Kirhgof_1988 ($2.23 in chips) 
+Seat 5: ArnoutsD ($2.34 in chips) 
+Seat 7: obeglova ($3.67 in chips) 
+Seat 8: cubon2507 ($2.67 in chips) 
+Seat 9: Addicted8804 ($2.10 in chips) 
+Addicted8804: posts small blind $0.01
+Foyek2000: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jd 2h]
+ollikahn23: folds 
+Kirhgof_1988: folds 
+ArnoutsD: folds 
+obeglova: folds 
+cubon2507: raises $0.04 to $0.06
+Addicted8804: folds 
+vcrocksnj joins the table at seat #6 
+Foyek2000: folds 
+Uncalled bet ($0.04) returned to cubon2507
+cubon2507 collected $0.05 from pot
+cubon2507: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Foyek2000 (big blind) folded before Flop
+Seat 2: ollikahn23 folded before Flop (didn't bet)
+Seat 4: Kirhgof_1988 folded before Flop (didn't bet)
+Seat 5: ArnoutsD folded before Flop (didn't bet)
+Seat 7: obeglova folded before Flop (didn't bet)
+Seat 8: cubon2507 (button) collected ($0.05)
+Seat 9: Addicted8804 (small blind) folded before Flop
+
+
+
+PokerStars Hand #182114748448:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:40:18 ET
+Table 'Amicitia' 9-max Seat #9 is the button
+Seat 1: Foyek2000 ($0.78 in chips) 
+Seat 2: ollikahn23 ($2.18 in chips) 
+Seat 4: Kirhgof_1988 ($2.23 in chips) 
+Seat 5: ArnoutsD ($2.34 in chips) 
+Seat 7: obeglova ($3.67 in chips) 
+Seat 8: cubon2507 ($2.70 in chips) 
+Seat 9: Addicted8804 ($2.09 in chips) 
+Foyek2000: posts small blind $0.01
+ollikahn23: posts big blind $0.02
+vcrocksnj: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qd Ks]
+Kirhgof_1988: raises $0.04 to $0.06
+ArnoutsD: folds 
+obeglova: folds 
+cubon2507: calls $0.06
+Addicted8804: folds 
+Foyek2000: folds 
+ollikahn23: calls $0.04
+*** FLOP *** [Tc 2d Jd]
+ollikahn23: checks 
+Kirhgof_1988: checks 
+cubon2507: checks 
+*** TURN *** [Tc 2d Jd] [4s]
+ollikahn23: checks 
+Kirhgof_1988: bets $0.12
+cubon2507: folds 
+ollikahn23: folds 
+Uncalled bet ($0.12) returned to Kirhgof_1988
+Kirhgof_1988 collected $0.18 from pot
+Kirhgof_1988: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Tc 2d Jd 4s]
+Seat 1: Foyek2000 (small blind) folded before Flop
+Seat 2: ollikahn23 (big blind) folded on the Turn
+Seat 4: Kirhgof_1988 collected ($0.18)
+Seat 5: ArnoutsD folded before Flop (didn't bet)
+Seat 7: obeglova folded before Flop (didn't bet)
+Seat 8: cubon2507 folded on the Turn
+Seat 9: Addicted8804 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114799834:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:41:20 ET
+Table 'Amicitia' 9-max Seat #1 is the button
+Seat 1: Foyek2000 ($0.77 in chips) 
+Seat 2: ollikahn23 ($2.12 in chips) 
+Seat 4: Kirhgof_1988 ($2.35 in chips) 
+Seat 5: ArnoutsD ($2.34 in chips) 
+Seat 7: obeglova ($3.67 in chips) 
+Seat 8: cubon2507 ($2.64 in chips) 
+Seat 9: Addicted8804 ($2.09 in chips) 
+ollikahn23: posts small blind $0.01
+Kirhgof_1988: posts big blind $0.02
+vcrocksnj: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6c 2h]
+ArnoutsD: folds 
+obeglova: raises $0.04 to $0.06
+cubon2507: folds 
+Addicted8804: folds 
+Foyek2000: folds 
+ollikahn23: folds 
+Kirhgof_1988: folds 
+Uncalled bet ($0.04) returned to obeglova
+obeglova collected $0.05 from pot
+obeglova: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Foyek2000 (button) folded before Flop (didn't bet)
+Seat 2: ollikahn23 (small blind) folded before Flop
+Seat 4: Kirhgof_1988 (big blind) folded before Flop
+Seat 5: ArnoutsD folded before Flop (didn't bet)
+Seat 7: obeglova collected ($0.05)
+Seat 8: cubon2507 folded before Flop (didn't bet)
+Seat 9: Addicted8804 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114825694:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:41:52 ET
+Table 'Amicitia' 9-max Seat #2 is the button
+Seat 1: Foyek2000 ($0.77 in chips) 
+Seat 2: ollikahn23 ($2.11 in chips) 
+Seat 4: Kirhgof_1988 ($2.33 in chips) 
+Seat 5: ArnoutsD ($2.34 in chips) 
+Seat 7: obeglova ($3.70 in chips) 
+Seat 8: cubon2507 ($2.64 in chips) 
+Seat 9: Addicted8804 ($2.09 in chips) 
+Kirhgof_1988: posts small blind $0.01
+ArnoutsD: posts big blind $0.02
+vcrocksnj: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kd 8c]
+obeglova: folds 
+cubon2507: folds 
+Addicted8804: folds 
+Foyek2000: folds 
+ollikahn23: raises $0.04 to $0.06
+Kirhgof_1988: folds 
+ArnoutsD: folds 
+Uncalled bet ($0.04) returned to ollikahn23
+ollikahn23 collected $0.05 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Foyek2000 folded before Flop (didn't bet)
+Seat 2: ollikahn23 (button) collected ($0.05)
+Seat 4: Kirhgof_1988 (small blind) folded before Flop
+Seat 5: ArnoutsD (big blind) folded before Flop
+Seat 7: obeglova folded before Flop (didn't bet)
+Seat 8: cubon2507 folded before Flop (didn't bet)
+Seat 9: Addicted8804 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114851713:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:42:23 ET
+Table 'Amicitia' 9-max Seat #4 is the button
+Seat 1: Foyek2000 ($0.77 in chips) 
+Seat 2: ollikahn23 ($2.14 in chips) 
+Seat 4: Kirhgof_1988 ($2.32 in chips) 
+Seat 5: ArnoutsD ($2.32 in chips) 
+Seat 6: vcrocksnj ($2 in chips) 
+Seat 7: obeglova ($3.70 in chips) 
+Seat 8: cubon2507 ($2.64 in chips) 
+Seat 9: Addicted8804 ($2.09 in chips) 
+ArnoutsD: posts small blind $0.01
+vcrocksnj: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6c Qh]
+obeglova: folds 
+cubon2507: folds 
+Addicted8804: folds 
+Foyek2000: folds 
+ollikahn23: folds 
+Kirhgof_1988: raises $0.04 to $0.06
+ArnoutsD: calls $0.05
+vcrocksnj: folds 
+*** FLOP *** [4h 6h 2s]
+ArnoutsD: checks 
+Kirhgof_1988: bets $0.09
+ArnoutsD: raises $0.09 to $0.18
+Kirhgof_1988: calls $0.09
+*** TURN *** [4h 6h 2s] [Kh]
+ArnoutsD: checks 
+Kirhgof_1988: checks 
+*** RIVER *** [4h 6h 2s Kh] [8s]
+ArnoutsD: checks 
+Kirhgof_1988: checks 
+*** SHOW DOWN ***
+ArnoutsD: shows [Qs 4s] (a pair of Fours)
+Kirhgof_1988: mucks hand 
+ArnoutsD collected $0.48 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [4h 6h 2s Kh 8s]
+Seat 1: Foyek2000 folded before Flop (didn't bet)
+Seat 2: ollikahn23 folded before Flop (didn't bet)
+Seat 4: Kirhgof_1988 (button) mucked [7c 4c]
+Seat 5: ArnoutsD (small blind) showed [Qs 4s] and won ($0.48) with a pair of Fours
+Seat 6: vcrocksnj (big blind) folded before Flop
+Seat 7: obeglova folded before Flop (didn't bet)
+Seat 8: cubon2507 folded before Flop (didn't bet)
+Seat 9: Addicted8804 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182114883999:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:43:03 ET
+Table 'Amicitia' 9-max Seat #5 is the button
+Seat 1: Foyek2000 ($0.77 in chips) 
+Seat 2: ollikahn23 ($2.14 in chips) 
+Seat 4: Kirhgof_1988 ($2.08 in chips) 
+Seat 5: ArnoutsD ($2.56 in chips) 
+Seat 6: vcrocksnj ($2 in chips) 
+Seat 8: cubon2507 ($2.64 in chips) 
+Seat 9: Addicted8804 ($2.09 in chips) 
+vcrocksnj: posts small blind $0.01
+obeglova: is sitting out 
+obeglova leaves the table
+cubon2507: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kh Js]
+Addicted8804: raises $0.04 to $0.06
+Now Open joins the table at seat #7 
+Foyek2000: folds 
+ollikahn23: calls $0.06
+Kirhgof_1988: calls $0.06
+ArnoutsD: folds 
+vcrocksnj: folds 
+cubon2507: calls $0.04
+*** FLOP *** [Qh 9h 5s]
+cubon2507: checks 
+Addicted8804: checks 
+ollikahn23: checks 
+Kirhgof_1988: bets $0.16
+cubon2507: folds 
+Addicted8804: folds 
+ollikahn23: folds 
+Uncalled bet ($0.16) returned to Kirhgof_1988
+Kirhgof_1988 collected $0.24 from pot
+Kirhgof_1988: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Qh 9h 5s]
+Seat 1: Foyek2000 folded before Flop (didn't bet)
+Seat 2: ollikahn23 folded on the Flop
+Seat 4: Kirhgof_1988 collected ($0.24)
+Seat 5: ArnoutsD (button) folded before Flop (didn't bet)
+Seat 6: vcrocksnj (small blind) folded before Flop
+Seat 8: cubon2507 (big blind) folded on the Flop
+Seat 9: Addicted8804 folded on the Flop
+
+
+
+PokerStars Hand #182114922401:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:43:49 ET
+Table 'Amicitia' 9-max Seat #6 is the button
+Seat 1: Foyek2000 ($0.77 in chips) 
+Seat 2: ollikahn23 ($2.08 in chips) 
+Seat 4: Kirhgof_1988 ($2.26 in chips) 
+Seat 5: ArnoutsD ($2.56 in chips) 
+Seat 6: vcrocksnj ($2 in chips) 
+Seat 8: cubon2507 ($2.58 in chips) 
+Seat 9: Addicted8804 ($2.03 in chips) 
+Now Open will be allowed to play after the button
+cubon2507: posts small blind $0.01
+Addicted8804: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ks 2s]
+Foyek2000: raises $0.04 to $0.06
+ollikahn23: folds 
+Kirhgof_1988: folds 
+ArnoutsD: calls $0.06
+vcrocksnj: folds 
+cubon2507: folds 
+Addicted8804: folds 
+*** FLOP *** [6c Qh 5h]
+Foyek2000: bets $0.07
+ArnoutsD: folds 
+Uncalled bet ($0.07) returned to Foyek2000
+Foyek2000 collected $0.14 from pot
+Foyek2000: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [6c Qh 5h]
+Seat 1: Foyek2000 collected ($0.14)
+Seat 2: ollikahn23 folded before Flop (didn't bet)
+Seat 4: Kirhgof_1988 folded before Flop (didn't bet)
+Seat 5: ArnoutsD folded on the Flop
+Seat 6: vcrocksnj (button) folded before Flop (didn't bet)
+Seat 8: cubon2507 (small blind) folded before Flop
+Seat 9: Addicted8804 (big blind) folded before Flop
+
+
+
+PokerStars Hand #182114943226:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:44:15 ET
+Table 'Amicitia' 9-max Seat #8 is the button
+Seat 1: Foyek2000 ($0.85 in chips) 
+Seat 2: ollikahn23 ($2.08 in chips) 
+Seat 4: Kirhgof_1988 ($2.26 in chips) 
+Seat 5: ArnoutsD ($2.50 in chips) 
+Seat 6: vcrocksnj ($2 in chips) 
+Seat 8: cubon2507 ($2.57 in chips) 
+Seat 9: Addicted8804 ($2.01 in chips) 
+Addicted8804: posts small blind $0.01
+Foyek2000: posts big blind $0.02
+Now Open: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ts As]
+ollikahn23: raises $0.04 to $0.06
+Kirhgof_1988: folds 
+ArnoutsD: folds 
+vcrocksnj: folds 
+cubon2507: folds 
+Addicted8804: folds 
+Foyek2000: folds 
+Uncalled bet ($0.04) returned to ollikahn23
+ollikahn23 collected $0.05 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Foyek2000 (big blind) folded before Flop
+Seat 2: ollikahn23 collected ($0.05)
+Seat 4: Kirhgof_1988 folded before Flop (didn't bet)
+Seat 5: ArnoutsD folded before Flop (didn't bet)
+Seat 6: vcrocksnj folded before Flop (didn't bet)
+Seat 8: cubon2507 (button) folded before Flop (didn't bet)
+Seat 9: Addicted8804 (small blind) folded before Flop
+
+
+
+PokerStars Hand #182114961124:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:44:36 ET
+Table 'Amicitia' 9-max Seat #9 is the button
+Seat 1: Foyek2000 ($0.83 in chips) 
+Seat 2: ollikahn23 ($2.11 in chips) 
+Seat 4: Kirhgof_1988 ($2.26 in chips) 
+Seat 5: ArnoutsD ($2.50 in chips) 
+Seat 6: vcrocksnj ($2 in chips) 
+Seat 8: cubon2507 ($2.57 in chips) 
+Seat 9: Addicted8804 ($2 in chips) 
+Foyek2000: posts small blind $0.01
+ollikahn23: posts big blind $0.02
+Now Open: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [As Qh]
+Kirhgof_1988: raises $0.04 to $0.06
+ArnoutsD: folds 
+vcrocksnj: folds 
+cubon2507: folds 
+Addicted8804: folds 
+Foyek2000: folds 
+ollikahn23: calls $0.04
+*** FLOP *** [Ad Jd Ts]
+ollikahn23: checks 
+Kirhgof_1988: bets $0.09
+ollikahn23: calls $0.09
+*** TURN *** [Ad Jd Ts] [5c]
+ollikahn23: checks 
+Kirhgof_1988: checks 
+*** RIVER *** [Ad Jd Ts 5c] [6s]
+ollikahn23: bets $0.18
+Kirhgof_1988: calls $0.18
+*** SHOW DOWN ***
+ollikahn23: shows [As Qh] (a pair of Aces)
+Kirhgof_1988: mucks hand 
+ollikahn23 collected $0.65 from pot
+*** SUMMARY ***
+Total pot $0.67 | Rake $0.02 
+Board [Ad Jd Ts 5c 6s]
+Seat 1: Foyek2000 (small blind) folded before Flop
+Seat 2: ollikahn23 (big blind) showed [As Qh] and won ($0.65) with a pair of Aces
+Seat 4: Kirhgof_1988 mucked [Jc Ks]
+Seat 5: ArnoutsD folded before Flop (didn't bet)
+Seat 6: vcrocksnj folded before Flop (didn't bet)
+Seat 8: cubon2507 folded before Flop (didn't bet)
+Seat 9: Addicted8804 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182115002337:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:45:26 ET
+Table 'Amicitia' 9-max Seat #1 is the button
+Seat 1: Foyek2000 ($0.82 in chips) 
+Seat 2: ollikahn23 ($2.43 in chips) 
+Seat 4: Kirhgof_1988 ($2 in chips) 
+Seat 5: ArnoutsD ($2.50 in chips) 
+Seat 6: vcrocksnj ($2 in chips) 
+Seat 8: cubon2507 ($2.57 in chips) 
+Seat 9: Addicted8804 ($2 in chips) 
+ollikahn23: posts small blind $0.01
+Kirhgof_1988: posts big blind $0.02
+Now Open: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Js 2s]
+ArnoutsD: folds 
+vcrocksnj: folds 
+cubon2507: folds 
+Addicted8804: folds 
+Foyek2000: folds 
+ollikahn23: folds 
+Uncalled bet ($0.01) returned to Kirhgof_1988
+Kirhgof_1988 collected $0.02 from pot
+Kirhgof_1988: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Foyek2000 (button) folded before Flop (didn't bet)
+Seat 2: ollikahn23 (small blind) folded before Flop
+Seat 4: Kirhgof_1988 (big blind) collected ($0.02)
+Seat 5: ArnoutsD folded before Flop (didn't bet)
+Seat 6: vcrocksnj folded before Flop (didn't bet)
+Seat 8: cubon2507 folded before Flop (didn't bet)
+Seat 9: Addicted8804 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182115019335:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:45:47 ET
+Table 'Amicitia' 9-max Seat #2 is the button
+Seat 1: Foyek2000 ($0.82 in chips) 
+Seat 2: ollikahn23 ($2.42 in chips) 
+Seat 4: Kirhgof_1988 ($2.01 in chips) 
+Seat 5: ArnoutsD ($2.50 in chips) 
+Seat 6: vcrocksnj ($2 in chips) 
+Seat 8: cubon2507 ($2.57 in chips) 
+Seat 9: Addicted8804 ($2 in chips) 
+Kirhgof_1988: posts small blind $0.01
+ArnoutsD: posts big blind $0.02
+Now Open: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jh Th]
+vcrocksnj: folds 
+cubon2507: folds 
+Addicted8804: folds 
+Foyek2000: folds 
+ollikahn23: raises $0.04 to $0.06
+Kirhgof_1988: folds 
+ArnoutsD: folds 
+Uncalled bet ($0.04) returned to ollikahn23
+ollikahn23 collected $0.05 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Foyek2000 folded before Flop (didn't bet)
+Seat 2: ollikahn23 (button) collected ($0.05)
+Seat 4: Kirhgof_1988 (small blind) folded before Flop
+Seat 5: ArnoutsD (big blind) folded before Flop
+Seat 6: vcrocksnj folded before Flop (didn't bet)
+Seat 8: cubon2507 folded before Flop (didn't bet)
+Seat 9: Addicted8804 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182115033624:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:46:04 ET
+Table 'Amicitia' 9-max Seat #4 is the button
+Seat 1: Foyek2000 ($0.82 in chips) 
+Seat 2: ollikahn23 ($2.45 in chips) 
+Seat 4: Kirhgof_1988 ($2 in chips) 
+Seat 5: ArnoutsD ($2.48 in chips) 
+Seat 6: vcrocksnj ($2 in chips) 
+Seat 8: cubon2507 ($2.57 in chips) 
+Seat 9: Addicted8804 ($2 in chips) 
+ArnoutsD: posts small blind $0.01
+vcrocksnj: posts big blind $0.02
+Now Open: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7d Ks]
+cubon2507: folds 
+Addicted8804: raises $0.03 to $0.05
+Foyek2000: calls $0.05
+ollikahn23: folds 
+Kirhgof_1988: folds 
+ArnoutsD: calls $0.04
+vcrocksnj: folds 
+*** FLOP *** [8h Ac 4d]
+ArnoutsD: checks 
+Addicted8804: bets $0.10
+Foyek2000: folds 
+ArnoutsD: folds 
+Uncalled bet ($0.10) returned to Addicted8804
+Addicted8804 collected $0.16 from pot
+Addicted8804: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [8h Ac 4d]
+Seat 1: Foyek2000 folded on the Flop
+Seat 2: ollikahn23 folded before Flop (didn't bet)
+Seat 4: Kirhgof_1988 (button) folded before Flop (didn't bet)
+Seat 5: ArnoutsD (small blind) folded on the Flop
+Seat 6: vcrocksnj (big blind) folded before Flop
+Seat 8: cubon2507 folded before Flop (didn't bet)
+Seat 9: Addicted8804 collected ($0.16)
+
+
+
+PokerStars Hand #182115060608:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:46:36 ET
+Table 'Amicitia' 9-max Seat #5 is the button
+Seat 1: Foyek2000 ($0.77 in chips) 
+Seat 2: ollikahn23 ($2.45 in chips) 
+Seat 4: Kirhgof_1988 ($2 in chips) 
+Seat 5: ArnoutsD ($2.43 in chips) 
+Seat 6: vcrocksnj ($2 in chips) 
+Seat 7: Now Open ($2 in chips) 
+Seat 8: cubon2507 ($2.57 in chips) 
+Seat 9: Addicted8804 ($2.11 in chips) 
+vcrocksnj: posts small blind $0.01
+Now Open: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7h Ah]
+cubon2507: folds 
+Addicted8804: folds 
+Foyek2000: calls $0.02
+ollikahn23: calls $0.02
+Kirhgof_1988: folds 
+ArnoutsD: folds 
+vcrocksnj: folds 
+Now Open: checks 
+*** FLOP *** [As Js 6s]
+Now Open: checks 
+Foyek2000: bets $0.04
+ollikahn23: calls $0.04
+Now Open: folds 
+*** TURN *** [As Js 6s] [4c]
+Foyek2000: bets $0.07
+ollikahn23: calls $0.07
+*** RIVER *** [As Js 6s 4c] [9d]
+Foyek2000: bets $0.28
+ollikahn23: folds 
+Uncalled bet ($0.28) returned to Foyek2000
+Foyek2000 collected $0.28 from pot
+Foyek2000: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [As Js 6s 4c 9d]
+Seat 1: Foyek2000 collected ($0.28)
+Seat 2: ollikahn23 folded on the River
+Seat 4: Kirhgof_1988 folded before Flop (didn't bet)
+Seat 5: ArnoutsD (button) folded before Flop (didn't bet)
+Seat 6: vcrocksnj (small blind) folded before Flop
+Seat 7: Now Open (big blind) folded on the Flop
+Seat 8: cubon2507 folded before Flop (didn't bet)
+Seat 9: Addicted8804 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182115120196:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:47:49 ET
+Table 'Amicitia' 9-max Seat #6 is the button
+Seat 1: Foyek2000 ($0.92 in chips) 
+Seat 2: ollikahn23 ($2.32 in chips) 
+Seat 4: Kirhgof_1988 ($2 in chips) 
+Seat 5: ArnoutsD ($2.43 in chips) 
+Seat 6: vcrocksnj ($2 in chips) 
+Seat 7: Now Open ($2 in chips) 
+Seat 8: cubon2507 ($2.57 in chips) 
+Seat 9: Addicted8804 ($2.11 in chips) 
+Now Open: posts small blind $0.01
+cubon2507: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ac 7s]
+Addicted8804: raises $0.04 to $0.06
+Foyek2000: calls $0.06
+ollikahn23: folds 
+Kirhgof_1988: folds 
+ArnoutsD: folds 
+vcrocksnj: folds 
+Now Open: folds 
+cubon2507: raises $0.20 to $0.26
+Addicted8804: folds 
+Foyek2000: folds 
+Uncalled bet ($0.20) returned to cubon2507
+cubon2507 collected $0.19 from pot
+cubon2507: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0 
+Seat 1: Foyek2000 folded before Flop
+Seat 2: ollikahn23 folded before Flop (didn't bet)
+Seat 4: Kirhgof_1988 folded before Flop (didn't bet)
+Seat 5: ArnoutsD folded before Flop (didn't bet)
+Seat 6: vcrocksnj (button) folded before Flop (didn't bet)
+Seat 7: Now Open (small blind) folded before Flop
+Seat 8: cubon2507 (big blind) collected ($0.19)
+Seat 9: Addicted8804 folded before Flop
+
+
+
+PokerStars Hand #182115149807:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:48:25 ET
+Table 'Amicitia' 9-max Seat #7 is the button
+Seat 1: Foyek2000 ($0.86 in chips) 
+Seat 2: ollikahn23 ($2.32 in chips) 
+Seat 4: Kirhgof_1988 ($2 in chips) 
+Seat 5: ArnoutsD ($2.43 in chips) 
+Seat 6: vcrocksnj ($2 in chips) 
+Seat 7: Now Open ($2 in chips) 
+Seat 8: cubon2507 ($2.70 in chips) 
+Seat 9: Addicted8804 ($2.05 in chips) 
+cubon2507: posts small blind $0.01
+Addicted8804: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9h 8s]
+Foyek2000: folds 
+ollikahn23: folds 
+Kirhgof_1988: folds 
+ArnoutsD: folds 
+vcrocksnj: folds 
+Now Open: raises $0.03 to $0.05
+cubon2507: folds 
+Addicted8804: folds 
+Uncalled bet ($0.03) returned to Now Open
+Now Open collected $0.05 from pot
+Now Open: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Foyek2000 folded before Flop (didn't bet)
+Seat 2: ollikahn23 folded before Flop (didn't bet)
+Seat 4: Kirhgof_1988 folded before Flop (didn't bet)
+Seat 5: ArnoutsD folded before Flop (didn't bet)
+Seat 6: vcrocksnj folded before Flop (didn't bet)
+Seat 7: Now Open (button) collected ($0.05)
+Seat 8: cubon2507 (small blind) folded before Flop
+Seat 9: Addicted8804 (big blind) folded before Flop
+
+
+
+PokerStars Hand #182115171129:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:48:51 ET
+Table 'Amicitia' 9-max Seat #8 is the button
+Seat 1: Foyek2000 ($0.86 in chips) 
+Seat 2: ollikahn23 ($2.32 in chips) 
+Seat 4: Kirhgof_1988 ($2 in chips) 
+Seat 5: ArnoutsD ($2.43 in chips) 
+Seat 6: vcrocksnj ($2 in chips) 
+Seat 7: Now Open ($2.03 in chips) 
+Seat 8: cubon2507 ($2.69 in chips) 
+Seat 9: Addicted8804 ($2.03 in chips) 
+Addicted8804: posts small blind $0.01
+Foyek2000: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3s 9d]
+ollikahn23: folds 
+Kirhgof_1988: raises $0.04 to $0.06
+ArnoutsD: calls $0.06
+vcrocksnj: folds 
+Now Open: folds 
+cubon2507: folds 
+Addicted8804: folds 
+Foyek2000: folds 
+*** FLOP *** [6c Qs Th]
+Kirhgof_1988: bets $0.09
+ArnoutsD: folds 
+Uncalled bet ($0.09) returned to Kirhgof_1988
+Kirhgof_1988 collected $0.14 from pot
+Kirhgof_1988: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [6c Qs Th]
+Seat 1: Foyek2000 (big blind) folded before Flop
+Seat 2: ollikahn23 folded before Flop (didn't bet)
+Seat 4: Kirhgof_1988 collected ($0.14)
+Seat 5: ArnoutsD folded on the Flop
+Seat 6: vcrocksnj folded before Flop (didn't bet)
+Seat 7: Now Open folded before Flop (didn't bet)
+Seat 8: cubon2507 (button) folded before Flop (didn't bet)
+Seat 9: Addicted8804 (small blind) folded before Flop
+
+
+
+PokerStars Hand #182115208395:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:49:36 ET
+Table 'Amicitia' 9-max Seat #9 is the button
+Seat 1: Foyek2000 ($0.84 in chips) 
+Seat 2: ollikahn23 ($2.32 in chips) 
+Seat 4: Kirhgof_1988 ($2.08 in chips) 
+Seat 5: ArnoutsD ($2.37 in chips) 
+Seat 6: vcrocksnj ($2 in chips) 
+Seat 7: Now Open ($2.03 in chips) 
+Seat 8: cubon2507 ($2.69 in chips) 
+Seat 9: Addicted8804 ($2.02 in chips) 
+Foyek2000: posts small blind $0.01
+ollikahn23: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3c 5s]
+Kirhgof_1988: folds 
+ArnoutsD: raises $0.02 to $0.04
+vcrocksnj: folds 
+Now Open: folds 
+cubon2507: folds 
+Addicted8804: folds 
+Foyek2000: folds 
+ollikahn23: folds 
+Uncalled bet ($0.02) returned to ArnoutsD
+ArnoutsD collected $0.05 from pot
+ArnoutsD: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Foyek2000 (small blind) folded before Flop
+Seat 2: ollikahn23 (big blind) folded before Flop
+Seat 4: Kirhgof_1988 folded before Flop (didn't bet)
+Seat 5: ArnoutsD collected ($0.05)
+Seat 6: vcrocksnj folded before Flop (didn't bet)
+Seat 7: Now Open folded before Flop (didn't bet)
+Seat 8: cubon2507 folded before Flop (didn't bet)
+Seat 9: Addicted8804 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182115226508:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:49:59 ET
+Table 'Amicitia' 9-max Seat #1 is the button
+Seat 1: Foyek2000 ($0.83 in chips) 
+Seat 2: ollikahn23 ($2.30 in chips) 
+Seat 4: Kirhgof_1988 ($2.08 in chips) 
+Seat 5: ArnoutsD ($2.40 in chips) 
+Seat 6: vcrocksnj ($2 in chips) 
+Seat 7: Now Open ($2.03 in chips) 
+Seat 8: cubon2507 ($2.69 in chips) 
+Seat 9: Addicted8804 ($2.02 in chips) 
+ollikahn23: posts small blind $0.01
+Kirhgof_1988: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5d As]
+ArnoutsD: calls $0.02
+vcrocksnj: folds 
+Now Open: folds 
+cubon2507: folds 
+Addicted8804: folds 
+Foyek2000: folds 
+ollikahn23: folds 
+Kirhgof_1988: checks 
+*** FLOP *** [Jd 3s Kc]
+Kirhgof_1988: checks 
+ArnoutsD: checks 
+*** TURN *** [Jd 3s Kc] [Kh]
+Kirhgof_1988: checks 
+ArnoutsD: bets $0.03
+Kirhgof_1988: folds 
+Uncalled bet ($0.03) returned to ArnoutsD
+ArnoutsD collected $0.05 from pot
+ArnoutsD: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Jd 3s Kc Kh]
+Seat 1: Foyek2000 (button) folded before Flop (didn't bet)
+Seat 2: ollikahn23 (small blind) folded before Flop
+Seat 4: Kirhgof_1988 (big blind) folded on the Turn
+Seat 5: ArnoutsD collected ($0.05)
+Seat 6: vcrocksnj folded before Flop (didn't bet)
+Seat 7: Now Open folded before Flop (didn't bet)
+Seat 8: cubon2507 folded before Flop (didn't bet)
+Seat 9: Addicted8804 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182115256188:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:50:35 ET
+Table 'Amicitia' 9-max Seat #2 is the button
+Seat 1: Foyek2000 ($0.83 in chips) 
+Seat 2: ollikahn23 ($2.29 in chips) 
+Seat 4: Kirhgof_1988 ($2.06 in chips) 
+Seat 5: ArnoutsD ($2.43 in chips) 
+Seat 6: vcrocksnj ($2 in chips) 
+Seat 7: Now Open ($2.03 in chips) 
+Seat 8: cubon2507 ($2.69 in chips) 
+Seat 9: Addicted8804 ($2.02 in chips) 
+Kirhgof_1988: posts small blind $0.01
+ArnoutsD: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3h 4h]
+vcrocksnj: folds 
+Now Open: folds 
+cubon2507: folds 
+Addicted8804: raises $0.03 to $0.05
+Foyek2000: folds 
+ollikahn23: folds 
+Kirhgof_1988: folds 
+ArnoutsD: folds 
+Uncalled bet ($0.03) returned to Addicted8804
+Addicted8804 collected $0.05 from pot
+Addicted8804: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Foyek2000 folded before Flop (didn't bet)
+Seat 2: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 4: Kirhgof_1988 (small blind) folded before Flop
+Seat 5: ArnoutsD (big blind) folded before Flop
+Seat 6: vcrocksnj folded before Flop (didn't bet)
+Seat 7: Now Open folded before Flop (didn't bet)
+Seat 8: cubon2507 folded before Flop (didn't bet)
+Seat 9: Addicted8804 collected ($0.05)
+
+
+
+PokerStars Hand #182115273388:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:50:56 ET
+Table 'Amicitia' 9-max Seat #4 is the button
+Seat 1: Foyek2000 ($0.83 in chips) 
+Seat 2: ollikahn23 ($2.29 in chips) 
+Seat 4: Kirhgof_1988 ($2.05 in chips) 
+Seat 5: ArnoutsD ($2.41 in chips) 
+Seat 6: vcrocksnj ($2 in chips) 
+Seat 7: Now Open ($2.03 in chips) 
+Seat 8: cubon2507 ($2.69 in chips) 
+Seat 9: Addicted8804 ($2.05 in chips) 
+ArnoutsD: posts small blind $0.01
+vcrocksnj: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4d Kh]
+Now Open: folds 
+cubon2507: folds 
+Addicted8804: folds 
+Foyek2000: folds 
+ollikahn23: folds 
+Kirhgof_1988: folds 
+ArnoutsD: raises $0.02 to $0.04
+vcrocksnj: calls $0.02
+*** FLOP *** [5s 3h 2d]
+ArnoutsD: checks 
+vcrocksnj: checks 
+*** TURN *** [5s 3h 2d] [2s]
+ArnoutsD: checks 
+vcrocksnj: checks 
+*** RIVER *** [5s 3h 2d 2s] [5d]
+ArnoutsD: checks 
+vcrocksnj: checks 
+*** SHOW DOWN ***
+ArnoutsD: shows [Kd Js] (two pair, Fives and Deuces)
+vcrocksnj: shows [Jc Ad] (two pair, Fives and Deuces - Ace kicker)
+vcrocksnj collected $0.08 from pot
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [5s 3h 2d 2s 5d]
+Seat 1: Foyek2000 folded before Flop (didn't bet)
+Seat 2: ollikahn23 folded before Flop (didn't bet)
+Seat 4: Kirhgof_1988 (button) folded before Flop (didn't bet)
+Seat 5: ArnoutsD (small blind) showed [Kd Js] and lost with two pair, Fives and Deuces
+Seat 6: vcrocksnj (big blind) showed [Jc Ad] and won ($0.08) with two pair, Fives and Deuces
+Seat 7: Now Open folded before Flop (didn't bet)
+Seat 8: cubon2507 folded before Flop (didn't bet)
+Seat 9: Addicted8804 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182115311716:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:51:42 ET
+Table 'Amicitia' 9-max Seat #5 is the button
+Seat 1: Foyek2000 ($0.83 in chips) 
+Seat 2: ollikahn23 ($2.29 in chips) 
+Seat 4: Kirhgof_1988 ($2.05 in chips) 
+Seat 5: ArnoutsD ($2.37 in chips) 
+Seat 6: vcrocksnj ($2.04 in chips) 
+Seat 7: Now Open ($2.03 in chips) 
+Seat 8: cubon2507 ($2.69 in chips) 
+Seat 9: Addicted8804 ($2.05 in chips) 
+vcrocksnj: posts small blind $0.01
+Now Open: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qc 5h]
+cubon2507: folds 
+Addicted8804: folds 
+Foyek2000: raises $0.04 to $0.06
+ollikahn23: folds 
+Kirhgof_1988: calls $0.06
+ArnoutsD: folds 
+vcrocksnj: folds 
+Now Open: folds 
+*** FLOP *** [Td 4d Qs]
+Foyek2000: bets $0.08
+Kirhgof_1988: folds 
+Uncalled bet ($0.08) returned to Foyek2000
+Foyek2000 collected $0.14 from pot
+Foyek2000: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Td 4d Qs]
+Seat 1: Foyek2000 collected ($0.14)
+Seat 2: ollikahn23 folded before Flop (didn't bet)
+Seat 4: Kirhgof_1988 folded on the Flop
+Seat 5: ArnoutsD (button) folded before Flop (didn't bet)
+Seat 6: vcrocksnj (small blind) folded before Flop
+Seat 7: Now Open (big blind) folded before Flop
+Seat 8: cubon2507 folded before Flop (didn't bet)
+Seat 9: Addicted8804 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182115339740:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:52:16 ET
+Table 'Amicitia' 9-max Seat #6 is the button
+Seat 1: Foyek2000 ($0.91 in chips) 
+Seat 2: ollikahn23 ($2.29 in chips) 
+Seat 4: Kirhgof_1988 ($2 in chips) 
+Seat 5: ArnoutsD ($2.37 in chips) 
+Seat 6: vcrocksnj ($2.03 in chips) 
+Seat 8: cubon2507 ($2.69 in chips) 
+Seat 9: Addicted8804 ($2.05 in chips) 
+cubon2507: posts small blind $0.01
+Addicted8804: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jd 7s]
+Foyek2000: calls $0.02
+ollikahn23: folds 
+Kirhgof_1988: folds 
+ArnoutsD: folds 
+vcrocksnj: calls $0.02
+cubon2507: folds 
+Addicted8804: checks 
+*** FLOP *** [7d 6s 3d]
+Addicted8804: checks 
+Foyek2000: bets $0.04
+vcrocksnj: folds 
+Addicted8804: folds 
+Uncalled bet ($0.04) returned to Foyek2000
+Foyek2000 collected $0.07 from pot
+Foyek2000: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Board [7d 6s 3d]
+Seat 1: Foyek2000 collected ($0.07)
+Seat 2: ollikahn23 folded before Flop (didn't bet)
+Seat 4: Kirhgof_1988 folded before Flop (didn't bet)
+Seat 5: ArnoutsD folded before Flop (didn't bet)
+Seat 6: vcrocksnj (button) folded on the Flop
+Seat 8: cubon2507 (small blind) folded before Flop
+Seat 9: Addicted8804 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #182115368168:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:52:51 ET
+Table 'Amicitia' 9-max Seat #8 is the button
+Seat 1: Foyek2000 ($0.96 in chips) 
+Seat 2: ollikahn23 ($2.29 in chips) 
+Seat 4: Kirhgof_1988 ($2 in chips) 
+Seat 5: ArnoutsD ($2.37 in chips) 
+Seat 6: vcrocksnj ($2.01 in chips) 
+Seat 8: cubon2507 ($2.68 in chips) 
+Seat 9: Addicted8804 ($2.03 in chips) 
+Addicted8804: posts small blind $0.01
+Foyek2000: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8h Qh]
+ollikahn23: folds 
+Kirhgof_1988: folds 
+Kirhgof_1988 leaves the table
+ArnoutsD: folds 
+vcrocksnj: folds 
+cubon2507: folds 
+Yuriy Shapar joins the table at seat #4 
+Addicted8804: folds 
+Uncalled bet ($0.01) returned to Foyek2000
+Foyek2000 collected $0.02 from pot
+Foyek2000: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Foyek2000 (big blind) collected ($0.02)
+Seat 2: ollikahn23 folded before Flop (didn't bet)
+Seat 4: Kirhgof_1988 folded before Flop (didn't bet)
+Seat 5: ArnoutsD folded before Flop (didn't bet)
+Seat 6: vcrocksnj folded before Flop (didn't bet)
+Seat 8: cubon2507 (button) folded before Flop (didn't bet)
+Seat 9: Addicted8804 (small blind) folded before Flop
+
+
+
+PokerStars Hand #182115387776:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:53:15 ET
+Table 'Amicitia' 9-max Seat #9 is the button
+Seat 1: Foyek2000 ($0.97 in chips) 
+Seat 2: ollikahn23 ($2.29 in chips) 
+Seat 5: ArnoutsD ($2.37 in chips) 
+Seat 6: vcrocksnj ($2.01 in chips) 
+Seat 8: cubon2507 ($2.68 in chips) 
+Seat 9: Addicted8804 ($2.02 in chips) 
+Foyek2000: posts small blind $0.01
+ollikahn23: posts big blind $0.02
+Yuriy Shapar: sits out 
+Now Open: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qc 2h]
+ArnoutsD: calls $0.02
+vcrocksnj: folds 
+cubon2507: folds 
+Addicted8804: folds 
+Foyek2000: calls $0.01
+ollikahn23: checks 
+*** FLOP *** [5d 7s Ad]
+Foyek2000: checks 
+ollikahn23: checks 
+ArnoutsD: checks 
+*** TURN *** [5d 7s Ad] [3s]
+Foyek2000: checks 
+ollikahn23: checks 
+ArnoutsD: checks 
+*** RIVER *** [5d 7s Ad 3s] [3h]
+Foyek2000: bets $0.06
+ollikahn23: folds 
+ArnoutsD: calls $0.06
+*** SHOW DOWN ***
+Foyek2000: shows [2s 9c] (a pair of Threes)
+ArnoutsD: shows [Ac 6d] (two pair, Aces and Threes)
+ArnoutsD collected $0.17 from pot
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [5d 7s Ad 3s 3h]
+Seat 1: Foyek2000 (small blind) showed [2s 9c] and lost with a pair of Threes
+Seat 2: ollikahn23 (big blind) folded on the River
+Seat 5: ArnoutsD showed [Ac 6d] and won ($0.17) with two pair, Aces and Threes
+Seat 6: vcrocksnj folded before Flop (didn't bet)
+Seat 8: cubon2507 folded before Flop (didn't bet)
+Seat 9: Addicted8804 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182115417880:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:53:52 ET
+Table 'Amicitia' 9-max Seat #1 is the button
+Seat 1: Foyek2000 ($0.89 in chips) 
+Seat 2: ollikahn23 ($2.27 in chips) 
+Seat 4: Yuriy Shapar ($0.80 in chips) 
+Seat 5: ArnoutsD ($2.46 in chips) 
+Seat 6: vcrocksnj ($2.01 in chips) 
+Seat 8: cubon2507 ($2.68 in chips) 
+Seat 9: Addicted8804 ($2.02 in chips) 
+ollikahn23: posts small blind $0.01
+parlo123 was removed from the table for failing to post
+Yuriy Shapar: posts big blind $0.02
+Now Open: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3h Th]
+ArnoutsD: folds 
+vcrocksnj: folds 
+cubon2507: folds 
+Addicted8804: raises $0.03 to $0.05
+Foyek2000: folds 
+ollikahn23: folds 
+Yuriy Shapar: folds 
+Uncalled bet ($0.03) returned to Addicted8804
+Addicted8804 collected $0.05 from pot
+Addicted8804: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Foyek2000 (button) folded before Flop (didn't bet)
+Seat 2: ollikahn23 (small blind) folded before Flop
+Seat 4: Yuriy Shapar (big blind) folded before Flop
+Seat 5: ArnoutsD folded before Flop (didn't bet)
+Seat 6: vcrocksnj folded before Flop (didn't bet)
+Seat 8: cubon2507 folded before Flop (didn't bet)
+Seat 9: Addicted8804 collected ($0.05)
+
+
+
+PokerStars Hand #182115454965:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:54:37 ET
+Table 'Amicitia' 9-max Seat #2 is the button
+Seat 1: Foyek2000 ($0.89 in chips) 
+Seat 2: ollikahn23 ($2.26 in chips) 
+Seat 4: Yuriy Shapar ($0.78 in chips) 
+Seat 5: ArnoutsD ($2.46 in chips) 
+Seat 6: vcrocksnj ($2.01 in chips) 
+Seat 8: cubon2507 ($2.68 in chips) 
+Seat 9: Addicted8804 ($2.05 in chips) 
+Yuriy Shapar: posts small blind $0.01
+ArnoutsD: posts big blind $0.02
+Now Open: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [As 8h]
+vcrocksnj: folds 
+cubon2507: raises $0.04 to $0.06
+Addicted8804: folds 
+Foyek2000: folds 
+ollikahn23: folds 
+Yuriy Shapar: folds 
+ArnoutsD: raises $0.04 to $0.10
+cubon2507: raises $0.24 to $0.34
+ArnoutsD: calls $0.24
+*** FLOP *** [Ts 7d 5d]
+ArnoutsD: bets $0.34
+diego14_lh joins the table at seat #3 
+cubon2507: raises $2 to $2.34 and is all-in
+ArnoutsD: calls $1.78 and is all-in
+Uncalled bet ($0.22) returned to cubon2507
+*** TURN *** [Ts 7d 5d] [8s]
+*** RIVER *** [Ts 7d 5d 8s] [Qs]
+*** SHOW DOWN ***
+ArnoutsD: shows [Kh Kd] (a pair of Kings)
+cubon2507: shows [Ad Ah] (a pair of Aces)
+cubon2507 collected $4.76 from pot
+*** SUMMARY ***
+Total pot $4.93 | Rake $0.17 
+Board [Ts 7d 5d 8s Qs]
+Seat 1: Foyek2000 folded before Flop (didn't bet)
+Seat 2: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 4: Yuriy Shapar (small blind) folded before Flop
+Seat 5: ArnoutsD (big blind) showed [Kh Kd] and lost with a pair of Kings
+Seat 6: vcrocksnj folded before Flop (didn't bet)
+Seat 8: cubon2507 showed [Ad Ah] and won ($4.76) with a pair of Aces
+Seat 9: Addicted8804 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182115499955:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:55:36 ET
+Table 'Amicitia' 9-max Seat #4 is the button
+Seat 1: Foyek2000 ($0.89 in chips) 
+Seat 2: ollikahn23 ($2.26 in chips) 
+Seat 4: Yuriy Shapar ($0.77 in chips) 
+Seat 6: vcrocksnj ($2.01 in chips) 
+Seat 7: Now Open ($2.01 in chips) 
+Seat 8: cubon2507 ($4.98 in chips) 
+Seat 9: Addicted8804 ($2.05 in chips) 
+vcrocksnj: posts small blind $0.01
+Now Open: posts big blind $0.02
+diego14_lh: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4s 7s]
+cubon2507: folds 
+Addicted8804: folds 
+Foyek2000: folds 
+ollikahn23: folds 
+Yuriy Shapar: folds 
+vcrocksnj: folds 
+Uncalled bet ($0.01) returned to Now Open
+Now Open collected $0.02 from pot
+Now Open: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Foyek2000 folded before Flop (didn't bet)
+Seat 2: ollikahn23 folded before Flop (didn't bet)
+Seat 4: Yuriy Shapar (button) folded before Flop (didn't bet)
+Seat 6: vcrocksnj (small blind) folded before Flop
+Seat 7: Now Open (big blind) collected ($0.02)
+Seat 8: cubon2507 folded before Flop (didn't bet)
+Seat 9: Addicted8804 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182115511667:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:55:53 ET
+Table 'Amicitia' 9-max Seat #6 is the button
+Seat 1: Foyek2000 ($0.89 in chips) 
+Seat 2: ollikahn23 ($2.26 in chips) 
+Seat 4: Yuriy Shapar ($0.77 in chips) 
+Seat 6: vcrocksnj ($2 in chips) 
+Seat 7: Now Open ($2.02 in chips) 
+Seat 8: cubon2507 ($4.98 in chips) 
+Seat 9: Addicted8804 ($2.05 in chips) 
+Now Open: posts small blind $0.01
+cubon2507: posts big blind $0.02
+diego14_lh: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ts 9c]
+Addicted8804: folds 
+Foyek2000: raises $0.04 to $0.06
+ollikahn23: folds 
+Yuriy Shapar: folds 
+vcrocksnj: folds 
+Now Open: folds 
+ArnoutsD leaves the table
+cubon2507: calls $0.04
+*** FLOP *** [9h Kd Kc]
+Wanted2You joins the table at seat #5 
+cubon2507: checks 
+Foyek2000: bets $0.02
+cubon2507: calls $0.02
+*** TURN *** [9h Kd Kc] [7h]
+cubon2507: checks 
+Foyek2000: bets $0.02
+cubon2507: calls $0.02
+*** RIVER *** [9h Kd Kc 7h] [5d]
+cubon2507: checks 
+Foyek2000: checks 
+*** SHOW DOWN ***
+cubon2507: shows [Jh Ah] (a pair of Kings)
+Foyek2000: shows [Qs As] (a pair of Kings - Ace+Queen kicker)
+Foyek2000 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [9h Kd Kc 7h 5d]
+Seat 1: Foyek2000 showed [Qs As] and won ($0.20) with a pair of Kings
+Seat 2: ollikahn23 folded before Flop (didn't bet)
+Seat 4: Yuriy Shapar folded before Flop (didn't bet)
+Seat 6: vcrocksnj (button) folded before Flop (didn't bet)
+Seat 7: Now Open (small blind) folded before Flop
+Seat 8: cubon2507 (big blind) showed [Jh Ah] and lost with a pair of Kings
+Seat 9: Addicted8804 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182115547649:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:56:46 ET
+Table 'Amicitia' 9-max Seat #7 is the button
+Seat 1: Foyek2000 ($0.99 in chips) 
+Seat 2: ollikahn23 ($2.26 in chips) 
+Seat 4: Yuriy Shapar ($0.77 in chips) 
+Seat 6: vcrocksnj ($2 in chips) 
+Seat 7: Now Open ($2.01 in chips) 
+Seat 8: cubon2507 ($4.88 in chips) 
+Seat 9: Addicted8804 ($2.05 in chips) 
+cubon2507: posts small blind $0.01
+Addicted8804: posts big blind $0.02
+diego14_lh: sits out 
+Wanted2You: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9c 8s]
+Foyek2000: folds 
+ollikahn23: folds 
+Yuriy Shapar: calls $0.02
+vcrocksnj: folds 
+Now Open: raises $0.04 to $0.06
+cubon2507: folds 
+Addicted8804: folds 
+Yuriy Shapar: calls $0.04
+*** FLOP *** [8d 9d 5s]
+Yuriy Shapar: checks 
+Now Open: bets $0.09
+Yuriy Shapar: calls $0.09
+*** TURN *** [8d 9d 5s] [7s]
+Yuriy Shapar: checks 
+Now Open: checks 
+*** RIVER *** [8d 9d 5s 7s] [Th]
+Yuriy Shapar: checks 
+Now Open: checks 
+*** SHOW DOWN ***
+Yuriy Shapar: shows [5d 5c] (three of a kind, Fives)
+Now Open: shows [Jh As] (a straight, Seven to Jack)
+Now Open collected $0.32 from pot
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [8d 9d 5s 7s Th]
+Seat 1: Foyek2000 folded before Flop (didn't bet)
+Seat 2: ollikahn23 folded before Flop (didn't bet)
+Seat 4: Yuriy Shapar showed [5d 5c] and lost with three of a kind, Fives
+Seat 6: vcrocksnj folded before Flop (didn't bet)
+Seat 7: Now Open (button) showed [Jh As] and won ($0.32) with a straight, Seven to Jack
+Seat 8: cubon2507 (small blind) folded before Flop
+Seat 9: Addicted8804 (big blind) folded before Flop
+
+
+
+PokerStars Hand #182115590513:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:57:36 ET
+Table 'Amicitia' 9-max Seat #8 is the button
+Seat 1: Foyek2000 ($0.99 in chips) 
+Seat 2: ollikahn23 ($2.26 in chips) 
+Seat 4: Yuriy Shapar ($0.62 in chips) 
+Seat 6: vcrocksnj ($2 in chips) 
+Seat 7: Now Open ($2.18 in chips) 
+Seat 8: cubon2507 ($4.87 in chips) 
+Seat 9: Addicted8804 ($2.03 in chips) 
+Addicted8804: posts small blind $0.01
+Foyek2000: posts big blind $0.02
+diego14_lh: sits out 
+Wanted2You: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6s Qs]
+ollikahn23: folds 
+Yuriy Shapar: calls $0.02
+Wanted2You leaves the table
+vcrocksnj: raises $0.02 to $0.04
+Now Open: folds 
+cubon2507: folds 
+Addicted8804: folds 
+Foyek2000: folds 
+Yuriy Shapar: calls $0.02
+*** FLOP *** [5c Qc Td]
+Yuriy Shapar: checks 
+mymymy973973 joins the table at seat #5 
+vcrocksnj: checks 
+*** TURN *** [5c Qc Td] [9c]
+Yuriy Shapar: checks 
+vcrocksnj: bets $0.02
+Yuriy Shapar: raises $0.02 to $0.04
+vcrocksnj: calls $0.02
+*** RIVER *** [5c Qc Td 9c] [8c]
+Yuriy Shapar: bets $0.54 and is all-in
+vcrocksnj: calls $0.54
+*** SHOW DOWN ***
+Yuriy Shapar: shows [Kc 2c] (a flush, King high)
+vcrocksnj: shows [Ac Kd] (a flush, Ace high)
+vcrocksnj collected $1.23 from pot
+*** SUMMARY ***
+Total pot $1.27 | Rake $0.04 
+Board [5c Qc Td 9c 8c]
+Seat 1: Foyek2000 (big blind) folded before Flop
+Seat 2: ollikahn23 folded before Flop (didn't bet)
+Seat 4: Yuriy Shapar showed [Kc 2c] and lost with a flush, King high
+Seat 6: vcrocksnj showed [Ac Kd] and won ($1.23) with a flush, Ace high
+Seat 7: Now Open folded before Flop (didn't bet)
+Seat 8: cubon2507 (button) folded before Flop (didn't bet)
+Seat 9: Addicted8804 (small blind) folded before Flop
+
+
+
+PokerStars Hand #182115641288:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:58:49 ET
+Table 'Amicitia' 9-max Seat #9 is the button
+Seat 1: Foyek2000 ($0.97 in chips) 
+Seat 2: ollikahn23 ($2.26 in chips) 
+Seat 6: vcrocksnj ($2.61 in chips) 
+Seat 7: Now Open ($2.18 in chips) 
+Seat 8: cubon2507 ($4.87 in chips) 
+Seat 9: Addicted8804 ($2.02 in chips) 
+Foyek2000: posts small blind $0.01
+ollikahn23: posts big blind $0.02
+diego14_lh: sits out 
+mymymy973973: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qc 3c]
+vcrocksnj: folds 
+Yuriy Shapar leaves the table
+Now Open: raises $0.03 to $0.05
+viktor198707 joins the table at seat #4 
+cubon2507: folds 
+Addicted8804: folds 
+Foyek2000: folds 
+ollikahn23: folds 
+Uncalled bet ($0.03) returned to Now Open
+Now Open collected $0.05 from pot
+Now Open: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: Foyek2000 (small blind) folded before Flop
+Seat 2: ollikahn23 (big blind) folded before Flop
+Seat 6: vcrocksnj folded before Flop (didn't bet)
+Seat 7: Now Open collected ($0.05)
+Seat 8: cubon2507 folded before Flop (didn't bet)
+Seat 9: Addicted8804 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182115664743:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 12:59:23 ET
+Table 'Amicitia' 9-max Seat #1 is the button
+Seat 1: Foyek2000 ($0.96 in chips) 
+Seat 2: ollikahn23 ($2.24 in chips) 
+Seat 3: diego14_lh ($2 in chips) 
+Seat 4: viktor198707 ($0.80 in chips) 
+Seat 6: vcrocksnj ($2.61 in chips) 
+Seat 7: Now Open ($2.21 in chips) 
+Seat 8: cubon2507 ($4.87 in chips) 
+Seat 9: Addicted8804 ($2.02 in chips) 
+ollikahn23: posts small blind $0.01
+diego14_lh: posts big blind $0.02
+viktor198707: posts big blind $0.02
+mymymy973973: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Tc Qd]
+viktor198707: raises $0.02 to $0.04
+vcrocksnj: folds 
+Now Open: folds 
+cubon2507: folds 
+Addicted8804: folds 
+Foyek2000: calls $0.04
+ollikahn23: folds 
+diego14_lh: calls $0.02
+*** FLOP *** [9h 3s Ts]
+diego14_lh: checks 
+viktor198707: bets $0.76 and is all-in
+Foyek2000: folds 
+diego14_lh: folds 
+Uncalled bet ($0.76) returned to viktor198707
+viktor198707 collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [9h 3s Ts]
+Seat 1: Foyek2000 (button) folded on the Flop
+Seat 2: ollikahn23 (small blind) folded before Flop
+Seat 3: diego14_lh (big blind) folded on the Flop
+Seat 4: viktor198707 collected ($0.13)
+Seat 6: vcrocksnj folded before Flop (didn't bet)
+Seat 7: Now Open folded before Flop (didn't bet)
+Seat 8: cubon2507 folded before Flop (didn't bet)
+Seat 9: Addicted8804 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182115698007:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 13:00:10 ET
+Table 'Amicitia' 9-max Seat #2 is the button
+Seat 1: Foyek2000 ($0.92 in chips) 
+Seat 2: ollikahn23 ($2.23 in chips) 
+Seat 3: diego14_lh ($1.96 in chips) 
+Seat 4: viktor198707 ($0.89 in chips) 
+Seat 6: vcrocksnj ($2.61 in chips) 
+Seat 7: Now Open ($2.21 in chips) 
+Seat 8: cubon2507 ($4.87 in chips) 
+Seat 9: Addicted8804 ($2.02 in chips) 
+diego14_lh: posts small blind $0.01
+viktor198707: posts big blind $0.02
+mymymy973973: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3s 7h]
+vcrocksnj: folds 
+Now Open: folds 
+cubon2507: raises $0.04 to $0.06
+Addicted8804: folds 
+Foyek2000: folds 
+ollikahn23: folds 
+diego14_lh: folds 
+viktor198707: calls $0.04
+*** FLOP *** [Qh Qd 4d]
+viktor198707: bets $0.02
+cubon2507: calls $0.02
+*** TURN *** [Qh Qd 4d] [Kc]
+viktor198707: bets $0.08
+cubon2507: calls $0.08
+*** RIVER *** [Qh Qd 4d Kc] [8s]
+viktor198707: bets $0.02
+cubon2507: calls $0.02
+*** SHOW DOWN ***
+viktor198707: shows [Kh 7d] (two pair, Kings and Queens)
+cubon2507: shows [Ac Ks] (two pair, Kings and Queens - Ace kicker)
+cubon2507 collected $0.36 from pot
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01 
+Board [Qh Qd 4d Kc 8s]
+Seat 1: Foyek2000 folded before Flop (didn't bet)
+Seat 2: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 3: diego14_lh (small blind) folded before Flop
+Seat 4: viktor198707 (big blind) showed [Kh 7d] and lost with two pair, Kings and Queens
+Seat 6: vcrocksnj folded before Flop (didn't bet)
+Seat 7: Now Open folded before Flop (didn't bet)
+Seat 8: cubon2507 showed [Ac Ks] and won ($0.36) with two pair, Kings and Queens
+Seat 9: Addicted8804 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182115731735:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 13:00:56 ET
+Table 'Amicitia' 9-max Seat #3 is the button
+Seat 1: Foyek2000 ($0.92 in chips) 
+Seat 2: ollikahn23 ($2.23 in chips) 
+Seat 3: diego14_lh ($1.95 in chips) 
+Seat 4: viktor198707 ($0.71 in chips) 
+Seat 5: mymymy973973 ($0.80 in chips) 
+Seat 6: vcrocksnj ($2.61 in chips) 
+Seat 7: Now Open ($2.21 in chips) 
+Seat 8: cubon2507 ($5.05 in chips) 
+Seat 9: Addicted8804 ($2.02 in chips) 
+viktor198707: posts small blind $0.01
+mymymy973973: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3s 4d]
+vcrocksnj: folds 
+Now Open: folds 
+cubon2507 has timed out
+cubon2507: folds 
+Addicted8804: raises $0.03 to $0.05
+Foyek2000: folds 
+ollikahn23: folds 
+diego14_lh: folds 
+viktor198707: calls $0.04
+mymymy973973: folds 
+*** FLOP *** [Tc 5h 6s]
+viktor198707: bets $0.02
+Addicted8804: calls $0.02
+*** TURN *** [Tc 5h 6s] [8s]
+viktor198707: bets $0.64 and is all-in
+Addicted8804: folds 
+Uncalled bet ($0.64) returned to viktor198707
+viktor198707 collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [Tc 5h 6s 8s]
+Seat 1: Foyek2000 folded before Flop (didn't bet)
+Seat 2: ollikahn23 folded before Flop (didn't bet)
+Seat 3: diego14_lh (button) folded before Flop (didn't bet)
+Seat 4: viktor198707 (small blind) collected ($0.15)
+Seat 5: mymymy973973 (big blind) folded before Flop
+Seat 6: vcrocksnj folded before Flop (didn't bet)
+Seat 7: Now Open folded before Flop (didn't bet)
+Seat 8: cubon2507 folded before Flop (didn't bet)
+Seat 9: Addicted8804 folded on the Turn
+
+
+
+PokerStars Hand #182115771207:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 13:01:46 ET
+Table 'Amicitia' 9-max Seat #4 is the button
+Seat 1: Foyek2000 ($0.92 in chips) 
+Seat 2: ollikahn23 ($2.23 in chips) 
+Seat 3: diego14_lh ($1.95 in chips) 
+Seat 4: viktor198707 ($0.79 in chips) 
+Seat 5: mymymy973973 ($0.78 in chips) 
+Seat 6: vcrocksnj ($2.61 in chips) 
+Seat 7: Now Open ($2.21 in chips) 
+Seat 8: cubon2507 ($5.05 in chips) 
+Seat 9: Addicted8804 ($2 in chips) 
+mymymy973973: posts small blind $0.01
+vcrocksnj: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3c 2s]
+Now Open: folds 
+cubon2507: folds 
+Addicted8804: folds 
+Foyek2000: folds 
+ollikahn23: folds 
+diego14_lh: folds 
+viktor198707: folds 
+mymymy973973: folds 
+Uncalled bet ($0.01) returned to vcrocksnj
+vcrocksnj collected $0.02 from pot
+vcrocksnj: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: Foyek2000 folded before Flop (didn't bet)
+Seat 2: ollikahn23 folded before Flop (didn't bet)
+Seat 3: diego14_lh folded before Flop (didn't bet)
+Seat 4: viktor198707 (button) folded before Flop (didn't bet)
+Seat 5: mymymy973973 (small blind) folded before Flop
+Seat 6: vcrocksnj (big blind) collected ($0.02)
+Seat 7: Now Open folded before Flop (didn't bet)
+Seat 8: cubon2507 folded before Flop (didn't bet)
+Seat 9: Addicted8804 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182115783752:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 13:02:01 ET
+Table 'Amicitia' 9-max Seat #5 is the button
+Seat 1: Foyek2000 ($0.92 in chips) 
+Seat 2: ollikahn23 ($2.23 in chips) 
+Seat 3: diego14_lh ($1.95 in chips) 
+Seat 4: viktor198707 ($0.79 in chips) 
+Seat 5: mymymy973973 ($0.77 in chips) 
+Seat 6: vcrocksnj ($2.62 in chips) 
+Seat 8: cubon2507 ($5.05 in chips) 
+Seat 9: Addicted8804 ($2 in chips) 
+vcrocksnj: posts small blind $0.01
+Now Open: is sitting out 
+cubon2507: posts big blind $0.02
+Now Open leaves the table
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jd Js]
+Addicted8804: raises $0.04 to $0.06
+Foyek2000: folds 
+ollikahn23: raises $0.08 to $0.14
+diego14_lh: folds 
+viktor198707: folds 
+mymymy973973: folds 
+vcrocksnj: folds 
+cubon2507: folds 
+Addicted8804: folds 
+Uncalled bet ($0.08) returned to ollikahn23
+ollikahn23 collected $0.15 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0 
+Seat 1: Foyek2000 folded before Flop (didn't bet)
+Seat 2: ollikahn23 collected ($0.15)
+Seat 3: diego14_lh folded before Flop (didn't bet)
+Seat 4: viktor198707 folded before Flop (didn't bet)
+Seat 5: mymymy973973 (button) folded before Flop (didn't bet)
+Seat 6: vcrocksnj (small blind) folded before Flop
+Seat 8: cubon2507 (big blind) folded before Flop
+Seat 9: Addicted8804 folded before Flop
+
+
+
+PokerStars Hand #182115805561:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/06 13:02:27 ET
+Table 'Amicitia' 9-max Seat #6 is the button
+Seat 1: Foyek2000 ($0.92 in chips) 
+Seat 2: ollikahn23 ($2.32 in chips) 
+Seat 3: diego14_lh ($1.95 in chips) 
+Seat 4: viktor198707 ($0.79 in chips) 
+Seat 5: mymymy973973 ($0.77 in chips) 
+Seat 6: vcrocksnj ($2.61 in chips) 
+Seat 8: cubon2507 ($5.03 in chips) 
+cubon2507: posts small blind $0.01
+Addicted8804: is sitting out 
+Foyek2000: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6d 3c]
+Addicted8804 leaves the table
+ollikahn23: folds 
+diego14_lh: folds 
+viktor198707: raises $0.02 to $0.04
+mymymy973973: folds 
+vcrocksnj: folds 
+cubon2507: folds 
+Foyek2000: calls $0.02
+*** FLOP *** [Jh 5d 5s]
+Foyek2000: checks 
+viktor198707: bets $0.05
+Foyek2000: calls $0.05
+*** TURN *** [Jh 5d 5s] [6s]
+Foyek2000: checks 
+Cortacabros joins the table at seat #7 
+viktor198707: bets $0.02
+Foyek2000: raises $0.11 to $0.13
+viktor198707: calls $0.11
+*** RIVER *** [Jh 5d 5s 6s] [As]
+Foyek2000: bets $0.02
+viktor198707: folds 
+Uncalled bet ($0.02) returned to Foyek2000
+Foyek2000 collected $0.43 from pot
+Foyek2000: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [Jh 5d 5s 6s As]
+Seat 1: Foyek2000 (big blind) collected ($0.43)
+Seat 2: ollikahn23 folded before Flop (didn't bet)
+Seat 3: diego14_lh folded before Flop (didn't bet)
+Seat 4: viktor198707 folded on the River
+Seat 5: mymymy973973 folded before Flop (didn't bet)
+Seat 6: vcrocksnj (button) folded before Flop (didn't bet)
+Seat 8: cubon2507 (small blind) folded before Flop
+
+
+

@@ -1,0 +1,763 @@
+﻿PokerStars Hand #181927766229:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/02 19:11:26 ET
+Table 'Marceline' 6-max Seat #1 is the button
+Seat 1: michaelodonovan ($1.95 in chips) 
+Seat 2: 55as55 ($5.61 in chips) 
+Seat 3: ollikahn23 ($2 in chips) 
+Seat 4: neistovui116 ($1.31 in chips) 
+Seat 5: niktract ($10.51 in chips) 
+Seat 6: Gripyusha ($2.20 in chips) 
+55as55: posts small blind $0.01
+ollikahn23: posts big blind $0.02
+michaelodonovan: posts the ante $0.01
+55as55: posts the ante $0.01
+ollikahn23: posts the ante $0.01
+neistovui116: posts the ante $0.01
+niktract: posts the ante $0.01
+Gripyusha: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3c 4d]
+neistovui116: calls $0.02
+niktract: raises $0.13 to $0.15
+Gripyusha: folds 
+michaelodonovan: folds 
+55as55: folds 
+ollikahn23: folds 
+neistovui116: calls $0.13
+*** FLOP *** [Ks 7c Kd]
+neistovui116: checks 
+niktract: checks 
+*** TURN *** [Ks 7c Kd] [7d]
+neistovui116: checks 
+niktract: checks 
+*** RIVER *** [Ks 7c Kd 7d] [8c]
+neistovui116: bets $0.20
+niktract: folds 
+Uncalled bet ($0.20) returned to neistovui116
+neistovui116 collected $0.38 from pot
+neistovui116: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.01 
+Board [Ks 7c Kd 7d 8c]
+Seat 1: michaelodonovan (button) folded before Flop (didn't bet)
+Seat 2: 55as55 (small blind) folded before Flop
+Seat 3: ollikahn23 (big blind) folded before Flop
+Seat 4: neistovui116 collected ($0.38)
+Seat 5: niktract folded on the River
+Seat 6: Gripyusha folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #181927793431:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/02 19:12:06 ET
+Table 'Marceline' 6-max Seat #2 is the button
+Seat 1: michaelodonovan ($1.94 in chips) 
+Seat 2: 55as55 ($5.59 in chips) 
+Seat 3: ollikahn23 ($1.97 in chips) 
+Seat 4: neistovui116 ($1.53 in chips) 
+Seat 5: niktract ($10.35 in chips) 
+Seat 6: Gripyusha ($2.19 in chips) 
+ollikahn23: posts small blind $0.01
+neistovui116: posts big blind $0.02
+michaelodonovan: posts the ante $0.01
+55as55: posts the ante $0.01
+ollikahn23: posts the ante $0.01
+neistovui116: posts the ante $0.01
+niktract: posts the ante $0.01
+Gripyusha: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ts 8d]
+niktract: folds 
+Gripyusha: folds 
+michaelodonovan: folds 
+55as55: calls $0.02
+ollikahn23: folds 
+neistovui116: checks 
+*** FLOP *** [7h 7d 7c]
+neistovui116: checks 
+55as55: checks 
+*** TURN *** [7h 7d 7c] [Kc]
+neistovui116: checks 
+55as55: checks 
+*** RIVER *** [7h 7d 7c Kc] [5h]
+neistovui116: checks 
+55as55: bets $0.08
+neistovui116: folds 
+Uncalled bet ($0.08) returned to 55as55
+55as55 collected $0.11 from pot
+55as55: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [7h 7d 7c Kc 5h]
+Seat 1: michaelodonovan folded before Flop (didn't bet)
+Seat 2: 55as55 (button) collected ($0.11)
+Seat 3: ollikahn23 (small blind) folded before Flop
+Seat 4: neistovui116 (big blind) folded on the River
+Seat 5: niktract folded before Flop (didn't bet)
+Seat 6: Gripyusha folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #181927824218:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/02 19:12:42 ET
+Table 'Marceline' 6-max Seat #3 is the button
+Seat 1: michaelodonovan ($1.93 in chips) 
+Seat 2: 55as55 ($5.67 in chips) 
+Seat 3: ollikahn23 ($1.95 in chips) 
+Seat 4: neistovui116 ($1.50 in chips) 
+Seat 5: niktract ($10.34 in chips) 
+Seat 6: Gripyusha ($2.18 in chips) 
+neistovui116: posts small blind $0.01
+niktract: posts big blind $0.02
+michaelodonovan: posts the ante $0.01
+55as55: posts the ante $0.01
+ollikahn23: posts the ante $0.01
+neistovui116: posts the ante $0.01
+niktract: posts the ante $0.01
+Gripyusha: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ah 2s]
+Gripyusha: folds 
+michaelodonovan: folds 
+55as55: folds 
+ollikahn23: raises $0.02 to $0.04
+neistovui116: folds 
+niktract: calls $0.02
+*** FLOP *** [6c Jc 3h]
+niktract: checks 
+ollikahn23: bets $0.06
+niktract: calls $0.06
+*** TURN *** [6c Jc 3h] [3c]
+niktract: checks 
+ollikahn23: checks 
+*** RIVER *** [6c Jc 3h 3c] [Td]
+niktract: checks 
+ollikahn23: checks 
+*** SHOW DOWN ***
+niktract: shows [5h Ad] (a pair of Threes)
+ollikahn23: shows [Ah 2s] (a pair of Threes)
+niktract collected $0.13 from pot
+ollikahn23 collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [6c Jc 3h 3c Td]
+Seat 1: michaelodonovan folded before Flop (didn't bet)
+Seat 2: 55as55 folded before Flop (didn't bet)
+Seat 3: ollikahn23 (button) showed [Ah 2s] and won ($0.13) with a pair of Threes
+Seat 4: neistovui116 (small blind) folded before Flop
+Seat 5: niktract (big blind) showed [5h Ad] and won ($0.13) with a pair of Threes
+Seat 6: Gripyusha folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #181927854769:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/02 19:13:26 ET
+Table 'Marceline' 6-max Seat #4 is the button
+Seat 1: michaelodonovan ($1.92 in chips) 
+Seat 2: 55as55 ($5.66 in chips) 
+Seat 3: ollikahn23 ($1.97 in chips) 
+Seat 4: neistovui116 ($1.48 in chips) 
+Seat 5: niktract ($10.36 in chips) 
+Seat 6: Gripyusha ($2.17 in chips) 
+niktract: posts small blind $0.01
+Gripyusha: posts big blind $0.02
+michaelodonovan: posts the ante $0.01
+55as55: posts the ante $0.01
+ollikahn23: posts the ante $0.01
+neistovui116: posts the ante $0.01
+niktract: posts the ante $0.01
+Gripyusha: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9h Jd]
+michaelodonovan: folds 
+55as55: calls $0.02
+ollikahn23: calls $0.02
+neistovui116: calls $0.02
+niktract: folds 
+Gripyusha: checks 
+*** FLOP *** [3h 2s Jh]
+Gripyusha: checks 
+55as55: checks 
+ollikahn23: bets $0.08
+neistovui116: calls $0.08
+Gripyusha: folds 
+55as55: calls $0.08
+*** TURN *** [3h 2s Jh] [Kc]
+55as55: checks 
+ollikahn23: bets $0.12
+neistovui116: raises $0.31 to $0.43
+55as55: folds 
+ollikahn23: folds 
+Uncalled bet ($0.31) returned to neistovui116
+neistovui116 collected $0.61 from pot
+neistovui116: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.63 | Rake $0.02 
+Board [3h 2s Jh Kc]
+Seat 1: michaelodonovan folded before Flop (didn't bet)
+Seat 2: 55as55 folded on the Turn
+Seat 3: ollikahn23 folded on the Turn
+Seat 4: neistovui116 (button) collected ($0.61)
+Seat 5: niktract (small blind) folded before Flop
+Seat 6: Gripyusha (big blind) folded on the Flop
+
+
+
+PokerStars Hand #181927884743:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/02 19:14:10 ET
+Table 'Marceline' 6-max Seat #5 is the button
+Seat 1: michaelodonovan ($1.91 in chips) 
+Seat 2: 55as55 ($5.55 in chips) 
+Seat 3: ollikahn23 ($1.74 in chips) 
+Seat 4: neistovui116 ($1.86 in chips) 
+Seat 5: niktract ($10.34 in chips) 
+Seat 6: Gripyusha ($2.14 in chips) 
+Gripyusha: posts small blind $0.01
+michaelodonovan: posts big blind $0.02
+michaelodonovan: posts the ante $0.01
+55as55: posts the ante $0.01
+ollikahn23: posts the ante $0.01
+neistovui116: posts the ante $0.01
+niktract: posts the ante $0.01
+Gripyusha: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4c 7s]
+55as55: folds 
+ollikahn23: folds 
+neistovui116: calls $0.02
+niktract: folds 
+Gripyusha: folds 
+michaelodonovan: checks 
+*** FLOP *** [6d 8h Qd]
+michaelodonovan: checks 
+neistovui116: bets $0.11
+michaelodonovan: folds [Ah]
+Uncalled bet ($0.11) returned to neistovui116
+neistovui116 collected $0.11 from pot
+neistovui116: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [6d 8h Qd]
+Seat 1: michaelodonovan (big blind) folded on the Flop
+Seat 2: 55as55 folded before Flop (didn't bet)
+Seat 3: ollikahn23 folded before Flop (didn't bet)
+Seat 4: neistovui116 collected ($0.11)
+Seat 5: niktract (button) folded before Flop (didn't bet)
+Seat 6: Gripyusha (small blind) folded before Flop
+
+
+
+PokerStars Hand #181927901760:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/02 19:14:35 ET
+Table 'Marceline' 6-max Seat #6 is the button
+Seat 1: michaelodonovan ($1.88 in chips) 
+Seat 2: 55as55 ($5.54 in chips) 
+Seat 3: ollikahn23 ($1.73 in chips) 
+Seat 4: neistovui116 ($1.94 in chips) 
+Seat 5: niktract ($10.33 in chips) 
+Seat 6: Gripyusha ($2.12 in chips) 
+michaelodonovan: posts small blind $0.01
+55as55: posts big blind $0.02
+michaelodonovan: posts the ante $0.01
+55as55: posts the ante $0.01
+ollikahn23: posts the ante $0.01
+neistovui116: posts the ante $0.01
+niktract: posts the ante $0.01
+Gripyusha: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3h 2c]
+ollikahn23: folds 
+neistovui116: folds 
+niktract: raises $0.02 to $0.04
+Gripyusha: folds 
+michaelodonovan: folds 
+55as55: calls $0.02
+*** FLOP *** [Jh Th 5h]
+55as55: checks 
+niktract: bets $0.14
+55as55: raises $0.26 to $0.40
+niktract: calls $0.26
+*** TURN *** [Jh Th 5h] [7h]
+55as55: checks 
+niktract: checks 
+*** RIVER *** [Jh Th 5h 7h] [Kd]
+55as55: bets $0.64
+niktract: folds 
+Uncalled bet ($0.64) returned to 55as55
+55as55 collected $0.92 from pot
+55as55: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.03 
+Board [Jh Th 5h 7h Kd]
+Seat 1: michaelodonovan (small blind) folded before Flop
+Seat 2: 55as55 (big blind) collected ($0.92)
+Seat 3: ollikahn23 folded before Flop (didn't bet)
+Seat 4: neistovui116 folded before Flop (didn't bet)
+Seat 5: niktract folded on the River
+Seat 6: Gripyusha (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #181927939782:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/02 19:15:31 ET
+Table 'Marceline' 6-max Seat #1 is the button
+Seat 1: michaelodonovan ($1.86 in chips) 
+Seat 2: 55as55 ($6.01 in chips) 
+Seat 3: ollikahn23 ($1.72 in chips) 
+Seat 4: neistovui116 ($1.93 in chips) 
+Seat 5: niktract ($9.88 in chips) 
+Seat 6: Gripyusha ($2.11 in chips) 
+55as55: posts small blind $0.01
+ollikahn23: posts big blind $0.02
+michaelodonovan: posts the ante $0.01
+55as55: posts the ante $0.01
+ollikahn23: posts the ante $0.01
+neistovui116: posts the ante $0.01
+niktract: posts the ante $0.01
+Gripyusha: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Th 8c]
+neistovui116: raises $0.04 to $0.06
+niktract: calls $0.06
+Gripyusha: calls $0.06
+michaelodonovan: folds 
+55as55: folds 
+ollikahn23: folds 
+*** FLOP *** [Qd 4c Jd]
+neistovui116: checks 
+niktract: bets $0.20
+Gripyusha: folds 
+neistovui116: folds 
+Uncalled bet ($0.20) returned to niktract
+niktract collected $0.26 from pot
+niktract: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [Qd 4c Jd]
+Seat 1: michaelodonovan (button) folded before Flop (didn't bet)
+Seat 2: 55as55 (small blind) folded before Flop
+Seat 3: ollikahn23 (big blind) folded before Flop
+Seat 4: neistovui116 folded on the Flop
+Seat 5: niktract collected ($0.26)
+Seat 6: Gripyusha folded on the Flop
+
+
+
+PokerStars Hand #181927956772:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/02 19:15:55 ET
+Table 'Marceline' 6-max Seat #2 is the button
+Seat 1: michaelodonovan ($1.85 in chips) 
+Seat 2: 55as55 ($5.99 in chips) 
+Seat 3: ollikahn23 ($1.69 in chips) 
+Seat 4: neistovui116 ($1.86 in chips) 
+Seat 5: niktract ($10.07 in chips) 
+Seat 6: Gripyusha ($2.04 in chips) 
+ollikahn23: posts small blind $0.01
+neistovui116: posts big blind $0.02
+michaelodonovan: posts the ante $0.01
+55as55: posts the ante $0.01
+ollikahn23: posts the ante $0.01
+neistovui116: posts the ante $0.01
+niktract: posts the ante $0.01
+Gripyusha: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8s 5h]
+niktract: calls $0.02
+Gripyusha: folds 
+michaelodonovan: folds 
+55as55: calls $0.02
+ollikahn23: folds 
+neistovui116: checks 
+*** FLOP *** [Ad Tc Jd]
+neistovui116: checks 
+niktract: checks 
+55as55: bets $0.04
+neistovui116: calls $0.04
+niktract: calls $0.04
+*** TURN *** [Ad Tc Jd] [Ac]
+neistovui116: checks 
+niktract: checks 
+55as55: bets $0.06
+neistovui116: calls $0.06
+niktract: calls $0.06
+*** RIVER *** [Ad Tc Jd Ac] [9d]
+neistovui116: checks 
+niktract: checks 
+55as55: checks 
+*** SHOW DOWN ***
+neistovui116: shows [2c Jc] (two pair, Aces and Jacks)
+niktract: mucks hand 
+55as55: mucks hand 
+neistovui116 collected $0.41 from pot
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02 
+Board [Ad Tc Jd Ac 9d]
+Seat 1: michaelodonovan folded before Flop (didn't bet)
+Seat 2: 55as55 (button) mucked [2h Th]
+Seat 3: ollikahn23 (small blind) folded before Flop
+Seat 4: neistovui116 (big blind) showed [2c Jc] and won ($0.41) with two pair, Aces and Jacks
+Seat 5: niktract mucked [7c Qc]
+Seat 6: Gripyusha folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #181927987640:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/02 19:16:41 ET
+Table 'Marceline' 6-max Seat #3 is the button
+Seat 1: michaelodonovan ($1.84 in chips) 
+Seat 2: 55as55 ($5.86 in chips) 
+Seat 3: ollikahn23 ($1.67 in chips) 
+Seat 4: neistovui116 ($2.14 in chips) 
+Seat 5: niktract ($9.94 in chips) 
+Seat 6: Gripyusha ($2.03 in chips) 
+neistovui116: posts small blind $0.01
+niktract: posts big blind $0.02
+michaelodonovan: posts the ante $0.01
+55as55: posts the ante $0.01
+ollikahn23: posts the ante $0.01
+neistovui116: posts the ante $0.01
+niktract: posts the ante $0.01
+Gripyusha: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8h Qs]
+Gripyusha: folds 
+michaelodonovan: raises $0.06 to $0.08
+55as55: calls $0.08
+ollikahn23: folds 
+neistovui116: calls $0.07
+niktract: folds 
+*** FLOP *** [Kc Kh Tc]
+neistovui116: checks 
+michaelodonovan: checks 
+55as55: checks 
+*** TURN *** [Kc Kh Tc] [Jc]
+neistovui116: bets $0.06
+michaelodonovan: raises $0.06 to $0.12
+55as55: folds 
+neistovui116: calls $0.06
+*** RIVER *** [Kc Kh Tc Jc] [5s]
+neistovui116: checks 
+michaelodonovan: bets $0.23
+neistovui116: calls $0.23
+*** SHOW DOWN ***
+michaelodonovan: shows [2c Ac] (a flush, Ace high)
+neistovui116: mucks hand 
+michaelodonovan collected $0.98 from pot
+*** SUMMARY ***
+Total pot $1.02 | Rake $0.04 
+Board [Kc Kh Tc Jc 5s]
+Seat 1: michaelodonovan showed [2c Ac] and won ($0.98) with a flush, Ace high
+Seat 2: 55as55 folded on the Turn
+Seat 3: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 4: neistovui116 (small blind) mucked [Qc Js]
+Seat 5: niktract (big blind) folded before Flop
+Seat 6: Gripyusha folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #181928033446:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/02 19:17:49 ET
+Table 'Marceline' 6-max Seat #4 is the button
+Seat 1: michaelodonovan ($2.38 in chips) 
+Seat 2: 55as55 ($5.77 in chips) 
+Seat 3: ollikahn23 ($1.66 in chips) 
+Seat 4: neistovui116 ($1.70 in chips) 
+Seat 5: niktract ($9.91 in chips) 
+Seat 6: Gripyusha ($2.02 in chips) 
+niktract: posts small blind $0.01
+Gripyusha: posts big blind $0.02
+michaelodonovan: posts the ante $0.01
+55as55: posts the ante $0.01
+ollikahn23: posts the ante $0.01
+neistovui116: posts the ante $0.01
+niktract: posts the ante $0.01
+Gripyusha: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7h 6h]
+michaelodonovan: folds 
+55as55: calls $0.02
+ollikahn23: calls $0.02
+neistovui116: raises $0.08 to $0.10
+niktract: calls $0.09
+Gripyusha: folds 
+55as55: folds 
+ollikahn23: calls $0.08
+*** FLOP *** [5c 7c Qc]
+niktract: checks 
+ollikahn23: checks 
+neistovui116: bets $0.20
+niktract: raises $0.20 to $0.40
+ollikahn23: folds 
+neistovui116: raises $1.19 to $1.59 and is all-in
+niktract: calls $1.19
+*** TURN *** [5c 7c Qc] [8d]
+*** RIVER *** [5c 7c Qc 8d] [Jh]
+*** SHOW DOWN ***
+niktract: shows [As Jc] (a pair of Jacks)
+neistovui116: shows [Ad Qd] (a pair of Queens)
+neistovui116 collected $3.45 from pot
+*** SUMMARY ***
+Total pot $3.58 | Rake $0.13 
+Board [5c 7c Qc 8d Jh]
+Seat 1: michaelodonovan folded before Flop (didn't bet)
+Seat 2: 55as55 folded before Flop
+Seat 3: ollikahn23 folded on the Flop
+Seat 4: neistovui116 (button) showed [Ad Qd] and won ($3.45) with a pair of Queens
+Seat 5: niktract (small blind) showed [As Jc] and lost with a pair of Jacks
+Seat 6: Gripyusha (big blind) folded before Flop
+
+
+
+PokerStars Hand #181928061618:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/02 19:18:31 ET
+Table 'Marceline' 6-max Seat #5 is the button
+Seat 1: michaelodonovan ($2.37 in chips) 
+Seat 2: 55as55 ($5.74 in chips) 
+Seat 3: ollikahn23 ($1.92 in chips) 
+Seat 4: neistovui116 ($3.45 in chips) 
+Seat 5: niktract ($8.21 in chips) 
+Seat 6: Gripyusha ($2 in chips) 
+Gripyusha: posts small blind $0.01
+michaelodonovan: posts big blind $0.02
+michaelodonovan: posts the ante $0.01
+55as55: posts the ante $0.01
+ollikahn23: posts the ante $0.01
+neistovui116: posts the ante $0.01
+niktract: posts the ante $0.01
+Gripyusha: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4s 7c]
+55as55: folds 
+ollikahn23: folds 
+neistovui116: raises $0.04 to $0.06
+niktract: raises $0.04 to $0.10
+Gripyusha: folds 
+michaelodonovan: raises $0.22 to $0.32
+neistovui116: folds 
+niktract: calls $0.22
+*** FLOP *** [Qs Ah Qc]
+michaelodonovan: bets $0.42
+niktract: folds 
+Uncalled bet ($0.42) returned to michaelodonovan
+michaelodonovan collected $0.74 from pot
+michaelodonovan: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.77 | Rake $0.03 
+Board [Qs Ah Qc]
+Seat 1: michaelodonovan (big blind) collected ($0.74)
+Seat 2: 55as55 folded before Flop (didn't bet)
+Seat 3: ollikahn23 folded before Flop (didn't bet)
+Seat 4: neistovui116 folded before Flop
+Seat 5: niktract (button) folded on the Flop
+Seat 6: Gripyusha (small blind) folded before Flop
+
+
+
+PokerStars Hand #181928084191:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/02 19:19:04 ET
+Table 'Marceline' 6-max Seat #6 is the button
+Seat 1: michaelodonovan ($2.78 in chips) 
+Seat 2: 55as55 ($5.73 in chips) 
+Seat 3: ollikahn23 ($1.91 in chips) 
+Seat 4: neistovui116 ($3.38 in chips) 
+Seat 5: niktract ($7.88 in chips) 
+Seat 6: Gripyusha ($2 in chips) 
+michaelodonovan: posts small blind $0.01
+55as55: posts big blind $0.02
+michaelodonovan: posts the ante $0.01
+55as55: posts the ante $0.01
+ollikahn23: posts the ante $0.01
+neistovui116: posts the ante $0.01
+niktract: posts the ante $0.01
+Gripyusha: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6c 8h]
+ollikahn23: folds 
+neistovui116: folds 
+niktract: raises $0.02 to $0.04
+Gripyusha: folds 
+michaelodonovan: raises $0.12 to $0.16
+55as55: folds 
+niktract: calls $0.12
+*** FLOP *** [4c Qh 4h]
+michaelodonovan: bets $0.24
+niktract: folds 
+Uncalled bet ($0.24) returned to michaelodonovan
+michaelodonovan collected $0.39 from pot
+michaelodonovan: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.01 
+Board [4c Qh 4h]
+Seat 1: michaelodonovan (small blind) collected ($0.39)
+Seat 2: 55as55 (big blind) folded before Flop
+Seat 3: ollikahn23 folded before Flop (didn't bet)
+Seat 4: neistovui116 folded before Flop (didn't bet)
+Seat 5: niktract folded on the Flop
+Seat 6: Gripyusha (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #181928110120:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/02 19:19:42 ET
+Table 'Marceline' 6-max Seat #1 is the button
+Seat 1: michaelodonovan ($3 in chips) 
+Seat 2: 55as55 ($5.70 in chips) 
+Seat 3: ollikahn23 ($1.90 in chips) 
+Seat 4: neistovui116 ($3.37 in chips) 
+Seat 5: niktract ($7.71 in chips) 
+Seat 6: Gripyusha ($2 in chips) 
+55as55: posts small blind $0.01
+ollikahn23: posts big blind $0.02
+michaelodonovan: posts the ante $0.01
+55as55: posts the ante $0.01
+ollikahn23: posts the ante $0.01
+neistovui116: posts the ante $0.01
+niktract: posts the ante $0.01
+Gripyusha: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3c 6s]
+neistovui116: folds 
+niktract: raises $0.18 to $0.20
+Gripyusha: folds 
+michaelodonovan: folds 
+55as55: folds 
+ollikahn23: folds 
+Uncalled bet ($0.18) returned to niktract
+niktract collected $0.11 from pot
+niktract: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Seat 1: michaelodonovan (button) folded before Flop (didn't bet)
+Seat 2: 55as55 (small blind) folded before Flop
+Seat 3: ollikahn23 (big blind) folded before Flop
+Seat 4: neistovui116 folded before Flop (didn't bet)
+Seat 5: niktract collected ($0.11)
+Seat 6: Gripyusha folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #181928120067:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/02 19:19:57 ET
+Table 'Marceline' 6-max Seat #2 is the button
+Seat 1: michaelodonovan ($2.99 in chips) 
+Seat 2: 55as55 ($5.68 in chips) 
+Seat 3: ollikahn23 ($1.87 in chips) 
+Seat 4: neistovui116 ($3.36 in chips) 
+Seat 5: niktract ($7.79 in chips) 
+Seat 6: Gripyusha ($2 in chips) 
+ollikahn23: posts small blind $0.01
+neistovui116: posts big blind $0.02
+michaelodonovan: posts the ante $0.01
+55as55: posts the ante $0.01
+ollikahn23: posts the ante $0.01
+neistovui116: posts the ante $0.01
+niktract: posts the ante $0.01
+Gripyusha: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kd 3s]
+niktract: raises $0.18 to $0.20
+Gripyusha: folds 
+michaelodonovan: folds 
+55as55: folds 
+ollikahn23: folds 
+neistovui116: folds 
+Uncalled bet ($0.18) returned to niktract
+niktract collected $0.11 from pot
+niktract: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Seat 1: michaelodonovan folded before Flop (didn't bet)
+Seat 2: 55as55 (button) folded before Flop (didn't bet)
+Seat 3: ollikahn23 (small blind) folded before Flop
+Seat 4: neistovui116 (big blind) folded before Flop
+Seat 5: niktract collected ($0.11)
+Seat 6: Gripyusha folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #181928129610:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/02 19:20:11 ET
+Table 'Marceline' 6-max Seat #3 is the button
+Seat 1: michaelodonovan ($2.98 in chips) 
+Seat 2: 55as55 ($5.67 in chips) 
+Seat 3: ollikahn23 ($1.85 in chips) 
+Seat 4: neistovui116 ($3.33 in chips) 
+Seat 5: niktract ($7.87 in chips) 
+Seat 6: Gripyusha ($2 in chips) 
+neistovui116: posts small blind $0.01
+niktract: posts big blind $0.02
+michaelodonovan: posts the ante $0.01
+55as55: posts the ante $0.01
+ollikahn23: posts the ante $0.01
+neistovui116: posts the ante $0.01
+niktract: posts the ante $0.01
+Gripyusha: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ts 8h]
+Gripyusha: folds 
+michaelodonovan: folds 
+55as55: folds 
+ollikahn23: raises $0.04 to $0.06
+neistovui116: calls $0.05
+niktract: calls $0.04
+*** FLOP *** [4s Kd As]
+neistovui116: checks 
+niktract: checks 
+ollikahn23: bets $0.10
+neistovui116: folds 
+niktract: calls $0.10
+*** TURN *** [4s Kd As] [4d]
+niktract: checks 
+ollikahn23: checks 
+*** RIVER *** [4s Kd As 4d] [9d]
+niktract: bets $0.32
+ollikahn23: folds 
+Uncalled bet ($0.32) returned to niktract
+niktract collected $0.42 from pot
+niktract: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.44 | Rake $0.02 
+Board [4s Kd As 4d 9d]
+Seat 1: michaelodonovan folded before Flop (didn't bet)
+Seat 2: 55as55 folded before Flop (didn't bet)
+Seat 3: ollikahn23 (button) folded on the River
+Seat 4: neistovui116 (small blind) folded on the Flop
+Seat 5: niktract (big blind) collected ($0.42)
+Seat 6: Gripyusha folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #181928164523:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/02 19:21:03 ET
+Table 'Marceline' 6-max Seat #4 is the button
+Seat 1: michaelodonovan ($2.97 in chips) 
+Seat 2: 55as55 ($5.66 in chips) 
+Seat 3: ollikahn23 ($1.68 in chips) 
+Seat 4: neistovui116 ($3.26 in chips) 
+Seat 5: niktract ($8.12 in chips) 
+Seat 6: Gripyusha ($2 in chips) 
+niktract: posts small blind $0.01
+Gripyusha: posts big blind $0.02
+michaelodonovan: posts the ante $0.01
+55as55: posts the ante $0.01
+ollikahn23: posts the ante $0.01
+neistovui116: posts the ante $0.01
+niktract: posts the ante $0.01
+Gripyusha: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qs Ad]
+michaelodonovan: folds 
+55as55: folds 
+ollikahn23: raises $0.04 to $0.06
+neistovui116: calls $0.06
+niktract: raises $0.26 to $0.32
+Gripyusha: folds 
+ollikahn23: calls $0.26
+neistovui116: calls $0.26
+*** FLOP *** [Js 3s 9s]
+niktract: bets $1
+ollikahn23: raises $0.35 to $1.35 and is all-in
+neistovui116: folds 
+niktract: calls $0.35
+*** TURN *** [Js 3s 9s] [4d]
+*** RIVER *** [Js 3s 9s 4d] [Th]
+*** SHOW DOWN ***
+niktract: shows [5s 9d] (a pair of Nines)
+ollikahn23: shows [Qs Ad] (high card Ace)
+niktract collected $3.61 from pot
+*** SUMMARY ***
+Total pot $3.74 | Rake $0.13 
+Board [Js 3s 9s 4d Th]
+Seat 1: michaelodonovan folded before Flop (didn't bet)
+Seat 2: 55as55 folded before Flop (didn't bet)
+Seat 3: ollikahn23 showed [Qs Ad] and lost with high card Ace
+Seat 4: neistovui116 (button) folded on the Flop
+Seat 5: niktract (small blind) showed [5s 9d] and won ($3.61) with a pair of Nines
+Seat 6: Gripyusha (big blind) folded before Flop
+
+
+

@@ -1,0 +1,514 @@
+﻿PokerStars Hand #181927803599:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/02 19:12:21 ET
+Table 'Hanna II' 6-max Seat #4 is the button
+Seat 1: sparta mocca ($2.12 in chips) 
+Seat 3: michaelodonovan ($8.42 in chips) 
+Seat 4: bashagain ($2.20 in chips) 
+Seat 5: dimakryt1 ($2.67 in chips) 
+Seat 6: ollikahn23 ($2 in chips) 
+dimakryt1: posts small blind $0.01
+ollikahn23: posts big blind $0.02
+sparta mocca: posts the ante $0.01
+michaelodonovan: posts the ante $0.01
+bashagain: posts the ante $0.01
+dimakryt1: posts the ante $0.01
+ollikahn23: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5s Th]
+sparta mocca: folds 
+michaelodonovan: raises $0.04 to $0.06
+bashagain: calls $0.06
+dimakryt1: folds 
+ollikahn23: folds 
+*** FLOP *** [8h 7d 4c]
+michaelodonovan: bets $0.08
+bashagain: folds 
+Uncalled bet ($0.08) returned to michaelodonovan
+michaelodonovan collected $0.19 from pot
+michaelodonovan: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [8h 7d 4c]
+Seat 1: sparta mocca folded before Flop (didn't bet)
+Seat 3: michaelodonovan collected ($0.19)
+Seat 4: bashagain (button) folded on the Flop
+Seat 5: dimakryt1 (small blind) folded before Flop
+Seat 6: ollikahn23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #181927825384:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/02 19:12:43 ET
+Table 'Hanna II' 6-max Seat #5 is the button
+Seat 1: sparta mocca ($2.11 in chips) 
+Seat 3: michaelodonovan ($8.54 in chips) 
+Seat 4: bashagain ($2.13 in chips) 
+Seat 5: dimakryt1 ($2.65 in chips) 
+Seat 6: ollikahn23 ($1.97 in chips) 
+ollikahn23: posts small blind $0.01
+sparta mocca: posts big blind $0.02
+sparta mocca: posts the ante $0.01
+michaelodonovan: posts the ante $0.01
+bashagain: posts the ante $0.01
+dimakryt1: posts the ante $0.01
+ollikahn23: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8d Js]
+michaelodonovan: folds 
+bashagain: folds 
+dimakryt1: raises $0.03 to $0.05
+ollikahn23: folds 
+sparta mocca: calls $0.03
+*** FLOP *** [4d Jc As]
+sparta mocca: checks 
+dimakryt1: checks 
+*** TURN *** [4d Jc As] [4c]
+sparta mocca: bets $0.11
+dimakryt1: calls $0.11
+*** RIVER *** [4d Jc As 4c] [3s]
+sparta mocca: checks 
+dimakryt1: checks 
+*** SHOW DOWN ***
+sparta mocca: shows [2c 3c] (two pair, Fours and Threes)
+dimakryt1: shows [Ac 9h] (two pair, Aces and Fours)
+dimakryt1 collected $0.37 from pot
+*** SUMMARY ***
+Total pot $0.38 | Rake $0.01 
+Board [4d Jc As 4c 3s]
+Seat 1: sparta mocca (big blind) showed [2c 3c] and lost with two pair, Fours and Threes
+Seat 3: michaelodonovan folded before Flop (didn't bet)
+Seat 4: bashagain folded before Flop (didn't bet)
+Seat 5: dimakryt1 (button) showed [Ac 9h] and won ($0.37) with two pair, Aces and Fours
+Seat 6: ollikahn23 (small blind) folded before Flop
+
+
+
+PokerStars Hand #181927850076:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/02 19:13:19 ET
+Table 'Hanna II' 6-max Seat #6 is the button
+Seat 1: sparta mocca ($2 in chips) 
+Seat 2: SlickB8 ($18.34 in chips) 
+Seat 3: michaelodonovan ($8.53 in chips) 
+Seat 4: bashagain ($2.12 in chips) 
+Seat 5: dimakryt1 ($2.85 in chips) 
+Seat 6: ollikahn23 ($1.95 in chips) 
+sparta mocca: posts small blind $0.01
+SlickB8: posts big blind $0.02
+sparta mocca: posts the ante $0.01
+SlickB8: posts the ante $0.01
+michaelodonovan: posts the ante $0.01
+bashagain: posts the ante $0.01
+dimakryt1: posts the ante $0.01
+ollikahn23: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3s 3c]
+michaelodonovan: folds 
+bashagain: folds 
+dimakryt1: raises $0.03 to $0.05
+ollikahn23: calls $0.05
+sparta mocca: folds 
+SlickB8: calls $0.03
+*** FLOP *** [Qs 9c 4d]
+SlickB8: checks 
+dimakryt1 has timed out
+dimakryt1: checks 
+ollikahn23: bets $0.08
+SlickB8: folds 
+dimakryt1 has timed out
+dimakryt1: folds 
+Uncalled bet ($0.08) returned to ollikahn23
+ollikahn23 collected $0.21 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01 
+Board [Qs 9c 4d]
+Seat 1: sparta mocca (small blind) folded before Flop
+Seat 2: SlickB8 (big blind) folded on the Flop
+Seat 3: michaelodonovan folded before Flop (didn't bet)
+Seat 4: bashagain folded before Flop (didn't bet)
+Seat 5: dimakryt1 folded on the Flop
+Seat 6: ollikahn23 (button) collected ($0.21)
+
+
+
+PokerStars Hand #181927911957:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/02 19:14:50 ET
+Table 'Hanna II' 6-max Seat #1 is the button
+Seat 1: sparta mocca ($2 in chips) 
+Seat 2: SlickB8 ($18.28 in chips) 
+Seat 3: michaelodonovan ($8.52 in chips) 
+Seat 4: bashagain ($2.11 in chips) 
+Seat 6: ollikahn23 ($2.10 in chips) 
+SlickB8: posts small blind $0.01
+michaelodonovan: posts big blind $0.02
+sparta mocca: posts the ante $0.01
+SlickB8: posts the ante $0.01
+michaelodonovan: posts the ante $0.01
+bashagain: posts the ante $0.01
+ollikahn23: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Js 2d]
+bashagain: folds 
+ollikahn23: folds 
+sparta mocca: folds 
+SlickB8: raises $0.04 to $0.06
+michaelodonovan: folds 
+Uncalled bet ($0.04) returned to SlickB8
+SlickB8 collected $0.09 from pot
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Seat 1: sparta mocca (button) folded before Flop (didn't bet)
+Seat 2: SlickB8 (small blind) collected ($0.09)
+Seat 3: michaelodonovan (big blind) folded before Flop
+Seat 4: bashagain folded before Flop (didn't bet)
+Seat 6: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #181927925046:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/02 19:15:09 ET
+Table 'Hanna II' 6-max Seat #2 is the button
+Seat 1: sparta mocca ($2 in chips) 
+Seat 2: SlickB8 ($18.34 in chips) 
+Seat 3: michaelodonovan ($8.49 in chips) 
+Seat 4: bashagain ($2.10 in chips) 
+Seat 5: dimakryt1 ($2.79 in chips) 
+Seat 6: ollikahn23 ($2.09 in chips) 
+michaelodonovan: posts small blind $0.01
+bashagain: posts big blind $0.02
+sparta mocca: posts the ante $0.01
+SlickB8: posts the ante $0.01
+michaelodonovan: posts the ante $0.01
+bashagain: posts the ante $0.01
+dimakryt1: posts the ante $0.01
+ollikahn23: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Tc Kc]
+dimakryt1: folds 
+ollikahn23: raises $0.04 to $0.06
+sparta mocca: calls $0.06
+SlickB8: folds 
+michaelodonovan: folds 
+bashagain: folds 
+*** FLOP *** [Td 3h 2h]
+ollikahn23: bets $0.12
+sparta mocca: calls $0.12
+*** TURN *** [Td 3h 2h] [Ad]
+ollikahn23: checks 
+sparta mocca: checks 
+*** RIVER *** [Td 3h 2h Ad] [2d]
+ollikahn23: checks 
+sparta mocca: checks 
+*** SHOW DOWN ***
+ollikahn23: shows [Tc Kc] (two pair, Tens and Deuces)
+sparta mocca: mucks hand 
+ollikahn23 collected $0.43 from pot
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [Td 3h 2h Ad 2d]
+Seat 1: sparta mocca mucked [4c 4s]
+Seat 2: SlickB8 (button) folded before Flop (didn't bet)
+Seat 3: michaelodonovan (small blind) folded before Flop
+Seat 4: bashagain (big blind) folded before Flop
+Seat 5: dimakryt1 folded before Flop (didn't bet)
+Seat 6: ollikahn23 showed [Tc Kc] and won ($0.43) with two pair, Tens and Deuces
+
+
+
+PokerStars Hand #181927958767:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/02 19:15:58 ET
+Table 'Hanna II' 6-max Seat #3 is the button
+Seat 1: sparta mocca ($2 in chips) 
+Seat 2: SlickB8 ($18.33 in chips) 
+Seat 3: michaelodonovan ($8.47 in chips) 
+Seat 4: bashagain ($2.07 in chips) 
+Seat 5: dimakryt1 ($2.78 in chips) 
+Seat 6: ollikahn23 ($2.33 in chips) 
+bashagain: posts small blind $0.01
+dimakryt1: posts big blind $0.02
+sparta mocca: posts the ante $0.01
+SlickB8: posts the ante $0.01
+michaelodonovan: posts the ante $0.01
+bashagain: posts the ante $0.01
+dimakryt1: posts the ante $0.01
+ollikahn23: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3c 5c]
+ollikahn23: folds 
+sparta mocca: raises $0.05 to $0.07
+SlickB8: calls $0.07
+michaelodonovan: folds 
+bashagain: folds 
+dimakryt1: folds 
+*** FLOP *** [As Ah Kc]
+sparta mocca: checks 
+SlickB8: bets $0.11
+sparta mocca: folds 
+Uncalled bet ($0.11) returned to SlickB8
+SlickB8 collected $0.22 from pot
+SlickB8: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [As Ah Kc]
+Seat 1: sparta mocca folded on the Flop
+Seat 2: SlickB8 collected ($0.22)
+Seat 3: michaelodonovan (button) folded before Flop (didn't bet)
+Seat 4: bashagain (small blind) folded before Flop
+Seat 5: dimakryt1 (big blind) folded before Flop
+Seat 6: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #181927987312:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/02 19:16:40 ET
+Table 'Hanna II' 6-max Seat #4 is the button
+Seat 1: sparta mocca ($2 in chips) 
+Seat 2: SlickB8 ($18.47 in chips) 
+Seat 3: michaelodonovan ($8.46 in chips) 
+Seat 4: bashagain ($2.05 in chips) 
+Seat 5: dimakryt1 ($2.75 in chips) 
+Seat 6: ollikahn23 ($2.32 in chips) 
+dimakryt1: posts small blind $0.01
+ollikahn23: posts big blind $0.02
+sparta mocca: posts the ante $0.01
+SlickB8: posts the ante $0.01
+michaelodonovan: posts the ante $0.01
+bashagain: posts the ante $0.01
+dimakryt1: posts the ante $0.01
+ollikahn23: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to ollikahn23 [As 9c]
+sparta mocca: folds 
+SlickB8: folds 
+michaelodonovan: folds 
+bashagain: folds 
+dimakryt1: folds 
+Uncalled bet ($0.01) returned to ollikahn23
+ollikahn23 collected $0.08 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Seat 1: sparta mocca folded before Flop (didn't bet)
+Seat 2: SlickB8 folded before Flop (didn't bet)
+Seat 3: michaelodonovan folded before Flop (didn't bet)
+Seat 4: bashagain (button) folded before Flop (didn't bet)
+Seat 5: dimakryt1 (small blind) folded before Flop
+Seat 6: ollikahn23 (big blind) collected ($0.08)
+
+
+
+PokerStars Hand #181927995060:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/02 19:16:52 ET
+Table 'Hanna II' 6-max Seat #5 is the button
+Seat 1: sparta mocca ($2 in chips) 
+Seat 2: SlickB8 ($18.46 in chips) 
+Seat 3: michaelodonovan ($8.45 in chips) 
+Seat 4: bashagain ($2.04 in chips) 
+Seat 5: dimakryt1 ($2.73 in chips) 
+Seat 6: ollikahn23 ($2.38 in chips) 
+ollikahn23: posts small blind $0.01
+sparta mocca: posts big blind $0.02
+sparta mocca: posts the ante $0.01
+SlickB8: posts the ante $0.01
+michaelodonovan: posts the ante $0.01
+bashagain: posts the ante $0.01
+dimakryt1: posts the ante $0.01
+ollikahn23: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3d 8c]
+SlickB8: folds 
+michaelodonovan: folds 
+bashagain: folds 
+dimakryt1: raises $0.02 to $0.04
+ollikahn23: folds 
+sparta mocca: calls $0.02
+*** FLOP *** [4s Qc 7c]
+sparta mocca: checks 
+dimakryt1: checks 
+*** TURN *** [4s Qc 7c] [Kc]
+sparta mocca: bets $0.11
+dimakryt1: folds 
+Uncalled bet ($0.11) returned to sparta mocca
+sparta mocca collected $0.14 from pot
+sparta mocca: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [4s Qc 7c Kc]
+Seat 1: sparta mocca (big blind) collected ($0.14)
+Seat 2: SlickB8 folded before Flop (didn't bet)
+Seat 3: michaelodonovan folded before Flop (didn't bet)
+Seat 4: bashagain folded before Flop (didn't bet)
+Seat 5: dimakryt1 (button) folded on the Turn
+Seat 6: ollikahn23 (small blind) folded before Flop
+
+
+
+PokerStars Hand #181928035457:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/02 19:17:52 ET
+Table 'Hanna II' 6-max Seat #6 is the button
+Seat 1: sparta mocca ($2.09 in chips) 
+Seat 2: SlickB8 ($18.45 in chips) 
+Seat 3: michaelodonovan ($8.44 in chips) 
+Seat 4: bashagain ($2.03 in chips) 
+Seat 5: dimakryt1 ($2.68 in chips) 
+Seat 6: ollikahn23 ($2.36 in chips) 
+sparta mocca: posts small blind $0.01
+SlickB8: posts big blind $0.02
+sparta mocca: posts the ante $0.01
+SlickB8: posts the ante $0.01
+michaelodonovan: posts the ante $0.01
+bashagain: posts the ante $0.01
+dimakryt1: posts the ante $0.01
+ollikahn23: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2h 8h]
+michaelodonovan: folds 
+bashagain: folds 
+dimakryt1: folds 
+ollikahn23: folds 
+sparta mocca: calls $0.01
+SlickB8: raises $0.04 to $0.06
+sparta mocca: folds 
+Uncalled bet ($0.04) returned to SlickB8
+SlickB8 collected $0.10 from pot
+SlickB8: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: sparta mocca (small blind) folded before Flop
+Seat 2: SlickB8 (big blind) collected ($0.10)
+Seat 3: michaelodonovan folded before Flop (didn't bet)
+Seat 4: bashagain folded before Flop (didn't bet)
+Seat 5: dimakryt1 folded before Flop (didn't bet)
+Seat 6: ollikahn23 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #181928067142:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/02 19:18:39 ET
+Table 'Hanna II' 6-max Seat #1 is the button
+Seat 1: sparta mocca ($2.06 in chips) 
+Seat 2: SlickB8 ($18.52 in chips) 
+Seat 3: michaelodonovan ($8.43 in chips) 
+Seat 4: bashagain ($2.02 in chips) 
+Seat 5: dimakryt1 ($2.67 in chips) 
+Seat 6: ollikahn23 ($2.35 in chips) 
+SlickB8: posts small blind $0.01
+michaelodonovan: posts big blind $0.02
+sparta mocca: posts the ante $0.01
+SlickB8: posts the ante $0.01
+michaelodonovan: posts the ante $0.01
+bashagain: posts the ante $0.01
+dimakryt1: posts the ante $0.01
+ollikahn23: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ac Kc]
+bashagain: folds 
+dimakryt1: folds 
+ollikahn23: raises $0.04 to $0.06
+sparta mocca: raises $0.10 to $0.16
+SlickB8: folds 
+michaelodonovan: folds 
+ollikahn23: calls $0.10
+*** FLOP *** [9c Jc 6h]
+ollikahn23: checks 
+sparta mocca: bets $0.30
+ollikahn23: raises $0.58 to $0.88
+sparta mocca: folds 
+Uncalled bet ($0.58) returned to ollikahn23
+ollikahn23 collected $0.97 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.01 | Rake $0.04 
+Board [9c Jc 6h]
+Seat 1: sparta mocca (button) folded on the Flop
+Seat 2: SlickB8 (small blind) folded before Flop
+Seat 3: michaelodonovan (big blind) folded before Flop
+Seat 4: bashagain folded before Flop (didn't bet)
+Seat 5: dimakryt1 folded before Flop (didn't bet)
+Seat 6: ollikahn23 collected ($0.97)
+
+
+
+PokerStars Hand #181928113344:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/02 19:19:47 ET
+Table 'Hanna II' 6-max Seat #2 is the button
+Seat 1: sparta mocca ($2 in chips) 
+Seat 2: SlickB8 ($18.50 in chips) 
+Seat 3: michaelodonovan ($8.40 in chips) 
+Seat 4: bashagain ($2.01 in chips) 
+Seat 5: dimakryt1 ($2.66 in chips) 
+Seat 6: ollikahn23 ($2.85 in chips) 
+michaelodonovan: posts small blind $0.01
+bashagain: posts big blind $0.02
+sparta mocca: posts the ante $0.01
+SlickB8: posts the ante $0.01
+michaelodonovan: posts the ante $0.01
+bashagain: posts the ante $0.01
+dimakryt1: posts the ante $0.01
+ollikahn23: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6s 7d]
+dimakryt1: raises $0.04 to $0.06
+ollikahn23: folds 
+sparta mocca: folds 
+SlickB8: calls $0.06
+michaelodonovan: folds 
+bashagain: folds 
+*** FLOP *** [3c 4s 8d]
+dimakryt1: checks 
+SlickB8: bets $0.10
+dimakryt1: folds 
+Uncalled bet ($0.10) returned to SlickB8
+SlickB8 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [3c 4s 8d]
+Seat 1: sparta mocca folded before Flop (didn't bet)
+Seat 2: SlickB8 (button) collected ($0.20)
+Seat 3: michaelodonovan (small blind) folded before Flop
+Seat 4: bashagain (big blind) folded before Flop
+Seat 5: dimakryt1 folded on the Flop
+Seat 6: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #181928140622:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/02/02 19:20:27 ET
+Table 'Hanna II' 6-max Seat #3 is the button
+Seat 1: sparta mocca ($2 in chips) 
+Seat 2: SlickB8 ($18.63 in chips) 
+Seat 3: michaelodonovan ($8.38 in chips) 
+Seat 4: bashagain ($1.98 in chips) 
+Seat 5: dimakryt1 ($2.59 in chips) 
+Seat 6: ollikahn23 ($2.84 in chips) 
+bashagain: posts small blind $0.01
+dimakryt1: posts big blind $0.02
+sparta mocca: posts the ante $0.01
+SlickB8: posts the ante $0.01
+michaelodonovan: posts the ante $0.01
+bashagain: posts the ante $0.01
+dimakryt1: posts the ante $0.01
+ollikahn23: posts the ante $0.01
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ad 8c]
+ollikahn23: raises $0.04 to $0.06
+sparta mocca: folds 
+SlickB8: calls $0.06
+michaelodonovan: calls $0.06
+bashagain: folds 
+dimakryt1: folds 
+*** FLOP *** [4h Ac 4s]
+ollikahn23: bets $0.10
+SlickB8: calls $0.10
+michaelodonovan: folds 
+*** TURN *** [4h Ac 4s] [5c]
+ollikahn23: checks 
+SlickB8: checks 
+*** RIVER *** [4h Ac 4s 5c] [Kd]
+ollikahn23: bets $0.20
+SlickB8: calls $0.20
+*** SHOW DOWN ***
+ollikahn23: shows [Ad 8c] (two pair, Aces and Fours)
+SlickB8: shows [8h Ah] (two pair, Aces and Fours)
+ollikahn23 collected $0.42 from pot
+SlickB8 collected $0.42 from pot
+*** SUMMARY ***
+Total pot $0.87 | Rake $0.03 
+Board [4h Ac 4s 5c Kd]
+Seat 1: sparta mocca folded before Flop (didn't bet)
+Seat 2: SlickB8 showed [8h Ah] and won ($0.42) with two pair, Aces and Fours
+Seat 3: michaelodonovan (button) folded on the Flop
+Seat 4: bashagain (small blind) folded before Flop
+Seat 5: dimakryt1 (big blind) folded before Flop
+Seat 6: ollikahn23 showed [Ad 8c] and won ($0.42) with two pair, Aces and Fours
+
+
+

@@ -1,0 +1,1288 @@
+﻿PokerStars Hand #183061010087: Tournament #2231784952, $1.32+$0.18 USD Hold'em No Limit - Level I (10/20) - 2018/02/26 2:01:44 ET
+Table '2231784952 1' 9-max Seat #1 is the button
+Seat 1: dywoo (1500 in chips) 
+Seat 2: Triskle3 (1500 in chips) 
+Seat 3: IsolatedFear (1500 in chips) is sitting out
+Seat 4: ollikahn23 (1500 in chips) 
+Seat 5: caro5069 (1500 in chips) 
+Seat 6: BMW2015_NL (1500 in chips) 
+Seat 7: igrovoi7777 (1500 in chips) 
+Seat 8: bigm818 (1500 in chips) 
+Seat 9: DocktoR222 (1500 in chips) 
+dywoo: posts the ante 3
+Triskle3: posts the ante 3
+IsolatedFear: posts the ante 3
+ollikahn23: posts the ante 3
+caro5069: posts the ante 3
+BMW2015_NL: posts the ante 3
+igrovoi7777: posts the ante 3
+bigm818: posts the ante 3
+DocktoR222: posts the ante 3
+Triskle3: posts small blind 10
+IsolatedFear: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3d 7s]
+ollikahn23: folds 
+caro5069: calls 20
+BMW2015_NL: folds 
+igrovoi7777: folds 
+bigm818: folds 
+DocktoR222: folds 
+IsolatedFear has returned
+dywoo: calls 20
+Triskle3: folds 
+IsolatedFear: checks 
+*** FLOP *** [3c Kh Tc]
+IsolatedFear: checks 
+caro5069: checks 
+dywoo: checks 
+*** TURN *** [3c Kh Tc] [8d]
+IsolatedFear: bets 49
+caro5069: calls 49
+dywoo: calls 49
+*** RIVER *** [3c Kh Tc 8d] [Td]
+IsolatedFear: checks 
+caro5069: checks 
+dywoo: checks 
+*** SHOW DOWN ***
+IsolatedFear: shows [Kd 4s] (two pair, Kings and Tens)
+caro5069: mucks hand 
+dywoo: mucks hand 
+IsolatedFear collected 244 from pot
+*** SUMMARY ***
+Total pot 244 | Rake 0 
+Board [3c Kh Tc 8d Td]
+Seat 1: dywoo (button) mucked [9h 8s]
+Seat 2: Triskle3 (small blind) folded before Flop
+Seat 3: IsolatedFear (big blind) showed [Kd 4s] and won (244) with two pair, Kings and Tens
+Seat 4: ollikahn23 folded before Flop (didn't bet)
+Seat 5: caro5069 mucked [5d 5h]
+Seat 6: BMW2015_NL folded before Flop (didn't bet)
+Seat 7: igrovoi7777 folded before Flop (didn't bet)
+Seat 8: bigm818 folded before Flop (didn't bet)
+Seat 9: DocktoR222 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183061025593: Tournament #2231784952, $1.32+$0.18 USD Hold'em No Limit - Level I (10/20) - 2018/02/26 2:02:48 ET
+Table '2231784952 1' 9-max Seat #2 is the button
+Seat 1: dywoo (1428 in chips) 
+Seat 2: Triskle3 (1487 in chips) 
+Seat 3: IsolatedFear (1672 in chips) 
+Seat 4: ollikahn23 (1497 in chips) 
+Seat 5: caro5069 (1428 in chips) 
+Seat 6: BMW2015_NL (1497 in chips) 
+Seat 7: igrovoi7777 (1497 in chips) 
+Seat 8: bigm818 (1497 in chips) 
+Seat 9: DocktoR222 (1497 in chips) 
+dywoo: posts the ante 3
+Triskle3: posts the ante 3
+IsolatedFear: posts the ante 3
+ollikahn23: posts the ante 3
+caro5069: posts the ante 3
+BMW2015_NL: posts the ante 3
+igrovoi7777: posts the ante 3
+bigm818: posts the ante 3
+DocktoR222: posts the ante 3
+IsolatedFear: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jd Jh]
+caro5069: folds 
+BMW2015_NL: folds 
+igrovoi7777: folds 
+bigm818: raises 40 to 60
+DocktoR222: folds 
+dywoo: calls 60
+Triskle3: folds 
+IsolatedFear: calls 50
+ollikahn23: calls 40
+*** FLOP *** [Qc 5d Qh]
+IsolatedFear: checks 
+ollikahn23: checks 
+bigm818: bets 60
+dywoo: calls 60
+IsolatedFear: folds 
+ollikahn23: calls 60
+*** TURN *** [Qc 5d Qh] [Jc]
+ollikahn23: checks 
+bigm818: bets 100
+dywoo: folds 
+ollikahn23: raises 200 to 300
+bigm818: calls 200
+*** RIVER *** [Qc 5d Qh Jc] [4s]
+ollikahn23: bets 500
+bigm818: calls 500
+*** SHOW DOWN ***
+ollikahn23: shows [Jd Jh] (a full house, Jacks full of Queens)
+bigm818: mucks hand 
+ollikahn23 collected 2047 from pot
+*** SUMMARY ***
+Total pot 2047 | Rake 0 
+Board [Qc 5d Qh Jc 4s]
+Seat 1: dywoo folded on the Turn
+Seat 2: Triskle3 (button) folded before Flop (didn't bet)
+Seat 3: IsolatedFear (small blind) folded on the Flop
+Seat 4: ollikahn23 (big blind) showed [Jd Jh] and won (2047) with a full house, Jacks full of Queens
+Seat 5: caro5069 folded before Flop (didn't bet)
+Seat 6: BMW2015_NL folded before Flop (didn't bet)
+Seat 7: igrovoi7777 folded before Flop (didn't bet)
+Seat 8: bigm818 mucked [Kd Kh]
+Seat 9: DocktoR222 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183061050666: Tournament #2231784952, $1.32+$0.18 USD Hold'em No Limit - Level I (10/20) - 2018/02/26 2:04:28 ET
+Table '2231784952 1' 9-max Seat #3 is the button
+Seat 1: dywoo (1305 in chips) 
+Seat 2: Triskle3 (1484 in chips) 
+Seat 3: IsolatedFear (1609 in chips) 
+Seat 4: ollikahn23 (2621 in chips) 
+Seat 5: caro5069 (1425 in chips) 
+Seat 6: BMW2015_NL (1494 in chips) 
+Seat 7: igrovoi7777 (1494 in chips) 
+Seat 8: bigm818 (574 in chips) 
+Seat 9: DocktoR222 (1494 in chips) 
+dywoo: posts the ante 3
+Triskle3: posts the ante 3
+IsolatedFear: posts the ante 3
+ollikahn23: posts the ante 3
+caro5069: posts the ante 3
+BMW2015_NL: posts the ante 3
+igrovoi7777: posts the ante 3
+bigm818: posts the ante 3
+DocktoR222: posts the ante 3
+ollikahn23: posts small blind 10
+caro5069: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9c 6h]
+BMW2015_NL: folds 
+igrovoi7777: folds 
+bigm818: raises 20 to 40
+DocktoR222: calls 40
+dywoo: raises 60 to 100
+Triskle3: folds 
+IsolatedFear: folds 
+ollikahn23: folds 
+caro5069: calls 80
+bigm818: calls 60
+DocktoR222: calls 60
+*** FLOP *** [7d 2d Js]
+caro5069: checks 
+bigm818: checks 
+DocktoR222: checks 
+dywoo: bets 140
+caro5069: folds 
+bigm818: folds 
+DocktoR222: raises 360 to 500
+dywoo: calls 360
+*** TURN *** [7d 2d Js] [2c]
+DocktoR222: bets 891 and is all-in
+dywoo: folds 
+Uncalled bet (891) returned to DocktoR222
+DocktoR222 collected 1437 from pot
+DocktoR222: doesn't show hand 
+*** SUMMARY ***
+Total pot 1437 | Rake 0 
+Board [7d 2d Js 2c]
+Seat 1: dywoo folded on the Turn
+Seat 2: Triskle3 folded before Flop (didn't bet)
+Seat 3: IsolatedFear (button) folded before Flop (didn't bet)
+Seat 4: ollikahn23 (small blind) folded before Flop
+Seat 5: caro5069 (big blind) folded on the Flop
+Seat 6: BMW2015_NL folded before Flop (didn't bet)
+Seat 7: igrovoi7777 folded before Flop (didn't bet)
+Seat 8: bigm818 folded on the Flop
+Seat 9: DocktoR222 collected (1437)
+
+
+
+PokerStars Hand #183061083387: Tournament #2231784952, $1.32+$0.18 USD Hold'em No Limit - Level I (10/20) - 2018/02/26 2:06:16 ET
+Table '2231784952 1' 9-max Seat #4 is the button
+Seat 1: dywoo (702 in chips) 
+Seat 2: Triskle3 (1481 in chips) 
+Seat 3: IsolatedFear (1606 in chips) 
+Seat 4: ollikahn23 (2608 in chips) 
+Seat 5: caro5069 (1322 in chips) 
+Seat 6: BMW2015_NL (1491 in chips) 
+Seat 7: igrovoi7777 (1491 in chips) 
+Seat 8: bigm818 (471 in chips) 
+Seat 9: DocktoR222 (2328 in chips) 
+dywoo: posts the ante 3
+Triskle3: posts the ante 3
+IsolatedFear: posts the ante 3
+ollikahn23: posts the ante 3
+caro5069: posts the ante 3
+BMW2015_NL: posts the ante 3
+igrovoi7777: posts the ante 3
+bigm818: posts the ante 3
+DocktoR222: posts the ante 3
+caro5069: posts small blind 10
+BMW2015_NL: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jc 2c]
+igrovoi7777: folds 
+bigm818: folds 
+DocktoR222: folds 
+dywoo: calls 20
+Triskle3: raises 60 to 80
+IsolatedFear: folds 
+ollikahn23: folds 
+caro5069: folds 
+BMW2015_NL: folds 
+dywoo: calls 60
+*** FLOP *** [Td 8c Kc]
+dywoo: checks 
+Triskle3: bets 111
+dywoo: calls 111
+*** TURN *** [Td 8c Kc] [8s]
+dywoo: bets 508 and is all-in
+Triskle3: calls 508
+*** RIVER *** [Td 8c Kc 8s] [4c]
+*** SHOW DOWN ***
+dywoo: shows [Js 7d] (a pair of Eights)
+Triskle3: shows [Ah Kd] (two pair, Kings and Eights)
+Triskle3 collected 1455 from pot
+dywoo finished the tournament in 17th place
+*** SUMMARY ***
+Total pot 1455 | Rake 0 
+Board [Td 8c Kc 8s 4c]
+Seat 1: dywoo showed [Js 7d] and lost with a pair of Eights
+Seat 2: Triskle3 showed [Ah Kd] and won (1455) with two pair, Kings and Eights
+Seat 3: IsolatedFear folded before Flop (didn't bet)
+Seat 4: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 5: caro5069 (small blind) folded before Flop
+Seat 6: BMW2015_NL (big blind) folded before Flop
+Seat 7: igrovoi7777 folded before Flop (didn't bet)
+Seat 8: bigm818 folded before Flop (didn't bet)
+Seat 9: DocktoR222 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183061104185: Tournament #2231784952, $1.32+$0.18 USD Hold'em No Limit - Level II (15/30) - 2018/02/26 2:07:40 ET
+Table '2231784952 1' 9-max Seat #5 is the button
+Seat 2: Triskle3 (2234 in chips) 
+Seat 3: IsolatedFear (1603 in chips) 
+Seat 4: ollikahn23 (2605 in chips) 
+Seat 5: caro5069 (1309 in chips) 
+Seat 6: BMW2015_NL (1468 in chips) 
+Seat 7: igrovoi7777 (1488 in chips) 
+Seat 8: bigm818 (468 in chips) 
+Seat 9: DocktoR222 (2325 in chips) 
+Triskle3: posts the ante 4
+IsolatedFear: posts the ante 4
+ollikahn23: posts the ante 4
+caro5069: posts the ante 4
+BMW2015_NL: posts the ante 4
+igrovoi7777: posts the ante 4
+bigm818: posts the ante 4
+DocktoR222: posts the ante 4
+BMW2015_NL: posts small blind 15
+igrovoi7777: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4s Qc]
+bigm818: folds 
+DocktoR222: folds 
+Triskle3: raises 60 to 90
+IsolatedFear: folds 
+ollikahn23: folds 
+caro5069: calls 90
+BMW2015_NL: folds 
+igrovoi7777: folds 
+*** FLOP *** [2d 8h 4c]
+Triskle3: bets 131
+caro5069: folds 
+Uncalled bet (131) returned to Triskle3
+Triskle3 collected 257 from pot
+Triskle3: doesn't show hand 
+*** SUMMARY ***
+Total pot 257 | Rake 0 
+Board [2d 8h 4c]
+Seat 2: Triskle3 collected (257)
+Seat 3: IsolatedFear folded before Flop (didn't bet)
+Seat 4: ollikahn23 folded before Flop (didn't bet)
+Seat 5: caro5069 (button) folded on the Flop
+Seat 6: BMW2015_NL (small blind) folded before Flop
+Seat 7: igrovoi7777 (big blind) folded before Flop
+Seat 8: bigm818 folded before Flop (didn't bet)
+Seat 9: DocktoR222 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183061120157: Tournament #2231784952, $1.32+$0.18 USD Hold'em No Limit - Level II (15/30) - 2018/02/26 2:08:44 ET
+Table '2231784952 1' 9-max Seat #6 is the button
+Seat 2: Triskle3 (2397 in chips) 
+Seat 3: IsolatedFear (1599 in chips) 
+Seat 4: ollikahn23 (2601 in chips) 
+Seat 5: caro5069 (1215 in chips) 
+Seat 6: BMW2015_NL (1449 in chips) 
+Seat 7: igrovoi7777 (1454 in chips) 
+Seat 8: bigm818 (464 in chips) 
+Seat 9: DocktoR222 (2321 in chips) 
+Triskle3: posts the ante 4
+IsolatedFear: posts the ante 4
+ollikahn23: posts the ante 4
+caro5069: posts the ante 4
+BMW2015_NL: posts the ante 4
+igrovoi7777: posts the ante 4
+bigm818: posts the ante 4
+DocktoR222: posts the ante 4
+igrovoi7777: posts small blind 15
+bigm818: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8s Th]
+DocktoR222: folds 
+Triskle3: folds 
+IsolatedFear: folds 
+ollikahn23: folds 
+caro5069: folds 
+BMW2015_NL: raises 60 to 90
+igrovoi7777: folds 
+bigm818: folds 
+Uncalled bet (60) returned to BMW2015_NL
+BMW2015_NL collected 107 from pot
+BMW2015_NL: doesn't show hand 
+*** SUMMARY ***
+Total pot 107 | Rake 0 
+Seat 2: Triskle3 folded before Flop (didn't bet)
+Seat 3: IsolatedFear folded before Flop (didn't bet)
+Seat 4: ollikahn23 folded before Flop (didn't bet)
+Seat 5: caro5069 folded before Flop (didn't bet)
+Seat 6: BMW2015_NL (button) collected (107)
+Seat 7: igrovoi7777 (small blind) folded before Flop
+Seat 8: bigm818 (big blind) folded before Flop
+Seat 9: DocktoR222 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183061130207: Tournament #2231784952, $1.32+$0.18 USD Hold'em No Limit - Level II (15/30) - 2018/02/26 2:09:24 ET
+Table '2231784952 1' 9-max Seat #7 is the button
+Seat 2: Triskle3 (2393 in chips) 
+Seat 3: IsolatedFear (1595 in chips) 
+Seat 4: ollikahn23 (2597 in chips) 
+Seat 5: caro5069 (1211 in chips) 
+Seat 6: BMW2015_NL (1522 in chips) 
+Seat 7: igrovoi7777 (1435 in chips) 
+Seat 8: bigm818 (430 in chips) 
+Seat 9: DocktoR222 (2317 in chips) 
+Triskle3: posts the ante 4
+IsolatedFear: posts the ante 4
+ollikahn23: posts the ante 4
+caro5069: posts the ante 4
+BMW2015_NL: posts the ante 4
+igrovoi7777: posts the ante 4
+bigm818: posts the ante 4
+DocktoR222: posts the ante 4
+bigm818: posts small blind 15
+DocktoR222: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jh Kc]
+Triskle3: folds 
+IsolatedFear: folds 
+ollikahn23: raises 60 to 90
+caro5069: folds 
+BMW2015_NL: calls 90
+igrovoi7777: folds 
+bigm818: raises 336 to 426 and is all-in
+DocktoR222: folds 
+ollikahn23: raises 2167 to 2593 and is all-in
+BMW2015_NL: folds 
+Uncalled bet (2167) returned to ollikahn23
+*** FLOP *** [Qs Ah 9s]
+*** TURN *** [Qs Ah 9s] [Ks]
+*** RIVER *** [Qs Ah 9s Ks] [3h]
+*** SHOW DOWN ***
+bigm818: shows [Jd Js] (a pair of Jacks)
+ollikahn23: shows [Jh Kc] (a pair of Kings)
+ollikahn23 collected 1004 from pot
+bigm818 finished the tournament in 16th place
+*** SUMMARY ***
+Total pot 1004 | Rake 0 
+Board [Qs Ah 9s Ks 3h]
+Seat 2: Triskle3 folded before Flop (didn't bet)
+Seat 3: IsolatedFear folded before Flop (didn't bet)
+Seat 4: ollikahn23 showed [Jh Kc] and won (1004) with a pair of Kings
+Seat 5: caro5069 folded before Flop (didn't bet)
+Seat 6: BMW2015_NL folded before Flop
+Seat 7: igrovoi7777 (button) folded before Flop (didn't bet)
+Seat 8: bigm818 (small blind) showed [Jd Js] and lost with a pair of Jacks
+Seat 9: DocktoR222 (big blind) folded before Flop
+
+
+
+PokerStars Hand #183061141855: Tournament #2231784952, $1.32+$0.18 USD Hold'em No Limit - Level II (15/30) - 2018/02/26 2:10:11 ET
+Table '2231784952 1' 9-max Seat #9 is the button
+Seat 2: Triskle3 (2389 in chips) 
+Seat 3: IsolatedFear (1591 in chips) 
+Seat 4: ollikahn23 (3171 in chips) 
+Seat 5: caro5069 (1207 in chips) 
+Seat 6: BMW2015_NL (1428 in chips) 
+Seat 7: igrovoi7777 (1431 in chips) 
+Seat 9: DocktoR222 (2283 in chips) 
+Triskle3: posts the ante 4
+IsolatedFear: posts the ante 4
+ollikahn23: posts the ante 4
+caro5069: posts the ante 4
+BMW2015_NL: posts the ante 4
+igrovoi7777: posts the ante 4
+DocktoR222: posts the ante 4
+Triskle3: posts small blind 15
+IsolatedFear: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qd Qh]
+ollikahn23: raises 103 to 133
+caro5069: folds 
+BMW2015_NL: folds 
+igrovoi7777: folds 
+DocktoR222: folds 
+Triskle3: folds 
+IsolatedFear: calls 103
+*** FLOP *** [5s 2h 7d]
+IsolatedFear: checks 
+ollikahn23: bets 210
+IsolatedFear: calls 210
+*** TURN *** [5s 2h 7d] [5c]
+IsolatedFear: checks 
+ollikahn23: bets 510
+IsolatedFear: raises 734 to 1244 and is all-in
+ollikahn23: calls 734
+*** RIVER *** [5s 2h 7d 5c] [As]
+*** SHOW DOWN ***
+IsolatedFear: shows [Ac 7c] (two pair, Aces and Sevens)
+ollikahn23: shows [Qd Qh] (two pair, Queens and Fives)
+IsolatedFear collected 3217 from pot
+*** SUMMARY ***
+Total pot 3217 | Rake 0 
+Board [5s 2h 7d 5c As]
+Seat 2: Triskle3 (small blind) folded before Flop
+Seat 3: IsolatedFear (big blind) showed [Ac 7c] and won (3217) with two pair, Aces and Sevens
+Seat 4: ollikahn23 showed [Qd Qh] and lost with two pair, Queens and Fives
+Seat 5: caro5069 folded before Flop (didn't bet)
+Seat 6: BMW2015_NL folded before Flop (didn't bet)
+Seat 7: igrovoi7777 folded before Flop (didn't bet)
+Seat 9: DocktoR222 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183061163376: Tournament #2231784952, $1.32+$0.18 USD Hold'em No Limit - Level II (15/30) - 2018/02/26 2:11:37 ET
+Table '2231784952 1' 9-max Seat #2 is the button
+Seat 2: Triskle3 (2370 in chips) 
+Seat 3: IsolatedFear (3217 in chips) 
+Seat 4: ollikahn23 (1580 in chips) 
+Seat 5: caro5069 (1203 in chips) 
+Seat 6: BMW2015_NL (1424 in chips) 
+Seat 7: igrovoi7777 (1427 in chips) 
+Seat 9: DocktoR222 (2279 in chips) 
+Triskle3: posts the ante 4
+IsolatedFear: posts the ante 4
+ollikahn23: posts the ante 4
+caro5069: posts the ante 4
+BMW2015_NL: posts the ante 4
+igrovoi7777: posts the ante 4
+DocktoR222: posts the ante 4
+IsolatedFear: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4c As]
+caro5069: calls 30
+BMW2015_NL: folds 
+igrovoi7777: folds 
+DocktoR222: folds 
+Triskle3: raises 60 to 90
+IsolatedFear: calls 75
+ollikahn23: folds 
+caro5069: calls 60
+*** FLOP *** [2h 2d Jh]
+IsolatedFear: checks 
+caro5069: checks 
+Triskle3: bets 150
+IsolatedFear: calls 150
+caro5069: folds 
+*** TURN *** [2h 2d Jh] [Td]
+IsolatedFear: checks 
+Triskle3: checks 
+*** RIVER *** [2h 2d Jh Td] [Ac]
+IsolatedFear: checks 
+Triskle3: checks 
+*** SHOW DOWN ***
+IsolatedFear: shows [5d Jd] (two pair, Jacks and Deuces)
+Triskle3: mucks hand 
+IsolatedFear collected 628 from pot
+*** SUMMARY ***
+Total pot 628 | Rake 0 
+Board [2h 2d Jh Td Ac]
+Seat 2: Triskle3 (button) mucked [9s 9c]
+Seat 3: IsolatedFear (small blind) showed [5d Jd] and won (628) with two pair, Jacks and Deuces
+Seat 4: ollikahn23 (big blind) folded before Flop
+Seat 5: caro5069 folded on the Flop
+Seat 6: BMW2015_NL folded before Flop (didn't bet)
+Seat 7: igrovoi7777 folded before Flop (didn't bet)
+Seat 9: DocktoR222 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183061191364: Tournament #2231784952, $1.32+$0.18 USD Hold'em No Limit - Level III (25/50) - 2018/02/26 2:13:29 ET
+Table '2231784952 1' 9-max Seat #3 is the button
+Seat 2: Triskle3 (2126 in chips) 
+Seat 3: IsolatedFear (3601 in chips) 
+Seat 4: ollikahn23 (1546 in chips) 
+Seat 5: caro5069 (1109 in chips) 
+Seat 6: BMW2015_NL (1420 in chips) 
+Seat 7: igrovoi7777 (1423 in chips) 
+Seat 9: DocktoR222 (2275 in chips) 
+Triskle3: posts the ante 6
+IsolatedFear: posts the ante 6
+ollikahn23: posts the ante 6
+caro5069: posts the ante 6
+BMW2015_NL: posts the ante 6
+igrovoi7777: posts the ante 6
+DocktoR222: posts the ante 6
+ollikahn23: posts small blind 25
+caro5069: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4h Td]
+BMW2015_NL: folds 
+igrovoi7777: folds 
+DocktoR222: raises 100 to 150
+Triskle3: folds 
+IsolatedFear: calls 150
+ollikahn23: folds 
+caro5069: calls 100
+*** FLOP *** [Jh 9d 2d]
+caro5069: checks 
+DocktoR222: bets 290
+IsolatedFear: folds 
+caro5069: calls 290
+*** TURN *** [Jh 9d 2d] [7c]
+caro5069: checks 
+DocktoR222: bets 700
+caro5069: calls 663 and is all-in
+Uncalled bet (37) returned to DocktoR222
+*** RIVER *** [Jh 9d 2d 7c] [3h]
+*** SHOW DOWN ***
+caro5069: shows [Kc Jc] (a pair of Jacks)
+DocktoR222: shows [Qc Qh] (a pair of Queens)
+DocktoR222 collected 2423 from pot
+caro5069 finished the tournament in 14th place
+*** SUMMARY ***
+Total pot 2423 | Rake 0 
+Board [Jh 9d 2d 7c 3h]
+Seat 2: Triskle3 folded before Flop (didn't bet)
+Seat 3: IsolatedFear (button) folded on the Flop
+Seat 4: ollikahn23 (small blind) folded before Flop
+Seat 5: caro5069 (big blind) showed [Kc Jc] and lost with a pair of Jacks
+Seat 6: BMW2015_NL folded before Flop (didn't bet)
+Seat 7: igrovoi7777 folded before Flop (didn't bet)
+Seat 9: DocktoR222 showed [Qc Qh] and won (2423) with a pair of Queens
+
+
+
+PokerStars Hand #183061209385: Tournament #2231784952, $1.32+$0.18 USD Hold'em No Limit - Level III (25/50) - 2018/02/26 2:14:41 ET
+Table '2231784952 1' 9-max Seat #4 is the button
+Seat 2: Triskle3 (2120 in chips) 
+Seat 3: IsolatedFear (3445 in chips) 
+Seat 4: ollikahn23 (1515 in chips) 
+Seat 6: BMW2015_NL (1414 in chips) 
+Seat 7: igrovoi7777 (1417 in chips) 
+Seat 9: DocktoR222 (3589 in chips) 
+Triskle3: posts the ante 6
+IsolatedFear: posts the ante 6
+ollikahn23: posts the ante 6
+BMW2015_NL: posts the ante 6
+igrovoi7777: posts the ante 6
+DocktoR222: posts the ante 6
+BMW2015_NL: posts small blind 25
+igrovoi7777: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ac 2d]
+DocktoR222: folds 
+Triskle3: folds 
+IsolatedFear: folds 
+ollikahn23: raises 161 to 211
+BMW2015_NL: folds 
+igrovoi7777: folds 
+Uncalled bet (161) returned to ollikahn23
+ollikahn23 collected 161 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 161 | Rake 0 
+Seat 2: Triskle3 folded before Flop (didn't bet)
+Seat 3: IsolatedFear folded before Flop (didn't bet)
+Seat 4: ollikahn23 (button) collected (161)
+Seat 6: BMW2015_NL (small blind) folded before Flop
+Seat 7: igrovoi7777 (big blind) folded before Flop
+Seat 9: DocktoR222 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183061213669: Tournament #2231784952, $1.32+$0.18 USD Hold'em No Limit - Level III (25/50) - 2018/02/26 2:14:58 ET
+Table '2231784952 1' 9-max Seat #6 is the button
+Seat 2: Triskle3 (2114 in chips) 
+Seat 3: IsolatedFear (3439 in chips) 
+Seat 4: ollikahn23 (1620 in chips) 
+Seat 6: BMW2015_NL (1383 in chips) 
+Seat 7: igrovoi7777 (1361 in chips) 
+Seat 9: DocktoR222 (3583 in chips) 
+Triskle3: posts the ante 6
+IsolatedFear: posts the ante 6
+ollikahn23: posts the ante 6
+BMW2015_NL: posts the ante 6
+igrovoi7777: posts the ante 6
+DocktoR222: posts the ante 6
+igrovoi7777: posts small blind 25
+DocktoR222: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4h 8s]
+Triskle3: folds 
+IsolatedFear: raises 100 to 150
+ollikahn23: folds 
+BMW2015_NL: folds 
+igrovoi7777: folds 
+DocktoR222: calls 100
+*** FLOP *** [6s 3s Ks]
+DocktoR222: checks 
+IsolatedFear: checks 
+*** TURN *** [6s 3s Ks] [Jc]
+DocktoR222: checks 
+IsolatedFear: checks 
+*** RIVER *** [6s 3s Ks Jc] [7d]
+DocktoR222: checks 
+IsolatedFear: checks 
+*** SHOW DOWN ***
+DocktoR222: shows [9d 9s] (a pair of Nines)
+IsolatedFear: mucks hand 
+DocktoR222 collected 361 from pot
+*** SUMMARY ***
+Total pot 361 | Rake 0 
+Board [6s 3s Ks Jc 7d]
+Seat 2: Triskle3 folded before Flop (didn't bet)
+Seat 3: IsolatedFear mucked [6h Qh]
+Seat 4: ollikahn23 folded before Flop (didn't bet)
+Seat 6: BMW2015_NL (button) folded before Flop (didn't bet)
+Seat 7: igrovoi7777 (small blind) folded before Flop
+Seat 9: DocktoR222 (big blind) showed [9d 9s] and won (361) with a pair of Nines
+
+
+
+PokerStars Hand #183061226806: Tournament #2231784952, $1.32+$0.18 USD Hold'em No Limit - Level III (25/50) - 2018/02/26 2:15:49 ET
+Table '2231784952 1' 9-max Seat #7 is the button
+Seat 2: Triskle3 (2108 in chips) 
+Seat 3: IsolatedFear (3283 in chips) 
+Seat 4: ollikahn23 (1614 in chips) 
+Seat 6: BMW2015_NL (1377 in chips) 
+Seat 7: igrovoi7777 (1330 in chips) 
+Seat 9: DocktoR222 (3788 in chips) 
+Triskle3: posts the ante 6
+IsolatedFear: posts the ante 6
+ollikahn23: posts the ante 6
+BMW2015_NL: posts the ante 6
+igrovoi7777: posts the ante 6
+DocktoR222: posts the ante 6
+DocktoR222: posts small blind 25
+Triskle3: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ah 2d]
+IsolatedFear: folds 
+ollikahn23: raises 161 to 211
+BMW2015_NL: folds 
+igrovoi7777: folds 
+DocktoR222: folds 
+Triskle3: folds 
+Uncalled bet (161) returned to ollikahn23
+ollikahn23 collected 161 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 161 | Rake 0 
+Seat 2: Triskle3 (big blind) folded before Flop
+Seat 3: IsolatedFear folded before Flop (didn't bet)
+Seat 4: ollikahn23 collected (161)
+Seat 6: BMW2015_NL folded before Flop (didn't bet)
+Seat 7: igrovoi7777 (button) folded before Flop (didn't bet)
+Seat 9: DocktoR222 (small blind) folded before Flop
+
+
+
+PokerStars Hand #183061232416: Tournament #2231784952, $1.32+$0.18 USD Hold'em No Limit - Level III (25/50) - 2018/02/26 2:16:12 ET
+Table '2231784952 1' 9-max Seat #9 is the button
+Seat 2: Triskle3 (2052 in chips) 
+Seat 3: IsolatedFear (3277 in chips) 
+Seat 4: ollikahn23 (1719 in chips) 
+Seat 6: BMW2015_NL (1371 in chips) 
+Seat 7: igrovoi7777 (1324 in chips) 
+Seat 9: DocktoR222 (3757 in chips) 
+Triskle3: posts the ante 6
+IsolatedFear: posts the ante 6
+ollikahn23: posts the ante 6
+BMW2015_NL: posts the ante 6
+igrovoi7777: posts the ante 6
+DocktoR222: posts the ante 6
+Triskle3: posts small blind 25
+IsolatedFear: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9c Ah]
+ollikahn23: raises 161 to 211
+BMW2015_NL: folds 
+igrovoi7777: folds 
+DocktoR222: folds 
+Triskle3: folds 
+IsolatedFear: folds 
+Uncalled bet (161) returned to ollikahn23
+ollikahn23 collected 161 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 161 | Rake 0 
+Seat 2: Triskle3 (small blind) folded before Flop
+Seat 3: IsolatedFear (big blind) folded before Flop
+Seat 4: ollikahn23 collected (161)
+Seat 6: BMW2015_NL folded before Flop (didn't bet)
+Seat 7: igrovoi7777 folded before Flop (didn't bet)
+Seat 9: DocktoR222 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183061240167: Tournament #2231784952, $1.32+$0.18 USD Hold'em No Limit - Level III (25/50) - 2018/02/26 2:16:42 ET
+Table '2231784952 1' 9-max Seat #2 is the button
+Seat 2: Triskle3 (2021 in chips) 
+Seat 3: IsolatedFear (3221 in chips) 
+Seat 4: ollikahn23 (1824 in chips) 
+Seat 6: BMW2015_NL (1365 in chips) 
+Seat 7: igrovoi7777 (1318 in chips) 
+Seat 9: DocktoR222 (3751 in chips) 
+Triskle3: posts the ante 6
+IsolatedFear: posts the ante 6
+ollikahn23: posts the ante 6
+BMW2015_NL: posts the ante 6
+igrovoi7777: posts the ante 6
+DocktoR222: posts the ante 6
+IsolatedFear: posts small blind 25
+ollikahn23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6d 9s]
+BMW2015_NL: folds 
+igrovoi7777: folds 
+DocktoR222: folds 
+Triskle3: raises 85 to 135
+IsolatedFear: folds 
+ollikahn23 has timed out
+ollikahn23: folds 
+Uncalled bet (85) returned to Triskle3
+ollikahn23 is sitting out
+Triskle3 collected 161 from pot
+Triskle3: doesn't show hand 
+*** SUMMARY ***
+Total pot 161 | Rake 0 
+Seat 2: Triskle3 (button) collected (161)
+Seat 3: IsolatedFear (small blind) folded before Flop
+Seat 4: ollikahn23 (big blind) folded before Flop
+Seat 6: BMW2015_NL folded before Flop (didn't bet)
+Seat 7: igrovoi7777 folded before Flop (didn't bet)
+Seat 9: DocktoR222 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183061255528: Tournament #2231784952, $1.32+$0.18 USD Hold'em No Limit - Level IV (40/80) - 2018/02/26 2:17:42 ET
+Table '2231784952 1' 9-max Seat #3 is the button
+Seat 2: Triskle3 (2126 in chips) 
+Seat 3: IsolatedFear (3190 in chips) 
+Seat 4: ollikahn23 (1768 in chips) is sitting out
+Seat 6: BMW2015_NL (1359 in chips) 
+Seat 7: igrovoi7777 (1312 in chips) 
+Seat 9: DocktoR222 (3745 in chips) 
+Triskle3: posts the ante 10
+IsolatedFear: posts the ante 10
+ollikahn23: posts the ante 10
+BMW2015_NL: posts the ante 10
+igrovoi7777: posts the ante 10
+DocktoR222: posts the ante 10
+ollikahn23: posts small blind 40
+BMW2015_NL: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jh 4c]
+igrovoi7777: folds 
+DocktoR222: folds 
+Triskle3: raises 88 to 168
+IsolatedFear: calls 168
+ollikahn23: folds 
+BMW2015_NL: raises 1181 to 1349 and is all-in
+ollikahn23 has returned
+Triskle3: folds 
+IsolatedFear: folds 
+Uncalled bet (1181) returned to BMW2015_NL
+BMW2015_NL collected 604 from pot
+BMW2015_NL: doesn't show hand 
+*** SUMMARY ***
+Total pot 604 | Rake 0 
+Seat 2: Triskle3 folded before Flop
+Seat 3: IsolatedFear (button) folded before Flop
+Seat 4: ollikahn23 (small blind) folded before Flop
+Seat 6: BMW2015_NL (big blind) collected (604)
+Seat 7: igrovoi7777 folded before Flop (didn't bet)
+Seat 9: DocktoR222 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183061271265: Tournament #2231784952, $1.32+$0.18 USD Hold'em No Limit - Level IV (40/80) - 2018/02/26 2:18:44 ET
+Table '2231784952 1' 9-max Seat #4 is the button
+Seat 2: Triskle3 (1948 in chips) 
+Seat 3: IsolatedFear (3012 in chips) 
+Seat 4: ollikahn23 (1718 in chips) 
+Seat 6: BMW2015_NL (1785 in chips) 
+Seat 7: igrovoi7777 (1302 in chips) 
+Seat 9: DocktoR222 (3735 in chips) 
+Triskle3: posts the ante 10
+IsolatedFear: posts the ante 10
+ollikahn23: posts the ante 10
+BMW2015_NL: posts the ante 10
+igrovoi7777: posts the ante 10
+DocktoR222: posts the ante 10
+BMW2015_NL: posts small blind 40
+igrovoi7777: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6d 4h]
+DocktoR222: folds 
+Triskle3: folds 
+IsolatedFear: folds 
+ollikahn23: folds 
+BMW2015_NL: folds 
+Uncalled bet (40) returned to igrovoi7777
+igrovoi7777 collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Seat 2: Triskle3 folded before Flop (didn't bet)
+Seat 3: IsolatedFear folded before Flop (didn't bet)
+Seat 4: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 6: BMW2015_NL (small blind) folded before Flop
+Seat 7: igrovoi7777 (big blind) collected (140)
+Seat 9: DocktoR222 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183061278317: Tournament #2231784952, $1.32+$0.18 USD Hold'em No Limit - Level IV (40/80) - 2018/02/26 2:19:13 ET
+Table '2231784952 1' 9-max Seat #6 is the button
+Seat 2: Triskle3 (1938 in chips) 
+Seat 3: IsolatedFear (3002 in chips) 
+Seat 4: ollikahn23 (1708 in chips) 
+Seat 6: BMW2015_NL (1735 in chips) 
+Seat 7: igrovoi7777 (1392 in chips) 
+Seat 9: DocktoR222 (3725 in chips) 
+Triskle3: posts the ante 10
+IsolatedFear: posts the ante 10
+ollikahn23: posts the ante 10
+BMW2015_NL: posts the ante 10
+igrovoi7777: posts the ante 10
+DocktoR222: posts the ante 10
+igrovoi7777: posts small blind 40
+DocktoR222: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ks 7d]
+Triskle3: folds 
+IsolatedFear: folds 
+ollikahn23: raises 260 to 340
+BMW2015_NL: folds 
+igrovoi7777: folds 
+DocktoR222: folds 
+Uncalled bet (260) returned to ollikahn23
+ollikahn23 collected 260 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 260 | Rake 0 
+Seat 2: Triskle3 folded before Flop (didn't bet)
+Seat 3: IsolatedFear folded before Flop (didn't bet)
+Seat 4: ollikahn23 collected (260)
+Seat 6: BMW2015_NL (button) folded before Flop (didn't bet)
+Seat 7: igrovoi7777 (small blind) folded before Flop
+Seat 9: DocktoR222 (big blind) folded before Flop
+
+
+
+PokerStars Hand #183061285932: Tournament #2231784952, $1.32+$0.18 USD Hold'em No Limit - Level IV (40/80) - 2018/02/26 2:19:43 ET
+Table '2231784952 1' 9-max Seat #7 is the button
+Seat 2: Triskle3 (1928 in chips) 
+Seat 3: IsolatedFear (2992 in chips) 
+Seat 4: ollikahn23 (1878 in chips) 
+Seat 6: BMW2015_NL (1725 in chips) 
+Seat 7: igrovoi7777 (1342 in chips) 
+Seat 9: DocktoR222 (3635 in chips) 
+Triskle3: posts the ante 10
+IsolatedFear: posts the ante 10
+ollikahn23: posts the ante 10
+BMW2015_NL: posts the ante 10
+igrovoi7777: posts the ante 10
+DocktoR222: posts the ante 10
+DocktoR222: posts small blind 40
+Triskle3: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2d 3h]
+IsolatedFear: folds 
+ollikahn23: folds 
+BMW2015_NL: folds 
+igrovoi7777: folds 
+DocktoR222: folds 
+Uncalled bet (40) returned to Triskle3
+Triskle3 collected 140 from pot
+Triskle3: doesn't show hand 
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Seat 2: Triskle3 (big blind) collected (140)
+Seat 3: IsolatedFear folded before Flop (didn't bet)
+Seat 4: ollikahn23 folded before Flop (didn't bet)
+Seat 6: BMW2015_NL folded before Flop (didn't bet)
+Seat 7: igrovoi7777 (button) folded before Flop (didn't bet)
+Seat 9: DocktoR222 (small blind) folded before Flop
+
+
+
+PokerStars Hand #183061288949: Tournament #2231784952, $1.32+$0.18 USD Hold'em No Limit - Level IV (40/80) - 2018/02/26 2:19:55 ET
+Table '2231784952 1' 9-max Seat #9 is the button
+Seat 2: Triskle3 (2018 in chips) 
+Seat 3: IsolatedFear (2982 in chips) 
+Seat 4: ollikahn23 (1868 in chips) 
+Seat 6: BMW2015_NL (1715 in chips) 
+Seat 7: igrovoi7777 (1332 in chips) 
+Seat 9: DocktoR222 (3585 in chips) 
+Triskle3: posts the ante 10
+IsolatedFear: posts the ante 10
+ollikahn23: posts the ante 10
+BMW2015_NL: posts the ante 10
+igrovoi7777: posts the ante 10
+DocktoR222: posts the ante 10
+Triskle3: posts small blind 40
+IsolatedFear: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qc 8s]
+ollikahn23: folds 
+BMW2015_NL: folds 
+igrovoi7777: folds 
+DocktoR222: folds 
+Triskle3: raises 88 to 168
+IsolatedFear: raises 2804 to 2972 and is all-in
+Triskle3: folds 
+Uncalled bet (2804) returned to IsolatedFear
+IsolatedFear collected 396 from pot
+IsolatedFear: doesn't show hand 
+*** SUMMARY ***
+Total pot 396 | Rake 0 
+Seat 2: Triskle3 (small blind) folded before Flop
+Seat 3: IsolatedFear (big blind) collected (396)
+Seat 4: ollikahn23 folded before Flop (didn't bet)
+Seat 6: BMW2015_NL folded before Flop (didn't bet)
+Seat 7: igrovoi7777 folded before Flop (didn't bet)
+Seat 9: DocktoR222 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183061299647: Tournament #2231784952, $1.32+$0.18 USD Hold'em No Limit - Level IV (40/80) - 2018/02/26 2:20:38 ET
+Table '2231784952 1' 9-max Seat #2 is the button
+Seat 2: Triskle3 (1840 in chips) 
+Seat 3: IsolatedFear (3200 in chips) 
+Seat 4: ollikahn23 (1858 in chips) 
+Seat 6: BMW2015_NL (1705 in chips) 
+Seat 7: igrovoi7777 (1322 in chips) 
+Seat 9: DocktoR222 (3575 in chips) 
+Triskle3: posts the ante 10
+IsolatedFear: posts the ante 10
+ollikahn23: posts the ante 10
+BMW2015_NL: posts the ante 10
+igrovoi7777: posts the ante 10
+DocktoR222: posts the ante 10
+IsolatedFear: posts small blind 40
+ollikahn23: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qc Ks]
+BMW2015_NL: folds 
+igrovoi7777: folds 
+DocktoR222: folds 
+Triskle3: raises 88 to 168
+IsolatedFear: folds 
+ollikahn23: raises 436 to 604
+Triskle3: folds 
+Uncalled bet (436) returned to ollikahn23
+ollikahn23 collected 436 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 436 | Rake 0 
+Seat 2: Triskle3 (button) folded before Flop
+Seat 3: IsolatedFear (small blind) folded before Flop
+Seat 4: ollikahn23 (big blind) collected (436)
+Seat 6: BMW2015_NL folded before Flop (didn't bet)
+Seat 7: igrovoi7777 folded before Flop (didn't bet)
+Seat 9: DocktoR222 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183061311243: Tournament #2231784952, $1.32+$0.18 USD Hold'em No Limit - Level IV (40/80) - 2018/02/26 2:21:23 ET
+Table '2231784952 1' 9-max Seat #3 is the button
+Seat 2: Triskle3 (1662 in chips) 
+Seat 3: IsolatedFear (3150 in chips) 
+Seat 4: ollikahn23 (2116 in chips) 
+Seat 6: BMW2015_NL (1695 in chips) 
+Seat 7: igrovoi7777 (1312 in chips) 
+Seat 9: DocktoR222 (3565 in chips) 
+Triskle3: posts the ante 10
+IsolatedFear: posts the ante 10
+ollikahn23: posts the ante 10
+BMW2015_NL: posts the ante 10
+igrovoi7777: posts the ante 10
+DocktoR222: posts the ante 10
+ollikahn23: posts small blind 40
+BMW2015_NL: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kh 9s]
+igrovoi7777: folds 
+DocktoR222: folds 
+Triskle3: folds 
+IsolatedFear: raises 80 to 160
+ollikahn23: folds 
+BMW2015_NL: folds 
+Uncalled bet (80) returned to IsolatedFear
+IsolatedFear collected 260 from pot
+IsolatedFear: doesn't show hand 
+*** SUMMARY ***
+Total pot 260 | Rake 0 
+Seat 2: Triskle3 folded before Flop (didn't bet)
+Seat 3: IsolatedFear (button) collected (260)
+Seat 4: ollikahn23 (small blind) folded before Flop
+Seat 6: BMW2015_NL (big blind) folded before Flop
+Seat 7: igrovoi7777 folded before Flop (didn't bet)
+Seat 9: DocktoR222 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183061321338: Tournament #2231784952, $1.32+$0.18 USD Hold'em No Limit - Level V (60/120) - 2018/02/26 2:22:03 ET
+Table '2231784952 1' 9-max Seat #4 is the button
+Seat 2: Triskle3 (1652 in chips) 
+Seat 3: IsolatedFear (3320 in chips) 
+Seat 4: ollikahn23 (2066 in chips) 
+Seat 6: BMW2015_NL (1605 in chips) 
+Seat 7: igrovoi7777 (1302 in chips) 
+Seat 9: DocktoR222 (3555 in chips) 
+Triskle3: posts the ante 15
+IsolatedFear: posts the ante 15
+ollikahn23: posts the ante 15
+BMW2015_NL: posts the ante 15
+igrovoi7777: posts the ante 15
+DocktoR222: posts the ante 15
+BMW2015_NL: posts small blind 60
+igrovoi7777: posts big blind 120
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ad 9c]
+DocktoR222: folds 
+Triskle3: folds 
+IsolatedFear: folds 
+ollikahn23: raises 390 to 510
+BMW2015_NL: folds 
+igrovoi7777: folds 
+Uncalled bet (390) returned to ollikahn23
+ollikahn23 collected 390 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 390 | Rake 0 
+Seat 2: Triskle3 folded before Flop (didn't bet)
+Seat 3: IsolatedFear folded before Flop (didn't bet)
+Seat 4: ollikahn23 (button) collected (390)
+Seat 6: BMW2015_NL (small blind) folded before Flop
+Seat 7: igrovoi7777 (big blind) folded before Flop
+Seat 9: DocktoR222 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183061327695: Tournament #2231784952, $1.32+$0.18 USD Hold'em No Limit - Level V (60/120) - 2018/02/26 2:22:27 ET
+Table '2231784952 1' 9-max Seat #6 is the button
+Seat 2: Triskle3 (1637 in chips) 
+Seat 3: IsolatedFear (3305 in chips) 
+Seat 4: ollikahn23 (2321 in chips) 
+Seat 6: BMW2015_NL (1530 in chips) 
+Seat 7: igrovoi7777 (1167 in chips) 
+Seat 9: DocktoR222 (3540 in chips) 
+Triskle3: posts the ante 15
+IsolatedFear: posts the ante 15
+ollikahn23: posts the ante 15
+BMW2015_NL: posts the ante 15
+igrovoi7777: posts the ante 15
+DocktoR222: posts the ante 15
+igrovoi7777: posts small blind 60
+DocktoR222: posts big blind 120
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4d 7c]
+Triskle3: folds 
+IsolatedFear: raises 120 to 240
+ollikahn23: folds 
+BMW2015_NL: raises 1275 to 1515 and is all-in
+igrovoi7777: folds 
+DocktoR222: folds 
+IsolatedFear: folds 
+Uncalled bet (1275) returned to BMW2015_NL
+BMW2015_NL collected 750 from pot
+BMW2015_NL: doesn't show hand 
+*** SUMMARY ***
+Total pot 750 | Rake 0 
+Seat 2: Triskle3 folded before Flop (didn't bet)
+Seat 3: IsolatedFear folded before Flop
+Seat 4: ollikahn23 folded before Flop (didn't bet)
+Seat 6: BMW2015_NL (button) collected (750)
+Seat 7: igrovoi7777 (small blind) folded before Flop
+Seat 9: DocktoR222 (big blind) folded before Flop
+
+
+
+PokerStars Hand #183061334390: Tournament #2231784952, $1.32+$0.18 USD Hold'em No Limit - Level V (60/120) - 2018/02/26 2:22:53 ET
+Table '2231784952 1' 9-max Seat #7 is the button
+Seat 2: Triskle3 (1622 in chips) 
+Seat 3: IsolatedFear (3050 in chips) 
+Seat 4: ollikahn23 (2306 in chips) 
+Seat 6: BMW2015_NL (2025 in chips) 
+Seat 7: igrovoi7777 (1092 in chips) 
+Seat 9: DocktoR222 (3405 in chips) 
+Triskle3: posts the ante 15
+IsolatedFear: posts the ante 15
+ollikahn23: posts the ante 15
+BMW2015_NL: posts the ante 15
+igrovoi7777: posts the ante 15
+DocktoR222: posts the ante 15
+DocktoR222: posts small blind 60
+Triskle3: posts big blind 120
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9h Jc]
+IsolatedFear: folds 
+ollikahn23: folds 
+BMW2015_NL: raises 1890 to 2010 and is all-in
+igrovoi7777: folds 
+DocktoR222: folds 
+Triskle3: folds 
+Uncalled bet (1890) returned to BMW2015_NL
+BMW2015_NL collected 390 from pot
+BMW2015_NL: doesn't show hand 
+*** SUMMARY ***
+Total pot 390 | Rake 0 
+Seat 2: Triskle3 (big blind) folded before Flop
+Seat 3: IsolatedFear folded before Flop (didn't bet)
+Seat 4: ollikahn23 folded before Flop (didn't bet)
+Seat 6: BMW2015_NL collected (390)
+Seat 7: igrovoi7777 (button) folded before Flop (didn't bet)
+Seat 9: DocktoR222 (small blind) folded before Flop
+
+
+
+PokerStars Hand #183061338271: Tournament #2231784952, $1.32+$0.18 USD Hold'em No Limit - Level V (60/120) - 2018/02/26 2:23:08 ET
+Table '2231784952 1' 9-max Seat #9 is the button
+Seat 2: Triskle3 (1487 in chips) 
+Seat 3: IsolatedFear (3035 in chips) 
+Seat 4: ollikahn23 (2291 in chips) 
+Seat 6: BMW2015_NL (2280 in chips) 
+Seat 7: igrovoi7777 (1077 in chips) 
+Seat 9: DocktoR222 (3330 in chips) 
+Triskle3: posts the ante 15
+IsolatedFear: posts the ante 15
+ollikahn23: posts the ante 15
+BMW2015_NL: posts the ante 15
+igrovoi7777: posts the ante 15
+DocktoR222: posts the ante 15
+Triskle3: posts small blind 60
+IsolatedFear: posts big blind 120
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Td 8c]
+ollikahn23: folds 
+BMW2015_NL: folds 
+igrovoi7777: folds 
+DocktoR222: raises 120 to 240
+Triskle3: folds 
+IsolatedFear: folds 
+Uncalled bet (120) returned to DocktoR222
+DocktoR222 collected 390 from pot
+DocktoR222: doesn't show hand 
+*** SUMMARY ***
+Total pot 390 | Rake 0 
+Seat 2: Triskle3 (small blind) folded before Flop
+Seat 3: IsolatedFear (big blind) folded before Flop
+Seat 4: ollikahn23 folded before Flop (didn't bet)
+Seat 6: BMW2015_NL folded before Flop (didn't bet)
+Seat 7: igrovoi7777 folded before Flop (didn't bet)
+Seat 9: DocktoR222 (button) collected (390)
+
+
+
+PokerStars Hand #183061343696: Tournament #2231784952, $1.32+$0.18 USD Hold'em No Limit - Level V (60/120) - 2018/02/26 2:23:30 ET
+Table '2231784952 1' 9-max Seat #2 is the button
+Seat 2: Triskle3 (1412 in chips) 
+Seat 3: IsolatedFear (2900 in chips) 
+Seat 4: ollikahn23 (2276 in chips) 
+Seat 6: BMW2015_NL (2265 in chips) 
+Seat 7: igrovoi7777 (1062 in chips) 
+Seat 9: DocktoR222 (3585 in chips) 
+Triskle3: posts the ante 15
+IsolatedFear: posts the ante 15
+ollikahn23: posts the ante 15
+BMW2015_NL: posts the ante 15
+igrovoi7777: posts the ante 15
+DocktoR222: posts the ante 15
+IsolatedFear: posts small blind 60
+ollikahn23: posts big blind 120
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2s Qh]
+BMW2015_NL: folds 
+igrovoi7777: folds 
+DocktoR222: folds 
+Triskle3: folds 
+IsolatedFear: raises 120 to 240
+ollikahn23: raises 570 to 810
+IsolatedFear: folds 
+Uncalled bet (570) returned to ollikahn23
+ollikahn23 collected 570 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 570 | Rake 0 
+Seat 2: Triskle3 (button) folded before Flop (didn't bet)
+Seat 3: IsolatedFear (small blind) folded before Flop
+Seat 4: ollikahn23 (big blind) collected (570)
+Seat 6: BMW2015_NL folded before Flop (didn't bet)
+Seat 7: igrovoi7777 folded before Flop (didn't bet)
+Seat 9: DocktoR222 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183061352251: Tournament #2231784952, $1.32+$0.18 USD Hold'em No Limit - Level V (60/120) - 2018/02/26 2:24:03 ET
+Table '2231784952 1' 9-max Seat #3 is the button
+Seat 2: Triskle3 (1397 in chips) 
+Seat 3: IsolatedFear (2645 in chips) 
+Seat 4: ollikahn23 (2591 in chips) 
+Seat 6: BMW2015_NL (2250 in chips) 
+Seat 7: igrovoi7777 (1047 in chips) 
+Seat 9: DocktoR222 (3570 in chips) 
+Triskle3: posts the ante 15
+IsolatedFear: posts the ante 15
+ollikahn23: posts the ante 15
+BMW2015_NL: posts the ante 15
+igrovoi7777: posts the ante 15
+DocktoR222: posts the ante 15
+ollikahn23: posts small blind 60
+BMW2015_NL: posts big blind 120
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7s 7h]
+igrovoi7777: folds 
+DocktoR222: folds 
+Triskle3: folds 
+IsolatedFear: raises 120 to 240
+ollikahn23: raises 2336 to 2576 and is all-in
+BMW2015_NL: folds 
+IsolatedFear: calls 2336
+*** FLOP *** [Ts 4h 5s]
+*** TURN *** [Ts 4h 5s] [Kc]
+*** RIVER *** [Ts 4h 5s Kc] [9h]
+*** SHOW DOWN ***
+ollikahn23: shows [7s 7h] (a pair of Sevens)
+IsolatedFear: shows [9d Th] (two pair, Tens and Nines)
+ollikahn23 said, "haha"
+IsolatedFear collected 5362 from pot
+ollikahn23 finished the tournament in 11th place
+*** SUMMARY ***
+Total pot 5362 | Rake 0 
+Board [Ts 4h 5s Kc 9h]
+Seat 2: Triskle3 folded before Flop (didn't bet)
+Seat 3: IsolatedFear (button) showed [9d Th] and won (5362) with two pair, Tens and Nines
+Seat 4: ollikahn23 (small blind) showed [7s 7h] and lost with a pair of Sevens
+Seat 6: BMW2015_NL (big blind) folded before Flop
+Seat 7: igrovoi7777 folded before Flop (didn't bet)
+Seat 9: DocktoR222 folded before Flop (didn't bet)
+
+
+

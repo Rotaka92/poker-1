@@ -1,0 +1,2123 @@
+﻿PokerStars Hand #181923019139: Tournament #2203840083, $10+$1 USD Hold'em No Limit - Level III (25/50) - 2018/02/02 17:30:27 ET
+Table '2203840083 18' 9-max Seat #1 is the button
+Seat 1: ollikahn23 (3632 in chips)
+Seat 2: kreved (2247 in chips)
+Seat 3: Jbiancolini (3562 in chips)
+Seat 4: rsalmeida (6130 in chips)
+Seat 5: pokerstg (2574 in chips)
+Seat 6: CM0neyM4akeR (5515 in chips)
+Seat 7: Bombero_HH (3275 in chips)
+Seat 8: salonteskis (2871 in chips)
+Seat 9: mrGR13caldi9 (4258 in chips)
+ollikahn23: posts the ante 6
+kreved: posts the ante 6
+Jbiancolini: posts the ante 6
+rsalmeida: posts the ante 6
+pokerstg: posts the ante 6
+CM0neyM4akeR: posts the ante 6
+Bombero_HH: posts the ante 6
+salonteskis: posts the ante 6
+mrGR13caldi9: posts the ante 6
+kreved: posts small blind 25
+Jbiancolini: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6d 4d]
+rsalmeida: folds
+pokerstg: folds
+CM0neyM4akeR: folds
+Bombero_HH: raises 150 to 200
+salonteskis: folds
+mrGR13caldi9: folds
+ollikahn23: folds
+kreved: calls 175
+Jbiancolini: folds
+*** FLOP *** [Ah Qc 4c]
+kreved: checks
+Bombero_HH: bets 250
+kreved: folds
+Uncalled bet (250) returned to Bombero_HH
+Bombero_HH collected 504 from pot
+Bombero_HH: doesn't show hand
+*** SUMMARY ***
+Total pot 504 | Rake 0
+Board [Ah Qc 4c]
+Seat 1: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 2: kreved (small blind) folded on the Flop
+Seat 3: Jbiancolini (big blind) folded before Flop
+Seat 4: rsalmeida folded before Flop (didn't bet)
+Seat 5: pokerstg folded before Flop (didn't bet)
+Seat 6: CM0neyM4akeR folded before Flop (didn't bet)
+Seat 7: Bombero_HH collected (504)
+Seat 8: salonteskis folded before Flop (didn't bet)
+Seat 9: mrGR13caldi9 folded before Flop (didn't bet)
+
+
+PokerStars Hand #181923070001: Tournament #2203840083, $10+$1 USD Hold'em No Limit - Level IV (30/60) - 2018/02/02 17:31:23 ET
+Table '2203840083 18' 9-max Seat #2 is the button
+Seat 1: ollikahn23 (3626 in chips)
+Seat 2: kreved (2041 in chips)
+Seat 3: Jbiancolini (3506 in chips)
+Seat 4: rsalmeida (6124 in chips)
+Seat 5: pokerstg (2568 in chips)
+Seat 6: CM0neyM4akeR (5509 in chips)
+Seat 7: Bombero_HH (3573 in chips)
+Seat 8: salonteskis (2865 in chips)
+Seat 9: mrGR13caldi9 (4252 in chips)
+ollikahn23: posts the ante 7
+kreved: posts the ante 7
+Jbiancolini: posts the ante 7
+rsalmeida: posts the ante 7
+pokerstg: posts the ante 7
+CM0neyM4akeR: posts the ante 7
+Bombero_HH: posts the ante 7
+salonteskis: posts the ante 7
+mrGR13caldi9: posts the ante 7
+Jbiancolini: posts small blind 30
+rsalmeida: posts big blind 60
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7c 3c]
+pokerstg: folds
+CM0neyM4akeR: folds
+Bombero_HH: folds
+salonteskis: folds
+mrGR13caldi9: folds
+ollikahn23: folds
+kreved: folds
+Jbiancolini: folds
+Uncalled bet (30) returned to rsalmeida
+rsalmeida collected 123 from pot
+rsalmeida: doesn't show hand
+*** SUMMARY ***
+Total pot 123 | Rake 0
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: kreved (button) folded before Flop (didn't bet)
+Seat 3: Jbiancolini (small blind) folded before Flop
+Seat 4: rsalmeida (big blind) collected (123)
+Seat 5: pokerstg folded before Flop (didn't bet)
+Seat 6: CM0neyM4akeR folded before Flop (didn't bet)
+Seat 7: Bombero_HH folded before Flop (didn't bet)
+Seat 8: salonteskis folded before Flop (didn't bet)
+Seat 9: mrGR13caldi9 folded before Flop (didn't bet)
+
+
+PokerStars Hand #181923098118: Tournament #2203840083, $10+$1 USD Hold'em No Limit - Level IV (30/60) - 2018/02/02 17:31:53 ET
+Table '2203840083 18' 9-max Seat #3 is the button
+Seat 1: ollikahn23 (3619 in chips)
+Seat 2: kreved (2034 in chips)
+Seat 3: Jbiancolini (3469 in chips)
+Seat 4: rsalmeida (6210 in chips)
+Seat 5: pokerstg (2561 in chips)
+Seat 6: CM0neyM4akeR (5502 in chips)
+Seat 7: Bombero_HH (3566 in chips)
+Seat 8: salonteskis (2858 in chips)
+Seat 9: mrGR13caldi9 (4245 in chips)
+ollikahn23: posts the ante 7
+kreved: posts the ante 7
+Jbiancolini: posts the ante 7
+rsalmeida: posts the ante 7
+pokerstg: posts the ante 7
+CM0neyM4akeR: posts the ante 7
+Bombero_HH: posts the ante 7
+salonteskis: posts the ante 7
+mrGR13caldi9: posts the ante 7
+rsalmeida: posts small blind 30
+pokerstg: posts big blind 60
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ad Kh]
+CM0neyM4akeR: folds
+Bombero_HH: calls 60
+salonteskis: folds
+mrGR13caldi9: folds
+ollikahn23: raises 135 to 195
+kreved: folds
+Jbiancolini: folds
+rsalmeida: folds
+pokerstg: folds
+Bombero_HH: calls 135
+*** FLOP *** [6h 2d Jh]
+Bombero_HH: checks
+ollikahn23: bets 260
+Bombero_HH: folds
+Uncalled bet (260) returned to ollikahn23
+ollikahn23 collected 543 from pot
+ollikahn23: doesn't show hand
+*** SUMMARY ***
+Total pot 543 | Rake 0
+Board [6h 2d Jh]
+Seat 1: ollikahn23 collected (543)
+Seat 2: kreved folded before Flop (didn't bet)
+Seat 3: Jbiancolini (button) folded before Flop (didn't bet)
+Seat 4: rsalmeida (small blind) folded before Flop
+Seat 5: pokerstg (big blind) folded before Flop
+Seat 6: CM0neyM4akeR folded before Flop (didn't bet)
+Seat 7: Bombero_HH folded on the Flop
+Seat 8: salonteskis folded before Flop (didn't bet)
+Seat 9: mrGR13caldi9 folded before Flop (didn't bet)
+
+
+PokerStars Hand #181923147468: Tournament #2203840083, $10+$1 USD Hold'em No Limit - Level IV (30/60) - 2018/02/02 17:32:48 ET
+Table '2203840083 18' 9-max Seat #4 is the button
+Seat 1: ollikahn23 (3960 in chips)
+Seat 2: kreved (2027 in chips)
+Seat 3: Jbiancolini (3462 in chips)
+Seat 4: rsalmeida (6173 in chips)
+Seat 5: pokerstg (2494 in chips)
+Seat 6: CM0neyM4akeR (5495 in chips)
+Seat 7: Bombero_HH (3364 in chips)
+Seat 8: salonteskis (2851 in chips)
+Seat 9: mrGR13caldi9 (4238 in chips)
+ollikahn23: posts the ante 7
+kreved: posts the ante 7
+Jbiancolini: posts the ante 7
+rsalmeida: posts the ante 7
+pokerstg: posts the ante 7
+CM0neyM4akeR: posts the ante 7
+Bombero_HH: posts the ante 7
+salonteskis: posts the ante 7
+mrGR13caldi9: posts the ante 7
+pokerstg: posts small blind 30
+CM0neyM4akeR: posts big blind 60
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8d Qs]
+Bombero_HH: folds
+salonteskis: raises 82 to 142
+mrGR13caldi9: folds
+ollikahn23: folds
+kreved: folds
+Jbiancolini: folds
+rsalmeida: folds
+pokerstg: folds
+CM0neyM4akeR: calls 82
+*** FLOP *** [Ts 2h 5h]
+CM0neyM4akeR: checks
+salonteskis: checks
+*** TURN *** [Ts 2h 5h] [As]
+CM0neyM4akeR: checks
+salonteskis: bets 211
+CM0neyM4akeR: folds
+Uncalled bet (211) returned to salonteskis
+salonteskis collected 377 from pot
+salonteskis: doesn't show hand
+*** SUMMARY ***
+Total pot 377 | Rake 0
+Board [Ts 2h 5h As]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: kreved folded before Flop (didn't bet)
+Seat 3: Jbiancolini folded before Flop (didn't bet)
+Seat 4: rsalmeida (button) folded before Flop (didn't bet)
+Seat 5: pokerstg (small blind) folded before Flop
+Seat 6: CM0neyM4akeR (big blind) folded on the Turn
+Seat 7: Bombero_HH folded before Flop (didn't bet)
+Seat 8: salonteskis collected (377)
+Seat 9: mrGR13caldi9 folded before Flop (didn't bet)
+
+
+PokerStars Hand #181923184370: Tournament #2203840083, $10+$1 USD Hold'em No Limit - Level IV (30/60) - 2018/02/02 17:33:29 ET
+Table '2203840083 18' 9-max Seat #5 is the button
+Seat 1: ollikahn23 (3953 in chips)
+Seat 2: kreved (2020 in chips)
+Seat 3: Jbiancolini (3455 in chips)
+Seat 4: rsalmeida (6166 in chips)
+Seat 5: pokerstg (2457 in chips)
+Seat 6: CM0neyM4akeR (5346 in chips)
+Seat 7: Bombero_HH (3357 in chips)
+Seat 8: salonteskis (3079 in chips)
+Seat 9: mrGR13caldi9 (4231 in chips)
+ollikahn23: posts the ante 7
+kreved: posts the ante 7
+Jbiancolini: posts the ante 7
+rsalmeida: posts the ante 7
+pokerstg: posts the ante 7
+CM0neyM4akeR: posts the ante 7
+Bombero_HH: posts the ante 7
+salonteskis: posts the ante 7
+mrGR13caldi9: posts the ante 7
+CM0neyM4akeR: posts small blind 30
+Bombero_HH: posts big blind 60
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qh Ah]
+salonteskis: raises 82 to 142
+mrGR13caldi9: folds
+ollikahn23: raises 82 to 224
+kreved: calls 224
+Jbiancolini: folds
+rsalmeida: folds
+pokerstg: folds
+CM0neyM4akeR: folds
+Bombero_HH: folds
+salonteskis: calls 82
+*** FLOP *** [7h Kh 9d]
+salonteskis: checks
+ollikahn23: bets 335
+kreved: calls 335
+salonteskis: folds
+*** TURN *** [7h Kh 9d] [3c]
+ollikahn23: checks
+kreved: checks
+*** RIVER *** [7h Kh 9d 3c] [8s]
+ollikahn23: checks
+kreved: checks
+*** SHOW DOWN ***
+ollikahn23: shows [Qh Ah] (high card Ace)
+kreved: shows [Ac 9c] (a pair of Nines)
+kreved collected 1495 from pot
+*** SUMMARY ***
+Total pot 1495 | Rake 0
+Board [7h Kh 9d 3c 8s]
+Seat 1: ollikahn23 showed [Qh Ah] and lost with high card Ace
+Seat 2: kreved showed [Ac 9c] and won (1495) with a pair of Nines
+Seat 3: Jbiancolini folded before Flop (didn't bet)
+Seat 4: rsalmeida folded before Flop (didn't bet)
+Seat 5: pokerstg (button) folded before Flop (didn't bet)
+Seat 6: CM0neyM4akeR (small blind) folded before Flop
+Seat 7: Bombero_HH (big blind) folded before Flop
+Seat 8: salonteskis folded on the Flop
+Seat 9: mrGR13caldi9 folded before Flop (didn't bet)
+
+
+PokerStars Hand #181923289882: Tournament #2203840083, $10+$1 USD Hold'em No Limit - Level IV (30/60) - 2018/02/02 17:35:27 ET
+Table '2203840083 18' 9-max Seat #6 is the button
+Seat 1: ollikahn23 (3387 in chips)
+Seat 2: kreved (2949 in chips)
+Seat 3: Jbiancolini (3448 in chips)
+Seat 4: rsalmeida (6159 in chips)
+Seat 5: pokerstg (2450 in chips)
+Seat 6: CM0neyM4akeR (5309 in chips)
+Seat 7: Bombero_HH (3290 in chips)
+Seat 8: salonteskis (2848 in chips)
+Seat 9: mrGR13caldi9 (4224 in chips)
+ollikahn23: posts the ante 7
+kreved: posts the ante 7
+Jbiancolini: posts the ante 7
+rsalmeida: posts the ante 7
+pokerstg: posts the ante 7
+CM0neyM4akeR: posts the ante 7
+Bombero_HH: posts the ante 7
+salonteskis: posts the ante 7
+mrGR13caldi9: posts the ante 7
+Bombero_HH: posts small blind 30
+salonteskis: posts big blind 60
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5c 6h]
+mrGR13caldi9: folds
+ollikahn23: folds
+kreved: folds
+Jbiancolini: folds
+rsalmeida: raises 120 to 180
+pokerstg: folds
+CM0neyM4akeR: folds
+Bombero_HH: folds
+salonteskis: folds
+Uncalled bet (120) returned to rsalmeida
+rsalmeida collected 213 from pot
+*** SUMMARY ***
+Total pot 213 | Rake 0
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: kreved folded before Flop (didn't bet)
+Seat 3: Jbiancolini folded before Flop (didn't bet)
+Seat 4: rsalmeida collected (213)
+Seat 5: pokerstg folded before Flop (didn't bet)
+Seat 6: CM0neyM4akeR (button) folded before Flop (didn't bet)
+Seat 7: Bombero_HH (small blind) folded before Flop
+Seat 8: salonteskis (big blind) folded before Flop
+Seat 9: mrGR13caldi9 folded before Flop (didn't bet)
+
+
+PokerStars Hand #181923313231: Tournament #2203840083, $10+$1 USD Hold'em No Limit - Level IV (30/60) - 2018/02/02 17:35:53 ET
+Table '2203840083 18' 9-max Seat #7 is the button
+Seat 1: ollikahn23 (3380 in chips)
+Seat 2: kreved (2942 in chips)
+Seat 3: Jbiancolini (3441 in chips)
+Seat 4: rsalmeida (6305 in chips)
+Seat 5: pokerstg (2443 in chips)
+Seat 6: CM0neyM4akeR (5302 in chips)
+Seat 7: Bombero_HH (3253 in chips)
+Seat 8: salonteskis (2781 in chips)
+Seat 9: mrGR13caldi9 (4217 in chips)
+ollikahn23: posts the ante 7
+kreved: posts the ante 7
+Jbiancolini: posts the ante 7
+rsalmeida: posts the ante 7
+pokerstg: posts the ante 7
+CM0neyM4akeR: posts the ante 7
+Bombero_HH: posts the ante 7
+salonteskis: posts the ante 7
+mrGR13caldi9: posts the ante 7
+salonteskis: posts small blind 30
+mrGR13caldi9: posts big blind 60
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8s 8c]
+ollikahn23: raises 75 to 135
+kreved: folds
+Jbiancolini: folds
+rsalmeida: folds
+pokerstg: folds
+CM0neyM4akeR: folds
+Bombero_HH: folds
+salonteskis: folds
+mrGR13caldi9: folds
+Uncalled bet (75) returned to ollikahn23
+ollikahn23 collected 213 from pot
+ollikahn23: doesn't show hand
+*** SUMMARY ***
+Total pot 213 | Rake 0
+Seat 1: ollikahn23 collected (213)
+Seat 2: kreved folded before Flop (didn't bet)
+Seat 3: Jbiancolini folded before Flop (didn't bet)
+Seat 4: rsalmeida folded before Flop (didn't bet)
+Seat 5: pokerstg folded before Flop (didn't bet)
+Seat 6: CM0neyM4akeR folded before Flop (didn't bet)
+Seat 7: Bombero_HH (button) folded before Flop (didn't bet)
+Seat 8: salonteskis (small blind) folded before Flop
+Seat 9: mrGR13caldi9 (big blind) folded before Flop
+
+
+PokerStars Hand #181923355901: Tournament #2203840083, $10+$1 USD Hold'em No Limit - Level IV (30/60) - 2018/02/02 17:36:41 ET
+Table '2203840083 18' 9-max Seat #8 is the button
+Seat 1: ollikahn23 (3526 in chips)
+Seat 2: kreved (2935 in chips)
+Seat 3: Jbiancolini (3434 in chips)
+Seat 4: rsalmeida (6298 in chips)
+Seat 5: pokerstg (2436 in chips)
+Seat 6: CM0neyM4akeR (5295 in chips)
+Seat 7: Bombero_HH (3246 in chips)
+Seat 8: salonteskis (2744 in chips)
+Seat 9: mrGR13caldi9 (4150 in chips)
+ollikahn23: posts the ante 7
+kreved: posts the ante 7
+Jbiancolini: posts the ante 7
+rsalmeida: posts the ante 7
+pokerstg: posts the ante 7
+CM0neyM4akeR: posts the ante 7
+Bombero_HH: posts the ante 7
+salonteskis: posts the ante 7
+mrGR13caldi9: posts the ante 7
+mrGR13caldi9: posts small blind 30
+ollikahn23: posts big blind 60
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4c 5s]
+kreved: raises 60 to 120
+Jbiancolini: folds
+rsalmeida: folds
+pokerstg: calls 120
+CM0neyM4akeR: folds
+Bombero_HH: folds
+salonteskis: folds
+mrGR13caldi9: folds
+ollikahn23: calls 60
+*** FLOP *** [6s Td As]
+ollikahn23: checks
+kreved: bets 240
+pokerstg: calls 240
+ollikahn23: folds
+*** TURN *** [6s Td As] [Ac]
+kreved: checks
+pokerstg: checks
+*** RIVER *** [6s Td As Ac] [Kc]
+kreved: checks
+pokerstg: bets 467
+kreved: folds
+Uncalled bet (467) returned to pokerstg
+pokerstg collected 933 from pot
+pokerstg: doesn't show hand
+*** SUMMARY ***
+Total pot 933 | Rake 0
+Board [6s Td As Ac Kc]
+Seat 1: ollikahn23 (big blind) folded on the Flop
+Seat 2: kreved folded on the River
+Seat 3: Jbiancolini folded before Flop (didn't bet)
+Seat 4: rsalmeida folded before Flop (didn't bet)
+Seat 5: pokerstg collected (933)
+Seat 6: CM0neyM4akeR folded before Flop (didn't bet)
+Seat 7: Bombero_HH folded before Flop (didn't bet)
+Seat 8: salonteskis (button) folded before Flop (didn't bet)
+Seat 9: mrGR13caldi9 (small blind) folded before Flop
+
+
+PokerStars Hand #181923433573: Tournament #2203840083, $10+$1 USD Hold'em No Limit - Level IV (30/60) - 2018/02/02 17:38:08 ET
+Table '2203840083 18' 9-max Seat #9 is the button
+Seat 1: ollikahn23 (3399 in chips)
+Seat 2: kreved (2568 in chips)
+Seat 3: Jbiancolini (3427 in chips)
+Seat 4: rsalmeida (6291 in chips)
+Seat 5: pokerstg (3002 in chips)
+Seat 6: CM0neyM4akeR (5288 in chips)
+Seat 7: Bombero_HH (3239 in chips)
+Seat 8: salonteskis (2737 in chips)
+Seat 9: mrGR13caldi9 (4113 in chips)
+ollikahn23: posts the ante 7
+kreved: posts the ante 7
+Jbiancolini: posts the ante 7
+rsalmeida: posts the ante 7
+pokerstg: posts the ante 7
+CM0neyM4akeR: posts the ante 7
+Bombero_HH: posts the ante 7
+salonteskis: posts the ante 7
+mrGR13caldi9: posts the ante 7
+ollikahn23: posts small blind 30
+kreved: posts big blind 60
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9h Kh]
+Jbiancolini: raises 73 to 133
+rsalmeida: folds
+pokerstg: folds
+CM0neyM4akeR: calls 133
+Bombero_HH: folds
+salonteskis: folds
+mrGR13caldi9: folds
+ollikahn23: folds
+kreved: folds
+*** FLOP *** [Qd 9c 3d]
+Jbiancolini: checks
+CM0neyM4akeR: checks
+*** TURN *** [Qd 9c 3d] [7d]
+Jbiancolini: checks
+CM0neyM4akeR: checks
+*** RIVER *** [Qd 9c 3d 7d] [Ah]
+Jbiancolini: checks
+CM0neyM4akeR: bets 240
+Jbiancolini: calls 240
+*** SHOW DOWN ***
+CM0neyM4akeR: shows [Ac Ks] (a pair of Aces)
+Jbiancolini: mucks hand
+CM0neyM4akeR collected 899 from pot
+*** SUMMARY ***
+Total pot 899 | Rake 0
+Board [Qd 9c 3d 7d Ah]
+Seat 1: ollikahn23 (small blind) folded before Flop
+Seat 2: kreved (big blind) folded before Flop
+Seat 3: Jbiancolini mucked [Ad 8c]
+Seat 4: rsalmeida folded before Flop (didn't bet)
+Seat 5: pokerstg folded before Flop (didn't bet)
+Seat 6: CM0neyM4akeR showed [Ac Ks] and won (899) with a pair of Aces
+Seat 7: Bombero_HH folded before Flop (didn't bet)
+Seat 8: salonteskis folded before Flop (didn't bet)
+Seat 9: mrGR13caldi9 (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #181923496323: Tournament #2203840083, $10+$1 USD Hold'em No Limit - Level IV (30/60) - 2018/02/02 17:39:19 ET
+Table '2203840083 18' 9-max Seat #1 is the button
+Seat 1: ollikahn23 (3362 in chips)
+Seat 2: kreved (2501 in chips)
+Seat 3: Jbiancolini (3047 in chips)
+Seat 4: rsalmeida (6284 in chips)
+Seat 5: pokerstg (2995 in chips)
+Seat 6: CM0neyM4akeR (5807 in chips)
+Seat 7: Bombero_HH (3232 in chips)
+Seat 8: salonteskis (2730 in chips)
+Seat 9: mrGR13caldi9 (4106 in chips)
+ollikahn23: posts the ante 7
+kreved: posts the ante 7
+Jbiancolini: posts the ante 7
+rsalmeida: posts the ante 7
+pokerstg: posts the ante 7
+CM0neyM4akeR: posts the ante 7
+Bombero_HH: posts the ante 7
+salonteskis: posts the ante 7
+mrGR13caldi9: posts the ante 7
+kreved: posts small blind 30
+Jbiancolini: posts big blind 60
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7d 7c]
+rsalmeida: folds
+pokerstg: folds
+CM0neyM4akeR: folds
+Bombero_HH: folds
+salonteskis: folds
+mrGR13caldi9: raises 90 to 150
+ollikahn23: calls 150
+kreved: folds
+Jbiancolini: calls 90
+*** FLOP *** [Tc 5s 6h]
+Jbiancolini: bets 212
+mrGR13caldi9: calls 212
+ollikahn23: calls 212
+*** TURN *** [Tc 5s 6h] [Kh]
+Jbiancolini: checks
+mrGR13caldi9: checks
+ollikahn23: bets 444
+Jbiancolini: raises 806 to 1250
+mrGR13caldi9: folds
+ollikahn23: folds
+Uncalled bet (806) returned to Jbiancolini
+Jbiancolini collected 2067 from pot
+*** SUMMARY ***
+Total pot 2067 | Rake 0
+Board [Tc 5s 6h Kh]
+Seat 1: ollikahn23 (button) folded on the Turn
+Seat 2: kreved (small blind) folded before Flop
+Seat 3: Jbiancolini (big blind) collected (2067)
+Seat 4: rsalmeida folded before Flop (didn't bet)
+Seat 5: pokerstg folded before Flop (didn't bet)
+Seat 6: CM0neyM4akeR folded before Flop (didn't bet)
+Seat 7: Bombero_HH folded before Flop (didn't bet)
+Seat 8: salonteskis folded before Flop (didn't bet)
+Seat 9: mrGR13caldi9 folded on the Turn
+
+
+PokerStars Hand #181923590097: Tournament #2203840083, $10+$1 USD Hold'em No Limit - Level IV (30/60) - 2018/02/02 17:41:05 ET
+Table '2203840083 18' 9-max Seat #2 is the button
+Seat 1: ollikahn23 (2549 in chips)
+Seat 2: kreved (2464 in chips)
+Seat 3: Jbiancolini (4301 in chips)
+Seat 4: rsalmeida (6277 in chips)
+Seat 5: pokerstg (2988 in chips)
+Seat 6: CM0neyM4akeR (5800 in chips)
+Seat 7: Bombero_HH (3225 in chips)
+Seat 8: salonteskis (2723 in chips)
+Seat 9: mrGR13caldi9 (3737 in chips)
+ollikahn23: posts the ante 7
+kreved: posts the ante 7
+Jbiancolini: posts the ante 7
+rsalmeida: posts the ante 7
+pokerstg: posts the ante 7
+CM0neyM4akeR: posts the ante 7
+Bombero_HH: posts the ante 7
+salonteskis: posts the ante 7
+mrGR13caldi9: posts the ante 7
+Jbiancolini: posts small blind 30
+rsalmeida: posts big blind 60
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8c Td]
+pokerstg: folds
+CM0neyM4akeR: folds
+Bombero_HH: folds
+salonteskis: folds
+mrGR13caldi9: folds
+ollikahn23: raises 75 to 135
+kreved: folds
+Jbiancolini: folds
+rsalmeida: calls 75
+*** FLOP *** [6h Qd As]
+rsalmeida: checks
+ollikahn23: bets 160
+rsalmeida: folds
+Uncalled bet (160) returned to ollikahn23
+ollikahn23 collected 363 from pot
+ollikahn23: doesn't show hand
+*** SUMMARY ***
+Total pot 363 | Rake 0
+Board [6h Qd As]
+Seat 1: ollikahn23 collected (363)
+Seat 2: kreved (button) folded before Flop (didn't bet)
+Seat 3: Jbiancolini (small blind) folded before Flop
+Seat 4: rsalmeida (big blind) folded on the Flop
+Seat 5: pokerstg folded before Flop (didn't bet)
+Seat 6: CM0neyM4akeR folded before Flop (didn't bet)
+Seat 7: Bombero_HH folded before Flop (didn't bet)
+Seat 8: salonteskis folded before Flop (didn't bet)
+Seat 9: mrGR13caldi9 folded before Flop (didn't bet)
+
+
+PokerStars Hand #181923639316: Tournament #2203840083, $10+$1 USD Hold'em No Limit - Level V (40/80) - 2018/02/02 17:42:01 ET
+Table '2203840083 18' 9-max Seat #3 is the button
+Seat 1: ollikahn23 (2770 in chips)
+Seat 2: kreved (2457 in chips)
+Seat 3: Jbiancolini (4264 in chips)
+Seat 4: rsalmeida (6135 in chips)
+Seat 5: pokerstg (2981 in chips)
+Seat 6: CM0neyM4akeR (5793 in chips)
+Seat 7: Bombero_HH (3218 in chips)
+Seat 8: salonteskis (2716 in chips)
+Seat 9: mrGR13caldi9 (3730 in chips)
+ollikahn23: posts the ante 10
+kreved: posts the ante 10
+Jbiancolini: posts the ante 10
+rsalmeida: posts the ante 10
+pokerstg: posts the ante 10
+CM0neyM4akeR: posts the ante 10
+Bombero_HH: posts the ante 10
+salonteskis: posts the ante 10
+mrGR13caldi9: posts the ante 10
+rsalmeida: posts small blind 40
+pokerstg: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4h Ts]
+CM0neyM4akeR: folds
+Bombero_HH: folds
+salonteskis: folds
+mrGR13caldi9: folds
+ollikahn23: folds
+kreved: raises 80 to 160
+Jbiancolini: folds
+rsalmeida: folds
+pokerstg: folds
+Uncalled bet (80) returned to kreved
+kreved collected 290 from pot
+kreved: doesn't show hand
+*** SUMMARY ***
+Total pot 290 | Rake 0
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: kreved collected (290)
+Seat 3: Jbiancolini (button) folded before Flop (didn't bet)
+Seat 4: rsalmeida (small blind) folded before Flop
+Seat 5: pokerstg (big blind) folded before Flop
+Seat 6: CM0neyM4akeR folded before Flop (didn't bet)
+Seat 7: Bombero_HH folded before Flop (didn't bet)
+Seat 8: salonteskis folded before Flop (didn't bet)
+Seat 9: mrGR13caldi9 folded before Flop (didn't bet)
+
+
+PokerStars Hand #181923662450: Tournament #2203840083, $10+$1 USD Hold'em No Limit - Level V (40/80) - 2018/02/02 17:42:27 ET
+Table '2203840083 18' 9-max Seat #4 is the button
+Seat 1: ollikahn23 (2760 in chips)
+Seat 2: kreved (2657 in chips)
+Seat 3: Jbiancolini (4254 in chips)
+Seat 4: rsalmeida (6085 in chips)
+Seat 5: pokerstg (2891 in chips)
+Seat 6: CM0neyM4akeR (5783 in chips)
+Seat 7: Bombero_HH (3208 in chips)
+Seat 8: salonteskis (2706 in chips)
+Seat 9: mrGR13caldi9 (3720 in chips)
+ollikahn23: posts the ante 10
+kreved: posts the ante 10
+Jbiancolini: posts the ante 10
+rsalmeida: posts the ante 10
+pokerstg: posts the ante 10
+CM0neyM4akeR: posts the ante 10
+Bombero_HH: posts the ante 10
+salonteskis: posts the ante 10
+mrGR13caldi9: posts the ante 10
+pokerstg: posts small blind 40
+CM0neyM4akeR: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9c 4h]
+Bombero_HH: folds
+salonteskis: raises 110 to 190
+mrGR13caldi9: folds
+ollikahn23: folds
+kreved: folds
+Jbiancolini: raises 290 to 480
+rsalmeida: folds
+pokerstg: folds
+CM0neyM4akeR: folds
+salonteskis: folds
+Uncalled bet (290) returned to Jbiancolini
+Jbiancolini collected 590 from pot
+*** SUMMARY ***
+Total pot 590 | Rake 0
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: kreved folded before Flop (didn't bet)
+Seat 3: Jbiancolini collected (590)
+Seat 4: rsalmeida (button) folded before Flop (didn't bet)
+Seat 5: pokerstg (small blind) folded before Flop
+Seat 6: CM0neyM4akeR (big blind) folded before Flop
+Seat 7: Bombero_HH folded before Flop (didn't bet)
+Seat 8: salonteskis folded before Flop
+Seat 9: mrGR13caldi9 folded before Flop (didn't bet)
+
+
+PokerStars Hand #181923711828: Tournament #2203840083, $10+$1 USD Hold'em No Limit - Level V (40/80) - 2018/02/02 17:43:23 ET
+Table '2203840083 18' 9-max Seat #5 is the button
+Seat 1: ollikahn23 (2750 in chips)
+Seat 2: kreved (2647 in chips)
+Seat 3: Jbiancolini (4644 in chips)
+Seat 4: rsalmeida (6075 in chips)
+Seat 5: pokerstg (2841 in chips)
+Seat 6: CM0neyM4akeR (5693 in chips)
+Seat 7: Bombero_HH (3198 in chips)
+Seat 8: salonteskis (2506 in chips)
+Seat 9: mrGR13caldi9 (3710 in chips)
+ollikahn23: posts the ante 10
+kreved: posts the ante 10
+Jbiancolini: posts the ante 10
+rsalmeida: posts the ante 10
+pokerstg: posts the ante 10
+CM0neyM4akeR: posts the ante 10
+Bombero_HH: posts the ante 10
+salonteskis: posts the ante 10
+mrGR13caldi9: posts the ante 10
+CM0neyM4akeR: posts small blind 40
+Bombero_HH: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kd Tc]
+salonteskis: folds
+mrGR13caldi9: raises 80 to 160
+ollikahn23: folds
+kreved: calls 160
+Jbiancolini: folds
+rsalmeida: folds
+pokerstg: folds
+CM0neyM4akeR: folds
+Bombero_HH: calls 80
+*** FLOP *** [9c Jc 8d]
+Bombero_HH: bets 3028 and is all-in
+mrGR13caldi9: calls 3028
+kreved: calls 2477 and is all-in
+*** TURN *** [9c Jc 8d] [9s]
+*** RIVER *** [9c Jc 8d 9s] [6s]
+*** SHOW DOWN ***
+Bombero_HH: shows [Qc 7c] (a pair of Nines)
+mrGR13caldi9: shows [Qd Td] (a straight, Eight to Queen)
+mrGR13caldi9 collected 1102 from side pot
+kreved: shows [Kc Jh] (two pair, Jacks and Nines)
+mrGR13caldi9 collected 8041 from main pot
+Bombero_HH finished the tournament
+kreved finished the tournament
+*** SUMMARY ***
+Total pot 9143 Main pot 8041. Side pot 1102. | Rake 0
+Board [9c Jc 8d 9s 6s]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: kreved showed [Kc Jh] and lost with two pair, Jacks and Nines
+Seat 3: Jbiancolini folded before Flop (didn't bet)
+Seat 4: rsalmeida folded before Flop (didn't bet)
+Seat 5: pokerstg (button) folded before Flop (didn't bet)
+Seat 6: CM0neyM4akeR (small blind) folded before Flop
+Seat 7: Bombero_HH (big blind) showed [Qc 7c] and lost with a pair of Nines
+Seat 8: salonteskis folded before Flop (didn't bet)
+Seat 9: mrGR13caldi9 showed [Qd Td] and won (9143) with a straight, Eight to Queen
+
+
+PokerStars Hand #181923756465: Tournament #2203840083, $10+$1 USD Hold'em No Limit - Level V (40/80) - 2018/02/02 17:44:14 ET
+Table '2203840083 18' 9-max Seat #6 is the button
+Seat 1: ollikahn23 (2740 in chips)
+Seat 3: Jbiancolini (4634 in chips)
+Seat 4: rsalmeida (6065 in chips)
+Seat 5: pokerstg (2831 in chips)
+Seat 6: CM0neyM4akeR (5643 in chips)
+Seat 8: salonteskis (2496 in chips)
+Seat 9: mrGR13caldi9 (9655 in chips)
+ollikahn23: posts the ante 10
+Jbiancolini: posts the ante 10
+rsalmeida: posts the ante 10
+pokerstg: posts the ante 10
+CM0neyM4akeR: posts the ante 10
+salonteskis: posts the ante 10
+mrGR13caldi9: posts the ante 10
+salonteskis: posts small blind 40
+mrGR13caldi9: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5c Tc]
+ollikahn23: folds
+Jbiancolini: folds
+rsalmeida: folds
+pokerstg: folds
+CM0neyM4akeR: raises 80 to 160
+salonteskis: folds
+mrGR13caldi9: folds
+Uncalled bet (80) returned to CM0neyM4akeR
+CM0neyM4akeR collected 270 from pot
+CM0neyM4akeR: doesn't show hand
+*** SUMMARY ***
+Total pot 270 | Rake 0
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 3: Jbiancolini folded before Flop (didn't bet)
+Seat 4: rsalmeida folded before Flop (didn't bet)
+Seat 5: pokerstg folded before Flop (didn't bet)
+Seat 6: CM0neyM4akeR (button) collected (270)
+Seat 8: salonteskis (small blind) folded before Flop
+Seat 9: mrGR13caldi9 (big blind) folded before Flop
+
+
+PokerStars Hand #181923785039: Tournament #2203840083, $10+$1 USD Hold'em No Limit - Level V (40/80) - 2018/02/02 17:44:47 ET
+Table '2203840083 18' 9-max Seat #8 is the button
+Seat 1: ollikahn23 (2730 in chips)
+Seat 3: Jbiancolini (4624 in chips)
+Seat 4: rsalmeida (6055 in chips)
+Seat 5: pokerstg (2821 in chips)
+Seat 6: CM0neyM4akeR (5823 in chips)
+Seat 7: Ruocci111 (2162 in chips)
+Seat 8: salonteskis (2446 in chips)
+Seat 9: mrGR13caldi9 (9565 in chips)
+ollikahn23: posts the ante 10
+Jbiancolini: posts the ante 10
+rsalmeida: posts the ante 10
+pokerstg: posts the ante 10
+CM0neyM4akeR: posts the ante 10
+Ruocci111: posts the ante 10
+salonteskis: posts the ante 10
+mrGR13caldi9: posts the ante 10
+mrGR13caldi9: posts small blind 40
+ollikahn23: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jc 8c]
+Jbiancolini: folds
+rsalmeida: folds
+pokerstg: folds
+CM0neyM4akeR: folds
+Ruocci111: calls 80
+salonteskis: raises 160 to 240
+mrGR13caldi9: folds
+ollikahn23: calls 160
+Ruocci111: calls 160
+*** FLOP *** [Ac Ks 4h]
+ollikahn23: checks
+Ruocci111: checks
+salonteskis: bets 344
+ollikahn23: folds
+Ruocci111: folds
+Uncalled bet (344) returned to salonteskis
+salonteskis collected 840 from pot
+salonteskis: doesn't show hand
+*** SUMMARY ***
+Total pot 840 | Rake 0
+Board [Ac Ks 4h]
+Seat 1: ollikahn23 (big blind) folded on the Flop
+Seat 3: Jbiancolini folded before Flop (didn't bet)
+Seat 4: rsalmeida folded before Flop (didn't bet)
+Seat 5: pokerstg folded before Flop (didn't bet)
+Seat 6: CM0neyM4akeR folded before Flop (didn't bet)
+Seat 7: Ruocci111 folded on the Flop
+Seat 8: salonteskis (button) collected (840)
+Seat 9: mrGR13caldi9 (small blind) folded before Flop
+
+
+PokerStars Hand #181923861164: Tournament #2203840083, $10+$1 USD Hold'em No Limit - Level V (40/80) - 2018/02/02 17:46:14 ET
+Table '2203840083 18' 9-max Seat #9 is the button
+Seat 1: ollikahn23 (2480 in chips)
+Seat 2: Alberto0629 (3000 in chips)
+Seat 3: Jbiancolini (4614 in chips)
+Seat 4: rsalmeida (6045 in chips)
+Seat 5: pokerstg (2811 in chips)
+Seat 6: CM0neyM4akeR (5813 in chips)
+Seat 7: Ruocci111 (1912 in chips)
+Seat 8: salonteskis (3036 in chips)
+Seat 9: mrGR13caldi9 (9515 in chips)
+ollikahn23: posts the ante 10
+Alberto0629: posts the ante 10
+Jbiancolini: posts the ante 10
+rsalmeida: posts the ante 10
+pokerstg: posts the ante 10
+CM0neyM4akeR: posts the ante 10
+Ruocci111: posts the ante 10
+salonteskis: posts the ante 10
+mrGR13caldi9: posts the ante 10
+ollikahn23: posts small blind 40
+Alberto0629: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5s 4c]
+Jbiancolini: folds
+rsalmeida: folds
+pokerstg: folds
+CM0neyM4akeR: folds
+Ruocci111: calls 80
+salonteskis: folds
+mrGR13caldi9: folds
+ollikahn23: folds
+Alberto0629: checks
+*** FLOP *** [3d Qh 6d]
+Alberto0629: checks
+Ruocci111: bets 160
+Alberto0629: calls 160
+*** TURN *** [3d Qh 6d] [8c]
+Alberto0629: bets 480
+Ruocci111: folds
+Uncalled bet (480) returned to Alberto0629
+Alberto0629 collected 610 from pot
+Alberto0629: doesn't show hand
+*** SUMMARY ***
+Total pot 610 | Rake 0
+Board [3d Qh 6d 8c]
+Seat 1: ollikahn23 (small blind) folded before Flop
+Seat 2: Alberto0629 (big blind) collected (610)
+Seat 3: Jbiancolini folded before Flop (didn't bet)
+Seat 4: rsalmeida folded before Flop (didn't bet)
+Seat 5: pokerstg folded before Flop (didn't bet)
+Seat 6: CM0neyM4akeR folded before Flop (didn't bet)
+Seat 7: Ruocci111 folded on the Turn
+Seat 8: salonteskis folded before Flop (didn't bet)
+Seat 9: mrGR13caldi9 (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #181923915096: Tournament #2203840083, $10+$1 USD Hold'em No Limit - Level V (40/80) - 2018/02/02 17:47:16 ET
+Table '2203840083 18' 9-max Seat #1 is the button
+Seat 1: ollikahn23 (2430 in chips)
+Seat 2: Alberto0629 (3360 in chips)
+Seat 3: Jbiancolini (4604 in chips)
+Seat 4: rsalmeida (6035 in chips)
+Seat 5: pokerstg (2801 in chips)
+Seat 6: CM0neyM4akeR (5803 in chips)
+Seat 7: Ruocci111 (1662 in chips)
+Seat 8: salonteskis (3026 in chips)
+Seat 9: mrGR13caldi9 (9505 in chips)
+ollikahn23: posts the ante 10
+Alberto0629: posts the ante 10
+Jbiancolini: posts the ante 10
+rsalmeida: posts the ante 10
+pokerstg: posts the ante 10
+CM0neyM4akeR: posts the ante 10
+Ruocci111: posts the ante 10
+salonteskis: posts the ante 10
+mrGR13caldi9: posts the ante 10
+Alberto0629: posts small blind 40
+Jbiancolini: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8s Td]
+rsalmeida: raises 120 to 200
+pokerstg: folds
+CM0neyM4akeR: folds
+Ruocci111: folds
+salonteskis: folds
+mrGR13caldi9: folds
+ollikahn23: folds
+Alberto0629: raises 570 to 770
+Jbiancolini: folds
+rsalmeida: folds
+Uncalled bet (570) returned to Alberto0629
+Alberto0629 collected 570 from pot
+Alberto0629: doesn't show hand
+*** SUMMARY ***
+Total pot 570 | Rake 0
+Seat 1: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 2: Alberto0629 (small blind) collected (570)
+Seat 3: Jbiancolini (big blind) folded before Flop
+Seat 4: rsalmeida folded before Flop
+Seat 5: pokerstg folded before Flop (didn't bet)
+Seat 6: CM0neyM4akeR folded before Flop (didn't bet)
+Seat 7: Ruocci111 folded before Flop (didn't bet)
+Seat 8: salonteskis folded before Flop (didn't bet)
+Seat 9: mrGR13caldi9 folded before Flop (didn't bet)
+
+
+PokerStars Hand #181923955603: Tournament #2203840083, $10+$1 USD Hold'em No Limit - Level V (40/80) - 2018/02/02 17:48:03 ET
+Table '2203840083 18' 9-max Seat #2 is the button
+Seat 1: ollikahn23 (2420 in chips)
+Seat 2: Alberto0629 (3720 in chips)
+Seat 3: Jbiancolini (4514 in chips)
+Seat 4: rsalmeida (5825 in chips)
+Seat 5: pokerstg (2791 in chips)
+Seat 7: Ruocci111 (1652 in chips)
+Seat 8: salonteskis (3016 in chips)
+Seat 9: mrGR13caldi9 (9495 in chips)
+ollikahn23: posts the ante 10
+Alberto0629: posts the ante 10
+Jbiancolini: posts the ante 10
+rsalmeida: posts the ante 10
+pokerstg: posts the ante 10
+Ruocci111: posts the ante 10
+salonteskis: posts the ante 10
+mrGR13caldi9: posts the ante 10
+Jbiancolini: posts small blind 40
+rsalmeida: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kc Qh]
+pokerstg: folds
+Ruocci111: calls 80
+salonteskis: raises 240 to 320
+mrGR13caldi9: folds
+ollikahn23: folds
+Alberto0629: folds
+Jbiancolini: folds
+rsalmeida: folds
+Ruocci111: calls 240
+*** FLOP *** [3h 3c Jh]
+Ruocci111: checks
+salonteskis: bets 220
+Ruocci111: folds
+Uncalled bet (220) returned to salonteskis
+salonteskis collected 840 from pot
+salonteskis: doesn't show hand
+*** SUMMARY ***
+Total pot 840 | Rake 0
+Board [3h 3c Jh]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: Alberto0629 (button) folded before Flop (didn't bet)
+Seat 3: Jbiancolini (small blind) folded before Flop
+Seat 4: rsalmeida (big blind) folded before Flop
+Seat 5: pokerstg folded before Flop (didn't bet)
+Seat 7: Ruocci111 folded on the Flop
+Seat 8: salonteskis collected (840)
+Seat 9: mrGR13caldi9 folded before Flop (didn't bet)
+
+
+PokerStars Hand #181923990968: Tournament #2203840083, $10+$1 USD Hold'em No Limit - Level V (40/80) - 2018/02/02 17:48:43 ET
+Table '2203840083 18' 9-max Seat #3 is the button
+Seat 1: ollikahn23 (2410 in chips)
+Seat 2: Alberto0629 (3710 in chips)
+Seat 3: Jbiancolini (4464 in chips)
+Seat 4: rsalmeida (5735 in chips)
+Seat 5: pokerstg (2781 in chips)
+Seat 6: Dimson_spb (3000 in chips)
+Seat 7: Ruocci111 (1322 in chips)
+Seat 8: salonteskis (3526 in chips)
+Seat 9: mrGR13caldi9 (9485 in chips)
+ollikahn23: posts the ante 10
+Alberto0629: posts the ante 10
+Jbiancolini: posts the ante 10
+rsalmeida: posts the ante 10
+pokerstg: posts the ante 10
+Dimson_spb: posts the ante 10
+Ruocci111: posts the ante 10
+salonteskis: posts the ante 10
+mrGR13caldi9: posts the ante 10
+rsalmeida: posts small blind 40
+pokerstg: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7c 7h]
+Dimson_spb: folds
+Ruocci111: calls 80
+salonteskis: folds
+mrGR13caldi9: folds
+ollikahn23: raises 145 to 225
+Alberto0629: folds
+Jbiancolini: folds
+rsalmeida: folds
+pokerstg: folds
+Ruocci111: raises 335 to 560
+ollikahn23: folds
+Uncalled bet (335) returned to Ruocci111
+Ruocci111 collected 660 from pot
+Ruocci111: doesn't show hand
+*** SUMMARY ***
+Total pot 660 | Rake 0
+Seat 1: ollikahn23 folded before Flop
+Seat 2: Alberto0629 folded before Flop (didn't bet)
+Seat 3: Jbiancolini (button) folded before Flop (didn't bet)
+Seat 4: rsalmeida (small blind) folded before Flop
+Seat 5: pokerstg (big blind) folded before Flop
+Seat 6: Dimson_spb folded before Flop (didn't bet)
+Seat 7: Ruocci111 collected (660)
+Seat 8: salonteskis folded before Flop (didn't bet)
+Seat 9: mrGR13caldi9 folded before Flop (didn't bet)
+
+
+PokerStars Hand #181924066501: Tournament #2203840083, $10+$1 USD Hold'em No Limit - Level V (40/80) - 2018/02/02 17:50:11 ET
+Table '2203840083 18' 9-max Seat #4 is the button
+Seat 1: ollikahn23 (2175 in chips)
+Seat 2: Alberto0629 (3700 in chips)
+Seat 3: Jbiancolini (4454 in chips)
+Seat 4: rsalmeida (5685 in chips)
+Seat 5: pokerstg (2691 in chips)
+Seat 6: Dimson_spb (2990 in chips)
+Seat 7: Ruocci111 (1747 in chips)
+Seat 8: salonteskis (3516 in chips)
+Seat 9: mrGR13caldi9 (9475 in chips)
+ollikahn23: posts the ante 10
+Alberto0629: posts the ante 10
+Jbiancolini: posts the ante 10
+rsalmeida: posts the ante 10
+pokerstg: posts the ante 10
+Dimson_spb: posts the ante 10
+Ruocci111: posts the ante 10
+salonteskis: posts the ante 10
+mrGR13caldi9: posts the ante 10
+pokerstg: posts small blind 40
+Dimson_spb: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4d 4s]
+Ruocci111: folds
+salonteskis: folds
+mrGR13caldi9: folds
+ollikahn23: raises 85 to 165
+Alberto0629: calls 165
+Jbiancolini: folds
+rsalmeida: calls 165
+pokerstg: folds
+Dimson_spb: calls 85
+*** FLOP *** [Ac Td Kh]
+Dimson_spb: checks
+ollikahn23: checks
+Alberto0629: bets 480
+rsalmeida: folds
+Dimson_spb: folds
+ollikahn23: folds
+Uncalled bet (480) returned to Alberto0629
+Alberto0629 collected 790 from pot
+Alberto0629: doesn't show hand
+*** SUMMARY ***
+Total pot 790 | Rake 0
+Board [Ac Td Kh]
+Seat 1: ollikahn23 folded on the Flop
+Seat 2: Alberto0629 collected (790)
+Seat 3: Jbiancolini folded before Flop (didn't bet)
+Seat 4: rsalmeida (button) folded on the Flop
+Seat 5: pokerstg (small blind) folded before Flop
+Seat 6: Dimson_spb (big blind) folded on the Flop
+Seat 7: Ruocci111 folded before Flop (didn't bet)
+Seat 8: salonteskis folded before Flop (didn't bet)
+Seat 9: mrGR13caldi9 folded before Flop (didn't bet)
+
+
+PokerStars Hand #181924133468: Tournament #2203840083, $10+$1 USD Hold'em No Limit - Level VI (50/100) - 2018/02/02 17:51:21 ET
+Table '2203840083 18' 9-max Seat #5 is the button
+Seat 1: ollikahn23 (2000 in chips)
+Seat 2: Alberto0629 (4315 in chips)
+Seat 3: Jbiancolini (4444 in chips)
+Seat 4: rsalmeida (5510 in chips)
+Seat 5: pokerstg (2641 in chips)
+Seat 6: Dimson_spb (2815 in chips)
+Seat 7: Ruocci111 (1737 in chips)
+Seat 8: salonteskis (3506 in chips)
+Seat 9: mrGR13caldi9 (9465 in chips)
+ollikahn23: posts the ante 12
+Alberto0629: posts the ante 12
+Jbiancolini: posts the ante 12
+rsalmeida: posts the ante 12
+pokerstg: posts the ante 12
+Dimson_spb: posts the ante 12
+Ruocci111: posts the ante 12
+salonteskis: posts the ante 12
+mrGR13caldi9: posts the ante 12
+Dimson_spb: posts small blind 50
+Ruocci111: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9d 3h]
+salonteskis: folds
+mrGR13caldi9: folds
+ollikahn23: folds
+Alberto0629: folds
+Jbiancolini: folds
+rsalmeida: folds
+pokerstg: folds
+Dimson_spb: raises 2703 to 2803 and is all-in
+Ruocci111: folds
+Uncalled bet (2703) returned to Dimson_spb
+Dimson_spb collected 308 from pot
+Dimson_spb: doesn't show hand
+Ruocci111 said, "drecks oli warum foldest du"
+*** SUMMARY ***
+Total pot 308 | Rake 0
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: Alberto0629 folded before Flop (didn't bet)
+Seat 3: Jbiancolini folded before Flop (didn't bet)
+Seat 4: rsalmeida folded before Flop (didn't bet)
+Seat 5: pokerstg (button) folded before Flop (didn't bet)
+Seat 6: Dimson_spb (small blind) collected (308)
+Seat 7: Ruocci111 (big blind) folded before Flop
+Seat 8: salonteskis folded before Flop (didn't bet)
+Seat 9: mrGR13caldi9 folded before Flop (didn't bet)
+
+
+PokerStars Hand #181924150582: Tournament #2203840083, $10+$1 USD Hold'em No Limit - Level VI (50/100) - 2018/02/02 17:51:41 ET
+Table '2203840083 18' 9-max Seat #6 is the button
+Seat 1: ollikahn23 (1988 in chips)
+Seat 2: Alberto0629 (4303 in chips)
+Seat 3: Jbiancolini (4432 in chips)
+Seat 4: rsalmeida (5498 in chips)
+Seat 5: pokerstg (2629 in chips)
+Seat 6: Dimson_spb (3011 in chips)
+Seat 7: Ruocci111 (1625 in chips)
+Seat 8: salonteskis (3494 in chips)
+Seat 9: mrGR13caldi9 (9453 in chips)
+ollikahn23: posts the ante 12
+Alberto0629: posts the ante 12
+Jbiancolini: posts the ante 12
+rsalmeida: posts the ante 12
+pokerstg: posts the ante 12
+Dimson_spb: posts the ante 12
+Ruocci111: posts the ante 12
+salonteskis: posts the ante 12
+mrGR13caldi9: posts the ante 12
+Ruocci111: posts small blind 50
+salonteskis: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qc 9d]
+mrGR13caldi9: folds
+ollikahn23: folds
+Alberto0629: folds
+Jbiancolini: folds
+rsalmeida: folds
+pokerstg: folds
+Dimson_spb: folds
+Ruocci111: folds
+Uncalled bet (50) returned to salonteskis
+salonteskis collected 208 from pot
+salonteskis: doesn't show hand
+*** SUMMARY ***
+Total pot 208 | Rake 0
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: Alberto0629 folded before Flop (didn't bet)
+Seat 3: Jbiancolini folded before Flop (didn't bet)
+Seat 4: rsalmeida folded before Flop (didn't bet)
+Seat 5: pokerstg folded before Flop (didn't bet)
+Seat 6: Dimson_spb (button) folded before Flop (didn't bet)
+Seat 7: Ruocci111 (small blind) folded before Flop
+Seat 8: salonteskis (big blind) collected (208)
+Seat 9: mrGR13caldi9 folded before Flop (didn't bet)
+
+
+PokerStars Hand #181924168993: Tournament #2203840083, $10+$1 USD Hold'em No Limit - Level VI (50/100) - 2018/02/02 17:52:02 ET
+Table '2203840083 18' 9-max Seat #7 is the button
+Seat 1: ollikahn23 (1976 in chips)
+Seat 2: Alberto0629 (4291 in chips)
+Seat 3: Jbiancolini (4420 in chips)
+Seat 4: rsalmeida (5486 in chips)
+Seat 5: pokerstg (2617 in chips)
+Seat 6: Dimson_spb (2999 in chips)
+Seat 7: Ruocci111 (1563 in chips)
+Seat 8: salonteskis (3640 in chips)
+Seat 9: mrGR13caldi9 (9441 in chips)
+ollikahn23: posts the ante 12
+Alberto0629: posts the ante 12
+Jbiancolini: posts the ante 12
+rsalmeida: posts the ante 12
+pokerstg: posts the ante 12
+Dimson_spb: posts the ante 12
+Ruocci111: posts the ante 12
+salonteskis: posts the ante 12
+mrGR13caldi9: posts the ante 12
+salonteskis: posts small blind 50
+mrGR13caldi9: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7c Jd]
+ollikahn23: folds
+Alberto0629: folds
+Jbiancolini: raises 109 to 209
+rsalmeida: folds
+pokerstg: folds
+Dimson_spb: folds
+Ruocci111: folds
+ollikahn23 said, "aaaah.. ein oliver kahn riecht ne falle auf 200 meter"
+salonteskis: folds
+mrGR13caldi9: folds
+Uncalled bet (109) returned to Jbiancolini
+Jbiancolini collected 358 from pot
+*** SUMMARY ***
+Total pot 358 | Rake 0
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: Alberto0629 folded before Flop (didn't bet)
+Seat 3: Jbiancolini collected (358)
+Seat 4: rsalmeida folded before Flop (didn't bet)
+Seat 5: pokerstg folded before Flop (didn't bet)
+Seat 6: Dimson_spb folded before Flop (didn't bet)
+Seat 7: Ruocci111 (button) folded before Flop (didn't bet)
+Seat 8: salonteskis (small blind) folded before Flop
+Seat 9: mrGR13caldi9 (big blind) folded before Flop
+
+
+PokerStars Hand #181924190832: Tournament #2203840083, $10+$1 USD Hold'em No Limit - Level VI (50/100) - 2018/02/02 17:52:28 ET
+Table '2203840083 18' 9-max Seat #8 is the button
+Seat 1: ollikahn23 (1964 in chips)
+Seat 2: Alberto0629 (4279 in chips)
+Seat 3: Jbiancolini (4666 in chips)
+Seat 4: rsalmeida (5474 in chips)
+Seat 5: pokerstg (2605 in chips)
+Seat 6: Dimson_spb (2987 in chips)
+Seat 7: Ruocci111 (1551 in chips)
+Seat 8: salonteskis (3578 in chips)
+Seat 9: mrGR13caldi9 (9329 in chips)
+ollikahn23: posts the ante 12
+Alberto0629: posts the ante 12
+Jbiancolini: posts the ante 12
+rsalmeida: posts the ante 12
+pokerstg: posts the ante 12
+Dimson_spb: posts the ante 12
+Ruocci111: posts the ante 12
+salonteskis: posts the ante 12
+mrGR13caldi9: posts the ante 12
+mrGR13caldi9: posts small blind 50
+ollikahn23: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3s 2d]
+Alberto0629: folds
+Jbiancolini: folds
+rsalmeida: raises 150 to 250
+pokerstg: folds
+Ruocci111 said, "haha"
+Dimson_spb: folds
+Ruocci111: folds
+salonteskis: folds
+mrGR13caldi9: folds
+Ruocci111 said, "was hattest du?"
+ollikahn23: folds
+Uncalled bet (150) returned to rsalmeida
+rsalmeida collected 358 from pot
+rsalmeida: doesn't show hand
+*** SUMMARY ***
+Total pot 358 | Rake 0
+Seat 1: ollikahn23 (big blind) folded before Flop
+Seat 2: Alberto0629 folded before Flop (didn't bet)
+Seat 3: Jbiancolini folded before Flop (didn't bet)
+Seat 4: rsalmeida collected (358)
+Seat 5: pokerstg folded before Flop (didn't bet)
+Seat 6: Dimson_spb folded before Flop (didn't bet)
+Seat 7: Ruocci111 folded before Flop (didn't bet)
+Seat 8: salonteskis (button) folded before Flop (didn't bet)
+Seat 9: mrGR13caldi9 (small blind) folded before Flop
+
+
+PokerStars Hand #181924222382: Tournament #2203840083, $10+$1 USD Hold'em No Limit - Level VI (50/100) - 2018/02/02 17:53:05 ET
+Table '2203840083 18' 9-max Seat #9 is the button
+Seat 1: ollikahn23 (1852 in chips)
+Seat 2: Alberto0629 (4267 in chips)
+Seat 3: Jbiancolini (4654 in chips)
+Seat 4: rsalmeida (5720 in chips)
+Seat 5: pokerstg (2593 in chips)
+Seat 6: Dimson_spb (2975 in chips)
+Seat 7: Ruocci111 (1539 in chips)
+Seat 8: salonteskis (3566 in chips)
+Seat 9: mrGR13caldi9 (9267 in chips)
+ollikahn23: posts the ante 12
+Alberto0629: posts the ante 12
+Jbiancolini: posts the ante 12
+rsalmeida: posts the ante 12
+pokerstg: posts the ante 12
+Dimson_spb: posts the ante 12
+Ruocci111: posts the ante 12
+salonteskis: posts the ante 12
+mrGR13caldi9: posts the ante 12
+ollikahn23: posts small blind 50
+Alberto0629: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jh Qs]
+ollikahn23 said, "77"
+Ruocci111 said, "schwierig aber 300 zu folden mit jeder hand"
+Ruocci111 said, "oke, ja dann guter fold"
+Jbiancolini: folds
+rsalmeida: folds
+ollikahn23 said, "thx"
+Ruocci111 said, "kk"
+pokerstg: folds
+ollikahn23 said, "n1"
+Dimson_spb: folds
+Ruocci111: folds
+salonteskis: folds
+mrGR13caldi9: folds
+ollikahn23: raises 110 to 210
+Alberto0629: calls 110
+*** FLOP *** [6d Qc Qh]
+ollikahn23: bets 250
+Alberto0629: folds
+Uncalled bet (250) returned to ollikahn23
+ollikahn23 collected 528 from pot
+ollikahn23: doesn't show hand
+*** SUMMARY ***
+Total pot 528 | Rake 0
+Board [6d Qc Qh]
+Seat 1: ollikahn23 (small blind) collected (528)
+Seat 2: Alberto0629 (big blind) folded on the Flop
+Seat 3: Jbiancolini folded before Flop (didn't bet)
+Seat 4: rsalmeida folded before Flop (didn't bet)
+Seat 5: pokerstg folded before Flop (didn't bet)
+Seat 6: Dimson_spb folded before Flop (didn't bet)
+Seat 7: Ruocci111 folded before Flop (didn't bet)
+Seat 8: salonteskis folded before Flop (didn't bet)
+Seat 9: mrGR13caldi9 (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #181924290846: Tournament #2203840083, $10+$1 USD Hold'em No Limit - Level VI (50/100) - 2018/02/02 17:54:25 ET
+Table '2203840083 18' 9-max Seat #1 is the button
+Seat 1: ollikahn23 (2158 in chips)
+Seat 2: Alberto0629 (4045 in chips)
+Seat 3: Jbiancolini (4642 in chips)
+Seat 4: rsalmeida (5708 in chips)
+Seat 5: pokerstg (2581 in chips)
+Seat 6: Dimson_spb (2963 in chips)
+Seat 7: Ruocci111 (1527 in chips)
+Seat 8: salonteskis (3554 in chips)
+Seat 9: mrGR13caldi9 (9255 in chips)
+ollikahn23: posts the ante 12
+Alberto0629: posts the ante 12
+Jbiancolini: posts the ante 12
+rsalmeida: posts the ante 12
+pokerstg: posts the ante 12
+Dimson_spb: posts the ante 12
+Ruocci111: posts the ante 12
+salonteskis: posts the ante 12
+mrGR13caldi9: posts the ante 12
+Alberto0629: posts small blind 50
+Jbiancolini: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5h 9h]
+rsalmeida: folds
+pokerstg: raises 100 to 200
+Dimson_spb: folds
+Ruocci111: folds
+salonteskis: folds
+mrGR13caldi9: folds
+ollikahn23: folds
+Alberto0629: calls 150
+Jbiancolini: calls 100
+*** FLOP *** [5d Kc Tc]
+Alberto0629: checks
+Jbiancolini: checks
+pokerstg: bets 300
+Alberto0629: folds
+Jbiancolini: folds
+Uncalled bet (300) returned to pokerstg
+pokerstg collected 708 from pot
+pokerstg: doesn't show hand
+*** SUMMARY ***
+Total pot 708 | Rake 0
+Board [5d Kc Tc]
+Seat 1: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 2: Alberto0629 (small blind) folded on the Flop
+Seat 3: Jbiancolini (big blind) folded on the Flop
+Seat 4: rsalmeida folded before Flop (didn't bet)
+Seat 5: pokerstg collected (708)
+Seat 6: Dimson_spb folded before Flop (didn't bet)
+Seat 7: Ruocci111 folded before Flop (didn't bet)
+Seat 8: salonteskis folded before Flop (didn't bet)
+Seat 9: mrGR13caldi9 folded before Flop (didn't bet)
+
+
+PokerStars Hand #181924609605: Tournament #2203840083, $10+$1 USD Hold'em No Limit - Level VI (50/100) - 2018/02/02 18:01:47 ET
+Table '2203840083 18' 9-max Seat #2 is the button
+Seat 1: ollikahn23 (2146 in chips)
+Seat 2: Alberto0629 (3833 in chips)
+Seat 3: Jbiancolini (4430 in chips)
+Seat 4: kubus08 (3000 in chips)
+Seat 5: pokerstg (3077 in chips)
+Seat 6: Dimson_spb (2951 in chips)
+Seat 7: Pokstarman (3000 in chips)
+Seat 8: salonteskis (3542 in chips)
+Seat 9: mrGR13caldi9 (9243 in chips)
+ollikahn23: posts the ante 12
+Alberto0629: posts the ante 12
+Jbiancolini: posts the ante 12
+kubus08: posts the ante 12
+pokerstg: posts the ante 12
+Dimson_spb: posts the ante 12
+Pokstarman: posts the ante 12
+salonteskis: posts the ante 12
+mrGR13caldi9: posts the ante 12
+Jbiancolini: posts small blind 50
+kubus08: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4s 9c]
+pokerstg: folds
+Dimson_spb: folds
+Pokstarman: folds
+salonteskis: raises 117 to 217
+mrGR13caldi9: folds
+ollikahn23: folds
+Alberto0629: calls 217
+Jbiancolini: folds
+kubus08: folds
+*** FLOP *** [3d Tc 2c]
+salonteskis: bets 252
+Alberto0629: calls 252
+*** TURN *** [3d Tc 2c] [Qd]
+salonteskis: bets 740
+Alberto0629: raises 1060 to 1800
+salonteskis: folds
+Uncalled bet (1060) returned to Alberto0629
+Alberto0629 collected 2676 from pot
+Alberto0629: doesn't show hand
+*** SUMMARY ***
+Total pot 2676 | Rake 0
+Board [3d Tc 2c Qd]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: Alberto0629 (button) collected (2676)
+Seat 3: Jbiancolini (small blind) folded before Flop
+Seat 4: kubus08 (big blind) folded before Flop
+Seat 5: pokerstg folded before Flop (didn't bet)
+Seat 6: Dimson_spb folded before Flop (didn't bet)
+Seat 7: Pokstarman folded before Flop (didn't bet)
+Seat 8: salonteskis folded on the Turn
+Seat 9: mrGR13caldi9 folded before Flop (didn't bet)
+
+
+PokerStars Hand #181924713523: Tournament #2203840083, $10+$1 USD Hold'em No Limit - Level VI (50/100) - 2018/02/02 18:03:52 ET
+Table '2203840083 18' 9-max Seat #3 is the button
+Seat 1: ollikahn23 (2134 in chips)
+Seat 2: Alberto0629 (5288 in chips)
+Seat 3: Jbiancolini (4368 in chips)
+Seat 4: kubus08 (2888 in chips)
+Seat 5: pokerstg (3065 in chips)
+Seat 6: Dimson_spb (2939 in chips)
+Seat 7: Pokstarman (2988 in chips)
+Seat 8: salonteskis (2321 in chips)
+Seat 9: mrGR13caldi9 (9231 in chips)
+ollikahn23: posts the ante 12
+Alberto0629: posts the ante 12
+Jbiancolini: posts the ante 12
+kubus08: posts the ante 12
+pokerstg: posts the ante 12
+Dimson_spb: posts the ante 12
+Pokstarman: posts the ante 12
+salonteskis: posts the ante 12
+mrGR13caldi9: posts the ante 12
+kubus08: posts small blind 50
+pokerstg: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6c 6h]
+Dimson_spb: folds
+Pokstarman: raises 100 to 200
+salonteskis: folds
+mrGR13caldi9: folds
+ollikahn23: calls 200
+Alberto0629: folds
+Jbiancolini: folds
+kubus08: folds
+pokerstg: calls 100
+*** FLOP *** [Th Kd 4d]
+pokerstg: checks
+Pokstarman: checks
+ollikahn23: bets 285
+pokerstg: folds
+Pokstarman: calls 285
+*** TURN *** [Th Kd 4d] [Qd]
+Pokstarman: checks
+Alberto0629 is disconnected
+ollikahn23: checks
+*** RIVER *** [Th Kd 4d Qd] [Tc]
+Pokstarman: bets 700
+ollikahn23: folds
+Uncalled bet (700) returned to Pokstarman
+Pokstarman collected 1328 from pot
+*** SUMMARY ***
+Total pot 1328 | Rake 0
+Board [Th Kd 4d Qd Tc]
+Seat 1: ollikahn23 folded on the River
+Seat 2: Alberto0629 folded before Flop (didn't bet)
+Seat 3: Jbiancolini (button) folded before Flop (didn't bet)
+Seat 4: kubus08 (small blind) folded before Flop
+Seat 5: pokerstg (big blind) folded on the Flop
+Seat 6: Dimson_spb folded before Flop (didn't bet)
+Seat 7: Pokstarman collected (1328)
+Seat 8: salonteskis folded before Flop (didn't bet)
+Seat 9: mrGR13caldi9 folded before Flop (didn't bet)
+
+
+PokerStars Hand #181924834751: Tournament #2203840083, $10+$1 USD Hold'em No Limit - Level VI (50/100) - 2018/02/02 18:06:16 ET
+Table '2203840083 18' 9-max Seat #4 is the button
+Seat 1: ollikahn23 (1637 in chips)
+Seat 2: Alberto0629 (5276 in chips)
+Seat 3: Jbiancolini (4356 in chips)
+Seat 4: kubus08 (2826 in chips)
+Seat 5: pokerstg (2853 in chips)
+Seat 6: Dimson_spb (2927 in chips)
+Seat 7: Pokstarman (3819 in chips)
+Seat 8: salonteskis (2309 in chips)
+Seat 9: mrGR13caldi9 (9219 in chips)
+ollikahn23: posts the ante 12
+Alberto0629: posts the ante 12
+Jbiancolini: posts the ante 12
+kubus08: posts the ante 12
+pokerstg: posts the ante 12
+Dimson_spb: posts the ante 12
+Pokstarman: posts the ante 12
+salonteskis: posts the ante 12
+mrGR13caldi9: posts the ante 12
+pokerstg: posts small blind 50
+Dimson_spb: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3d Kh]
+Pokstarman: folds
+salonteskis: folds
+mrGR13caldi9: folds
+ollikahn23: folds
+Alberto0629: raises 358 to 458
+Jbiancolini: folds
+kubus08: folds
+pokerstg: folds
+Dimson_spb: folds
+Uncalled bet (358) returned to Alberto0629
+Alberto0629 collected 358 from pot
+Alberto0629: doesn't show hand
+*** SUMMARY ***
+Total pot 358 | Rake 0
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: Alberto0629 collected (358)
+Seat 3: Jbiancolini folded before Flop (didn't bet)
+Seat 4: kubus08 (button) folded before Flop (didn't bet)
+Seat 5: pokerstg (small blind) folded before Flop
+Seat 6: Dimson_spb (big blind) folded before Flop
+Seat 7: Pokstarman folded before Flop (didn't bet)
+Seat 8: salonteskis folded before Flop (didn't bet)
+Seat 9: mrGR13caldi9 folded before Flop (didn't bet)
+
+
+PokerStars Hand #181924868874: Tournament #2203840083, $10+$1 USD Hold'em No Limit - Level VI (50/100) - 2018/02/02 18:06:56 ET
+Table '2203840083 18' 9-max Seat #5 is the button
+Seat 1: ollikahn23 (1625 in chips)
+Seat 2: Alberto0629 (5522 in chips)
+Seat 3: Jbiancolini (4344 in chips)
+Seat 4: kubus08 (2814 in chips)
+Seat 5: pokerstg (2791 in chips)
+Seat 6: Dimson_spb (2815 in chips)
+Seat 7: Pokstarman (3807 in chips)
+Seat 8: salonteskis (2297 in chips)
+Seat 9: mrGR13caldi9 (9207 in chips)
+ollikahn23: posts the ante 12
+Alberto0629: posts the ante 12
+Jbiancolini: posts the ante 12
+kubus08: posts the ante 12
+pokerstg: posts the ante 12
+Dimson_spb: posts the ante 12
+Pokstarman: posts the ante 12
+salonteskis: posts the ante 12
+mrGR13caldi9: posts the ante 12
+Dimson_spb: posts small blind 50
+Pokstarman: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5s 7s]
+salonteskis: folds
+mrGR13caldi9: folds
+ollikahn23: folds
+Alberto0629: folds
+Jbiancolini: folds
+kubus08: folds
+pokerstg: raises 150 to 250
+Dimson_spb: folds
+Pokstarman: raises 950 to 1200
+pokerstg: raises 1579 to 2779 and is all-in
+Pokstarman: calls 1579
+*** FLOP *** [Qs 2s 7h]
+*** TURN *** [Qs 2s 7h] [6d]
+*** RIVER *** [Qs 2s 7h 6d] [5d]
+*** SHOW DOWN ***
+Pokstarman: shows [Ah Kc] (high card Ace)
+pokerstg: shows [Qc Ks] (a pair of Queens)
+pokerstg collected 5716 from pot
+*** SUMMARY ***
+Total pot 5716 | Rake 0
+Board [Qs 2s 7h 6d 5d]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: Alberto0629 folded before Flop (didn't bet)
+Seat 3: Jbiancolini folded before Flop (didn't bet)
+Seat 4: kubus08 folded before Flop (didn't bet)
+Seat 5: pokerstg (button) showed [Qc Ks] and won (5716) with a pair of Queens
+Seat 6: Dimson_spb (small blind) folded before Flop
+Seat 7: Pokstarman (big blind) showed [Ah Kc] and lost with high card Ace
+Seat 8: salonteskis folded before Flop (didn't bet)
+Seat 9: mrGR13caldi9 folded before Flop (didn't bet)
+
+
+PokerStars Hand #181924931674: Tournament #2203840083, $10+$1 USD Hold'em No Limit - Level VII (75/150) - 2018/02/02 18:08:10 ET
+Table '2203840083 18' 9-max Seat #6 is the button
+Seat 1: ollikahn23 (1613 in chips)
+Seat 2: Alberto0629 (5510 in chips)
+Seat 3: Jbiancolini (4332 in chips)
+Seat 4: kubus08 (2802 in chips)
+Seat 5: pokerstg (5716 in chips)
+Seat 6: Dimson_spb (2753 in chips)
+Seat 7: Pokstarman (1016 in chips)
+Seat 8: salonteskis (2285 in chips)
+Seat 9: mrGR13caldi9 (9195 in chips)
+ollikahn23: posts the ante 20
+Alberto0629: posts the ante 20
+Jbiancolini: posts the ante 20
+kubus08: posts the ante 20
+pokerstg: posts the ante 20
+Dimson_spb: posts the ante 20
+Pokstarman: posts the ante 20
+salonteskis: posts the ante 20
+mrGR13caldi9: posts the ante 20
+Pokstarman: posts small blind 75
+salonteskis: posts big blind 150
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5h 9d]
+mrGR13caldi9: folds
+ollikahn23: folds
+Alberto0629: folds
+Jbiancolini: folds
+kubus08: raises 555 to 705
+pokerstg: folds
+Dimson_spb: folds
+Pokstarman: folds
+salonteskis: folds
+Uncalled bet (555) returned to kubus08
+kubus08 collected 555 from pot
+kubus08: doesn't show hand
+*** SUMMARY ***
+Total pot 555 | Rake 0
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: Alberto0629 folded before Flop (didn't bet)
+Seat 3: Jbiancolini folded before Flop (didn't bet)
+Seat 4: kubus08 collected (555)
+Seat 5: pokerstg folded before Flop (didn't bet)
+Seat 6: Dimson_spb (button) folded before Flop (didn't bet)
+Seat 7: Pokstarman (small blind) folded before Flop
+Seat 8: salonteskis (big blind) folded before Flop
+Seat 9: mrGR13caldi9 folded before Flop (didn't bet)
+
+
+PokerStars Hand #181924982431: Tournament #2203840083, $10+$1 USD Hold'em No Limit - Level VII (75/150) - 2018/02/02 18:09:11 ET
+Table '2203840083 18' 9-max Seat #7 is the button
+Seat 1: ollikahn23 (1593 in chips)
+Seat 2: Alberto0629 (5490 in chips)
+Seat 3: Jbiancolini (4312 in chips)
+Seat 4: kubus08 (3187 in chips)
+Seat 5: pokerstg (5696 in chips)
+Seat 6: Dimson_spb (2733 in chips)
+Seat 7: Pokstarman (921 in chips)
+Seat 8: salonteskis (2115 in chips)
+Seat 9: mrGR13caldi9 (9175 in chips)
+ollikahn23: posts the ante 20
+Alberto0629: posts the ante 20
+Jbiancolini: posts the ante 20
+kubus08: posts the ante 20
+pokerstg: posts the ante 20
+Dimson_spb: posts the ante 20
+Pokstarman: posts the ante 20
+salonteskis: posts the ante 20
+mrGR13caldi9: posts the ante 20
+salonteskis: posts small blind 75
+mrGR13caldi9: posts big blind 150
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3h 3d]
+ollikahn23: folds
+Alberto0629: raises 300 to 450
+Jbiancolini: folds
+kubus08: folds
+pokerstg: folds
+Dimson_spb: folds
+Pokstarman: folds
+salonteskis: folds
+mrGR13caldi9: folds
+Uncalled bet (300) returned to Alberto0629
+Alberto0629 collected 555 from pot
+Alberto0629: doesn't show hand
+*** SUMMARY ***
+Total pot 555 | Rake 0
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: Alberto0629 collected (555)
+Seat 3: Jbiancolini folded before Flop (didn't bet)
+Seat 4: kubus08 folded before Flop (didn't bet)
+Seat 5: pokerstg folded before Flop (didn't bet)
+Seat 6: Dimson_spb folded before Flop (didn't bet)
+Seat 7: Pokstarman (button) folded before Flop (didn't bet)
+Seat 8: salonteskis (small blind) folded before Flop
+Seat 9: mrGR13caldi9 (big blind) folded before Flop
+
+
+PokerStars Hand #181925026855: Tournament #2203840083, $10+$1 USD Hold'em No Limit - Level VII (75/150) - 2018/02/02 18:10:05 ET
+Table '2203840083 18' 9-max Seat #8 is the button
+Seat 1: ollikahn23 (1573 in chips)
+Seat 2: Alberto0629 (5875 in chips)
+Seat 3: Jbiancolini (4292 in chips)
+Seat 4: kubus08 (3167 in chips)
+Seat 5: pokerstg (5676 in chips)
+Seat 6: Dimson_spb (2713 in chips)
+Seat 7: Pokstarman (901 in chips)
+Seat 8: salonteskis (2020 in chips)
+Seat 9: mrGR13caldi9 (9005 in chips)
+ollikahn23: posts the ante 20
+Alberto0629: posts the ante 20
+Jbiancolini: posts the ante 20
+kubus08: posts the ante 20
+pokerstg: posts the ante 20
+Dimson_spb: posts the ante 20
+Pokstarman: posts the ante 20
+salonteskis: posts the ante 20
+mrGR13caldi9: posts the ante 20
+mrGR13caldi9: posts small blind 75
+ollikahn23: posts big blind 150
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8c 3c]
+Alberto0629: folds
+Jbiancolini: raises 163 to 313
+kubus08: folds
+pokerstg: folds
+Dimson_spb: folds
+Pokstarman: raises 568 to 881 and is all-in
+salonteskis: folds
+mrGR13caldi9: folds
+ollikahn23: folds
+Jbiancolini: calls 568
+*** FLOP *** [3d Jd Ac]
+*** TURN *** [3d Jd Ac] [Jh]
+*** RIVER *** [3d Jd Ac Jh] [3s]
+*** SHOW DOWN ***
+Jbiancolini: shows [Ad Th] (two pair, Aces and Jacks)
+Pokstarman: shows [8h As] (two pair, Aces and Jacks - lower kicker)
+Jbiancolini collected 2167 from pot
+Pokstarman finished the tournament
+*** SUMMARY ***
+Total pot 2167 | Rake 0
+Board [3d Jd Ac Jh 3s]
+Seat 1: ollikahn23 (big blind) folded before Flop
+Seat 2: Alberto0629 folded before Flop (didn't bet)
+Seat 3: Jbiancolini showed [Ad Th] and won (2167) with two pair, Aces and Jacks
+Seat 4: kubus08 folded before Flop (didn't bet)
+Seat 5: pokerstg folded before Flop (didn't bet)
+Seat 6: Dimson_spb folded before Flop (didn't bet)
+Seat 7: Pokstarman showed [8h As] and lost with two pair, Aces and Jacks
+Seat 8: salonteskis (button) folded before Flop (didn't bet)
+Seat 9: mrGR13caldi9 (small blind) folded before Flop
+
+
+PokerStars Hand #181925068399: Tournament #2203840083, $10+$1 USD Hold'em No Limit - Level VII (75/150) - 2018/02/02 18:10:56 ET
+Table '2203840083 18' 9-max Seat #9 is the button
+Seat 1: ollikahn23 (1403 in chips)
+Seat 2: Alberto0629 (5855 in chips)
+Seat 3: Jbiancolini (5558 in chips)
+Seat 4: kubus08 (3147 in chips)
+Seat 5: pokerstg (5656 in chips)
+Seat 6: Dimson_spb (2693 in chips)
+Seat 8: salonteskis (2000 in chips)
+Seat 9: mrGR13caldi9 (8910 in chips)
+ollikahn23: posts the ante 20
+Alberto0629: posts the ante 20
+Jbiancolini: posts the ante 20
+kubus08: posts the ante 20
+pokerstg: posts the ante 20
+Dimson_spb: posts the ante 20
+salonteskis: posts the ante 20
+mrGR13caldi9: posts the ante 20
+ollikahn23: posts small blind 75
+Alberto0629: posts big blind 150
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9s Qs]
+Jbiancolini: folds
+kubus08: folds
+pokerstg: raises 150 to 300
+Dimson_spb: folds
+salonteskis: folds
+mrGR13caldi9: folds
+ollikahn23: folds
+Alberto0629: calls 150
+*** FLOP *** [Th 7h 3c]
+Alberto0629: bets 750
+pokerstg: folds
+Uncalled bet (750) returned to Alberto0629
+Alberto0629 collected 835 from pot
+Alberto0629: doesn't show hand
+*** SUMMARY ***
+Total pot 835 | Rake 0
+Board [Th 7h 3c]
+Seat 1: ollikahn23 (small blind) folded before Flop
+Seat 2: Alberto0629 (big blind) collected (835)
+Seat 3: Jbiancolini folded before Flop (didn't bet)
+Seat 4: kubus08 folded before Flop (didn't bet)
+Seat 5: pokerstg folded on the Flop
+Seat 6: Dimson_spb folded before Flop (didn't bet)
+Seat 8: salonteskis folded before Flop (didn't bet)
+Seat 9: mrGR13caldi9 (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #181925101463: Tournament #2203840083, $10+$1 USD Hold'em No Limit - Level VII (75/150) - 2018/02/02 18:11:36 ET
+Table '2203840083 18' 9-max Seat #1 is the button
+Seat 1: ollikahn23 (1308 in chips)
+Seat 2: Alberto0629 (6370 in chips)
+Seat 3: Jbiancolini (5538 in chips)
+Seat 4: kubus08 (3127 in chips)
+Seat 5: pokerstg (5336 in chips)
+Seat 6: Dimson_spb (2673 in chips)
+Seat 8: salonteskis (1980 in chips)
+Seat 9: mrGR13caldi9 (8890 in chips)
+ollikahn23: posts the ante 20
+Alberto0629: posts the ante 20
+Jbiancolini: posts the ante 20
+kubus08: posts the ante 20
+pokerstg: posts the ante 20
+Dimson_spb: posts the ante 20
+salonteskis: posts the ante 20
+mrGR13caldi9: posts the ante 20
+Alberto0629: posts small blind 75
+Jbiancolini: posts big blind 150
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7c Ts]
+kubus08: folds
+pokerstg: folds
+Dimson_spb: folds
+salonteskis: folds
+mrGR13caldi9: folds
+ollikahn23: folds
+Alberto0629: folds
+Uncalled bet (75) returned to Jbiancolini
+Jbiancolini collected 310 from pot
+*** SUMMARY ***
+Total pot 310 | Rake 0
+Seat 1: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 2: Alberto0629 (small blind) folded before Flop
+Seat 3: Jbiancolini (big blind) collected (310)
+Seat 4: kubus08 folded before Flop (didn't bet)
+Seat 5: pokerstg folded before Flop (didn't bet)
+Seat 6: Dimson_spb folded before Flop (didn't bet)
+Seat 8: salonteskis folded before Flop (didn't bet)
+Seat 9: mrGR13caldi9 folded before Flop (didn't bet)
+
+
+PokerStars Hand #181925123080: Tournament #2203840083, $10+$1 USD Hold'em No Limit - Level VII (75/150) - 2018/02/02 18:12:03 ET
+Table '2203840083 18' 9-max Seat #2 is the button
+Seat 1: ollikahn23 (1288 in chips)
+Seat 2: Alberto0629 (6275 in chips)
+Seat 3: Jbiancolini (5753 in chips)
+Seat 4: kubus08 (3107 in chips)
+Seat 5: pokerstg (5316 in chips)
+Seat 6: Dimson_spb (2653 in chips)
+Seat 8: salonteskis (1960 in chips)
+Seat 9: mrGR13caldi9 (8870 in chips)
+ollikahn23: posts the ante 20
+Alberto0629: posts the ante 20
+Jbiancolini: posts the ante 20
+kubus08: posts the ante 20
+pokerstg: posts the ante 20
+Dimson_spb: posts the ante 20
+salonteskis: posts the ante 20
+mrGR13caldi9: posts the ante 20
+Jbiancolini: posts small blind 75
+kubus08: posts big blind 150
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4d 4s]
+pokerstg: folds
+Dimson_spb: folds
+salonteskis: raises 1790 to 1940 and is all-in
+mrGR13caldi9: folds
+ollikahn23: folds
+Alberto0629: folds
+Jbiancolini: folds
+kubus08: folds
+Uncalled bet (1790) returned to salonteskis
+salonteskis collected 535 from pot
+salonteskis: doesn't show hand
+*** SUMMARY ***
+Total pot 535 | Rake 0
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: Alberto0629 (button) folded before Flop (didn't bet)
+Seat 3: Jbiancolini (small blind) folded before Flop
+Seat 4: kubus08 (big blind) folded before Flop
+Seat 5: pokerstg folded before Flop (didn't bet)
+Seat 6: Dimson_spb folded before Flop (didn't bet)
+Seat 8: salonteskis collected (535)
+Seat 9: mrGR13caldi9 folded before Flop (didn't bet)
+
+
+PokerStars Hand #181925154792: Tournament #2203840083, $10+$1 USD Hold'em No Limit - Level VII (75/150) - 2018/02/02 18:12:42 ET
+Table '2203840083 18' 9-max Seat #3 is the button
+Seat 1: ollikahn23 (1268 in chips)
+Seat 2: Alberto0629 (6255 in chips)
+Seat 3: Jbiancolini (5658 in chips)
+Seat 4: kubus08 (2937 in chips)
+Seat 5: pokerstg (5296 in chips)
+Seat 6: Dimson_spb (2633 in chips)
+Seat 7: josi2323 (3000 in chips)
+Seat 8: salonteskis (2325 in chips)
+Seat 9: mrGR13caldi9 (8850 in chips)
+ollikahn23: posts the ante 20
+Alberto0629: posts the ante 20
+Jbiancolini: posts the ante 20
+kubus08: posts the ante 20
+pokerstg: posts the ante 20
+Dimson_spb: posts the ante 20
+josi2323: posts the ante 20
+salonteskis: posts the ante 20
+mrGR13caldi9: posts the ante 20
+kubus08: posts small blind 75
+pokerstg: posts big blind 150
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3h Tc]
+Dimson_spb: folds
+josi2323: folds
+salonteskis: folds
+mrGR13caldi9: raises 225 to 375
+ollikahn23: folds
+Alberto0629: folds
+Jbiancolini: folds
+kubus08: folds
+pokerstg: calls 225
+*** FLOP *** [9c 8c As]
+pokerstg: checks
+mrGR13caldi9: checks
+*** TURN *** [9c 8c As] [8h]
+pokerstg: checks
+mrGR13caldi9: checks
+*** RIVER *** [9c 8c As 8h] [8d]
+pokerstg: checks
+mrGR13caldi9: checks
+*** SHOW DOWN ***
+pokerstg: shows [Qh Jd] (three of a kind, Eights)
+mrGR13caldi9: shows [7d 7s] (a full house, Eights full of Sevens)
+mrGR13caldi9 collected 1005 from pot
+*** SUMMARY ***
+Total pot 1005 | Rake 0
+Board [9c 8c As 8h 8d]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: Alberto0629 folded before Flop (didn't bet)
+Seat 3: Jbiancolini (button) folded before Flop (didn't bet)
+Seat 4: kubus08 (small blind) folded before Flop
+Seat 5: pokerstg (big blind) showed [Qh Jd] and lost with three of a kind, Eights
+Seat 6: Dimson_spb folded before Flop (didn't bet)
+Seat 7: josi2323 folded before Flop (didn't bet)
+Seat 8: salonteskis folded before Flop (didn't bet)
+Seat 9: mrGR13caldi9 showed [7d 7s] and won (1005) with a full house, Eights full of Sevens
+
+
+PokerStars Hand #181925226543: Tournament #2203840083, $10+$1 USD Hold'em No Limit - Level VII (75/150) - 2018/02/02 18:14:09 ET
+Table '2203840083 18' 9-max Seat #4 is the button
+Seat 1: ollikahn23 (1248 in chips)
+Seat 2: Alberto0629 (6235 in chips)
+Seat 3: Jbiancolini (5638 in chips)
+Seat 4: kubus08 (2842 in chips)
+Seat 5: pokerstg (4901 in chips)
+Seat 6: Dimson_spb (2613 in chips)
+Seat 7: josi2323 (2980 in chips)
+Seat 8: salonteskis (2305 in chips)
+Seat 9: mrGR13caldi9 (9460 in chips)
+ollikahn23: posts the ante 20
+Alberto0629: posts the ante 20
+Jbiancolini: posts the ante 20
+kubus08: posts the ante 20
+pokerstg: posts the ante 20
+Dimson_spb: posts the ante 20
+josi2323: posts the ante 20
+salonteskis: posts the ante 20
+mrGR13caldi9: posts the ante 20
+pokerstg: posts small blind 75
+Dimson_spb: posts big blind 150
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Js 9d]
+josi2323: folds
+salonteskis: folds
+mrGR13caldi9: folds
+ollikahn23: folds
+Alberto0629: raises 300 to 450
+Jbiancolini: folds
+kubus08: folds
+pokerstg: folds
+Dimson_spb: folds
+Uncalled bet (300) returned to Alberto0629
+Alberto0629 collected 555 from pot
+Alberto0629: doesn't show hand
+*** SUMMARY ***
+Total pot 555 | Rake 0
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: Alberto0629 collected (555)
+Seat 3: Jbiancolini folded before Flop (didn't bet)
+Seat 4: kubus08 (button) folded before Flop (didn't bet)
+Seat 5: pokerstg (small blind) folded before Flop
+Seat 6: Dimson_spb (big blind) folded before Flop
+Seat 7: josi2323 folded before Flop (didn't bet)
+Seat 8: salonteskis folded before Flop (didn't bet)
+Seat 9: mrGR13caldi9 folded before Flop (didn't bet)
+
+
+PokerStars Hand #181925253867: Tournament #2203840083, $10+$1 USD Hold'em No Limit - Level VII (75/150) - 2018/02/02 18:14:43 ET
+Table '2203840083 18' 9-max Seat #5 is the button
+Seat 1: ollikahn23 (1228 in chips)
+Seat 2: Alberto0629 (6620 in chips)
+Seat 3: Jbiancolini (5618 in chips)
+Seat 4: kubus08 (2822 in chips)
+Seat 5: pokerstg (4806 in chips)
+Seat 6: Dimson_spb (2443 in chips)
+Seat 7: josi2323 (2960 in chips)
+Seat 8: salonteskis (2285 in chips)
+Seat 9: mrGR13caldi9 (9440 in chips)
+ollikahn23: posts the ante 20
+Alberto0629: posts the ante 20
+Jbiancolini: posts the ante 20
+kubus08: posts the ante 20
+pokerstg: posts the ante 20
+Dimson_spb: posts the ante 20
+josi2323: posts the ante 20
+salonteskis: posts the ante 20
+mrGR13caldi9: posts the ante 20
+Dimson_spb: posts small blind 75
+josi2323: posts big blind 150
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jd Jh]
+salonteskis: folds
+mrGR13caldi9: raises 180 to 330
+ollikahn23: raises 878 to 1208 and is all-in
+Alberto0629: folds
+Jbiancolini: folds
+kubus08: folds
+pokerstg: folds
+Dimson_spb: folds
+josi2323: folds
+mrGR13caldi9: calls 878
+*** FLOP *** [9c 8c Th]
+*** TURN *** [9c 8c Th] [8d]
+*** RIVER *** [9c 8c Th 8d] [Tc]
+*** SHOW DOWN ***
+mrGR13caldi9: shows [Qc Jc] (a straight flush, Eight to Queen)
+ollikahn23: shows [Jd Jh] (two pair, Jacks and Tens)
+mrGR13caldi9 collected 2821 from pot
+ollikahn23 finished the tournament
+*** SUMMARY ***
+Total pot 2821 | Rake 0
+Board [9c 8c Th 8d Tc]
+Seat 1: ollikahn23 showed [Jd Jh] and lost with two pair, Jacks and Tens
+Seat 2: Alberto0629 folded before Flop (didn't bet)
+Seat 3: Jbiancolini folded before Flop (didn't bet)
+Seat 4: kubus08 folded before Flop (didn't bet)
+Seat 5: pokerstg (button) folded before Flop (didn't bet)
+Seat 6: Dimson_spb (small blind) folded before Flop
+Seat 7: josi2323 (big blind) folded before Flop
+Seat 8: salonteskis folded before Flop (didn't bet)
+Seat 9: mrGR13caldi9 showed [Qc Jc] and won (2821) with a straight flush, Eight to Queen
+
+

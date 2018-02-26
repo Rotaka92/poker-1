@@ -1,0 +1,3832 @@
+﻿PokerStars Hand #182996298781: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/02/24 17:39:34 ET
+Table '2230353017 3' 9-max Seat #3 is the button
+Seat 1: radmanjeff (1429 in chips) 
+Seat 2: ISKRAMOOR (2635 in chips) 
+Seat 3: bartlolhey (1824 in chips) 
+Seat 4: didde121 (1689 in chips) 
+Seat 5: HandsomeSwed (1886 in chips) 
+Seat 6: Konan070591 (1620 in chips) 
+Seat 7: FIGARO Nº1 (1679 in chips) 
+Seat 8: vlad7974 (3473 in chips) 
+Seat 9: ollikahn23 (1500 in chips) 
+radmanjeff: posts the ante 6
+ISKRAMOOR: posts the ante 6
+bartlolhey: posts the ante 6
+didde121: posts the ante 6
+HandsomeSwed: posts the ante 6
+Konan070591: posts the ante 6
+FIGARO Nº1: posts the ante 6
+vlad7974: posts the ante 6
+ollikahn23: posts the ante 6
+didde121: posts small blind 25
+HandsomeSwed: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5c 3h]
+Konan070591: folds 
+FIGARO Nº1: folds 
+vlad7974: folds 
+ollikahn23: folds 
+radmanjeff: folds 
+ISKRAMOOR: folds 
+bartlolhey: folds 
+didde121: raises 62 to 112
+HandsomeSwed: folds 
+Uncalled bet (62) returned to didde121
+didde121 collected 154 from pot
+*** SUMMARY ***
+Total pot 154 | Rake 0 
+Seat 1: radmanjeff folded before Flop (didn't bet)
+Seat 2: ISKRAMOOR folded before Flop (didn't bet)
+Seat 3: bartlolhey (button) folded before Flop (didn't bet)
+Seat 4: didde121 (small blind) collected (154)
+Seat 5: HandsomeSwed (big blind) folded before Flop
+Seat 6: Konan070591 folded before Flop (didn't bet)
+Seat 7: FIGARO Nº1 folded before Flop (didn't bet)
+Seat 8: vlad7974 folded before Flop (didn't bet)
+Seat 9: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182996324575: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/02/24 17:40:06 ET
+Table '2230353017 3' 9-max Seat #4 is the button
+Seat 1: radmanjeff (1423 in chips) 
+Seat 2: ISKRAMOOR (2629 in chips) 
+Seat 3: bartlolhey (1818 in chips) 
+Seat 4: didde121 (1787 in chips) 
+Seat 5: HandsomeSwed (1830 in chips) 
+Seat 6: Konan070591 (1614 in chips) 
+Seat 7: FIGARO Nº1 (1673 in chips) 
+Seat 8: vlad7974 (3467 in chips) 
+Seat 9: ollikahn23 (1494 in chips) 
+radmanjeff: posts the ante 6
+ISKRAMOOR: posts the ante 6
+bartlolhey: posts the ante 6
+didde121: posts the ante 6
+HandsomeSwed: posts the ante 6
+Konan070591: posts the ante 6
+FIGARO Nº1: posts the ante 6
+vlad7974: posts the ante 6
+ollikahn23: posts the ante 6
+HandsomeSwed: posts small blind 25
+Konan070591: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4d Td]
+FIGARO Nº1: folds 
+vlad7974: folds 
+ollikahn23: folds 
+radmanjeff: folds 
+ISKRAMOOR: folds 
+bartlolhey: calls 50
+didde121: raises 50 to 100
+HandsomeSwed: folds 
+Konan070591: folds 
+bartlolhey: calls 50
+*** FLOP *** [Ah Qh 3h]
+bartlolhey: checks 
+didde121: bets 132
+bartlolhey: folds 
+Uncalled bet (132) returned to didde121
+didde121 collected 329 from pot
+*** SUMMARY ***
+Total pot 329 | Rake 0 
+Board [Ah Qh 3h]
+Seat 1: radmanjeff folded before Flop (didn't bet)
+Seat 2: ISKRAMOOR folded before Flop (didn't bet)
+Seat 3: bartlolhey folded on the Flop
+Seat 4: didde121 (button) collected (329)
+Seat 5: HandsomeSwed (small blind) folded before Flop
+Seat 6: Konan070591 (big blind) folded before Flop
+Seat 7: FIGARO Nº1 folded before Flop (didn't bet)
+Seat 8: vlad7974 folded before Flop (didn't bet)
+Seat 9: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182996361986: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/02/24 17:40:52 ET
+Table '2230353017 3' 9-max Seat #5 is the button
+Seat 1: radmanjeff (1417 in chips) 
+Seat 2: ISKRAMOOR (2623 in chips) 
+Seat 3: bartlolhey (1712 in chips) 
+Seat 4: didde121 (2010 in chips) 
+Seat 5: HandsomeSwed (1799 in chips) 
+Seat 6: Konan070591 (1558 in chips) 
+Seat 7: FIGARO Nº1 (1667 in chips) 
+Seat 8: vlad7974 (3461 in chips) 
+Seat 9: ollikahn23 (1488 in chips) 
+radmanjeff: posts the ante 6
+ISKRAMOOR: posts the ante 6
+bartlolhey: posts the ante 6
+didde121: posts the ante 6
+HandsomeSwed: posts the ante 6
+Konan070591: posts the ante 6
+FIGARO Nº1: posts the ante 6
+vlad7974: posts the ante 6
+ollikahn23: posts the ante 6
+Konan070591: posts small blind 25
+FIGARO Nº1: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3s 4s]
+vlad7974: folds 
+ollikahn23: folds 
+radmanjeff: folds 
+ISKRAMOOR: folds 
+bartlolhey: folds 
+didde121: folds 
+HandsomeSwed: folds 
+Konan070591: raises 75 to 125
+FIGARO Nº1: calls 75
+*** FLOP *** [7d Qh 2c]
+Konan070591: bets 128
+FIGARO Nº1: folds 
+Uncalled bet (128) returned to Konan070591
+Konan070591 collected 304 from pot
+Konan070591: doesn't show hand 
+*** SUMMARY ***
+Total pot 304 | Rake 0 
+Board [7d Qh 2c]
+Seat 1: radmanjeff folded before Flop (didn't bet)
+Seat 2: ISKRAMOOR folded before Flop (didn't bet)
+Seat 3: bartlolhey folded before Flop (didn't bet)
+Seat 4: didde121 folded before Flop (didn't bet)
+Seat 5: HandsomeSwed (button) folded before Flop (didn't bet)
+Seat 6: Konan070591 (small blind) collected (304)
+Seat 7: FIGARO Nº1 (big blind) folded on the Flop
+Seat 8: vlad7974 folded before Flop (didn't bet)
+Seat 9: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182996393877: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/02/24 17:41:32 ET
+Table '2230353017 3' 9-max Seat #6 is the button
+Seat 1: radmanjeff (1411 in chips) 
+Seat 2: ISKRAMOOR (2617 in chips) 
+Seat 3: bartlolhey (1706 in chips) 
+Seat 4: didde121 (2004 in chips) 
+Seat 5: HandsomeSwed (1793 in chips) 
+Seat 6: Konan070591 (1731 in chips) 
+Seat 7: FIGARO Nº1 (1536 in chips) 
+Seat 8: vlad7974 (3455 in chips) 
+Seat 9: ollikahn23 (1482 in chips) 
+radmanjeff: posts the ante 6
+ISKRAMOOR: posts the ante 6
+bartlolhey: posts the ante 6
+didde121: posts the ante 6
+HandsomeSwed: posts the ante 6
+Konan070591: posts the ante 6
+FIGARO Nº1: posts the ante 6
+vlad7974: posts the ante 6
+ollikahn23: posts the ante 6
+FIGARO Nº1: posts small blind 25
+vlad7974: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qs 5h]
+ollikahn23: folds 
+radmanjeff: folds 
+ISKRAMOOR: folds 
+bartlolhey: folds 
+didde121: folds 
+HandsomeSwed: folds 
+Konan070591: folds 
+FIGARO Nº1: raises 50 to 100
+vlad7974: calls 50
+*** FLOP *** [6h 8s 6c]
+FIGARO Nº1: checks 
+vlad7974: bets 127
+FIGARO Nº1: raises 254 to 381
+vlad7974: calls 254
+*** TURN *** [6h 8s 6c] [6s]
+FIGARO Nº1: bets 1049 and is all-in
+vlad7974: calls 1049
+*** RIVER *** [6h 8s 6c 6s] [Js]
+*** SHOW DOWN ***
+FIGARO Nº1: shows [2d 2c] (a full house, Sixes full of Deuces)
+vlad7974: shows [Td Th] (a full house, Sixes full of Tens)
+vlad7974 collected 3114 from pot
+FIGARO Nº1 finished the tournament
+*** SUMMARY ***
+Total pot 3114 | Rake 0 
+Board [6h 8s 6c 6s Js]
+Seat 1: radmanjeff folded before Flop (didn't bet)
+Seat 2: ISKRAMOOR folded before Flop (didn't bet)
+Seat 3: bartlolhey folded before Flop (didn't bet)
+Seat 4: didde121 folded before Flop (didn't bet)
+Seat 5: HandsomeSwed folded before Flop (didn't bet)
+Seat 6: Konan070591 (button) folded before Flop (didn't bet)
+Seat 7: FIGARO Nº1 (small blind) showed [2d 2c] and lost with a full house, Sixes full of Deuces
+Seat 8: vlad7974 (big blind) showed [Td Th] and won (3114) with a full house, Sixes full of Tens
+Seat 9: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182996441433: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/02/24 17:42:31 ET
+Table '2230353017 3' 9-max Seat #8 is the button
+Seat 1: radmanjeff (1405 in chips) 
+Seat 2: ISKRAMOOR (2611 in chips) 
+Seat 3: bartlolhey (1700 in chips) 
+Seat 4: didde121 (1998 in chips) 
+Seat 5: HandsomeSwed (1787 in chips) 
+Seat 6: Konan070591 (1725 in chips) 
+Seat 8: vlad7974 (5033 in chips) 
+Seat 9: ollikahn23 (1476 in chips) 
+radmanjeff: posts the ante 6
+ISKRAMOOR: posts the ante 6
+bartlolhey: posts the ante 6
+didde121: posts the ante 6
+HandsomeSwed: posts the ante 6
+Konan070591: posts the ante 6
+vlad7974: posts the ante 6
+ollikahn23: posts the ante 6
+ollikahn23: posts small blind 25
+radmanjeff: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Js 2s]
+ISKRAMOOR: folds 
+bartlolhey: calls 50
+didde121: folds 
+HandsomeSwed: calls 50
+Konan070591: folds 
+vlad7974: folds 
+ollikahn23: calls 25
+radmanjeff: checks 
+*** FLOP *** [Ts 8h Jc]
+ollikahn23: checks 
+radmanjeff: checks 
+bartlolhey: checks 
+HandsomeSwed: checks 
+*** TURN *** [Ts 8h Jc] [9s]
+ollikahn23: checks 
+radmanjeff: checks 
+bartlolhey: checks 
+HandsomeSwed: checks 
+*** RIVER *** [Ts 8h Jc 9s] [9h]
+ollikahn23: bets 80
+radmanjeff: calls 80
+bartlolhey: calls 80
+HandsomeSwed: folds 
+*** SHOW DOWN ***
+ollikahn23: shows [Js 2s] (two pair, Jacks and Nines)
+radmanjeff: shows [2c 7h] (a straight, Seven to Jack)
+bartlolhey: mucks hand 
+radmanjeff collected 488 from pot
+*** SUMMARY ***
+Total pot 488 | Rake 0 
+Board [Ts 8h Jc 9s 9h]
+Seat 1: radmanjeff (big blind) showed [2c 7h] and won (488) with a straight, Seven to Jack
+Seat 2: ISKRAMOOR folded before Flop (didn't bet)
+Seat 3: bartlolhey mucked [6h Th]
+Seat 4: didde121 folded before Flop (didn't bet)
+Seat 5: HandsomeSwed folded on the River
+Seat 6: Konan070591 folded before Flop (didn't bet)
+Seat 8: vlad7974 (button) folded before Flop (didn't bet)
+Seat 9: ollikahn23 (small blind) showed [Js 2s] and lost with two pair, Jacks and Nines
+
+
+
+PokerStars Hand #182996532651: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/02/24 17:44:25 ET
+Table '2230353017 3' 9-max Seat #9 is the button
+Seat 1: radmanjeff (1757 in chips) 
+Seat 2: ISKRAMOOR (2605 in chips) 
+Seat 3: bartlolhey (1564 in chips) 
+Seat 4: didde121 (1992 in chips) 
+Seat 5: HandsomeSwed (1731 in chips) 
+Seat 6: Konan070591 (1719 in chips) 
+Seat 7: MisterJanJansse (1500 in chips) 
+Seat 8: vlad7974 (5027 in chips) 
+Seat 9: ollikahn23 (1340 in chips) 
+radmanjeff: posts the ante 6
+ISKRAMOOR: posts the ante 6
+bartlolhey: posts the ante 6
+didde121: posts the ante 6
+HandsomeSwed: posts the ante 6
+Konan070591: posts the ante 6
+MisterJanJansse: posts the ante 6
+vlad7974: posts the ante 6
+ollikahn23: posts the ante 6
+radmanjeff: posts small blind 25
+ISKRAMOOR: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5h 2s]
+bartlolhey: calls 50
+didde121: folds 
+HandsomeSwed: folds 
+Konan070591: folds 
+MisterJanJansse: folds 
+vlad7974: raises 100 to 150
+ollikahn23: folds 
+radmanjeff: folds 
+ISKRAMOOR: folds 
+bartlolhey: calls 100
+*** FLOP *** [Qh 2h Qc]
+bartlolhey: checks 
+vlad7974: bets 215
+bartlolhey: folds 
+Uncalled bet (215) returned to vlad7974
+vlad7974 collected 429 from pot
+*** SUMMARY ***
+Total pot 429 | Rake 0 
+Board [Qh 2h Qc]
+Seat 1: radmanjeff (small blind) folded before Flop
+Seat 2: ISKRAMOOR (big blind) folded before Flop
+Seat 3: bartlolhey folded on the Flop
+Seat 4: didde121 folded before Flop (didn't bet)
+Seat 5: HandsomeSwed folded before Flop (didn't bet)
+Seat 6: Konan070591 folded before Flop (didn't bet)
+Seat 7: MisterJanJansse folded before Flop (didn't bet)
+Seat 8: vlad7974 collected (429)
+Seat 9: ollikahn23 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182996589549: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/02/24 17:45:37 ET
+Table '2230353017 3' 9-max Seat #1 is the button
+Seat 1: radmanjeff (1726 in chips) 
+Seat 2: ISKRAMOOR (2549 in chips) 
+Seat 3: bartlolhey (1408 in chips) 
+Seat 4: didde121 (1986 in chips) 
+Seat 5: HandsomeSwed (1725 in chips) 
+Seat 6: Konan070591 (1713 in chips) 
+Seat 7: MisterJanJansse (1494 in chips) 
+Seat 8: vlad7974 (5300 in chips) 
+Seat 9: ollikahn23 (1334 in chips) 
+radmanjeff: posts the ante 6
+ISKRAMOOR: posts the ante 6
+bartlolhey: posts the ante 6
+didde121: posts the ante 6
+HandsomeSwed: posts the ante 6
+Konan070591: posts the ante 6
+MisterJanJansse: posts the ante 6
+vlad7974: posts the ante 6
+ollikahn23: posts the ante 6
+ISKRAMOOR: posts small blind 25
+bartlolhey: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9h Js]
+didde121: folds 
+HandsomeSwed: folds 
+Konan070591: folds 
+MisterJanJansse: folds 
+vlad7974: folds 
+ollikahn23: raises 50 to 100
+radmanjeff: folds 
+ISKRAMOOR: calls 75
+bartlolhey: calls 50
+*** FLOP *** [8s 3d 4c]
+ISKRAMOOR: bets 150
+bartlolhey: folds 
+ollikahn23: calls 150
+*** TURN *** [8s 3d 4c] [8h]
+ISKRAMOOR: checks 
+ollikahn23: checks 
+*** RIVER *** [8s 3d 4c 8h] [Jd]
+ISKRAMOOR: bets 300
+ollikahn23: calls 300
+*** SHOW DOWN ***
+ISKRAMOOR: shows [Ah 4h] (two pair, Eights and Fours)
+ollikahn23: shows [9h Js] (two pair, Jacks and Eights)
+ollikahn23 collected 1254 from pot
+*** SUMMARY ***
+Total pot 1254 | Rake 0 
+Board [8s 3d 4c 8h Jd]
+Seat 1: radmanjeff (button) folded before Flop (didn't bet)
+Seat 2: ISKRAMOOR (small blind) showed [Ah 4h] and lost with two pair, Eights and Fours
+Seat 3: bartlolhey (big blind) folded on the Flop
+Seat 4: didde121 folded before Flop (didn't bet)
+Seat 5: HandsomeSwed folded before Flop (didn't bet)
+Seat 6: Konan070591 folded before Flop (didn't bet)
+Seat 7: MisterJanJansse folded before Flop (didn't bet)
+Seat 8: vlad7974 folded before Flop (didn't bet)
+Seat 9: ollikahn23 showed [9h Js] and won (1254) with two pair, Jacks and Eights
+
+
+
+PokerStars Hand #182996661467: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/02/24 17:47:03 ET
+Table '2230353017 3' 9-max Seat #2 is the button
+Seat 1: radmanjeff (1720 in chips) 
+Seat 2: ISKRAMOOR (1993 in chips) 
+Seat 3: bartlolhey (1302 in chips) 
+Seat 4: didde121 (1980 in chips) 
+Seat 5: HandsomeSwed (1719 in chips) 
+Seat 6: Konan070591 (1707 in chips) 
+Seat 7: MisterJanJansse (1488 in chips) 
+Seat 8: vlad7974 (5294 in chips) 
+Seat 9: ollikahn23 (2032 in chips) 
+radmanjeff: posts the ante 6
+ISKRAMOOR: posts the ante 6
+bartlolhey: posts the ante 6
+didde121: posts the ante 6
+HandsomeSwed: posts the ante 6
+Konan070591: posts the ante 6
+MisterJanJansse: posts the ante 6
+vlad7974: posts the ante 6
+ollikahn23: posts the ante 6
+bartlolhey: posts small blind 25
+didde121: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [As Ts]
+HandsomeSwed: folds 
+Konan070591: folds 
+MisterJanJansse: folds 
+vlad7974: folds 
+ollikahn23: raises 50 to 100
+radmanjeff: folds 
+ISKRAMOOR: calls 100
+bartlolhey: calls 75
+didde121: folds 
+*** FLOP *** [Qs Jh Kc]
+bartlolhey: checks 
+ollikahn23: bets 200
+ISKRAMOOR: calls 200
+bartlolhey: folds 
+*** TURN *** [Qs Jh Kc] [7c]
+ollikahn23: bets 350
+ISKRAMOOR: raises 550 to 900
+ollikahn23: raises 826 to 1726 and is all-in
+ISKRAMOOR: calls 787 and is all-in
+Uncalled bet (39) returned to ollikahn23
+*** RIVER *** [Qs Jh Kc 7c] [5d]
+*** SHOW DOWN ***
+ollikahn23: shows [As Ts] (a straight, Ten to Ace)
+ISKRAMOOR: shows [7s Js] (two pair, Jacks and Sevens)
+ollikahn23 collected 4178 from pot
+ISKRAMOOR finished the tournament
+*** SUMMARY ***
+Total pot 4178 | Rake 0 
+Board [Qs Jh Kc 7c 5d]
+Seat 1: radmanjeff folded before Flop (didn't bet)
+Seat 2: ISKRAMOOR (button) showed [7s Js] and lost with two pair, Jacks and Sevens
+Seat 3: bartlolhey (small blind) folded on the Flop
+Seat 4: didde121 (big blind) folded before Flop
+Seat 5: HandsomeSwed folded before Flop (didn't bet)
+Seat 6: Konan070591 folded before Flop (didn't bet)
+Seat 7: MisterJanJansse folded before Flop (didn't bet)
+Seat 8: vlad7974 folded before Flop (didn't bet)
+Seat 9: ollikahn23 showed [As Ts] and won (4178) with a straight, Ten to Ace
+
+
+
+PokerStars Hand #182996734485: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/02/24 17:48:37 ET
+Table '2230353017 3' 9-max Seat #3 is the button
+Seat 1: radmanjeff (1714 in chips) 
+Seat 3: bartlolhey (1196 in chips) 
+Seat 4: didde121 (1924 in chips) 
+Seat 5: HandsomeSwed (1713 in chips) 
+Seat 6: Konan070591 (1701 in chips) 
+Seat 7: MisterJanJansse (1482 in chips) 
+Seat 8: vlad7974 (5288 in chips) 
+Seat 9: ollikahn23 (4217 in chips) 
+radmanjeff: posts the ante 6
+bartlolhey: posts the ante 6
+didde121: posts the ante 6
+HandsomeSwed: posts the ante 6
+Konan070591: posts the ante 6
+MisterJanJansse: posts the ante 6
+vlad7974: posts the ante 6
+ollikahn23: posts the ante 6
+didde121: posts small blind 25
+HandsomeSwed: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ks 3h]
+Konan070591: folds 
+MisterJanJansse: folds 
+vlad7974: folds 
+ollikahn23: folds 
+radmanjeff: folds 
+bartlolhey: calls 50
+didde121: calls 25
+HandsomeSwed: checks 
+*** FLOP *** [3s 5d 9d]
+didde121: checks 
+HandsomeSwed: checks 
+bartlolhey: checks 
+*** TURN *** [3s 5d 9d] [6d]
+didde121: checks 
+HandsomeSwed: checks 
+bartlolhey: checks 
+*** RIVER *** [3s 5d 9d 6d] [9h]
+didde121: checks 
+HandsomeSwed: checks 
+bartlolhey: checks 
+*** SHOW DOWN ***
+didde121: shows [Kh 5h] (two pair, Nines and Fives)
+HandsomeSwed: mucks hand 
+bartlolhey: shows [6s 7d] (two pair, Nines and Sixes)
+bartlolhey collected 198 from pot
+*** SUMMARY ***
+Total pot 198 | Rake 0 
+Board [3s 5d 9d 6d 9h]
+Seat 1: radmanjeff folded before Flop (didn't bet)
+Seat 3: bartlolhey (button) showed [6s 7d] and won (198) with two pair, Nines and Sixes
+Seat 4: didde121 (small blind) showed [Kh 5h] and lost with two pair, Nines and Fives
+Seat 5: HandsomeSwed (big blind) mucked [Td Jh]
+Seat 6: Konan070591 folded before Flop (didn't bet)
+Seat 7: MisterJanJansse folded before Flop (didn't bet)
+Seat 8: vlad7974 folded before Flop (didn't bet)
+Seat 9: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182996801041: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/02/24 17:50:03 ET
+Table '2230353017 3' 9-max Seat #4 is the button
+Seat 1: radmanjeff (1708 in chips) 
+Seat 2: ibiassuce (1500 in chips) 
+Seat 3: bartlolhey (1338 in chips) 
+Seat 4: didde121 (1868 in chips) 
+Seat 5: HandsomeSwed (1657 in chips) 
+Seat 7: MisterJanJansse (1476 in chips) 
+Seat 8: vlad7974 (5282 in chips) 
+Seat 9: ollikahn23 (4211 in chips) 
+radmanjeff: posts the ante 6
+ibiassuce: posts the ante 6
+bartlolhey: posts the ante 6
+didde121: posts the ante 6
+HandsomeSwed: posts the ante 6
+MisterJanJansse: posts the ante 6
+vlad7974: posts the ante 6
+ollikahn23: posts the ante 6
+HandsomeSwed: posts small blind 25
+MisterJanJansse: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ks Qc]
+vlad7974: folds 
+ollikahn23: raises 50 to 100
+radmanjeff: folds 
+ibiassuce: folds 
+bartlolhey: calls 100
+didde121: folds 
+HandsomeSwed: calls 75
+MisterJanJansse: calls 50
+*** FLOP *** [4c Ah 7d]
+HandsomeSwed: checks 
+MisterJanJansse: checks 
+ollikahn23: checks 
+bartlolhey: checks 
+*** TURN *** [4c Ah 7d] [3h]
+HandsomeSwed: checks 
+MisterJanJansse: checks 
+ollikahn23: checks 
+bartlolhey: checks 
+*** RIVER *** [4c Ah 7d 3h] [Qh]
+HandsomeSwed: bets 224
+MisterJanJansse: folds 
+ollikahn23: folds 
+bartlolhey: raises 426 to 650
+HandsomeSwed: raises 426 to 1076
+bartlolhey: raises 156 to 1232 and is all-in
+HandsomeSwed: calls 156
+*** SHOW DOWN ***
+bartlolhey: shows [5d 6d] (a straight, Three to Seven)
+HandsomeSwed: shows [6c 5s] (a straight, Three to Seven)
+HandsomeSwed collected 1456 from pot
+bartlolhey collected 1456 from pot
+*** SUMMARY ***
+Total pot 2912 | Rake 0 
+Board [4c Ah 7d 3h Qh]
+Seat 1: radmanjeff folded before Flop (didn't bet)
+Seat 2: ibiassuce folded before Flop (didn't bet)
+Seat 3: bartlolhey showed [5d 6d] and won (1456) with a straight, Three to Seven
+Seat 4: didde121 (button) folded before Flop (didn't bet)
+Seat 5: HandsomeSwed (small blind) showed [6c 5s] and won (1456) with a straight, Three to Seven
+Seat 7: MisterJanJansse (big blind) folded on the River
+Seat 8: vlad7974 folded before Flop (didn't bet)
+Seat 9: ollikahn23 folded on the River
+
+
+
+PokerStars Hand #182996862799: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/02/24 17:51:22 ET
+Table '2230353017 3' 9-max Seat #5 is the button
+Seat 1: radmanjeff (1702 in chips) 
+Seat 2: ibiassuce (1494 in chips) 
+Seat 3: bartlolhey (1456 in chips) 
+Seat 4: didde121 (1862 in chips) 
+Seat 5: HandsomeSwed (1775 in chips) 
+Seat 7: MisterJanJansse (1370 in chips) 
+Seat 8: vlad7974 (5276 in chips) 
+Seat 9: ollikahn23 (4105 in chips) 
+radmanjeff: posts the ante 6
+ibiassuce: posts the ante 6
+bartlolhey: posts the ante 6
+didde121: posts the ante 6
+HandsomeSwed: posts the ante 6
+MisterJanJansse: posts the ante 6
+vlad7974: posts the ante 6
+ollikahn23: posts the ante 6
+MisterJanJansse: posts small blind 25
+vlad7974: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2d Ac]
+ollikahn23: folds 
+HandsomeSwed said, "lol wtf"
+radmanjeff: folds 
+ibiassuce: folds 
+bartlolhey: calls 50
+didde121: folds 
+HandsomeSwed: folds 
+MisterJanJansse: calls 25
+vlad7974: checks 
+*** FLOP *** [Kc 5h 4c]
+MisterJanJansse: checks 
+vlad7974: checks 
+HandsomeSwed said, "he should have thought i had flush"
+HandsomeSwed said, "donk"
+bartlolhey: checks 
+*** TURN *** [Kc 5h 4c] [Qs]
+MisterJanJansse: bets 72
+vlad7974: folds 
+bartlolhey: folds 
+Uncalled bet (72) returned to MisterJanJansse
+MisterJanJansse collected 198 from pot
+*** SUMMARY ***
+Total pot 198 | Rake 0 
+Board [Kc 5h 4c Qs]
+Seat 1: radmanjeff folded before Flop (didn't bet)
+Seat 2: ibiassuce folded before Flop (didn't bet)
+Seat 3: bartlolhey folded on the Turn
+Seat 4: didde121 folded before Flop (didn't bet)
+Seat 5: HandsomeSwed (button) folded before Flop (didn't bet)
+Seat 7: MisterJanJansse (small blind) collected (198)
+Seat 8: vlad7974 (big blind) folded on the Turn
+Seat 9: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182996915877: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/02/24 17:52:31 ET
+Table '2230353017 13' 9-max Seat #1 is the button
+Seat 1: Berbatofff (1024 in chips) 
+Seat 2: ollikahn23 (4099 in chips) 
+Seat 3: Asmodei10 (1936 in chips) 
+Seat 4: porkyfult90 (1170 in chips) 
+Seat 5: shaman220386 (1488 in chips) 
+Seat 6: Samogonka (1077 in chips) 
+Berbatofff: posts the ante 6
+ollikahn23: posts the ante 6
+Asmodei10: posts the ante 6
+porkyfult90: posts the ante 6
+shaman220386: posts the ante 6
+Samogonka: posts the ante 6
+ollikahn23: posts small blind 25
+Asmodei10: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [As 6c]
+porkyfult90: calls 50
+shaman220386: folds 
+Samogonka: folds 
+Berbatofff: folds 
+ollikahn23: calls 25
+Asmodei10: checks 
+*** FLOP *** [2d Qd 3d]
+ollikahn23: checks 
+Asmodei10: checks 
+porkyfult90: checks 
+*** TURN *** [2d Qd 3d] [Ah]
+ollikahn23: checks 
+Asmodei10: bets 138
+porkyfult90: folds 
+ollikahn23: calls 138
+*** RIVER *** [2d Qd 3d Ah] [9h]
+ollikahn23: checks 
+Asmodei10: checks 
+*** SHOW DOWN ***
+ollikahn23: shows [As 6c] (a pair of Aces)
+Asmodei10: mucks hand 
+ollikahn23 collected 462 from pot
+*** SUMMARY ***
+Total pot 462 | Rake 0 
+Board [2d Qd 3d Ah 9h]
+Seat 1: Berbatofff (button) folded before Flop (didn't bet)
+Seat 2: ollikahn23 (small blind) showed [As 6c] and won (462) with a pair of Aces
+Seat 3: Asmodei10 (big blind) mucked [9d 4s]
+Seat 4: porkyfult90 folded on the Turn
+Seat 5: shaman220386 folded before Flop (didn't bet)
+Seat 6: Samogonka folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182996980798: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/02/24 17:53:55 ET
+Table '2230353017 13' 9-max Seat #2 is the button
+Seat 1: Berbatofff (1018 in chips) 
+Seat 2: ollikahn23 (4367 in chips) 
+Seat 3: Asmodei10 (1742 in chips) 
+Seat 4: porkyfult90 (1114 in chips) 
+Seat 5: shaman220386 (1482 in chips) 
+Seat 6: Samogonka (1071 in chips) 
+Seat 7: Royalhead (2635 in chips) 
+Seat 8: ktr73 (1318 in chips) 
+Seat 9: Konan070591 (1677 in chips) 
+Berbatofff: posts the ante 10
+ollikahn23: posts the ante 10
+Asmodei10: posts the ante 10
+porkyfult90: posts the ante 10
+shaman220386: posts the ante 10
+Samogonka: posts the ante 10
+Royalhead: posts the ante 10
+ktr73: posts the ante 10
+Konan070591: posts the ante 10
+Asmodei10: posts small blind 50
+porkyfult90: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5d Kc]
+shaman220386: folds 
+Samogonka: folds 
+Royalhead: folds 
+ktr73: raises 1208 to 1308 and is all-in
+Konan070591: folds 
+Berbatofff: folds 
+ollikahn23: folds 
+Asmodei10: raises 424 to 1732 and is all-in
+porkyfult90: calls 1004 and is all-in
+Uncalled bet (424) returned to Asmodei10
+*** FLOP *** [3d Ah Jc]
+*** TURN *** [3d Ah Jc] [8d]
+*** RIVER *** [3d Ah Jc 8d] [Kh]
+*** SHOW DOWN ***
+Asmodei10: shows [Jh As] (two pair, Aces and Jacks)
+ktr73: shows [Jd Qd] (a pair of Jacks)
+Asmodei10 collected 408 from side pot
+porkyfult90: shows [Qh Ks] (a pair of Kings)
+Asmodei10 collected 3402 from main pot
+ktr73 finished the tournament in 85th place
+porkyfult90 finished the tournament in 86th place
+*** SUMMARY ***
+Total pot 3810 Main pot 3402. Side pot 408. | Rake 0 
+Board [3d Ah Jc 8d Kh]
+Seat 1: Berbatofff folded before Flop (didn't bet)
+Seat 2: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 3: Asmodei10 (small blind) showed [Jh As] and won (3810) with two pair, Aces and Jacks
+Seat 4: porkyfult90 (big blind) showed [Qh Ks] and lost with a pair of Kings
+Seat 5: shaman220386 folded before Flop (didn't bet)
+Seat 6: Samogonka folded before Flop (didn't bet)
+Seat 7: Royalhead folded before Flop (didn't bet)
+Seat 8: ktr73 showed [Jd Qd] and lost with a pair of Jacks
+Seat 9: Konan070591 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182997007815: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/02/24 17:54:31 ET
+Table '2230353017 13' 9-max Seat #3 is the button
+Seat 1: Berbatofff (1008 in chips) 
+Seat 2: ollikahn23 (4357 in chips) 
+Seat 3: Asmodei10 (4234 in chips) 
+Seat 5: shaman220386 (1472 in chips) 
+Seat 6: Samogonka (1061 in chips) 
+Seat 7: Royalhead (2625 in chips) 
+Seat 9: Konan070591 (1667 in chips) 
+Berbatofff: posts the ante 10
+ollikahn23: posts the ante 10
+Asmodei10: posts the ante 10
+shaman220386: posts the ante 10
+Samogonka: posts the ante 10
+Royalhead: posts the ante 10
+Konan070591: posts the ante 10
+shaman220386: posts small blind 50
+Samogonka: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7h 3s]
+Royalhead: folds 
+Konan070591: folds 
+Berbatofff: folds 
+ollikahn23: folds 
+Asmodei10: folds 
+shaman220386: folds 
+Uncalled bet (50) returned to Samogonka
+Samogonka collected 170 from pot
+*** SUMMARY ***
+Total pot 170 | Rake 0 
+Seat 1: Berbatofff folded before Flop (didn't bet)
+Seat 2: ollikahn23 folded before Flop (didn't bet)
+Seat 3: Asmodei10 (button) folded before Flop (didn't bet)
+Seat 5: shaman220386 (small blind) folded before Flop
+Seat 6: Samogonka (big blind) collected (170)
+Seat 7: Royalhead folded before Flop (didn't bet)
+Seat 9: Konan070591 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182997020910: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/02/24 17:54:48 ET
+Table '2230353017 13' 9-max Seat #5 is the button
+Seat 1: Berbatofff (998 in chips) 
+Seat 2: ollikahn23 (4347 in chips) 
+Seat 3: Asmodei10 (4224 in chips) 
+Seat 5: shaman220386 (1412 in chips) 
+Seat 6: Samogonka (1171 in chips) 
+Seat 7: Royalhead (2615 in chips) 
+Seat 8: HandsomeSwed (1697 in chips) 
+Seat 9: Konan070591 (1657 in chips) 
+Berbatofff: posts the ante 10
+ollikahn23: posts the ante 10
+Asmodei10: posts the ante 10
+shaman220386: posts the ante 10
+Samogonka: posts the ante 10
+Royalhead: posts the ante 10
+HandsomeSwed: posts the ante 10
+Konan070591: posts the ante 10
+Samogonka: posts small blind 50
+Royalhead: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8h 9s]
+HandsomeSwed: folds 
+Konan070591: raises 100 to 200
+Berbatofff: raises 788 to 988 and is all-in
+ollikahn23: folds 
+Asmodei10: folds 
+shaman220386: folds 
+Samogonka: folds 
+Royalhead: folds 
+Konan070591: calls 788
+*** FLOP *** [7h Td Ts]
+*** TURN *** [7h Td Ts] [Qs]
+*** RIVER *** [7h Td Ts Qs] [2s]
+*** SHOW DOWN ***
+Konan070591: shows [Ac Qc] (two pair, Queens and Tens)
+Berbatofff: shows [4c 4s] (two pair, Tens and Fours)
+Konan070591 collected 2206 from pot
+Berbatofff finished the tournament in 80th place
+*** SUMMARY ***
+Total pot 2206 | Rake 0 
+Board [7h Td Ts Qs 2s]
+Seat 1: Berbatofff showed [4c 4s] and lost with two pair, Tens and Fours
+Seat 2: ollikahn23 folded before Flop (didn't bet)
+Seat 3: Asmodei10 folded before Flop (didn't bet)
+Seat 5: shaman220386 (button) folded before Flop (didn't bet)
+Seat 6: Samogonka (small blind) folded before Flop
+Seat 7: Royalhead (big blind) folded before Flop
+Seat 8: HandsomeSwed folded before Flop (didn't bet)
+Seat 9: Konan070591 showed [Ac Qc] and won (2206) with two pair, Queens and Tens
+
+
+
+PokerStars Hand #182997268426: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/02/24 18:01:24 ET
+Table '2230353017 13' 9-max Seat #6 is the button
+Seat 2: ollikahn23 (4337 in chips) 
+Seat 3: Asmodei10 (4214 in chips) 
+Seat 4: yhmhm (3432 in chips) 
+Seat 5: shaman220386 (1402 in chips) 
+Seat 6: Samogonka (1111 in chips) 
+Seat 7: Royalhead (2505 in chips) 
+Seat 8: HandsomeSwed (1687 in chips) 
+Seat 9: Konan070591 (2865 in chips) 
+ollikahn23: posts the ante 10
+Asmodei10: posts the ante 10
+yhmhm: posts the ante 10
+shaman220386: posts the ante 10
+Samogonka: posts the ante 10
+Royalhead: posts the ante 10
+HandsomeSwed: posts the ante 10
+Konan070591: posts the ante 10
+Royalhead: posts small blind 50
+HandsomeSwed: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8h 9h]
+Konan070591: folds 
+ollikahn23: folds 
+Asmodei10: raises 105 to 205
+yhmhm has timed out
+yhmhm: folds 
+yhmhm is sitting out
+yhmhm has returned
+shaman220386: folds 
+Samogonka: folds 
+Royalhead: raises 2290 to 2495 and is all-in
+HandsomeSwed: folds 
+Asmodei10: folds 
+Uncalled bet (2290) returned to Royalhead
+Royalhead collected 590 from pot
+*** SUMMARY ***
+Total pot 590 | Rake 0 
+Seat 2: ollikahn23 folded before Flop (didn't bet)
+Seat 3: Asmodei10 folded before Flop
+Seat 4: yhmhm folded before Flop (didn't bet)
+Seat 5: shaman220386 folded before Flop (didn't bet)
+Seat 6: Samogonka (button) folded before Flop (didn't bet)
+Seat 7: Royalhead (small blind) collected (590)
+Seat 8: HandsomeSwed (big blind) folded before Flop
+Seat 9: Konan070591 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182997336912: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/02/24 18:02:56 ET
+Table '2230353017 13' 9-max Seat #7 is the button
+Seat 2: ollikahn23 (4327 in chips) 
+Seat 3: Asmodei10 (3999 in chips) 
+Seat 4: yhmhm (3422 in chips) 
+Seat 5: shaman220386 (1392 in chips) 
+Seat 6: Samogonka (1101 in chips) 
+Seat 7: Royalhead (2880 in chips) 
+Seat 8: HandsomeSwed (1577 in chips) 
+Seat 9: Konan070591 (2855 in chips) 
+ollikahn23: posts the ante 10
+Asmodei10: posts the ante 10
+yhmhm: posts the ante 10
+shaman220386: posts the ante 10
+Samogonka: posts the ante 10
+Royalhead: posts the ante 10
+HandsomeSwed: posts the ante 10
+Konan070591: posts the ante 10
+HandsomeSwed: posts small blind 50
+Konan070591: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8s 6h]
+ollikahn23: folds 
+Asmodei10: folds 
+yhmhm: raises 100 to 200
+shaman220386: folds 
+Samogonka: folds 
+Royalhead: folds 
+HandsomeSwed: folds 
+Konan070591: calls 100
+*** FLOP *** [4h Ac Td]
+Konan070591: checks 
+yhmhm has timed out
+yhmhm: checks 
+*** TURN *** [4h Ac Td] [9s]
+Konan070591: checks 
+yhmhm: bets 233
+Konan070591: folds 
+Uncalled bet (233) returned to yhmhm
+yhmhm collected 530 from pot
+yhmhm: doesn't show hand 
+*** SUMMARY ***
+Total pot 530 | Rake 0 
+Board [4h Ac Td 9s]
+Seat 2: ollikahn23 folded before Flop (didn't bet)
+Seat 3: Asmodei10 folded before Flop (didn't bet)
+Seat 4: yhmhm collected (530)
+Seat 5: shaman220386 folded before Flop (didn't bet)
+Seat 6: Samogonka folded before Flop (didn't bet)
+Seat 7: Royalhead (button) folded before Flop (didn't bet)
+Seat 8: HandsomeSwed (small blind) folded before Flop
+Seat 9: Konan070591 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #182997391562: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/02/24 18:04:08 ET
+Table '2230353017 13' 9-max Seat #8 is the button
+Seat 2: ollikahn23 (4317 in chips) 
+Seat 3: Asmodei10 (3989 in chips) 
+Seat 4: yhmhm (3742 in chips) 
+Seat 5: shaman220386 (1382 in chips) 
+Seat 6: Samogonka (1091 in chips) 
+Seat 7: Royalhead (2870 in chips) 
+Seat 8: HandsomeSwed (1517 in chips) 
+Seat 9: Konan070591 (2645 in chips) 
+ollikahn23: posts the ante 10
+Asmodei10: posts the ante 10
+yhmhm: posts the ante 10
+shaman220386: posts the ante 10
+Samogonka: posts the ante 10
+Royalhead: posts the ante 10
+HandsomeSwed: posts the ante 10
+Konan070591: posts the ante 10
+Konan070591: posts small blind 50
+ollikahn23: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2s Ad]
+Asmodei10: folds 
+yhmhm: folds 
+shaman220386: folds 
+Samogonka: folds 
+Royalhead: folds 
+HandsomeSwed: folds 
+Konan070591: raises 150 to 250
+ollikahn23: calls 150
+*** FLOP *** [Ks 6d 2d]
+Konan070591: checks 
+ollikahn23: checks 
+*** TURN *** [Ks 6d 2d] [5s]
+Konan070591: bets 244
+ollikahn23: calls 244
+*** RIVER *** [Ks 6d 2d 5s] [2c]
+Konan070591: checks 
+ollikahn23: bets 532
+Konan070591: calls 532
+*** SHOW DOWN ***
+ollikahn23: shows [2s Ad] (three of a kind, Deuces)
+Konan070591: mucks hand 
+ollikahn23 collected 2132 from pot
+*** SUMMARY ***
+Total pot 2132 | Rake 0 
+Board [Ks 6d 2d 5s 2c]
+Seat 2: ollikahn23 (big blind) showed [2s Ad] and won (2132) with three of a kind, Deuces
+Seat 3: Asmodei10 folded before Flop (didn't bet)
+Seat 4: yhmhm folded before Flop (didn't bet)
+Seat 5: shaman220386 folded before Flop (didn't bet)
+Seat 6: Samogonka folded before Flop (didn't bet)
+Seat 7: Royalhead folded before Flop (didn't bet)
+Seat 8: HandsomeSwed (button) folded before Flop (didn't bet)
+Seat 9: Konan070591 (small blind) mucked [Td Tc]
+
+
+
+PokerStars Hand #182997468910: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/02/24 18:05:38 ET
+Table '2230353017 13' 9-max Seat #9 is the button
+Seat 2: ollikahn23 (5413 in chips) 
+Seat 3: Asmodei10 (3979 in chips) 
+Seat 4: yhmhm (3732 in chips) 
+Seat 5: shaman220386 (1372 in chips) 
+Seat 6: Samogonka (1081 in chips) 
+Seat 7: Royalhead (2860 in chips) 
+Seat 8: HandsomeSwed (1507 in chips) 
+Seat 9: Konan070591 (1609 in chips) 
+ollikahn23: posts the ante 10
+Asmodei10: posts the ante 10
+yhmhm: posts the ante 10
+shaman220386: posts the ante 10
+Samogonka: posts the ante 10
+Royalhead: posts the ante 10
+HandsomeSwed: posts the ante 10
+Konan070591: posts the ante 10
+ollikahn23: posts small blind 50
+Asmodei10: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7h Qc]
+yhmhm has timed out
+yhmhm: folds 
+yhmhm is sitting out
+yhmhm has returned
+shaman220386: raises 100 to 200
+Samogonka: folds 
+Royalhead: folds 
+HandsomeSwed: folds 
+Konan070591: folds 
+ollikahn23: folds 
+Asmodei10: folds 
+Uncalled bet (100) returned to shaman220386
+shaman220386 collected 330 from pot
+shaman220386: doesn't show hand 
+*** SUMMARY ***
+Total pot 330 | Rake 0 
+Seat 2: ollikahn23 (small blind) folded before Flop
+Seat 3: Asmodei10 (big blind) folded before Flop
+Seat 4: yhmhm folded before Flop (didn't bet)
+Seat 5: shaman220386 collected (330)
+Seat 6: Samogonka folded before Flop (didn't bet)
+Seat 7: Royalhead folded before Flop (didn't bet)
+Seat 8: HandsomeSwed folded before Flop (didn't bet)
+Seat 9: Konan070591 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182997504019: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/02/24 18:06:25 ET
+Table '2230353017 13' 9-max Seat #2 is the button
+Seat 2: ollikahn23 (5353 in chips) 
+Seat 3: Asmodei10 (3869 in chips) 
+Seat 4: yhmhm (3722 in chips) 
+Seat 5: shaman220386 (1592 in chips) 
+Seat 6: Samogonka (1071 in chips) 
+Seat 7: Royalhead (2850 in chips) 
+Seat 8: HandsomeSwed (1497 in chips) 
+Seat 9: Konan070591 (1599 in chips) 
+ollikahn23: posts the ante 10
+Asmodei10: posts the ante 10
+yhmhm: posts the ante 10
+shaman220386: posts the ante 10
+Samogonka: posts the ante 10
+Royalhead: posts the ante 10
+HandsomeSwed: posts the ante 10
+Konan070591: posts the ante 10
+Asmodei10: posts small blind 50
+yhmhm: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9h 6c]
+shaman220386: folds 
+Samogonka: folds 
+Royalhead: folds 
+HandsomeSwed: raises 300 to 400
+Konan070591: folds 
+ollikahn23: folds 
+Asmodei10: folds 
+yhmhm: raises 818 to 1218
+HandsomeSwed: raises 269 to 1487 and is all-in
+yhmhm: calls 269
+*** FLOP *** [Jc Th Tc]
+*** TURN *** [Jc Th Tc] [Ts]
+*** RIVER *** [Jc Th Tc Ts] [Qh]
+*** SHOW DOWN ***
+yhmhm: shows [Kc Ad] (a straight, Ten to Ace)
+HandsomeSwed: shows [Qs Qd] (a full house, Queens full of Tens)
+HandsomeSwed collected 3104 from pot
+*** SUMMARY ***
+Total pot 3104 | Rake 0 
+Board [Jc Th Tc Ts Qh]
+Seat 2: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 3: Asmodei10 (small blind) folded before Flop
+Seat 4: yhmhm (big blind) showed [Kc Ad] and lost with a straight, Ten to Ace
+Seat 5: shaman220386 folded before Flop (didn't bet)
+Seat 6: Samogonka folded before Flop (didn't bet)
+Seat 7: Royalhead folded before Flop (didn't bet)
+Seat 8: HandsomeSwed showed [Qs Qd] and won (3104) with a full house, Queens full of Tens
+Seat 9: Konan070591 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182997544058: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/02/24 18:07:19 ET
+Table '2230353017 13' 9-max Seat #3 is the button
+Seat 1: Carverdemon (311 in chips) is sitting out
+Seat 2: ollikahn23 (5343 in chips) 
+Seat 3: Asmodei10 (3809 in chips) 
+Seat 4: yhmhm (2225 in chips) 
+Seat 5: shaman220386 (1582 in chips) 
+Seat 6: Samogonka (1061 in chips) 
+Seat 7: Royalhead (2840 in chips) 
+Seat 8: HandsomeSwed (3104 in chips) 
+Seat 9: Konan070591 (1589 in chips) 
+Carverdemon: posts the ante 10
+ollikahn23: posts the ante 10
+Asmodei10: posts the ante 10
+yhmhm: posts the ante 10
+shaman220386: posts the ante 10
+Samogonka: posts the ante 10
+Royalhead: posts the ante 10
+HandsomeSwed: posts the ante 10
+Konan070591: posts the ante 10
+yhmhm: posts small blind 50
+shaman220386: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9s 6s]
+HandsomeSwed said, "just in time"
+Samogonka: raises 200 to 300
+Royalhead: folds 
+HandsomeSwed: folds 
+Konan070591: folds 
+Carverdemon: folds 
+ollikahn23: folds 
+Asmodei10: folds 
+yhmhm: folds 
+shaman220386: folds 
+Uncalled bet (200) returned to Samogonka
+Samogonka collected 340 from pot
+Samogonka: doesn't show hand 
+*** SUMMARY ***
+Total pot 340 | Rake 0 
+Seat 1: Carverdemon folded before Flop (didn't bet)
+Seat 2: ollikahn23 folded before Flop (didn't bet)
+Seat 3: Asmodei10 (button) folded before Flop (didn't bet)
+Seat 4: yhmhm (small blind) folded before Flop
+Seat 5: shaman220386 (big blind) folded before Flop
+Seat 6: Samogonka collected (340)
+Seat 7: Royalhead folded before Flop (didn't bet)
+Seat 8: HandsomeSwed folded before Flop (didn't bet)
+Seat 9: Konan070591 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182997563633: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/02/24 18:07:45 ET
+Table '2230353017 13' 9-max Seat #4 is the button
+Seat 1: Carverdemon (301 in chips) is sitting out
+Seat 2: ollikahn23 (5333 in chips) 
+Seat 3: Asmodei10 (3799 in chips) 
+Seat 4: yhmhm (2165 in chips) 
+Seat 5: shaman220386 (1472 in chips) 
+Seat 6: Samogonka (1291 in chips) 
+Seat 7: Royalhead (2830 in chips) 
+Seat 8: HandsomeSwed (3094 in chips) 
+Seat 9: Konan070591 (1579 in chips) 
+Carverdemon: posts the ante 10
+ollikahn23: posts the ante 10
+Asmodei10: posts the ante 10
+yhmhm: posts the ante 10
+shaman220386: posts the ante 10
+Samogonka: posts the ante 10
+Royalhead: posts the ante 10
+HandsomeSwed: posts the ante 10
+Konan070591: posts the ante 10
+shaman220386: posts small blind 50
+Samogonka: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Js 2h]
+Royalhead: folds 
+HandsomeSwed: folds 
+Konan070591: folds 
+Carverdemon: folds 
+ollikahn23: folds 
+Asmodei10: raises 100 to 200
+yhmhm: calls 200
+shaman220386: folds 
+Samogonka: calls 100
+*** FLOP *** [3c 8h 3d]
+Samogonka: checks 
+Asmodei10: bets 244
+yhmhm: folds 
+Samogonka: folds 
+Uncalled bet (244) returned to Asmodei10
+Asmodei10 collected 740 from pot
+*** SUMMARY ***
+Total pot 740 | Rake 0 
+Board [3c 8h 3d]
+Seat 1: Carverdemon folded before Flop (didn't bet)
+Seat 2: ollikahn23 folded before Flop (didn't bet)
+Seat 3: Asmodei10 collected (740)
+Seat 4: yhmhm (button) folded on the Flop
+Seat 5: shaman220386 (small blind) folded before Flop
+Seat 6: Samogonka (big blind) folded on the Flop
+Seat 7: Royalhead folded before Flop (didn't bet)
+Seat 8: HandsomeSwed folded before Flop (didn't bet)
+Seat 9: Konan070591 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182997616302: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/02/24 18:08:55 ET
+Table '2230353017 13' 9-max Seat #5 is the button
+Seat 1: Carverdemon (291 in chips) is sitting out
+Seat 2: ollikahn23 (5323 in chips) 
+Seat 3: Asmodei10 (4329 in chips) 
+Seat 4: yhmhm (1955 in chips) 
+Seat 5: shaman220386 (1412 in chips) 
+Seat 6: Samogonka (1081 in chips) 
+Seat 7: Royalhead (2820 in chips) 
+Seat 8: HandsomeSwed (3084 in chips) 
+Seat 9: Konan070591 (1569 in chips) 
+Carverdemon: posts the ante 10
+ollikahn23: posts the ante 10
+Asmodei10: posts the ante 10
+yhmhm: posts the ante 10
+shaman220386: posts the ante 10
+Samogonka: posts the ante 10
+Royalhead: posts the ante 10
+HandsomeSwed: posts the ante 10
+Konan070591: posts the ante 10
+Samogonka: posts small blind 50
+Royalhead: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9s 7s]
+HandsomeSwed: calls 100
+Konan070591: folds 
+Carverdemon: folds 
+ollikahn23: folds 
+Asmodei10: folds 
+yhmhm: folds 
+shaman220386: folds 
+Samogonka: raises 200 to 300
+Royalhead: folds 
+HandsomeSwed: calls 200
+*** FLOP *** [2s 7c 6s]
+Samogonka: bets 771 and is all-in
+HandsomeSwed: folds 
+Uncalled bet (771) returned to Samogonka
+Samogonka collected 790 from pot
+*** SUMMARY ***
+Total pot 790 | Rake 0 
+Board [2s 7c 6s]
+Seat 1: Carverdemon folded before Flop (didn't bet)
+Seat 2: ollikahn23 folded before Flop (didn't bet)
+Seat 3: Asmodei10 folded before Flop (didn't bet)
+Seat 4: yhmhm folded before Flop (didn't bet)
+Seat 5: shaman220386 (button) folded before Flop (didn't bet)
+Seat 6: Samogonka (small blind) collected (790)
+Seat 7: Royalhead (big blind) folded before Flop
+Seat 8: HandsomeSwed folded on the Flop
+Seat 9: Konan070591 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182997648357: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/02/24 18:09:38 ET
+Table '2230353017 13' 9-max Seat #6 is the button
+Seat 1: Carverdemon (281 in chips) is sitting out
+Seat 2: ollikahn23 (5313 in chips) 
+Seat 3: Asmodei10 (4319 in chips) 
+Seat 4: yhmhm (1945 in chips) 
+Seat 5: shaman220386 (1402 in chips) 
+Seat 6: Samogonka (1561 in chips) 
+Seat 7: Royalhead (2710 in chips) 
+Seat 8: HandsomeSwed (2774 in chips) 
+Seat 9: Konan070591 (1559 in chips) 
+Carverdemon: posts the ante 10
+ollikahn23: posts the ante 10
+Asmodei10: posts the ante 10
+yhmhm: posts the ante 10
+shaman220386: posts the ante 10
+Samogonka: posts the ante 10
+Royalhead: posts the ante 10
+HandsomeSwed: posts the ante 10
+Konan070591: posts the ante 10
+Royalhead: posts small blind 50
+HandsomeSwed: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4c 5d]
+Konan070591: folds 
+Carverdemon: folds 
+ollikahn23: folds 
+Asmodei10: folds 
+yhmhm has timed out
+yhmhm: folds 
+yhmhm is sitting out
+shaman220386: folds 
+Samogonka: folds 
+yhmhm has returned
+Royalhead: folds 
+Uncalled bet (50) returned to HandsomeSwed
+HandsomeSwed collected 190 from pot
+HandsomeSwed: doesn't show hand 
+*** SUMMARY ***
+Total pot 190 | Rake 0 
+Seat 1: Carverdemon folded before Flop (didn't bet)
+Seat 2: ollikahn23 folded before Flop (didn't bet)
+Seat 3: Asmodei10 folded before Flop (didn't bet)
+Seat 4: yhmhm folded before Flop (didn't bet)
+Seat 5: shaman220386 folded before Flop (didn't bet)
+Seat 6: Samogonka (button) folded before Flop (didn't bet)
+Seat 7: Royalhead (small blind) folded before Flop
+Seat 8: HandsomeSwed (big blind) collected (190)
+Seat 9: Konan070591 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182997678253: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/02/24 18:10:19 ET
+Table '2230353017 13' 9-max Seat #7 is the button
+Seat 1: Carverdemon (271 in chips) is sitting out
+Seat 2: ollikahn23 (5303 in chips) 
+Seat 3: Asmodei10 (4309 in chips) 
+Seat 4: yhmhm (1935 in chips) 
+Seat 5: shaman220386 (1392 in chips) 
+Seat 6: Samogonka (1551 in chips) 
+Seat 7: Royalhead (2650 in chips) 
+Seat 8: HandsomeSwed (2904 in chips) 
+Seat 9: Konan070591 (1549 in chips) 
+Carverdemon: posts the ante 10
+ollikahn23: posts the ante 10
+Asmodei10: posts the ante 10
+yhmhm: posts the ante 10
+shaman220386: posts the ante 10
+Samogonka: posts the ante 10
+Royalhead: posts the ante 10
+HandsomeSwed: posts the ante 10
+Konan070591: posts the ante 10
+HandsomeSwed: posts small blind 50
+Konan070591: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kc 3s]
+Carverdemon: folds 
+ollikahn23: folds 
+Asmodei10: raises 105 to 205
+yhmhm: folds 
+shaman220386: folds 
+Samogonka: folds 
+Royalhead: calls 205
+HandsomeSwed: calls 155
+Konan070591: folds 
+*** FLOP *** [2s Qs 6d]
+HandsomeSwed: checks 
+Asmodei10: bets 300
+Royalhead: folds 
+HandsomeSwed: folds 
+Uncalled bet (300) returned to Asmodei10
+Asmodei10 collected 805 from pot
+*** SUMMARY ***
+Total pot 805 | Rake 0 
+Board [2s Qs 6d]
+Seat 1: Carverdemon folded before Flop (didn't bet)
+Seat 2: ollikahn23 folded before Flop (didn't bet)
+Seat 3: Asmodei10 collected (805)
+Seat 4: yhmhm folded before Flop (didn't bet)
+Seat 5: shaman220386 folded before Flop (didn't bet)
+Seat 6: Samogonka folded before Flop (didn't bet)
+Seat 7: Royalhead (button) folded on the Flop
+Seat 8: HandsomeSwed (small blind) folded on the Flop
+Seat 9: Konan070591 (big blind) folded before Flop
+
+
+
+PokerStars Hand #182997738656: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/02/24 18:11:40 ET
+Table '2230353017 4' 9-max Seat #6 is the button
+Seat 1: jakubaniol (2780 in chips) 
+Seat 2: Zigslick (2382 in chips) 
+Seat 3: igorlekroo (4347 in chips) 
+Seat 4: APL 03 (2058 in chips) 
+Seat 6: acivoj pfc (2733 in chips) 
+Seat 7: HD_M24 (5468 in chips) 
+Seat 8: xrono72 (2931 in chips) 
+Seat 9: ollikahn23 (5293 in chips) 
+jakubaniol: posts the ante 10
+Zigslick: posts the ante 10
+igorlekroo: posts the ante 10
+APL 03: posts the ante 10
+acivoj pfc: posts the ante 10
+HD_M24: posts the ante 10
+xrono72: posts the ante 10
+ollikahn23: posts the ante 10
+HD_M24: posts small blind 50
+xrono72: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5h 4h]
+ollikahn23: folds 
+jakubaniol: raises 100 to 200
+Zigslick: raises 2172 to 2372 and is all-in
+igorlekroo: folds 
+APL 03: folds 
+acivoj pfc: folds 
+HD_M24: folds 
+xrono72: folds 
+jakubaniol: calls 2172
+*** FLOP *** [6c 3h 2d]
+*** TURN *** [6c 3h 2d] [4s]
+*** RIVER *** [6c 3h 2d 4s] [3d]
+*** SHOW DOWN ***
+jakubaniol: shows [5d 8d] (a straight, Deuce to Six)
+Zigslick: shows [Kc Ad] (a pair of Threes)
+jakubaniol collected 4974 from pot
+Zigslick finished the tournament in 69th place
+*** SUMMARY ***
+Total pot 4974 | Rake 0 
+Board [6c 3h 2d 4s 3d]
+Seat 1: jakubaniol showed [5d 8d] and won (4974) with a straight, Deuce to Six
+Seat 2: Zigslick showed [Kc Ad] and lost with a pair of Threes
+Seat 3: igorlekroo folded before Flop (didn't bet)
+Seat 4: APL 03 folded before Flop (didn't bet)
+Seat 6: acivoj pfc (button) folded before Flop (didn't bet)
+Seat 7: HD_M24 (small blind) folded before Flop
+Seat 8: xrono72 (big blind) folded before Flop
+Seat 9: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182997777276: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/02/24 18:12:32 ET
+Table '2230353017 4' 9-max Seat #7 is the button
+Seat 1: jakubaniol (5372 in chips) 
+Seat 3: igorlekroo (4337 in chips) 
+Seat 4: APL 03 (2048 in chips) 
+Seat 6: acivoj pfc (2723 in chips) 
+Seat 7: HD_M24 (5408 in chips) 
+Seat 8: xrono72 (2821 in chips) 
+Seat 9: ollikahn23 (5283 in chips) 
+jakubaniol: posts the ante 10
+igorlekroo: posts the ante 10
+APL 03: posts the ante 10
+acivoj pfc: posts the ante 10
+HD_M24: posts the ante 10
+xrono72: posts the ante 10
+ollikahn23: posts the ante 10
+xrono72: posts small blind 50
+ollikahn23: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9d 5d]
+jakubaniol: raises 100 to 200
+igorlekroo: folds 
+APL 03: folds 
+acivoj pfc: folds 
+HD_M24: folds 
+xrono72: folds 
+ollikahn23: calls 100
+*** FLOP *** [Jh 7c 4d]
+ollikahn23: checks 
+jakubaniol: bets 300
+ollikahn23: folds 
+Uncalled bet (300) returned to jakubaniol
+jakubaniol collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | Rake 0 
+Board [Jh 7c 4d]
+Seat 1: jakubaniol collected (520)
+Seat 3: igorlekroo folded before Flop (didn't bet)
+Seat 4: APL 03 folded before Flop (didn't bet)
+Seat 6: acivoj pfc folded before Flop (didn't bet)
+Seat 7: HD_M24 (button) folded before Flop (didn't bet)
+Seat 8: xrono72 (small blind) folded before Flop
+Seat 9: ollikahn23 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #182997809239: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/02/24 18:13:16 ET
+Table '2230353017 4' 9-max Seat #8 is the button
+Seat 1: jakubaniol (5682 in chips) 
+Seat 2: esmeanna (7466 in chips) 
+Seat 3: igorlekroo (4327 in chips) 
+Seat 4: APL 03 (2038 in chips) 
+Seat 6: acivoj pfc (2713 in chips) 
+Seat 7: HD_M24 (5398 in chips) 
+Seat 8: xrono72 (2761 in chips) 
+Seat 9: ollikahn23 (5073 in chips) 
+jakubaniol: posts the ante 10
+esmeanna: posts the ante 10
+igorlekroo: posts the ante 10
+APL 03: posts the ante 10
+acivoj pfc: posts the ante 10
+HD_M24: posts the ante 10
+xrono72: posts the ante 10
+ollikahn23: posts the ante 10
+ollikahn23: posts small blind 50
+jakubaniol: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [As Ad]
+esmeanna: folds 
+igorlekroo: folds 
+APL 03: folds 
+acivoj pfc: folds 
+HD_M24: folds 
+xrono72: raises 2651 to 2751 and is all-in
+ollikahn23: calls 2701
+jakubaniol: folds 
+*** FLOP *** [6d 5c Qd]
+*** TURN *** [6d 5c Qd] [Kh]
+*** RIVER *** [6d 5c Qd Kh] [Qh]
+*** SHOW DOWN ***
+ollikahn23: shows [As Ad] (two pair, Aces and Queens)
+xrono72: shows [Qc Qs] (four of a kind, Queens)
+xrono72 collected 5682 from pot
+*** SUMMARY ***
+Total pot 5682 | Rake 0 
+Board [6d 5c Qd Kh Qh]
+Seat 1: jakubaniol (big blind) folded before Flop
+Seat 2: esmeanna folded before Flop (didn't bet)
+Seat 3: igorlekroo folded before Flop (didn't bet)
+Seat 4: APL 03 folded before Flop (didn't bet)
+Seat 6: acivoj pfc folded before Flop (didn't bet)
+Seat 7: HD_M24 folded before Flop (didn't bet)
+Seat 8: xrono72 (button) showed [Qc Qs] and won (5682) with four of a kind, Queens
+Seat 9: ollikahn23 (small blind) showed [As Ad] and lost with two pair, Aces and Queens
+
+
+
+PokerStars Hand #182997834572: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/02/24 18:13:51 ET
+Table '2230353017 4' 9-max Seat #9 is the button
+Seat 1: jakubaniol (5572 in chips) 
+Seat 2: esmeanna (7456 in chips) 
+Seat 3: igorlekroo (4317 in chips) 
+Seat 4: APL 03 (2028 in chips) 
+Seat 6: acivoj pfc (2703 in chips) 
+Seat 7: HD_M24 (5388 in chips) 
+Seat 8: xrono72 (5682 in chips) 
+Seat 9: ollikahn23 (2312 in chips) 
+jakubaniol: posts the ante 10
+esmeanna: posts the ante 10
+igorlekroo: posts the ante 10
+APL 03: posts the ante 10
+acivoj pfc: posts the ante 10
+HD_M24: posts the ante 10
+xrono72: posts the ante 10
+ollikahn23: posts the ante 10
+jakubaniol: posts small blind 50
+esmeanna: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ks 3s]
+igorlekroo: folds 
+APL 03: folds 
+acivoj pfc: raises 125 to 225
+HD_M24: folds 
+xrono72: folds 
+ollikahn23: folds 
+jakubaniol: folds 
+esmeanna: folds 
+Uncalled bet (125) returned to acivoj pfc
+acivoj pfc collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | Rake 0 
+Seat 1: jakubaniol (small blind) folded before Flop
+Seat 2: esmeanna (big blind) folded before Flop
+Seat 3: igorlekroo folded before Flop (didn't bet)
+Seat 4: APL 03 folded before Flop (didn't bet)
+Seat 6: acivoj pfc collected (330)
+Seat 7: HD_M24 folded before Flop (didn't bet)
+Seat 8: xrono72 folded before Flop (didn't bet)
+Seat 9: ollikahn23 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182997862277: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level V (75/150) - 2018/02/24 18:14:29 ET
+Table '2230353017 4' 9-max Seat #1 is the button
+Seat 1: jakubaniol (5512 in chips) 
+Seat 2: esmeanna (7346 in chips) 
+Seat 3: igorlekroo (4307 in chips) 
+Seat 4: APL 03 (2018 in chips) 
+Seat 6: acivoj pfc (2923 in chips) 
+Seat 7: HD_M24 (5378 in chips) 
+Seat 8: xrono72 (5672 in chips) 
+Seat 9: ollikahn23 (2302 in chips) 
+jakubaniol: posts the ante 15
+esmeanna: posts the ante 15
+igorlekroo: posts the ante 15
+APL 03: posts the ante 15
+acivoj pfc: posts the ante 15
+HD_M24: posts the ante 15
+xrono72: posts the ante 15
+ollikahn23: posts the ante 15
+esmeanna: posts small blind 75
+igorlekroo: posts big blind 150
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ts 6d]
+APL 03: folds 
+acivoj pfc: folds 
+HD_M24: folds 
+xrono72: folds 
+ollikahn23: folds 
+jakubaniol: raises 150 to 300
+esmeanna: folds 
+igorlekroo: folds 
+Uncalled bet (150) returned to jakubaniol
+jakubaniol collected 495 from pot
+*** SUMMARY ***
+Total pot 495 | Rake 0 
+Seat 1: jakubaniol (button) collected (495)
+Seat 2: esmeanna (small blind) folded before Flop
+Seat 3: igorlekroo (big blind) folded before Flop
+Seat 4: APL 03 folded before Flop (didn't bet)
+Seat 6: acivoj pfc folded before Flop (didn't bet)
+Seat 7: HD_M24 folded before Flop (didn't bet)
+Seat 8: xrono72 folded before Flop (didn't bet)
+Seat 9: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182997882240: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level V (75/150) - 2018/02/24 18:14:56 ET
+Table '2230353017 4' 9-max Seat #2 is the button
+Seat 1: jakubaniol (5842 in chips) 
+Seat 2: esmeanna (7256 in chips) 
+Seat 3: igorlekroo (4142 in chips) 
+Seat 4: APL 03 (2003 in chips) 
+Seat 6: acivoj pfc (2908 in chips) 
+Seat 7: HD_M24 (5363 in chips) 
+Seat 8: xrono72 (5657 in chips) 
+Seat 9: ollikahn23 (2287 in chips) 
+jakubaniol: posts the ante 15
+esmeanna: posts the ante 15
+igorlekroo: posts the ante 15
+APL 03: posts the ante 15
+acivoj pfc: posts the ante 15
+HD_M24: posts the ante 15
+xrono72: posts the ante 15
+ollikahn23: posts the ante 15
+igorlekroo: posts small blind 75
+APL 03: posts big blind 150
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2s Kc]
+acivoj pfc: folds 
+HD_M24: folds 
+xrono72: folds 
+ollikahn23: folds 
+jakubaniol: raises 150 to 300
+esmeanna: folds 
+igorlekroo: raises 699 to 999
+APL 03: folds 
+jakubaniol: folds 
+Uncalled bet (699) returned to igorlekroo
+igorlekroo collected 870 from pot
+*** SUMMARY ***
+Total pot 870 | Rake 0 
+Seat 1: jakubaniol folded before Flop
+Seat 2: esmeanna (button) folded before Flop (didn't bet)
+Seat 3: igorlekroo (small blind) collected (870)
+Seat 4: APL 03 (big blind) folded before Flop
+Seat 6: acivoj pfc folded before Flop (didn't bet)
+Seat 7: HD_M24 folded before Flop (didn't bet)
+Seat 8: xrono72 folded before Flop (didn't bet)
+Seat 9: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182997915730: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level V (75/150) - 2018/02/24 18:15:43 ET
+Table '2230353017 4' 9-max Seat #3 is the button
+Seat 1: jakubaniol (5527 in chips) 
+Seat 2: esmeanna (7241 in chips) 
+Seat 3: igorlekroo (4697 in chips) 
+Seat 4: APL 03 (1838 in chips) 
+Seat 5: bartlolhey (542 in chips) 
+Seat 6: acivoj pfc (2893 in chips) 
+Seat 7: HD_M24 (5348 in chips) 
+Seat 8: xrono72 (5642 in chips) 
+Seat 9: ollikahn23 (2272 in chips) 
+jakubaniol: posts the ante 15
+esmeanna: posts the ante 15
+igorlekroo: posts the ante 15
+APL 03: posts the ante 15
+bartlolhey: posts the ante 15
+acivoj pfc: posts the ante 15
+HD_M24: posts the ante 15
+xrono72: posts the ante 15
+ollikahn23: posts the ante 15
+APL 03: posts small blind 75
+bartlolhey: posts big blind 150
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9c 5c]
+acivoj pfc: folds 
+HD_M24: folds 
+xrono72: raises 300 to 450
+ollikahn23: folds 
+jakubaniol: folds 
+esmeanna: folds 
+igorlekroo: folds 
+APL 03: folds 
+bartlolhey: calls 300
+*** FLOP *** [8h Kh 7d]
+bartlolhey: checks 
+xrono72: bets 450
+bartlolhey: folds 
+Uncalled bet (450) returned to xrono72
+xrono72 collected 1110 from pot
+*** SUMMARY ***
+Total pot 1110 | Rake 0 
+Board [8h Kh 7d]
+Seat 1: jakubaniol folded before Flop (didn't bet)
+Seat 2: esmeanna folded before Flop (didn't bet)
+Seat 3: igorlekroo (button) folded before Flop (didn't bet)
+Seat 4: APL 03 (small blind) folded before Flop
+Seat 5: bartlolhey (big blind) folded on the Flop
+Seat 6: acivoj pfc folded before Flop (didn't bet)
+Seat 7: HD_M24 folded before Flop (didn't bet)
+Seat 8: xrono72 collected (1110)
+Seat 9: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182997949433: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level V (75/150) - 2018/02/24 18:16:29 ET
+Table '2230353017 4' 9-max Seat #4 is the button
+Seat 1: jakubaniol (5512 in chips) 
+Seat 2: esmeanna (7226 in chips) 
+Seat 3: igorlekroo (4682 in chips) 
+Seat 4: APL 03 (1748 in chips) 
+Seat 6: acivoj pfc (2878 in chips) 
+Seat 7: HD_M24 (5333 in chips) 
+Seat 8: xrono72 (6287 in chips) 
+Seat 9: ollikahn23 (2257 in chips) 
+jakubaniol: posts the ante 15
+esmeanna: posts the ante 15
+igorlekroo: posts the ante 15
+APL 03: posts the ante 15
+acivoj pfc: posts the ante 15
+HD_M24: posts the ante 15
+xrono72: posts the ante 15
+ollikahn23: posts the ante 15
+acivoj pfc: posts small blind 75
+HD_M24: posts big blind 150
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7s 4c]
+xrono72: folds 
+ollikahn23: folds 
+jakubaniol: raises 150 to 300
+esmeanna: folds 
+igorlekroo: raises 699 to 999
+APL 03: folds 
+acivoj pfc: folds 
+HD_M24: calls 849
+jakubaniol: calls 699
+*** FLOP *** [2d 3c 6c]
+HD_M24: checks 
+jakubaniol: checks 
+igorlekroo: checks 
+*** TURN *** [2d 3c 6c] [6d]
+HD_M24: bets 2100
+jakubaniol: folds 
+igorlekroo: folds 
+Uncalled bet (2100) returned to HD_M24
+HD_M24 collected 3192 from pot
+HD_M24: doesn't show hand 
+*** SUMMARY ***
+Total pot 3192 | Rake 0 
+Board [2d 3c 6c 6d]
+Seat 1: jakubaniol folded on the Turn
+Seat 2: esmeanna folded before Flop (didn't bet)
+Seat 3: igorlekroo folded on the Turn
+Seat 4: APL 03 (button) folded before Flop (didn't bet)
+Seat 6: acivoj pfc (small blind) folded before Flop
+Seat 7: HD_M24 (big blind) collected (3192)
+Seat 8: xrono72 folded before Flop (didn't bet)
+Seat 9: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182998003477: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level V (75/150) - 2018/02/24 18:17:44 ET
+Table '2230353017 4' 9-max Seat #6 is the button
+Seat 1: jakubaniol (4498 in chips) 
+Seat 2: esmeanna (7211 in chips) 
+Seat 3: igorlekroo (3668 in chips) 
+Seat 4: APL 03 (1733 in chips) 
+Seat 6: acivoj pfc (2788 in chips) 
+Seat 7: HD_M24 (7511 in chips) 
+Seat 8: xrono72 (6272 in chips) 
+Seat 9: ollikahn23 (2242 in chips) 
+jakubaniol: posts the ante 15
+esmeanna: posts the ante 15
+igorlekroo: posts the ante 15
+APL 03: posts the ante 15
+acivoj pfc: posts the ante 15
+HD_M24: posts the ante 15
+xrono72: posts the ante 15
+ollikahn23: posts the ante 15
+HD_M24: posts small blind 75
+xrono72: posts big blind 150
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8s 7c]
+ollikahn23: folds 
+jakubaniol: raises 150 to 300
+esmeanna: folds 
+igorlekroo: folds 
+APL 03: folds 
+acivoj pfc: folds 
+HD_M24: folds 
+xrono72: calls 150
+*** FLOP *** [Jh 7s Kc]
+xrono72: checks 
+jakubaniol: bets 300
+xrono72: calls 300
+*** TURN *** [Jh 7s Kc] [Ts]
+xrono72: checks 
+jakubaniol: bets 900
+xrono72: folds 
+Uncalled bet (900) returned to jakubaniol
+jakubaniol collected 1395 from pot
+*** SUMMARY ***
+Total pot 1395 | Rake 0 
+Board [Jh 7s Kc Ts]
+Seat 1: jakubaniol collected (1395)
+Seat 2: esmeanna folded before Flop (didn't bet)
+Seat 3: igorlekroo folded before Flop (didn't bet)
+Seat 4: APL 03 folded before Flop (didn't bet)
+Seat 6: acivoj pfc (button) folded before Flop (didn't bet)
+Seat 7: HD_M24 (small blind) folded before Flop
+Seat 8: xrono72 (big blind) folded on the Turn
+Seat 9: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182998048307: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level V (75/150) - 2018/02/24 18:18:47 ET
+Table '2230353017 4' 9-max Seat #7 is the button
+Seat 1: jakubaniol (5278 in chips) 
+Seat 2: esmeanna (7196 in chips) 
+Seat 3: igorlekroo (3653 in chips) 
+Seat 4: APL 03 (1718 in chips) 
+Seat 6: acivoj pfc (2773 in chips) 
+Seat 7: HD_M24 (7421 in chips) 
+Seat 8: xrono72 (5657 in chips) 
+Seat 9: ollikahn23 (2227 in chips) 
+jakubaniol: posts the ante 15
+esmeanna: posts the ante 15
+igorlekroo: posts the ante 15
+APL 03: posts the ante 15
+acivoj pfc: posts the ante 15
+HD_M24: posts the ante 15
+xrono72: posts the ante 15
+ollikahn23: posts the ante 15
+xrono72: posts small blind 75
+ollikahn23: posts big blind 150
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3c 7s]
+jakubaniol: folds 
+esmeanna: folds 
+igorlekroo: folds 
+APL 03: raises 150 to 300
+acivoj pfc: folds 
+HD_M24: folds 
+xrono72: folds 
+ollikahn23: folds 
+Uncalled bet (150) returned to APL 03
+APL 03 collected 495 from pot
+APL 03: doesn't show hand 
+*** SUMMARY ***
+Total pot 495 | Rake 0 
+Seat 1: jakubaniol folded before Flop (didn't bet)
+Seat 2: esmeanna folded before Flop (didn't bet)
+Seat 3: igorlekroo folded before Flop (didn't bet)
+Seat 4: APL 03 collected (495)
+Seat 6: acivoj pfc folded before Flop (didn't bet)
+Seat 7: HD_M24 (button) folded before Flop (didn't bet)
+Seat 8: xrono72 (small blind) folded before Flop
+Seat 9: ollikahn23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #182998076294: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level V (75/150) - 2018/02/24 18:19:25 ET
+Table '2230353017 4' 9-max Seat #8 is the button
+Seat 1: jakubaniol (5263 in chips) 
+Seat 2: esmeanna (7181 in chips) 
+Seat 3: igorlekroo (3638 in chips) 
+Seat 4: APL 03 (2048 in chips) 
+Seat 6: acivoj pfc (2758 in chips) 
+Seat 7: HD_M24 (7406 in chips) 
+Seat 8: xrono72 (5567 in chips) 
+Seat 9: ollikahn23 (2062 in chips) 
+jakubaniol: posts the ante 15
+esmeanna: posts the ante 15
+igorlekroo: posts the ante 15
+APL 03: posts the ante 15
+acivoj pfc: posts the ante 15
+HD_M24: posts the ante 15
+xrono72: posts the ante 15
+ollikahn23: posts the ante 15
+ollikahn23: posts small blind 75
+jakubaniol: posts big blind 150
+*** HOLE CARDS ***
+Dealt to ollikahn23 [As 3d]
+esmeanna: folds 
+igorlekroo: folds 
+APL 03: raises 1883 to 2033 and is all-in
+acivoj pfc: folds 
+HD_M24: folds 
+xrono72: folds 
+ollikahn23: folds 
+jakubaniol: folds 
+Uncalled bet (1883) returned to APL 03
+APL 03 collected 495 from pot
+APL 03: doesn't show hand 
+*** SUMMARY ***
+Total pot 495 | Rake 0 
+Seat 1: jakubaniol (big blind) folded before Flop
+Seat 2: esmeanna folded before Flop (didn't bet)
+Seat 3: igorlekroo folded before Flop (didn't bet)
+Seat 4: APL 03 collected (495)
+Seat 6: acivoj pfc folded before Flop (didn't bet)
+Seat 7: HD_M24 folded before Flop (didn't bet)
+Seat 8: xrono72 (button) folded before Flop (didn't bet)
+Seat 9: ollikahn23 (small blind) folded before Flop
+
+
+
+PokerStars Hand #182998107027: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level V (75/150) - 2018/02/24 18:20:08 ET
+Table '2230353017 4' 9-max Seat #9 is the button
+Seat 1: jakubaniol (5098 in chips) 
+Seat 2: esmeanna (7166 in chips) 
+Seat 3: igorlekroo (3623 in chips) 
+Seat 4: APL 03 (2378 in chips) 
+Seat 6: acivoj pfc (2743 in chips) 
+Seat 7: HD_M24 (7391 in chips) 
+Seat 8: xrono72 (5552 in chips) 
+Seat 9: ollikahn23 (1972 in chips) 
+jakubaniol: posts the ante 15
+esmeanna: posts the ante 15
+igorlekroo: posts the ante 15
+APL 03: posts the ante 15
+acivoj pfc: posts the ante 15
+HD_M24: posts the ante 15
+xrono72: posts the ante 15
+ollikahn23: posts the ante 15
+jakubaniol: posts small blind 75
+esmeanna: posts big blind 150
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Td 6d]
+igorlekroo: folds 
+APL 03: folds 
+acivoj pfc: raises 187 to 337
+HD_M24: folds 
+xrono72: calls 337
+ollikahn23: folds 
+jakubaniol: folds 
+esmeanna: folds 
+*** FLOP *** [Qh 9d 2s]
+acivoj pfc: bets 285
+xrono72: raises 1589 to 1874
+acivoj pfc: folds 
+Uncalled bet (1589) returned to xrono72
+xrono72 collected 1589 from pot
+*** SUMMARY ***
+Total pot 1589 | Rake 0 
+Board [Qh 9d 2s]
+Seat 1: jakubaniol (small blind) folded before Flop
+Seat 2: esmeanna (big blind) folded before Flop
+Seat 3: igorlekroo folded before Flop (didn't bet)
+Seat 4: APL 03 folded before Flop (didn't bet)
+Seat 6: acivoj pfc folded on the Flop
+Seat 7: HD_M24 folded before Flop (didn't bet)
+Seat 8: xrono72 collected (1589)
+Seat 9: ollikahn23 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182998141236: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level V (75/150) - 2018/02/24 18:20:56 ET
+Table '2230353017 4' 9-max Seat #1 is the button
+Seat 1: jakubaniol (5008 in chips) 
+Seat 2: esmeanna (7001 in chips) 
+Seat 3: igorlekroo (3608 in chips) 
+Seat 4: APL 03 (2363 in chips) 
+Seat 5: tconservani (6273 in chips) 
+Seat 6: acivoj pfc (2106 in chips) 
+Seat 7: HD_M24 (7376 in chips) 
+Seat 8: xrono72 (6504 in chips) 
+Seat 9: ollikahn23 (1957 in chips) 
+jakubaniol: posts the ante 15
+esmeanna: posts the ante 15
+igorlekroo: posts the ante 15
+APL 03: posts the ante 15
+tconservani: posts the ante 15
+acivoj pfc: posts the ante 15
+HD_M24: posts the ante 15
+xrono72: posts the ante 15
+ollikahn23: posts the ante 15
+esmeanna: posts small blind 75
+igorlekroo: posts big blind 150
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jc Ks]
+APL 03: folds 
+tconservani: folds 
+acivoj pfc: folds 
+HD_M24: folds 
+xrono72: folds 
+ollikahn23: raises 1792 to 1942 and is all-in
+jakubaniol: folds 
+esmeanna: folds 
+igorlekroo: folds 
+Uncalled bet (1792) returned to ollikahn23
+ollikahn23 collected 510 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 510 | Rake 0 
+Seat 1: jakubaniol (button) folded before Flop (didn't bet)
+Seat 2: esmeanna (small blind) folded before Flop
+Seat 3: igorlekroo (big blind) folded before Flop
+Seat 4: APL 03 folded before Flop (didn't bet)
+Seat 5: tconservani folded before Flop (didn't bet)
+Seat 6: acivoj pfc folded before Flop (didn't bet)
+Seat 7: HD_M24 folded before Flop (didn't bet)
+Seat 8: xrono72 folded before Flop (didn't bet)
+Seat 9: ollikahn23 collected (510)
+
+
+
+PokerStars Hand #182998163670: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level V (75/150) - 2018/02/24 18:21:27 ET
+Table '2230353017 4' 9-max Seat #2 is the button
+Seat 1: jakubaniol (4993 in chips) 
+Seat 2: esmeanna (6911 in chips) 
+Seat 3: igorlekroo (3443 in chips) 
+Seat 4: APL 03 (2348 in chips) 
+Seat 5: tconservani (6258 in chips) 
+Seat 6: acivoj pfc (2091 in chips) 
+Seat 7: HD_M24 (7361 in chips) 
+Seat 8: xrono72 (6489 in chips) 
+Seat 9: ollikahn23 (2302 in chips) 
+jakubaniol: posts the ante 15
+esmeanna: posts the ante 15
+igorlekroo: posts the ante 15
+APL 03: posts the ante 15
+tconservani: posts the ante 15
+acivoj pfc: posts the ante 15
+HD_M24: posts the ante 15
+xrono72: posts the ante 15
+ollikahn23: posts the ante 15
+igorlekroo: posts small blind 75
+APL 03: posts big blind 150
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7c Jd]
+tconservani: folds 
+acivoj pfc: folds 
+HD_M24: folds 
+xrono72: folds 
+ollikahn23: folds 
+jakubaniol: folds 
+esmeanna: folds 
+igorlekroo: folds 
+Uncalled bet (75) returned to APL 03
+APL 03 collected 285 from pot
+APL 03: doesn't show hand 
+*** SUMMARY ***
+Total pot 285 | Rake 0 
+Seat 1: jakubaniol folded before Flop (didn't bet)
+Seat 2: esmeanna (button) folded before Flop (didn't bet)
+Seat 3: igorlekroo (small blind) folded before Flop
+Seat 4: APL 03 (big blind) collected (285)
+Seat 5: tconservani folded before Flop (didn't bet)
+Seat 6: acivoj pfc folded before Flop (didn't bet)
+Seat 7: HD_M24 folded before Flop (didn't bet)
+Seat 8: xrono72 folded before Flop (didn't bet)
+Seat 9: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182998194239: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level V (75/150) - 2018/02/24 18:22:09 ET
+Table '2230353017 4' 9-max Seat #3 is the button
+Seat 1: jakubaniol (4978 in chips) 
+Seat 2: esmeanna (6896 in chips) 
+Seat 3: igorlekroo (3353 in chips) 
+Seat 4: APL 03 (2543 in chips) 
+Seat 5: tconservani (6243 in chips) 
+Seat 6: acivoj pfc (2076 in chips) 
+Seat 7: HD_M24 (7346 in chips) 
+Seat 8: xrono72 (6474 in chips) 
+Seat 9: ollikahn23 (2287 in chips) 
+jakubaniol: posts the ante 15
+esmeanna: posts the ante 15
+igorlekroo: posts the ante 15
+APL 03: posts the ante 15
+tconservani: posts the ante 15
+acivoj pfc: posts the ante 15
+HD_M24: posts the ante 15
+xrono72: posts the ante 15
+ollikahn23: posts the ante 15
+APL 03: posts small blind 75
+tconservani: posts big blind 150
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6c 5s]
+acivoj pfc: folds 
+HD_M24: folds 
+xrono72: folds 
+ollikahn23: folds 
+jakubaniol: folds 
+esmeanna: folds 
+igorlekroo: folds 
+APL 03: calls 75
+tconservani: checks 
+*** FLOP *** [9d Kh Ad]
+APL 03: bets 225
+tconservani: folds 
+Uncalled bet (225) returned to APL 03
+APL 03 collected 435 from pot
+APL 03: doesn't show hand 
+*** SUMMARY ***
+Total pot 435 | Rake 0 
+Board [9d Kh Ad]
+Seat 1: jakubaniol folded before Flop (didn't bet)
+Seat 2: esmeanna folded before Flop (didn't bet)
+Seat 3: igorlekroo (button) folded before Flop (didn't bet)
+Seat 4: APL 03 (small blind) collected (435)
+Seat 5: tconservani (big blind) folded on the Flop
+Seat 6: acivoj pfc folded before Flop (didn't bet)
+Seat 7: HD_M24 folded before Flop (didn't bet)
+Seat 8: xrono72 folded before Flop (didn't bet)
+Seat 9: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182998232933: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level V (75/150) - 2018/02/24 18:23:04 ET
+Table '2230353017 4' 9-max Seat #4 is the button
+Seat 1: jakubaniol (4963 in chips) 
+Seat 2: esmeanna (6881 in chips) 
+Seat 3: igorlekroo (3338 in chips) 
+Seat 4: APL 03 (2813 in chips) 
+Seat 5: tconservani (6078 in chips) 
+Seat 6: acivoj pfc (2061 in chips) 
+Seat 7: HD_M24 (7331 in chips) 
+Seat 8: xrono72 (6459 in chips) 
+Seat 9: ollikahn23 (2272 in chips) 
+jakubaniol: posts the ante 15
+esmeanna: posts the ante 15
+igorlekroo: posts the ante 15
+APL 03: posts the ante 15
+tconservani: posts the ante 15
+acivoj pfc: posts the ante 15
+HD_M24: posts the ante 15
+xrono72: posts the ante 15
+ollikahn23: posts the ante 15
+tconservani: posts small blind 75
+acivoj pfc: posts big blind 150
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5s 2d]
+HD_M24: folds 
+xrono72: raises 300 to 450
+ollikahn23: folds 
+jakubaniol: calls 450
+esmeanna: folds 
+igorlekroo: folds 
+APL 03: folds 
+tconservani: folds 
+acivoj pfc: raises 1596 to 2046 and is all-in
+xrono72: calls 1596
+jakubaniol: folds 
+*** FLOP *** [As Ks Jc]
+*** TURN *** [As Ks Jc] [9c]
+*** RIVER *** [As Ks Jc 9c] [7h]
+*** SHOW DOWN ***
+acivoj pfc: shows [9d 9s] (three of a kind, Nines)
+xrono72: shows [Qd Jd] (a pair of Jacks)
+acivoj pfc collected 4752 from pot
+*** SUMMARY ***
+Total pot 4752 | Rake 0 
+Board [As Ks Jc 9c 7h]
+Seat 1: jakubaniol folded before Flop
+Seat 2: esmeanna folded before Flop (didn't bet)
+Seat 3: igorlekroo folded before Flop (didn't bet)
+Seat 4: APL 03 (button) folded before Flop (didn't bet)
+Seat 5: tconservani (small blind) folded before Flop
+Seat 6: acivoj pfc (big blind) showed [9d 9s] and won (4752) with three of a kind, Nines
+Seat 7: HD_M24 folded before Flop (didn't bet)
+Seat 8: xrono72 showed [Qd Jd] and lost with a pair of Jacks
+Seat 9: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182998279309: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level V (75/150) - 2018/02/24 18:24:09 ET
+Table '2230353017 4' 9-max Seat #5 is the button
+Seat 1: jakubaniol (4498 in chips) 
+Seat 2: esmeanna (6866 in chips) 
+Seat 3: igorlekroo (3323 in chips) 
+Seat 4: APL 03 (2798 in chips) 
+Seat 5: tconservani (5988 in chips) 
+Seat 6: acivoj pfc (4752 in chips) 
+Seat 7: HD_M24 (7316 in chips) 
+Seat 8: xrono72 (4398 in chips) 
+Seat 9: ollikahn23 (2257 in chips) 
+jakubaniol: posts the ante 15
+esmeanna: posts the ante 15
+igorlekroo: posts the ante 15
+APL 03: posts the ante 15
+tconservani: posts the ante 15
+acivoj pfc: posts the ante 15
+HD_M24: posts the ante 15
+xrono72: posts the ante 15
+ollikahn23: posts the ante 15
+acivoj pfc: posts small blind 75
+HD_M24: posts big blind 150
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8h Ah]
+xrono72: folds 
+ollikahn23: raises 150 to 300
+jakubaniol: calls 300
+esmeanna: folds 
+xrono72 said, "yap"
+igorlekroo: folds 
+xrono72 said, " yayayayaaaa"
+APL 03: folds 
+tconservani: folds 
+acivoj pfc: folds 
+HD_M24: folds 
+*** FLOP *** [8d 9s 4h]
+ollikahn23: bets 450
+jakubaniol: calls 450
+*** TURN *** [8d 9s 4h] [6s]
+ollikahn23: bets 1492 and is all-in
+jakubaniol: folds 
+Uncalled bet (1492) returned to ollikahn23
+ollikahn23 collected 1860 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 1860 | Rake 0 
+Board [8d 9s 4h 6s]
+Seat 1: jakubaniol folded on the Turn
+Seat 2: esmeanna folded before Flop (didn't bet)
+Seat 3: igorlekroo folded before Flop (didn't bet)
+Seat 4: APL 03 folded before Flop (didn't bet)
+Seat 5: tconservani (button) folded before Flop (didn't bet)
+Seat 6: acivoj pfc (small blind) folded before Flop
+Seat 7: HD_M24 (big blind) folded before Flop
+Seat 8: xrono72 folded before Flop (didn't bet)
+Seat 9: ollikahn23 collected (1860)
+
+
+
+PokerStars Hand #182998317994: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level V (75/150) - 2018/02/24 18:25:03 ET
+Table '2230353017 4' 9-max Seat #6 is the button
+Seat 1: jakubaniol (3733 in chips) 
+Seat 2: esmeanna (6851 in chips) 
+Seat 3: igorlekroo (3308 in chips) 
+Seat 5: tconservani (5973 in chips) 
+Seat 6: acivoj pfc (4662 in chips) 
+Seat 7: HD_M24 (7151 in chips) 
+Seat 8: xrono72 (4383 in chips) 
+Seat 9: ollikahn23 (3352 in chips) 
+jakubaniol: posts the ante 15
+esmeanna: posts the ante 15
+igorlekroo: posts the ante 15
+tconservani: posts the ante 15
+acivoj pfc: posts the ante 15
+HD_M24: posts the ante 15
+xrono72: posts the ante 15
+ollikahn23: posts the ante 15
+HD_M24: posts small blind 75
+xrono72: posts big blind 150
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5c Qh]
+ollikahn23: folds 
+jakubaniol: folds 
+esmeanna: raises 300 to 450
+igorlekroo: folds 
+tconservani: folds 
+acivoj pfc: folds 
+HD_M24: folds 
+igorlekroo is sitting out
+xrono72: calls 300
+*** FLOP *** [Js 8h Jc]
+xrono72: checks 
+esmeanna: checks 
+*** TURN *** [Js 8h Jc] [3s]
+igorlekroo has returned
+xrono72: bets 600
+esmeanna: folds 
+Uncalled bet (600) returned to xrono72
+xrono72 collected 1095 from pot
+*** SUMMARY ***
+Total pot 1095 | Rake 0 
+Board [Js 8h Jc 3s]
+Seat 1: jakubaniol folded before Flop (didn't bet)
+Seat 2: esmeanna folded on the Turn
+Seat 3: igorlekroo folded before Flop (didn't bet)
+Seat 5: tconservani folded before Flop (didn't bet)
+Seat 6: acivoj pfc (button) folded before Flop (didn't bet)
+Seat 7: HD_M24 (small blind) folded before Flop
+Seat 8: xrono72 (big blind) collected (1095)
+Seat 9: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182998373975: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level V (75/150) - 2018/02/24 18:26:22 ET
+Table '2230353017 4' 9-max Seat #7 is the button
+Seat 1: jakubaniol (3718 in chips) 
+Seat 2: esmeanna (6386 in chips) 
+Seat 3: igorlekroo (3293 in chips) 
+Seat 5: tconservani (5958 in chips) 
+Seat 6: acivoj pfc (4647 in chips) 
+Seat 7: HD_M24 (7061 in chips) 
+Seat 8: xrono72 (5013 in chips) 
+Seat 9: ollikahn23 (3337 in chips) 
+jakubaniol: posts the ante 15
+esmeanna: posts the ante 15
+igorlekroo: posts the ante 15
+tconservani: posts the ante 15
+acivoj pfc: posts the ante 15
+HD_M24: posts the ante 15
+xrono72: posts the ante 15
+ollikahn23: posts the ante 15
+xrono72: posts small blind 75
+ollikahn23: posts big blind 150
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3s Ad]
+jakubaniol: folds 
+esmeanna: folds 
+igorlekroo: raises 150 to 300
+tconservani: folds 
+acivoj pfc: folds 
+HD_M24: folds 
+xrono72: calls 225
+ollikahn23: folds 
+*** FLOP *** [4h 2s Kd]
+xrono72: checks 
+igorlekroo has timed out while being disconnected
+igorlekroo: checks 
+*** TURN *** [4h 2s Kd] [Kh]
+xrono72: checks 
+igorlekroo is disconnected 
+igorlekroo is connected 
+igorlekroo has timed out
+igorlekroo: checks 
+*** RIVER *** [4h 2s Kd Kh] [4c]
+xrono72: bets 450
+igorlekroo: raises 2528 to 2978 and is all-in
+xrono72: folds 
+Uncalled bet (2528) returned to igorlekroo
+igorlekroo collected 1770 from pot
+igorlekroo: doesn't show hand 
+*** SUMMARY ***
+Total pot 1770 | Rake 0 
+Board [4h 2s Kd Kh 4c]
+Seat 1: jakubaniol folded before Flop (didn't bet)
+Seat 2: esmeanna folded before Flop (didn't bet)
+Seat 3: igorlekroo collected (1770)
+Seat 5: tconservani folded before Flop (didn't bet)
+Seat 6: acivoj pfc folded before Flop (didn't bet)
+Seat 7: HD_M24 (button) folded before Flop (didn't bet)
+Seat 8: xrono72 (small blind) folded on the River
+Seat 9: ollikahn23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #182998446565: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level V (75/150) - 2018/02/24 18:28:05 ET
+Table '2230353017 4' 9-max Seat #8 is the button
+Seat 1: jakubaniol (3703 in chips) 
+Seat 2: esmeanna (6371 in chips) 
+Seat 3: igorlekroo (4298 in chips) 
+Seat 5: tconservani (5943 in chips) 
+Seat 6: acivoj pfc (4632 in chips) 
+Seat 7: HD_M24 (7046 in chips) 
+Seat 8: xrono72 (4248 in chips) 
+Seat 9: ollikahn23 (3172 in chips) 
+jakubaniol: posts the ante 15
+esmeanna: posts the ante 15
+igorlekroo: posts the ante 15
+tconservani: posts the ante 15
+acivoj pfc: posts the ante 15
+HD_M24: posts the ante 15
+xrono72: posts the ante 15
+ollikahn23: posts the ante 15
+ollikahn23: posts small blind 75
+jakubaniol: posts big blind 150
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qs Tc]
+esmeanna: folds 
+igorlekroo: folds 
+tconservani: folds 
+acivoj pfc: folds 
+HD_M24: raises 150 to 300
+xrono72: folds 
+ollikahn23: folds 
+jakubaniol: raises 750 to 1050
+HD_M24: folds 
+Uncalled bet (750) returned to jakubaniol
+jakubaniol collected 795 from pot
+*** SUMMARY ***
+Total pot 795 | Rake 0 
+Seat 1: jakubaniol (big blind) collected (795)
+Seat 2: esmeanna folded before Flop (didn't bet)
+Seat 3: igorlekroo folded before Flop (didn't bet)
+Seat 5: tconservani folded before Flop (didn't bet)
+Seat 6: acivoj pfc folded before Flop (didn't bet)
+Seat 7: HD_M24 folded before Flop
+Seat 8: xrono72 (button) folded before Flop (didn't bet)
+Seat 9: ollikahn23 (small blind) folded before Flop
+
+
+
+PokerStars Hand #182998484106: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level V (75/150) - 2018/02/24 18:28:58 ET
+Table '2230353017 4' 9-max Seat #9 is the button
+Seat 1: jakubaniol (4183 in chips) 
+Seat 2: esmeanna (6356 in chips) 
+Seat 3: igorlekroo (4283 in chips) 
+Seat 5: tconservani (5928 in chips) 
+Seat 6: acivoj pfc (4617 in chips) 
+Seat 7: HD_M24 (6731 in chips) 
+Seat 8: xrono72 (4233 in chips) 
+Seat 9: ollikahn23 (3082 in chips) 
+jakubaniol: posts the ante 15
+esmeanna: posts the ante 15
+igorlekroo: posts the ante 15
+tconservani: posts the ante 15
+acivoj pfc: posts the ante 15
+HD_M24: posts the ante 15
+xrono72: posts the ante 15
+ollikahn23: posts the ante 15
+jakubaniol: posts small blind 75
+esmeanna: posts big blind 150
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7c Th]
+igorlekroo: folds 
+tconservani: folds 
+acivoj pfc: raises 187 to 337
+HD_M24: folds 
+xrono72: folds 
+ollikahn23: folds 
+jakubaniol: folds 
+esmeanna: folds 
+Uncalled bet (187) returned to acivoj pfc
+acivoj pfc collected 495 from pot
+*** SUMMARY ***
+Total pot 495 | Rake 0 
+Seat 1: jakubaniol (small blind) folded before Flop
+Seat 2: esmeanna (big blind) folded before Flop
+Seat 3: igorlekroo folded before Flop (didn't bet)
+Seat 5: tconservani folded before Flop (didn't bet)
+Seat 6: acivoj pfc collected (495)
+Seat 7: HD_M24 folded before Flop (didn't bet)
+Seat 8: xrono72 folded before Flop (didn't bet)
+Seat 9: ollikahn23 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182998509044: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level VI (100/200) - 2018/02/24 18:29:33 ET
+Table '2230353017 4' 9-max Seat #1 is the button
+Seat 1: jakubaniol (4093 in chips) 
+Seat 2: esmeanna (6191 in chips) 
+Seat 3: igorlekroo (4268 in chips) 
+Seat 5: tconservani (5913 in chips) 
+Seat 6: acivoj pfc (4947 in chips) 
+Seat 7: HD_M24 (6716 in chips) 
+Seat 8: xrono72 (4218 in chips) 
+Seat 9: ollikahn23 (3067 in chips) 
+jakubaniol: posts the ante 20
+esmeanna: posts the ante 20
+igorlekroo: posts the ante 20
+tconservani: posts the ante 20
+acivoj pfc: posts the ante 20
+HD_M24: posts the ante 20
+xrono72: posts the ante 20
+ollikahn23: posts the ante 20
+esmeanna: posts small blind 100
+igorlekroo: posts big blind 200
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3h Ks]
+igorlekroo is disconnected 
+tconservani: folds 
+acivoj pfc: folds 
+HD_M24: folds 
+xrono72: folds 
+ollikahn23: raises 200 to 400
+jakubaniol: raises 800 to 1200
+esmeanna: folds 
+igorlekroo: folds 
+ollikahn23: folds 
+Uncalled bet (800) returned to jakubaniol
+jakubaniol collected 1260 from pot
+*** SUMMARY ***
+Total pot 1260 | Rake 0 
+Seat 1: jakubaniol (button) collected (1260)
+Seat 2: esmeanna (small blind) folded before Flop
+Seat 3: igorlekroo (big blind) folded before Flop
+Seat 5: tconservani folded before Flop (didn't bet)
+Seat 6: acivoj pfc folded before Flop (didn't bet)
+Seat 7: HD_M24 folded before Flop (didn't bet)
+Seat 8: xrono72 folded before Flop (didn't bet)
+Seat 9: ollikahn23 folded before Flop
+
+
+
+PokerStars Hand #182998539991: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level VI (100/200) - 2018/02/24 18:30:18 ET
+Table '2230353017 4' 9-max Seat #2 is the button
+Seat 1: jakubaniol (4933 in chips) 
+Seat 2: esmeanna (6071 in chips) 
+Seat 3: igorlekroo (4048 in chips) 
+Seat 5: tconservani (5893 in chips) 
+Seat 6: acivoj pfc (4927 in chips) 
+Seat 7: HD_M24 (6696 in chips) 
+Seat 8: xrono72 (4198 in chips) 
+Seat 9: ollikahn23 (2647 in chips) 
+jakubaniol: posts the ante 20
+esmeanna: posts the ante 20
+igorlekroo: posts the ante 20
+tconservani: posts the ante 20
+acivoj pfc: posts the ante 20
+HD_M24: posts the ante 20
+xrono72: posts the ante 20
+ollikahn23: posts the ante 20
+igorlekroo: posts small blind 100
+tconservani: posts big blind 200
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2s 9d]
+acivoj pfc: folds 
+HD_M24: folds 
+xrono72: raises 3978 to 4178 and is all-in
+ollikahn23: folds 
+jakubaniol: folds 
+esmeanna: folds 
+igorlekroo: folds 
+tconservani: folds 
+Uncalled bet (3978) returned to xrono72
+xrono72 collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | Rake 0 
+Seat 1: jakubaniol folded before Flop (didn't bet)
+Seat 2: esmeanna (button) folded before Flop (didn't bet)
+Seat 3: igorlekroo (small blind) folded before Flop
+Seat 5: tconservani (big blind) folded before Flop
+Seat 6: acivoj pfc folded before Flop (didn't bet)
+Seat 7: HD_M24 folded before Flop (didn't bet)
+Seat 8: xrono72 collected (660)
+Seat 9: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182998558161: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level VI (100/200) - 2018/02/24 18:30:43 ET
+Table '2230353017 4' 9-max Seat #3 is the button
+Seat 1: jakubaniol (4913 in chips) 
+Seat 2: esmeanna (6051 in chips) 
+Seat 3: igorlekroo (3928 in chips) 
+Seat 5: tconservani (5673 in chips) 
+Seat 6: acivoj pfc (4907 in chips) 
+Seat 7: HD_M24 (6676 in chips) 
+Seat 8: xrono72 (4638 in chips) 
+Seat 9: ollikahn23 (2627 in chips) 
+jakubaniol: posts the ante 20
+esmeanna: posts the ante 20
+igorlekroo: posts the ante 20
+tconservani: posts the ante 20
+acivoj pfc: posts the ante 20
+HD_M24: posts the ante 20
+xrono72: posts the ante 20
+ollikahn23: posts the ante 20
+tconservani: posts small blind 100
+acivoj pfc: posts big blind 200
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qd 9d]
+HD_M24: raises 200 to 400
+xrono72: folds 
+ollikahn23: folds 
+jakubaniol: folds 
+esmeanna: folds 
+igorlekroo: folds 
+tconservani: folds 
+acivoj pfc: folds 
+Uncalled bet (200) returned to HD_M24
+HD_M24 collected 660 from pot
+HD_M24: doesn't show hand 
+*** SUMMARY ***
+Total pot 660 | Rake 0 
+Seat 1: jakubaniol folded before Flop (didn't bet)
+Seat 2: esmeanna folded before Flop (didn't bet)
+Seat 3: igorlekroo (button) folded before Flop (didn't bet)
+Seat 5: tconservani (small blind) folded before Flop
+Seat 6: acivoj pfc (big blind) folded before Flop
+Seat 7: HD_M24 collected (660)
+Seat 8: xrono72 folded before Flop (didn't bet)
+Seat 9: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182998575031: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level VI (100/200) - 2018/02/24 18:31:07 ET
+Table '2230353017 4' 9-max Seat #5 is the button
+Seat 1: jakubaniol (4893 in chips) 
+Seat 2: esmeanna (6031 in chips) 
+Seat 3: igorlekroo (3908 in chips) 
+Seat 5: tconservani (5553 in chips) 
+Seat 6: acivoj pfc (4687 in chips) 
+Seat 7: HD_M24 (7116 in chips) 
+Seat 8: xrono72 (4618 in chips) 
+Seat 9: ollikahn23 (2607 in chips) 
+jakubaniol: posts the ante 20
+esmeanna: posts the ante 20
+igorlekroo: posts the ante 20
+tconservani: posts the ante 20
+acivoj pfc: posts the ante 20
+HD_M24: posts the ante 20
+xrono72: posts the ante 20
+ollikahn23: posts the ante 20
+acivoj pfc: posts small blind 100
+HD_M24: posts big blind 200
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8d 7c]
+xrono72: raises 200 to 400
+ollikahn23: folds 
+jakubaniol: folds 
+esmeanna: folds 
+igorlekroo: folds 
+tconservani: folds 
+acivoj pfc: folds 
+HD_M24: calls 200
+*** FLOP *** [Qd Jd 8c]
+HD_M24: checks 
+xrono72: bets 600
+HD_M24: calls 600
+*** TURN *** [Qd Jd 8c] [3c]
+HD_M24: checks 
+xrono72: bets 2260
+HD_M24: folds 
+Uncalled bet (2260) returned to xrono72
+xrono72 collected 2260 from pot
+*** SUMMARY ***
+Total pot 2260 | Rake 0 
+Board [Qd Jd 8c 3c]
+Seat 1: jakubaniol folded before Flop (didn't bet)
+Seat 2: esmeanna folded before Flop (didn't bet)
+Seat 3: igorlekroo folded before Flop (didn't bet)
+Seat 5: tconservani (button) folded before Flop (didn't bet)
+Seat 6: acivoj pfc (small blind) folded before Flop
+Seat 7: HD_M24 (big blind) folded on the Turn
+Seat 8: xrono72 collected (2260)
+Seat 9: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182998612781: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level VI (100/200) - 2018/02/24 18:32:00 ET
+Table '2230353017 4' 9-max Seat #6 is the button
+Seat 1: jakubaniol (4873 in chips) 
+Seat 2: esmeanna (6011 in chips) 
+Seat 3: igorlekroo (3888 in chips) 
+Seat 4: Royalhead (16361 in chips) 
+Seat 5: tconservani (5533 in chips) 
+Seat 6: acivoj pfc (4567 in chips) 
+Seat 7: HD_M24 (6096 in chips) 
+Seat 8: xrono72 (5858 in chips) 
+Seat 9: ollikahn23 (2587 in chips) 
+jakubaniol: posts the ante 20
+esmeanna: posts the ante 20
+igorlekroo: posts the ante 20
+Royalhead: posts the ante 20
+tconservani: posts the ante 20
+acivoj pfc: posts the ante 20
+HD_M24: posts the ante 20
+xrono72: posts the ante 20
+ollikahn23: posts the ante 20
+HD_M24: posts small blind 100
+xrono72: posts big blind 200
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2c 7d]
+ollikahn23: folds 
+jakubaniol: folds 
+esmeanna: raises 200 to 400
+igorlekroo: folds 
+Royalhead: folds 
+tconservani: folds 
+acivoj pfc: folds 
+HD_M24: folds 
+xrono72: calls 200
+*** FLOP *** [4d Td 3c]
+xrono72: checks 
+esmeanna: bets 400
+xrono72: calls 400
+*** TURN *** [4d Td 3c] [3s]
+xrono72: checks 
+esmeanna: checks 
+*** RIVER *** [4d Td 3c 3s] [Qs]
+xrono72: checks 
+esmeanna: bets 1880
+xrono72: calls 1880
+*** SHOW DOWN ***
+esmeanna: shows [Ts Tc] (a full house, Tens full of Threes)
+xrono72: mucks hand 
+esmeanna collected 5640 from pot
+*** SUMMARY ***
+Total pot 5640 | Rake 0 
+Board [4d Td 3c 3s Qs]
+Seat 1: jakubaniol folded before Flop (didn't bet)
+Seat 2: esmeanna showed [Ts Tc] and won (5640) with a full house, Tens full of Threes
+Seat 3: igorlekroo folded before Flop (didn't bet)
+Seat 4: Royalhead folded before Flop (didn't bet)
+Seat 5: tconservani folded before Flop (didn't bet)
+Seat 6: acivoj pfc (button) folded before Flop (didn't bet)
+Seat 7: HD_M24 (small blind) folded before Flop
+Seat 8: xrono72 (big blind) mucked [4s 5s]
+Seat 9: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182998676413: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level VI (100/200) - 2018/02/24 18:33:30 ET
+Table '2230353017 4' 9-max Seat #7 is the button
+Seat 1: jakubaniol (4853 in chips) 
+Seat 3: igorlekroo (3868 in chips) 
+Seat 4: Royalhead (16341 in chips) 
+Seat 5: tconservani (5513 in chips) 
+Seat 6: acivoj pfc (4547 in chips) 
+Seat 7: HD_M24 (5976 in chips) 
+Seat 8: xrono72 (3158 in chips) 
+Seat 9: ollikahn23 (2567 in chips) 
+jakubaniol: posts the ante 20
+igorlekroo: posts the ante 20
+Royalhead: posts the ante 20
+tconservani: posts the ante 20
+acivoj pfc: posts the ante 20
+HD_M24: posts the ante 20
+xrono72: posts the ante 20
+ollikahn23: posts the ante 20
+xrono72: posts small blind 100
+ollikahn23: posts big blind 200
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ts 6s]
+jakubaniol: raises 200 to 400
+igorlekroo: folds 
+Royalhead: folds 
+tconservani: calls 400
+acivoj pfc: folds 
+HD_M24: folds 
+xrono72: calls 300
+ollikahn23: calls 200
+*** FLOP *** [Ah Qc 8h]
+xrono72: checks 
+ollikahn23: checks 
+jakubaniol: checks 
+tconservani: bets 1302
+xrono72: folds 
+ollikahn23: folds 
+jakubaniol: folds 
+Uncalled bet (1302) returned to tconservani
+tconservani collected 1760 from pot
+*** SUMMARY ***
+Total pot 1760 | Rake 0 
+Board [Ah Qc 8h]
+Seat 1: jakubaniol folded on the Flop
+Seat 3: igorlekroo folded before Flop (didn't bet)
+Seat 4: Royalhead folded before Flop (didn't bet)
+Seat 5: tconservani collected (1760)
+Seat 6: acivoj pfc folded before Flop (didn't bet)
+Seat 7: HD_M24 (button) folded before Flop (didn't bet)
+Seat 8: xrono72 (small blind) folded on the Flop
+Seat 9: ollikahn23 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #182998711505: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level VI (100/200) - 2018/02/24 18:34:20 ET
+Table '2230353017 4' 9-max Seat #8 is the button
+Seat 1: jakubaniol (4433 in chips) 
+Seat 3: igorlekroo (3848 in chips) 
+Seat 4: Royalhead (16321 in chips) 
+Seat 5: tconservani (6853 in chips) 
+Seat 6: acivoj pfc (4527 in chips) 
+Seat 7: HD_M24 (5956 in chips) 
+Seat 8: xrono72 (2738 in chips) 
+Seat 9: ollikahn23 (2147 in chips) 
+jakubaniol: posts the ante 20
+igorlekroo: posts the ante 20
+Royalhead: posts the ante 20
+tconservani: posts the ante 20
+acivoj pfc: posts the ante 20
+HD_M24: posts the ante 20
+xrono72: posts the ante 20
+ollikahn23: posts the ante 20
+ollikahn23: posts small blind 100
+jakubaniol: posts big blind 200
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7s 9c]
+igorlekroo: folds 
+Royalhead: folds 
+tconservani: folds 
+acivoj pfc: folds 
+HD_M24: folds 
+xrono72: folds 
+ollikahn23: folds 
+Uncalled bet (100) returned to jakubaniol
+jakubaniol collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Seat 1: jakubaniol (big blind) collected (360)
+Seat 3: igorlekroo folded before Flop (didn't bet)
+Seat 4: Royalhead folded before Flop (didn't bet)
+Seat 5: tconservani folded before Flop (didn't bet)
+Seat 6: acivoj pfc folded before Flop (didn't bet)
+Seat 7: HD_M24 folded before Flop (didn't bet)
+Seat 8: xrono72 (button) folded before Flop (didn't bet)
+Seat 9: ollikahn23 (small blind) folded before Flop
+
+
+
+PokerStars Hand #182998737122: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level VI (100/200) - 2018/02/24 18:34:56 ET
+Table '2230353017 4' 9-max Seat #9 is the button
+Seat 1: jakubaniol (4673 in chips) 
+Seat 3: igorlekroo (3828 in chips) 
+Seat 4: Royalhead (16301 in chips) 
+Seat 5: tconservani (6833 in chips) 
+Seat 6: acivoj pfc (4507 in chips) 
+Seat 7: HD_M24 (5936 in chips) 
+Seat 8: xrono72 (2718 in chips) 
+Seat 9: ollikahn23 (2027 in chips) 
+jakubaniol: posts the ante 20
+igorlekroo: posts the ante 20
+Royalhead: posts the ante 20
+tconservani: posts the ante 20
+acivoj pfc: posts the ante 20
+HD_M24: posts the ante 20
+xrono72: posts the ante 20
+ollikahn23: posts the ante 20
+jakubaniol: posts small blind 100
+igorlekroo: posts big blind 200
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5c 8c]
+Royalhead: raises 300 to 500
+tconservani: folds 
+acivoj pfc: folds 
+HD_M24: folds 
+xrono72: raises 2198 to 2698 and is all-in
+ollikahn23: folds 
+jakubaniol: folds 
+igorlekroo: folds 
+Royalhead: calls 2198
+*** FLOP *** [Td 8h Kc]
+*** TURN *** [Td 8h Kc] [9c]
+*** RIVER *** [Td 8h Kc 9c] [7d]
+*** SHOW DOWN ***
+Royalhead: shows [Qc Jc] (a straight, Nine to King)
+xrono72: shows [9d Ac] (a pair of Nines)
+Royalhead collected 5856 from pot
+xrono72 finished the tournament in 37th place
+*** SUMMARY ***
+Total pot 5856 | Rake 0 
+Board [Td 8h Kc 9c 7d]
+Seat 1: jakubaniol (small blind) folded before Flop
+Seat 3: igorlekroo (big blind) folded before Flop
+Seat 4: Royalhead showed [Qc Jc] and won (5856) with a straight, Nine to King
+Seat 5: tconservani folded before Flop (didn't bet)
+Seat 6: acivoj pfc folded before Flop (didn't bet)
+Seat 7: HD_M24 folded before Flop (didn't bet)
+Seat 8: xrono72 showed [9d Ac] and lost with a pair of Nines
+Seat 9: ollikahn23 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182998825937: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level VI (100/200) - 2018/02/24 18:37:04 ET
+Table '2230353017 9' 9-max Seat #9 is the button
+Seat 1: esmeanna (11141 in chips) 
+Seat 2: tim-amid (2088 in chips) 
+Seat 3: daum666 (4123 in chips) 
+Seat 4: nine1986nrw (4561 in chips) 
+Seat 5: ollikahn23 (2007 in chips) 
+Seat 6: Asmodei10 (5838 in chips) 
+Seat 7: KingKotlett (2948 in chips) 
+Seat 8: thiakgo (3452 in chips) 
+Seat 9: 1Branislav1 (5371 in chips) 
+esmeanna: posts the ante 20
+tim-amid: posts the ante 20
+daum666: posts the ante 20
+nine1986nrw: posts the ante 20
+ollikahn23: posts the ante 20
+Asmodei10: posts the ante 20
+KingKotlett: posts the ante 20
+thiakgo: posts the ante 20
+1Branislav1: posts the ante 20
+esmeanna: posts small blind 100
+tim-amid: posts big blind 200
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5d 5s]
+daum666 has timed out
+daum666: folds 
+daum666 is sitting out
+nine1986nrw: folds 
+ollikahn23: raises 1787 to 1987 and is all-in
+Asmodei10: folds 
+KingKotlett: folds 
+thiakgo: folds 
+daum666 has returned
+1Branislav1: folds 
+esmeanna: folds 
+tim-amid: folds 
+Uncalled bet (1787) returned to ollikahn23
+ollikahn23 collected 680 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 680 | Rake 0 
+Seat 1: esmeanna (small blind) folded before Flop
+Seat 2: tim-amid (big blind) folded before Flop
+Seat 3: daum666 folded before Flop (didn't bet)
+Seat 4: nine1986nrw folded before Flop (didn't bet)
+Seat 5: ollikahn23 collected (680)
+Seat 6: Asmodei10 folded before Flop (didn't bet)
+Seat 7: KingKotlett folded before Flop (didn't bet)
+Seat 8: thiakgo folded before Flop (didn't bet)
+Seat 9: 1Branislav1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182998854138: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level VI (100/200) - 2018/02/24 18:37:45 ET
+Table '2230353017 9' 9-max Seat #1 is the button
+Seat 1: esmeanna (11021 in chips) 
+Seat 2: tim-amid (1868 in chips) 
+Seat 3: daum666 (4103 in chips) 
+Seat 4: nine1986nrw (4541 in chips) 
+Seat 5: ollikahn23 (2467 in chips) 
+Seat 6: Asmodei10 (5818 in chips) 
+Seat 7: KingKotlett (2928 in chips) 
+Seat 8: thiakgo (3432 in chips) 
+Seat 9: 1Branislav1 (5351 in chips) 
+esmeanna: posts the ante 20
+tim-amid: posts the ante 20
+daum666: posts the ante 20
+nine1986nrw: posts the ante 20
+ollikahn23: posts the ante 20
+Asmodei10: posts the ante 20
+KingKotlett: posts the ante 20
+thiakgo: posts the ante 20
+1Branislav1: posts the ante 20
+tim-amid: posts small blind 100
+daum666: posts big blind 200
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Tc Jh]
+nine1986nrw: folds 
+ollikahn23: folds 
+Asmodei10: folds 
+KingKotlett: folds 
+thiakgo: folds 
+1Branislav1: raises 200 to 400
+esmeanna: folds 
+tim-amid: folds 
+daum666: folds 
+Uncalled bet (200) returned to 1Branislav1
+1Branislav1 collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | Rake 0 
+Seat 1: esmeanna (button) folded before Flop (didn't bet)
+Seat 2: tim-amid (small blind) folded before Flop
+Seat 3: daum666 (big blind) folded before Flop
+Seat 4: nine1986nrw folded before Flop (didn't bet)
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: Asmodei10 folded before Flop (didn't bet)
+Seat 7: KingKotlett folded before Flop (didn't bet)
+Seat 8: thiakgo folded before Flop (didn't bet)
+Seat 9: 1Branislav1 collected (680)
+
+
+
+PokerStars Hand #182998875059: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level VI (100/200) - 2018/02/24 18:38:15 ET
+Table '2230353017 9' 9-max Seat #2 is the button
+Seat 1: esmeanna (11001 in chips) 
+Seat 2: tim-amid (1748 in chips) 
+Seat 3: daum666 (3883 in chips) 
+Seat 4: nine1986nrw (4521 in chips) 
+Seat 5: ollikahn23 (2447 in chips) 
+Seat 6: Asmodei10 (5798 in chips) 
+Seat 7: KingKotlett (2908 in chips) 
+Seat 8: thiakgo (3412 in chips) 
+Seat 9: 1Branislav1 (5811 in chips) 
+esmeanna: posts the ante 20
+tim-amid: posts the ante 20
+daum666: posts the ante 20
+nine1986nrw: posts the ante 20
+ollikahn23: posts the ante 20
+Asmodei10: posts the ante 20
+KingKotlett: posts the ante 20
+thiakgo: posts the ante 20
+1Branislav1: posts the ante 20
+daum666: posts small blind 100
+nine1986nrw: posts big blind 200
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2c Ah]
+ollikahn23: folds 
+Asmodei10: folds 
+KingKotlett: folds 
+thiakgo: folds 
+1Branislav1: folds 
+esmeanna: folds 
+tim-amid: raises 1528 to 1728 and is all-in
+daum666: calls 1628
+nine1986nrw: folds 
+*** FLOP *** [Qs Kd Js]
+*** TURN *** [Qs Kd Js] [Ks]
+*** RIVER *** [Qs Kd Js Ks] [7c]
+*** SHOW DOWN ***
+daum666: shows [Kc Qh] (a full house, Kings full of Queens)
+tim-amid: shows [Qc 6d] (two pair, Kings and Queens)
+daum666 collected 3836 from pot
+tim-amid finished the tournament in 35th place
+*** SUMMARY ***
+Total pot 3836 | Rake 0 
+Board [Qs Kd Js Ks 7c]
+Seat 1: esmeanna folded before Flop (didn't bet)
+Seat 2: tim-amid (button) showed [Qc 6d] and lost with two pair, Kings and Queens
+Seat 3: daum666 (small blind) showed [Kc Qh] and won (3836) with a full house, Kings full of Queens
+Seat 4: nine1986nrw (big blind) folded before Flop
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: Asmodei10 folded before Flop (didn't bet)
+Seat 7: KingKotlett folded before Flop (didn't bet)
+Seat 8: thiakgo folded before Flop (didn't bet)
+Seat 9: 1Branislav1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182998899654: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level VI (100/200) - 2018/02/24 18:38:51 ET
+Table '2230353017 9' 9-max Seat #3 is the button
+Seat 1: esmeanna (10981 in chips) 
+Seat 3: daum666 (5971 in chips) 
+Seat 4: nine1986nrw (4301 in chips) 
+Seat 5: ollikahn23 (2427 in chips) 
+Seat 6: Asmodei10 (5778 in chips) 
+Seat 7: KingKotlett (2888 in chips) 
+Seat 8: thiakgo (3392 in chips) 
+Seat 9: 1Branislav1 (5791 in chips) 
+esmeanna: posts the ante 20
+daum666: posts the ante 20
+nine1986nrw: posts the ante 20
+ollikahn23: posts the ante 20
+Asmodei10: posts the ante 20
+KingKotlett: posts the ante 20
+thiakgo: posts the ante 20
+1Branislav1: posts the ante 20
+nine1986nrw: posts small blind 100
+ollikahn23: posts big blind 200
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qs Jd]
+Asmodei10: folds 
+KingKotlett: folds 
+thiakgo: folds 
+1Branislav1: folds 
+esmeanna: folds 
+daum666: folds 
+nine1986nrw: folds 
+Uncalled bet (100) returned to ollikahn23
+ollikahn23 collected 360 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Seat 1: esmeanna folded before Flop (didn't bet)
+Seat 3: daum666 (button) folded before Flop (didn't bet)
+Seat 4: nine1986nrw (small blind) folded before Flop
+Seat 5: ollikahn23 (big blind) collected (360)
+Seat 6: Asmodei10 folded before Flop (didn't bet)
+Seat 7: KingKotlett folded before Flop (didn't bet)
+Seat 8: thiakgo folded before Flop (didn't bet)
+Seat 9: 1Branislav1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182998928766: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level VI (100/200) - 2018/02/24 18:39:33 ET
+Table '2230353017 9' 9-max Seat #4 is the button
+Seat 1: esmeanna (10961 in chips) 
+Seat 3: daum666 (5951 in chips) 
+Seat 4: nine1986nrw (4181 in chips) 
+Seat 5: ollikahn23 (2667 in chips) 
+Seat 6: Asmodei10 (5758 in chips) 
+Seat 7: KingKotlett (2868 in chips) 
+Seat 8: thiakgo (3372 in chips) 
+Seat 9: 1Branislav1 (5771 in chips) 
+esmeanna: posts the ante 20
+daum666: posts the ante 20
+nine1986nrw: posts the ante 20
+ollikahn23: posts the ante 20
+Asmodei10: posts the ante 20
+KingKotlett: posts the ante 20
+thiakgo: posts the ante 20
+1Branislav1: posts the ante 20
+ollikahn23: posts small blind 100
+Asmodei10: posts big blind 200
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jh Qs]
+KingKotlett: folds 
+thiakgo: folds 
+1Branislav1: calls 200
+esmeanna: folds 
+daum666: calls 200
+nine1986nrw: folds 
+ollikahn23: calls 100
+Asmodei10: checks 
+*** FLOP *** [Th 6s Jd]
+ollikahn23: bets 400
+Asmodei10: folds 
+1Branislav1: folds 
+daum666: folds 
+Uncalled bet (400) returned to ollikahn23
+ollikahn23 collected 960 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 960 | Rake 0 
+Board [Th 6s Jd]
+Seat 1: esmeanna folded before Flop (didn't bet)
+Seat 3: daum666 folded on the Flop
+Seat 4: nine1986nrw (button) folded before Flop (didn't bet)
+Seat 5: ollikahn23 (small blind) collected (960)
+Seat 6: Asmodei10 (big blind) folded on the Flop
+Seat 7: KingKotlett folded before Flop (didn't bet)
+Seat 8: thiakgo folded before Flop (didn't bet)
+Seat 9: 1Branislav1 folded on the Flop
+
+
+
+PokerStars Hand #182998981885: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level VI (100/200) - 2018/02/24 18:40:52 ET
+Table '2230353017 9' 9-max Seat #5 is the button
+Seat 1: esmeanna (10941 in chips) 
+Seat 3: daum666 (5731 in chips) 
+Seat 4: nine1986nrw (4161 in chips) 
+Seat 5: ollikahn23 (3407 in chips) 
+Seat 6: Asmodei10 (5538 in chips) 
+Seat 7: KingKotlett (2848 in chips) 
+Seat 8: thiakgo (3352 in chips) 
+Seat 9: 1Branislav1 (5551 in chips) 
+esmeanna: posts the ante 20
+daum666: posts the ante 20
+nine1986nrw: posts the ante 20
+ollikahn23: posts the ante 20
+Asmodei10: posts the ante 20
+KingKotlett: posts the ante 20
+thiakgo: posts the ante 20
+1Branislav1: posts the ante 20
+Asmodei10: posts small blind 100
+KingKotlett: posts big blind 200
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7h Qh]
+thiakgo: folds 
+1Branislav1: folds 
+esmeanna: folds 
+daum666: folds 
+nine1986nrw: raises 400 to 600
+ollikahn23: folds 
+Asmodei10: folds 
+KingKotlett: folds 
+Uncalled bet (400) returned to nine1986nrw
+nine1986nrw collected 660 from pot
+nine1986nrw: doesn't show hand 
+*** SUMMARY ***
+Total pot 660 | Rake 0 
+Seat 1: esmeanna folded before Flop (didn't bet)
+Seat 3: daum666 folded before Flop (didn't bet)
+Seat 4: nine1986nrw collected (660)
+Seat 5: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 6: Asmodei10 (small blind) folded before Flop
+Seat 7: KingKotlett (big blind) folded before Flop
+Seat 8: thiakgo folded before Flop (didn't bet)
+Seat 9: 1Branislav1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182999004086: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level VI (100/200) - 2018/02/24 18:41:24 ET
+Table '2230353017 9' 9-max Seat #6 is the button
+Seat 1: esmeanna (10921 in chips) 
+Seat 3: daum666 (5711 in chips) 
+Seat 4: nine1986nrw (4601 in chips) 
+Seat 5: ollikahn23 (3387 in chips) 
+Seat 6: Asmodei10 (5418 in chips) 
+Seat 7: KingKotlett (2628 in chips) 
+Seat 8: thiakgo (3332 in chips) 
+Seat 9: 1Branislav1 (5531 in chips) 
+esmeanna: posts the ante 20
+daum666: posts the ante 20
+nine1986nrw: posts the ante 20
+ollikahn23: posts the ante 20
+Asmodei10: posts the ante 20
+KingKotlett: posts the ante 20
+thiakgo: posts the ante 20
+1Branislav1: posts the ante 20
+KingKotlett: posts small blind 100
+thiakgo: posts big blind 200
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Th 3c]
+1Branislav1: raises 300 to 500
+esmeanna: folds 
+daum666: folds 
+nine1986nrw: calls 500
+ollikahn23: folds 
+Asmodei10: folds 
+KingKotlett: raises 2108 to 2608 and is all-in
+thiakgo: folds 
+1Branislav1: calls 2108
+nine1986nrw: folds 
+*** FLOP *** [2c Kc 6c]
+*** TURN *** [2c Kc 6c] [8d]
+*** RIVER *** [2c Kc 6c 8d] [Ts]
+*** SHOW DOWN ***
+KingKotlett: shows [Jd Ad] (high card Ace)
+1Branislav1: shows [As Kd] (a pair of Kings)
+1Branislav1 collected 6076 from pot
+KingKotlett finished the tournament in 33rd place
+*** SUMMARY ***
+Total pot 6076 | Rake 0 
+Board [2c Kc 6c 8d Ts]
+Seat 1: esmeanna folded before Flop (didn't bet)
+Seat 3: daum666 folded before Flop (didn't bet)
+Seat 4: nine1986nrw folded before Flop
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: Asmodei10 (button) folded before Flop (didn't bet)
+Seat 7: KingKotlett (small blind) showed [Jd Ad] and lost with high card Ace
+Seat 8: thiakgo (big blind) folded before Flop
+Seat 9: 1Branislav1 showed [As Kd] and won (6076) with a pair of Kings
+
+
+
+PokerStars Hand #182999043469: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level VI (100/200) - 2018/02/24 18:42:22 ET
+Table '2230353017 9' 9-max Seat #8 is the button
+Seat 1: esmeanna (10901 in chips) 
+Seat 3: daum666 (5691 in chips) 
+Seat 4: nine1986nrw (4081 in chips) 
+Seat 5: ollikahn23 (3367 in chips) 
+Seat 6: Asmodei10 (5398 in chips) 
+Seat 8: thiakgo (3112 in chips) 
+Seat 9: 1Branislav1 (8979 in chips) 
+esmeanna: posts the ante 20
+daum666: posts the ante 20
+nine1986nrw: posts the ante 20
+ollikahn23: posts the ante 20
+Asmodei10: posts the ante 20
+thiakgo: posts the ante 20
+1Branislav1: posts the ante 20
+1Branislav1: posts small blind 100
+esmeanna: posts big blind 200
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4h 2c]
+daum666: folds 
+nine1986nrw: raises 200 to 400
+ollikahn23: folds 
+Asmodei10: raises 654 to 1054
+thiakgo: folds 
+1Branislav1: folds 
+esmeanna: folds 
+nine1986nrw: calls 654
+*** FLOP *** [6s 5c 3h]
+nine1986nrw: checks 
+Asmodei10: bets 841
+nine1986nrw: folds 
+Uncalled bet (841) returned to Asmodei10
+Asmodei10 collected 2548 from pot
+*** SUMMARY ***
+Total pot 2548 | Rake 0 
+Board [6s 5c 3h]
+Seat 1: esmeanna (big blind) folded before Flop
+Seat 3: daum666 folded before Flop (didn't bet)
+Seat 4: nine1986nrw folded on the Flop
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: Asmodei10 collected (2548)
+Seat 8: thiakgo (button) folded before Flop (didn't bet)
+Seat 9: 1Branislav1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #182999085682: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level VI (100/200) - 2018/02/24 18:43:24 ET
+Table '2230353017 9' 9-max Seat #9 is the button
+Seat 1: esmeanna (10681 in chips) 
+Seat 3: daum666 (5671 in chips) 
+Seat 4: nine1986nrw (3007 in chips) 
+Seat 5: ollikahn23 (3347 in chips) 
+Seat 6: Asmodei10 (6872 in chips) 
+Seat 7: didde121 (2751 in chips) 
+Seat 8: thiakgo (3092 in chips) 
+Seat 9: 1Branislav1 (8859 in chips) 
+esmeanna: posts the ante 20
+daum666: posts the ante 20
+nine1986nrw: posts the ante 20
+ollikahn23: posts the ante 20
+Asmodei10: posts the ante 20
+didde121: posts the ante 20
+thiakgo: posts the ante 20
+1Branislav1: posts the ante 20
+esmeanna: posts small blind 100
+daum666: posts big blind 200
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6c Jh]
+nine1986nrw: raises 2787 to 2987 and is all-in
+ollikahn23: folds 
+Asmodei10: folds 
+didde121: folds 
+thiakgo: raises 85 to 3072 and is all-in
+1Branislav1: folds 
+esmeanna: folds 
+daum666: folds 
+Uncalled bet (85) returned to thiakgo
+*** FLOP *** [4s 5c 9h]
+*** TURN *** [4s 5c 9h] [6s]
+*** RIVER *** [4s 5c 9h 6s] [Jd]
+*** SHOW DOWN ***
+nine1986nrw: shows [7s 9s] (a pair of Nines)
+thiakgo: shows [Kc Qh] (high card King)
+nine1986nrw collected 6434 from pot
+*** SUMMARY ***
+Total pot 6434 | Rake 0 
+Board [4s 5c 9h 6s Jd]
+Seat 1: esmeanna (small blind) folded before Flop
+Seat 3: daum666 (big blind) folded before Flop
+Seat 4: nine1986nrw showed [7s 9s] and won (6434) with a pair of Nines
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: Asmodei10 folded before Flop (didn't bet)
+Seat 7: didde121 folded before Flop (didn't bet)
+Seat 8: thiakgo showed [Kc Qh] and lost with high card King
+Seat 9: 1Branislav1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182999116855: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level VII (125/250) - 2018/02/24 18:44:10 ET
+Table '2230353017 9' 9-max Seat #1 is the button
+Seat 1: esmeanna (10561 in chips) 
+Seat 3: daum666 (5451 in chips) 
+Seat 4: nine1986nrw (6434 in chips) 
+Seat 5: ollikahn23 (3327 in chips) 
+Seat 6: Asmodei10 (6852 in chips) 
+Seat 7: didde121 (2731 in chips) 
+Seat 8: thiakgo (85 in chips) 
+Seat 9: 1Branislav1 (8839 in chips) 
+esmeanna: posts the ante 25
+daum666: posts the ante 25
+nine1986nrw: posts the ante 25
+ollikahn23: posts the ante 25
+Asmodei10: posts the ante 25
+didde121: posts the ante 25
+thiakgo: posts the ante 25
+1Branislav1: posts the ante 25
+daum666: posts small blind 125
+nine1986nrw: posts big blind 250
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4h 7h]
+ollikahn23: folds 
+Asmodei10: folds 
+didde121: folds 
+thiakgo: calls 60 and is all-in
+1Branislav1: folds 
+esmeanna: raises 350 to 600
+daum666: folds 
+nine1986nrw: folds 
+Uncalled bet (350) returned to esmeanna
+*** FLOP *** [Js 5h Ad]
+*** TURN *** [Js 5h Ad] [7s]
+*** RIVER *** [Js 5h Ad 7s] [3s]
+*** SHOW DOWN ***
+esmeanna: shows [Tc Th] (a pair of Tens)
+esmeanna collected 445 from side pot
+thiakgo: shows [Ac Kh] (a pair of Aces)
+thiakgo collected 440 from main pot
+*** SUMMARY ***
+Total pot 885 Main pot 440. Side pot 445. | Rake 0 
+Board [Js 5h Ad 7s 3s]
+Seat 1: esmeanna (button) showed [Tc Th] and won (445) with a pair of Tens
+Seat 3: daum666 (small blind) folded before Flop
+Seat 4: nine1986nrw (big blind) folded before Flop
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: Asmodei10 folded before Flop (didn't bet)
+Seat 7: didde121 folded before Flop (didn't bet)
+Seat 8: thiakgo showed [Ac Kh] and won (440) with a pair of Aces
+Seat 9: 1Branislav1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182999154035: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level VII (125/250) - 2018/02/24 18:45:06 ET
+Table '2230353017 9' 9-max Seat #3 is the button
+Seat 1: esmeanna (10731 in chips) 
+Seat 3: daum666 (5301 in chips) 
+Seat 4: nine1986nrw (6159 in chips) 
+Seat 5: ollikahn23 (3302 in chips) 
+Seat 6: Asmodei10 (6827 in chips) 
+Seat 7: didde121 (2706 in chips) 
+Seat 8: thiakgo (440 in chips) 
+Seat 9: 1Branislav1 (8814 in chips) 
+esmeanna: posts the ante 25
+daum666: posts the ante 25
+nine1986nrw: posts the ante 25
+ollikahn23: posts the ante 25
+Asmodei10: posts the ante 25
+didde121: posts the ante 25
+thiakgo: posts the ante 25
+1Branislav1: posts the ante 25
+nine1986nrw: posts small blind 125
+ollikahn23: posts big blind 250
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ac Qd]
+Asmodei10: folds 
+didde121: folds 
+thiakgo: raises 165 to 415 and is all-in
+1Branislav1: folds 
+esmeanna: folds 
+daum666: folds 
+nine1986nrw: folds 
+ollikahn23: calls 165
+*** FLOP *** [6c Kh 4s]
+*** TURN *** [6c Kh 4s] [2c]
+*** RIVER *** [6c Kh 4s 2c] [3c]
+*** SHOW DOWN ***
+ollikahn23: shows [Ac Qd] (high card Ace)
+thiakgo: shows [Ts Kc] (a pair of Kings)
+thiakgo collected 1155 from pot
+*** SUMMARY ***
+Total pot 1155 | Rake 0 
+Board [6c Kh 4s 2c 3c]
+Seat 1: esmeanna folded before Flop (didn't bet)
+Seat 3: daum666 (button) folded before Flop (didn't bet)
+Seat 4: nine1986nrw (small blind) folded before Flop
+Seat 5: ollikahn23 (big blind) showed [Ac Qd] and lost with high card Ace
+Seat 6: Asmodei10 folded before Flop (didn't bet)
+Seat 7: didde121 folded before Flop (didn't bet)
+Seat 8: thiakgo showed [Ts Kc] and won (1155) with a pair of Kings
+Seat 9: 1Branislav1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182999182283: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level VII (125/250) - 2018/02/24 18:45:48 ET
+Table '2230353017 9' 9-max Seat #4 is the button
+Seat 1: esmeanna (10706 in chips) 
+Seat 3: daum666 (5276 in chips) 
+Seat 4: nine1986nrw (6009 in chips) 
+Seat 5: ollikahn23 (2862 in chips) 
+Seat 6: Asmodei10 (6802 in chips) 
+Seat 7: didde121 (2681 in chips) 
+Seat 8: thiakgo (1155 in chips) 
+Seat 9: 1Branislav1 (8789 in chips) 
+esmeanna: posts the ante 25
+daum666: posts the ante 25
+nine1986nrw: posts the ante 25
+ollikahn23: posts the ante 25
+Asmodei10: posts the ante 25
+didde121: posts the ante 25
+thiakgo: posts the ante 25
+1Branislav1: posts the ante 25
+ollikahn23: posts small blind 125
+Asmodei10: posts big blind 250
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4s Th]
+didde121: raises 2406 to 2656 and is all-in
+thiakgo: folds 
+1Branislav1: folds 
+esmeanna: folds 
+daum666: raises 2595 to 5251 and is all-in
+nine1986nrw: folds 
+ollikahn23: folds 
+Asmodei10: folds 
+Uncalled bet (2595) returned to daum666
+*** FLOP *** [4c 7s 3h]
+*** TURN *** [4c 7s 3h] [3d]
+*** RIVER *** [4c 7s 3h 3d] [3c]
+*** SHOW DOWN ***
+didde121: shows [Qd Kd] (three of a kind, Threes)
+daum666: shows [Jc Ad] (three of a kind, Threes - Ace kicker)
+daum666 collected 5887 from pot
+didde121 finished the tournament in 28th place
+*** SUMMARY ***
+Total pot 5887 | Rake 0 
+Board [4c 7s 3h 3d 3c]
+Seat 1: esmeanna folded before Flop (didn't bet)
+Seat 3: daum666 showed [Jc Ad] and won (5887) with three of a kind, Threes
+Seat 4: nine1986nrw (button) folded before Flop (didn't bet)
+Seat 5: ollikahn23 (small blind) folded before Flop
+Seat 6: Asmodei10 (big blind) folded before Flop
+Seat 7: didde121 showed [Qd Kd] and lost with three of a kind, Threes
+Seat 8: thiakgo folded before Flop (didn't bet)
+Seat 9: 1Branislav1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182999212781: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level VII (125/250) - 2018/02/24 18:46:34 ET
+Table '2230353017 8' 9-max Seat #4 is the button
+Seat 1: ollikahn23 (2712 in chips) 
+Seat 2: nine1986nrw (5984 in chips) 
+Seat 3: ciomez (5676 in chips) 
+Seat 4: lofty880 (7691 in chips) 
+Seat 5: Asmodei10 (6527 in chips) out of hand (moved from another table into small blind)
+Seat 6: viihsantoos (7502 in chips) 
+Seat 7: circleVIII (10543 in chips) 
+Seat 8: Samogonka (3003 in chips) 
+Seat 9: Royalhead (17490 in chips) 
+ollikahn23: posts the ante 25
+nine1986nrw: posts the ante 25
+ciomez: posts the ante 25
+lofty880: posts the ante 25
+viihsantoos: posts the ante 25
+circleVIII: posts the ante 25
+Samogonka: posts the ante 25
+Royalhead: posts the ante 25
+viihsantoos: posts small blind 125
+circleVIII: posts big blind 250
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2s 9d]
+Samogonka: folds 
+Royalhead: raises 375 to 625
+ollikahn23: folds 
+nine1986nrw: folds 
+ciomez: folds 
+lofty880: folds 
+viihsantoos: folds 
+circleVIII: folds 
+Uncalled bet (375) returned to Royalhead
+Royalhead collected 825 from pot
+*** SUMMARY ***
+Total pot 825 | Rake 0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: nine1986nrw folded before Flop (didn't bet)
+Seat 3: ciomez folded before Flop (didn't bet)
+Seat 4: lofty880 (button) folded before Flop (didn't bet)
+Seat 6: viihsantoos (small blind) folded before Flop
+Seat 7: circleVIII (big blind) folded before Flop
+Seat 8: Samogonka folded before Flop (didn't bet)
+Seat 9: Royalhead collected (825)
+
+
+
+PokerStars Hand #182999233963: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level VII (125/250) - 2018/02/24 18:47:06 ET
+Table '2230353017 8' 9-max Seat #6 is the button
+Seat 1: ollikahn23 (2687 in chips) 
+Seat 2: nine1986nrw (5959 in chips) 
+Seat 3: ciomez (5651 in chips) 
+Seat 4: lofty880 (7666 in chips) 
+Seat 5: Asmodei10 (6527 in chips) 
+Seat 6: viihsantoos (7352 in chips) 
+Seat 7: circleVIII (10268 in chips) 
+Seat 8: Samogonka (2978 in chips) 
+Seat 9: Royalhead (18040 in chips) 
+ollikahn23: posts the ante 25
+nine1986nrw: posts the ante 25
+ciomez: posts the ante 25
+lofty880: posts the ante 25
+Asmodei10: posts the ante 25
+viihsantoos: posts the ante 25
+circleVIII: posts the ante 25
+Samogonka: posts the ante 25
+Royalhead: posts the ante 25
+circleVIII: posts small blind 125
+Samogonka: posts big blind 250
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9s Qd]
+Royalhead: folds 
+ollikahn23: folds 
+nine1986nrw: folds 
+ciomez: folds 
+lofty880: folds 
+Asmodei10: folds 
+viihsantoos: folds 
+circleVIII: raises 9993 to 10243 and is all-in
+Samogonka: folds 
+Uncalled bet (9993) returned to circleVIII
+circleVIII collected 725 from pot
+circleVIII: doesn't show hand 
+*** SUMMARY ***
+Total pot 725 | Rake 0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: nine1986nrw folded before Flop (didn't bet)
+Seat 3: ciomez folded before Flop (didn't bet)
+Seat 4: lofty880 folded before Flop (didn't bet)
+Seat 5: Asmodei10 folded before Flop (didn't bet)
+Seat 6: viihsantoos (button) folded before Flop (didn't bet)
+Seat 7: circleVIII (small blind) collected (725)
+Seat 8: Samogonka (big blind) folded before Flop
+Seat 9: Royalhead folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182999253060: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level VII (125/250) - 2018/02/24 18:47:34 ET
+Table '2230353017 8' 9-max Seat #7 is the button
+Seat 1: ollikahn23 (2662 in chips) 
+Seat 2: nine1986nrw (5934 in chips) 
+Seat 3: ciomez (5626 in chips) 
+Seat 4: lofty880 (7641 in chips) 
+Seat 5: Asmodei10 (6502 in chips) 
+Seat 6: viihsantoos (7327 in chips) 
+Seat 7: circleVIII (10718 in chips) 
+Seat 8: Samogonka (2703 in chips) 
+Seat 9: Royalhead (18015 in chips) 
+ollikahn23: posts the ante 25
+nine1986nrw: posts the ante 25
+ciomez: posts the ante 25
+lofty880: posts the ante 25
+Asmodei10: posts the ante 25
+viihsantoos: posts the ante 25
+circleVIII: posts the ante 25
+Samogonka: posts the ante 25
+Royalhead: posts the ante 25
+Samogonka: posts small blind 125
+Royalhead: posts big blind 250
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6c Jh]
+ollikahn23: folds 
+nine1986nrw: folds 
+ciomez: folds 
+lofty880: folds 
+Asmodei10: raises 262 to 512
+viihsantoos: folds 
+circleVIII: folds 
+Samogonka: folds 
+Royalhead: folds 
+Uncalled bet (262) returned to Asmodei10
+Asmodei10 collected 850 from pot
+*** SUMMARY ***
+Total pot 850 | Rake 0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: nine1986nrw folded before Flop (didn't bet)
+Seat 3: ciomez folded before Flop (didn't bet)
+Seat 4: lofty880 folded before Flop (didn't bet)
+Seat 5: Asmodei10 collected (850)
+Seat 6: viihsantoos folded before Flop (didn't bet)
+Seat 7: circleVIII (button) folded before Flop (didn't bet)
+Seat 8: Samogonka (small blind) folded before Flop
+Seat 9: Royalhead (big blind) folded before Flop
+
+
+
+PokerStars Hand #182999274118: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level VII (125/250) - 2018/02/24 18:48:05 ET
+Table '2230353017 8' 9-max Seat #8 is the button
+Seat 1: ollikahn23 (2637 in chips) 
+Seat 2: nine1986nrw (5909 in chips) 
+Seat 3: ciomez (5601 in chips) 
+Seat 4: lofty880 (7616 in chips) 
+Seat 5: Asmodei10 (7077 in chips) 
+Seat 6: viihsantoos (7302 in chips) 
+Seat 7: circleVIII (10693 in chips) 
+Seat 8: Samogonka (2553 in chips) 
+Seat 9: Royalhead (17740 in chips) 
+ollikahn23: posts the ante 25
+nine1986nrw: posts the ante 25
+ciomez: posts the ante 25
+lofty880: posts the ante 25
+Asmodei10: posts the ante 25
+viihsantoos: posts the ante 25
+circleVIII: posts the ante 25
+Samogonka: posts the ante 25
+Royalhead: posts the ante 25
+Royalhead: posts small blind 125
+ollikahn23: posts big blind 250
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6h Ts]
+nine1986nrw: raises 250 to 500
+ciomez: folds 
+lofty880: folds 
+Asmodei10: folds 
+viihsantoos: raises 850 to 1350
+circleVIII: folds 
+Samogonka: folds 
+Royalhead: folds 
+ollikahn23: folds 
+nine1986nrw: folds 
+Uncalled bet (850) returned to viihsantoos
+viihsantoos collected 1600 from pot
+viihsantoos: doesn't show hand 
+*** SUMMARY ***
+Total pot 1600 | Rake 0 
+Seat 1: ollikahn23 (big blind) folded before Flop
+Seat 2: nine1986nrw folded before Flop
+Seat 3: ciomez folded before Flop (didn't bet)
+Seat 4: lofty880 folded before Flop (didn't bet)
+Seat 5: Asmodei10 folded before Flop (didn't bet)
+Seat 6: viihsantoos collected (1600)
+Seat 7: circleVIII folded before Flop (didn't bet)
+Seat 8: Samogonka (button) folded before Flop (didn't bet)
+Seat 9: Royalhead (small blind) folded before Flop
+
+
+
+PokerStars Hand #182999312150: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level VII (125/250) - 2018/02/24 18:49:02 ET
+Table '2230353017 8' 9-max Seat #9 is the button
+Seat 1: ollikahn23 (2362 in chips) 
+Seat 2: nine1986nrw (5384 in chips) 
+Seat 3: ciomez (5576 in chips) 
+Seat 4: lofty880 (7591 in chips) 
+Seat 5: Asmodei10 (7052 in chips) 
+Seat 6: viihsantoos (8377 in chips) 
+Seat 7: circleVIII (10668 in chips) 
+Seat 8: Samogonka (2528 in chips) 
+Seat 9: Royalhead (17590 in chips) 
+ollikahn23: posts the ante 25
+nine1986nrw: posts the ante 25
+ciomez: posts the ante 25
+lofty880: posts the ante 25
+Asmodei10: posts the ante 25
+viihsantoos: posts the ante 25
+circleVIII: posts the ante 25
+Samogonka: posts the ante 25
+Royalhead: posts the ante 25
+ollikahn23: posts small blind 125
+nine1986nrw: posts big blind 250
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9d Qc]
+ciomez: folds 
+lofty880: folds 
+Asmodei10: folds 
+viihsantoos: folds 
+circleVIII: folds 
+Samogonka: folds 
+Royalhead: raises 375 to 625
+ollikahn23: folds 
+nine1986nrw: folds 
+Uncalled bet (375) returned to Royalhead
+Royalhead collected 850 from pot
+*** SUMMARY ***
+Total pot 850 | Rake 0 
+Seat 1: ollikahn23 (small blind) folded before Flop
+Seat 2: nine1986nrw (big blind) folded before Flop
+Seat 3: ciomez folded before Flop (didn't bet)
+Seat 4: lofty880 folded before Flop (didn't bet)
+Seat 5: Asmodei10 folded before Flop (didn't bet)
+Seat 6: viihsantoos folded before Flop (didn't bet)
+Seat 7: circleVIII folded before Flop (didn't bet)
+Seat 8: Samogonka folded before Flop (didn't bet)
+Seat 9: Royalhead (button) collected (850)
+
+
+
+PokerStars Hand #182999331644: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level VII (125/250) - 2018/02/24 18:49:31 ET
+Table '2230353017 8' 9-max Seat #1 is the button
+Seat 1: ollikahn23 (2212 in chips) 
+Seat 2: nine1986nrw (5109 in chips) 
+Seat 3: ciomez (5551 in chips) 
+Seat 4: lofty880 (7566 in chips) 
+Seat 5: Asmodei10 (7027 in chips) 
+Seat 6: viihsantoos (8352 in chips) 
+Seat 7: circleVIII (10643 in chips) 
+Seat 8: Samogonka (2503 in chips) 
+Seat 9: Royalhead (18165 in chips) 
+ollikahn23: posts the ante 25
+nine1986nrw: posts the ante 25
+ciomez: posts the ante 25
+lofty880: posts the ante 25
+Asmodei10: posts the ante 25
+viihsantoos: posts the ante 25
+circleVIII: posts the ante 25
+Samogonka: posts the ante 25
+Royalhead: posts the ante 25
+nine1986nrw: posts small blind 125
+ciomez: posts big blind 250
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ac Td]
+lofty880: folds 
+Asmodei10: folds 
+viihsantoos: folds 
+circleVIII: folds 
+Samogonka: folds 
+Royalhead: folds 
+ollikahn23: raises 1937 to 2187 and is all-in
+nine1986nrw: folds 
+ciomez: calls 1937
+*** FLOP *** [9c Qs As]
+*** TURN *** [9c Qs As] [8c]
+*** RIVER *** [9c Qs As 8c] [8s]
+*** SHOW DOWN ***
+ciomez: shows [7c Kc] (a pair of Eights)
+ollikahn23: shows [Ac Td] (two pair, Aces and Eights)
+ollikahn23 collected 4724 from pot
+*** SUMMARY ***
+Total pot 4724 | Rake 0 
+Board [9c Qs As 8c 8s]
+Seat 1: ollikahn23 (button) showed [Ac Td] and won (4724) with two pair, Aces and Eights
+Seat 2: nine1986nrw (small blind) folded before Flop
+Seat 3: ciomez (big blind) showed [7c Kc] and lost with a pair of Eights
+Seat 4: lofty880 folded before Flop (didn't bet)
+Seat 5: Asmodei10 folded before Flop (didn't bet)
+Seat 6: viihsantoos folded before Flop (didn't bet)
+Seat 7: circleVIII folded before Flop (didn't bet)
+Seat 8: Samogonka folded before Flop (didn't bet)
+Seat 9: Royalhead folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #182999363670: Tournament #2230353017, $4.10+$0.40 USD Hold'em No Limit - Level VII (125/250) - 2018/02/24 18:50:19 ET
+Table '2230353017 8' 9-max Seat #2 is the button
+Seat 1: ollikahn23 (4724 in chips) 
+Seat 2: nine1986nrw (4959 in chips) 
+Seat 3: ciomez (3339 in chips) 
+Seat 4: lofty880 (7541 in chips) 
+Seat 5: Asmodei10 (7002 in chips) 
+Seat 6: viihsantoos (8327 in chips) 
+Seat 7: circleVIII (10618 in chips) 
+Seat 8: Samogonka (2478 in chips) 
+Seat 9: Royalhead (18140 in chips) 
+ollikahn23: posts the ante 25
+nine1986nrw: posts the ante 25
+ciomez: posts the ante 25
+lofty880: posts the ante 25
+Asmodei10: posts the ante 25
+viihsantoos: posts the ante 25
+circleVIII: posts the ante 25
+Samogonka: posts the ante 25
+Royalhead: posts the ante 25
+ciomez: posts small blind 125
+lofty880: posts big blind 250
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9c 9s]
+Asmodei10: folds 
+viihsantoos: folds 
+circleVIII: folds 
+Samogonka: folds 
+Royalhead: folds 
+ollikahn23: raises 250 to 500
+nine1986nrw: raises 500 to 1000
+ciomez: folds 
+lofty880: folds 
+ollikahn23: calls 500
+*** FLOP *** [Jh Jd 6c]
+ollikahn23: bets 1500
+nine1986nrw: raises 2434 to 3934 and is all-in
+ollikahn23: calls 2199 and is all-in
+Uncalled bet (235) returned to nine1986nrw
+*** TURN *** [Jh Jd 6c] [7d]
+*** RIVER *** [Jh Jd 6c 7d] [Kh]
+*** SHOW DOWN ***
+ollikahn23: shows [9c 9s] (two pair, Jacks and Nines)
+nine1986nrw: shows [Qd Qh] (two pair, Queens and Jacks)
+nine1986nrw collected 9998 from pot
+ollikahn23 finished the tournament in 26th place
+*** SUMMARY ***
+Total pot 9998 | Rake 0 
+Board [Jh Jd 6c 7d Kh]
+Seat 1: ollikahn23 showed [9c 9s] and lost with two pair, Jacks and Nines
+Seat 2: nine1986nrw (button) showed [Qd Qh] and won (9998) with two pair, Queens and Jacks
+Seat 3: ciomez (small blind) folded before Flop
+Seat 4: lofty880 (big blind) folded before Flop
+Seat 5: Asmodei10 folded before Flop (didn't bet)
+Seat 6: viihsantoos folded before Flop (didn't bet)
+Seat 7: circleVIII folded before Flop (didn't bet)
+Seat 8: Samogonka folded before Flop (didn't bet)
+Seat 9: Royalhead folded before Flop (didn't bet)
+
+
+
