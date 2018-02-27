@@ -1,0 +1,779 @@
+﻿PokerStars Hand #183141848935: Tournament #2233579797, $1.36+$0.14 USD Hold'em No Limit - Level I (10/20) - 2018/02/27 17:17:28 ET
+Table '2233579797 3' 9-max Seat #1 is the button
+Seat 1: ollikahn23 (1500 in chips) 
+Seat 2: jonny-fes (1500 in chips) 
+Seat 3: louisa4000 (1500 in chips) 
+Seat 4: WorldPoker.W (1500 in chips) 
+Seat 5: JAIME55555 (1500 in chips) 
+Seat 6: sushied333 (1500 in chips) 
+Seat 7: Pet_topgreen (1500 in chips) 
+Seat 8: chel_poker777 (1500 in chips) 
+Seat 9: Xamppaa (1500 in chips) 
+ollikahn23: posts the ante 3
+jonny-fes: posts the ante 3
+louisa4000: posts the ante 3
+WorldPoker.W: posts the ante 3
+JAIME55555: posts the ante 3
+sushied333: posts the ante 3
+Pet_topgreen: posts the ante 3
+chel_poker777: posts the ante 3
+Xamppaa: posts the ante 3
+jonny-fes: posts small blind 10
+louisa4000: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3c 8c]
+WorldPoker.W: folds 
+JAIME55555: raises 50 to 70
+sushied333: folds 
+Pet_topgreen: folds 
+chel_poker777: folds 
+Xamppaa: raises 110 to 180
+ollikahn23: folds 
+jonny-fes: folds 
+louisa4000: calls 160
+JAIME55555: calls 110
+*** FLOP *** [5s 6h 6c]
+louisa4000: checks 
+JAIME55555: checks 
+Xamppaa: bets 250
+louisa4000: folds 
+JAIME55555: folds 
+Uncalled bet (250) returned to Xamppaa
+Xamppaa collected 577 from pot
+Xamppaa: doesn't show hand 
+*** SUMMARY ***
+Total pot 577 | Rake 0 
+Board [5s 6h 6c]
+Seat 1: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 2: jonny-fes (small blind) folded before Flop
+Seat 3: louisa4000 (big blind) folded on the Flop
+Seat 4: WorldPoker.W folded before Flop (didn't bet)
+Seat 5: JAIME55555 folded on the Flop
+Seat 6: sushied333 folded before Flop (didn't bet)
+Seat 7: Pet_topgreen folded before Flop (didn't bet)
+Seat 8: chel_poker777 folded before Flop (didn't bet)
+Seat 9: Xamppaa collected (577)
+
+
+
+PokerStars Hand #183141918100: Tournament #2233579797, $1.36+$0.14 USD Hold'em No Limit - Level I (10/20) - 2018/02/27 17:18:48 ET
+Table '2233579797 3' 9-max Seat #2 is the button
+Seat 1: ollikahn23 (1497 in chips) 
+Seat 2: jonny-fes (1487 in chips) 
+Seat 3: louisa4000 (1317 in chips) 
+Seat 4: WorldPoker.W (1497 in chips) 
+Seat 5: JAIME55555 (1317 in chips) 
+Seat 6: sushied333 (1497 in chips) 
+Seat 7: Pet_topgreen (1497 in chips) 
+Seat 8: chel_poker777 (1497 in chips) 
+Seat 9: Xamppaa (1894 in chips) 
+ollikahn23: posts the ante 3
+jonny-fes: posts the ante 3
+louisa4000: posts the ante 3
+WorldPoker.W: posts the ante 3
+JAIME55555: posts the ante 3
+sushied333: posts the ante 3
+Pet_topgreen: posts the ante 3
+chel_poker777: posts the ante 3
+Xamppaa: posts the ante 3
+louisa4000: posts small blind 10
+WorldPoker.W: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6c 5c]
+JAIME55555: folds 
+sushied333: folds 
+Pet_topgreen: folds 
+chel_poker777: raises 60 to 80
+Xamppaa: folds 
+ollikahn23: calls 80
+jonny-fes: folds 
+louisa4000: calls 70
+WorldPoker.W: folds 
+*** FLOP *** [7d 7s 5h]
+louisa4000: checks 
+chel_poker777: bets 144
+ollikahn23: calls 144
+louisa4000: calls 144
+*** TURN *** [7d 7s 5h] [Js]
+louisa4000: checks 
+chel_poker777: checks 
+ollikahn23: checks 
+*** RIVER *** [7d 7s 5h Js] [3s]
+louisa4000: bets 20
+chel_poker777: folds 
+ollikahn23: calls 20
+*** SHOW DOWN ***
+louisa4000: shows [5s 6h] (two pair, Sevens and Fives)
+ollikahn23: shows [6c 5c] (two pair, Sevens and Fives)
+louisa4000 collected 380 from pot
+ollikahn23 collected 379 from pot
+*** SUMMARY ***
+Total pot 759 | Rake 0 
+Board [7d 7s 5h Js 3s]
+Seat 1: ollikahn23 showed [6c 5c] and won (379) with two pair, Sevens and Fives
+Seat 2: jonny-fes (button) folded before Flop (didn't bet)
+Seat 3: louisa4000 (small blind) showed [5s 6h] and won (380) with two pair, Sevens and Fives
+Seat 4: WorldPoker.W (big blind) folded before Flop
+Seat 5: JAIME55555 folded before Flop (didn't bet)
+Seat 6: sushied333 folded before Flop (didn't bet)
+Seat 7: Pet_topgreen folded before Flop (didn't bet)
+Seat 8: chel_poker777 folded on the River
+Seat 9: Xamppaa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183142001971: Tournament #2233579797, $1.36+$0.14 USD Hold'em No Limit - Level I (10/20) - 2018/02/27 17:20:27 ET
+Table '2233579797 3' 9-max Seat #3 is the button
+Seat 1: ollikahn23 (1629 in chips) 
+Seat 2: jonny-fes (1484 in chips) 
+Seat 3: louisa4000 (1450 in chips) 
+Seat 4: WorldPoker.W (1474 in chips) 
+Seat 5: JAIME55555 (1314 in chips) 
+Seat 6: sushied333 (1494 in chips) 
+Seat 7: Pet_topgreen (1494 in chips) 
+Seat 8: chel_poker777 (1270 in chips) 
+Seat 9: Xamppaa (1891 in chips) 
+ollikahn23: posts the ante 3
+jonny-fes: posts the ante 3
+louisa4000: posts the ante 3
+WorldPoker.W: posts the ante 3
+JAIME55555: posts the ante 3
+sushied333: posts the ante 3
+Pet_topgreen: posts the ante 3
+chel_poker777: posts the ante 3
+Xamppaa: posts the ante 3
+WorldPoker.W: posts small blind 10
+JAIME55555: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8d 5h]
+sushied333: folds 
+Pet_topgreen: folds 
+chel_poker777: folds 
+Xamppaa: folds 
+ollikahn23: folds 
+jonny-fes: folds 
+louisa4000: calls 20
+WorldPoker.W: raises 87 to 107
+JAIME55555: folds 
+louisa4000: folds 
+Uncalled bet (87) returned to WorldPoker.W
+WorldPoker.W collected 87 from pot
+WorldPoker.W: doesn't show hand 
+*** SUMMARY ***
+Total pot 87 | Rake 0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: jonny-fes folded before Flop (didn't bet)
+Seat 3: louisa4000 (button) folded before Flop
+Seat 4: WorldPoker.W (small blind) collected (87)
+Seat 5: JAIME55555 (big blind) folded before Flop
+Seat 6: sushied333 folded before Flop (didn't bet)
+Seat 7: Pet_topgreen folded before Flop (didn't bet)
+Seat 8: chel_poker777 folded before Flop (didn't bet)
+Seat 9: Xamppaa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183142029705: Tournament #2233579797, $1.36+$0.14 USD Hold'em No Limit - Level I (10/20) - 2018/02/27 17:21:00 ET
+Table '2233579797 3' 9-max Seat #4 is the button
+Seat 1: ollikahn23 (1626 in chips) 
+Seat 2: jonny-fes (1481 in chips) 
+Seat 3: louisa4000 (1427 in chips) 
+Seat 4: WorldPoker.W (1538 in chips) 
+Seat 5: JAIME55555 (1291 in chips) 
+Seat 6: sushied333 (1491 in chips) 
+Seat 7: Pet_topgreen (1491 in chips) 
+Seat 8: chel_poker777 (1267 in chips) 
+Seat 9: Xamppaa (1888 in chips) 
+ollikahn23: posts the ante 3
+jonny-fes: posts the ante 3
+louisa4000: posts the ante 3
+WorldPoker.W: posts the ante 3
+JAIME55555: posts the ante 3
+sushied333: posts the ante 3
+Pet_topgreen: posts the ante 3
+chel_poker777: posts the ante 3
+Xamppaa: posts the ante 3
+JAIME55555: posts small blind 10
+sushied333: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Td Qh]
+Pet_topgreen: folds 
+chel_poker777: folds 
+Xamppaa: folds 
+ollikahn23: raises 77 to 97
+jonny-fes: folds 
+louisa4000: folds 
+WorldPoker.W: folds 
+JAIME55555: folds 
+sushied333: folds 
+Uncalled bet (77) returned to ollikahn23
+ollikahn23 collected 77 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 77 | Rake 0 
+Seat 1: ollikahn23 collected (77)
+Seat 2: jonny-fes folded before Flop (didn't bet)
+Seat 3: louisa4000 folded before Flop (didn't bet)
+Seat 4: WorldPoker.W (button) folded before Flop (didn't bet)
+Seat 5: JAIME55555 (small blind) folded before Flop
+Seat 6: sushied333 (big blind) folded before Flop
+Seat 7: Pet_topgreen folded before Flop (didn't bet)
+Seat 8: chel_poker777 folded before Flop (didn't bet)
+Seat 9: Xamppaa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183142063836: Tournament #2233579797, $1.36+$0.14 USD Hold'em No Limit - Level I (10/20) - 2018/02/27 17:21:40 ET
+Table '2233579797 3' 9-max Seat #5 is the button
+Seat 1: ollikahn23 (1680 in chips) 
+Seat 2: jonny-fes (1478 in chips) 
+Seat 4: WorldPoker.W (1535 in chips) 
+Seat 5: JAIME55555 (1278 in chips) 
+Seat 6: sushied333 (1468 in chips) 
+Seat 7: Pet_topgreen (1488 in chips) 
+Seat 8: chel_poker777 (1264 in chips) 
+Seat 9: Xamppaa (1885 in chips) 
+ollikahn23: posts the ante 3
+jonny-fes: posts the ante 3
+WorldPoker.W: posts the ante 3
+JAIME55555: posts the ante 3
+sushied333: posts the ante 3
+Pet_topgreen: posts the ante 3
+chel_poker777: posts the ante 3
+Xamppaa: posts the ante 3
+sushied333: posts small blind 10
+Pet_topgreen: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7h Td]
+chel_poker777: folds 
+Xamppaa: folds 
+ollikahn23: folds 
+jonny-fes: folds 
+WorldPoker.W: folds 
+JAIME55555: raises 50 to 70
+sushied333: folds 
+Pet_topgreen: folds 
+Uncalled bet (50) returned to JAIME55555
+JAIME55555 collected 74 from pot
+JAIME55555: doesn't show hand 
+*** SUMMARY ***
+Total pot 74 | Rake 0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: jonny-fes folded before Flop (didn't bet)
+Seat 4: WorldPoker.W folded before Flop (didn't bet)
+Seat 5: JAIME55555 (button) collected (74)
+Seat 6: sushied333 (small blind) folded before Flop
+Seat 7: Pet_topgreen (big blind) folded before Flop
+Seat 8: chel_poker777 folded before Flop (didn't bet)
+Seat 9: Xamppaa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183142091484: Tournament #2233579797, $1.36+$0.14 USD Hold'em No Limit - Level I (10/20) - 2018/02/27 17:22:13 ET
+Table '2233579797 3' 9-max Seat #6 is the button
+Seat 1: ollikahn23 (1677 in chips) 
+Seat 2: jonny-fes (1475 in chips) 
+Seat 4: WorldPoker.W (1532 in chips) 
+Seat 5: JAIME55555 (1329 in chips) 
+Seat 6: sushied333 (1455 in chips) 
+Seat 7: Pet_topgreen (1465 in chips) 
+Seat 8: chel_poker777 (1261 in chips) 
+Seat 9: Xamppaa (1882 in chips) 
+ollikahn23: posts the ante 3
+jonny-fes: posts the ante 3
+WorldPoker.W: posts the ante 3
+JAIME55555: posts the ante 3
+sushied333: posts the ante 3
+Pet_topgreen: posts the ante 3
+chel_poker777: posts the ante 3
+Xamppaa: posts the ante 3
+Pet_topgreen: posts small blind 10
+chel_poker777: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kc 7d]
+Xamppaa: folds 
+ollikahn23: folds 
+jonny-fes: folds 
+WorldPoker.W: calls 20
+JAIME55555: folds 
+sushied333: folds 
+Pet_topgreen: calls 10
+chel_poker777: checks 
+*** FLOP *** [5h 4s 6c]
+Pet_topgreen: checks 
+chel_poker777: checks 
+WorldPoker.W: checks 
+*** TURN *** [5h 4s 6c] [Ah]
+Pet_topgreen: bets 42
+chel_poker777: folds 
+WorldPoker.W: folds 
+Uncalled bet (42) returned to Pet_topgreen
+Pet_topgreen collected 84 from pot
+Pet_topgreen: doesn't show hand 
+*** SUMMARY ***
+Total pot 84 | Rake 0 
+Board [5h 4s 6c Ah]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: jonny-fes folded before Flop (didn't bet)
+Seat 4: WorldPoker.W folded on the Turn
+Seat 5: JAIME55555 folded before Flop (didn't bet)
+Seat 6: sushied333 (button) folded before Flop (didn't bet)
+Seat 7: Pet_topgreen (small blind) collected (84)
+Seat 8: chel_poker777 (big blind) folded on the Turn
+Seat 9: Xamppaa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183142151873: Tournament #2233579797, $1.36+$0.14 USD Hold'em No Limit - Level II (15/30) - 2018/02/27 17:23:24 ET
+Table '2233579797 3' 9-max Seat #7 is the button
+Seat 1: ollikahn23 (1674 in chips) 
+Seat 2: jonny-fes (1472 in chips) 
+Seat 4: WorldPoker.W (1509 in chips) 
+Seat 5: JAIME55555 (1326 in chips) 
+Seat 6: sushied333 (1452 in chips) 
+Seat 7: Pet_topgreen (1526 in chips) 
+Seat 8: chel_poker777 (1238 in chips) 
+Seat 9: Xamppaa (1879 in chips) 
+ollikahn23: posts the ante 4
+jonny-fes: posts the ante 4
+WorldPoker.W: posts the ante 4
+JAIME55555: posts the ante 4
+sushied333: posts the ante 4
+Pet_topgreen: posts the ante 4
+chel_poker777: posts the ante 4
+Xamppaa: posts the ante 4
+chel_poker777: posts small blind 15
+Xamppaa: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Js 2d]
+ollikahn23: folds 
+jonny-fes: folds 
+WorldPoker.W: raises 30 to 60
+JAIME55555: folds 
+sushied333: folds 
+Pet_topgreen: folds 
+chel_poker777: folds 
+Xamppaa: folds 
+Uncalled bet (30) returned to WorldPoker.W
+WorldPoker.W collected 107 from pot
+WorldPoker.W: doesn't show hand 
+*** SUMMARY ***
+Total pot 107 | Rake 0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: jonny-fes folded before Flop (didn't bet)
+Seat 4: WorldPoker.W collected (107)
+Seat 5: JAIME55555 folded before Flop (didn't bet)
+Seat 6: sushied333 folded before Flop (didn't bet)
+Seat 7: Pet_topgreen (button) folded before Flop (didn't bet)
+Seat 8: chel_poker777 (small blind) folded before Flop
+Seat 9: Xamppaa (big blind) folded before Flop
+
+
+
+PokerStars Hand #183142173964: Tournament #2233579797, $1.36+$0.14 USD Hold'em No Limit - Level II (15/30) - 2018/02/27 17:23:50 ET
+Table '2233579797 3' 9-max Seat #8 is the button
+Seat 1: ollikahn23 (1670 in chips) 
+Seat 2: jonny-fes (1468 in chips) 
+Seat 4: WorldPoker.W (1582 in chips) 
+Seat 5: JAIME55555 (1322 in chips) 
+Seat 6: sushied333 (1448 in chips) 
+Seat 7: Pet_topgreen (1522 in chips) 
+Seat 8: chel_poker777 (1219 in chips) 
+Seat 9: Xamppaa (1845 in chips) 
+ollikahn23: posts the ante 4
+jonny-fes: posts the ante 4
+WorldPoker.W: posts the ante 4
+JAIME55555: posts the ante 4
+sushied333: posts the ante 4
+Pet_topgreen: posts the ante 4
+chel_poker777: posts the ante 4
+Xamppaa: posts the ante 4
+Xamppaa: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2d 5s]
+jonny-fes: raises 30 to 60
+WorldPoker.W: raises 197 to 257
+JAIME55555: folds 
+sushied333: calls 257
+Pet_topgreen: folds 
+chel_poker777: folds 
+Xamppaa: folds 
+ollikahn23: folds 
+jonny-fes: folds 
+*** FLOP *** [Tc Qd 2c]
+WorldPoker.W: checks 
+sushied333: checks 
+*** TURN *** [Tc Qd 2c] [3h]
+WorldPoker.W: bets 326
+sushied333: calls 326
+*** RIVER *** [Tc Qd 2c 3h] [Ad]
+WorldPoker.W: bets 995 and is all-in
+sushied333: folds 
+Uncalled bet (995) returned to WorldPoker.W
+WorldPoker.W collected 1303 from pot
+WorldPoker.W: doesn't show hand 
+*** SUMMARY ***
+Total pot 1303 | Rake 0 
+Board [Tc Qd 2c 3h Ad]
+Seat 1: ollikahn23 (big blind) folded before Flop
+Seat 2: jonny-fes folded before Flop
+Seat 4: WorldPoker.W collected (1303)
+Seat 5: JAIME55555 folded before Flop (didn't bet)
+Seat 6: sushied333 folded on the River
+Seat 7: Pet_topgreen folded before Flop (didn't bet)
+Seat 8: chel_poker777 (button) folded before Flop (didn't bet)
+Seat 9: Xamppaa (small blind) folded before Flop
+
+
+
+PokerStars Hand #183142222174: Tournament #2233579797, $1.36+$0.14 USD Hold'em No Limit - Level II (15/30) - 2018/02/27 17:24:47 ET
+Table '2233579797 3' 9-max Seat #9 is the button
+Seat 1: ollikahn23 (1636 in chips) 
+Seat 2: jonny-fes (1404 in chips) 
+Seat 4: WorldPoker.W (2298 in chips) 
+Seat 5: JAIME55555 (1318 in chips) 
+Seat 6: sushied333 (861 in chips) 
+Seat 7: Pet_topgreen (1518 in chips) 
+Seat 8: chel_poker777 (1215 in chips) 
+Seat 9: Xamppaa (1826 in chips) 
+ollikahn23: posts the ante 4
+jonny-fes: posts the ante 4
+WorldPoker.W: posts the ante 4
+JAIME55555: posts the ante 4
+sushied333: posts the ante 4
+Pet_topgreen: posts the ante 4
+chel_poker777: posts the ante 4
+Xamppaa: posts the ante 4
+ollikahn23: posts small blind 15
+jonny-fes: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8s 7d]
+WorldPoker.W: folds 
+JAIME55555: raises 75 to 105
+sushied333: folds 
+Pet_topgreen: folds 
+chel_poker777: folds 
+Xamppaa: folds 
+ollikahn23: folds 
+jonny-fes: folds 
+Uncalled bet (75) returned to JAIME55555
+JAIME55555 collected 107 from pot
+JAIME55555: doesn't show hand 
+*** SUMMARY ***
+Total pot 107 | Rake 0 
+Seat 1: ollikahn23 (small blind) folded before Flop
+Seat 2: jonny-fes (big blind) folded before Flop
+Seat 4: WorldPoker.W folded before Flop (didn't bet)
+Seat 5: JAIME55555 collected (107)
+Seat 6: sushied333 folded before Flop (didn't bet)
+Seat 7: Pet_topgreen folded before Flop (didn't bet)
+Seat 8: chel_poker777 folded before Flop (didn't bet)
+Seat 9: Xamppaa (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183142245522: Tournament #2233579797, $1.36+$0.14 USD Hold'em No Limit - Level II (15/30) - 2018/02/27 17:25:15 ET
+Table '2233579797 3' 9-max Seat #1 is the button
+Seat 1: ollikahn23 (1617 in chips) 
+Seat 2: jonny-fes (1370 in chips) 
+Seat 4: WorldPoker.W (2294 in chips) 
+Seat 5: JAIME55555 (1391 in chips) 
+Seat 6: sushied333 (857 in chips) 
+Seat 7: Pet_topgreen (1514 in chips) 
+Seat 8: chel_poker777 (1211 in chips) 
+Seat 9: Xamppaa (1822 in chips) 
+ollikahn23: posts the ante 4
+jonny-fes: posts the ante 4
+WorldPoker.W: posts the ante 4
+JAIME55555: posts the ante 4
+sushied333: posts the ante 4
+Pet_topgreen: posts the ante 4
+chel_poker777: posts the ante 4
+Xamppaa: posts the ante 4
+jonny-fes: posts small blind 15
+WorldPoker.W: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4c Kc]
+JAIME55555: folds 
+sushied333: raises 60 to 90
+Pet_topgreen: folds 
+chel_poker777: folds 
+Xamppaa: calls 90
+ollikahn23: calls 90
+jonny-fes: folds 
+WorldPoker.W: folds 
+*** FLOP *** [Th 7h 7c]
+sushied333: checks 
+Xamppaa: bets 180
+ollikahn23: folds 
+sushied333: calls 180
+*** TURN *** [Th 7h 7c] [2h]
+sushied333: checks 
+Xamppaa: checks 
+*** RIVER *** [Th 7h 7c 2h] [Td]
+sushied333: checks 
+Xamppaa: checks 
+*** SHOW DOWN ***
+sushied333: shows [Qh Ac] (two pair, Tens and Sevens)
+Xamppaa: shows [8s 8h] (two pair, Tens and Eights)
+Xamppaa collected 707 from pot
+*** SUMMARY ***
+Total pot 707 | Rake 0 
+Board [Th 7h 7c 2h Td]
+Seat 1: ollikahn23 (button) folded on the Flop
+Seat 2: jonny-fes (small blind) folded before Flop
+Seat 4: WorldPoker.W (big blind) folded before Flop
+Seat 5: JAIME55555 folded before Flop (didn't bet)
+Seat 6: sushied333 showed [Qh Ac] and lost with two pair, Tens and Sevens
+Seat 7: Pet_topgreen folded before Flop (didn't bet)
+Seat 8: chel_poker777 folded before Flop (didn't bet)
+Seat 9: Xamppaa showed [8s 8h] and won (707) with two pair, Tens and Eights
+
+
+
+PokerStars Hand #183142299646: Tournament #2233579797, $1.36+$0.14 USD Hold'em No Limit - Level II (15/30) - 2018/02/27 17:26:19 ET
+Table '2233579797 3' 9-max Seat #2 is the button
+Seat 1: ollikahn23 (1523 in chips) 
+Seat 2: jonny-fes (1351 in chips) 
+Seat 4: WorldPoker.W (2260 in chips) 
+Seat 5: JAIME55555 (1387 in chips) 
+Seat 6: sushied333 (583 in chips) 
+Seat 7: Pet_topgreen (1510 in chips) 
+Seat 8: chel_poker777 (1207 in chips) 
+Seat 9: Xamppaa (2255 in chips) 
+ollikahn23: posts the ante 4
+jonny-fes: posts the ante 4
+WorldPoker.W: posts the ante 4
+JAIME55555: posts the ante 4
+sushied333: posts the ante 4
+Pet_topgreen: posts the ante 4
+chel_poker777: posts the ante 4
+Xamppaa: posts the ante 4
+WorldPoker.W: posts small blind 15
+JAIME55555: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6c Ks]
+sushied333: folds 
+Pet_topgreen: folds 
+chel_poker777: folds 
+Xamppaa: folds 
+ollikahn23: raises 107 to 137
+jonny-fes: folds 
+WorldPoker.W: folds 
+JAIME55555: folds 
+Uncalled bet (107) returned to ollikahn23
+ollikahn23 collected 107 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 107 | Rake 0 
+Seat 1: ollikahn23 collected (107)
+Seat 2: jonny-fes (button) folded before Flop (didn't bet)
+Seat 4: WorldPoker.W (small blind) folded before Flop
+Seat 5: JAIME55555 (big blind) folded before Flop
+Seat 6: sushied333 folded before Flop (didn't bet)
+Seat 7: Pet_topgreen folded before Flop (didn't bet)
+Seat 8: chel_poker777 folded before Flop (didn't bet)
+Seat 9: Xamppaa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183142333965: Tournament #2233579797, $1.36+$0.14 USD Hold'em No Limit - Level II (15/30) - 2018/02/27 17:27:00 ET
+Table '2233579797 3' 9-max Seat #4 is the button
+Seat 1: ollikahn23 (1596 in chips) 
+Seat 2: jonny-fes (1347 in chips) 
+Seat 4: WorldPoker.W (2241 in chips) 
+Seat 5: JAIME55555 (1353 in chips) 
+Seat 6: sushied333 (579 in chips) 
+Seat 7: Pet_topgreen (1506 in chips) 
+Seat 8: chel_poker777 (1203 in chips) 
+Seat 9: Xamppaa (2251 in chips) 
+ollikahn23: posts the ante 4
+jonny-fes: posts the ante 4
+WorldPoker.W: posts the ante 4
+JAIME55555: posts the ante 4
+sushied333: posts the ante 4
+Pet_topgreen: posts the ante 4
+chel_poker777: posts the ante 4
+Xamppaa: posts the ante 4
+JAIME55555: posts small blind 15
+sushied333: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2h 2c]
+Pet_topgreen: raises 60 to 90
+chel_poker777: folds 
+Xamppaa: folds 
+ollikahn23: calls 90
+jonny-fes: folds 
+WorldPoker.W: folds 
+JAIME55555: folds 
+sushied333: raises 485 to 575 and is all-in
+Pet_topgreen: raises 927 to 1502 and is all-in
+ollikahn23: folds 
+Uncalled bet (927) returned to Pet_topgreen
+*** FLOP *** [3c Qs Kd]
+*** TURN *** [3c Qs Kd] [9d]
+*** RIVER *** [3c Qs Kd 9d] [As]
+*** SHOW DOWN ***
+sushied333: shows [8d 8h] (a pair of Eights)
+Pet_topgreen: shows [Jd Jc] (a pair of Jacks)
+Pet_topgreen collected 1287 from pot
+sushied333 finished the tournament in 43rd place
+*** SUMMARY ***
+Total pot 1287 | Rake 0 
+Board [3c Qs Kd 9d As]
+Seat 1: ollikahn23 folded before Flop
+Seat 2: jonny-fes folded before Flop (didn't bet)
+Seat 4: WorldPoker.W (button) folded before Flop (didn't bet)
+Seat 5: JAIME55555 (small blind) folded before Flop
+Seat 6: sushied333 (big blind) showed [8d 8h] and lost with a pair of Eights
+Seat 7: Pet_topgreen showed [Jd Jc] and won (1287) with a pair of Jacks
+Seat 8: chel_poker777 folded before Flop (didn't bet)
+Seat 9: Xamppaa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183142369518: Tournament #2233579797, $1.36+$0.14 USD Hold'em No Limit - Level III (25/50) - 2018/02/27 17:27:42 ET
+Table '2233579797 3' 9-max Seat #5 is the button
+Seat 1: ollikahn23 (1502 in chips) 
+Seat 2: jonny-fes (1343 in chips) 
+Seat 4: WorldPoker.W (2237 in chips) 
+Seat 5: JAIME55555 (1334 in chips) 
+Seat 7: Pet_topgreen (2214 in chips) 
+Seat 8: chel_poker777 (1199 in chips) 
+Seat 9: Xamppaa (2247 in chips) 
+ollikahn23: posts the ante 6
+jonny-fes: posts the ante 6
+WorldPoker.W: posts the ante 6
+JAIME55555: posts the ante 6
+Pet_topgreen: posts the ante 6
+chel_poker777: posts the ante 6
+Xamppaa: posts the ante 6
+Pet_topgreen: posts small blind 25
+chel_poker777: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Js 9h]
+Xamppaa: folds 
+ollikahn23: folds 
+jonny-fes: folds 
+WorldPoker.W: folds 
+JAIME55555: folds 
+Pet_topgreen: folds 
+Uncalled bet (25) returned to chel_poker777
+chel_poker777 collected 92 from pot
+*** SUMMARY ***
+Total pot 92 | Rake 0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: jonny-fes folded before Flop (didn't bet)
+Seat 4: WorldPoker.W folded before Flop (didn't bet)
+Seat 5: JAIME55555 (button) folded before Flop (didn't bet)
+Seat 7: Pet_topgreen (small blind) folded before Flop
+Seat 8: chel_poker777 (big blind) collected (92)
+Seat 9: Xamppaa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183142391540: Tournament #2233579797, $1.36+$0.14 USD Hold'em No Limit - Level III (25/50) - 2018/02/27 17:28:08 ET
+Table '2233579797 3' 9-max Seat #7 is the button
+Seat 1: ollikahn23 (1496 in chips) 
+Seat 2: jonny-fes (1337 in chips) 
+Seat 3: mrpornstar88 (2104 in chips) 
+Seat 4: WorldPoker.W (2231 in chips) 
+Seat 5: JAIME55555 (1328 in chips) 
+Seat 7: Pet_topgreen (2183 in chips) 
+Seat 8: chel_poker777 (1260 in chips) 
+Seat 9: Xamppaa (2241 in chips) 
+ollikahn23: posts the ante 6
+jonny-fes: posts the ante 6
+mrpornstar88: posts the ante 6
+WorldPoker.W: posts the ante 6
+JAIME55555: posts the ante 6
+Pet_topgreen: posts the ante 6
+chel_poker777: posts the ante 6
+Xamppaa: posts the ante 6
+chel_poker777: posts small blind 25
+Xamppaa: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9c 6s]
+ollikahn23: folds 
+jonny-fes: folds 
+mrpornstar88: folds 
+WorldPoker.W: folds 
+JAIME55555: folds 
+Pet_topgreen: folds 
+chel_poker777: raises 50 to 100
+Xamppaa: folds 
+Uncalled bet (50) returned to chel_poker777
+chel_poker777 collected 148 from pot
+*** SUMMARY ***
+Total pot 148 | Rake 0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: jonny-fes folded before Flop (didn't bet)
+Seat 3: mrpornstar88 folded before Flop (didn't bet)
+Seat 4: WorldPoker.W folded before Flop (didn't bet)
+Seat 5: JAIME55555 folded before Flop (didn't bet)
+Seat 7: Pet_topgreen (button) folded before Flop (didn't bet)
+Seat 8: chel_poker777 (small blind) collected (148)
+Seat 9: Xamppaa (big blind) folded before Flop
+
+
+
+PokerStars Hand #183142416722: Tournament #2233579797, $1.36+$0.14 USD Hold'em No Limit - Level III (25/50) - 2018/02/27 17:28:38 ET
+Table '2233579797 3' 9-max Seat #8 is the button
+Seat 1: ollikahn23 (1490 in chips) 
+Seat 2: jonny-fes (1331 in chips) 
+Seat 3: mrpornstar88 (2098 in chips) 
+Seat 4: WorldPoker.W (2225 in chips) 
+Seat 5: JAIME55555 (1322 in chips) 
+Seat 7: Pet_topgreen (2177 in chips) 
+Seat 8: chel_poker777 (1352 in chips) 
+Seat 9: Xamppaa (2185 in chips) 
+ollikahn23: posts the ante 6
+jonny-fes: posts the ante 6
+mrpornstar88: posts the ante 6
+WorldPoker.W: posts the ante 6
+JAIME55555: posts the ante 6
+Pet_topgreen: posts the ante 6
+chel_poker777: posts the ante 6
+Xamppaa: posts the ante 6
+Xamppaa: posts small blind 25
+ollikahn23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8d Ad]
+jonny-fes: folds 
+mrpornstar88: folds 
+WorldPoker.W: folds 
+JAIME55555: folds 
+Pet_topgreen: raises 70 to 120
+chel_poker777: folds 
+Xamppaa: folds 
+ollikahn23: calls 70
+*** FLOP *** [4c Js As]
+ollikahn23: checks 
+Pet_topgreen: bets 143
+ollikahn23: calls 143
+*** TURN *** [4c Js As] [7s]
+ollikahn23: bets 400
+Pet_topgreen: calls 400
+*** RIVER *** [4c Js As 7s] [9h]
+ollikahn23: bets 821 and is all-in
+Pet_topgreen: calls 821
+*** SHOW DOWN ***
+ollikahn23: shows [8d Ad] (a pair of Aces)
+Pet_topgreen: shows [Ac Qh] (a pair of Aces - Queen kicker)
+Pet_topgreen collected 3041 from pot
+ollikahn23 finished the tournament in 41st place
+*** SUMMARY ***
+Total pot 3041 | Rake 0 
+Board [4c Js As 7s 9h]
+Seat 1: ollikahn23 (big blind) showed [8d Ad] and lost with a pair of Aces
+Seat 2: jonny-fes folded before Flop (didn't bet)
+Seat 3: mrpornstar88 folded before Flop (didn't bet)
+Seat 4: WorldPoker.W folded before Flop (didn't bet)
+Seat 5: JAIME55555 folded before Flop (didn't bet)
+Seat 7: Pet_topgreen showed [Ac Qh] and won (3041) with a pair of Aces
+Seat 8: chel_poker777 (button) folded before Flop (didn't bet)
+Seat 9: Xamppaa (small blind) folded before Flop
+
+
+

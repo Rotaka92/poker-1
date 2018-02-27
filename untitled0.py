@@ -7,6 +7,7 @@ Created on Wed Feb 07 23:24:38 2018
 
 
 from __future__ import unicode_literals
+from __future__ import division
 from poker import Suit
 
 list(Suit)  #Suit is a class 
@@ -221,10 +222,12 @@ for i in range(len(v)):
         break
 
 
-
+# í is our position regarding to the raiser
                 
-####what are our potOdds preflop:
+#####################      what are our potOdds preflop       ####################
 #if there was no raise before us and our position is outside of the blinds
+                
+                
 if all('raises' not in v[j] for j in range(len(v[:i]))) and t != 2 and t != 1:
     potOdds0 = float(hh.bb/potSize1)
 
@@ -235,18 +238,111 @@ if all('raises' not in v[j] for j in range(len(v[:i]))) and t == 2:
     potOdds0 = float(0.000000001/potSize1)
     
     
-#if there was a raise before    
-if any('raises' not in v[j] for j in range(len(v[:i]))) and t != 2 and t != 1:
+#if there was a raise before and we arent in the blinds    
+if any('raises' in v[j] for j in range(len(v[:i]))) and t != 2 and t != 1:
     for q in range(len(v[:i])):
     #q = 0
         if v[q].partition(':')[0] != hh.hero.name:
             addr = v[q].partition(':')[2]
             if 'raises' in addr:
-                addr = addr.partition('to ')[2]
-            
+                addr1 = int(addr.partition('to ')[2])
+            if 'reraises' in addr:
+                addr1 = int(addr.partition('to ')[2])
 
+    potOdds0 = float(addr1/potSize1)
+
+
+a = hh.hero.combo
+combo = Combo('Ts6s')
+combo.to_hand()
+
+
+
+b = combo.first
+c = combo.second
+
+   
+hand = [
+   Card.new(b),
+   Card.new(c)
+]    
     
     
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+
+
+###### deuces, a hand evaluator from github #####
+
+from deuces import Card
+card = Card.new('Qh')
+
+
+board = [
+ Card.new('Ah'),
+    Card.new('Kh'),
+ Card.new('Jh'),
+Card.new('2h'),
+Card.new('3h')]
+hand = [
+   Card.new('Qs'),
+   Card.new('Th')
+]
+
+Card.print_pretty_cards(board + hand)
+
+from deuces import Evaluator
+evaluator = Evaluator()
+
+
+###
+print evaluator.evaluate(board, hand)
+
+
+from deuces import Deck
+deck = Deck()
+board = deck.draw(5)
+player1_hand = deck.draw(2)
+player2_hand = deck.draw(2)
+
+Card.print_pretty_cards(board)
+
+Card.print_pretty_cards(player1_hand)
+
+Card.print_pretty_cards(player2_hand)
+
+p1_score = evaluator.evaluate(board, player1_hand)
+
+p2_score = evaluator.evaluate(board, player2_hand)
+
+
+
+p1_class = evaluator.get_rank_class(p1_score)
+
+p2_class = evaluator.get_rank_class(p2_score)
+
+
+
+evaluator.class_to_string(p1_class)
+
+evaluator.class_to_string(p2_class)
+
+
+hands = [player1_hand, player2_hand]
+evaluator.hand_summary(board, hands)
+
+
+
+
+
 
 
 

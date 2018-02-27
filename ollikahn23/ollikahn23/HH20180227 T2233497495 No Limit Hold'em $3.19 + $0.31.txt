@@ -1,0 +1,2848 @@
+﻿PokerStars Hand #183138801149: Tournament #2233497495, $3.19+$0.31 USD Hold'em No Limit - Level I (10/20) - 2018/02/27 16:18:29 ET
+Table '2233497495 4' 9-max Seat #1 is the button
+Seat 1: kfiatu1987 (1500 in chips) 
+Seat 2: zauberrudi (1500 in chips) 
+Seat 3: elolas (1500 in chips) 
+Seat 4: pitsikis (1500 in chips) 
+Seat 5: ollikahn23 (1500 in chips) 
+Seat 6: williansct2 (1500 in chips) 
+Seat 7: sessezinho (1500 in chips) 
+Seat 8: volodarv (1500 in chips) 
+Seat 9: ReneJes (1500 in chips) 
+kfiatu1987: posts the ante 3
+zauberrudi: posts the ante 3
+elolas: posts the ante 3
+pitsikis: posts the ante 3
+ollikahn23: posts the ante 3
+williansct2: posts the ante 3
+sessezinho: posts the ante 3
+volodarv: posts the ante 3
+ReneJes: posts the ante 3
+zauberrudi: posts small blind 10
+elolas: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2c 6c]
+pitsikis: folds 
+ollikahn23: folds 
+williansct2: folds 
+sessezinho: folds 
+volodarv: calls 20
+ReneJes: folds 
+kfiatu1987: folds 
+zauberrudi: raises 100 to 120
+elolas: calls 100
+volodarv: folds 
+*** FLOP *** [9s Kd 4c]
+zauberrudi: bets 144
+elolas: calls 144
+*** TURN *** [9s Kd 4c] [Jh]
+zauberrudi: checks 
+elolas: checks 
+*** RIVER *** [9s Kd 4c Jh] [Qd]
+zauberrudi: checks 
+elolas: checks 
+*** SHOW DOWN ***
+zauberrudi: shows [Ad Qc] (a pair of Queens)
+elolas: mucks hand 
+zauberrudi collected 575 from pot
+*** SUMMARY ***
+Total pot 575 | Rake 0 
+Board [9s Kd 4c Jh Qd]
+Seat 1: kfiatu1987 (button) folded before Flop (didn't bet)
+Seat 2: zauberrudi (small blind) showed [Ad Qc] and won (575) with a pair of Queens
+Seat 3: elolas (big blind) mucked [As 4d]
+Seat 4: pitsikis folded before Flop (didn't bet)
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: williansct2 folded before Flop (didn't bet)
+Seat 7: sessezinho folded before Flop (didn't bet)
+Seat 8: volodarv folded before Flop
+Seat 9: ReneJes folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183138884899: Tournament #2233497495, $3.19+$0.31 USD Hold'em No Limit - Level I (10/20) - 2018/02/27 16:20:03 ET
+Table '2233497495 4' 9-max Seat #2 is the button
+Seat 1: kfiatu1987 (1497 in chips) 
+Seat 2: zauberrudi (1808 in chips) 
+Seat 3: elolas (1233 in chips) 
+Seat 4: pitsikis (1497 in chips) 
+Seat 5: ollikahn23 (1497 in chips) 
+Seat 6: williansct2 (1497 in chips) 
+Seat 7: sessezinho (1497 in chips) 
+Seat 8: volodarv (1477 in chips) 
+Seat 9: ReneJes (1497 in chips) 
+kfiatu1987: posts the ante 3
+zauberrudi: posts the ante 3
+elolas: posts the ante 3
+pitsikis: posts the ante 3
+ollikahn23: posts the ante 3
+williansct2: posts the ante 3
+sessezinho: posts the ante 3
+volodarv: posts the ante 3
+ReneJes: posts the ante 3
+elolas: posts small blind 10
+pitsikis: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Th 2s]
+ollikahn23: folds 
+williansct2: folds 
+sessezinho: raises 40 to 60
+volodarv: calls 60
+ReneJes: folds 
+kfiatu1987: folds 
+zauberrudi: folds 
+elolas: folds 
+pitsikis: calls 40
+*** FLOP *** [Ad 7s Kd]
+pitsikis: checks 
+sessezinho: bets 80
+volodarv: folds 
+pitsikis: folds 
+Uncalled bet (80) returned to sessezinho
+sessezinho collected 217 from pot
+*** SUMMARY ***
+Total pot 217 | Rake 0 
+Board [Ad 7s Kd]
+Seat 1: kfiatu1987 folded before Flop (didn't bet)
+Seat 2: zauberrudi (button) folded before Flop (didn't bet)
+Seat 3: elolas (small blind) folded before Flop
+Seat 4: pitsikis (big blind) folded on the Flop
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: williansct2 folded before Flop (didn't bet)
+Seat 7: sessezinho collected (217)
+Seat 8: volodarv folded on the Flop
+Seat 9: ReneJes folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183138922414: Tournament #2233497495, $3.19+$0.31 USD Hold'em No Limit - Level I (10/20) - 2018/02/27 16:20:45 ET
+Table '2233497495 4' 9-max Seat #3 is the button
+Seat 1: kfiatu1987 (1494 in chips) 
+Seat 2: zauberrudi (1805 in chips) 
+Seat 3: elolas (1220 in chips) 
+Seat 4: pitsikis (1434 in chips) 
+Seat 5: ollikahn23 (1494 in chips) 
+Seat 6: williansct2 (1494 in chips) 
+Seat 7: sessezinho (1651 in chips) 
+Seat 8: volodarv (1414 in chips) 
+Seat 9: ReneJes (1494 in chips) 
+kfiatu1987: posts the ante 3
+zauberrudi: posts the ante 3
+elolas: posts the ante 3
+pitsikis: posts the ante 3
+ollikahn23: posts the ante 3
+williansct2: posts the ante 3
+sessezinho: posts the ante 3
+volodarv: posts the ante 3
+ReneJes: posts the ante 3
+pitsikis: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8c 9s]
+williansct2: folds 
+sessezinho: folds 
+volodarv: folds 
+ReneJes: folds 
+kfiatu1987: folds 
+zauberrudi: folds 
+elolas: folds 
+pitsikis: calls 10
+ollikahn23: checks 
+*** FLOP *** [6d 6s 4s]
+pitsikis: checks 
+ollikahn23: checks 
+*** TURN *** [6d 6s 4s] [Qc]
+pitsikis: bets 40
+ollikahn23: folds 
+Uncalled bet (40) returned to pitsikis
+pitsikis collected 67 from pot
+pitsikis: doesn't show hand 
+*** SUMMARY ***
+Total pot 67 | Rake 0 
+Board [6d 6s 4s Qc]
+Seat 1: kfiatu1987 folded before Flop (didn't bet)
+Seat 2: zauberrudi folded before Flop (didn't bet)
+Seat 3: elolas (button) folded before Flop (didn't bet)
+Seat 4: pitsikis (small blind) collected (67)
+Seat 5: ollikahn23 (big blind) folded on the Turn
+Seat 6: williansct2 folded before Flop (didn't bet)
+Seat 7: sessezinho folded before Flop (didn't bet)
+Seat 8: volodarv folded before Flop (didn't bet)
+Seat 9: ReneJes folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183138960832: Tournament #2233497495, $3.19+$0.31 USD Hold'em No Limit - Level I (10/20) - 2018/02/27 16:21:28 ET
+Table '2233497495 4' 9-max Seat #4 is the button
+Seat 1: kfiatu1987 (1491 in chips) 
+Seat 2: zauberrudi (1802 in chips) 
+Seat 3: elolas (1217 in chips) 
+Seat 4: pitsikis (1478 in chips) 
+Seat 5: ollikahn23 (1471 in chips) 
+Seat 6: williansct2 (1491 in chips) 
+Seat 7: sessezinho (1648 in chips) 
+Seat 8: volodarv (1411 in chips) 
+Seat 9: ReneJes (1491 in chips) 
+kfiatu1987: posts the ante 3
+zauberrudi: posts the ante 3
+elolas: posts the ante 3
+pitsikis: posts the ante 3
+ollikahn23: posts the ante 3
+williansct2: posts the ante 3
+sessezinho: posts the ante 3
+volodarv: posts the ante 3
+ReneJes: posts the ante 3
+ollikahn23: posts small blind 10
+williansct2: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5d Kd]
+sessezinho: folds 
+volodarv: folds 
+ReneJes: folds 
+kfiatu1987: folds 
+zauberrudi: raises 60 to 80
+elolas: calls 80
+pitsikis: folds 
+ollikahn23: folds 
+williansct2: folds 
+*** FLOP *** [Ts 3c Ks]
+zauberrudi: checks 
+elolas: checks 
+*** TURN *** [Ts 3c Ks] [5c]
+zauberrudi: bets 217
+elolas: folds 
+Uncalled bet (217) returned to zauberrudi
+zauberrudi collected 217 from pot
+zauberrudi: doesn't show hand 
+*** SUMMARY ***
+Total pot 217 | Rake 0 
+Board [Ts 3c Ks 5c]
+Seat 1: kfiatu1987 folded before Flop (didn't bet)
+Seat 2: zauberrudi collected (217)
+Seat 3: elolas folded on the Turn
+Seat 4: pitsikis (button) folded before Flop (didn't bet)
+Seat 5: ollikahn23 (small blind) folded before Flop
+Seat 6: williansct2 (big blind) folded before Flop
+Seat 7: sessezinho folded before Flop (didn't bet)
+Seat 8: volodarv folded before Flop (didn't bet)
+Seat 9: ReneJes folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183139013135: Tournament #2233497495, $3.19+$0.31 USD Hold'em No Limit - Level I (10/20) - 2018/02/27 16:22:26 ET
+Table '2233497495 4' 9-max Seat #5 is the button
+Seat 1: kfiatu1987 (1488 in chips) 
+Seat 2: zauberrudi (1936 in chips) 
+Seat 3: elolas (1134 in chips) 
+Seat 4: pitsikis (1475 in chips) 
+Seat 5: ollikahn23 (1458 in chips) 
+Seat 6: williansct2 (1468 in chips) 
+Seat 7: sessezinho (1645 in chips) 
+Seat 8: volodarv (1408 in chips) 
+Seat 9: ReneJes (1488 in chips) 
+kfiatu1987: posts the ante 3
+zauberrudi: posts the ante 3
+elolas: posts the ante 3
+pitsikis: posts the ante 3
+ollikahn23: posts the ante 3
+williansct2: posts the ante 3
+sessezinho: posts the ante 3
+volodarv: posts the ante 3
+ReneJes: posts the ante 3
+williansct2: posts small blind 10
+sessezinho: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kh 2d]
+volodarv: folds 
+ReneJes: raises 40 to 60
+kfiatu1987: folds 
+zauberrudi: folds 
+elolas: calls 60
+pitsikis: folds 
+ollikahn23: folds 
+williansct2: folds 
+sessezinho: calls 40
+*** FLOP *** [Th Qd 6d]
+sessezinho: checks 
+ReneJes: bets 80
+elolas: folds 
+sessezinho: calls 80
+*** TURN *** [Th Qd 6d] [5d]
+sessezinho: checks 
+ReneJes: bets 80
+sessezinho: calls 80
+*** RIVER *** [Th Qd 6d 5d] [9s]
+sessezinho: checks 
+ReneJes: bets 120
+sessezinho: calls 120
+*** SHOW DOWN ***
+ReneJes: shows [Qc Ac] (a pair of Queens)
+sessezinho: mucks hand 
+ReneJes collected 777 from pot
+*** SUMMARY ***
+Total pot 777 | Rake 0 
+Board [Th Qd 6d 5d 9s]
+Seat 1: kfiatu1987 folded before Flop (didn't bet)
+Seat 2: zauberrudi folded before Flop (didn't bet)
+Seat 3: elolas folded on the Flop
+Seat 4: pitsikis folded before Flop (didn't bet)
+Seat 5: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 6: williansct2 (small blind) folded before Flop
+Seat 7: sessezinho (big blind) mucked [Tc 4c]
+Seat 8: volodarv folded before Flop (didn't bet)
+Seat 9: ReneJes showed [Qc Ac] and won (777) with a pair of Queens
+
+
+
+PokerStars Hand #183139105486: Tournament #2233497495, $3.19+$0.31 USD Hold'em No Limit - Level I (10/20) - 2018/02/27 16:24:10 ET
+Table '2233497495 4' 9-max Seat #6 is the button
+Seat 1: kfiatu1987 (1485 in chips) 
+Seat 2: zauberrudi (1933 in chips) 
+Seat 3: elolas (1071 in chips) 
+Seat 4: pitsikis (1472 in chips) 
+Seat 5: ollikahn23 (1455 in chips) 
+Seat 6: williansct2 (1455 in chips) 
+Seat 7: sessezinho (1302 in chips) 
+Seat 8: volodarv (1405 in chips) 
+Seat 9: ReneJes (1922 in chips) 
+kfiatu1987: posts the ante 3
+zauberrudi: posts the ante 3
+elolas: posts the ante 3
+pitsikis: posts the ante 3
+ollikahn23: posts the ante 3
+williansct2: posts the ante 3
+sessezinho: posts the ante 3
+volodarv: posts the ante 3
+ReneJes: posts the ante 3
+sessezinho: posts small blind 10
+volodarv: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qs 2h]
+ReneJes: calls 20
+kfiatu1987: folds 
+zauberrudi: calls 20
+elolas: calls 20
+pitsikis: raises 80 to 100
+ollikahn23: folds 
+williansct2: folds 
+sessezinho: folds 
+volodarv: folds 
+ReneJes: folds 
+zauberrudi: calls 80
+elolas: calls 80
+*** FLOP *** [4c 8h Qh]
+zauberrudi: checks 
+elolas: checks 
+pitsikis: bets 140
+zauberrudi: calls 140
+elolas: folds 
+*** TURN *** [4c 8h Qh] [Qd]
+zauberrudi: bets 329
+pitsikis: calls 329
+*** RIVER *** [4c 8h Qh Qd] [5d]
+zauberrudi: bets 1361 and is all-in
+pitsikis: folds 
+Uncalled bet (1361) returned to zauberrudi
+zauberrudi collected 1315 from pot
+zauberrudi: doesn't show hand 
+*** SUMMARY ***
+Total pot 1315 | Rake 0 
+Board [4c 8h Qh Qd 5d]
+Seat 1: kfiatu1987 folded before Flop (didn't bet)
+Seat 2: zauberrudi collected (1315)
+Seat 3: elolas folded on the Flop
+Seat 4: pitsikis folded on the River
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: williansct2 (button) folded before Flop (didn't bet)
+Seat 7: sessezinho (small blind) folded before Flop
+Seat 8: volodarv (big blind) folded before Flop
+Seat 9: ReneJes folded before Flop
+
+
+
+PokerStars Hand #183139168008: Tournament #2233497495, $3.19+$0.31 USD Hold'em No Limit - Level I (10/20) - 2018/02/27 16:25:21 ET
+Table '2233497495 4' 9-max Seat #7 is the button
+Seat 1: kfiatu1987 (1482 in chips) 
+Seat 2: zauberrudi (2676 in chips) 
+Seat 3: elolas (968 in chips) 
+Seat 4: pitsikis (900 in chips) 
+Seat 5: ollikahn23 (1452 in chips) 
+Seat 6: williansct2 (1452 in chips) 
+Seat 7: sessezinho (1289 in chips) 
+Seat 8: volodarv (1382 in chips) 
+Seat 9: ReneJes (1899 in chips) 
+kfiatu1987: posts the ante 3
+zauberrudi: posts the ante 3
+elolas: posts the ante 3
+pitsikis: posts the ante 3
+ollikahn23: posts the ante 3
+williansct2: posts the ante 3
+sessezinho: posts the ante 3
+volodarv: posts the ante 3
+ReneJes: posts the ante 3
+volodarv: posts small blind 10
+ReneJes: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ts Ks]
+kfiatu1987: folds 
+zauberrudi: folds 
+elolas: folds 
+pitsikis: folds 
+ollikahn23: raises 77 to 97
+williansct2: folds 
+sessezinho: folds 
+volodarv: folds 
+ReneJes: folds 
+Uncalled bet (77) returned to ollikahn23
+ollikahn23 collected 77 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 77 | Rake 0 
+Seat 1: kfiatu1987 folded before Flop (didn't bet)
+Seat 2: zauberrudi folded before Flop (didn't bet)
+Seat 3: elolas folded before Flop (didn't bet)
+Seat 4: pitsikis folded before Flop (didn't bet)
+Seat 5: ollikahn23 collected (77)
+Seat 6: williansct2 folded before Flop (didn't bet)
+Seat 7: sessezinho (button) folded before Flop (didn't bet)
+Seat 8: volodarv (small blind) folded before Flop
+Seat 9: ReneJes (big blind) folded before Flop
+
+
+
+PokerStars Hand #183139192710: Tournament #2233497495, $3.19+$0.31 USD Hold'em No Limit - Level I (10/20) - 2018/02/27 16:25:49 ET
+Table '2233497495 4' 9-max Seat #8 is the button
+Seat 1: kfiatu1987 (1479 in chips) 
+Seat 2: zauberrudi (2673 in chips) 
+Seat 3: elolas (965 in chips) 
+Seat 4: pitsikis (897 in chips) 
+Seat 5: ollikahn23 (1506 in chips) 
+Seat 6: williansct2 (1449 in chips) 
+Seat 7: sessezinho (1286 in chips) 
+Seat 8: volodarv (1369 in chips) 
+Seat 9: ReneJes (1876 in chips) 
+kfiatu1987: posts the ante 3
+zauberrudi: posts the ante 3
+elolas: posts the ante 3
+pitsikis: posts the ante 3
+ollikahn23: posts the ante 3
+williansct2: posts the ante 3
+sessezinho: posts the ante 3
+volodarv: posts the ante 3
+ReneJes: posts the ante 3
+ReneJes: posts small blind 10
+kfiatu1987: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4d Jh]
+zauberrudi: calls 20
+elolas: folds 
+pitsikis: raises 40 to 60
+ollikahn23: folds 
+williansct2: folds 
+sessezinho: calls 60
+volodarv: folds 
+ReneJes: folds 
+kfiatu1987: calls 40
+zauberrudi: calls 40
+*** FLOP *** [3h Ah 5s]
+kfiatu1987: checks 
+zauberrudi: checks 
+pitsikis: bets 133
+sessezinho: calls 133
+kfiatu1987: folds 
+zauberrudi: folds 
+*** TURN *** [3h Ah 5s] [9h]
+pitsikis: bets 261
+sessezinho: folds 
+Uncalled bet (261) returned to pitsikis
+pitsikis collected 543 from pot
+pitsikis: doesn't show hand 
+*** SUMMARY ***
+Total pot 543 | Rake 0 
+Board [3h Ah 5s 9h]
+Seat 1: kfiatu1987 (big blind) folded on the Flop
+Seat 2: zauberrudi folded on the Flop
+Seat 3: elolas folded before Flop (didn't bet)
+Seat 4: pitsikis collected (543)
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: williansct2 folded before Flop (didn't bet)
+Seat 7: sessezinho folded on the Turn
+Seat 8: volodarv (button) folded before Flop (didn't bet)
+Seat 9: ReneJes (small blind) folded before Flop
+
+
+
+PokerStars Hand #183139262752: Tournament #2233497495, $3.19+$0.31 USD Hold'em No Limit - Level I (10/20) - 2018/02/27 16:27:08 ET
+Table '2233497495 4' 9-max Seat #9 is the button
+Seat 1: kfiatu1987 (1416 in chips) 
+Seat 2: zauberrudi (2610 in chips) 
+Seat 3: elolas (962 in chips) 
+Seat 4: pitsikis (1244 in chips) 
+Seat 5: ollikahn23 (1503 in chips) 
+Seat 6: williansct2 (1446 in chips) 
+Seat 7: sessezinho (1090 in chips) 
+Seat 8: volodarv (1366 in chips) 
+Seat 9: ReneJes (1863 in chips) 
+kfiatu1987: posts the ante 3
+zauberrudi: posts the ante 3
+elolas: posts the ante 3
+pitsikis: posts the ante 3
+ollikahn23: posts the ante 3
+williansct2: posts the ante 3
+sessezinho: posts the ante 3
+volodarv: posts the ante 3
+ReneJes: posts the ante 3
+kfiatu1987: posts small blind 10
+zauberrudi: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Th Qh]
+elolas: calls 20
+pitsikis: folds 
+ollikahn23: calls 20
+williansct2: raises 60 to 80
+sessezinho: folds 
+volodarv: folds 
+ReneJes: folds 
+kfiatu1987: folds 
+zauberrudi: calls 60
+elolas: calls 60
+ollikahn23: calls 60
+*** FLOP *** [4d Ts 3d]
+zauberrudi: checks 
+elolas: checks 
+ollikahn23: bets 95
+williansct2: calls 95
+zauberrudi: calls 95
+elolas: folds 
+*** TURN *** [4d Ts 3d] [9c]
+zauberrudi: checks 
+ollikahn23: bets 115
+williansct2: raises 305 to 420
+zauberrudi: folds 
+ollikahn23: folds 
+Uncalled bet (305) returned to williansct2
+williansct2 collected 872 from pot
+williansct2: doesn't show hand 
+*** SUMMARY ***
+Total pot 872 | Rake 0 
+Board [4d Ts 3d 9c]
+Seat 1: kfiatu1987 (small blind) folded before Flop
+Seat 2: zauberrudi (big blind) folded on the Turn
+Seat 3: elolas folded on the Flop
+Seat 4: pitsikis folded before Flop (didn't bet)
+Seat 5: ollikahn23 folded on the Turn
+Seat 6: williansct2 collected (872)
+Seat 7: sessezinho folded before Flop (didn't bet)
+Seat 8: volodarv folded before Flop (didn't bet)
+Seat 9: ReneJes (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183139331175: Tournament #2233497495, $3.19+$0.31 USD Hold'em No Limit - Level I (10/20) - 2018/02/27 16:28:25 ET
+Table '2233497495 4' 9-max Seat #1 is the button
+Seat 1: kfiatu1987 (1403 in chips) 
+Seat 2: zauberrudi (2432 in chips) 
+Seat 3: elolas (879 in chips) 
+Seat 4: pitsikis (1241 in chips) 
+Seat 5: ollikahn23 (1210 in chips) 
+Seat 6: williansct2 (2025 in chips) 
+Seat 7: sessezinho (1087 in chips) 
+Seat 8: volodarv (1363 in chips) 
+Seat 9: ReneJes (1860 in chips) 
+kfiatu1987: posts the ante 3
+zauberrudi: posts the ante 3
+elolas: posts the ante 3
+pitsikis: posts the ante 3
+ollikahn23: posts the ante 3
+williansct2: posts the ante 3
+sessezinho: posts the ante 3
+volodarv: posts the ante 3
+ReneJes: posts the ante 3
+zauberrudi: posts small blind 10
+elolas: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9d Ac]
+pitsikis: folds 
+ollikahn23: folds 
+williansct2: folds 
+sessezinho: folds 
+volodarv: folds 
+ReneJes: folds 
+kfiatu1987: folds 
+zauberrudi: raises 80 to 100
+elolas: calls 80
+*** FLOP *** [2d 7c 5h]
+zauberrudi: bets 2329 and is all-in
+elolas: folds 
+Uncalled bet (2329) returned to zauberrudi
+zauberrudi collected 227 from pot
+zauberrudi: doesn't show hand 
+*** SUMMARY ***
+Total pot 227 | Rake 0 
+Board [2d 7c 5h]
+Seat 1: kfiatu1987 (button) folded before Flop (didn't bet)
+Seat 2: zauberrudi (small blind) collected (227)
+Seat 3: elolas (big blind) folded on the Flop
+Seat 4: pitsikis folded before Flop (didn't bet)
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: williansct2 folded before Flop (didn't bet)
+Seat 7: sessezinho folded before Flop (didn't bet)
+Seat 8: volodarv folded before Flop (didn't bet)
+Seat 9: ReneJes folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183139369697: Tournament #2233497495, $3.19+$0.31 USD Hold'em No Limit - Level II (15/30) - 2018/02/27 16:29:09 ET
+Table '2233497495 4' 9-max Seat #2 is the button
+Seat 1: kfiatu1987 (1400 in chips) 
+Seat 2: zauberrudi (2556 in chips) 
+Seat 3: elolas (776 in chips) 
+Seat 4: pitsikis (1238 in chips) 
+Seat 5: ollikahn23 (1207 in chips) 
+Seat 6: williansct2 (2022 in chips) 
+Seat 7: sessezinho (1084 in chips) 
+Seat 8: volodarv (1360 in chips) 
+Seat 9: ReneJes (1857 in chips) 
+kfiatu1987: posts the ante 4
+zauberrudi: posts the ante 4
+elolas: posts the ante 4
+pitsikis: posts the ante 4
+ollikahn23: posts the ante 4
+williansct2: posts the ante 4
+sessezinho: posts the ante 4
+volodarv: posts the ante 4
+ReneJes: posts the ante 4
+elolas: posts small blind 15
+pitsikis: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4h Tc]
+ollikahn23: folds 
+williansct2: folds 
+sessezinho: folds 
+volodarv: folds 
+ReneJes: folds 
+kfiatu1987: folds 
+zauberrudi: folds 
+elolas: folds 
+Uncalled bet (15) returned to pitsikis
+pitsikis collected 66 from pot
+pitsikis: doesn't show hand 
+*** SUMMARY ***
+Total pot 66 | Rake 0 
+Seat 1: kfiatu1987 folded before Flop (didn't bet)
+Seat 2: zauberrudi (button) folded before Flop (didn't bet)
+Seat 3: elolas (small blind) folded before Flop
+Seat 4: pitsikis (big blind) collected (66)
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: williansct2 folded before Flop (didn't bet)
+Seat 7: sessezinho folded before Flop (didn't bet)
+Seat 8: volodarv folded before Flop (didn't bet)
+Seat 9: ReneJes folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183139411200: Tournament #2233497495, $3.19+$0.31 USD Hold'em No Limit - Level II (15/30) - 2018/02/27 16:29:56 ET
+Table '2233497495 4' 9-max Seat #3 is the button
+Seat 1: kfiatu1987 (1396 in chips) 
+Seat 2: zauberrudi (2552 in chips) 
+Seat 3: elolas (757 in chips) 
+Seat 4: pitsikis (1285 in chips) 
+Seat 5: ollikahn23 (1203 in chips) 
+Seat 6: williansct2 (2018 in chips) 
+Seat 7: sessezinho (1080 in chips) 
+Seat 8: volodarv (1356 in chips) 
+Seat 9: ReneJes (1853 in chips) 
+kfiatu1987: posts the ante 4
+zauberrudi: posts the ante 4
+elolas: posts the ante 4
+pitsikis: posts the ante 4
+ollikahn23: posts the ante 4
+williansct2: posts the ante 4
+sessezinho: posts the ante 4
+volodarv: posts the ante 4
+ReneJes: posts the ante 4
+pitsikis: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qc 3c]
+williansct2: folds 
+sessezinho: folds 
+volodarv: folds 
+ReneJes: calls 30
+kfiatu1987: folds 
+zauberrudi: folds 
+elolas: folds 
+pitsikis: calls 15
+ollikahn23: checks 
+*** FLOP *** [Ac 8h 5s]
+pitsikis: checks 
+ollikahn23: checks 
+ReneJes: checks 
+*** TURN *** [Ac 8h 5s] [2s]
+pitsikis: bets 90
+ollikahn23: folds 
+ReneJes: folds 
+Uncalled bet (90) returned to pitsikis
+pitsikis collected 126 from pot
+pitsikis: doesn't show hand 
+*** SUMMARY ***
+Total pot 126 | Rake 0 
+Board [Ac 8h 5s 2s]
+Seat 1: kfiatu1987 folded before Flop (didn't bet)
+Seat 2: zauberrudi folded before Flop (didn't bet)
+Seat 3: elolas (button) folded before Flop (didn't bet)
+Seat 4: pitsikis (small blind) collected (126)
+Seat 5: ollikahn23 (big blind) folded on the Turn
+Seat 6: williansct2 folded before Flop (didn't bet)
+Seat 7: sessezinho folded before Flop (didn't bet)
+Seat 8: volodarv folded before Flop (didn't bet)
+Seat 9: ReneJes folded on the Turn
+
+
+
+PokerStars Hand #183139457909: Tournament #2233497495, $3.19+$0.31 USD Hold'em No Limit - Level II (15/30) - 2018/02/27 16:30:48 ET
+Table '2233497495 4' 9-max Seat #4 is the button
+Seat 1: kfiatu1987 (1392 in chips) 
+Seat 3: elolas (753 in chips) 
+Seat 4: pitsikis (1377 in chips) 
+Seat 5: ollikahn23 (1169 in chips) 
+Seat 6: williansct2 (2014 in chips) 
+Seat 7: sessezinho (1076 in chips) 
+Seat 8: volodarv (1352 in chips) 
+Seat 9: ReneJes (1819 in chips) 
+kfiatu1987: posts the ante 4
+elolas: posts the ante 4
+pitsikis: posts the ante 4
+ollikahn23: posts the ante 4
+williansct2: posts the ante 4
+sessezinho: posts the ante 4
+volodarv: posts the ante 4
+ReneJes: posts the ante 4
+ollikahn23: posts small blind 15
+williansct2: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5s Kc]
+sessezinho: folds 
+volodarv: folds 
+ReneJes: folds 
+kfiatu1987: folds 
+elolas: calls 30
+pitsikis: folds 
+ollikahn23: folds 
+williansct2: checks 
+*** FLOP *** [5h Qd 7c]
+williansct2: checks 
+elolas: checks 
+*** TURN *** [5h Qd 7c] [6d]
+williansct2: checks 
+elolas: checks 
+*** RIVER *** [5h Qd 7c 6d] [2s]
+williansct2: checks 
+elolas: checks 
+*** SHOW DOWN ***
+williansct2: shows [4h Jh] (high card Queen)
+elolas: shows [Tc Jc] (high card Queen - Jack+Ten kicker)
+elolas collected 107 from pot
+*** SUMMARY ***
+Total pot 107 | Rake 0 
+Board [5h Qd 7c 6d 2s]
+Seat 1: kfiatu1987 folded before Flop (didn't bet)
+Seat 3: elolas showed [Tc Jc] and won (107) with high card Queen
+Seat 4: pitsikis (button) folded before Flop (didn't bet)
+Seat 5: ollikahn23 (small blind) folded before Flop
+Seat 6: williansct2 (big blind) showed [4h Jh] and lost with high card Queen
+Seat 7: sessezinho folded before Flop (didn't bet)
+Seat 8: volodarv folded before Flop (didn't bet)
+Seat 9: ReneJes folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183139509367: Tournament #2233497495, $3.19+$0.31 USD Hold'em No Limit - Level II (15/30) - 2018/02/27 16:31:47 ET
+Table '2233497495 4' 9-max Seat #5 is the button
+Seat 1: kfiatu1987 (1388 in chips) 
+Seat 3: elolas (826 in chips) 
+Seat 4: pitsikis (1373 in chips) 
+Seat 5: ollikahn23 (1150 in chips) 
+Seat 6: williansct2 (1980 in chips) 
+Seat 7: sessezinho (1072 in chips) 
+Seat 8: volodarv (1348 in chips) 
+Seat 9: ReneJes (1815 in chips) 
+kfiatu1987: posts the ante 4
+elolas: posts the ante 4
+pitsikis: posts the ante 4
+ollikahn23: posts the ante 4
+williansct2: posts the ante 4
+sessezinho: posts the ante 4
+volodarv: posts the ante 4
+ReneJes: posts the ante 4
+williansct2: posts small blind 15
+sessezinho: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4d 6d]
+volodarv: folds 
+ReneJes: calls 30
+kfiatu1987: raises 90 to 120
+elolas: folds 
+pitsikis: folds 
+ollikahn23: folds 
+williansct2: calls 105
+sessezinho: calls 90
+ReneJes: folds 
+*** FLOP *** [As 6s Qc]
+williansct2: checks 
+sessezinho: checks 
+kfiatu1987: bets 287
+williansct2: folds 
+sessezinho: raises 661 to 948 and is all-in
+kfiatu1987: calls 661
+*** TURN *** [As 6s Qc] [8h]
+*** RIVER *** [As 6s Qc 8h] [6h]
+*** SHOW DOWN ***
+sessezinho: shows [Ts 9s] (a pair of Sixes)
+kfiatu1987: shows [Qs Ac] (two pair, Aces and Queens)
+kfiatu1987 collected 2318 from pot
+sessezinho finished the tournament in 41st place
+*** SUMMARY ***
+Total pot 2318 | Rake 0 
+Board [As 6s Qc 8h 6h]
+Seat 1: kfiatu1987 showed [Qs Ac] and won (2318) with two pair, Aces and Queens
+Seat 3: elolas folded before Flop (didn't bet)
+Seat 4: pitsikis folded before Flop (didn't bet)
+Seat 5: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 6: williansct2 (small blind) folded on the Flop
+Seat 7: sessezinho (big blind) showed [Ts 9s] and lost with a pair of Sixes
+Seat 8: volodarv folded before Flop (didn't bet)
+Seat 9: ReneJes folded before Flop
+
+
+
+PokerStars Hand #183139584378: Tournament #2233497495, $3.19+$0.31 USD Hold'em No Limit - Level II (15/30) - 2018/02/27 16:33:12 ET
+Table '2233497495 4' 9-max Seat #6 is the button
+Seat 1: kfiatu1987 (2634 in chips) 
+Seat 3: elolas (822 in chips) 
+Seat 4: pitsikis (1369 in chips) 
+Seat 5: ollikahn23 (1146 in chips) 
+Seat 6: williansct2 (1856 in chips) 
+Seat 8: volodarv (1344 in chips) 
+Seat 9: ReneJes (1781 in chips) 
+kfiatu1987: posts the ante 4
+elolas: posts the ante 4
+pitsikis: posts the ante 4
+ollikahn23: posts the ante 4
+williansct2: posts the ante 4
+volodarv: posts the ante 4
+ReneJes: posts the ante 4
+volodarv: posts small blind 15
+ReneJes: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qh Qs]
+kfiatu1987: folds 
+elolas: folds 
+pitsikis: raises 30 to 60
+ollikahn23: raises 150 to 210
+williansct2: folds 
+volodarv: folds 
+ReneJes: folds 
+pitsikis: calls 150
+*** FLOP *** [7d 5d Ad]
+pitsikis: checks 
+ollikahn23: bets 332
+pitsikis: folds 
+Uncalled bet (332) returned to ollikahn23
+ollikahn23 collected 493 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 493 | Rake 0 
+Board [7d 5d Ad]
+Seat 1: kfiatu1987 folded before Flop (didn't bet)
+Seat 3: elolas folded before Flop (didn't bet)
+Seat 4: pitsikis folded on the Flop
+Seat 5: ollikahn23 collected (493)
+Seat 6: williansct2 (button) folded before Flop (didn't bet)
+Seat 8: volodarv (small blind) folded before Flop
+Seat 9: ReneJes (big blind) folded before Flop
+
+
+
+PokerStars Hand #183139633264: Tournament #2233497495, $3.19+$0.31 USD Hold'em No Limit - Level II (15/30) - 2018/02/27 16:34:07 ET
+Table '2233497495 4' 9-max Seat #8 is the button
+Seat 1: kfiatu1987 (2630 in chips) 
+Seat 3: elolas (818 in chips) 
+Seat 4: pitsikis (1155 in chips) 
+Seat 5: ollikahn23 (1425 in chips) 
+Seat 6: williansct2 (1852 in chips) 
+Seat 7: ~mazwzam~ (737 in chips) 
+Seat 8: volodarv (1325 in chips) 
+Seat 9: ReneJes (1747 in chips) 
+kfiatu1987: posts the ante 4
+elolas: posts the ante 4
+pitsikis: posts the ante 4
+ollikahn23: posts the ante 4
+williansct2: posts the ante 4
+~mazwzam~: posts the ante 4
+volodarv: posts the ante 4
+ReneJes: posts the ante 4
+ReneJes: posts small blind 15
+kfiatu1987: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5c 7h]
+elolas: folds 
+pitsikis: raises 30 to 60
+ollikahn23: folds 
+williansct2: folds 
+~mazwzam~: folds 
+volodarv: folds 
+ReneJes: folds 
+kfiatu1987: folds 
+Uncalled bet (30) returned to pitsikis
+pitsikis collected 107 from pot
+*** SUMMARY ***
+Total pot 107 | Rake 0 
+Seat 1: kfiatu1987 (big blind) folded before Flop
+Seat 3: elolas folded before Flop (didn't bet)
+Seat 4: pitsikis collected (107)
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: williansct2 folded before Flop (didn't bet)
+Seat 7: ~mazwzam~ folded before Flop (didn't bet)
+Seat 8: volodarv (button) folded before Flop (didn't bet)
+Seat 9: ReneJes (small blind) folded before Flop
+
+
+
+PokerStars Hand #183139652045: Tournament #2233497495, $3.19+$0.31 USD Hold'em No Limit - Level II (15/30) - 2018/02/27 16:34:29 ET
+Table '2233497495 4' 9-max Seat #9 is the button
+Seat 1: kfiatu1987 (2596 in chips) 
+Seat 3: elolas (814 in chips) 
+Seat 4: pitsikis (1228 in chips) 
+Seat 5: ollikahn23 (1421 in chips) 
+Seat 6: williansct2 (1848 in chips) 
+Seat 7: ~mazwzam~ (733 in chips) 
+Seat 8: volodarv (1321 in chips) 
+Seat 9: ReneJes (1728 in chips) 
+kfiatu1987: posts the ante 4
+elolas: posts the ante 4
+pitsikis: posts the ante 4
+ollikahn23: posts the ante 4
+williansct2: posts the ante 4
+~mazwzam~: posts the ante 4
+volodarv: posts the ante 4
+ReneJes: posts the ante 4
+kfiatu1987: posts small blind 15
+elolas: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6s Jh]
+pitsikis: folds 
+ollikahn23: folds 
+williansct2: folds 
+~mazwzam~: calls 30
+volodarv: folds 
+ReneJes: folds 
+kfiatu1987: folds 
+elolas: checks 
+*** FLOP *** [9d 8h Ah]
+elolas: checks 
+~mazwzam~: checks 
+*** TURN *** [9d 8h Ah] [2h]
+elolas: checks 
+~mazwzam~: bets 80
+elolas: folds 
+Uncalled bet (80) returned to ~mazwzam~
+~mazwzam~ collected 107 from pot
+~mazwzam~: doesn't show hand 
+*** SUMMARY ***
+Total pot 107 | Rake 0 
+Board [9d 8h Ah 2h]
+Seat 1: kfiatu1987 (small blind) folded before Flop
+Seat 3: elolas (big blind) folded on the Turn
+Seat 4: pitsikis folded before Flop (didn't bet)
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: williansct2 folded before Flop (didn't bet)
+Seat 7: ~mazwzam~ collected (107)
+Seat 8: volodarv folded before Flop (didn't bet)
+Seat 9: ReneJes (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183139728951: Tournament #2233497495, $3.19+$0.31 USD Hold'em No Limit - Level II (15/30) - 2018/02/27 16:35:56 ET
+Table '2233497495 4' 9-max Seat #1 is the button
+Seat 1: kfiatu1987 (2577 in chips) 
+Seat 3: elolas (780 in chips) 
+Seat 4: pitsikis (1224 in chips) 
+Seat 5: ollikahn23 (1417 in chips) 
+Seat 6: williansct2 (1844 in chips) 
+Seat 7: ~mazwzam~ (806 in chips) 
+Seat 8: volodarv (1317 in chips) 
+Seat 9: ReneJes (1724 in chips) 
+kfiatu1987: posts the ante 4
+elolas: posts the ante 4
+pitsikis: posts the ante 4
+ollikahn23: posts the ante 4
+williansct2: posts the ante 4
+~mazwzam~: posts the ante 4
+volodarv: posts the ante 4
+ReneJes: posts the ante 4
+elolas: posts small blind 15
+pitsikis: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kc 4d]
+ollikahn23: folds 
+williansct2: folds 
+~mazwzam~: raises 60 to 90
+volodarv: folds 
+ReneJes: folds 
+kfiatu1987: folds 
+elolas: raises 60 to 150
+pitsikis: calls 120
+~mazwzam~: calls 60
+*** FLOP *** [2s Ac Ah]
+elolas: bets 241
+pitsikis: folds 
+~mazwzam~: calls 241
+*** TURN *** [2s Ac Ah] [Td]
+elolas: checks 
+~mazwzam~: checks 
+*** RIVER *** [2s Ac Ah Td] [4s]
+elolas: bets 385 and is all-in
+~mazwzam~: calls 385
+*** SHOW DOWN ***
+elolas: shows [7d 7h] (two pair, Aces and Sevens)
+~mazwzam~: shows [As 6h] (three of a kind, Aces)
+~mazwzam~ collected 1734 from pot
+elolas finished the tournament in 39th place
+*** SUMMARY ***
+Total pot 1734 | Rake 0 
+Board [2s Ac Ah Td 4s]
+Seat 1: kfiatu1987 (button) folded before Flop (didn't bet)
+Seat 3: elolas (small blind) showed [7d 7h] and lost with two pair, Aces and Sevens
+Seat 4: pitsikis (big blind) folded on the Flop
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: williansct2 folded before Flop (didn't bet)
+Seat 7: ~mazwzam~ showed [As 6h] and won (1734) with three of a kind, Aces
+Seat 8: volodarv folded before Flop (didn't bet)
+Seat 9: ReneJes folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183139781955: Tournament #2233497495, $3.19+$0.31 USD Hold'em No Limit - Level II (15/30) - 2018/02/27 16:36:57 ET
+Table '2233497495 4' 9-max Seat #4 is the button
+Seat 1: kfiatu1987 (2573 in chips) 
+Seat 4: pitsikis (1070 in chips) 
+Seat 5: ollikahn23 (1413 in chips) 
+Seat 6: williansct2 (1840 in chips) 
+Seat 7: ~mazwzam~ (1760 in chips) 
+Seat 8: volodarv (1313 in chips) 
+Seat 9: ReneJes (1720 in chips) 
+kfiatu1987: posts the ante 4
+pitsikis: posts the ante 4
+ollikahn23: posts the ante 4
+williansct2: posts the ante 4
+~mazwzam~: posts the ante 4
+volodarv: posts the ante 4
+ReneJes: posts the ante 4
+ollikahn23: posts small blind 15
+williansct2: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2h 5d]
+~mazwzam~: raises 90 to 120
+volodarv: folds 
+ReneJes: folds 
+kfiatu1987: folds 
+pitsikis: folds 
+ollikahn23: folds 
+williansct2: folds 
+Uncalled bet (90) returned to ~mazwzam~
+~mazwzam~ collected 103 from pot
+~mazwzam~: doesn't show hand 
+*** SUMMARY ***
+Total pot 103 | Rake 0 
+Seat 1: kfiatu1987 folded before Flop (didn't bet)
+Seat 4: pitsikis (button) folded before Flop (didn't bet)
+Seat 5: ollikahn23 (small blind) folded before Flop
+Seat 6: williansct2 (big blind) folded before Flop
+Seat 7: ~mazwzam~ collected (103)
+Seat 8: volodarv folded before Flop (didn't bet)
+Seat 9: ReneJes folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183139805167: Tournament #2233497495, $3.19+$0.31 USD Hold'em No Limit - Level II (15/30) - 2018/02/27 16:37:23 ET
+Table '2233497495 4' 9-max Seat #5 is the button
+Seat 1: kfiatu1987 (2569 in chips) 
+Seat 4: pitsikis (1066 in chips) 
+Seat 5: ollikahn23 (1394 in chips) 
+Seat 6: williansct2 (1806 in chips) 
+Seat 7: ~mazwzam~ (1829 in chips) 
+Seat 8: volodarv (1309 in chips) 
+Seat 9: ReneJes (1716 in chips) 
+kfiatu1987: posts the ante 4
+pitsikis: posts the ante 4
+ollikahn23: posts the ante 4
+williansct2: posts the ante 4
+~mazwzam~: posts the ante 4
+volodarv: posts the ante 4
+ReneJes: posts the ante 4
+williansct2: posts small blind 15
+~mazwzam~: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5s Kc]
+volodarv: folds 
+ReneJes: raises 30 to 60
+kfiatu1987: raises 120 to 180
+pitsikis: folds 
+ollikahn23: folds 
+williansct2: folds 
+~mazwzam~: folds 
+ReneJes: calls 120
+*** FLOP *** [Qd 6c Jc]
+ReneJes: checks 
+kfiatu1987: checks 
+*** TURN *** [Qd 6c Jc] [4s]
+ReneJes: checks 
+kfiatu1987: checks 
+*** RIVER *** [Qd 6c Jc 4s] [3d]
+ReneJes: checks 
+kfiatu1987: checks 
+*** SHOW DOWN ***
+ReneJes: shows [As 7s] (high card Ace)
+kfiatu1987: shows [Ad Kh] (high card Ace - King kicker)
+kfiatu1987 collected 433 from pot
+*** SUMMARY ***
+Total pot 433 | Rake 0 
+Board [Qd 6c Jc 4s 3d]
+Seat 1: kfiatu1987 showed [Ad Kh] and won (433) with high card Ace
+Seat 4: pitsikis folded before Flop (didn't bet)
+Seat 5: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 6: williansct2 (small blind) folded before Flop
+Seat 7: ~mazwzam~ (big blind) folded before Flop
+Seat 8: volodarv folded before Flop (didn't bet)
+Seat 9: ReneJes showed [As 7s] and lost with high card Ace
+
+
+
+PokerStars Hand #183139893526: Tournament #2233497495, $3.19+$0.31 USD Hold'em No Limit - Level III (25/50) - 2018/02/27 16:39:05 ET
+Table '2233497495 4' 9-max Seat #6 is the button
+Seat 1: kfiatu1987 (2818 in chips) 
+Seat 4: pitsikis (1062 in chips) 
+Seat 5: ollikahn23 (1390 in chips) 
+Seat 6: williansct2 (1787 in chips) 
+Seat 7: ~mazwzam~ (1795 in chips) 
+Seat 8: volodarv (1305 in chips) 
+Seat 9: ReneJes (1532 in chips) 
+kfiatu1987: posts the ante 6
+pitsikis: posts the ante 6
+ollikahn23: posts the ante 6
+williansct2: posts the ante 6
+~mazwzam~: posts the ante 6
+volodarv: posts the ante 6
+ReneJes: posts the ante 6
+~mazwzam~: posts small blind 25
+volodarv: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7h 7d]
+ReneJes: folds 
+kfiatu1987: folds 
+pitsikis: raises 56 to 106
+ollikahn23: calls 106
+williansct2: folds 
+~mazwzam~: calls 81
+volodarv: folds 
+*** FLOP *** [2c Th 3s]
+~mazwzam~: checks 
+pitsikis: bets 262
+ollikahn23: folds 
+~mazwzam~: folds 
+Uncalled bet (262) returned to pitsikis
+pitsikis collected 410 from pot
+pitsikis: doesn't show hand 
+*** SUMMARY ***
+Total pot 410 | Rake 0 
+Board [2c Th 3s]
+Seat 1: kfiatu1987 folded before Flop (didn't bet)
+Seat 4: pitsikis collected (410)
+Seat 5: ollikahn23 folded on the Flop
+Seat 6: williansct2 (button) folded before Flop (didn't bet)
+Seat 7: ~mazwzam~ (small blind) folded on the Flop
+Seat 8: volodarv (big blind) folded before Flop
+Seat 9: ReneJes folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183139950396: Tournament #2233497495, $3.19+$0.31 USD Hold'em No Limit - Level III (25/50) - 2018/02/27 16:40:10 ET
+Table '2233497495 4' 9-max Seat #7 is the button
+Seat 1: kfiatu1987 (2812 in chips) 
+Seat 2: Macziejoff (867 in chips) 
+Seat 3: rainbow977 (1478 in chips) 
+Seat 4: pitsikis (1360 in chips) 
+Seat 5: ollikahn23 (1278 in chips) 
+Seat 6: williansct2 (1781 in chips) 
+Seat 7: ~mazwzam~ (1683 in chips) 
+Seat 8: volodarv (1249 in chips) 
+Seat 9: ReneJes (1526 in chips) 
+kfiatu1987: posts the ante 6
+Macziejoff: posts the ante 6
+rainbow977: posts the ante 6
+pitsikis: posts the ante 6
+ollikahn23: posts the ante 6
+williansct2: posts the ante 6
+~mazwzam~: posts the ante 6
+volodarv: posts the ante 6
+ReneJes: posts the ante 6
+volodarv: posts small blind 25
+ReneJes: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jc Ad]
+kfiatu1987: folds 
+Macziejoff: folds 
+rainbow977: folds 
+pitsikis: folds 
+ollikahn23: raises 179 to 229
+williansct2: folds 
+~mazwzam~: folds 
+volodarv: folds 
+ReneJes: folds 
+Uncalled bet (179) returned to ollikahn23
+ollikahn23 collected 179 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 179 | Rake 0 
+Seat 1: kfiatu1987 folded before Flop (didn't bet)
+Seat 2: Macziejoff folded before Flop (didn't bet)
+Seat 3: rainbow977 folded before Flop (didn't bet)
+Seat 4: pitsikis folded before Flop (didn't bet)
+Seat 5: ollikahn23 collected (179)
+Seat 6: williansct2 folded before Flop (didn't bet)
+Seat 7: ~mazwzam~ (button) folded before Flop (didn't bet)
+Seat 8: volodarv (small blind) folded before Flop
+Seat 9: ReneJes (big blind) folded before Flop
+
+
+
+PokerStars Hand #183139980281: Tournament #2233497495, $3.19+$0.31 USD Hold'em No Limit - Level III (25/50) - 2018/02/27 16:40:44 ET
+Table '2233497495 4' 9-max Seat #8 is the button
+Seat 1: kfiatu1987 (2806 in chips) 
+Seat 2: Macziejoff (861 in chips) 
+Seat 3: rainbow977 (1472 in chips) 
+Seat 4: pitsikis (1354 in chips) 
+Seat 5: ollikahn23 (1401 in chips) 
+Seat 6: williansct2 (1775 in chips) 
+Seat 7: ~mazwzam~ (1677 in chips) 
+Seat 8: volodarv (1218 in chips) 
+Seat 9: ReneJes (1470 in chips) 
+kfiatu1987: posts the ante 6
+Macziejoff: posts the ante 6
+rainbow977: posts the ante 6
+pitsikis: posts the ante 6
+ollikahn23: posts the ante 6
+williansct2: posts the ante 6
+~mazwzam~: posts the ante 6
+volodarv: posts the ante 6
+ReneJes: posts the ante 6
+ReneJes: posts small blind 25
+kfiatu1987: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ks 6d]
+Macziejoff: folds 
+rainbow977: folds 
+pitsikis: folds 
+ollikahn23: folds 
+williansct2: folds 
+~mazwzam~: folds 
+volodarv: folds 
+ReneJes: raises 100 to 150
+kfiatu1987: folds 
+Uncalled bet (100) returned to ReneJes
+ReneJes collected 154 from pot
+ReneJes: doesn't show hand 
+*** SUMMARY ***
+Total pot 154 | Rake 0 
+Seat 1: kfiatu1987 (big blind) folded before Flop
+Seat 2: Macziejoff folded before Flop (didn't bet)
+Seat 3: rainbow977 folded before Flop (didn't bet)
+Seat 4: pitsikis folded before Flop (didn't bet)
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: williansct2 folded before Flop (didn't bet)
+Seat 7: ~mazwzam~ folded before Flop (didn't bet)
+Seat 8: volodarv (button) folded before Flop (didn't bet)
+Seat 9: ReneJes (small blind) collected (154)
+
+
+
+PokerStars Hand #183140001004: Tournament #2233497495, $3.19+$0.31 USD Hold'em No Limit - Level III (25/50) - 2018/02/27 16:41:08 ET
+Table '2233497495 4' 9-max Seat #9 is the button
+Seat 1: kfiatu1987 (2750 in chips) 
+Seat 2: Macziejoff (855 in chips) 
+Seat 3: rainbow977 (1466 in chips) 
+Seat 4: pitsikis (1348 in chips) 
+Seat 5: ollikahn23 (1395 in chips) 
+Seat 6: williansct2 (1769 in chips) 
+Seat 7: ~mazwzam~ (1671 in chips) 
+Seat 8: volodarv (1212 in chips) 
+Seat 9: ReneJes (1568 in chips) 
+kfiatu1987: posts the ante 6
+Macziejoff: posts the ante 6
+rainbow977: posts the ante 6
+pitsikis: posts the ante 6
+ollikahn23: posts the ante 6
+williansct2: posts the ante 6
+~mazwzam~: posts the ante 6
+volodarv: posts the ante 6
+ReneJes: posts the ante 6
+kfiatu1987: posts small blind 25
+Macziejoff: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2h Kc]
+rainbow977: calls 50
+pitsikis: folds 
+ollikahn23: folds 
+williansct2: raises 150 to 200
+~mazwzam~: folds 
+volodarv: folds 
+ReneJes: folds 
+kfiatu1987: folds 
+Macziejoff: folds 
+rainbow977: calls 150
+*** FLOP *** [As 9s 5c]
+rainbow977: checks 
+williansct2: bets 185
+rainbow977: folds 
+Uncalled bet (185) returned to williansct2
+williansct2 collected 529 from pot
+williansct2: doesn't show hand 
+*** SUMMARY ***
+Total pot 529 | Rake 0 
+Board [As 9s 5c]
+Seat 1: kfiatu1987 (small blind) folded before Flop
+Seat 2: Macziejoff (big blind) folded before Flop
+Seat 3: rainbow977 folded on the Flop
+Seat 4: pitsikis folded before Flop (didn't bet)
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: williansct2 collected (529)
+Seat 7: ~mazwzam~ folded before Flop (didn't bet)
+Seat 8: volodarv folded before Flop (didn't bet)
+Seat 9: ReneJes (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183140039952: Tournament #2233497495, $3.19+$0.31 USD Hold'em No Limit - Level III (25/50) - 2018/02/27 16:41:53 ET
+Table '2233497495 4' 9-max Seat #1 is the button
+Seat 1: kfiatu1987 (2719 in chips) 
+Seat 2: Macziejoff (799 in chips) 
+Seat 3: rainbow977 (1260 in chips) 
+Seat 4: pitsikis (1342 in chips) 
+Seat 5: ollikahn23 (1389 in chips) 
+Seat 6: williansct2 (2092 in chips) 
+Seat 7: ~mazwzam~ (1665 in chips) 
+Seat 8: volodarv (1206 in chips) 
+Seat 9: ReneJes (1562 in chips) 
+kfiatu1987: posts the ante 6
+Macziejoff: posts the ante 6
+rainbow977: posts the ante 6
+pitsikis: posts the ante 6
+ollikahn23: posts the ante 6
+williansct2: posts the ante 6
+~mazwzam~: posts the ante 6
+volodarv: posts the ante 6
+ReneJes: posts the ante 6
+Macziejoff: posts small blind 25
+rainbow977: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6h 4d]
+pitsikis: folds 
+ollikahn23: folds 
+williansct2: folds 
+~mazwzam~: raises 50 to 100
+volodarv: folds 
+ReneJes: folds 
+kfiatu1987: folds 
+Macziejoff: folds 
+rainbow977: calls 50
+*** FLOP *** [Ac 7h 4s]
+rainbow977: checks 
+~mazwzam~: bets 100
+rainbow977: folds 
+Uncalled bet (100) returned to ~mazwzam~
+~mazwzam~ collected 279 from pot
+~mazwzam~: doesn't show hand 
+*** SUMMARY ***
+Total pot 279 | Rake 0 
+Board [Ac 7h 4s]
+Seat 1: kfiatu1987 (button) folded before Flop (didn't bet)
+Seat 2: Macziejoff (small blind) folded before Flop
+Seat 3: rainbow977 (big blind) folded on the Flop
+Seat 4: pitsikis folded before Flop (didn't bet)
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: williansct2 folded before Flop (didn't bet)
+Seat 7: ~mazwzam~ collected (279)
+Seat 8: volodarv folded before Flop (didn't bet)
+Seat 9: ReneJes folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183140096918: Tournament #2233497495, $3.19+$0.31 USD Hold'em No Limit - Level III (25/50) - 2018/02/27 16:42:50 ET
+Table '2233497495 4' 9-max Seat #2 is the button
+Seat 1: kfiatu1987 (2713 in chips) 
+Seat 2: Macziejoff (768 in chips) 
+Seat 3: rainbow977 (1154 in chips) 
+Seat 4: pitsikis (1336 in chips) 
+Seat 5: ollikahn23 (1383 in chips) 
+Seat 6: williansct2 (2086 in chips) 
+Seat 7: ~mazwzam~ (1838 in chips) 
+Seat 8: volodarv (1200 in chips) 
+Seat 9: ReneJes (1556 in chips) 
+kfiatu1987: posts the ante 6
+Macziejoff: posts the ante 6
+rainbow977: posts the ante 6
+pitsikis: posts the ante 6
+ollikahn23: posts the ante 6
+williansct2: posts the ante 6
+~mazwzam~: posts the ante 6
+volodarv: posts the ante 6
+ReneJes: posts the ante 6
+rainbow977: posts small blind 25
+pitsikis: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4h 2h]
+ollikahn23: folds 
+williansct2: folds 
+~mazwzam~: folds 
+volodarv: raises 100 to 150
+ReneJes: raises 150 to 300
+kfiatu1987: folds 
+Macziejoff: folds 
+rainbow977: folds 
+pitsikis: folds 
+volodarv: calls 150
+*** FLOP *** [8d Th Jh]
+volodarv: bets 894 and is all-in
+ReneJes: calls 894
+*** TURN *** [8d Th Jh] [2d]
+*** RIVER *** [8d Th Jh 2d] [5h]
+*** SHOW DOWN ***
+volodarv: shows [Tc Qc] (a pair of Tens)
+ReneJes: shows [Ad Ah] (a pair of Aces)
+ReneJes collected 2517 from pot
+volodarv finished the tournament in 35th place
+*** SUMMARY ***
+Total pot 2517 | Rake 0 
+Board [8d Th Jh 2d 5h]
+Seat 1: kfiatu1987 folded before Flop (didn't bet)
+Seat 2: Macziejoff (button) folded before Flop (didn't bet)
+Seat 3: rainbow977 (small blind) folded before Flop
+Seat 4: pitsikis (big blind) folded before Flop
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: williansct2 folded before Flop (didn't bet)
+Seat 7: ~mazwzam~ folded before Flop (didn't bet)
+Seat 8: volodarv showed [Tc Qc] and lost with a pair of Tens
+Seat 9: ReneJes showed [Ad Ah] and won (2517) with a pair of Aces
+
+
+
+PokerStars Hand #183140145949: Tournament #2233497495, $3.19+$0.31 USD Hold'em No Limit - Level III (25/50) - 2018/02/27 16:43:46 ET
+Table '2233497495 4' 9-max Seat #3 is the button
+Seat 1: kfiatu1987 (2707 in chips) 
+Seat 2: Macziejoff (762 in chips) 
+Seat 3: rainbow977 (1123 in chips) 
+Seat 4: pitsikis (1280 in chips) 
+Seat 5: ollikahn23 (1377 in chips) 
+Seat 6: williansct2 (2080 in chips) 
+Seat 7: ~mazwzam~ (1832 in chips) 
+Seat 9: ReneJes (2873 in chips) 
+kfiatu1987: posts the ante 6
+Macziejoff: posts the ante 6
+rainbow977: posts the ante 6
+pitsikis: posts the ante 6
+ollikahn23: posts the ante 6
+williansct2: posts the ante 6
+~mazwzam~: posts the ante 6
+ReneJes: posts the ante 6
+pitsikis: posts small blind 25
+ollikahn23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [As 5c]
+williansct2: folds 
+~mazwzam~: calls 50
+ReneJes: calls 50
+kfiatu1987: calls 50
+Macziejoff: folds 
+rainbow977: folds 
+pitsikis: calls 25
+ollikahn23: checks 
+*** FLOP *** [Kd Ac Ah]
+pitsikis: checks 
+ollikahn23: checks 
+~mazwzam~: checks 
+ReneJes: bets 150
+kfiatu1987: folds 
+pitsikis: folds 
+ollikahn23: calls 150
+~mazwzam~: folds 
+*** TURN *** [Kd Ac Ah] [Ks]
+ollikahn23: checks 
+ReneJes: bets 150
+ollikahn23: raises 150 to 300
+ReneJes: calls 150
+*** RIVER *** [Kd Ac Ah Ks] [7d]
+ollikahn23: bets 500
+ReneJes: calls 500
+*** SHOW DOWN ***
+ollikahn23: shows [As 5c] (a full house, Aces full of Kings)
+ReneJes: mucks hand 
+ollikahn23 collected 2198 from pot
+*** SUMMARY ***
+Total pot 2198 | Rake 0 
+Board [Kd Ac Ah Ks 7d]
+Seat 1: kfiatu1987 folded on the Flop
+Seat 2: Macziejoff folded before Flop (didn't bet)
+Seat 3: rainbow977 (button) folded before Flop (didn't bet)
+Seat 4: pitsikis (small blind) folded on the Flop
+Seat 5: ollikahn23 (big blind) showed [As 5c] and won (2198) with a full house, Aces full of Kings
+Seat 6: williansct2 folded before Flop (didn't bet)
+Seat 7: ~mazwzam~ folded on the Flop
+Seat 9: ReneJes mucked [Kh Jh]
+
+
+
+PokerStars Hand #183140211073: Tournament #2233497495, $3.19+$0.31 USD Hold'em No Limit - Level III (25/50) - 2018/02/27 16:45:01 ET
+Table '2233497495 4' 9-max Seat #4 is the button
+Seat 1: kfiatu1987 (2651 in chips) 
+Seat 2: Macziejoff (756 in chips) 
+Seat 3: rainbow977 (1117 in chips) 
+Seat 4: pitsikis (1224 in chips) 
+Seat 5: ollikahn23 (2569 in chips) 
+Seat 6: williansct2 (2074 in chips) 
+Seat 7: ~mazwzam~ (1776 in chips) 
+Seat 9: ReneJes (1867 in chips) 
+kfiatu1987: posts the ante 6
+Macziejoff: posts the ante 6
+rainbow977: posts the ante 6
+pitsikis: posts the ante 6
+ollikahn23: posts the ante 6
+williansct2: posts the ante 6
+~mazwzam~: posts the ante 6
+ReneJes: posts the ante 6
+ollikahn23: posts small blind 25
+williansct2: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Tc 3h]
+~mazwzam~: calls 50
+ReneJes: folds 
+kfiatu1987: folds 
+Macziejoff: raises 700 to 750 and is all-in
+rainbow977: folds 
+pitsikis: folds 
+ollikahn23: folds 
+williansct2: folds 
+~mazwzam~: folds 
+Uncalled bet (700) returned to Macziejoff
+Macziejoff collected 223 from pot
+Macziejoff: doesn't show hand 
+*** SUMMARY ***
+Total pot 223 | Rake 0 
+Seat 1: kfiatu1987 folded before Flop (didn't bet)
+Seat 2: Macziejoff collected (223)
+Seat 3: rainbow977 folded before Flop (didn't bet)
+Seat 4: pitsikis (button) folded before Flop (didn't bet)
+Seat 5: ollikahn23 (small blind) folded before Flop
+Seat 6: williansct2 (big blind) folded before Flop
+Seat 7: ~mazwzam~ folded before Flop
+Seat 9: ReneJes folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183140247847: Tournament #2233497495, $3.19+$0.31 USD Hold'em No Limit - Level III (25/50) - 2018/02/27 16:45:43 ET
+Table '2233497495 4' 9-max Seat #5 is the button
+Seat 1: kfiatu1987 (2645 in chips) 
+Seat 2: Macziejoff (923 in chips) 
+Seat 3: rainbow977 (1111 in chips) 
+Seat 4: pitsikis (1218 in chips) 
+Seat 5: ollikahn23 (2538 in chips) 
+Seat 6: williansct2 (2018 in chips) 
+Seat 7: ~mazwzam~ (1720 in chips) 
+Seat 9: ReneJes (1861 in chips) 
+kfiatu1987: posts the ante 6
+Macziejoff: posts the ante 6
+rainbow977: posts the ante 6
+pitsikis: posts the ante 6
+ollikahn23: posts the ante 6
+williansct2: posts the ante 6
+~mazwzam~: posts the ante 6
+ReneJes: posts the ante 6
+williansct2: posts small blind 25
+~mazwzam~: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5d 4h]
+ReneJes: folds 
+kfiatu1987: folds 
+Macziejoff: folds 
+rainbow977: folds 
+pitsikis: raises 100 to 150
+ollikahn23: folds 
+williansct2: folds 
+~mazwzam~: calls 100
+*** FLOP *** [Jh 8d 8c]
+~mazwzam~: checks 
+pitsikis: checks 
+*** TURN *** [Jh 8d 8c] [Tc]
+~mazwzam~: checks 
+pitsikis: bets 150
+~mazwzam~: folds 
+Uncalled bet (150) returned to pitsikis
+pitsikis collected 373 from pot
+pitsikis: doesn't show hand 
+*** SUMMARY ***
+Total pot 373 | Rake 0 
+Board [Jh 8d 8c Tc]
+Seat 1: kfiatu1987 folded before Flop (didn't bet)
+Seat 2: Macziejoff folded before Flop (didn't bet)
+Seat 3: rainbow977 folded before Flop (didn't bet)
+Seat 4: pitsikis collected (373)
+Seat 5: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 6: williansct2 (small blind) folded before Flop
+Seat 7: ~mazwzam~ (big blind) folded on the Turn
+Seat 9: ReneJes folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183140313907: Tournament #2233497495, $3.19+$0.31 USD Hold'em No Limit - Level III (25/50) - 2018/02/27 16:46:57 ET
+Table '2233497495 4' 9-max Seat #6 is the button
+Seat 1: kfiatu1987 (2639 in chips) 
+Seat 2: Macziejoff (917 in chips) 
+Seat 3: rainbow977 (1105 in chips) 
+Seat 4: pitsikis (1435 in chips) 
+Seat 5: ollikahn23 (2532 in chips) 
+Seat 6: williansct2 (1987 in chips) 
+Seat 7: ~mazwzam~ (1564 in chips) 
+Seat 9: ReneJes (1855 in chips) 
+kfiatu1987: posts the ante 6
+Macziejoff: posts the ante 6
+rainbow977: posts the ante 6
+pitsikis: posts the ante 6
+ollikahn23: posts the ante 6
+williansct2: posts the ante 6
+~mazwzam~: posts the ante 6
+ReneJes: posts the ante 6
+~mazwzam~: posts small blind 25
+ReneJes: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9d 3s]
+kfiatu1987: folds 
+Macziejoff: folds 
+rainbow977: folds 
+pitsikis: folds 
+ollikahn23: folds 
+williansct2: folds 
+~mazwzam~: calls 25
+ReneJes: checks 
+*** FLOP *** [As 2c Th]
+~mazwzam~: checks 
+ReneJes: bets 50
+~mazwzam~: folds 
+Uncalled bet (50) returned to ReneJes
+ReneJes collected 148 from pot
+ReneJes: doesn't show hand 
+*** SUMMARY ***
+Total pot 148 | Rake 0 
+Board [As 2c Th]
+Seat 1: kfiatu1987 folded before Flop (didn't bet)
+Seat 2: Macziejoff folded before Flop (didn't bet)
+Seat 3: rainbow977 folded before Flop (didn't bet)
+Seat 4: pitsikis folded before Flop (didn't bet)
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: williansct2 (button) folded before Flop (didn't bet)
+Seat 7: ~mazwzam~ (small blind) folded on the Flop
+Seat 9: ReneJes (big blind) collected (148)
+
+
+
+PokerStars Hand #183140363368: Tournament #2233497495, $3.19+$0.31 USD Hold'em No Limit - Level III (25/50) - 2018/02/27 16:47:54 ET
+Table '2233497495 4' 9-max Seat #7 is the button
+Seat 1: kfiatu1987 (2633 in chips) 
+Seat 2: Macziejoff (911 in chips) 
+Seat 3: rainbow977 (1099 in chips) 
+Seat 4: pitsikis (1429 in chips) 
+Seat 5: ollikahn23 (2526 in chips) 
+Seat 6: williansct2 (1981 in chips) 
+Seat 7: ~mazwzam~ (1508 in chips) 
+Seat 9: ReneJes (1947 in chips) 
+kfiatu1987: posts the ante 6
+Macziejoff: posts the ante 6
+rainbow977: posts the ante 6
+pitsikis: posts the ante 6
+ollikahn23: posts the ante 6
+williansct2: posts the ante 6
+~mazwzam~: posts the ante 6
+ReneJes: posts the ante 6
+ReneJes: posts small blind 25
+kfiatu1987: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Th Jh]
+Macziejoff: folds 
+rainbow977: raises 50 to 100
+pitsikis: folds 
+ollikahn23: calls 100
+williansct2: folds 
+~mazwzam~: calls 100
+ReneJes: folds 
+kfiatu1987: folds 
+*** FLOP *** [9s 5h 4s]
+rainbow977: checks 
+ollikahn23: checks 
+~mazwzam~: checks 
+*** TURN *** [9s 5h 4s] [Ts]
+rainbow977: checks 
+ollikahn23: bets 332
+~mazwzam~: calls 332
+rainbow977: folds 
+*** RIVER *** [9s 5h 4s Ts] [Qc]
+ollikahn23: checks 
+~mazwzam~: checks 
+*** SHOW DOWN ***
+ollikahn23: shows [Th Jh] (a pair of Tens)
+~mazwzam~: shows [Qd Js] (a pair of Queens)
+~mazwzam~ collected 1087 from pot
+*** SUMMARY ***
+Total pot 1087 | Rake 0 
+Board [9s 5h 4s Ts Qc]
+Seat 1: kfiatu1987 (big blind) folded before Flop
+Seat 2: Macziejoff folded before Flop (didn't bet)
+Seat 3: rainbow977 folded on the Turn
+Seat 4: pitsikis folded before Flop (didn't bet)
+Seat 5: ollikahn23 showed [Th Jh] and lost with a pair of Tens
+Seat 6: williansct2 folded before Flop (didn't bet)
+Seat 7: ~mazwzam~ (button) showed [Qd Js] and won (1087) with a pair of Queens
+Seat 9: ReneJes (small blind) folded before Flop
+
+
+
+PokerStars Hand #183140472574: Tournament #2233497495, $3.19+$0.31 USD Hold'em No Limit - Level IV (40/80) - 2018/02/27 16:49:57 ET
+Table '2233497495 4' 9-max Seat #9 is the button
+Seat 1: kfiatu1987 (2577 in chips) 
+Seat 2: Macziejoff (905 in chips) 
+Seat 3: rainbow977 (993 in chips) 
+Seat 4: pitsikis (1423 in chips) 
+Seat 5: ollikahn23 (2088 in chips) 
+Seat 6: williansct2 (1975 in chips) 
+Seat 7: ~mazwzam~ (2157 in chips) 
+Seat 9: ReneJes (1916 in chips) 
+kfiatu1987: posts the ante 10
+Macziejoff: posts the ante 10
+rainbow977: posts the ante 10
+pitsikis: posts the ante 10
+ollikahn23: posts the ante 10
+williansct2: posts the ante 10
+~mazwzam~: posts the ante 10
+ReneJes: posts the ante 10
+kfiatu1987: posts small blind 40
+Macziejoff: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kh 7s]
+rainbow977: folds 
+pitsikis: raises 80 to 160
+ollikahn23: folds 
+williansct2: folds 
+~mazwzam~: folds 
+ReneJes: raises 160 to 320
+kfiatu1987: folds 
+Macziejoff: folds 
+pitsikis: folds 
+Uncalled bet (160) returned to ReneJes
+ReneJes collected 520 from pot
+ReneJes: doesn't show hand 
+*** SUMMARY ***
+Total pot 520 | Rake 0 
+Seat 1: kfiatu1987 (small blind) folded before Flop
+Seat 2: Macziejoff (big blind) folded before Flop
+Seat 3: rainbow977 folded before Flop (didn't bet)
+Seat 4: pitsikis folded before Flop
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: williansct2 folded before Flop (didn't bet)
+Seat 7: ~mazwzam~ folded before Flop (didn't bet)
+Seat 9: ReneJes (button) collected (520)
+
+
+
+PokerStars Hand #183140499939: Tournament #2233497495, $3.19+$0.31 USD Hold'em No Limit - Level IV (40/80) - 2018/02/27 16:50:29 ET
+Table '2233497495 4' 9-max Seat #1 is the button
+Seat 1: kfiatu1987 (2527 in chips) 
+Seat 2: Macziejoff (815 in chips) 
+Seat 3: rainbow977 (983 in chips) 
+Seat 4: pitsikis (1253 in chips) 
+Seat 5: ollikahn23 (2078 in chips) 
+Seat 6: williansct2 (1965 in chips) 
+Seat 7: ~mazwzam~ (2147 in chips) 
+Seat 9: ReneJes (2266 in chips) 
+kfiatu1987: posts the ante 10
+Macziejoff: posts the ante 10
+rainbow977: posts the ante 10
+pitsikis: posts the ante 10
+ollikahn23: posts the ante 10
+williansct2: posts the ante 10
+~mazwzam~: posts the ante 10
+ReneJes: posts the ante 10
+Macziejoff: posts small blind 40
+rainbow977: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kc Tc]
+pitsikis: folds 
+ollikahn23: raises 145 to 225
+williansct2: folds 
+~mazwzam~: folds 
+ReneJes: folds 
+kfiatu1987: folds 
+Macziejoff: folds 
+rainbow977: folds 
+Uncalled bet (145) returned to ollikahn23
+ollikahn23 collected 280 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Seat 1: kfiatu1987 (button) folded before Flop (didn't bet)
+Seat 2: Macziejoff (small blind) folded before Flop
+Seat 3: rainbow977 (big blind) folded before Flop
+Seat 4: pitsikis folded before Flop (didn't bet)
+Seat 5: ollikahn23 collected (280)
+Seat 6: williansct2 folded before Flop (didn't bet)
+Seat 7: ~mazwzam~ folded before Flop (didn't bet)
+Seat 9: ReneJes folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183140528029: Tournament #2233497495, $3.19+$0.31 USD Hold'em No Limit - Level IV (40/80) - 2018/02/27 16:51:01 ET
+Table '2233497495 4' 9-max Seat #2 is the button
+Seat 1: kfiatu1987 (2517 in chips) 
+Seat 2: Macziejoff (765 in chips) 
+Seat 3: rainbow977 (893 in chips) 
+Seat 4: pitsikis (1243 in chips) 
+Seat 5: ollikahn23 (2268 in chips) 
+Seat 6: williansct2 (1955 in chips) 
+Seat 7: ~mazwzam~ (2137 in chips) 
+Seat 9: ReneJes (2256 in chips) 
+kfiatu1987: posts the ante 10
+Macziejoff: posts the ante 10
+rainbow977: posts the ante 10
+pitsikis: posts the ante 10
+ollikahn23: posts the ante 10
+williansct2: posts the ante 10
+~mazwzam~: posts the ante 10
+ReneJes: posts the ante 10
+rainbow977: posts small blind 40
+pitsikis: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8c Tc]
+ollikahn23: folds 
+williansct2: folds 
+~mazwzam~: raises 80 to 160
+ReneJes: folds 
+kfiatu1987: folds 
+Macziejoff: raises 595 to 755 and is all-in
+rainbow977: folds 
+pitsikis: raises 478 to 1233 and is all-in
+~mazwzam~: folds 
+Uncalled bet (478) returned to pitsikis
+*** FLOP *** [4s 7h Ts]
+*** TURN *** [4s 7h Ts] [9c]
+*** RIVER *** [4s 7h Ts 9c] [3h]
+*** SHOW DOWN ***
+pitsikis: shows [Qd Ac] (high card Ace)
+Macziejoff: shows [Jh Qh] (high card Queen)
+pitsikis collected 1790 from pot
+Macziejoff finished the tournament in 31st place
+*** SUMMARY ***
+Total pot 1790 | Rake 0 
+Board [4s 7h Ts 9c 3h]
+Seat 1: kfiatu1987 folded before Flop (didn't bet)
+Seat 2: Macziejoff (button) showed [Jh Qh] and lost with high card Queen
+Seat 3: rainbow977 (small blind) folded before Flop
+Seat 4: pitsikis (big blind) showed [Qd Ac] and won (1790) with high card Ace
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: williansct2 folded before Flop (didn't bet)
+Seat 7: ~mazwzam~ folded before Flop
+Seat 9: ReneJes folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183140572748: Tournament #2233497495, $3.19+$0.31 USD Hold'em No Limit - Level IV (40/80) - 2018/02/27 16:51:51 ET
+Table '2233497495 4' 9-max Seat #3 is the button
+Seat 1: kfiatu1987 (2507 in chips) 
+Seat 3: rainbow977 (843 in chips) 
+Seat 4: pitsikis (2268 in chips) 
+Seat 5: ollikahn23 (2258 in chips) 
+Seat 6: williansct2 (1945 in chips) 
+Seat 7: ~mazwzam~ (1967 in chips) 
+Seat 9: ReneJes (2246 in chips) 
+kfiatu1987: posts the ante 10
+rainbow977: posts the ante 10
+pitsikis: posts the ante 10
+ollikahn23: posts the ante 10
+williansct2: posts the ante 10
+~mazwzam~: posts the ante 10
+ReneJes: posts the ante 10
+pitsikis: posts small blind 40
+ollikahn23: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Th 7d]
+williansct2: folds 
+~mazwzam~: raises 80 to 160
+ReneJes: folds 
+kfiatu1987: folds 
+rainbow977: raises 673 to 833 and is all-in
+pitsikis: folds 
+ollikahn23: folds 
+~mazwzam~: calls 673
+*** FLOP *** [5d 9h 3h]
+*** TURN *** [5d 9h 3h] [Jh]
+*** RIVER *** [5d 9h 3h Jh] [Qs]
+*** SHOW DOWN ***
+~mazwzam~: shows [Ah 3d] (a pair of Threes)
+rainbow977: shows [7s 7c] (a pair of Sevens)
+rainbow977 collected 1856 from pot
+*** SUMMARY ***
+Total pot 1856 | Rake 0 
+Board [5d 9h 3h Jh Qs]
+Seat 1: kfiatu1987 folded before Flop (didn't bet)
+Seat 3: rainbow977 (button) showed [7s 7c] and won (1856) with a pair of Sevens
+Seat 4: pitsikis (small blind) folded before Flop
+Seat 5: ollikahn23 (big blind) folded before Flop
+Seat 6: williansct2 folded before Flop (didn't bet)
+Seat 7: ~mazwzam~ showed [Ah 3d] and lost with a pair of Threes
+Seat 9: ReneJes folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183140606782: Tournament #2233497495, $3.19+$0.31 USD Hold'em No Limit - Level IV (40/80) - 2018/02/27 16:52:31 ET
+Table '2233497495 4' 9-max Seat #4 is the button
+Seat 1: kfiatu1987 (2497 in chips) 
+Seat 3: rainbow977 (1856 in chips) 
+Seat 4: pitsikis (2218 in chips) 
+Seat 5: ollikahn23 (2168 in chips) 
+Seat 6: williansct2 (1935 in chips) 
+Seat 7: ~mazwzam~ (1124 in chips) 
+Seat 9: ReneJes (2236 in chips) 
+kfiatu1987: posts the ante 10
+rainbow977: posts the ante 10
+pitsikis: posts the ante 10
+ollikahn23: posts the ante 10
+williansct2: posts the ante 10
+~mazwzam~: posts the ante 10
+ReneJes: posts the ante 10
+ollikahn23: posts small blind 40
+williansct2: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3d 5d]
+~mazwzam~: folds 
+ReneJes: calls 80
+kfiatu1987: folds 
+rainbow977: folds 
+pitsikis: calls 80
+ollikahn23: calls 40
+williansct2: checks 
+*** FLOP *** [6d Jc 2c]
+ollikahn23: checks 
+williansct2: checks 
+ReneJes: checks 
+pitsikis: checks 
+*** TURN *** [6d Jc 2c] [Kc]
+ollikahn23: checks 
+williansct2: checks 
+ReneJes: checks 
+pitsikis: checks 
+*** RIVER *** [6d Jc 2c Kc] [Kh]
+ollikahn23: checks 
+williansct2: checks 
+ReneJes: checks 
+pitsikis: checks 
+*** SHOW DOWN ***
+ollikahn23: shows [3d 5d] (a pair of Kings)
+williansct2: shows [6h 8h] (two pair, Kings and Sixes)
+ReneJes: mucks hand 
+pitsikis: mucks hand 
+williansct2 collected 390 from pot
+*** SUMMARY ***
+Total pot 390 | Rake 0 
+Board [6d Jc 2c Kc Kh]
+Seat 1: kfiatu1987 folded before Flop (didn't bet)
+Seat 3: rainbow977 folded before Flop (didn't bet)
+Seat 4: pitsikis (button) mucked [4s As]
+Seat 5: ollikahn23 (small blind) showed [3d 5d] and lost with a pair of Kings
+Seat 6: williansct2 (big blind) showed [6h 8h] and won (390) with two pair, Kings and Sixes
+Seat 7: ~mazwzam~ folded before Flop (didn't bet)
+Seat 9: ReneJes mucked [7s 9s]
+
+
+
+PokerStars Hand #183140668876: Tournament #2233497495, $3.19+$0.31 USD Hold'em No Limit - Level IV (40/80) - 2018/02/27 16:53:41 ET
+Table '2233497495 4' 9-max Seat #5 is the button
+Seat 1: kfiatu1987 (2487 in chips) 
+Seat 3: rainbow977 (1846 in chips) 
+Seat 4: pitsikis (2128 in chips) 
+Seat 5: ollikahn23 (2078 in chips) 
+Seat 6: williansct2 (2235 in chips) 
+Seat 7: ~mazwzam~ (1114 in chips) 
+Seat 9: ReneJes (2146 in chips) 
+kfiatu1987: posts the ante 10
+rainbow977: posts the ante 10
+pitsikis: posts the ante 10
+ollikahn23: posts the ante 10
+williansct2: posts the ante 10
+~mazwzam~: posts the ante 10
+ReneJes: posts the ante 10
+williansct2: posts small blind 40
+~mazwzam~: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [As 7c]
+ReneJes: folds 
+kfiatu1987: folds 
+rainbow977: folds 
+pitsikis: raises 80 to 160
+ollikahn23: raises 80 to 240
+williansct2: folds 
+~mazwzam~: folds 
+pitsikis: calls 80
+*** FLOP *** [Ts 2c 8d]
+pitsikis: bets 322
+ollikahn23: raises 422 to 744
+pitsikis: calls 422
+*** TURN *** [Ts 2c 8d] [8s]
+pitsikis: checks 
+ollikahn23: checks 
+*** RIVER *** [Ts 2c 8d 8s] [2h]
+pitsikis: checks 
+ollikahn23: checks 
+*** SHOW DOWN ***
+pitsikis: shows [7d Th] (two pair, Tens and Eights)
+ollikahn23: mucks hand 
+pitsikis collected 2158 from pot
+*** SUMMARY ***
+Total pot 2158 | Rake 0 
+Board [Ts 2c 8d 8s 2h]
+Seat 1: kfiatu1987 folded before Flop (didn't bet)
+Seat 3: rainbow977 folded before Flop (didn't bet)
+Seat 4: pitsikis showed [7d Th] and won (2158) with two pair, Tens and Eights
+Seat 5: ollikahn23 (button) mucked [As 7c]
+Seat 6: williansct2 (small blind) folded before Flop
+Seat 7: ~mazwzam~ (big blind) folded before Flop
+Seat 9: ReneJes folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183140736293: Tournament #2233497495, $3.19+$0.31 USD Hold'em No Limit - Level IV (40/80) - 2018/02/27 16:54:58 ET
+Table '2233497495 4' 9-max Seat #6 is the button
+Seat 1: kfiatu1987 (2477 in chips) 
+Seat 3: rainbow977 (1836 in chips) 
+Seat 4: pitsikis (3292 in chips) 
+Seat 5: ollikahn23 (1084 in chips) 
+Seat 6: williansct2 (2185 in chips) 
+Seat 7: ~mazwzam~ (1024 in chips) 
+Seat 9: ReneJes (2136 in chips) 
+kfiatu1987: posts the ante 10
+rainbow977: posts the ante 10
+pitsikis: posts the ante 10
+ollikahn23: posts the ante 10
+williansct2: posts the ante 10
+~mazwzam~: posts the ante 10
+ReneJes: posts the ante 10
+~mazwzam~: posts small blind 40
+ReneJes: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8d 2d]
+kfiatu1987: folds 
+rainbow977: folds 
+pitsikis: calls 80
+ollikahn23: folds 
+williansct2: folds 
+~mazwzam~: calls 40
+ReneJes: checks 
+*** FLOP *** [8c 4h 7c]
+~mazwzam~: checks 
+ReneJes: bets 160
+pitsikis: folds 
+~mazwzam~: calls 160
+*** TURN *** [8c 4h 7c] [3d]
+~mazwzam~: checks 
+ReneJes: bets 160
+~mazwzam~: raises 160 to 320
+ReneJes: calls 160
+*** RIVER *** [8c 4h 7c 3d] [As]
+~mazwzam~: bets 454 and is all-in
+ReneJes: calls 454
+*** SHOW DOWN ***
+~mazwzam~: shows [5h 6h] (a straight, Four to Eight)
+ReneJes: shows [9s 9c] (a pair of Nines)
+~mazwzam~ collected 2178 from pot
+*** SUMMARY ***
+Total pot 2178 | Rake 0 
+Board [8c 4h 7c 3d As]
+Seat 1: kfiatu1987 folded before Flop (didn't bet)
+Seat 3: rainbow977 folded before Flop (didn't bet)
+Seat 4: pitsikis folded on the Flop
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: williansct2 (button) folded before Flop (didn't bet)
+Seat 7: ~mazwzam~ (small blind) showed [5h 6h] and won (2178) with a straight, Four to Eight
+Seat 9: ReneJes (big blind) showed [9s 9c] and lost with a pair of Nines
+
+
+
+PokerStars Hand #183141012909: Tournament #2233497495, $3.19+$0.31 USD Hold'em No Limit - Level IV (40/80) - 2018/02/27 17:01:29 ET
+Table '2233497495 4' 9-max Seat #7 is the button
+Seat 1: kfiatu1987 (2467 in chips) 
+Seat 3: rainbow977 (1826 in chips) 
+Seat 4: pitsikis (3202 in chips) 
+Seat 5: ollikahn23 (1074 in chips) 
+Seat 6: williansct2 (2175 in chips) 
+Seat 7: ~mazwzam~ (2178 in chips) 
+Seat 9: ReneJes (1112 in chips) 
+kfiatu1987: posts the ante 10
+rainbow977: posts the ante 10
+pitsikis: posts the ante 10
+ollikahn23: posts the ante 10
+williansct2: posts the ante 10
+~mazwzam~: posts the ante 10
+ReneJes: posts the ante 10
+ReneJes: posts small blind 40
+kfiatu1987: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6c Kd]
+rainbow977: folds 
+pitsikis: folds 
+ollikahn23: folds 
+williansct2: raises 80 to 160
+~mazwzam~: folds 
+ReneJes: calls 120
+kfiatu1987: folds 
+*** FLOP *** [4h Ac 4s]
+ReneJes: bets 160
+williansct2: raises 1845 to 2005 and is all-in
+ReneJes: calls 782 and is all-in
+Uncalled bet (1063) returned to williansct2
+*** TURN *** [4h Ac 4s] [6d]
+*** RIVER *** [4h Ac 4s 6d] [Tc]
+*** SHOW DOWN ***
+ReneJes: shows [Ah 8h] (two pair, Aces and Fours)
+williansct2: shows [Qh Ks] (a pair of Fours)
+ReneJes collected 2354 from pot
+*** SUMMARY ***
+Total pot 2354 | Rake 0 
+Board [4h Ac 4s 6d Tc]
+Seat 1: kfiatu1987 (big blind) folded before Flop
+Seat 3: rainbow977 folded before Flop (didn't bet)
+Seat 4: pitsikis folded before Flop (didn't bet)
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: williansct2 showed [Qh Ks] and lost with a pair of Fours
+Seat 7: ~mazwzam~ (button) folded before Flop (didn't bet)
+Seat 9: ReneJes (small blind) showed [Ah 8h] and won (2354) with two pair, Aces and Fours
+
+
+
+PokerStars Hand #183141057018: Tournament #2233497495, $3.19+$0.31 USD Hold'em No Limit - Level IV (40/80) - 2018/02/27 17:02:21 ET
+Table '2233497495 4' 9-max Seat #9 is the button
+Seat 1: kfiatu1987 (2377 in chips) 
+Seat 3: rainbow977 (1816 in chips) 
+Seat 4: pitsikis (3192 in chips) 
+Seat 5: ollikahn23 (1064 in chips) 
+Seat 6: williansct2 (1063 in chips) 
+Seat 7: ~mazwzam~ (2168 in chips) 
+Seat 9: ReneJes (2354 in chips) 
+kfiatu1987: posts the ante 10
+rainbow977: posts the ante 10
+pitsikis: posts the ante 10
+ollikahn23: posts the ante 10
+williansct2: posts the ante 10
+~mazwzam~: posts the ante 10
+ReneJes: posts the ante 10
+kfiatu1987: posts small blind 40
+rainbow977: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jd 2s]
+pitsikis: folds 
+ollikahn23: folds 
+kfiatu1987 is disconnected 
+williansct2: folds 
+~mazwzam~: raises 80 to 160
+ReneJes: folds 
+kfiatu1987 is connected 
+kfiatu1987: folds 
+rainbow977: folds 
+Uncalled bet (80) returned to ~mazwzam~
+~mazwzam~ collected 270 from pot
+~mazwzam~: doesn't show hand 
+*** SUMMARY ***
+Total pot 270 | Rake 0 
+Seat 1: kfiatu1987 (small blind) folded before Flop
+Seat 3: rainbow977 (big blind) folded before Flop
+Seat 4: pitsikis folded before Flop (didn't bet)
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: williansct2 folded before Flop (didn't bet)
+Seat 7: ~mazwzam~ collected (270)
+Seat 9: ReneJes (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183141109446: Tournament #2233497495, $3.19+$0.31 USD Hold'em No Limit - Level IV (40/80) - 2018/02/27 17:03:22 ET
+Table '2233497495 4' 9-max Seat #1 is the button
+Seat 1: kfiatu1987 (2327 in chips) 
+Seat 3: rainbow977 (1726 in chips) 
+Seat 4: pitsikis (3182 in chips) 
+Seat 5: ollikahn23 (1054 in chips) 
+Seat 6: williansct2 (1053 in chips) 
+Seat 7: ~mazwzam~ (2348 in chips) 
+Seat 9: ReneJes (2344 in chips) 
+kfiatu1987: posts the ante 10
+rainbow977: posts the ante 10
+pitsikis: posts the ante 10
+ollikahn23: posts the ante 10
+williansct2: posts the ante 10
+~mazwzam~: posts the ante 10
+ReneJes: posts the ante 10
+rainbow977: posts small blind 40
+pitsikis: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9d Kd]
+ollikahn23: folds 
+williansct2: folds 
+~mazwzam~: folds 
+ReneJes: folds 
+kfiatu1987: raises 160 to 240
+rainbow977: folds 
+pitsikis: folds 
+Uncalled bet (160) returned to kfiatu1987
+kfiatu1987 collected 270 from pot
+kfiatu1987: doesn't show hand 
+*** SUMMARY ***
+Total pot 270 | Rake 0 
+Seat 1: kfiatu1987 (button) collected (270)
+Seat 3: rainbow977 (small blind) folded before Flop
+Seat 4: pitsikis (big blind) folded before Flop
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: williansct2 folded before Flop (didn't bet)
+Seat 7: ~mazwzam~ folded before Flop (didn't bet)
+Seat 9: ReneJes folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183141133114: Tournament #2233497495, $3.19+$0.31 USD Hold'em No Limit - Level IV (40/80) - 2018/02/27 17:03:49 ET
+Table '2233497495 4' 9-max Seat #3 is the button
+Seat 1: kfiatu1987 (2507 in chips) 
+Seat 3: rainbow977 (1676 in chips) 
+Seat 4: pitsikis (3092 in chips) 
+Seat 5: ollikahn23 (1044 in chips) 
+Seat 6: williansct2 (1043 in chips) 
+Seat 7: ~mazwzam~ (2338 in chips) 
+Seat 9: ReneJes (2334 in chips) 
+kfiatu1987: posts the ante 10
+rainbow977: posts the ante 10
+pitsikis: posts the ante 10
+ollikahn23: posts the ante 10
+williansct2: posts the ante 10
+~mazwzam~: posts the ante 10
+ReneJes: posts the ante 10
+pitsikis: posts small blind 40
+ollikahn23: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6s 8d]
+williansct2: raises 953 to 1033 and is all-in
+~mazwzam~: folds 
+ReneJes: folds 
+kfiatu1987: folds 
+rainbow977: folds 
+pitsikis: folds 
+ollikahn23: folds 
+Uncalled bet (953) returned to williansct2
+williansct2 collected 270 from pot
+williansct2: doesn't show hand 
+*** SUMMARY ***
+Total pot 270 | Rake 0 
+Seat 1: kfiatu1987 folded before Flop (didn't bet)
+Seat 3: rainbow977 (button) folded before Flop (didn't bet)
+Seat 4: pitsikis (small blind) folded before Flop
+Seat 5: ollikahn23 (big blind) folded before Flop
+Seat 6: williansct2 collected (270)
+Seat 7: ~mazwzam~ folded before Flop (didn't bet)
+Seat 9: ReneJes folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183141167352: Tournament #2233497495, $3.19+$0.31 USD Hold'em No Limit - Level IV (40/80) - 2018/02/27 17:04:29 ET
+Table '2233497495 4' 9-max Seat #4 is the button
+Seat 1: kfiatu1987 (2497 in chips) 
+Seat 3: rainbow977 (1666 in chips) 
+Seat 4: pitsikis (3042 in chips) 
+Seat 5: ollikahn23 (954 in chips) 
+Seat 6: williansct2 (1223 in chips) 
+Seat 7: ~mazwzam~ (2328 in chips) 
+Seat 9: ReneJes (2324 in chips) 
+kfiatu1987: posts the ante 10
+rainbow977: posts the ante 10
+pitsikis: posts the ante 10
+ollikahn23: posts the ante 10
+williansct2: posts the ante 10
+~mazwzam~: posts the ante 10
+ReneJes: posts the ante 10
+ollikahn23: posts small blind 40
+williansct2: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kh 8s]
+~mazwzam~: raises 160 to 240
+ReneJes: folds 
+kfiatu1987: folds 
+rainbow977: folds 
+pitsikis: calls 240
+ollikahn23: folds 
+williansct2: folds 
+*** FLOP *** [Ad 3h 7d]
+~mazwzam~: bets 335
+pitsikis: folds [8h 8c]
+Uncalled bet (335) returned to ~mazwzam~
+~mazwzam~ collected 670 from pot
+~mazwzam~: doesn't show hand 
+*** SUMMARY ***
+Total pot 670 | Rake 0 
+Board [Ad 3h 7d]
+Seat 1: kfiatu1987 folded before Flop (didn't bet)
+Seat 3: rainbow977 folded before Flop (didn't bet)
+Seat 4: pitsikis (button) folded on the Flop
+Seat 5: ollikahn23 (small blind) folded before Flop
+Seat 6: williansct2 (big blind) folded before Flop
+Seat 7: ~mazwzam~ collected (670)
+Seat 9: ReneJes folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183141240810: Tournament #2233497495, $3.19+$0.31 USD Hold'em No Limit - Level V (60/120) - 2018/02/27 17:05:52 ET
+Table '2233497495 4' 9-max Seat #5 is the button
+Seat 1: kfiatu1987 (2487 in chips) 
+Seat 2: rizlamegalo (1980 in chips) 
+Seat 3: rainbow977 (1656 in chips) 
+Seat 4: pitsikis (2792 in chips) 
+Seat 5: ollikahn23 (904 in chips) 
+Seat 6: williansct2 (1133 in chips) 
+Seat 7: ~mazwzam~ (2748 in chips) 
+Seat 8: lucas [lk7S] (4870 in chips) 
+Seat 9: ReneJes (2314 in chips) 
+kfiatu1987: posts the ante 15
+rizlamegalo: posts the ante 15
+rainbow977: posts the ante 15
+pitsikis: posts the ante 15
+ollikahn23: posts the ante 15
+williansct2: posts the ante 15
+~mazwzam~: posts the ante 15
+lucas [lk7S]: posts the ante 15
+ReneJes: posts the ante 15
+williansct2: posts small blind 60
+~mazwzam~: posts big blind 120
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9d 7s]
+lucas [lk7S]: folds 
+ReneJes: calls 120
+kfiatu1987: folds 
+rizlamegalo: folds 
+rainbow977: folds 
+pitsikis: raises 240 to 360
+ollikahn23: folds 
+williansct2: folds 
+~mazwzam~: folds 
+ReneJes: calls 240
+*** FLOP *** [6h 8h Kh]
+ReneJes: checks 
+pitsikis: bets 497
+ReneJes: folds 
+Uncalled bet (497) returned to pitsikis
+pitsikis collected 1035 from pot
+pitsikis: doesn't show hand 
+*** SUMMARY ***
+Total pot 1035 | Rake 0 
+Board [6h 8h Kh]
+Seat 1: kfiatu1987 folded before Flop (didn't bet)
+Seat 2: rizlamegalo folded before Flop (didn't bet)
+Seat 3: rainbow977 folded before Flop (didn't bet)
+Seat 4: pitsikis collected (1035)
+Seat 5: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 6: williansct2 (small blind) folded before Flop
+Seat 7: ~mazwzam~ (big blind) folded before Flop
+Seat 8: lucas [lk7S] folded before Flop (didn't bet)
+Seat 9: ReneJes folded on the Flop
+
+
+
+PokerStars Hand #183141283065: Tournament #2233497495, $3.19+$0.31 USD Hold'em No Limit - Level V (60/120) - 2018/02/27 17:06:40 ET
+Table '2233497495 4' 9-max Seat #6 is the button
+Seat 1: kfiatu1987 (2472 in chips) 
+Seat 2: rizlamegalo (1965 in chips) 
+Seat 3: rainbow977 (1641 in chips) 
+Seat 4: pitsikis (3452 in chips) 
+Seat 5: ollikahn23 (889 in chips) 
+Seat 6: williansct2 (1058 in chips) 
+Seat 7: ~mazwzam~ (2613 in chips) 
+Seat 8: lucas [lk7S] (4855 in chips) 
+Seat 9: ReneJes (1939 in chips) 
+kfiatu1987: posts the ante 15
+rizlamegalo: posts the ante 15
+rainbow977: posts the ante 15
+pitsikis: posts the ante 15
+ollikahn23: posts the ante 15
+williansct2: posts the ante 15
+~mazwzam~: posts the ante 15
+lucas [lk7S]: posts the ante 15
+ReneJes: posts the ante 15
+~mazwzam~: posts small blind 60
+lucas [lk7S]: posts big blind 120
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5s 6c]
+ReneJes: folds 
+kfiatu1987: folds 
+rizlamegalo: raises 120 to 240
+rainbow977: folds 
+pitsikis: calls 240
+ollikahn23: folds 
+williansct2: raises 803 to 1043 and is all-in
+~mazwzam~: folds 
+lucas [lk7S]: folds 
+rizlamegalo: folds 
+pitsikis: folds 
+Uncalled bet (803) returned to williansct2
+williansct2 collected 1035 from pot
+williansct2: doesn't show hand 
+*** SUMMARY ***
+Total pot 1035 | Rake 0 
+Seat 1: kfiatu1987 folded before Flop (didn't bet)
+Seat 2: rizlamegalo folded before Flop
+Seat 3: rainbow977 folded before Flop (didn't bet)
+Seat 4: pitsikis folded before Flop
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: williansct2 (button) collected (1035)
+Seat 7: ~mazwzam~ (small blind) folded before Flop
+Seat 8: lucas [lk7S] (big blind) folded before Flop
+Seat 9: ReneJes folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183141332441: Tournament #2233497495, $3.19+$0.31 USD Hold'em No Limit - Level V (60/120) - 2018/02/27 17:07:35 ET
+Table '2233497495 4' 9-max Seat #7 is the button
+Seat 1: kfiatu1987 (2457 in chips) 
+Seat 2: rizlamegalo (1710 in chips) 
+Seat 3: rainbow977 (1626 in chips) 
+Seat 4: pitsikis (3197 in chips) 
+Seat 5: ollikahn23 (874 in chips) 
+Seat 6: williansct2 (1838 in chips) 
+Seat 7: ~mazwzam~ (2538 in chips) 
+Seat 8: lucas [lk7S] (4720 in chips) 
+Seat 9: ReneJes (1924 in chips) 
+kfiatu1987: posts the ante 15
+rizlamegalo: posts the ante 15
+rainbow977: posts the ante 15
+pitsikis: posts the ante 15
+ollikahn23: posts the ante 15
+williansct2: posts the ante 15
+~mazwzam~: posts the ante 15
+lucas [lk7S]: posts the ante 15
+ReneJes: posts the ante 15
+lucas [lk7S]: posts small blind 60
+ReneJes: posts big blind 120
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6h 5s]
+kfiatu1987: folds 
+rizlamegalo: raises 240 to 360
+rainbow977: folds 
+pitsikis: folds 
+ollikahn23: folds 
+williansct2: folds 
+~mazwzam~: folds 
+lucas [lk7S]: folds 
+ReneJes: folds 
+Uncalled bet (240) returned to rizlamegalo
+rizlamegalo collected 435 from pot
+rizlamegalo: doesn't show hand 
+*** SUMMARY ***
+Total pot 435 | Rake 0 
+Seat 1: kfiatu1987 folded before Flop (didn't bet)
+Seat 2: rizlamegalo collected (435)
+Seat 3: rainbow977 folded before Flop (didn't bet)
+Seat 4: pitsikis folded before Flop (didn't bet)
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: williansct2 folded before Flop (didn't bet)
+Seat 7: ~mazwzam~ (button) folded before Flop (didn't bet)
+Seat 8: lucas [lk7S] (small blind) folded before Flop
+Seat 9: ReneJes (big blind) folded before Flop
+
+
+
+PokerStars Hand #183141367174: Tournament #2233497495, $3.19+$0.31 USD Hold'em No Limit - Level V (60/120) - 2018/02/27 17:08:15 ET
+Table '2233497495 4' 9-max Seat #8 is the button
+Seat 1: kfiatu1987 (2442 in chips) 
+Seat 2: rizlamegalo (2010 in chips) 
+Seat 3: rainbow977 (1611 in chips) 
+Seat 4: pitsikis (3182 in chips) 
+Seat 5: ollikahn23 (859 in chips) 
+Seat 6: williansct2 (1823 in chips) 
+Seat 7: ~mazwzam~ (2523 in chips) 
+Seat 8: lucas [lk7S] (4645 in chips) 
+Seat 9: ReneJes (1789 in chips) 
+kfiatu1987: posts the ante 15
+rizlamegalo: posts the ante 15
+rainbow977: posts the ante 15
+pitsikis: posts the ante 15
+ollikahn23: posts the ante 15
+williansct2: posts the ante 15
+~mazwzam~: posts the ante 15
+lucas [lk7S]: posts the ante 15
+ReneJes: posts the ante 15
+ReneJes: posts small blind 60
+kfiatu1987: posts big blind 120
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Tc 5s]
+rizlamegalo: folds 
+rainbow977: folds 
+pitsikis: folds 
+ollikahn23: folds 
+williansct2 has timed out
+williansct2: folds 
+williansct2 is sitting out
+~mazwzam~: folds 
+lucas [lk7S]: folds 
+ReneJes: calls 60
+kfiatu1987: checks 
+*** FLOP *** [Kd Jd 9s]
+ReneJes: bets 240
+williansct2 has returned
+kfiatu1987: folds 
+Uncalled bet (240) returned to ReneJes
+ReneJes collected 375 from pot
+ReneJes: doesn't show hand 
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Board [Kd Jd 9s]
+Seat 1: kfiatu1987 (big blind) folded on the Flop
+Seat 2: rizlamegalo folded before Flop (didn't bet)
+Seat 3: rainbow977 folded before Flop (didn't bet)
+Seat 4: pitsikis folded before Flop (didn't bet)
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: williansct2 folded before Flop (didn't bet)
+Seat 7: ~mazwzam~ folded before Flop (didn't bet)
+Seat 8: lucas [lk7S] (button) folded before Flop (didn't bet)
+Seat 9: ReneJes (small blind) collected (375)
+
+
+
+PokerStars Hand #183141439899: Tournament #2233497495, $3.19+$0.31 USD Hold'em No Limit - Level V (60/120) - 2018/02/27 17:09:37 ET
+Table '2233497495 4' 9-max Seat #9 is the button
+Seat 1: kfiatu1987 (2307 in chips) 
+Seat 2: rizlamegalo (1995 in chips) 
+Seat 3: rainbow977 (1596 in chips) 
+Seat 4: pitsikis (3167 in chips) 
+Seat 5: ollikahn23 (844 in chips) 
+Seat 6: williansct2 (1808 in chips) 
+Seat 7: ~mazwzam~ (2508 in chips) 
+Seat 8: lucas [lk7S] (4630 in chips) 
+Seat 9: ReneJes (2029 in chips) 
+kfiatu1987: posts the ante 15
+rizlamegalo: posts the ante 15
+rainbow977: posts the ante 15
+pitsikis: posts the ante 15
+ollikahn23: posts the ante 15
+williansct2: posts the ante 15
+~mazwzam~: posts the ante 15
+lucas [lk7S]: posts the ante 15
+ReneJes: posts the ante 15
+kfiatu1987: posts small blind 60
+rizlamegalo: posts big blind 120
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4h Td]
+rainbow977: folds 
+pitsikis: folds 
+ollikahn23: folds 
+williansct2: folds 
+~mazwzam~: raises 120 to 240
+lucas [lk7S]: folds 
+ReneJes: calls 240
+kfiatu1987: folds 
+rizlamegalo: calls 120
+*** FLOP *** [Ac 4s 6h]
+rizlamegalo: bets 720
+~mazwzam~: folds 
+ReneJes: raises 1054 to 1774 and is all-in
+rizlamegalo: calls 1020 and is all-in
+Uncalled bet (34) returned to ReneJes
+*** TURN *** [Ac 4s 6h] [Ks]
+*** RIVER *** [Ac 4s 6h Ks] [3d]
+*** SHOW DOWN ***
+rizlamegalo: shows [Ad Tc] (a pair of Aces)
+ReneJes: shows [Ah 7h] (a pair of Aces - lower kicker)
+rizlamegalo collected 4395 from pot
+*** SUMMARY ***
+Total pot 4395 | Rake 0 
+Board [Ac 4s 6h Ks 3d]
+Seat 1: kfiatu1987 (small blind) folded before Flop
+Seat 2: rizlamegalo (big blind) showed [Ad Tc] and won (4395) with a pair of Aces
+Seat 3: rainbow977 folded before Flop (didn't bet)
+Seat 4: pitsikis folded before Flop (didn't bet)
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: williansct2 folded before Flop (didn't bet)
+Seat 7: ~mazwzam~ folded on the Flop
+Seat 8: lucas [lk7S] folded before Flop (didn't bet)
+Seat 9: ReneJes (button) showed [Ah 7h] and lost with a pair of Aces
+
+
+
+PokerStars Hand #183141499042: Tournament #2233497495, $3.19+$0.31 USD Hold'em No Limit - Level V (60/120) - 2018/02/27 17:10:44 ET
+Table '2233497495 4' 9-max Seat #1 is the button
+Seat 1: kfiatu1987 (2232 in chips) 
+Seat 2: rizlamegalo (4395 in chips) 
+Seat 4: pitsikis (3152 in chips) 
+Seat 5: ollikahn23 (829 in chips) 
+Seat 6: williansct2 (1793 in chips) 
+Seat 7: ~mazwzam~ (2253 in chips) 
+Seat 8: lucas [lk7S] (4615 in chips) 
+Seat 9: ReneJes (34 in chips) 
+kfiatu1987: posts the ante 15
+rizlamegalo: posts the ante 15
+pitsikis: posts the ante 15
+ollikahn23: posts the ante 15
+williansct2: posts the ante 15
+~mazwzam~: posts the ante 15
+lucas [lk7S]: posts the ante 15
+ReneJes: posts the ante 15
+rizlamegalo: posts small blind 60
+pitsikis: posts big blind 120
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2s Kd]
+ollikahn23: folds 
+williansct2: folds 
+~mazwzam~: folds 
+lucas [lk7S]: folds 
+ReneJes: folds 
+kfiatu1987: folds 
+rizlamegalo: folds 
+Uncalled bet (60) returned to pitsikis
+pitsikis collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Seat 1: kfiatu1987 (button) folded before Flop (didn't bet)
+Seat 2: rizlamegalo (small blind) folded before Flop
+Seat 4: pitsikis (big blind) collected (240)
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: williansct2 folded before Flop (didn't bet)
+Seat 7: ~mazwzam~ folded before Flop (didn't bet)
+Seat 8: lucas [lk7S] folded before Flop (didn't bet)
+Seat 9: ReneJes folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183141519819: Tournament #2233497495, $3.19+$0.31 USD Hold'em No Limit - Level V (60/120) - 2018/02/27 17:11:07 ET
+Table '2233497495 4' 9-max Seat #2 is the button
+Seat 1: kfiatu1987 (2217 in chips) 
+Seat 2: rizlamegalo (4320 in chips) 
+Seat 4: pitsikis (3317 in chips) 
+Seat 5: ollikahn23 (814 in chips) 
+Seat 6: williansct2 (1778 in chips) 
+Seat 7: ~mazwzam~ (2238 in chips) 
+Seat 8: lucas [lk7S] (4600 in chips) 
+Seat 9: ReneJes (19 in chips) 
+kfiatu1987: posts the ante 15
+rizlamegalo: posts the ante 15
+pitsikis: posts the ante 15
+ollikahn23: posts the ante 15
+williansct2: posts the ante 15
+~mazwzam~: posts the ante 15
+lucas [lk7S]: posts the ante 15
+ReneJes: posts the ante 15
+pitsikis: posts small blind 60
+ollikahn23: posts big blind 120
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4c Tc]
+williansct2: folds 
+~mazwzam~: folds 
+lucas [lk7S]: folds 
+ReneJes: calls 4 and is all-in
+kfiatu1987: folds 
+rizlamegalo: folds 
+pitsikis: raises 240 to 360
+ollikahn23: folds 
+Uncalled bet (240) returned to pitsikis
+*** FLOP *** [6d Ad 9c]
+*** TURN *** [6d Ad 9c] [7d]
+*** RIVER *** [6d Ad 9c 7d] [9h]
+*** SHOW DOWN ***
+pitsikis: shows [2h 2s] (two pair, Nines and Deuces)
+pitsikis collected 232 from side pot
+ReneJes: shows [Ac Kh] (two pair, Aces and Nines)
+ReneJes collected 132 from main pot
+*** SUMMARY ***
+Total pot 364 Main pot 132. Side pot 232. | Rake 0 
+Board [6d Ad 9c 7d 9h]
+Seat 1: kfiatu1987 folded before Flop (didn't bet)
+Seat 2: rizlamegalo (button) folded before Flop (didn't bet)
+Seat 4: pitsikis (small blind) showed [2h 2s] and won (232) with two pair, Nines and Deuces
+Seat 5: ollikahn23 (big blind) folded before Flop
+Seat 6: williansct2 folded before Flop (didn't bet)
+Seat 7: ~mazwzam~ folded before Flop (didn't bet)
+Seat 8: lucas [lk7S] folded before Flop (didn't bet)
+Seat 9: ReneJes showed [Ac Kh] and won (132) with two pair, Aces and Nines
+
+
+
+PokerStars Hand #183141568757: Tournament #2233497495, $3.19+$0.31 USD Hold'em No Limit - Level V (60/120) - 2018/02/27 17:12:03 ET
+Table '2233497495 4' 9-max Seat #4 is the button
+Seat 1: kfiatu1987 (2202 in chips) 
+Seat 2: rizlamegalo (4305 in chips) 
+Seat 4: pitsikis (3414 in chips) 
+Seat 5: ollikahn23 (679 in chips) 
+Seat 6: williansct2 (1763 in chips) 
+Seat 7: ~mazwzam~ (2223 in chips) 
+Seat 8: lucas [lk7S] (4585 in chips) 
+Seat 9: ReneJes (132 in chips) 
+kfiatu1987: posts the ante 15
+rizlamegalo: posts the ante 15
+pitsikis: posts the ante 15
+ollikahn23: posts the ante 15
+williansct2: posts the ante 15
+~mazwzam~: posts the ante 15
+lucas [lk7S]: posts the ante 15
+ReneJes: posts the ante 15
+ollikahn23: posts small blind 60
+williansct2: posts big blind 120
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ah 9h]
+~mazwzam~: raises 240 to 360
+lucas [lk7S]: folds 
+ReneJes: folds 
+kfiatu1987: folds 
+rizlamegalo: folds 
+pitsikis: folds 
+ollikahn23: calls 300
+williansct2: folds 
+*** FLOP *** [2h Kc Qh]
+ollikahn23: bets 304 and is all-in
+~mazwzam~: folds 
+Uncalled bet (304) returned to ollikahn23
+ollikahn23 collected 960 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 960 | Rake 0 
+Board [2h Kc Qh]
+Seat 1: kfiatu1987 folded before Flop (didn't bet)
+Seat 2: rizlamegalo folded before Flop (didn't bet)
+Seat 4: pitsikis (button) folded before Flop (didn't bet)
+Seat 5: ollikahn23 (small blind) collected (960)
+Seat 6: williansct2 (big blind) folded before Flop
+Seat 7: ~mazwzam~ folded on the Flop
+Seat 8: lucas [lk7S] folded before Flop (didn't bet)
+Seat 9: ReneJes folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183141597929: Tournament #2233497495, $3.19+$0.31 USD Hold'em No Limit - Level V (60/120) - 2018/02/27 17:12:37 ET
+Table '2233497495 4' 9-max Seat #5 is the button
+Seat 1: kfiatu1987 (2187 in chips) 
+Seat 2: rizlamegalo (4290 in chips) 
+Seat 4: pitsikis (3399 in chips) 
+Seat 5: ollikahn23 (1264 in chips) 
+Seat 6: williansct2 (1628 in chips) 
+Seat 7: ~mazwzam~ (1848 in chips) 
+Seat 8: lucas [lk7S] (4570 in chips) 
+Seat 9: ReneJes (117 in chips) 
+kfiatu1987: posts the ante 15
+rizlamegalo: posts the ante 15
+pitsikis: posts the ante 15
+ollikahn23: posts the ante 15
+williansct2: posts the ante 15
+~mazwzam~: posts the ante 15
+lucas [lk7S]: posts the ante 15
+ReneJes: posts the ante 15
+williansct2: posts small blind 60
+~mazwzam~: posts big blind 120
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4s 7d]
+lucas [lk7S]: folds 
+ReneJes: folds 
+kfiatu1987: folds 
+rizlamegalo: folds 
+pitsikis: folds 
+ollikahn23: folds 
+williansct2: calls 60
+~mazwzam~: checks 
+*** FLOP *** [Js 8c Qh]
+williansct2: checks 
+~mazwzam~: checks 
+*** TURN *** [Js 8c Qh] [Ad]
+williansct2: checks 
+~mazwzam~: checks 
+*** RIVER *** [Js 8c Qh Ad] [3c]
+williansct2: bets 120
+~mazwzam~: calls 120
+*** SHOW DOWN ***
+williansct2: shows [8h 9d] (a pair of Eights)
+~mazwzam~: shows [8s 9c] (a pair of Eights)
+williansct2 collected 300 from pot
+~mazwzam~ collected 300 from pot
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [Js 8c Qh Ad 3c]
+Seat 1: kfiatu1987 folded before Flop (didn't bet)
+Seat 2: rizlamegalo folded before Flop (didn't bet)
+Seat 4: pitsikis folded before Flop (didn't bet)
+Seat 5: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 6: williansct2 (small blind) showed [8h 9d] and won (300) with a pair of Eights
+Seat 7: ~mazwzam~ (big blind) showed [8s 9c] and won (300) with a pair of Eights
+Seat 8: lucas [lk7S] folded before Flop (didn't bet)
+Seat 9: ReneJes folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183141644033: Tournament #2233497495, $3.19+$0.31 USD Hold'em No Limit - Level V (60/120) - 2018/02/27 17:13:30 ET
+Table '2233497495 4' 9-max Seat #6 is the button
+Seat 1: kfiatu1987 (2172 in chips) 
+Seat 2: rizlamegalo (4275 in chips) 
+Seat 4: pitsikis (3384 in chips) 
+Seat 5: ollikahn23 (1249 in chips) 
+Seat 6: williansct2 (1673 in chips) 
+Seat 7: ~mazwzam~ (1893 in chips) 
+Seat 8: lucas [lk7S] (4555 in chips) 
+Seat 9: ReneJes (102 in chips) 
+kfiatu1987: posts the ante 15
+rizlamegalo: posts the ante 15
+pitsikis: posts the ante 15
+ollikahn23: posts the ante 15
+williansct2: posts the ante 15
+~mazwzam~: posts the ante 15
+lucas [lk7S]: posts the ante 15
+ReneJes: posts the ante 15
+~mazwzam~: posts small blind 60
+lucas [lk7S]: posts big blind 120
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ad Kd]
+ReneJes: folds 
+kfiatu1987: folds 
+rizlamegalo: folds 
+pitsikis: folds 
+ollikahn23: raises 120 to 240
+williansct2: folds 
+~mazwzam~: calls 180
+lucas [lk7S]: calls 120
+*** FLOP *** [4s 3c 9h]
+~mazwzam~: checks 
+lucas [lk7S]: checks 
+ollikahn23: bets 600
+~mazwzam~: folds 
+lucas [lk7S]: raises 600 to 1200
+ollikahn23: calls 394 and is all-in
+Uncalled bet (206) returned to lucas [lk7S]
+*** TURN *** [4s 3c 9h] [8h]
+*** RIVER *** [4s 3c 9h 8h] [9s]
+*** SHOW DOWN ***
+lucas [lk7S]: shows [Qc 9c] (three of a kind, Nines)
+ollikahn23: shows [Ad Kd] (a pair of Nines)
+lucas [lk7S] collected 2828 from pot
+ollikahn23 finished the tournament in 22nd place
+*** SUMMARY ***
+Total pot 2828 | Rake 0 
+Board [4s 3c 9h 8h 9s]
+Seat 1: kfiatu1987 folded before Flop (didn't bet)
+Seat 2: rizlamegalo folded before Flop (didn't bet)
+Seat 4: pitsikis folded before Flop (didn't bet)
+Seat 5: ollikahn23 showed [Ad Kd] and lost with a pair of Nines
+Seat 6: williansct2 (button) folded before Flop (didn't bet)
+Seat 7: ~mazwzam~ (small blind) folded on the Flop
+Seat 8: lucas [lk7S] (big blind) showed [Qc 9c] and won (2828) with three of a kind, Nines
+Seat 9: ReneJes folded before Flop (didn't bet)
+
+
+
