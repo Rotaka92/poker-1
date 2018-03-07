@@ -1,0 +1,2375 @@
+﻿PokerStars Hand #183520638247: Tournament #2242004059, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/03/07 15:51:46 ET
+Table '2242004059 6' 9-max Seat #1 is the button
+Seat 1: VictorZh14 (1488 in chips) 
+Seat 2: MLouye (1491 in chips) 
+Seat 4: CocoLores17 (1500 in chips) 
+Seat 6: ollikahn23 (1500 in chips) 
+Seat 7: cubraka (1500 in chips) 
+Seat 9: Crash161rus (1500 in chips) 
+VictorZh14: posts the ante 3
+MLouye: posts the ante 3
+CocoLores17: posts the ante 3
+ollikahn23: posts the ante 3
+cubraka: posts the ante 3
+Crash161rus: posts the ante 3
+MLouye: posts small blind 10
+CocoLores17: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jh 7h]
+ollikahn23 is connected 
+ollikahn23: folds 
+cubraka: folds 
+Crash161rus: folds 
+VictorZh14: raises 40 to 60
+MLouye: folds 
+CocoLores17: calls 40
+*** FLOP *** [4c 5d 6c]
+CocoLores17: checks 
+VictorZh14: bets 74
+CocoLores17: calls 74
+*** TURN *** [4c 5d 6c] [3h]
+CocoLores17: bets 160
+VictorZh14: folds 
+Uncalled bet (160) returned to CocoLores17
+CocoLores17 collected 296 from pot
+CocoLores17: doesn't show hand 
+*** SUMMARY ***
+Total pot 296 | Rake 0 
+Board [4c 5d 6c 3h]
+Seat 1: VictorZh14 (button) folded on the Turn
+Seat 2: MLouye (small blind) folded before Flop
+Seat 4: CocoLores17 (big blind) collected (296)
+Seat 6: ollikahn23 folded before Flop (didn't bet)
+Seat 7: cubraka folded before Flop (didn't bet)
+Seat 9: Crash161rus folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183520678545: Tournament #2242004059, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/03/07 15:52:31 ET
+Table '2242004059 6' 9-max Seat #2 is the button
+Seat 1: VictorZh14 (1351 in chips) 
+Seat 2: MLouye (1478 in chips) 
+Seat 3: tschepetoo (1484 in chips) out of hand (moved from another table into small blind)
+Seat 4: CocoLores17 (1659 in chips) 
+Seat 5: SCCPdk (1491 in chips) 
+Seat 6: ollikahn23 (1497 in chips) 
+Seat 7: cubraka (1497 in chips) 
+Seat 8: SpieckerR (1500 in chips) 
+Seat 9: Crash161rus (1497 in chips) 
+tschepetoo will be allowed to play after the button
+VictorZh14: posts the ante 3
+MLouye: posts the ante 3
+CocoLores17: posts the ante 3
+SCCPdk: posts the ante 3
+ollikahn23: posts the ante 3
+cubraka: posts the ante 3
+SpieckerR: posts the ante 3
+Crash161rus: posts the ante 3
+CocoLores17: posts small blind 10
+SCCPdk: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ah 5c]
+ollikahn23: folds 
+cubraka: folds 
+SpieckerR: folds 
+Crash161rus: folds 
+VictorZh14: raises 40 to 60
+MLouye: folds 
+CocoLores17: raises 120 to 180
+SCCPdk: folds 
+VictorZh14: folds 
+Uncalled bet (120) returned to CocoLores17
+CocoLores17 collected 164 from pot
+CocoLores17: doesn't show hand 
+*** SUMMARY ***
+Total pot 164 | Rake 0 
+Seat 1: VictorZh14 folded before Flop
+Seat 2: MLouye (button) folded before Flop (didn't bet)
+Seat 4: CocoLores17 (small blind) collected (164)
+Seat 5: SCCPdk (big blind) folded before Flop
+Seat 6: ollikahn23 folded before Flop (didn't bet)
+Seat 7: cubraka folded before Flop (didn't bet)
+Seat 8: SpieckerR folded before Flop (didn't bet)
+Seat 9: Crash161rus folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183520711942: Tournament #2242004059, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/03/07 15:53:09 ET
+Table '2242004059 6' 9-max Seat #4 is the button
+Seat 1: VictorZh14 (1288 in chips) 
+Seat 2: MLouye (1475 in chips) 
+Seat 3: tschepetoo (1484 in chips) 
+Seat 4: CocoLores17 (1760 in chips) 
+Seat 5: SCCPdk (1468 in chips) 
+Seat 6: ollikahn23 (1494 in chips) 
+Seat 7: cubraka (1494 in chips) 
+Seat 8: SpieckerR (1497 in chips) 
+Seat 9: Crash161rus (1494 in chips) 
+VictorZh14: posts the ante 3
+MLouye: posts the ante 3
+tschepetoo: posts the ante 3
+CocoLores17: posts the ante 3
+SCCPdk: posts the ante 3
+ollikahn23: posts the ante 3
+cubraka: posts the ante 3
+SpieckerR: posts the ante 3
+Crash161rus: posts the ante 3
+SCCPdk: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9c 6d]
+cubraka: folds 
+SpieckerR: folds 
+Crash161rus: folds 
+VictorZh14: folds 
+MLouye: raises 40 to 60
+tschepetoo: folds 
+CocoLores17: folds 
+SCCPdk: folds 
+ollikahn23: folds 
+Uncalled bet (40) returned to MLouye
+MLouye collected 77 from pot
+MLouye: doesn't show hand 
+*** SUMMARY ***
+Total pot 77 | Rake 0 
+Seat 1: VictorZh14 folded before Flop (didn't bet)
+Seat 2: MLouye collected (77)
+Seat 3: tschepetoo folded before Flop (didn't bet)
+Seat 4: CocoLores17 (button) folded before Flop (didn't bet)
+Seat 5: SCCPdk (small blind) folded before Flop
+Seat 6: ollikahn23 (big blind) folded before Flop
+Seat 7: cubraka folded before Flop (didn't bet)
+Seat 8: SpieckerR folded before Flop (didn't bet)
+Seat 9: Crash161rus folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183520739723: Tournament #2242004059, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/03/07 15:53:40 ET
+Table '2242004059 6' 9-max Seat #5 is the button
+Seat 1: VictorZh14 (1285 in chips) 
+Seat 2: MLouye (1529 in chips) 
+Seat 3: tschepetoo (1481 in chips) 
+Seat 4: CocoLores17 (1757 in chips) 
+Seat 5: SCCPdk (1455 in chips) 
+Seat 6: ollikahn23 (1471 in chips) 
+Seat 7: cubraka (1491 in chips) 
+Seat 8: SpieckerR (1494 in chips) 
+Seat 9: Crash161rus (1491 in chips) 
+VictorZh14: posts the ante 3
+MLouye: posts the ante 3
+tschepetoo: posts the ante 3
+CocoLores17: posts the ante 3
+SCCPdk: posts the ante 3
+ollikahn23: posts the ante 3
+cubraka: posts the ante 3
+SpieckerR: posts the ante 3
+Crash161rus: posts the ante 3
+ollikahn23: posts small blind 10
+cubraka: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2s 3c]
+SpieckerR: folds 
+Crash161rus: folds 
+VictorZh14: folds 
+MLouye: folds 
+tschepetoo: folds 
+CocoLores17: folds 
+SCCPdk: raises 40 to 60
+ollikahn23: folds 
+cubraka: folds 
+Uncalled bet (40) returned to SCCPdk
+SCCPdk collected 77 from pot
+SCCPdk: doesn't show hand 
+*** SUMMARY ***
+Total pot 77 | Rake 0 
+Seat 1: VictorZh14 folded before Flop (didn't bet)
+Seat 2: MLouye folded before Flop (didn't bet)
+Seat 3: tschepetoo folded before Flop (didn't bet)
+Seat 4: CocoLores17 folded before Flop (didn't bet)
+Seat 5: SCCPdk (button) collected (77)
+Seat 6: ollikahn23 (small blind) folded before Flop
+Seat 7: cubraka (big blind) folded before Flop
+Seat 8: SpieckerR folded before Flop (didn't bet)
+Seat 9: Crash161rus folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183520785285: Tournament #2242004059, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/03/07 15:54:32 ET
+Table '2242004059 6' 9-max Seat #6 is the button
+Seat 1: VictorZh14 (1282 in chips) 
+Seat 2: MLouye (1526 in chips) 
+Seat 3: tschepetoo (1478 in chips) 
+Seat 4: CocoLores17 (1754 in chips) 
+Seat 5: SCCPdk (1509 in chips) 
+Seat 6: ollikahn23 (1458 in chips) 
+Seat 7: cubraka (1468 in chips) 
+Seat 8: SpieckerR (1491 in chips) 
+Seat 9: Crash161rus (1488 in chips) 
+VictorZh14: posts the ante 3
+MLouye: posts the ante 3
+tschepetoo: posts the ante 3
+CocoLores17: posts the ante 3
+SCCPdk: posts the ante 3
+ollikahn23: posts the ante 3
+cubraka: posts the ante 3
+SpieckerR: posts the ante 3
+Crash161rus: posts the ante 3
+cubraka: posts small blind 10
+SpieckerR: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5d 6h]
+Crash161rus: folds 
+VictorZh14: folds 
+MLouye: folds 
+tschepetoo: folds 
+CocoLores17: folds 
+SCCPdk: folds 
+ollikahn23: folds 
+cubraka: calls 10
+SpieckerR: checks 
+*** FLOP *** [Qc Kd 4c]
+cubraka: bets 34
+SpieckerR: folds 
+Uncalled bet (34) returned to cubraka
+cubraka collected 67 from pot
+cubraka: doesn't show hand 
+*** SUMMARY ***
+Total pot 67 | Rake 0 
+Board [Qc Kd 4c]
+Seat 1: VictorZh14 folded before Flop (didn't bet)
+Seat 2: MLouye folded before Flop (didn't bet)
+Seat 3: tschepetoo folded before Flop (didn't bet)
+Seat 4: CocoLores17 folded before Flop (didn't bet)
+Seat 5: SCCPdk folded before Flop (didn't bet)
+Seat 6: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 7: cubraka (small blind) collected (67)
+Seat 8: SpieckerR (big blind) folded on the Flop
+Seat 9: Crash161rus folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183521076235: Tournament #2242004059, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/03/07 16:01:12 ET
+Table '2242004059 6' 9-max Seat #7 is the button
+Seat 2: DreamCatcher_BE (1500 in chips) 
+Seat 3: tschepetoo (1475 in chips) 
+Seat 4: CocoLores17 (1751 in chips) 
+Seat 5: SCCPdk (1506 in chips) 
+Seat 6: ollikahn23 (1455 in chips) 
+Seat 7: cubraka (1512 in chips) 
+Seat 8: SpieckerR (1468 in chips) 
+Seat 9: btn_clicking (1500 in chips) 
+DreamCatcher_BE: posts the ante 3
+tschepetoo: posts the ante 3
+CocoLores17: posts the ante 3
+SCCPdk: posts the ante 3
+ollikahn23: posts the ante 3
+cubraka: posts the ante 3
+SpieckerR: posts the ante 3
+btn_clicking: posts the ante 3
+SpieckerR: posts small blind 10
+btn_clicking: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qh 4h]
+DreamCatcher_BE: folds 
+tschepetoo has timed out
+tschepetoo: folds 
+tschepetoo is sitting out
+tschepetoo has returned
+CocoLores17: folds 
+SCCPdk: folds 
+ollikahn23: folds 
+cubraka: folds 
+SpieckerR: raises 60 to 80
+btn_clicking: folds 
+Uncalled bet (60) returned to SpieckerR
+SpieckerR collected 64 from pot
+*** SUMMARY ***
+Total pot 64 | Rake 0 
+Seat 2: DreamCatcher_BE folded before Flop (didn't bet)
+Seat 3: tschepetoo folded before Flop (didn't bet)
+Seat 4: CocoLores17 folded before Flop (didn't bet)
+Seat 5: SCCPdk folded before Flop (didn't bet)
+Seat 6: ollikahn23 folded before Flop (didn't bet)
+Seat 7: cubraka (button) folded before Flop (didn't bet)
+Seat 8: SpieckerR (small blind) collected (64)
+Seat 9: btn_clicking (big blind) folded before Flop
+
+
+
+PokerStars Hand #183521128733: Tournament #2242004059, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/03/07 16:02:15 ET
+Table '2242004059 6' 9-max Seat #8 is the button
+Seat 2: DreamCatcher_BE (1497 in chips) 
+Seat 3: tschepetoo (1472 in chips) 
+Seat 4: CocoLores17 (1748 in chips) 
+Seat 5: SCCPdk (1503 in chips) 
+Seat 6: ollikahn23 (1452 in chips) 
+Seat 7: cubraka (1509 in chips) 
+Seat 8: SpieckerR (1509 in chips) 
+Seat 9: btn_clicking (1477 in chips) 
+DreamCatcher_BE: posts the ante 3
+tschepetoo: posts the ante 3
+CocoLores17: posts the ante 3
+SCCPdk: posts the ante 3
+ollikahn23: posts the ante 3
+cubraka: posts the ante 3
+SpieckerR: posts the ante 3
+btn_clicking: posts the ante 3
+btn_clicking: posts small blind 10
+DreamCatcher_BE: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kh 5c]
+tschepetoo: folds 
+CocoLores17: folds 
+SCCPdk: folds 
+ollikahn23: folds 
+cubraka: folds 
+SpieckerR: raises 40 to 60
+btn_clicking: calls 50
+DreamCatcher_BE: calls 40
+*** FLOP *** [7c 3d Td]
+btn_clicking: checks 
+DreamCatcher_BE: checks 
+SpieckerR: checks 
+*** TURN *** [7c 3d Td] [Ad]
+btn_clicking: checks 
+DreamCatcher_BE: bets 100
+SpieckerR: folds 
+btn_clicking: folds 
+Uncalled bet (100) returned to DreamCatcher_BE
+DreamCatcher_BE collected 204 from pot
+DreamCatcher_BE: doesn't show hand 
+*** SUMMARY ***
+Total pot 204 | Rake 0 
+Board [7c 3d Td Ad]
+Seat 2: DreamCatcher_BE (big blind) collected (204)
+Seat 3: tschepetoo folded before Flop (didn't bet)
+Seat 4: CocoLores17 folded before Flop (didn't bet)
+Seat 5: SCCPdk folded before Flop (didn't bet)
+Seat 6: ollikahn23 folded before Flop (didn't bet)
+Seat 7: cubraka folded before Flop (didn't bet)
+Seat 8: SpieckerR (button) folded on the Turn
+Seat 9: btn_clicking (small blind) folded on the Turn
+
+
+
+PokerStars Hand #183521202474: Tournament #2242004059, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/03/07 16:03:40 ET
+Table '2242004059 6' 9-max Seat #9 is the button
+Seat 2: DreamCatcher_BE (1638 in chips) 
+Seat 3: tschepetoo (1469 in chips) 
+Seat 4: CocoLores17 (1745 in chips) 
+Seat 5: SCCPdk (1500 in chips) 
+Seat 6: ollikahn23 (1449 in chips) 
+Seat 7: cubraka (1506 in chips) 
+Seat 8: SpieckerR (1446 in chips) 
+Seat 9: btn_clicking (1414 in chips) 
+DreamCatcher_BE: posts the ante 3
+tschepetoo: posts the ante 3
+CocoLores17: posts the ante 3
+SCCPdk: posts the ante 3
+ollikahn23: posts the ante 3
+cubraka: posts the ante 3
+SpieckerR: posts the ante 3
+btn_clicking: posts the ante 3
+DreamCatcher_BE: posts small blind 10
+tschepetoo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jc Th]
+CocoLores17: folds 
+SCCPdk: folds 
+ollikahn23: folds 
+cubraka: folds 
+SpieckerR: raises 26 to 46
+btn_clicking: folds 
+DreamCatcher_BE: raises 136 to 182
+tschepetoo: folds 
+SpieckerR: folds 
+Uncalled bet (136) returned to DreamCatcher_BE
+DreamCatcher_BE collected 136 from pot
+DreamCatcher_BE: doesn't show hand 
+*** SUMMARY ***
+Total pot 136 | Rake 0 
+Seat 2: DreamCatcher_BE (small blind) collected (136)
+Seat 3: tschepetoo (big blind) folded before Flop
+Seat 4: CocoLores17 folded before Flop (didn't bet)
+Seat 5: SCCPdk folded before Flop (didn't bet)
+Seat 6: ollikahn23 folded before Flop (didn't bet)
+Seat 7: cubraka folded before Flop (didn't bet)
+Seat 8: SpieckerR folded before Flop
+Seat 9: btn_clicking (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183521244120: Tournament #2242004059, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/03/07 16:04:28 ET
+Table '2242004059 6' 9-max Seat #2 is the button
+Seat 2: DreamCatcher_BE (1725 in chips) 
+Seat 3: tschepetoo (1446 in chips) 
+Seat 4: CocoLores17 (1742 in chips) 
+Seat 5: SCCPdk (1497 in chips) 
+Seat 6: ollikahn23 (1446 in chips) 
+Seat 7: cubraka (1503 in chips) 
+Seat 8: SpieckerR (1397 in chips) 
+Seat 9: btn_clicking (1411 in chips) 
+DreamCatcher_BE: posts the ante 3
+tschepetoo: posts the ante 3
+CocoLores17: posts the ante 3
+SCCPdk: posts the ante 3
+ollikahn23: posts the ante 3
+cubraka: posts the ante 3
+SpieckerR: posts the ante 3
+btn_clicking: posts the ante 3
+tschepetoo: posts small blind 10
+CocoLores17: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5h 3d]
+SCCPdk: folds 
+ollikahn23: folds 
+cubraka: folds 
+SpieckerR: folds 
+btn_clicking: raises 30 to 50
+DreamCatcher_BE: folds 
+tschepetoo: folds 
+CocoLores17: calls 30
+*** FLOP *** [Ah Kh Kd]
+CocoLores17: checks 
+btn_clicking: checks 
+*** TURN *** [Ah Kh Kd] [8s]
+CocoLores17: bets 80
+btn_clicking: calls 80
+*** RIVER *** [Ah Kh Kd 8s] [6h]
+CocoLores17: bets 229
+btn_clicking: folds 
+Uncalled bet (229) returned to CocoLores17
+CocoLores17 collected 294 from pot
+CocoLores17: doesn't show hand 
+*** SUMMARY ***
+Total pot 294 | Rake 0 
+Board [Ah Kh Kd 8s 6h]
+Seat 2: DreamCatcher_BE (button) folded before Flop (didn't bet)
+Seat 3: tschepetoo (small blind) folded before Flop
+Seat 4: CocoLores17 (big blind) collected (294)
+Seat 5: SCCPdk folded before Flop (didn't bet)
+Seat 6: ollikahn23 folded before Flop (didn't bet)
+Seat 7: cubraka folded before Flop (didn't bet)
+Seat 8: SpieckerR folded before Flop (didn't bet)
+Seat 9: btn_clicking folded on the River
+
+
+
+PokerStars Hand #183521310417: Tournament #2242004059, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/03/07 16:05:44 ET
+Table '2242004059 6' 9-max Seat #3 is the button
+Seat 2: DreamCatcher_BE (1722 in chips) 
+Seat 3: tschepetoo (1433 in chips) 
+Seat 4: CocoLores17 (1903 in chips) 
+Seat 5: SCCPdk (1494 in chips) 
+Seat 6: ollikahn23 (1443 in chips) 
+Seat 7: cubraka (1500 in chips) 
+Seat 8: SpieckerR (1394 in chips) 
+Seat 9: btn_clicking (1278 in chips) 
+DreamCatcher_BE: posts the ante 3
+tschepetoo: posts the ante 3
+CocoLores17: posts the ante 3
+SCCPdk: posts the ante 3
+ollikahn23: posts the ante 3
+cubraka: posts the ante 3
+SpieckerR: posts the ante 3
+btn_clicking: posts the ante 3
+CocoLores17: posts small blind 10
+SCCPdk: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qh Qs]
+ollikahn23: raises 60 to 80
+cubraka: calls 80
+SpieckerR: folds 
+btn_clicking: folds 
+DreamCatcher_BE: folds 
+tschepetoo: folds 
+CocoLores17: folds 
+SCCPdk: folds 
+*** FLOP *** [9c 7d 8s]
+ollikahn23: bets 160
+cubraka: folds 
+Uncalled bet (160) returned to ollikahn23
+ollikahn23 collected 214 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 214 | Rake 0 
+Board [9c 7d 8s]
+Seat 2: DreamCatcher_BE folded before Flop (didn't bet)
+Seat 3: tschepetoo (button) folded before Flop (didn't bet)
+Seat 4: CocoLores17 (small blind) folded before Flop
+Seat 5: SCCPdk (big blind) folded before Flop
+Seat 6: ollikahn23 collected (214)
+Seat 7: cubraka folded on the Flop
+Seat 8: SpieckerR folded before Flop (didn't bet)
+Seat 9: btn_clicking folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183521348909: Tournament #2242004059, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/03/07 16:06:28 ET
+Table '2242004059 6' 9-max Seat #4 is the button
+Seat 2: DreamCatcher_BE (1719 in chips) 
+Seat 3: tschepetoo (1430 in chips) 
+Seat 4: CocoLores17 (1890 in chips) 
+Seat 5: SCCPdk (1471 in chips) 
+Seat 6: ollikahn23 (1574 in chips) 
+Seat 7: cubraka (1417 in chips) 
+Seat 8: SpieckerR (1391 in chips) 
+Seat 9: btn_clicking (1275 in chips) 
+DreamCatcher_BE: posts the ante 3
+tschepetoo: posts the ante 3
+CocoLores17: posts the ante 3
+SCCPdk: posts the ante 3
+ollikahn23: posts the ante 3
+cubraka: posts the ante 3
+SpieckerR: posts the ante 3
+btn_clicking: posts the ante 3
+SCCPdk: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ac 7s]
+cubraka: raises 40 to 60
+SpieckerR: folds 
+btn_clicking: folds 
+DreamCatcher_BE: folds 
+tschepetoo: folds 
+CocoLores17: folds 
+SCCPdk: folds 
+ollikahn23: folds 
+Uncalled bet (40) returned to cubraka
+cubraka collected 74 from pot
+cubraka: doesn't show hand 
+*** SUMMARY ***
+Total pot 74 | Rake 0 
+Seat 2: DreamCatcher_BE folded before Flop (didn't bet)
+Seat 3: tschepetoo folded before Flop (didn't bet)
+Seat 4: CocoLores17 (button) folded before Flop (didn't bet)
+Seat 5: SCCPdk (small blind) folded before Flop
+Seat 6: ollikahn23 (big blind) folded before Flop
+Seat 7: cubraka collected (74)
+Seat 8: SpieckerR folded before Flop (didn't bet)
+Seat 9: btn_clicking folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183521374226: Tournament #2242004059, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/03/07 16:06:57 ET
+Table '2242004059 6' 9-max Seat #5 is the button
+Seat 2: DreamCatcher_BE (1716 in chips) 
+Seat 3: tschepetoo (1427 in chips) 
+Seat 4: CocoLores17 (1887 in chips) 
+Seat 5: SCCPdk (1458 in chips) 
+Seat 6: ollikahn23 (1551 in chips) 
+Seat 7: cubraka (1468 in chips) 
+Seat 8: SpieckerR (1388 in chips) 
+Seat 9: btn_clicking (1272 in chips) 
+DreamCatcher_BE: posts the ante 3
+tschepetoo: posts the ante 3
+CocoLores17: posts the ante 3
+SCCPdk: posts the ante 3
+ollikahn23: posts the ante 3
+cubraka: posts the ante 3
+SpieckerR: posts the ante 3
+btn_clicking: posts the ante 3
+ollikahn23: posts small blind 10
+cubraka: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jd 8c]
+SpieckerR: folds 
+btn_clicking: folds 
+DreamCatcher_BE: folds 
+tschepetoo: folds 
+CocoLores17: folds 
+SCCPdk: folds 
+ollikahn23: folds 
+Uncalled bet (10) returned to cubraka
+cubraka collected 44 from pot
+cubraka: doesn't show hand 
+*** SUMMARY ***
+Total pot 44 | Rake 0 
+Seat 2: DreamCatcher_BE folded before Flop (didn't bet)
+Seat 3: tschepetoo folded before Flop (didn't bet)
+Seat 4: CocoLores17 folded before Flop (didn't bet)
+Seat 5: SCCPdk (button) folded before Flop (didn't bet)
+Seat 6: ollikahn23 (small blind) folded before Flop
+Seat 7: cubraka (big blind) collected (44)
+Seat 8: SpieckerR folded before Flop (didn't bet)
+Seat 9: btn_clicking folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183521407801: Tournament #2242004059, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/03/07 16:07:37 ET
+Table '2242004059 6' 9-max Seat #6 is the button
+Seat 2: DreamCatcher_BE (1713 in chips) 
+Seat 3: tschepetoo (1424 in chips) 
+Seat 4: CocoLores17 (1884 in chips) 
+Seat 5: SCCPdk (1455 in chips) 
+Seat 6: ollikahn23 (1538 in chips) 
+Seat 7: cubraka (1499 in chips) 
+Seat 8: SpieckerR (1385 in chips) 
+Seat 9: btn_clicking (1269 in chips) 
+DreamCatcher_BE: posts the ante 3
+tschepetoo: posts the ante 3
+CocoLores17: posts the ante 3
+SCCPdk: posts the ante 3
+ollikahn23: posts the ante 3
+cubraka: posts the ante 3
+SpieckerR: posts the ante 3
+btn_clicking: posts the ante 3
+cubraka: posts small blind 10
+SpieckerR: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6s 7h]
+btn_clicking: folds 
+DreamCatcher_BE: folds 
+tschepetoo: folds 
+CocoLores17: raises 20 to 40
+SCCPdk: folds 
+ollikahn23: folds 
+cubraka: calls 30
+SpieckerR: folds 
+*** FLOP *** [6h 3s As]
+cubraka: checks 
+CocoLores17: bets 41
+cubraka: folds 
+Uncalled bet (41) returned to CocoLores17
+CocoLores17 collected 124 from pot
+CocoLores17: doesn't show hand 
+*** SUMMARY ***
+Total pot 124 | Rake 0 
+Board [6h 3s As]
+Seat 2: DreamCatcher_BE folded before Flop (didn't bet)
+Seat 3: tschepetoo folded before Flop (didn't bet)
+Seat 4: CocoLores17 collected (124)
+Seat 5: SCCPdk folded before Flop (didn't bet)
+Seat 6: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 7: cubraka (small blind) folded on the Flop
+Seat 8: SpieckerR (big blind) folded before Flop
+Seat 9: btn_clicking folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183521462765: Tournament #2242004059, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/03/07 16:08:41 ET
+Table '2242004059 6' 9-max Seat #7 is the button
+Seat 2: DreamCatcher_BE (1710 in chips) 
+Seat 3: tschepetoo (1421 in chips) 
+Seat 4: CocoLores17 (1965 in chips) 
+Seat 5: SCCPdk (1452 in chips) 
+Seat 6: ollikahn23 (1535 in chips) 
+Seat 7: cubraka (1456 in chips) 
+Seat 8: SpieckerR (1362 in chips) 
+Seat 9: btn_clicking (1266 in chips) 
+DreamCatcher_BE: posts the ante 3
+tschepetoo: posts the ante 3
+CocoLores17: posts the ante 3
+SCCPdk: posts the ante 3
+ollikahn23: posts the ante 3
+cubraka: posts the ante 3
+SpieckerR: posts the ante 3
+btn_clicking: posts the ante 3
+SpieckerR: posts small blind 10
+btn_clicking: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8h 2d]
+DreamCatcher_BE: raises 40 to 60
+tschepetoo: folds 
+CocoLores17: folds 
+SCCPdk: folds 
+ollikahn23: folds 
+cubraka: folds 
+SpieckerR: folds 
+btn_clicking: calls 40
+*** FLOP *** [9s 2s 8s]
+btn_clicking: checks 
+DreamCatcher_BE: bets 103
+btn_clicking: folds 
+Uncalled bet (103) returned to DreamCatcher_BE
+DreamCatcher_BE collected 154 from pot
+DreamCatcher_BE: doesn't show hand 
+*** SUMMARY ***
+Total pot 154 | Rake 0 
+Board [9s 2s 8s]
+Seat 2: DreamCatcher_BE collected (154)
+Seat 3: tschepetoo folded before Flop (didn't bet)
+Seat 4: CocoLores17 folded before Flop (didn't bet)
+Seat 5: SCCPdk folded before Flop (didn't bet)
+Seat 6: ollikahn23 folded before Flop (didn't bet)
+Seat 7: cubraka (button) folded before Flop (didn't bet)
+Seat 8: SpieckerR (small blind) folded before Flop
+Seat 9: btn_clicking (big blind) folded on the Flop
+
+
+
+PokerStars Hand #183521528977: Tournament #2242004059, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/07 16:09:59 ET
+Table '2242004059 6' 9-max Seat #8 is the button
+Seat 1: moortje333 (1500 in chips) 
+Seat 2: DreamCatcher_BE (1801 in chips) 
+Seat 3: tschepetoo (1418 in chips) 
+Seat 4: CocoLores17 (1962 in chips) 
+Seat 5: SCCPdk (1449 in chips) 
+Seat 6: ollikahn23 (1532 in chips) 
+Seat 7: cubraka (1453 in chips) 
+Seat 8: SpieckerR (1349 in chips) 
+Seat 9: btn_clicking (1203 in chips) 
+moortje333: posts the ante 4
+DreamCatcher_BE: posts the ante 4
+tschepetoo: posts the ante 4
+CocoLores17: posts the ante 4
+SCCPdk: posts the ante 4
+ollikahn23: posts the ante 4
+cubraka: posts the ante 4
+SpieckerR: posts the ante 4
+btn_clicking: posts the ante 4
+btn_clicking: posts small blind 15
+moortje333: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Td Qc]
+DreamCatcher_BE: folds 
+tschepetoo: folds 
+CocoLores17: folds 
+SCCPdk: folds 
+ollikahn23: raises 30 to 60
+cubraka: folds 
+SpieckerR: raises 124 to 184
+btn_clicking: folds 
+moortje333: folds 
+ollikahn23: folds 
+Uncalled bet (124) returned to SpieckerR
+SpieckerR collected 201 from pot
+*** SUMMARY ***
+Total pot 201 | Rake 0 
+Seat 1: moortje333 (big blind) folded before Flop
+Seat 2: DreamCatcher_BE folded before Flop (didn't bet)
+Seat 3: tschepetoo folded before Flop (didn't bet)
+Seat 4: CocoLores17 folded before Flop (didn't bet)
+Seat 5: SCCPdk folded before Flop (didn't bet)
+Seat 6: ollikahn23 folded before Flop
+Seat 7: cubraka folded before Flop (didn't bet)
+Seat 8: SpieckerR (button) collected (201)
+Seat 9: btn_clicking (small blind) folded before Flop
+
+
+
+PokerStars Hand #183521566659: Tournament #2242004059, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/07 16:10:44 ET
+Table '2242004059 6' 9-max Seat #9 is the button
+Seat 1: moortje333 (1466 in chips) 
+Seat 2: DreamCatcher_BE (1797 in chips) 
+Seat 3: tschepetoo (1414 in chips) 
+Seat 4: CocoLores17 (1958 in chips) 
+Seat 5: SCCPdk (1445 in chips) 
+Seat 6: ollikahn23 (1468 in chips) 
+Seat 7: cubraka (1449 in chips) 
+Seat 8: SpieckerR (1486 in chips) 
+Seat 9: btn_clicking (1184 in chips) 
+moortje333: posts the ante 4
+DreamCatcher_BE: posts the ante 4
+tschepetoo: posts the ante 4
+CocoLores17: posts the ante 4
+SCCPdk: posts the ante 4
+ollikahn23: posts the ante 4
+cubraka: posts the ante 4
+SpieckerR: posts the ante 4
+btn_clicking: posts the ante 4
+moortje333: posts small blind 15
+DreamCatcher_BE: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8h 8s]
+tschepetoo: folds 
+CocoLores17: folds 
+SCCPdk: folds 
+ollikahn23: raises 90 to 120
+cubraka: folds 
+SpieckerR: folds 
+btn_clicking: folds 
+moortje333: folds 
+DreamCatcher_BE: folds 
+Uncalled bet (90) returned to ollikahn23
+ollikahn23 collected 111 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 111 | Rake 0 
+Seat 1: moortje333 (small blind) folded before Flop
+Seat 2: DreamCatcher_BE (big blind) folded before Flop
+Seat 3: tschepetoo folded before Flop (didn't bet)
+Seat 4: CocoLores17 folded before Flop (didn't bet)
+Seat 5: SCCPdk folded before Flop (didn't bet)
+Seat 6: ollikahn23 collected (111)
+Seat 7: cubraka folded before Flop (didn't bet)
+Seat 8: SpieckerR folded before Flop (didn't bet)
+Seat 9: btn_clicking (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183521605121: Tournament #2242004059, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/07 16:11:30 ET
+Table '2242004059 6' 9-max Seat #1 is the button
+Seat 1: moortje333 (1447 in chips) 
+Seat 2: DreamCatcher_BE (1763 in chips) 
+Seat 4: CocoLores17 (1954 in chips) 
+Seat 5: SCCPdk (1441 in chips) 
+Seat 6: ollikahn23 (1545 in chips) 
+Seat 7: cubraka (1445 in chips) 
+Seat 8: SpieckerR (1482 in chips) 
+Seat 9: btn_clicking (1180 in chips) 
+moortje333: posts the ante 4
+DreamCatcher_BE: posts the ante 4
+CocoLores17: posts the ante 4
+SCCPdk: posts the ante 4
+ollikahn23: posts the ante 4
+cubraka: posts the ante 4
+SpieckerR: posts the ante 4
+btn_clicking: posts the ante 4
+DreamCatcher_BE: posts small blind 15
+CocoLores17: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7s 3c]
+SCCPdk: folds 
+ollikahn23: folds 
+cubraka: folds 
+SpieckerR: folds 
+btn_clicking: folds 
+moortje333: folds 
+DreamCatcher_BE: folds 
+Uncalled bet (15) returned to CocoLores17
+CocoLores17 collected 62 from pot
+CocoLores17: doesn't show hand 
+*** SUMMARY ***
+Total pot 62 | Rake 0 
+Seat 1: moortje333 (button) folded before Flop (didn't bet)
+Seat 2: DreamCatcher_BE (small blind) folded before Flop
+Seat 4: CocoLores17 (big blind) collected (62)
+Seat 5: SCCPdk folded before Flop (didn't bet)
+Seat 6: ollikahn23 folded before Flop (didn't bet)
+Seat 7: cubraka folded before Flop (didn't bet)
+Seat 8: SpieckerR folded before Flop (didn't bet)
+Seat 9: btn_clicking folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183521627689: Tournament #2242004059, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/07 16:11:57 ET
+Table '2242004059 6' 9-max Seat #2 is the button
+Seat 1: moortje333 (1443 in chips) 
+Seat 2: DreamCatcher_BE (1744 in chips) 
+Seat 4: CocoLores17 (1997 in chips) 
+Seat 5: SCCPdk (1437 in chips) 
+Seat 6: ollikahn23 (1541 in chips) 
+Seat 7: cubraka (1441 in chips) 
+Seat 8: SpieckerR (1478 in chips) 
+Seat 9: btn_clicking (1176 in chips) 
+moortje333: posts the ante 4
+DreamCatcher_BE: posts the ante 4
+CocoLores17: posts the ante 4
+SCCPdk: posts the ante 4
+ollikahn23: posts the ante 4
+cubraka: posts the ante 4
+SpieckerR: posts the ante 4
+btn_clicking: posts the ante 4
+CocoLores17: posts small blind 15
+SCCPdk: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4c 7s]
+ollikahn23: folds 
+cubraka: folds 
+SpieckerR: folds 
+btn_clicking: raises 45 to 75
+moortje333: folds 
+DreamCatcher_BE: folds 
+CocoLores17: calls 60
+SCCPdk: folds 
+*** FLOP *** [Ts 4h Ah]
+CocoLores17: checks 
+btn_clicking: bets 75
+CocoLores17: calls 75
+*** TURN *** [Ts 4h Ah] [8h]
+CocoLores17: checks 
+btn_clicking: checks 
+*** RIVER *** [Ts 4h Ah 8h] [5d]
+CocoLores17: bets 285
+btn_clicking: folds 
+Uncalled bet (285) returned to CocoLores17
+CocoLores17 collected 362 from pot
+CocoLores17: doesn't show hand 
+*** SUMMARY ***
+Total pot 362 | Rake 0 
+Board [Ts 4h Ah 8h 5d]
+Seat 1: moortje333 folded before Flop (didn't bet)
+Seat 2: DreamCatcher_BE (button) folded before Flop (didn't bet)
+Seat 4: CocoLores17 (small blind) collected (362)
+Seat 5: SCCPdk (big blind) folded before Flop
+Seat 6: ollikahn23 folded before Flop (didn't bet)
+Seat 7: cubraka folded before Flop (didn't bet)
+Seat 8: SpieckerR folded before Flop (didn't bet)
+Seat 9: btn_clicking folded on the River
+
+
+
+PokerStars Hand #183521739091: Tournament #2242004059, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/07 16:14:09 ET
+Table '2242004059 6' 9-max Seat #4 is the button
+Seat 1: moortje333 (1439 in chips) 
+Seat 2: DreamCatcher_BE (1740 in chips) 
+Seat 4: CocoLores17 (2205 in chips) 
+Seat 5: SCCPdk (1403 in chips) 
+Seat 6: ollikahn23 (1537 in chips) 
+Seat 7: cubraka (1437 in chips) 
+Seat 8: SpieckerR (1474 in chips) 
+Seat 9: btn_clicking (1022 in chips) 
+moortje333: posts the ante 4
+DreamCatcher_BE: posts the ante 4
+CocoLores17: posts the ante 4
+SCCPdk: posts the ante 4
+ollikahn23: posts the ante 4
+cubraka: posts the ante 4
+SpieckerR: posts the ante 4
+btn_clicking: posts the ante 4
+SCCPdk: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7s 9c]
+cubraka: folds 
+SpieckerR: folds 
+btn_clicking: raises 45 to 75
+moortje333: calls 75
+DreamCatcher_BE: folds 
+CocoLores17: calls 75
+SCCPdk: folds 
+ollikahn23: calls 45
+*** FLOP *** [Ks 7h Jc]
+ollikahn23: checks 
+btn_clicking: bets 105
+moortje333: folds 
+CocoLores17: calls 105
+ollikahn23: folds 
+*** TURN *** [Ks 7h Jc] [2h]
+btn_clicking: checks 
+CocoLores17: checks 
+*** RIVER *** [Ks 7h Jc 2h] [Th]
+btn_clicking: checks 
+CocoLores17: checks 
+*** SHOW DOWN ***
+btn_clicking: shows [Ts As] (a pair of Tens)
+CocoLores17: shows [Js Qs] (a pair of Jacks)
+CocoLores17 collected 557 from pot
+*** SUMMARY ***
+Total pot 557 | Rake 0 
+Board [Ks 7h Jc 2h Th]
+Seat 1: moortje333 folded on the Flop
+Seat 2: DreamCatcher_BE folded before Flop (didn't bet)
+Seat 4: CocoLores17 (button) showed [Js Qs] and won (557) with a pair of Jacks
+Seat 5: SCCPdk (small blind) folded before Flop
+Seat 6: ollikahn23 (big blind) folded on the Flop
+Seat 7: cubraka folded before Flop (didn't bet)
+Seat 8: SpieckerR folded before Flop (didn't bet)
+Seat 9: btn_clicking showed [Ts As] and lost with a pair of Tens
+
+
+
+PokerStars Hand #183521815848: Tournament #2242004059, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/07 16:15:40 ET
+Table '2242004059 6' 9-max Seat #5 is the button
+Seat 1: moortje333 (1360 in chips) 
+Seat 2: DreamCatcher_BE (1736 in chips) 
+Seat 4: CocoLores17 (2578 in chips) 
+Seat 5: SCCPdk (1384 in chips) 
+Seat 6: ollikahn23 (1458 in chips) 
+Seat 7: cubraka (1433 in chips) 
+Seat 8: SpieckerR (1470 in chips) 
+Seat 9: btn_clicking (838 in chips) 
+moortje333: posts the ante 4
+DreamCatcher_BE: posts the ante 4
+CocoLores17: posts the ante 4
+SCCPdk: posts the ante 4
+ollikahn23: posts the ante 4
+cubraka: posts the ante 4
+SpieckerR: posts the ante 4
+btn_clicking: posts the ante 4
+ollikahn23: posts small blind 15
+cubraka: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9s 7d]
+SpieckerR: folds 
+btn_clicking: raises 34 to 64
+moortje333: calls 64
+DreamCatcher_BE: folds 
+CocoLores17: raises 176 to 240
+SCCPdk: folds 
+ollikahn23: folds 
+cubraka: folds 
+btn_clicking: calls 176
+moortje333: folds 
+*** FLOP *** [5d 3h 3d]
+btn_clicking: checks 
+CocoLores17: bets 165
+btn_clicking: folds 
+Uncalled bet (165) returned to CocoLores17
+CocoLores17 collected 621 from pot
+CocoLores17: doesn't show hand 
+*** SUMMARY ***
+Total pot 621 | Rake 0 
+Board [5d 3h 3d]
+Seat 1: moortje333 folded before Flop
+Seat 2: DreamCatcher_BE folded before Flop (didn't bet)
+Seat 4: CocoLores17 collected (621)
+Seat 5: SCCPdk (button) folded before Flop (didn't bet)
+Seat 6: ollikahn23 (small blind) folded before Flop
+Seat 7: cubraka (big blind) folded before Flop
+Seat 8: SpieckerR folded before Flop (didn't bet)
+Seat 9: btn_clicking folded on the Flop
+
+
+
+PokerStars Hand #183521869852: Tournament #2242004059, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/07 16:16:43 ET
+Table '2242004059 6' 9-max Seat #6 is the button
+Seat 1: moortje333 (1292 in chips) 
+Seat 2: DreamCatcher_BE (1732 in chips) 
+Seat 4: CocoLores17 (2955 in chips) 
+Seat 5: SCCPdk (1380 in chips) 
+Seat 6: ollikahn23 (1439 in chips) 
+Seat 7: cubraka (1399 in chips) 
+Seat 8: SpieckerR (1466 in chips) 
+Seat 9: btn_clicking (594 in chips) 
+moortje333: posts the ante 4
+DreamCatcher_BE: posts the ante 4
+CocoLores17: posts the ante 4
+SCCPdk: posts the ante 4
+ollikahn23: posts the ante 4
+cubraka: posts the ante 4
+SpieckerR: posts the ante 4
+btn_clicking: posts the ante 4
+cubraka: posts small blind 15
+SpieckerR: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ks 4c]
+btn_clicking: folds 
+moortje333: folds 
+DreamCatcher_BE: raises 60 to 90
+CocoLores17: calls 90
+SCCPdk: folds 
+ollikahn23: folds 
+cubraka: folds 
+SpieckerR: calls 60
+*** FLOP *** [5d 9h 2c]
+SpieckerR: checks 
+DreamCatcher_BE: bets 143
+CocoLores17: calls 143
+SpieckerR: calls 143
+*** TURN *** [5d 9h 2c] [Qd]
+SpieckerR: checks 
+DreamCatcher_BE: bets 360
+CocoLores17: folds 
+SpieckerR: folds 
+Uncalled bet (360) returned to DreamCatcher_BE
+DreamCatcher_BE collected 746 from pot
+DreamCatcher_BE: doesn't show hand 
+*** SUMMARY ***
+Total pot 746 | Rake 0 
+Board [5d 9h 2c Qd]
+Seat 1: moortje333 folded before Flop (didn't bet)
+Seat 2: DreamCatcher_BE collected (746)
+Seat 4: CocoLores17 folded on the Turn
+Seat 5: SCCPdk folded before Flop (didn't bet)
+Seat 6: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 7: cubraka (small blind) folded before Flop
+Seat 8: SpieckerR (big blind) folded on the Turn
+Seat 9: btn_clicking folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183521923629: Tournament #2242004059, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/07 16:17:48 ET
+Table '2242004059 6' 9-max Seat #7 is the button
+Seat 1: moortje333 (1288 in chips) 
+Seat 2: DreamCatcher_BE (2241 in chips) 
+Seat 3: Einstein550 (1500 in chips) 
+Seat 4: CocoLores17 (2718 in chips) 
+Seat 5: SCCPdk (1376 in chips) 
+Seat 6: ollikahn23 (1435 in chips) 
+Seat 7: cubraka (1380 in chips) 
+Seat 8: SpieckerR (1229 in chips) 
+Seat 9: btn_clicking (590 in chips) 
+moortje333: posts the ante 4
+DreamCatcher_BE: posts the ante 4
+Einstein550: posts the ante 4
+CocoLores17: posts the ante 4
+SCCPdk: posts the ante 4
+ollikahn23: posts the ante 4
+cubraka: posts the ante 4
+SpieckerR: posts the ante 4
+btn_clicking: posts the ante 4
+SpieckerR: posts small blind 15
+btn_clicking: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9d 4s]
+moortje333: folds 
+DreamCatcher_BE: folds 
+Einstein550: folds 
+CocoLores17: raises 30 to 60
+SCCPdk: folds 
+ollikahn23: folds 
+cubraka: raises 120 to 180
+SpieckerR: folds 
+btn_clicking: folds 
+CocoLores17: folds 
+Uncalled bet (120) returned to cubraka
+cubraka collected 201 from pot
+cubraka: doesn't show hand 
+*** SUMMARY ***
+Total pot 201 | Rake 0 
+Seat 1: moortje333 folded before Flop (didn't bet)
+Seat 2: DreamCatcher_BE folded before Flop (didn't bet)
+Seat 3: Einstein550 folded before Flop (didn't bet)
+Seat 4: CocoLores17 folded before Flop
+Seat 5: SCCPdk folded before Flop (didn't bet)
+Seat 6: ollikahn23 folded before Flop (didn't bet)
+Seat 7: cubraka (button) collected (201)
+Seat 8: SpieckerR (small blind) folded before Flop
+Seat 9: btn_clicking (big blind) folded before Flop
+
+
+
+PokerStars Hand #183521965991: Tournament #2242004059, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/07 16:18:39 ET
+Table '2242004059 6' 9-max Seat #8 is the button
+Seat 1: moortje333 (1284 in chips) 
+Seat 2: DreamCatcher_BE (2237 in chips) 
+Seat 3: Einstein550 (1496 in chips) 
+Seat 4: CocoLores17 (2654 in chips) 
+Seat 5: SCCPdk (1372 in chips) 
+Seat 6: ollikahn23 (1431 in chips) 
+Seat 7: cubraka (1517 in chips) 
+Seat 8: SpieckerR (1210 in chips) 
+Seat 9: btn_clicking (556 in chips) 
+moortje333: posts the ante 4
+DreamCatcher_BE: posts the ante 4
+Einstein550: posts the ante 4
+CocoLores17: posts the ante 4
+SCCPdk: posts the ante 4
+ollikahn23: posts the ante 4
+cubraka: posts the ante 4
+SpieckerR: posts the ante 4
+btn_clicking: posts the ante 4
+btn_clicking: posts small blind 15
+moortje333: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jc 8h]
+DreamCatcher_BE: folds 
+Einstein550: folds 
+CocoLores17: raises 30 to 60
+SCCPdk: folds 
+ollikahn23: folds 
+cubraka: folds 
+SpieckerR: folds 
+btn_clicking: folds 
+moortje333: calls 30
+*** FLOP *** [8s 9d 2c]
+moortje333: checks 
+CocoLores17: checks 
+*** TURN *** [8s 9d 2c] [3d]
+moortje333: checks 
+CocoLores17: checks 
+*** RIVER *** [8s 9d 2c 3d] [4c]
+moortje333: bets 171
+CocoLores17: folds 
+Uncalled bet (171) returned to moortje333
+moortje333 collected 171 from pot
+*** SUMMARY ***
+Total pot 171 | Rake 0 
+Board [8s 9d 2c 3d 4c]
+Seat 1: moortje333 (big blind) collected (171)
+Seat 2: DreamCatcher_BE folded before Flop (didn't bet)
+Seat 3: Einstein550 folded before Flop (didn't bet)
+Seat 4: CocoLores17 folded on the River
+Seat 5: SCCPdk folded before Flop (didn't bet)
+Seat 6: ollikahn23 folded before Flop (didn't bet)
+Seat 7: cubraka folded before Flop (didn't bet)
+Seat 8: SpieckerR (button) folded before Flop (didn't bet)
+Seat 9: btn_clicking (small blind) folded before Flop
+
+
+
+PokerStars Hand #183522045280: Tournament #2242004059, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/07 16:20:14 ET
+Table '2242004059 6' 9-max Seat #9 is the button
+Seat 1: moortje333 (1391 in chips) 
+Seat 2: DreamCatcher_BE (2233 in chips) 
+Seat 3: Einstein550 (1492 in chips) 
+Seat 4: CocoLores17 (2590 in chips) 
+Seat 5: SCCPdk (1368 in chips) 
+Seat 6: ollikahn23 (1427 in chips) 
+Seat 7: cubraka (1513 in chips) 
+Seat 8: SpieckerR (1206 in chips) 
+Seat 9: btn_clicking (537 in chips) 
+moortje333: posts the ante 4
+DreamCatcher_BE: posts the ante 4
+Einstein550: posts the ante 4
+CocoLores17: posts the ante 4
+SCCPdk: posts the ante 4
+ollikahn23: posts the ante 4
+cubraka: posts the ante 4
+SpieckerR: posts the ante 4
+btn_clicking: posts the ante 4
+moortje333: posts small blind 15
+DreamCatcher_BE: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ad 4h]
+Einstein550: folds 
+CocoLores17: folds 
+SCCPdk: folds 
+ollikahn23: folds 
+cubraka: folds 
+SpieckerR: raises 39 to 69
+btn_clicking: folds 
+moortje333: calls 54
+DreamCatcher_BE: folds 
+*** FLOP *** [Kc Jd Qs]
+moortje333: checks 
+SpieckerR: checks 
+*** TURN *** [Kc Jd Qs] [Jc]
+moortje333: checks 
+SpieckerR: checks 
+*** RIVER *** [Kc Jd Qs Jc] [Ac]
+moortje333: checks 
+SpieckerR: bets 116
+moortje333: folds 
+Uncalled bet (116) returned to SpieckerR
+SpieckerR collected 204 from pot
+*** SUMMARY ***
+Total pot 204 | Rake 0 
+Board [Kc Jd Qs Jc Ac]
+Seat 1: moortje333 (small blind) folded on the River
+Seat 2: DreamCatcher_BE (big blind) folded before Flop
+Seat 3: Einstein550 folded before Flop (didn't bet)
+Seat 4: CocoLores17 folded before Flop (didn't bet)
+Seat 5: SCCPdk folded before Flop (didn't bet)
+Seat 6: ollikahn23 folded before Flop (didn't bet)
+Seat 7: cubraka folded before Flop (didn't bet)
+Seat 8: SpieckerR collected (204)
+Seat 9: btn_clicking (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183522097123: Tournament #2242004059, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/07 16:21:16 ET
+Table '2242004059 6' 9-max Seat #1 is the button
+Seat 1: moortje333 (1318 in chips) 
+Seat 2: DreamCatcher_BE (2199 in chips) 
+Seat 3: Einstein550 (1488 in chips) 
+Seat 4: CocoLores17 (2586 in chips) 
+Seat 5: SCCPdk (1364 in chips) 
+Seat 6: ollikahn23 (1423 in chips) 
+Seat 7: cubraka (1509 in chips) 
+Seat 8: SpieckerR (1337 in chips) 
+Seat 9: btn_clicking (533 in chips) 
+moortje333: posts the ante 4
+DreamCatcher_BE: posts the ante 4
+Einstein550: posts the ante 4
+CocoLores17: posts the ante 4
+SCCPdk: posts the ante 4
+ollikahn23: posts the ante 4
+cubraka: posts the ante 4
+SpieckerR: posts the ante 4
+btn_clicking: posts the ante 4
+DreamCatcher_BE: posts small blind 15
+Einstein550: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7c 3s]
+CocoLores17: folds 
+SCCPdk: folds 
+ollikahn23: folds 
+cubraka: folds 
+SpieckerR: folds 
+btn_clicking: folds 
+moortje333: raises 60 to 90
+DreamCatcher_BE: folds 
+Einstein550: folds 
+Uncalled bet (60) returned to moortje333
+moortje333 collected 111 from pot
+*** SUMMARY ***
+Total pot 111 | Rake 0 
+Seat 1: moortje333 (button) collected (111)
+Seat 2: DreamCatcher_BE (small blind) folded before Flop
+Seat 3: Einstein550 (big blind) folded before Flop
+Seat 4: CocoLores17 folded before Flop (didn't bet)
+Seat 5: SCCPdk folded before Flop (didn't bet)
+Seat 6: ollikahn23 folded before Flop (didn't bet)
+Seat 7: cubraka folded before Flop (didn't bet)
+Seat 8: SpieckerR folded before Flop (didn't bet)
+Seat 9: btn_clicking folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183522118938: Tournament #2242004059, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/07 16:21:40 ET
+Table '2242004059 6' 9-max Seat #2 is the button
+Seat 1: moortje333 (1395 in chips) 
+Seat 2: DreamCatcher_BE (2180 in chips) 
+Seat 3: Einstein550 (1454 in chips) 
+Seat 4: CocoLores17 (2582 in chips) 
+Seat 5: SCCPdk (1360 in chips) 
+Seat 6: ollikahn23 (1419 in chips) 
+Seat 7: cubraka (1505 in chips) 
+Seat 8: SpieckerR (1333 in chips) 
+Seat 9: btn_clicking (529 in chips) 
+moortje333: posts the ante 4
+DreamCatcher_BE: posts the ante 4
+Einstein550: posts the ante 4
+CocoLores17: posts the ante 4
+SCCPdk: posts the ante 4
+ollikahn23: posts the ante 4
+cubraka: posts the ante 4
+SpieckerR: posts the ante 4
+btn_clicking: posts the ante 4
+Einstein550: posts small blind 15
+CocoLores17: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4c Ks]
+SCCPdk: folds 
+ollikahn23: folds 
+cubraka: folds 
+SpieckerR: raises 45 to 75
+btn_clicking: folds 
+moortje333: folds 
+DreamCatcher_BE: folds 
+Einstein550: folds 
+CocoLores17: folds 
+Uncalled bet (45) returned to SpieckerR
+SpieckerR collected 111 from pot
+*** SUMMARY ***
+Total pot 111 | Rake 0 
+Seat 1: moortje333 folded before Flop (didn't bet)
+Seat 2: DreamCatcher_BE (button) folded before Flop (didn't bet)
+Seat 3: Einstein550 (small blind) folded before Flop
+Seat 4: CocoLores17 (big blind) folded before Flop
+Seat 5: SCCPdk folded before Flop (didn't bet)
+Seat 6: ollikahn23 folded before Flop (didn't bet)
+Seat 7: cubraka folded before Flop (didn't bet)
+Seat 8: SpieckerR collected (111)
+Seat 9: btn_clicking folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183522154093: Tournament #2242004059, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/07 16:22:23 ET
+Table '2242004059 6' 9-max Seat #3 is the button
+Seat 1: moortje333 (1391 in chips) 
+Seat 2: DreamCatcher_BE (2176 in chips) 
+Seat 3: Einstein550 (1435 in chips) 
+Seat 4: CocoLores17 (2548 in chips) 
+Seat 5: SCCPdk (1356 in chips) 
+Seat 6: ollikahn23 (1415 in chips) 
+Seat 7: cubraka (1501 in chips) 
+Seat 9: btn_clicking (525 in chips) 
+moortje333: posts the ante 4
+DreamCatcher_BE: posts the ante 4
+Einstein550: posts the ante 4
+CocoLores17: posts the ante 4
+SCCPdk: posts the ante 4
+ollikahn23: posts the ante 4
+cubraka: posts the ante 4
+btn_clicking: posts the ante 4
+CocoLores17: posts small blind 15
+SCCPdk: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7d Ts]
+ollikahn23: folds 
+cubraka: raises 30 to 60
+btn_clicking: folds 
+moortje333: folds 
+DreamCatcher_BE: raises 120 to 180
+Einstein550: folds 
+CocoLores17: folds 
+SCCPdk: folds 
+cubraka: calls 120
+*** FLOP *** [8h 6c 8c]
+cubraka: checks 
+DreamCatcher_BE: checks 
+*** TURN *** [8h 6c 8c] [Qc]
+cubraka: checks 
+DreamCatcher_BE: checks 
+*** RIVER *** [8h 6c 8c Qc] [6d]
+cubraka: checks 
+DreamCatcher_BE: checks 
+*** SHOW DOWN ***
+cubraka: shows [Jd Kc] (two pair, Eights and Sixes)
+DreamCatcher_BE: shows [2d Ad] (two pair, Eights and Sixes - Ace kicker)
+DreamCatcher_BE collected 437 from pot
+*** SUMMARY ***
+Total pot 437 | Rake 0 
+Board [8h 6c 8c Qc 6d]
+Seat 1: moortje333 folded before Flop (didn't bet)
+Seat 2: DreamCatcher_BE showed [2d Ad] and won (437) with two pair, Eights and Sixes
+Seat 3: Einstein550 (button) folded before Flop (didn't bet)
+Seat 4: CocoLores17 (small blind) folded before Flop
+Seat 5: SCCPdk (big blind) folded before Flop
+Seat 6: ollikahn23 folded before Flop (didn't bet)
+Seat 7: cubraka showed [Jd Kc] and lost with two pair, Eights and Sixes
+Seat 9: btn_clicking folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183522241770: Tournament #2242004059, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/07 16:24:08 ET
+Table '2242004059 6' 9-max Seat #4 is the button
+Seat 1: moortje333 (1387 in chips) 
+Seat 2: DreamCatcher_BE (2429 in chips) 
+Seat 3: Einstein550 (1431 in chips) 
+Seat 4: CocoLores17 (2529 in chips) 
+Seat 5: SCCPdk (1322 in chips) 
+Seat 6: ollikahn23 (1411 in chips) 
+Seat 7: cubraka (1317 in chips) 
+Seat 9: btn_clicking (521 in chips) 
+moortje333: posts the ante 4
+DreamCatcher_BE: posts the ante 4
+Einstein550: posts the ante 4
+CocoLores17: posts the ante 4
+SCCPdk: posts the ante 4
+ollikahn23: posts the ante 4
+cubraka: posts the ante 4
+btn_clicking: posts the ante 4
+SCCPdk: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8s Kc]
+cubraka: folds 
+btn_clicking: folds 
+moortje333: folds 
+DreamCatcher_BE: folds 
+Einstein550: folds 
+CocoLores17: raises 30 to 60
+SCCPdk: folds 
+ollikahn23: folds 
+Uncalled bet (30) returned to CocoLores17
+CocoLores17 collected 107 from pot
+CocoLores17: doesn't show hand 
+*** SUMMARY ***
+Total pot 107 | Rake 0 
+Seat 1: moortje333 folded before Flop (didn't bet)
+Seat 2: DreamCatcher_BE folded before Flop (didn't bet)
+Seat 3: Einstein550 folded before Flop (didn't bet)
+Seat 4: CocoLores17 (button) collected (107)
+Seat 5: SCCPdk (small blind) folded before Flop
+Seat 6: ollikahn23 (big blind) folded before Flop
+Seat 7: cubraka folded before Flop (didn't bet)
+Seat 9: btn_clicking folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183522294079: Tournament #2242004059, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/03/07 16:25:10 ET
+Table '2242004059 6' 9-max Seat #5 is the button
+Seat 1: moortje333 (1383 in chips) 
+Seat 2: DreamCatcher_BE (2425 in chips) 
+Seat 3: Einstein550 (1427 in chips) 
+Seat 4: CocoLores17 (2602 in chips) 
+Seat 5: SCCPdk (1303 in chips) 
+Seat 6: ollikahn23 (1377 in chips) 
+Seat 7: cubraka (1313 in chips) 
+Seat 9: btn_clicking (517 in chips) 
+moortje333: posts the ante 6
+DreamCatcher_BE: posts the ante 6
+Einstein550: posts the ante 6
+CocoLores17: posts the ante 6
+SCCPdk: posts the ante 6
+ollikahn23: posts the ante 6
+cubraka: posts the ante 6
+btn_clicking: posts the ante 6
+ollikahn23: posts small blind 25
+cubraka: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9h 4c]
+btn_clicking: folds 
+moortje333: folds 
+DreamCatcher_BE: folds 
+Einstein550: folds 
+CocoLores17: folds 
+SCCPdk: folds 
+ollikahn23: folds 
+Uncalled bet (25) returned to cubraka
+cubraka collected 98 from pot
+cubraka: doesn't show hand 
+*** SUMMARY ***
+Total pot 98 | Rake 0 
+Seat 1: moortje333 folded before Flop (didn't bet)
+Seat 2: DreamCatcher_BE folded before Flop (didn't bet)
+Seat 3: Einstein550 folded before Flop (didn't bet)
+Seat 4: CocoLores17 folded before Flop (didn't bet)
+Seat 5: SCCPdk (button) folded before Flop (didn't bet)
+Seat 6: ollikahn23 (small blind) folded before Flop
+Seat 7: cubraka (big blind) collected (98)
+Seat 9: btn_clicking folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183522340184: Tournament #2242004059, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/03/07 16:26:06 ET
+Table '2242004059 6' 9-max Seat #6 is the button
+Seat 1: moortje333 (1377 in chips) 
+Seat 2: DreamCatcher_BE (2419 in chips) 
+Seat 3: Einstein550 (1421 in chips) 
+Seat 4: CocoLores17 (2596 in chips) 
+Seat 5: SCCPdk (1297 in chips) 
+Seat 6: ollikahn23 (1346 in chips) 
+Seat 7: cubraka (1380 in chips) 
+Seat 8: Strife240 (1500 in chips) 
+moortje333: posts the ante 6
+DreamCatcher_BE: posts the ante 6
+Einstein550: posts the ante 6
+CocoLores17: posts the ante 6
+SCCPdk: posts the ante 6
+ollikahn23: posts the ante 6
+cubraka: posts the ante 6
+Strife240: posts the ante 6
+cubraka: posts small blind 25
+Strife240: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7s 6c]
+moortje333: folds 
+DreamCatcher_BE: folds 
+Einstein550: raises 75 to 125
+CocoLores17: folds 
+SCCPdk: folds 
+ollikahn23: folds 
+cubraka: raises 175 to 300
+Strife240: folds 
+Einstein550: raises 1115 to 1415 and is all-in
+cubraka: calls 1074 and is all-in
+Uncalled bet (41) returned to Einstein550
+*** FLOP *** [Jd Kc 5h]
+*** TURN *** [Jd Kc 5h] [Qd]
+*** RIVER *** [Jd Kc 5h Qd] [Kd]
+*** SHOW DOWN ***
+cubraka: shows [Qh Qs] (a full house, Queens full of Kings)
+Einstein550: shows [8c 8s] (two pair, Kings and Eights)
+cubraka collected 2846 from pot
+*** SUMMARY ***
+Total pot 2846 | Rake 0 
+Board [Jd Kc 5h Qd Kd]
+Seat 1: moortje333 folded before Flop (didn't bet)
+Seat 2: DreamCatcher_BE folded before Flop (didn't bet)
+Seat 3: Einstein550 showed [8c 8s] and lost with two pair, Kings and Eights
+Seat 4: CocoLores17 folded before Flop (didn't bet)
+Seat 5: SCCPdk folded before Flop (didn't bet)
+Seat 6: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 7: cubraka (small blind) showed [Qh Qs] and won (2846) with a full house, Queens full of Kings
+Seat 8: Strife240 (big blind) folded before Flop
+
+
+
+PokerStars Hand #183522388235: Tournament #2242004059, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/03/07 16:27:04 ET
+Table '2242004059 6' 9-max Seat #7 is the button
+Seat 1: moortje333 (1371 in chips) 
+Seat 2: DreamCatcher_BE (2413 in chips) 
+Seat 3: Einstein550 (41 in chips) 
+Seat 4: CocoLores17 (2590 in chips) 
+Seat 5: SCCPdk (1291 in chips) 
+Seat 6: ollikahn23 (1340 in chips) 
+Seat 7: cubraka (2846 in chips) 
+Seat 8: Strife240 (1444 in chips) 
+moortje333: posts the ante 6
+DreamCatcher_BE: posts the ante 6
+Einstein550: posts the ante 6
+CocoLores17: posts the ante 6
+SCCPdk: posts the ante 6
+ollikahn23: posts the ante 6
+cubraka: posts the ante 6
+Strife240: posts the ante 6
+Strife240: posts small blind 25
+moortje333: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3c 7c]
+DreamCatcher_BE: raises 100 to 150
+Einstein550: calls 35 and is all-in
+CocoLores17: folds 
+SCCPdk: folds 
+ollikahn23: folds 
+cubraka: folds 
+Strife240: folds 
+moortje333: folds 
+Uncalled bet (100) returned to DreamCatcher_BE
+*** FLOP *** [4h 8s Ac]
+*** TURN *** [4h 8s Ac] [4c]
+*** RIVER *** [4h 8s Ac 4c] [Jc]
+*** SHOW DOWN ***
+DreamCatcher_BE: shows [Ah 8h] (two pair, Aces and Eights)
+DreamCatcher_BE collected 30 from side pot
+Einstein550: shows [Qd Qs] (two pair, Queens and Fours)
+DreamCatcher_BE collected 178 from main pot
+Einstein550 finished the tournament
+*** SUMMARY ***
+Total pot 208 Main pot 178. Side pot 30. | Rake 0 
+Board [4h 8s Ac 4c Jc]
+Seat 1: moortje333 (big blind) folded before Flop
+Seat 2: DreamCatcher_BE showed [Ah 8h] and won (208) with two pair, Aces and Eights
+Seat 3: Einstein550 showed [Qd Qs] and lost with two pair, Queens and Fours
+Seat 4: CocoLores17 folded before Flop (didn't bet)
+Seat 5: SCCPdk folded before Flop (didn't bet)
+Seat 6: ollikahn23 folded before Flop (didn't bet)
+Seat 7: cubraka (button) folded before Flop (didn't bet)
+Seat 8: Strife240 (small blind) folded before Flop
+
+
+
+PokerStars Hand #183522418525: Tournament #2242004059, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/03/07 16:27:41 ET
+Table '2242004059 6' 9-max Seat #8 is the button
+Seat 1: moortje333 (1315 in chips) 
+Seat 2: DreamCatcher_BE (2565 in chips) 
+Seat 4: CocoLores17 (2584 in chips) 
+Seat 5: SCCPdk (1285 in chips) 
+Seat 6: ollikahn23 (1334 in chips) 
+Seat 7: cubraka (2840 in chips) 
+Seat 8: Strife240 (1413 in chips) 
+moortje333: posts the ante 6
+DreamCatcher_BE: posts the ante 6
+CocoLores17: posts the ante 6
+SCCPdk: posts the ante 6
+ollikahn23: posts the ante 6
+cubraka: posts the ante 6
+Strife240: posts the ante 6
+moortje333: posts small blind 25
+DreamCatcher_BE: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ks 4d]
+CocoLores17: folds 
+SCCPdk: folds 
+ollikahn23: folds 
+cubraka: folds 
+Strife240: folds 
+moortje333: raises 100 to 150
+DreamCatcher_BE: raises 2409 to 2559 and is all-in
+moortje333: calls 1159 and is all-in
+Uncalled bet (1250) returned to DreamCatcher_BE
+*** FLOP *** [Ac 2h 6c]
+*** TURN *** [Ac 2h 6c] [Kc]
+*** RIVER *** [Ac 2h 6c Kc] [2c]
+*** SHOW DOWN ***
+moortje333: shows [As Qd] (two pair, Aces and Deuces)
+DreamCatcher_BE: shows [9s Ah] (two pair, Aces and Deuces)
+moortje333 collected 1330 from pot
+DreamCatcher_BE collected 1330 from pot
+*** SUMMARY ***
+Total pot 2660 | Rake 0 
+Board [Ac 2h 6c Kc 2c]
+Seat 1: moortje333 (small blind) showed [As Qd] and won (1330) with two pair, Aces and Deuces
+Seat 2: DreamCatcher_BE (big blind) showed [9s Ah] and won (1330) with two pair, Aces and Deuces
+Seat 4: CocoLores17 folded before Flop (didn't bet)
+Seat 5: SCCPdk folded before Flop (didn't bet)
+Seat 6: ollikahn23 folded before Flop (didn't bet)
+Seat 7: cubraka folded before Flop (didn't bet)
+Seat 8: Strife240 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183522455206: Tournament #2242004059, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/03/07 16:28:26 ET
+Table '2242004059 6' 9-max Seat #1 is the button
+Seat 1: moortje333 (1330 in chips) 
+Seat 2: DreamCatcher_BE (2580 in chips) 
+Seat 3: guccichris (1500 in chips) 
+Seat 4: CocoLores17 (2578 in chips) 
+Seat 5: SCCPdk (1279 in chips) 
+Seat 6: ollikahn23 (1328 in chips) 
+Seat 7: cubraka (2834 in chips) 
+Seat 8: Strife240 (1407 in chips) 
+moortje333: posts the ante 6
+DreamCatcher_BE: posts the ante 6
+guccichris: posts the ante 6
+CocoLores17: posts the ante 6
+SCCPdk: posts the ante 6
+ollikahn23: posts the ante 6
+cubraka: posts the ante 6
+Strife240: posts the ante 6
+DreamCatcher_BE: posts small blind 25
+guccichris: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9h Tc]
+CocoLores17: folds 
+SCCPdk: folds 
+ollikahn23: folds 
+cubraka: raises 50 to 100
+Strife240: folds 
+moortje333: folds 
+DreamCatcher_BE: folds 
+guccichris: calls 50
+*** FLOP *** [Qh Td 2d]
+guccichris: checks 
+cubraka: bets 137
+guccichris: folds 
+Uncalled bet (137) returned to cubraka
+cubraka collected 273 from pot
+cubraka: doesn't show hand 
+*** SUMMARY ***
+Total pot 273 | Rake 0 
+Board [Qh Td 2d]
+Seat 1: moortje333 (button) folded before Flop (didn't bet)
+Seat 2: DreamCatcher_BE (small blind) folded before Flop
+Seat 3: guccichris (big blind) folded on the Flop
+Seat 4: CocoLores17 folded before Flop (didn't bet)
+Seat 5: SCCPdk folded before Flop (didn't bet)
+Seat 6: ollikahn23 folded before Flop (didn't bet)
+Seat 7: cubraka collected (273)
+Seat 8: Strife240 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183522502497: Tournament #2242004059, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/03/07 16:29:23 ET
+Table '2242004059 6' 9-max Seat #2 is the button
+Seat 1: moortje333 (1324 in chips) 
+Seat 2: DreamCatcher_BE (2549 in chips) 
+Seat 3: guccichris (1394 in chips) 
+Seat 4: CocoLores17 (2572 in chips) 
+Seat 5: SCCPdk (1273 in chips) 
+Seat 6: ollikahn23 (1322 in chips) 
+Seat 7: cubraka (3001 in chips) 
+Seat 8: Strife240 (1401 in chips) 
+moortje333: posts the ante 6
+DreamCatcher_BE: posts the ante 6
+guccichris: posts the ante 6
+CocoLores17: posts the ante 6
+SCCPdk: posts the ante 6
+ollikahn23: posts the ante 6
+cubraka: posts the ante 6
+Strife240: posts the ante 6
+guccichris: posts small blind 25
+CocoLores17: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9h 5d]
+SCCPdk: folds 
+ollikahn23: folds 
+cubraka: folds 
+Strife240: folds 
+moortje333: folds 
+DreamCatcher_BE: raises 75 to 125
+guccichris: folds 
+CocoLores17: calls 75
+*** FLOP *** [Td Jh 7c]
+CocoLores17: checks 
+DreamCatcher_BE: bets 216
+CocoLores17: calls 216
+*** TURN *** [Td Jh 7c] [3d]
+CocoLores17: checks 
+DreamCatcher_BE: bets 340
+CocoLores17: folds 
+Uncalled bet (340) returned to DreamCatcher_BE
+DreamCatcher_BE collected 755 from pot
+DreamCatcher_BE: doesn't show hand 
+*** SUMMARY ***
+Total pot 755 | Rake 0 
+Board [Td Jh 7c 3d]
+Seat 1: moortje333 folded before Flop (didn't bet)
+Seat 2: DreamCatcher_BE (button) collected (755)
+Seat 3: guccichris (small blind) folded before Flop
+Seat 4: CocoLores17 (big blind) folded on the Turn
+Seat 5: SCCPdk folded before Flop (didn't bet)
+Seat 6: ollikahn23 folded before Flop (didn't bet)
+Seat 7: cubraka folded before Flop (didn't bet)
+Seat 8: Strife240 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183522557710: Tournament #2242004059, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/03/07 16:30:30 ET
+Table '2242004059 6' 9-max Seat #3 is the button
+Seat 1: moortje333 (1318 in chips) 
+Seat 2: DreamCatcher_BE (2957 in chips) 
+Seat 3: guccichris (1363 in chips) 
+Seat 4: CocoLores17 (2225 in chips) 
+Seat 5: SCCPdk (1267 in chips) 
+Seat 6: ollikahn23 (1316 in chips) 
+Seat 7: cubraka (2995 in chips) 
+Seat 8: Strife240 (1395 in chips) 
+moortje333: posts the ante 6
+DreamCatcher_BE: posts the ante 6
+guccichris: posts the ante 6
+CocoLores17: posts the ante 6
+SCCPdk: posts the ante 6
+ollikahn23: posts the ante 6
+cubraka: posts the ante 6
+Strife240: posts the ante 6
+CocoLores17: posts small blind 25
+SCCPdk: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2d 4c]
+ollikahn23: folds 
+cubraka: folds 
+Strife240: folds 
+moortje333: folds 
+DreamCatcher_BE: folds 
+guccichris: calls 50
+CocoLores17: raises 175 to 225
+SCCPdk: folds 
+guccichris: calls 175
+*** FLOP *** [7h 7d Td]
+CocoLores17: bets 181
+guccichris: calls 181
+*** TURN *** [7h 7d Td] [Ac]
+CocoLores17: bets 375
+guccichris: calls 375
+*** RIVER *** [7h 7d Td Ac] [3s]
+CocoLores17: bets 1438 and is all-in
+guccichris: calls 576 and is all-in
+Uncalled bet (862) returned to CocoLores17
+*** SHOW DOWN ***
+CocoLores17: shows [Qc Jc] (a pair of Sevens)
+guccichris: shows [Ad 9d] (two pair, Aces and Sevens)
+guccichris collected 2812 from pot
+*** SUMMARY ***
+Total pot 2812 | Rake 0 
+Board [7h 7d Td Ac 3s]
+Seat 1: moortje333 folded before Flop (didn't bet)
+Seat 2: DreamCatcher_BE folded before Flop (didn't bet)
+Seat 3: guccichris (button) showed [Ad 9d] and won (2812) with two pair, Aces and Sevens
+Seat 4: CocoLores17 (small blind) showed [Qc Jc] and lost with a pair of Sevens
+Seat 5: SCCPdk (big blind) folded before Flop
+Seat 6: ollikahn23 folded before Flop (didn't bet)
+Seat 7: cubraka folded before Flop (didn't bet)
+Seat 8: Strife240 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183522614006: Tournament #2242004059, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/03/07 16:31:38 ET
+Table '2242004059 6' 9-max Seat #4 is the button
+Seat 1: moortje333 (1312 in chips) 
+Seat 2: DreamCatcher_BE (2951 in chips) 
+Seat 3: guccichris (2812 in chips) 
+Seat 4: CocoLores17 (862 in chips) 
+Seat 5: SCCPdk (1211 in chips) 
+Seat 6: ollikahn23 (1310 in chips) 
+Seat 7: cubraka (2989 in chips) 
+Seat 8: Strife240 (1389 in chips) 
+moortje333: posts the ante 6
+DreamCatcher_BE: posts the ante 6
+guccichris: posts the ante 6
+CocoLores17: posts the ante 6
+SCCPdk: posts the ante 6
+ollikahn23: posts the ante 6
+cubraka: posts the ante 6
+Strife240: posts the ante 6
+SCCPdk: posts small blind 25
+ollikahn23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2s 9c]
+cubraka: raises 50 to 100
+Strife240: folds 
+moortje333: raises 200 to 300
+DreamCatcher_BE: folds 
+guccichris: folds 
+CocoLores17: folds 
+SCCPdk: folds 
+ollikahn23: folds 
+cubraka: calls 200
+*** FLOP *** [7d 5c 2h]
+cubraka: checks 
+moortje333: bets 450
+cubraka: folds 
+Uncalled bet (450) returned to moortje333
+moortje333 collected 723 from pot
+*** SUMMARY ***
+Total pot 723 | Rake 0 
+Board [7d 5c 2h]
+Seat 1: moortje333 collected (723)
+Seat 2: DreamCatcher_BE folded before Flop (didn't bet)
+Seat 3: guccichris folded before Flop (didn't bet)
+Seat 4: CocoLores17 (button) folded before Flop (didn't bet)
+Seat 5: SCCPdk (small blind) folded before Flop
+Seat 6: ollikahn23 (big blind) folded before Flop
+Seat 7: cubraka folded on the Flop
+Seat 8: Strife240 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183522660665: Tournament #2242004059, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/03/07 16:32:36 ET
+Table '2242004059 6' 9-max Seat #5 is the button
+Seat 1: moortje333 (1729 in chips) 
+Seat 2: DreamCatcher_BE (2945 in chips) 
+Seat 3: guccichris (2806 in chips) 
+Seat 4: CocoLores17 (856 in chips) 
+Seat 5: SCCPdk (1180 in chips) 
+Seat 6: ollikahn23 (1254 in chips) 
+Seat 7: cubraka (2683 in chips) 
+Seat 8: Strife240 (1383 in chips) 
+Seat 9: kartrid (3182 in chips) 
+moortje333: posts the ante 6
+DreamCatcher_BE: posts the ante 6
+guccichris: posts the ante 6
+CocoLores17: posts the ante 6
+SCCPdk: posts the ante 6
+ollikahn23: posts the ante 6
+cubraka: posts the ante 6
+Strife240: posts the ante 6
+kartrid: posts the ante 6
+ollikahn23: posts small blind 25
+cubraka: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2s Tc]
+Strife240: folds 
+kartrid: folds 
+moortje333: raises 100 to 150
+DreamCatcher_BE: folds 
+guccichris: folds 
+CocoLores17: folds 
+SCCPdk: folds 
+ollikahn23: folds 
+cubraka: calls 100
+*** FLOP *** [Jd 3c 8c]
+cubraka: checks 
+moortje333: checks 
+*** TURN *** [Jd 3c 8c] [Jh]
+cubraka: checks 
+moortje333: checks 
+*** RIVER *** [Jd 3c 8c Jh] [3h]
+cubraka: checks 
+moortje333: bets 1573 and is all-in
+cubraka: folds 
+Uncalled bet (1573) returned to moortje333
+moortje333 collected 379 from pot
+*** SUMMARY ***
+Total pot 379 | Rake 0 
+Board [Jd 3c 8c Jh 3h]
+Seat 1: moortje333 collected (379)
+Seat 2: DreamCatcher_BE folded before Flop (didn't bet)
+Seat 3: guccichris folded before Flop (didn't bet)
+Seat 4: CocoLores17 folded before Flop (didn't bet)
+Seat 5: SCCPdk (button) folded before Flop (didn't bet)
+Seat 6: ollikahn23 (small blind) folded before Flop
+Seat 7: cubraka (big blind) folded on the River
+Seat 8: Strife240 folded before Flop (didn't bet)
+Seat 9: kartrid folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183522715014: Tournament #2242004059, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/03/07 16:33:44 ET
+Table '2242004059 6' 9-max Seat #6 is the button
+Seat 1: moortje333 (1952 in chips) 
+Seat 2: DreamCatcher_BE (2939 in chips) 
+Seat 3: guccichris (2800 in chips) 
+Seat 4: CocoLores17 (850 in chips) 
+Seat 5: SCCPdk (1174 in chips) 
+Seat 6: ollikahn23 (1223 in chips) 
+Seat 7: cubraka (2527 in chips) 
+Seat 8: Strife240 (1377 in chips) 
+Seat 9: kartrid (3176 in chips) 
+moortje333: posts the ante 6
+DreamCatcher_BE: posts the ante 6
+guccichris: posts the ante 6
+CocoLores17: posts the ante 6
+SCCPdk: posts the ante 6
+ollikahn23: posts the ante 6
+cubraka: posts the ante 6
+Strife240: posts the ante 6
+kartrid: posts the ante 6
+cubraka: posts small blind 25
+Strife240: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qs 9c]
+kartrid: folds 
+moortje333: folds 
+DreamCatcher_BE: folds 
+guccichris: folds 
+CocoLores17: folds 
+SCCPdk: folds 
+ollikahn23: folds 
+cubraka: calls 25
+Strife240: checks 
+*** FLOP *** [Ad 8s 3c]
+cubraka: bets 77
+Strife240: folds 
+Uncalled bet (77) returned to cubraka
+cubraka collected 154 from pot
+cubraka: doesn't show hand 
+*** SUMMARY ***
+Total pot 154 | Rake 0 
+Board [Ad 8s 3c]
+Seat 1: moortje333 folded before Flop (didn't bet)
+Seat 2: DreamCatcher_BE folded before Flop (didn't bet)
+Seat 3: guccichris folded before Flop (didn't bet)
+Seat 4: CocoLores17 folded before Flop (didn't bet)
+Seat 5: SCCPdk folded before Flop (didn't bet)
+Seat 6: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 7: cubraka (small blind) collected (154)
+Seat 8: Strife240 (big blind) folded on the Flop
+Seat 9: kartrid folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183522762223: Tournament #2242004059, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/03/07 16:34:31 ET
+Table '2242004059 6' 9-max Seat #7 is the button
+Seat 1: moortje333 (1946 in chips) 
+Seat 2: DreamCatcher_BE (2933 in chips) 
+Seat 3: guccichris (2794 in chips) 
+Seat 4: CocoLores17 (844 in chips) 
+Seat 5: SCCPdk (1168 in chips) 
+Seat 6: ollikahn23 (1217 in chips) 
+Seat 7: cubraka (2625 in chips) 
+Seat 8: Strife240 (1321 in chips) 
+Seat 9: kartrid (3170 in chips) 
+moortje333: posts the ante 6
+DreamCatcher_BE: posts the ante 6
+guccichris: posts the ante 6
+CocoLores17: posts the ante 6
+SCCPdk: posts the ante 6
+ollikahn23: posts the ante 6
+cubraka: posts the ante 6
+Strife240: posts the ante 6
+kartrid: posts the ante 6
+Strife240: posts small blind 25
+kartrid: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qh 3d]
+moortje333: folds 
+DreamCatcher_BE: raises 100 to 150
+guccichris: folds 
+CocoLores17: folds 
+SCCPdk: folds 
+ollikahn23: folds 
+cubraka: folds 
+Strife240: calls 125
+kartrid has timed out
+kartrid: folds 
+*** FLOP *** [Tc 4d 7d]
+kartrid is sitting out
+Strife240: checks 
+kartrid has returned
+DreamCatcher_BE: bets 200
+Strife240: calls 200
+*** TURN *** [Tc 4d 7d] [Ts]
+Strife240: checks 
+DreamCatcher_BE: checks 
+*** RIVER *** [Tc 4d 7d Ts] [9s]
+Strife240: bets 400
+DreamCatcher_BE: folds 
+Uncalled bet (400) returned to Strife240
+Strife240 collected 804 from pot
+Strife240: doesn't show hand 
+*** SUMMARY ***
+Total pot 804 | Rake 0 
+Board [Tc 4d 7d Ts 9s]
+Seat 1: moortje333 folded before Flop (didn't bet)
+Seat 2: DreamCatcher_BE folded on the River
+Seat 3: guccichris folded before Flop (didn't bet)
+Seat 4: CocoLores17 folded before Flop (didn't bet)
+Seat 5: SCCPdk folded before Flop (didn't bet)
+Seat 6: ollikahn23 folded before Flop (didn't bet)
+Seat 7: cubraka (button) folded before Flop (didn't bet)
+Seat 8: Strife240 (small blind) collected (804)
+Seat 9: kartrid (big blind) folded before Flop
+
+
+
+PokerStars Hand #183522832562: Tournament #2242004059, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/03/07 16:35:59 ET
+Table '2242004059 6' 9-max Seat #8 is the button
+Seat 1: moortje333 (1940 in chips) 
+Seat 2: DreamCatcher_BE (2577 in chips) 
+Seat 3: guccichris (2788 in chips) 
+Seat 4: CocoLores17 (838 in chips) 
+Seat 5: SCCPdk (1162 in chips) 
+Seat 6: ollikahn23 (1211 in chips) 
+Seat 7: cubraka (2619 in chips) 
+Seat 8: Strife240 (1769 in chips) 
+Seat 9: kartrid (3114 in chips) 
+moortje333: posts the ante 6
+DreamCatcher_BE: posts the ante 6
+guccichris: posts the ante 6
+CocoLores17: posts the ante 6
+SCCPdk: posts the ante 6
+ollikahn23: posts the ante 6
+cubraka: posts the ante 6
+Strife240: posts the ante 6
+kartrid: posts the ante 6
+kartrid: posts small blind 25
+moortje333: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kc 5c]
+DreamCatcher_BE: folds 
+guccichris: folds 
+CocoLores17: folds 
+SCCPdk: folds 
+ollikahn23: folds 
+cubraka: folds 
+Strife240: folds 
+kartrid: folds 
+Uncalled bet (25) returned to moortje333
+moortje333 collected 104 from pot
+*** SUMMARY ***
+Total pot 104 | Rake 0 
+Seat 1: moortje333 (big blind) collected (104)
+Seat 2: DreamCatcher_BE folded before Flop (didn't bet)
+Seat 3: guccichris folded before Flop (didn't bet)
+Seat 4: CocoLores17 folded before Flop (didn't bet)
+Seat 5: SCCPdk folded before Flop (didn't bet)
+Seat 6: ollikahn23 folded before Flop (didn't bet)
+Seat 7: cubraka folded before Flop (didn't bet)
+Seat 8: Strife240 (button) folded before Flop (didn't bet)
+Seat 9: kartrid (small blind) folded before Flop
+
+
+
+PokerStars Hand #183522854927: Tournament #2242004059, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/03/07 16:36:28 ET
+Table '2242004059 6' 9-max Seat #9 is the button
+Seat 1: moortje333 (2013 in chips) 
+Seat 2: DreamCatcher_BE (2571 in chips) 
+Seat 3: guccichris (2782 in chips) 
+Seat 4: CocoLores17 (832 in chips) 
+Seat 5: SCCPdk (1156 in chips) 
+Seat 6: ollikahn23 (1205 in chips) 
+Seat 7: cubraka (2613 in chips) 
+Seat 8: Strife240 (1763 in chips) 
+Seat 9: kartrid (3083 in chips) 
+moortje333: posts the ante 6
+DreamCatcher_BE: posts the ante 6
+guccichris: posts the ante 6
+CocoLores17: posts the ante 6
+SCCPdk: posts the ante 6
+ollikahn23: posts the ante 6
+cubraka: posts the ante 6
+Strife240: posts the ante 6
+kartrid: posts the ante 6
+moortje333: posts small blind 25
+DreamCatcher_BE: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8s 5d]
+guccichris: raises 50 to 100
+CocoLores17: folds 
+SCCPdk: folds 
+ollikahn23: folds 
+cubraka: folds 
+Strife240: folds 
+kartrid: folds 
+moortje333: folds 
+DreamCatcher_BE: folds 
+Uncalled bet (50) returned to guccichris
+guccichris collected 179 from pot
+guccichris: doesn't show hand 
+*** SUMMARY ***
+Total pot 179 | Rake 0 
+Seat 1: moortje333 (small blind) folded before Flop
+Seat 2: DreamCatcher_BE (big blind) folded before Flop
+Seat 3: guccichris collected (179)
+Seat 4: CocoLores17 folded before Flop (didn't bet)
+Seat 5: SCCPdk folded before Flop (didn't bet)
+Seat 6: ollikahn23 folded before Flop (didn't bet)
+Seat 7: cubraka folded before Flop (didn't bet)
+Seat 8: Strife240 folded before Flop (didn't bet)
+Seat 9: kartrid (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183522896834: Tournament #2242004059, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/03/07 16:37:20 ET
+Table '2242004059 6' 9-max Seat #1 is the button
+Seat 1: moortje333 (1982 in chips) 
+Seat 2: DreamCatcher_BE (2515 in chips) 
+Seat 3: guccichris (2905 in chips) 
+Seat 4: CocoLores17 (826 in chips) 
+Seat 5: SCCPdk (1150 in chips) 
+Seat 6: ollikahn23 (1199 in chips) 
+Seat 7: cubraka (2607 in chips) 
+Seat 8: Strife240 (1757 in chips) 
+Seat 9: kartrid (3077 in chips) 
+moortje333: posts the ante 6
+DreamCatcher_BE: posts the ante 6
+guccichris: posts the ante 6
+CocoLores17: posts the ante 6
+SCCPdk: posts the ante 6
+ollikahn23: posts the ante 6
+cubraka: posts the ante 6
+Strife240: posts the ante 6
+kartrid: posts the ante 6
+DreamCatcher_BE: posts small blind 25
+guccichris: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8s Ks]
+CocoLores17: folds 
+SCCPdk: folds 
+ollikahn23: folds 
+cubraka: folds 
+Strife240: folds 
+kartrid: raises 75 to 125
+moortje333: calls 125
+DreamCatcher_BE: calls 100
+guccichris: folds 
+*** FLOP *** [Ts 7c 2d]
+DreamCatcher_BE: checks 
+kartrid: bets 240
+moortje333: raises 1611 to 1851 and is all-in
+DreamCatcher_BE: folds 
+kartrid: calls 1611
+*** TURN *** [Ts 7c 2d] [Jh]
+*** RIVER *** [Ts 7c 2d Jh] [4h]
+*** SHOW DOWN ***
+kartrid: shows [Td Kh] (a pair of Tens)
+moortje333: shows [As Ad] (a pair of Aces)
+moortje333 collected 4181 from pot
+*** SUMMARY ***
+Total pot 4181 | Rake 0 
+Board [Ts 7c 2d Jh 4h]
+Seat 1: moortje333 (button) showed [As Ad] and won (4181) with a pair of Aces
+Seat 2: DreamCatcher_BE (small blind) folded on the Flop
+Seat 3: guccichris (big blind) folded before Flop
+Seat 4: CocoLores17 folded before Flop (didn't bet)
+Seat 5: SCCPdk folded before Flop (didn't bet)
+Seat 6: ollikahn23 folded before Flop (didn't bet)
+Seat 7: cubraka folded before Flop (didn't bet)
+Seat 8: Strife240 folded before Flop (didn't bet)
+Seat 9: kartrid showed [Td Kh] and lost with a pair of Tens
+
+
+
+PokerStars Hand #183522956283: Tournament #2242004059, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/03/07 16:38:34 ET
+Table '2242004059 6' 9-max Seat #2 is the button
+Seat 1: moortje333 (4181 in chips) 
+Seat 2: DreamCatcher_BE (2384 in chips) 
+Seat 3: guccichris (2849 in chips) 
+Seat 4: CocoLores17 (820 in chips) 
+Seat 5: SCCPdk (1144 in chips) 
+Seat 6: ollikahn23 (1193 in chips) 
+Seat 7: cubraka (2601 in chips) 
+Seat 8: Strife240 (1751 in chips) 
+Seat 9: kartrid (1095 in chips) 
+moortje333: posts the ante 6
+DreamCatcher_BE: posts the ante 6
+guccichris: posts the ante 6
+CocoLores17: posts the ante 6
+SCCPdk: posts the ante 6
+ollikahn23: posts the ante 6
+cubraka: posts the ante 6
+Strife240: posts the ante 6
+kartrid: posts the ante 6
+guccichris: posts small blind 25
+CocoLores17: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ac Qs]
+SCCPdk: folds 
+ollikahn23: raises 100 to 150
+cubraka: folds 
+Strife240: folds 
+kartrid: folds 
+moortje333: calls 150
+DreamCatcher_BE: folds 
+guccichris: folds 
+CocoLores17: calls 100
+*** FLOP *** [5d 8h 6c]
+CocoLores17: bets 664 and is all-in
+ollikahn23: folds 
+moortje333: folds 
+Uncalled bet (664) returned to CocoLores17
+CocoLores17 collected 529 from pot
+CocoLores17: doesn't show hand 
+*** SUMMARY ***
+Total pot 529 | Rake 0 
+Board [5d 8h 6c]
+Seat 1: moortje333 folded on the Flop
+Seat 2: DreamCatcher_BE (button) folded before Flop (didn't bet)
+Seat 3: guccichris (small blind) folded before Flop
+Seat 4: CocoLores17 (big blind) collected (529)
+Seat 5: SCCPdk folded before Flop (didn't bet)
+Seat 6: ollikahn23 folded on the Flop
+Seat 7: cubraka folded before Flop (didn't bet)
+Seat 8: Strife240 folded before Flop (didn't bet)
+Seat 9: kartrid folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183523029943: Tournament #2242004059, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/03/07 16:40:05 ET
+Table '2242004059 6' 9-max Seat #3 is the button
+Seat 1: moortje333 (4025 in chips) 
+Seat 2: DreamCatcher_BE (2378 in chips) 
+Seat 3: guccichris (2818 in chips) 
+Seat 4: CocoLores17 (1193 in chips) 
+Seat 5: SCCPdk (1138 in chips) 
+Seat 6: ollikahn23 (1037 in chips) 
+Seat 7: cubraka (2595 in chips) 
+Seat 8: Strife240 (1745 in chips) 
+Seat 9: kartrid (1089 in chips) 
+moortje333: posts the ante 10
+DreamCatcher_BE: posts the ante 10
+guccichris: posts the ante 10
+CocoLores17: posts the ante 10
+SCCPdk: posts the ante 10
+ollikahn23: posts the ante 10
+cubraka: posts the ante 10
+Strife240: posts the ante 10
+kartrid: posts the ante 10
+CocoLores17: posts small blind 50
+SCCPdk: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3c 9c]
+ollikahn23: folds 
+cubraka: folds 
+Strife240: raises 110 to 210
+kartrid: folds 
+moortje333: folds 
+DreamCatcher_BE: folds 
+guccichris: folds 
+CocoLores17: folds 
+SCCPdk: calls 110
+*** FLOP *** [Ah Ad 8s]
+SCCPdk: checks 
+Strife240: bets 168
+SCCPdk: calls 168
+*** TURN *** [Ah Ad 8s] [Jh]
+SCCPdk: checks 
+Strife240: checks 
+*** RIVER *** [Ah Ad 8s Jh] [5c]
+SCCPdk: checks 
+Strife240: bets 1357 and is all-in
+SCCPdk: calls 750 and is all-in
+Uncalled bet (607) returned to Strife240
+*** SHOW DOWN ***
+Strife240: shows [As Jd] (a full house, Aces full of Jacks)
+SCCPdk: shows [8d 6c] (two pair, Aces and Eights)
+Strife240 collected 2396 from pot
+SCCPdk finished the tournament in 77th place
+*** SUMMARY ***
+Total pot 2396 | Rake 0 
+Board [Ah Ad 8s Jh 5c]
+Seat 1: moortje333 folded before Flop (didn't bet)
+Seat 2: DreamCatcher_BE folded before Flop (didn't bet)
+Seat 3: guccichris (button) folded before Flop (didn't bet)
+Seat 4: CocoLores17 (small blind) folded before Flop
+Seat 5: SCCPdk (big blind) showed [8d 6c] and lost with two pair, Aces and Eights
+Seat 6: ollikahn23 folded before Flop (didn't bet)
+Seat 7: cubraka folded before Flop (didn't bet)
+Seat 8: Strife240 showed [As Jd] and won (2396) with a full house, Aces full of Jacks
+Seat 9: kartrid folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183523094526: Tournament #2242004059, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/03/07 16:41:26 ET
+Table '2242004059 6' 9-max Seat #4 is the button
+Seat 1: moortje333 (4015 in chips) 
+Seat 2: DreamCatcher_BE (2368 in chips) 
+Seat 3: guccichris (2808 in chips) 
+Seat 4: CocoLores17 (1133 in chips) 
+Seat 6: ollikahn23 (1027 in chips) 
+Seat 7: cubraka (2585 in chips) 
+Seat 8: Strife240 (3003 in chips) 
+Seat 9: kartrid (1079 in chips) 
+moortje333: posts the ante 10
+DreamCatcher_BE: posts the ante 10
+guccichris: posts the ante 10
+CocoLores17: posts the ante 10
+ollikahn23: posts the ante 10
+cubraka: posts the ante 10
+Strife240: posts the ante 10
+kartrid: posts the ante 10
+ollikahn23: posts small blind 50
+cubraka: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ah Ac]
+Strife240: folds 
+kartrid: folds 
+moortje333: folds 
+DreamCatcher_BE: folds 
+guccichris: folds 
+CocoLores17: folds 
+ollikahn23: raises 100 to 200
+cubraka: calls 100
+*** FLOP *** [5h 8s 2d]
+ollikahn23: bets 200
+cubraka: calls 200
+*** TURN *** [5h 8s 2d] [Qh]
+ollikahn23: bets 617 and is all-in
+cubraka: calls 617
+*** RIVER *** [5h 8s 2d Qh] [4d]
+*** SHOW DOWN ***
+ollikahn23: shows [Ah Ac] (a pair of Aces)
+cubraka: shows [Qc 8d] (two pair, Queens and Eights)
+cubraka collected 2114 from pot
+ollikahn23 finished the tournament in 74th place
+*** SUMMARY ***
+Total pot 2114 | Rake 0 
+Board [5h 8s 2d Qh 4d]
+Seat 1: moortje333 folded before Flop (didn't bet)
+Seat 2: DreamCatcher_BE folded before Flop (didn't bet)
+Seat 3: guccichris folded before Flop (didn't bet)
+Seat 4: CocoLores17 (button) folded before Flop (didn't bet)
+Seat 6: ollikahn23 (small blind) showed [Ah Ac] and lost with a pair of Aces
+Seat 7: cubraka (big blind) showed [Qc 8d] and won (2114) with two pair, Queens and Eights
+Seat 8: Strife240 folded before Flop (didn't bet)
+Seat 9: kartrid folded before Flop (didn't bet)
+
+
+

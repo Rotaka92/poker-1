@@ -1,0 +1,1197 @@
+﻿PokerStars Hand #183520638851: Tournament #2241991916, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/07 15:51:47 ET
+Table '2241991916 6' 9-max Seat #4 is the button
+Seat 1: c henriqu911 (1234 in chips) 
+Seat 2: SCCPdk (3000 in chips) 
+Seat 3: ollikahn23 (1500 in chips) 
+Seat 4: JustaJob420 (272 in chips) 
+Seat 5: LeBronn2333 (2823 in chips) 
+Seat 6: cubraka (1496 in chips) 
+Seat 7: bikense (1636 in chips) 
+Seat 8: RAFAUMNNM (3509 in chips) 
+Seat 9: Amartolomeu (1334 in chips) 
+c henriqu911: posts the ante 4
+SCCPdk: posts the ante 4
+ollikahn23: posts the ante 4
+JustaJob420: posts the ante 4
+LeBronn2333: posts the ante 4
+cubraka: posts the ante 4
+bikense: posts the ante 4
+RAFAUMNNM: posts the ante 4
+Amartolomeu: posts the ante 4
+LeBronn2333: posts small blind 15
+cubraka: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3d 7s]
+bikense: folds 
+RAFAUMNNM: folds 
+Amartolomeu: folds 
+c henriqu911: raises 60 to 90
+SCCPdk: folds 
+ollikahn23: folds 
+JustaJob420: folds 
+LeBronn2333: folds 
+cubraka: folds 
+Uncalled bet (60) returned to c henriqu911
+c henriqu911 collected 111 from pot
+c henriqu911: doesn't show hand 
+*** SUMMARY ***
+Total pot 111 | Rake 0 
+Seat 1: c henriqu911 collected (111)
+Seat 2: SCCPdk folded before Flop (didn't bet)
+Seat 3: ollikahn23 folded before Flop (didn't bet)
+Seat 4: JustaJob420 (button) folded before Flop (didn't bet)
+Seat 5: LeBronn2333 (small blind) folded before Flop
+Seat 6: cubraka (big blind) folded before Flop
+Seat 7: bikense folded before Flop (didn't bet)
+Seat 8: RAFAUMNNM folded before Flop (didn't bet)
+Seat 9: Amartolomeu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183520677161: Tournament #2241991916, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/07 15:52:30 ET
+Table '2241991916 6' 9-max Seat #5 is the button
+Seat 1: c henriqu911 (1311 in chips) 
+Seat 2: SCCPdk (2996 in chips) 
+Seat 3: ollikahn23 (1496 in chips) 
+Seat 4: JustaJob420 (268 in chips) 
+Seat 5: LeBronn2333 (2804 in chips) 
+Seat 6: cubraka (1462 in chips) 
+Seat 7: bikense (1632 in chips) 
+Seat 8: RAFAUMNNM (3505 in chips) 
+Seat 9: Amartolomeu (1330 in chips) 
+c henriqu911: posts the ante 4
+SCCPdk: posts the ante 4
+ollikahn23: posts the ante 4
+JustaJob420: posts the ante 4
+LeBronn2333: posts the ante 4
+cubraka: posts the ante 4
+bikense: posts the ante 4
+RAFAUMNNM: posts the ante 4
+Amartolomeu: posts the ante 4
+cubraka: posts small blind 15
+bikense: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ad 4s]
+RAFAUMNNM: folds 
+Amartolomeu: folds 
+c henriqu911: folds 
+SCCPdk: folds 
+ollikahn23: raises 30 to 60
+JustaJob420: folds 
+LeBronn2333: folds 
+cubraka: folds 
+bikense: folds 
+Uncalled bet (30) returned to ollikahn23
+ollikahn23 collected 111 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 111 | Rake 0 
+Seat 1: c henriqu911 folded before Flop (didn't bet)
+Seat 2: SCCPdk folded before Flop (didn't bet)
+Seat 3: ollikahn23 collected (111)
+Seat 4: JustaJob420 folded before Flop (didn't bet)
+Seat 5: LeBronn2333 (button) folded before Flop (didn't bet)
+Seat 6: cubraka (small blind) folded before Flop
+Seat 7: bikense (big blind) folded before Flop
+Seat 8: RAFAUMNNM folded before Flop (didn't bet)
+Seat 9: Amartolomeu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183520709857: Tournament #2241991916, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/07 15:53:06 ET
+Table '2241991916 6' 9-max Seat #6 is the button
+Seat 1: c henriqu911 (1307 in chips) 
+Seat 2: SCCPdk (2992 in chips) 
+Seat 3: ollikahn23 (1573 in chips) 
+Seat 4: JustaJob420 (264 in chips) 
+Seat 5: LeBronn2333 (2800 in chips) 
+Seat 6: cubraka (1443 in chips) 
+Seat 7: bikense (1598 in chips) 
+Seat 8: RAFAUMNNM (3501 in chips) 
+Seat 9: Amartolomeu (1326 in chips) 
+c henriqu911: posts the ante 4
+SCCPdk: posts the ante 4
+ollikahn23: posts the ante 4
+JustaJob420: posts the ante 4
+LeBronn2333: posts the ante 4
+cubraka: posts the ante 4
+bikense: posts the ante 4
+RAFAUMNNM: posts the ante 4
+Amartolomeu: posts the ante 4
+bikense: posts small blind 15
+RAFAUMNNM: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jh 2c]
+Amartolomeu: folds 
+c henriqu911: folds 
+SCCPdk: folds 
+ollikahn23: folds 
+JustaJob420: raises 230 to 260 and is all-in
+LeBronn2333: calls 260
+cubraka: folds 
+bikense: folds 
+RAFAUMNNM: folds 
+*** FLOP *** [As 6c 8c]
+*** TURN *** [As 6c 8c] [6h]
+*** RIVER *** [As 6c 8c 6h] [4h]
+*** SHOW DOWN ***
+JustaJob420: shows [Ac 5h] (two pair, Aces and Sixes)
+LeBronn2333: shows [Ks Kc] (two pair, Kings and Sixes)
+JustaJob420 collected 601 from pot
+*** SUMMARY ***
+Total pot 601 | Rake 0 
+Board [As 6c 8c 6h 4h]
+Seat 1: c henriqu911 folded before Flop (didn't bet)
+Seat 2: SCCPdk folded before Flop (didn't bet)
+Seat 3: ollikahn23 folded before Flop (didn't bet)
+Seat 4: JustaJob420 showed [Ac 5h] and won (601) with two pair, Aces and Sixes
+Seat 5: LeBronn2333 showed [Ks Kc] and lost with two pair, Kings and Sixes
+Seat 6: cubraka (button) folded before Flop (didn't bet)
+Seat 7: bikense (small blind) folded before Flop
+Seat 8: RAFAUMNNM (big blind) folded before Flop
+Seat 9: Amartolomeu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183520748430: Tournament #2241991916, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/07 15:53:50 ET
+Table '2241991916 6' 9-max Seat #7 is the button
+Seat 1: c henriqu911 (1303 in chips) 
+Seat 2: SCCPdk (2988 in chips) 
+Seat 3: ollikahn23 (1569 in chips) 
+Seat 4: JustaJob420 (601 in chips) 
+Seat 5: LeBronn2333 (2536 in chips) 
+Seat 6: cubraka (1439 in chips) 
+Seat 7: bikense (1579 in chips) 
+Seat 8: RAFAUMNNM (3467 in chips) 
+Seat 9: Amartolomeu (1322 in chips) 
+c henriqu911: posts the ante 4
+SCCPdk: posts the ante 4
+ollikahn23: posts the ante 4
+JustaJob420: posts the ante 4
+LeBronn2333: posts the ante 4
+cubraka: posts the ante 4
+bikense: posts the ante 4
+RAFAUMNNM: posts the ante 4
+Amartolomeu: posts the ante 4
+RAFAUMNNM: posts small blind 15
+Amartolomeu: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jd Jc]
+c henriqu911: folds 
+SCCPdk: folds 
+ollikahn23: raises 90 to 120
+JustaJob420: folds 
+LeBronn2333: folds 
+cubraka: calls 120
+bikense: calls 120
+RAFAUMNNM: folds 
+Amartolomeu: folds 
+*** FLOP *** [7d 6c Ks]
+ollikahn23: bets 135
+cubraka: calls 135
+bikense: raises 338 to 473
+ollikahn23: folds 
+cubraka: raises 842 to 1315 and is all-in
+bikense: calls 842
+*** TURN *** [7d 6c Ks] [2c]
+*** RIVER *** [7d 6c Ks 2c] [3h]
+*** SHOW DOWN ***
+cubraka: shows [Kd Qh] (a pair of Kings)
+bikense: shows [Ah Ac] (a pair of Aces)
+bikense collected 3206 from pot
+cubraka finished the tournament
+*** SUMMARY ***
+Total pot 3206 | Rake 0 
+Board [7d 6c Ks 2c 3h]
+Seat 1: c henriqu911 folded before Flop (didn't bet)
+Seat 2: SCCPdk folded before Flop (didn't bet)
+Seat 3: ollikahn23 folded on the Flop
+Seat 4: JustaJob420 folded before Flop (didn't bet)
+Seat 5: LeBronn2333 folded before Flop (didn't bet)
+Seat 6: cubraka showed [Kd Qh] and lost with a pair of Kings
+Seat 7: bikense (button) showed [Ah Ac] and won (3206) with a pair of Aces
+Seat 8: RAFAUMNNM (small blind) folded before Flop
+Seat 9: Amartolomeu (big blind) folded before Flop
+
+
+
+PokerStars Hand #183521057062: Tournament #2241991916, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/07 16:00:47 ET
+Table '2241991916 6' 9-max Seat #8 is the button
+Seat 1: jacknack1 (1500 in chips) 
+Seat 2: SCCPdk (2984 in chips) 
+Seat 3: ollikahn23 (1310 in chips) 
+Seat 4: JustaJob420 (597 in chips) 
+Seat 5: LeBronn2333 (2532 in chips) 
+Seat 6: Elmetik (1500 in chips) 
+Seat 7: bikense (3346 in chips) 
+Seat 8: RAFAUMNNM (3448 in chips) 
+Seat 9: Amartolomeu (1288 in chips) 
+jacknack1: posts the ante 4
+SCCPdk: posts the ante 4
+ollikahn23: posts the ante 4
+JustaJob420: posts the ante 4
+LeBronn2333: posts the ante 4
+Elmetik: posts the ante 4
+bikense: posts the ante 4
+RAFAUMNNM: posts the ante 4
+Amartolomeu: posts the ante 4
+Amartolomeu: posts small blind 15
+jacknack1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qd 4s]
+SCCPdk: folds 
+ollikahn23: folds 
+JustaJob420: raises 30 to 60
+LeBronn2333: folds 
+Elmetik: folds 
+bikense: folds 
+RAFAUMNNM: calls 60
+Amartolomeu: folds 
+jacknack1: calls 30
+*** FLOP *** [Jd Js Ts]
+jacknack1: checks 
+JustaJob420: bets 116
+RAFAUMNNM: calls 116
+jacknack1: folds 
+*** TURN *** [Jd Js Ts] [7h]
+JustaJob420: bets 417 and is all-in
+RAFAUMNNM: calls 417
+*** RIVER *** [Jd Js Ts 7h] [5c]
+*** SHOW DOWN ***
+JustaJob420: shows [8s Ks] (a pair of Jacks)
+RAFAUMNNM: shows [Kc Jc] (three of a kind, Jacks)
+RAFAUMNNM collected 1297 from pot
+JustaJob420 finished the tournament
+*** SUMMARY ***
+Total pot 1297 | Rake 0 
+Board [Jd Js Ts 7h 5c]
+Seat 1: jacknack1 (big blind) folded on the Flop
+Seat 2: SCCPdk folded before Flop (didn't bet)
+Seat 3: ollikahn23 folded before Flop (didn't bet)
+Seat 4: JustaJob420 showed [8s Ks] and lost with a pair of Jacks
+Seat 5: LeBronn2333 folded before Flop (didn't bet)
+Seat 6: Elmetik folded before Flop (didn't bet)
+Seat 7: bikense folded before Flop (didn't bet)
+Seat 8: RAFAUMNNM (button) showed [Kc Jc] and won (1297) with three of a kind, Jacks
+Seat 9: Amartolomeu (small blind) folded before Flop
+
+
+
+PokerStars Hand #183521123047: Tournament #2241991916, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/07 16:02:08 ET
+Table '2241991916 6' 9-max Seat #9 is the button
+Seat 1: jacknack1 (1436 in chips) 
+Seat 2: SCCPdk (2980 in chips) 
+Seat 3: ollikahn23 (1306 in chips) 
+Seat 5: LeBronn2333 (2528 in chips) 
+Seat 6: Elmetik (1496 in chips) 
+Seat 7: bikense (3342 in chips) 
+Seat 8: RAFAUMNNM (4148 in chips) 
+Seat 9: Amartolomeu (1269 in chips) 
+jacknack1: posts the ante 4
+SCCPdk: posts the ante 4
+ollikahn23: posts the ante 4
+LeBronn2333: posts the ante 4
+Elmetik: posts the ante 4
+bikense: posts the ante 4
+RAFAUMNNM: posts the ante 4
+Amartolomeu: posts the ante 4
+jacknack1: posts small blind 15
+SCCPdk: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4h 9c]
+ollikahn23: folds 
+LeBronn2333: folds 
+Elmetik: folds 
+bikense: folds 
+RAFAUMNNM: folds 
+Amartolomeu: folds 
+jacknack1: raises 60 to 90
+SCCPdk: folds 
+Uncalled bet (60) returned to jacknack1
+jacknack1 collected 92 from pot
+*** SUMMARY ***
+Total pot 92 | Rake 0 
+Seat 1: jacknack1 (small blind) collected (92)
+Seat 2: SCCPdk (big blind) folded before Flop
+Seat 3: ollikahn23 folded before Flop (didn't bet)
+Seat 5: LeBronn2333 folded before Flop (didn't bet)
+Seat 6: Elmetik folded before Flop (didn't bet)
+Seat 7: bikense folded before Flop (didn't bet)
+Seat 8: RAFAUMNNM folded before Flop (didn't bet)
+Seat 9: Amartolomeu (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183521147042: Tournament #2241991916, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/07 16:02:36 ET
+Table '2241991916 6' 9-max Seat #1 is the button
+Seat 1: jacknack1 (1494 in chips) 
+Seat 2: SCCPdk (2946 in chips) 
+Seat 3: ollikahn23 (1302 in chips) 
+Seat 5: LeBronn2333 (2524 in chips) 
+Seat 6: Elmetik (1492 in chips) 
+Seat 7: bikense (3338 in chips) 
+Seat 8: RAFAUMNNM (4144 in chips) 
+Seat 9: Amartolomeu (1265 in chips) 
+jacknack1: posts the ante 4
+SCCPdk: posts the ante 4
+ollikahn23: posts the ante 4
+LeBronn2333: posts the ante 4
+Elmetik: posts the ante 4
+bikense: posts the ante 4
+RAFAUMNNM: posts the ante 4
+Amartolomeu: posts the ante 4
+SCCPdk: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9c Js]
+LeBronn2333: folds 
+Elmetik: folds 
+bikense: folds 
+RAFAUMNNM: folds 
+Amartolomeu: folds 
+jacknack1: folds 
+SCCPdk: calls 15
+ollikahn23: checks 
+*** FLOP *** [Jc 6h Kh]
+SCCPdk: checks 
+ollikahn23: checks 
+*** TURN *** [Jc 6h Kh] [3c]
+SCCPdk: bets 60
+ollikahn23: calls 60
+*** RIVER *** [Jc 6h Kh 3c] [3s]
+SCCPdk: bets 210
+ollikahn23: folds 
+Uncalled bet (210) returned to SCCPdk
+SCCPdk collected 212 from pot
+SCCPdk: doesn't show hand 
+*** SUMMARY ***
+Total pot 212 | Rake 0 
+Board [Jc 6h Kh 3c 3s]
+Seat 1: jacknack1 (button) folded before Flop (didn't bet)
+Seat 2: SCCPdk (small blind) collected (212)
+Seat 3: ollikahn23 (big blind) folded on the River
+Seat 5: LeBronn2333 folded before Flop (didn't bet)
+Seat 6: Elmetik folded before Flop (didn't bet)
+Seat 7: bikense folded before Flop (didn't bet)
+Seat 8: RAFAUMNNM folded before Flop (didn't bet)
+Seat 9: Amartolomeu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183521209080: Tournament #2241991916, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/07 16:03:48 ET
+Table '2241991916 6' 9-max Seat #2 is the button
+Seat 1: jacknack1 (1490 in chips) 
+Seat 2: SCCPdk (3064 in chips) 
+Seat 3: ollikahn23 (1208 in chips) 
+Seat 5: LeBronn2333 (2520 in chips) 
+Seat 6: Elmetik (1488 in chips) 
+Seat 7: bikense (3334 in chips) 
+Seat 8: RAFAUMNNM (4140 in chips) 
+Seat 9: Amartolomeu (1261 in chips) 
+jacknack1: posts the ante 4
+SCCPdk: posts the ante 4
+ollikahn23: posts the ante 4
+LeBronn2333: posts the ante 4
+Elmetik: posts the ante 4
+bikense: posts the ante 4
+RAFAUMNNM: posts the ante 4
+Amartolomeu: posts the ante 4
+ollikahn23: posts small blind 15
+LeBronn2333: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6d 9h]
+Elmetik: folds 
+bikense: folds 
+RAFAUMNNM: folds 
+Amartolomeu: raises 60 to 90
+jacknack1: folds 
+SCCPdk: calls 90
+ollikahn23: folds 
+LeBronn2333: raises 150 to 240
+Amartolomeu: folds 
+SCCPdk: folds 
+Uncalled bet (150) returned to LeBronn2333
+LeBronn2333 collected 317 from pot
+*** SUMMARY ***
+Total pot 317 | Rake 0 
+Seat 1: jacknack1 folded before Flop (didn't bet)
+Seat 2: SCCPdk (button) folded before Flop
+Seat 3: ollikahn23 (small blind) folded before Flop
+Seat 5: LeBronn2333 (big blind) collected (317)
+Seat 6: Elmetik folded before Flop (didn't bet)
+Seat 7: bikense folded before Flop (didn't bet)
+Seat 8: RAFAUMNNM folded before Flop (didn't bet)
+Seat 9: Amartolomeu folded before Flop
+
+
+
+PokerStars Hand #183521244710: Tournament #2241991916, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/07 16:04:29 ET
+Table '2241991916 6' 9-max Seat #3 is the button
+Seat 1: jacknack1 (1486 in chips) 
+Seat 2: SCCPdk (2970 in chips) 
+Seat 3: ollikahn23 (1189 in chips) 
+Seat 5: LeBronn2333 (2743 in chips) 
+Seat 6: Elmetik (1484 in chips) 
+Seat 7: bikense (3330 in chips) 
+Seat 8: RAFAUMNNM (4136 in chips) 
+Seat 9: Amartolomeu (1167 in chips) 
+jacknack1: posts the ante 4
+SCCPdk: posts the ante 4
+ollikahn23: posts the ante 4
+LeBronn2333: posts the ante 4
+Elmetik: posts the ante 4
+bikense: posts the ante 4
+RAFAUMNNM: posts the ante 4
+Amartolomeu: posts the ante 4
+LeBronn2333: posts small blind 15
+Elmetik: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2h 2s]
+bikense: folds 
+RAFAUMNNM: folds 
+Amartolomeu: folds 
+jacknack1: folds 
+SCCPdk: folds 
+ollikahn23: raises 30 to 60
+LeBronn2333: folds 
+Elmetik: folds 
+Uncalled bet (30) returned to ollikahn23
+ollikahn23 collected 107 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 107 | Rake 0 
+Seat 1: jacknack1 folded before Flop (didn't bet)
+Seat 2: SCCPdk folded before Flop (didn't bet)
+Seat 3: ollikahn23 (button) collected (107)
+Seat 5: LeBronn2333 (small blind) folded before Flop
+Seat 6: Elmetik (big blind) folded before Flop
+Seat 7: bikense folded before Flop (didn't bet)
+Seat 8: RAFAUMNNM folded before Flop (didn't bet)
+Seat 9: Amartolomeu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183521264825: Tournament #2241991916, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/07 16:04:52 ET
+Table '2241991916 6' 9-max Seat #5 is the button
+Seat 1: jacknack1 (1482 in chips) 
+Seat 2: SCCPdk (2966 in chips) 
+Seat 3: ollikahn23 (1262 in chips) 
+Seat 4: Ranger Neil (1500 in chips) 
+Seat 5: LeBronn2333 (2724 in chips) 
+Seat 6: Elmetik (1450 in chips) 
+Seat 7: bikense (3326 in chips) 
+Seat 8: RAFAUMNNM (4132 in chips) 
+Seat 9: Amartolomeu (1163 in chips) 
+jacknack1: posts the ante 4
+SCCPdk: posts the ante 4
+ollikahn23: posts the ante 4
+Ranger Neil: posts the ante 4
+LeBronn2333: posts the ante 4
+Elmetik: posts the ante 4
+bikense: posts the ante 4
+RAFAUMNNM: posts the ante 4
+Amartolomeu: posts the ante 4
+Elmetik: posts small blind 15
+bikense: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8h Ad]
+RAFAUMNNM: folds 
+Amartolomeu: folds 
+jacknack1: folds 
+SCCPdk: folds 
+ollikahn23: raises 30 to 60
+Ranger Neil: folds 
+LeBronn2333: folds 
+Elmetik: folds 
+bikense: folds 
+Uncalled bet (30) returned to ollikahn23
+ollikahn23 collected 111 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 111 | Rake 0 
+Seat 1: jacknack1 folded before Flop (didn't bet)
+Seat 2: SCCPdk folded before Flop (didn't bet)
+Seat 3: ollikahn23 collected (111)
+Seat 4: Ranger Neil folded before Flop (didn't bet)
+Seat 5: LeBronn2333 (button) folded before Flop (didn't bet)
+Seat 6: Elmetik (small blind) folded before Flop
+Seat 7: bikense (big blind) folded before Flop
+Seat 8: RAFAUMNNM folded before Flop (didn't bet)
+Seat 9: Amartolomeu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183521294372: Tournament #2241991916, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/07 16:05:26 ET
+Table '2241991916 6' 9-max Seat #6 is the button
+Seat 1: jacknack1 (1478 in chips) 
+Seat 2: SCCPdk (2962 in chips) 
+Seat 3: ollikahn23 (1339 in chips) 
+Seat 4: Ranger Neil (1496 in chips) 
+Seat 5: LeBronn2333 (2720 in chips) 
+Seat 6: Elmetik (1431 in chips) 
+Seat 7: bikense (3292 in chips) 
+Seat 9: Amartolomeu (1159 in chips) 
+jacknack1: posts the ante 4
+SCCPdk: posts the ante 4
+ollikahn23: posts the ante 4
+Ranger Neil: posts the ante 4
+LeBronn2333: posts the ante 4
+Elmetik: posts the ante 4
+bikense: posts the ante 4
+Amartolomeu: posts the ante 4
+bikense: posts small blind 15
+Amartolomeu: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2d 3d]
+jacknack1: folds 
+SCCPdk: folds 
+ollikahn23: folds 
+Ranger Neil: raises 30 to 60
+LeBronn2333: folds 
+Elmetik: folds 
+bikense: folds 
+Amartolomeu: folds 
+Uncalled bet (30) returned to Ranger Neil
+Ranger Neil collected 107 from pot
+Ranger Neil: doesn't show hand 
+*** SUMMARY ***
+Total pot 107 | Rake 0 
+Seat 1: jacknack1 folded before Flop (didn't bet)
+Seat 2: SCCPdk folded before Flop (didn't bet)
+Seat 3: ollikahn23 folded before Flop (didn't bet)
+Seat 4: Ranger Neil collected (107)
+Seat 5: LeBronn2333 folded before Flop (didn't bet)
+Seat 6: Elmetik (button) folded before Flop (didn't bet)
+Seat 7: bikense (small blind) folded before Flop
+Seat 9: Amartolomeu (big blind) folded before Flop
+
+
+
+PokerStars Hand #183521327116: Tournament #2241991916, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/07 16:06:03 ET
+Table '2241991916 6' 9-max Seat #7 is the button
+Seat 1: jacknack1 (1474 in chips) 
+Seat 2: SCCPdk (2958 in chips) 
+Seat 3: ollikahn23 (1335 in chips) 
+Seat 4: Ranger Neil (1569 in chips) 
+Seat 5: LeBronn2333 (2716 in chips) 
+Seat 6: Elmetik (1427 in chips) 
+Seat 7: bikense (3273 in chips) 
+Seat 9: Amartolomeu (1125 in chips) 
+jacknack1: posts the ante 4
+SCCPdk: posts the ante 4
+ollikahn23: posts the ante 4
+Ranger Neil: posts the ante 4
+LeBronn2333: posts the ante 4
+Elmetik: posts the ante 4
+bikense: posts the ante 4
+Amartolomeu: posts the ante 4
+Amartolomeu: posts small blind 15
+jacknack1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qh 8s]
+SCCPdk: folds 
+ollikahn23: folds 
+Ranger Neil: raises 30 to 60
+LeBronn2333: calls 60
+Elmetik: folds 
+bikense: folds 
+Amartolomeu: folds 
+jacknack1: folds 
+*** FLOP *** [8d Qs Ts]
+Ranger Neil: checks 
+LeBronn2333: bets 126
+Ranger Neil: folds 
+Uncalled bet (126) returned to LeBronn2333
+LeBronn2333 collected 197 from pot
+*** SUMMARY ***
+Total pot 197 | Rake 0 
+Board [8d Qs Ts]
+Seat 1: jacknack1 (big blind) folded before Flop
+Seat 2: SCCPdk folded before Flop (didn't bet)
+Seat 3: ollikahn23 folded before Flop (didn't bet)
+Seat 4: Ranger Neil folded on the Flop
+Seat 5: LeBronn2333 collected (197)
+Seat 6: Elmetik folded before Flop (didn't bet)
+Seat 7: bikense (button) folded before Flop (didn't bet)
+Seat 9: Amartolomeu (small blind) folded before Flop
+
+
+
+PokerStars Hand #183521355121: Tournament #2241991916, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/07 16:06:35 ET
+Table '2241991916 6' 9-max Seat #9 is the button
+Seat 1: jacknack1 (1440 in chips) 
+Seat 2: SCCPdk (2954 in chips) 
+Seat 3: ollikahn23 (1331 in chips) 
+Seat 4: Ranger Neil (1505 in chips) 
+Seat 5: LeBronn2333 (2849 in chips) 
+Seat 6: Elmetik (1423 in chips) 
+Seat 7: bikense (3269 in chips) 
+Seat 9: Amartolomeu (1106 in chips) 
+jacknack1: posts the ante 4
+SCCPdk: posts the ante 4
+ollikahn23: posts the ante 4
+Ranger Neil: posts the ante 4
+LeBronn2333: posts the ante 4
+Elmetik: posts the ante 4
+bikense: posts the ante 4
+Amartolomeu: posts the ante 4
+jacknack1: posts small blind 15
+SCCPdk: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ts Jh]
+ollikahn23: folds 
+Ranger Neil: raises 30 to 60
+LeBronn2333: folds 
+Elmetik: folds 
+bikense: folds 
+Amartolomeu: folds 
+jacknack1: folds 
+SCCPdk: folds 
+Uncalled bet (30) returned to Ranger Neil
+Ranger Neil collected 107 from pot
+Ranger Neil: doesn't show hand 
+*** SUMMARY ***
+Total pot 107 | Rake 0 
+Seat 1: jacknack1 (small blind) folded before Flop
+Seat 2: SCCPdk (big blind) folded before Flop
+Seat 3: ollikahn23 folded before Flop (didn't bet)
+Seat 4: Ranger Neil collected (107)
+Seat 5: LeBronn2333 folded before Flop (didn't bet)
+Seat 6: Elmetik folded before Flop (didn't bet)
+Seat 7: bikense folded before Flop (didn't bet)
+Seat 9: Amartolomeu (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183521377469: Tournament #2241991916, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/07 16:07:01 ET
+Table '2241991916 6' 9-max Seat #1 is the button
+Seat 1: jacknack1 (1421 in chips) 
+Seat 2: SCCPdk (2920 in chips) 
+Seat 3: ollikahn23 (1327 in chips) 
+Seat 4: Ranger Neil (1578 in chips) 
+Seat 5: LeBronn2333 (2845 in chips) 
+Seat 6: Elmetik (1419 in chips) 
+Seat 7: bikense (3265 in chips) 
+Seat 9: Amartolomeu (1102 in chips) 
+jacknack1: posts the ante 4
+SCCPdk: posts the ante 4
+ollikahn23: posts the ante 4
+Ranger Neil: posts the ante 4
+LeBronn2333: posts the ante 4
+Elmetik: posts the ante 4
+bikense: posts the ante 4
+Amartolomeu: posts the ante 4
+SCCPdk: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7c 9s]
+Ranger Neil: folds 
+LeBronn2333: folds 
+Elmetik: folds 
+bikense: folds 
+Amartolomeu: folds 
+jacknack1: folds 
+SCCPdk: raises 45 to 75
+ollikahn23: folds 
+Uncalled bet (45) returned to SCCPdk
+SCCPdk collected 92 from pot
+SCCPdk: doesn't show hand 
+*** SUMMARY ***
+Total pot 92 | Rake 0 
+Seat 1: jacknack1 (button) folded before Flop (didn't bet)
+Seat 2: SCCPdk (small blind) collected (92)
+Seat 3: ollikahn23 (big blind) folded before Flop
+Seat 4: Ranger Neil folded before Flop (didn't bet)
+Seat 5: LeBronn2333 folded before Flop (didn't bet)
+Seat 6: Elmetik folded before Flop (didn't bet)
+Seat 7: bikense folded before Flop (didn't bet)
+Seat 9: Amartolomeu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183521417386: Tournament #2241991916, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/07 16:07:48 ET
+Table '2241991916 6' 9-max Seat #2 is the button
+Seat 1: jacknack1 (1417 in chips) 
+Seat 2: SCCPdk (2978 in chips) 
+Seat 3: ollikahn23 (1293 in chips) 
+Seat 4: Ranger Neil (1574 in chips) 
+Seat 5: LeBronn2333 (2841 in chips) 
+Seat 6: Elmetik (1415 in chips) 
+Seat 7: bikense (3261 in chips) 
+Seat 9: Amartolomeu (1098 in chips) 
+jacknack1: posts the ante 4
+SCCPdk: posts the ante 4
+ollikahn23: posts the ante 4
+Ranger Neil: posts the ante 4
+LeBronn2333: posts the ante 4
+Elmetik: posts the ante 4
+bikense: posts the ante 4
+Amartolomeu: posts the ante 4
+ollikahn23: posts small blind 15
+Ranger Neil: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4c 3c]
+LeBronn2333: folds 
+Elmetik: folds 
+bikense: raises 60 to 90
+Amartolomeu: folds 
+jacknack1: raises 120 to 210
+SCCPdk: folds 
+ollikahn23: folds 
+Ranger Neil: folds 
+bikense: folds 
+Uncalled bet (120) returned to jacknack1
+jacknack1 collected 257 from pot
+*** SUMMARY ***
+Total pot 257 | Rake 0 
+Seat 1: jacknack1 collected (257)
+Seat 2: SCCPdk (button) folded before Flop (didn't bet)
+Seat 3: ollikahn23 (small blind) folded before Flop
+Seat 4: Ranger Neil (big blind) folded before Flop
+Seat 5: LeBronn2333 folded before Flop (didn't bet)
+Seat 6: Elmetik folded before Flop (didn't bet)
+Seat 7: bikense folded before Flop
+Seat 9: Amartolomeu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183521456589: Tournament #2241991916, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/07 16:08:34 ET
+Table '2241991916 6' 9-max Seat #3 is the button
+Seat 1: jacknack1 (1580 in chips) 
+Seat 2: SCCPdk (2974 in chips) 
+Seat 3: ollikahn23 (1274 in chips) 
+Seat 4: Ranger Neil (1540 in chips) 
+Seat 5: LeBronn2333 (2837 in chips) 
+Seat 6: Elmetik (1411 in chips) 
+Seat 7: bikense (3167 in chips) 
+Seat 9: Amartolomeu (1094 in chips) 
+jacknack1: posts the ante 4
+SCCPdk: posts the ante 4
+ollikahn23: posts the ante 4
+Ranger Neil: posts the ante 4
+LeBronn2333: posts the ante 4
+Elmetik: posts the ante 4
+bikense: posts the ante 4
+Amartolomeu: posts the ante 4
+Ranger Neil: posts small blind 15
+LeBronn2333: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9s Qh]
+Elmetik: folds 
+bikense: folds 
+Amartolomeu: folds 
+jacknack1: folds 
+SCCPdk: folds 
+ollikahn23: raises 30 to 60
+Ranger Neil: folds 
+LeBronn2333: folds 
+Uncalled bet (30) returned to ollikahn23
+ollikahn23 collected 107 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 107 | Rake 0 
+Seat 1: jacknack1 folded before Flop (didn't bet)
+Seat 2: SCCPdk folded before Flop (didn't bet)
+Seat 3: ollikahn23 (button) collected (107)
+Seat 4: Ranger Neil (small blind) folded before Flop
+Seat 5: LeBronn2333 (big blind) folded before Flop
+Seat 6: Elmetik folded before Flop (didn't bet)
+Seat 7: bikense folded before Flop (didn't bet)
+Seat 9: Amartolomeu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183521482520: Tournament #2241991916, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/07 16:09:04 ET
+Table '2241991916 6' 9-max Seat #4 is the button
+Seat 1: jacknack1 (1576 in chips) 
+Seat 2: SCCPdk (2970 in chips) 
+Seat 3: ollikahn23 (1347 in chips) 
+Seat 4: Ranger Neil (1521 in chips) 
+Seat 5: LeBronn2333 (2803 in chips) 
+Seat 6: Elmetik (1407 in chips) 
+Seat 7: bikense (3163 in chips) 
+Seat 9: Amartolomeu (1090 in chips) 
+jacknack1: posts the ante 4
+SCCPdk: posts the ante 4
+ollikahn23: posts the ante 4
+Ranger Neil: posts the ante 4
+LeBronn2333: posts the ante 4
+Elmetik: posts the ante 4
+bikense: posts the ante 4
+Amartolomeu: posts the ante 4
+LeBronn2333: posts small blind 15
+Elmetik: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8c Kh]
+bikense: folds 
+Amartolomeu: folds 
+jacknack1: folds 
+SCCPdk: raises 36 to 66
+ollikahn23: folds 
+Ranger Neil: folds 
+LeBronn2333: folds 
+Elmetik: folds 
+Uncalled bet (36) returned to SCCPdk
+SCCPdk collected 107 from pot
+SCCPdk: doesn't show hand 
+*** SUMMARY ***
+Total pot 107 | Rake 0 
+Seat 1: jacknack1 folded before Flop (didn't bet)
+Seat 2: SCCPdk collected (107)
+Seat 3: ollikahn23 folded before Flop (didn't bet)
+Seat 4: Ranger Neil (button) folded before Flop (didn't bet)
+Seat 5: LeBronn2333 (small blind) folded before Flop
+Seat 6: Elmetik (big blind) folded before Flop
+Seat 7: bikense folded before Flop (didn't bet)
+Seat 9: Amartolomeu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183521518659: Tournament #2241991916, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/07 16:09:46 ET
+Table '2241991916 6' 9-max Seat #5 is the button
+Seat 1: jacknack1 (1572 in chips) 
+Seat 2: SCCPdk (3043 in chips) 
+Seat 3: ollikahn23 (1343 in chips) 
+Seat 4: Ranger Neil (1517 in chips) 
+Seat 5: LeBronn2333 (2784 in chips) 
+Seat 6: Elmetik (1373 in chips) 
+Seat 7: bikense (3159 in chips) 
+Seat 9: Amartolomeu (1086 in chips) 
+jacknack1: posts the ante 4
+SCCPdk: posts the ante 4
+ollikahn23: posts the ante 4
+Ranger Neil: posts the ante 4
+LeBronn2333: posts the ante 4
+Elmetik: posts the ante 4
+bikense: posts the ante 4
+Amartolomeu: posts the ante 4
+Elmetik: posts small blind 15
+bikense: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Th Td]
+Amartolomeu: folds 
+jacknack1: folds 
+SCCPdk: folds 
+ollikahn23: raises 90 to 120
+Ranger Neil: folds 
+LeBronn2333: folds 
+Elmetik: folds 
+bikense: folds 
+Uncalled bet (90) returned to ollikahn23
+ollikahn23 collected 107 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 107 | Rake 0 
+Seat 1: jacknack1 folded before Flop (didn't bet)
+Seat 2: SCCPdk folded before Flop (didn't bet)
+Seat 3: ollikahn23 collected (107)
+Seat 4: Ranger Neil folded before Flop (didn't bet)
+Seat 5: LeBronn2333 (button) folded before Flop (didn't bet)
+Seat 6: Elmetik (small blind) folded before Flop
+Seat 7: bikense (big blind) folded before Flop
+Seat 9: Amartolomeu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183521550794: Tournament #2241991916, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/07 16:10:25 ET
+Table '2241991916 6' 9-max Seat #6 is the button
+Seat 1: jacknack1 (1568 in chips) 
+Seat 2: SCCPdk (3039 in chips) 
+Seat 3: ollikahn23 (1416 in chips) 
+Seat 4: Ranger Neil (1513 in chips) 
+Seat 5: LeBronn2333 (2780 in chips) 
+Seat 6: Elmetik (1354 in chips) 
+Seat 7: bikense (3125 in chips) 
+Seat 9: Amartolomeu (1082 in chips) 
+jacknack1: posts the ante 4
+SCCPdk: posts the ante 4
+ollikahn23: posts the ante 4
+Ranger Neil: posts the ante 4
+LeBronn2333: posts the ante 4
+Elmetik: posts the ante 4
+bikense: posts the ante 4
+Amartolomeu: posts the ante 4
+bikense: posts small blind 15
+Amartolomeu: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jc Tc]
+jacknack1: folds 
+SCCPdk: folds 
+ollikahn23: raises 30 to 60
+Ranger Neil: folds 
+LeBronn2333: folds 
+Elmetik: folds 
+bikense: folds 
+Amartolomeu: calls 30
+*** FLOP *** [6d 4h Qh]
+Amartolomeu: bets 126
+ollikahn23: folds 
+Uncalled bet (126) returned to Amartolomeu
+Amartolomeu collected 167 from pot
+Amartolomeu: doesn't show hand 
+*** SUMMARY ***
+Total pot 167 | Rake 0 
+Board [6d 4h Qh]
+Seat 1: jacknack1 folded before Flop (didn't bet)
+Seat 2: SCCPdk folded before Flop (didn't bet)
+Seat 3: ollikahn23 folded on the Flop
+Seat 4: Ranger Neil folded before Flop (didn't bet)
+Seat 5: LeBronn2333 folded before Flop (didn't bet)
+Seat 6: Elmetik (button) folded before Flop (didn't bet)
+Seat 7: bikense (small blind) folded before Flop
+Seat 9: Amartolomeu (big blind) collected (167)
+
+
+
+PokerStars Hand #183521610259: Tournament #2241991916, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/03/07 16:11:36 ET
+Table '2241991916 6' 9-max Seat #7 is the button
+Seat 1: jacknack1 (1564 in chips) 
+Seat 2: SCCPdk (3035 in chips) 
+Seat 3: ollikahn23 (1352 in chips) 
+Seat 4: Ranger Neil (1509 in chips) 
+Seat 5: LeBronn2333 (2776 in chips) 
+Seat 6: Elmetik (1350 in chips) 
+Seat 7: bikense (3106 in chips) 
+Seat 9: Amartolomeu (1185 in chips) 
+jacknack1: posts the ante 6
+SCCPdk: posts the ante 6
+ollikahn23: posts the ante 6
+Ranger Neil: posts the ante 6
+LeBronn2333: posts the ante 6
+Elmetik: posts the ante 6
+bikense: posts the ante 6
+Amartolomeu: posts the ante 6
+Amartolomeu: posts small blind 25
+jacknack1: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9h 6c]
+SCCPdk: folds 
+ollikahn23: folds 
+Ranger Neil: folds 
+LeBronn2333: raises 75 to 125
+Elmetik: folds 
+bikense: folds 
+Amartolomeu: folds 
+jacknack1: calls 75
+*** FLOP *** [6d Kc Tc]
+jacknack1: checks 
+LeBronn2333: bets 207
+jacknack1: folds 
+Uncalled bet (207) returned to LeBronn2333
+LeBronn2333 collected 323 from pot
+*** SUMMARY ***
+Total pot 323 | Rake 0 
+Board [6d Kc Tc]
+Seat 1: jacknack1 (big blind) folded on the Flop
+Seat 2: SCCPdk folded before Flop (didn't bet)
+Seat 3: ollikahn23 folded before Flop (didn't bet)
+Seat 4: Ranger Neil folded before Flop (didn't bet)
+Seat 5: LeBronn2333 collected (323)
+Seat 6: Elmetik folded before Flop (didn't bet)
+Seat 7: bikense (button) folded before Flop (didn't bet)
+Seat 9: Amartolomeu (small blind) folded before Flop
+
+
+
+PokerStars Hand #183521660605: Tournament #2241991916, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/03/07 16:12:36 ET
+Table '2241991916 6' 9-max Seat #9 is the button
+Seat 1: jacknack1 (1433 in chips) 
+Seat 2: SCCPdk (3029 in chips) 
+Seat 3: ollikahn23 (1346 in chips) 
+Seat 4: Ranger Neil (1503 in chips) 
+Seat 5: LeBronn2333 (2968 in chips) 
+Seat 6: Elmetik (1344 in chips) 
+Seat 7: bikense (3100 in chips) 
+Seat 8: CocadaUnidos (1500 in chips) 
+Seat 9: Amartolomeu (1154 in chips) 
+jacknack1: posts the ante 6
+SCCPdk: posts the ante 6
+ollikahn23: posts the ante 6
+Ranger Neil: posts the ante 6
+LeBronn2333: posts the ante 6
+Elmetik: posts the ante 6
+bikense: posts the ante 6
+CocadaUnidos: posts the ante 6
+Amartolomeu: posts the ante 6
+jacknack1: posts small blind 25
+SCCPdk: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6d 4h]
+ollikahn23: folds 
+Ranger Neil: raises 55 to 105
+LeBronn2333: folds 
+Elmetik: folds 
+bikense: folds 
+CocadaUnidos: folds 
+Amartolomeu: folds 
+jacknack1: folds 
+SCCPdk: folds 
+Uncalled bet (55) returned to Ranger Neil
+Ranger Neil collected 179 from pot
+Ranger Neil: doesn't show hand 
+*** SUMMARY ***
+Total pot 179 | Rake 0 
+Seat 1: jacknack1 (small blind) folded before Flop
+Seat 2: SCCPdk (big blind) folded before Flop
+Seat 3: ollikahn23 folded before Flop (didn't bet)
+Seat 4: Ranger Neil collected (179)
+Seat 5: LeBronn2333 folded before Flop (didn't bet)
+Seat 6: Elmetik folded before Flop (didn't bet)
+Seat 7: bikense folded before Flop (didn't bet)
+Seat 8: CocadaUnidos folded before Flop (didn't bet)
+Seat 9: Amartolomeu (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183521687168: Tournament #2241991916, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/03/07 16:13:07 ET
+Table '2241991916 6' 9-max Seat #1 is the button
+Seat 1: jacknack1 (1402 in chips) 
+Seat 2: SCCPdk (2973 in chips) 
+Seat 3: ollikahn23 (1340 in chips) 
+Seat 4: Ranger Neil (1626 in chips) 
+Seat 5: LeBronn2333 (2962 in chips) 
+Seat 6: Elmetik (1338 in chips) 
+Seat 7: bikense (3094 in chips) 
+Seat 8: CocadaUnidos (1494 in chips) 
+Seat 9: Amartolomeu (1148 in chips) 
+jacknack1: posts the ante 6
+SCCPdk: posts the ante 6
+ollikahn23: posts the ante 6
+Ranger Neil: posts the ante 6
+LeBronn2333: posts the ante 6
+Elmetik: posts the ante 6
+bikense: posts the ante 6
+CocadaUnidos: posts the ante 6
+Amartolomeu: posts the ante 6
+SCCPdk: posts small blind 25
+ollikahn23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9c 2d]
+Ranger Neil: folds 
+LeBronn2333: folds 
+Elmetik: folds 
+bikense: folds 
+CocadaUnidos: raises 75 to 125
+Amartolomeu: folds 
+jacknack1: folds 
+SCCPdk: folds 
+ollikahn23: folds 
+Uncalled bet (75) returned to CocadaUnidos
+CocadaUnidos collected 179 from pot
+CocadaUnidos: doesn't show hand 
+*** SUMMARY ***
+Total pot 179 | Rake 0 
+Seat 1: jacknack1 (button) folded before Flop (didn't bet)
+Seat 2: SCCPdk (small blind) folded before Flop
+Seat 3: ollikahn23 (big blind) folded before Flop
+Seat 4: Ranger Neil folded before Flop (didn't bet)
+Seat 5: LeBronn2333 folded before Flop (didn't bet)
+Seat 6: Elmetik folded before Flop (didn't bet)
+Seat 7: bikense folded before Flop (didn't bet)
+Seat 8: CocadaUnidos collected (179)
+Seat 9: Amartolomeu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183521711649: Tournament #2241991916, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/03/07 16:13:36 ET
+Table '2241991916 6' 9-max Seat #2 is the button
+Seat 1: jacknack1 (1396 in chips) 
+Seat 2: SCCPdk (2942 in chips) 
+Seat 3: ollikahn23 (1284 in chips) 
+Seat 4: Ranger Neil (1620 in chips) 
+Seat 5: LeBronn2333 (2956 in chips) 
+Seat 7: bikense (3088 in chips) 
+Seat 8: CocadaUnidos (1617 in chips) 
+Seat 9: Amartolomeu (1142 in chips) 
+jacknack1: posts the ante 6
+SCCPdk: posts the ante 6
+ollikahn23: posts the ante 6
+Ranger Neil: posts the ante 6
+LeBronn2333: posts the ante 6
+bikense: posts the ante 6
+CocadaUnidos: posts the ante 6
+Amartolomeu: posts the ante 6
+ollikahn23: posts small blind 25
+Ranger Neil: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qs 7h]
+LeBronn2333: folds 
+bikense: folds 
+CocadaUnidos: folds 
+Amartolomeu: raises 100 to 150
+jacknack1: folds 
+SCCPdk: folds 
+ollikahn23: folds 
+Ranger Neil: folds 
+Uncalled bet (100) returned to Amartolomeu
+Amartolomeu collected 173 from pot
+Amartolomeu: doesn't show hand 
+*** SUMMARY ***
+Total pot 173 | Rake 0 
+Seat 1: jacknack1 folded before Flop (didn't bet)
+Seat 2: SCCPdk (button) folded before Flop (didn't bet)
+Seat 3: ollikahn23 (small blind) folded before Flop
+Seat 4: Ranger Neil (big blind) folded before Flop
+Seat 5: LeBronn2333 folded before Flop (didn't bet)
+Seat 7: bikense folded before Flop (didn't bet)
+Seat 8: CocadaUnidos folded before Flop (didn't bet)
+Seat 9: Amartolomeu collected (173)
+
+
+
+PokerStars Hand #183521738135: Tournament #2241991916, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/03/07 16:14:07 ET
+Table '2241991916 6' 9-max Seat #3 is the button
+Seat 1: jacknack1 (1390 in chips) 
+Seat 2: SCCPdk (2936 in chips) 
+Seat 3: ollikahn23 (1253 in chips) 
+Seat 4: Ranger Neil (1564 in chips) 
+Seat 5: LeBronn2333 (2950 in chips) 
+Seat 7: bikense (3082 in chips) 
+Seat 8: CocadaUnidos (1611 in chips) 
+Seat 9: Amartolomeu (1259 in chips) 
+jacknack1: posts the ante 6
+SCCPdk: posts the ante 6
+ollikahn23: posts the ante 6
+Ranger Neil: posts the ante 6
+LeBronn2333: posts the ante 6
+bikense: posts the ante 6
+CocadaUnidos: posts the ante 6
+Amartolomeu: posts the ante 6
+Ranger Neil: posts small blind 25
+LeBronn2333: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8c 8s]
+bikense: folds 
+CocadaUnidos: folds 
+Amartolomeu: folds 
+jacknack1: folds 
+SCCPdk: folds 
+ollikahn23: raises 50 to 100
+Ranger Neil: folds 
+LeBronn2333: raises 200 to 300
+ollikahn23: raises 673 to 973
+LeBronn2333: raises 1971 to 2944 and is all-in
+ollikahn23: calls 274 and is all-in
+Uncalled bet (1697) returned to LeBronn2333
+*** FLOP *** [6h 7h 9s]
+*** TURN *** [6h 7h 9s] [Jd]
+*** RIVER *** [6h 7h 9s Jd] [Kh]
+*** SHOW DOWN ***
+LeBronn2333: shows [Qh Qd] (a pair of Queens)
+ollikahn23: shows [8c 8s] (a pair of Eights)
+LeBronn2333 collected 2567 from pot
+ollikahn23 finished the tournament
+*** SUMMARY ***
+Total pot 2567 | Rake 0 
+Board [6h 7h 9s Jd Kh]
+Seat 1: jacknack1 folded before Flop (didn't bet)
+Seat 2: SCCPdk folded before Flop (didn't bet)
+Seat 3: ollikahn23 (button) showed [8c 8s] and lost with a pair of Eights
+Seat 4: Ranger Neil (small blind) folded before Flop
+Seat 5: LeBronn2333 (big blind) showed [Qh Qd] and won (2567) with a pair of Queens
+Seat 7: bikense folded before Flop (didn't bet)
+Seat 8: CocadaUnidos folded before Flop (didn't bet)
+Seat 9: Amartolomeu folded before Flop (didn't bet)
+
+
+

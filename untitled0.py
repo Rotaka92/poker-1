@@ -204,7 +204,7 @@ potSize0 = int(anteTot + hh.sb + hh.bb)
 v = hh.preflop_actions
 potSize1 = potSize0
 for i in range(len(v)):
-    #i = v[2]
+    #i = 1
     if v[i].partition(':')[0] != hh.hero.name:
         add = v[i].partition(':')[2]
         if 'calls' in add:
@@ -225,9 +225,8 @@ for i in range(len(v)):
 # í is our position regarding to the raiser
                 
 #####################      what are our potOdds preflop       ####################
+                
 #if there was no raise before us and our position is outside of the blinds
-                
-                
 if all('raises' not in v[j] for j in range(len(v[:i]))) and t != 2 and t != 1:
     potOdds0 = float(hh.bb/potSize1)
 
@@ -250,24 +249,11 @@ if any('raises' in v[j] for j in range(len(v[:i]))) and t != 2 and t != 1:
                 addr1 = int(addr.partition('to ')[2])
 
     potOdds0 = float(addr1/potSize1)
-
-
-a = hh.hero.combo
-combo = Combo('Ts6s')
-combo.to_hand()
-
-
-
-b = combo.first
-c = combo.second
-
-   
-hand = [
-   Card.new(b),
-   Card.new(c)
-]    
     
     
+    
+
+
     
     
     
@@ -286,16 +272,11 @@ from deuces import Card
 card = Card.new('Qh')
 
 
-board = [
- Card.new('Ah'),
-    Card.new('Kh'),
- Card.new('Jh'),
-Card.new('2h'),
-Card.new('3h')]
-hand = [
-   Card.new('Qs'),
-   Card.new('Th')
-]
+board = [Card.new('Ah'), Card.new('Kh'), Card.new('Jh'), Card.new('2s'), Card.new('3h')]
+
+hand = [Card.new('Qs'), Card.new('Ts')]
+
+
 
 Card.print_pretty_cards(board + hand)
 
@@ -303,7 +284,7 @@ from deuces import Evaluator
 evaluator = Evaluator()
 
 
-###
+###which strength the hand has
 print evaluator.evaluate(board, hand)
 
 
@@ -338,6 +319,60 @@ evaluator.class_to_string(p2_class)
 
 hands = [player1_hand, player2_hand]
 evaluator.hand_summary(board, hands)
+
+
+
+
+
+
+
+
+a = hh.hero.combo
+
+
+
+combo = Combo('Ts6s')
+
+
+combo1 = Combo('Th6h')
+a = a.to_hand()
+str(a).encoding('base64')
+str(combo)
+
+b = combo.first
+c = combo.second
+
+e = combo.shape
+print(e)
+
+combo._set_cards_in_order(b,c)
+
+
+
+   
+   
+hand = [
+   Card.new(d),
+   Card.new(c)
+]    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -545,7 +580,8 @@ Seat 8: sinus91 folded before Flop (didn't bet)
 Seat 9: STBIJUJA folded before Flop (didn't bet)"""
 
 
-HAND1 = """PokerStars Hand #182153559719: Tournament #2211561885, $4.10+$0.40 USD Hold'em No Limit - Level VI (100/200) - 2013/10/04 19:53:27 CET [2013/10/04 13:53:27 ET]
+HAND1 = """
+PokerStars Hand #182153559719: Tournament #2211561885, $4.10+$0.40 USD Hold'em No Limit - Level VI (100/200) - 2013/10/04 19:53:27 CET [2013/10/04 13:53:27 ET]
 Table '2211561885 2' 9-max Seat #3 is the button
 Seat 1: Yolo19 (8680 in chips)
 Seat 2: neuiwirt28 (16091 in chips)
