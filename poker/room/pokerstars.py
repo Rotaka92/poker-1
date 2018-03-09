@@ -120,9 +120,12 @@ class PokerStarsHandHistory(hh._SplittableHandHistoryMixin, hh._BaseHandHistory)
         self._split_raw()
 
         match = self._header_re.match(self._splitted[0])
+        #match = _header_re.match(splitted[0])
 
         self.extra = dict()
         self.ident = match.group('ident')
+        #ident = match.group('ident')
+        
 
         # We cannot use the knowledege of the game type to pick between the blind
         # and cash blind captures because a cash game play money blind looks exactly
@@ -161,6 +164,7 @@ class PokerStarsHandHistory(hh._SplittableHandHistoryMixin, hh._BaseHandHistory)
         self.limit = Limit(match.group('limit'))
 
         self._parse_date(match.group('date'))
+        #parse_date(match.group('date'))
 
         self.header_parsed = True
 
@@ -184,14 +188,25 @@ class PokerStarsHandHistory(hh._SplittableHandHistoryMixin, hh._BaseHandHistory)
 
         self._del_split_vars()
         self.parsed = True
+        
+        
+        
+        
 
     def _parse_table(self):
         self._table_match = self._table_re.match(self._splitted[1])
+        #_table_match = _table_re.match(_splitted[1])
         self.table_name = self._table_match.group(1)
+        #table_name = _table_match.group(1)
         self.max_players = int(self._table_match.group(2))
+        #max_players = int(_table_match.group(2))
+        
+        
+        
 
     def _parse_players(self):
         self.players = self._init_seats(self.max_players)
+        #players = _init_seats(max_players)
         for line in self._splitted[2:]:
             match = self._seat_re.match(line)
             # we reached the end of the players section
@@ -202,18 +217,27 @@ class PokerStarsHandHistory(hh._SplittableHandHistoryMixin, hh._BaseHandHistory)
                 name=match.group('name'),
                 stack=int(match.group('stack')),
                 seat=int(match.group('seat')),
-                combo=None
+                combo=None,
+                raw_hand=None
+            
             )
 
     def _parse_button(self):
         button_seat = int(self._table_match.group('button'))
+        #button_seat = int(_table_match.group('button'))
         self.button = self.players[button_seat - 1]
+        #button = players[button_seat - 1]
 
     def _parse_hero(self):
         hole_cards_line = self._splitted[self._sections[0] + 2]
+        #hole_cards_line = _splitted[_sections[0] + 2]
         match = self._hero_re.match(hole_cards_line)
+        #match = _hero_re.match(hole_cards_line)
         hero, hero_index = self._get_hero_from_players(match.group('hero_name'))
+        #hero, hero_index = _get_hero_from_players(match.group('hero_name')),  hero, hero_index = 'ollikahn23', 7       
         hero.combo = Combo(match.group(2) + match.group(3))
+        hero.raw_hand = match.group(2) + match.group(3)
+        #hero.combo = Combo(match.group(2) + match.group(3))
         self.hero = self.players[hero_index] = hero
         if self.button.name == self.hero.name:
             self.button = hero

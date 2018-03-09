@@ -22,7 +22,8 @@ class _Player(object):
     stack = attr.ib()
     seat = attr.ib()
     combo = attr.ib()
-
+    raw_hand = attr.ib()
+    
 
 @attr.s(slots=True)
 class _PlayerAction(object):
@@ -148,6 +149,7 @@ class _BaseHandHistory(object):
 
     def __init__(self, hand_text):
         """Save raw hand history."""
+        #hand_text = HAND1
         self.raw = hand_text.strip()
         self.header_parsed = False
         self.parsed = False
@@ -176,20 +178,26 @@ class _BaseHandHistory(object):
         return tuple(board) if board else None
 
     def _parse_date(self, date_string):
+        #date_string = match.group('date')
         """Parse the date_string and return a datetime object as UTC."""
         date = datetime.strptime(date_string, self._DATE_FORMAT)
+        #date = datetime.strptime(date_string, _DATE_FORMAT)
         self.date = self._TZ.localize(date).astimezone(pytz.UTC)
 
     def _init_seats(self, player_num):
+        #player_num = max_players, players = hh.players
         players = []
         for seat in range(1, player_num + 1):
-            players.append(_Player(name='Empty Seat %s' % seat, stack=0, seat=seat, combo=None))
+            players.append(_Player(name='Empty Seat %s' % seat, stack=0, seat=seat, combo=None, raw_hand=None))
 
         return players
 
     def _get_hero_from_players(self, hero_name):
+        #hero_name = 'ollikahn23'
         player_names = [p.name for p in self.players]
+        #player_names = [p.name for p in players]        
         hero_index = player_names.index(hero_name)
+        #hero_index = player_names.index(hero_name)        
         return self.players[hero_index], hero_index
 
 
@@ -201,9 +209,14 @@ class _SplittableHandHistoryMixin(object):
     def _split_raw(self):
         """Split hand history by sections."""
 
-        self._splitted = self._split_re.split(self.raw)
+         
+        
+        #_splitted = _split_re.split(raw)
+        
         # search split locations (basically empty strings)
         self._sections = [ind for ind, elem in enumerate(self._splitted) if not elem]
+        #_sections = [ind for ind, elem in enumerate(_splitted) if not elem]
+        
 
     def _del_split_vars(self):
         del self._splitted, self._sections

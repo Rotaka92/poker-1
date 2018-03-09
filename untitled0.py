@@ -9,6 +9,7 @@ Created on Wed Feb 07 23:24:38 2018
 from __future__ import unicode_literals
 from __future__ import division
 from poker import Suit
+import re
 
 list(Suit)  #Suit is a class 
 
@@ -126,6 +127,16 @@ p = hh.hero
 
 #what we have?
 p.combo
+
+
+
+
+
+
+
+
+
+
 
 #what is our position
 p.seat
@@ -269,6 +280,12 @@ if any('raises' in v[j] for j in range(len(v[:i]))) and t != 2 and t != 1:
 ###### deuces, a hand evaluator from github #####
 
 from deuces import Card
+from deuces import Evaluator
+evaluator = Evaluator()
+
+
+
+
 card = Card.new('Qh')
 
 
@@ -278,10 +295,6 @@ hand = [Card.new('Qs'), Card.new('Ts')]
 
 
 
-Card.print_pretty_cards(board + hand)
-
-from deuces import Evaluator
-evaluator = Evaluator()
 
 
 ###which strength the hand has
@@ -294,22 +307,14 @@ board = deck.draw(5)
 player1_hand = deck.draw(2)
 player2_hand = deck.draw(2)
 
-Card.print_pretty_cards(board)
-
-Card.print_pretty_cards(player1_hand)
-
-Card.print_pretty_cards(player2_hand)
-
 p1_score = evaluator.evaluate(board, player1_hand)
 
 p2_score = evaluator.evaluate(board, player2_hand)
 
 
-
 p1_class = evaluator.get_rank_class(p1_score)
 
 p2_class = evaluator.get_rank_class(p2_score)
-
 
 
 evaluator.class_to_string(p1_class)
@@ -325,35 +330,37 @@ evaluator.hand_summary(board, hands)
 
 
 
+#what are our raw cards?
+
+raw = HAND1.strip()
+split_re = re.compile(r" ?\*\*\* ?\n?|\n")
+splitted = split_re.split(raw)
+sections = [ind for ind, elem in enumerate(splitted) if not elem]
+hole_cards_line = splitted[sections[0] + 2]
+
+hero_re = re.compile(r"^Dealt to (?P<hero_name>.+?) \[(..) (..)\]")
+match = hero_re.match(hole_cards_line)
+
+#def get_hero_from_players(hero_name):
+#        #hero_name = 'ollikahn23'
+#        player_names = [p.name for p in hh.players]
+#        #player_names = [p.name for p in players]        
+#        hero_index = player_names.index(hero_name)
+#        #hero_index = player_names.index(hero_name)        
+#        return hh.players[hero_index], hero_index
+#
+#hero, hero_index = get_hero_from_players(match.group('hero_name')) 
+
+first_raw_card = match.group(2)
+second_raw_card = match.group(3)
+raw_hand = first_raw_card + second_raw_card
 
 
-a = hh.hero.combo
 
-
-
-combo = Combo('Ts6s')
-
-
-combo1 = Combo('Th6h')
-a = a.to_hand()
-str(a).encoding('base64')
-str(combo)
-
-b = combo.first
-c = combo.second
-
-e = combo.shape
-print(e)
-
-combo._set_cards_in_order(b,c)
-
-
-
-   
    
 hand = [
-   Card.new(d),
-   Card.new(c)
+   Card.new(first_raw_card),
+   Card.new(second_raw_card)
 ]    
     
     
@@ -471,7 +478,63 @@ z2 = hh.show_down
 
 
 
+
+
+from poker.room.pokerstars import PokerStarsHandHistory
+# First step, only raw hand history is saved, no parsing will happen yet
+hh = PokerStarsHandHistory(HAND1)
+hh.parse()
+
+hh.max_players
+hh.players
+hh.button
+hh.hero.combo
+
+
+
 ###################   space for the essential - THE HANDS #################
+
+HAND1 = """
+PokerStars Hand #183001414583:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 19:47:59 ET
+Table 'Sarin' 9-max Seat #8 is the button
+Seat 1: ollikahn23 ($10 in chips) 
+Seat 2: your_drama1 ($18.73 in chips) 
+Seat 3: Sasha Ghan ($13.88 in chips) 
+Seat 4: Velliton87 ($10.16 in chips) 
+Seat 5: kasatka07 ($17.53 in chips) 
+Seat 6: Denisella ($10.24 in chips) 
+Seat 7: Mr_Dick666 ($11.06 in chips) 
+Seat 8: JasonAG ($10.32 in chips) 
+Seat 9: ZuJIOk ($18.53 in chips) 
+ZuJIOk: posts small blind $0.05
+ollikahn23: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6h Th]
+your_drama1: folds 
+Sasha Ghan: folds 
+Velliton87: folds 
+kasatka07: folds 
+Denisella: folds 
+Mr_Dick666: folds 
+JasonAG: raises $0.10 to $0.20
+ZuJIOk: folds 
+ollikahn23: folds 
+Uncalled bet ($0.10) returned to JasonAG
+JasonAG collected $0.25 from pot
+JasonAG: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: ollikahn23 (big blind) folded before Flop
+Seat 2: your_drama1 folded before Flop (didn't bet)
+Seat 3: Sasha Ghan folded before Flop (didn't bet)
+Seat 4: Velliton87 folded before Flop (didn't bet)
+Seat 5: kasatka07 folded before Flop (didn't bet)
+Seat 6: Denisella folded before Flop (didn't bet)
+Seat 7: Mr_Dick666 folded before Flop (didn't bet)
+Seat 8: JasonAG (button) collected ($0.25)
+Seat 9: ZuJIOk (small blind) folded before Flop"""
+
+
 
 HAND1 = """
 PokerStars Hand #182153766627: Tournament #2211561885, $4.10+$0.40 USD Hold'em No Limit - Level VII (125/250) - 2018/02/07 14:49:30 CET [2018/02/07 8:49:30 ET]
