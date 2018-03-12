@@ -9,7 +9,9 @@ Created on Wed Feb 07 23:24:38 2018
 from __future__ import unicode_literals
 from __future__ import division
 from poker import Suit
+import time
 import re
+import random
 
 list(Suit)  #Suit is a class 
 
@@ -284,21 +286,19 @@ from deuces import Evaluator
 evaluator = Evaluator()
 
 
-
-
-card = Card.new('Qh')
-
-
-board = [Card.new('Ah'), Card.new('Kh'), Card.new('Jh'), Card.new('2s'), Card.new('3h')]
-
-hand = [Card.new('Qs'), Card.new('Ts')]
+#card = Card.new('Qh')
+#
+#
+#board = [Card.new('Ah'), Card.new('Kh'), Card.new('Jh'), Card.new('2s'), Card.new('3h')]
+#
+#hand = [Card.new('Qs'), Card.new('Ts')]
 
 
 
 
 
 ###which strength the hand has
-print evaluator.evaluate(board, hand)
+#print evaluator.evaluate(board, hand)
 
 
 from deuces import Deck
@@ -320,6 +320,10 @@ p2_class = evaluator.get_rank_class(p2_score)
 evaluator.class_to_string(p1_class)
 
 evaluator.class_to_string(p2_class)
+
+
+
+
 
 
 hands = [player1_hand, player2_hand]
@@ -369,20 +373,74 @@ print evaluator.evaluate(hand)
 
 #calculating our equity preflop, regarding the count of players
 
-import random
-from deuces import Deck
 
-deck = Deck()
-
-player1_hand = hand
-a = deck.cards.remove(hand[0], hand[1])
-
-player2_hand = deck.draw(2)
-board = deck.draw(5)
+p11 = 0                 #how often do we win
+p22 = 0                 #how often opponents win
+opp = 4                 #against how many opponent we have to play
+playerHero_hand = hand  #our hand
 
 
+start_time = time.time()
+for i in range(20000):   
+    #constructin the whole deck
+    deck = Deck()
+    
+    
+    #Card.print_pretty_cards(player1_hand)
+    
+    
+    #removing our own hand from the deck
+    deck.cards.remove(hand[0])
+    deck.cards.remove(hand[1])
+    
+    
+    d = {}
+    for j in range(opp):
+        #giving a random player random cards
+        d['player%s_hand'%j] = deck.draw(2)
+        
+    #Card.print_pretty_cards(d['player2_hand'])
+   
+    #Card.print_pretty_cards(d['player3_hand'])
+    
+    
+    board = deck.draw(5)
+    #Card.print_pretty_cards(board)
+    
+    
+    #hands = [player1_hand, player2_hand, player3_hand]
+    #evaluator.hand_summary(board, hands)
+    
+    #how strong are the hands from our opponents
+    e = {}
+    for k in range(opp):
+        e['p%s_score'%k] = evaluator.evaluate(board, d['player%s_hand'%k])
+#        p1_score = evaluator.evaluate(board, player1_hand)
+#        p2_score = evaluator.evaluate(board, player2_hand)
+#        p3_score = evaluator.evaluate(board, player3_hand)
+    
+    
+    #how strong is our hand
+    e['pHero_score'] = evaluator.evaluate(board, playerHero_hand)
+    
+    
+    if min(e, key=e.get) == 'pHero_score':
+        p11 += 1
+        
+    else:
+        p22 += 1
+   
+
+rate = p11/20000
 
 
+if rate < potOdds0:
+    print('Fold the Hand preflop')
+    
+else:
+    print('Call/ Raise the Hand preflop')
+    
+print("--- %s seconds ---" % (time.time() - start_time))
 
 
 
@@ -602,51 +660,6 @@ Seat 5: Jahjge (big blind) folded on the Flop
 Seat 6: AlekseyK7777 folded on the Flop
 Seat 7: RTS-Rob showed [Tc 9c] and lost with a pair of Eights
 Seat 8: ollikahn23 showed [7h 7s] and won (11837) with a full house, Sevens full of Eights"""
-
-
-HAND1 = """
-PokerStars Hand #105024000105: Tournament #797469411, $3.19+$0.31 USD Hold'em No Limit - Level I (10/20) - 2013/10/04 19:53:27 CET [2013/10/04 13:53:27 ET]
-Table '797469411 15' 9-max Seat #1 is the button
-Seat 1: flettl2 (1500 in chips)
-Seat 2: santy312 (3000 in chips)
-Seat 3: flavio766 (3000 in chips)
-Seat 4: strongi82 (3000 in chips)
-Seat 5: W2lkm2n (3000 in chips)
-Seat 6: MISTRPerfect (3000 in chips)
-Seat 7: blak_douglas (3000 in chips)
-Seat 8: sinus91 (1500 in chips)
-Seat 9: STBIJUJA (1500 in chips)
-santy312: posts small blind 10
-flavio766: posts big blind 20
-*** HOLE CARDS ***
-Dealt to W2lkm2n [Ac Jh]
-strongi82: folds
-W2lkm2n: raises 40 to 60
-MISTRPerfect: calls 60
-blak_douglas: folds
-sinus91: folds
-STBIJUJA: folds
-flettl2: folds
-santy312: folds
-flavio766: folds
-*** FLOP *** [2s 6d 6h]
-W2lkm2n: bets 80
-MISTRPerfect: folds
-Uncalled bet (80) returned to W2lkm2n
-W2lkm2n collected 150 from pot
-W2lkm2n: doesn't show hand
-*** SUMMARY ***
-Total pot 150 | Rake 0
-Board [2s 6d 6h]
-Seat 1: flettl2 (button) folded before Flop (didn't bet)
-Seat 2: santy312 (small blind) folded before Flop
-Seat 3: flavio766 (big blind) folded before Flop
-Seat 4: strongi82 folded before Flop (didn't bet)
-Seat 5: W2lkm2n collected (150)
-Seat 6: MISTRPerfect folded on the Flop
-Seat 7: blak_douglas folded before Flop (didn't bet)
-Seat 8: sinus91 folded before Flop (didn't bet)
-Seat 9: STBIJUJA folded before Flop (didn't bet)"""
 
 
 HAND1 = """
