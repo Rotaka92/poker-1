@@ -355,8 +355,6 @@ first_raw_card = match.group(2)
 second_raw_card = match.group(3)
 raw_hand = first_raw_card + second_raw_card
 
-
-
    
 hand = [
    Card.new(first_raw_card),
@@ -366,13 +364,21 @@ hand = [
     
 
 
+print evaluator.evaluate(hand)
 
 
+#calculating our equity preflop, regarding the count of players
 
+import random
+from deuces import Deck
 
+deck = Deck()
 
+player1_hand = hand
+a = deck.cards.remove(hand[0], hand[1])
 
-
+player2_hand = deck.draw(2)
+board = deck.draw(5)
 
 
 
@@ -701,5 +707,58 @@ Seat 7: RTS-Rob folded before Flop
 Seat 8: ollikahn23 showed [6h 6s] and won (6526) with three of a kind, Sixes
 Seat 9: ionelinho28 showed [Jc Kc] and lost with a pair of Jacks"""
 
-
+HAND1 = """
+PokerStars Hand #183649371977: Tournament #2244789271, $4.10+$0.40 USD Hold'em No Limit - Level IX (200/400) - 2018/03/10 11:29:54 ET
+Table '2244789271 8' 9-max Seat #5 is the button
+Seat 2: L'éternité (18498 in chips) 
+Seat 3: ollikahn23 (7440 in chips) 
+Seat 4: Jacobob_Jr (4513 in chips) 
+Seat 5: kidkid84 (7853 in chips) 
+Seat 6: MoAKs70 (4738 in chips) 
+Seat 8: Matt242 (18838 in chips) 
+Seat 9: Alt4y (12010 in chips) 
+L'éternité: posts the ante 50
+ollikahn23: posts the ante 50
+Jacobob_Jr: posts the ante 50
+kidkid84: posts the ante 50
+MoAKs70: posts the ante 50
+Matt242: posts the ante 50
+Alt4y: posts the ante 50
+MoAKs70: posts small blind 200
+Matt242: posts big blind 400
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qs Qc]
+Alt4y: folds 
+L'éternité: raises 500 to 900
+ollikahn23: calls 900
+Jacobob_Jr: folds 
+kidkid84: folds 
+MoAKs70: folds 
+Matt242: folds 
+*** FLOP *** [Ad Js Ks]
+L'éternité: bets 908
+ollikahn23: calls 908
+*** TURN *** [Ad Js Ks] [5s]
+L'éternité: bets 1507
+ollikahn23: raises 2093 to 3600
+L'éternité: calls 2093
+*** RIVER *** [Ad Js Ks 5s] [3c]
+L'éternité: bets 2000
+ollikahn23: calls 1982 and is all-in
+Uncalled bet (18) returned to L'éternité
+*** SHOW DOWN ***
+L'éternité: shows [As 9s] (a flush, Ace high)
+ollikahn23: shows [Qs Qc] (a pair of Queens)
+L'éternité collected 15730 from pot
+ollikahn23 finished the tournament in 14th place and received $5.93.
+*** SUMMARY ***
+Total pot 15730 | Rake 0 
+Board [Ad Js Ks 5s 3c]
+Seat 2: L'éternité showed [As 9s] and won (15730) with a flush, Ace high
+Seat 3: ollikahn23 showed [Qs Qc] and lost with a pair of Queens
+Seat 4: Jacobob_Jr folded before Flop (didn't bet)
+Seat 5: kidkid84 (button) folded before Flop (didn't bet)
+Seat 6: MoAKs70 (small blind) folded before Flop
+Seat 8: Matt242 (big blind) folded before Flop
+Seat 9: Alt4y folded before Flop (didn't bet)"""
 

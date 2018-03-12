@@ -1,0 +1,721 @@
+﻿PokerStars Hand #183643834883:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/10 9:22:17 ET
+Table 'Lucia' 9-max Seat #4 is the button
+Seat 1: Gladiator_k2 ($11.40 in chips) 
+Seat 2: MyVina ($4.93 in chips) 
+Seat 3: CrazyRock90 ($4.59 in chips) 
+Seat 4: bolonko138 ($5.22 in chips) 
+Seat 5: winkiAA ($15.93 in chips) 
+Seat 6: ollikahn23 ($5 in chips) 
+Seat 7: YUKINON ($5.33 in chips) 
+Seat 8: Tachanka1967 ($5 in chips) 
+Seat 9: lurraca ($4.07 in chips) 
+winkiAA: posts small blind $0.02
+ollikahn23: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7c 7d]
+YUKINON: folds 
+Tachanka1967: folds 
+lurraca: raises $0.10 to $0.15
+Gladiator_k2: folds 
+MyVina: folds 
+CrazyRock90: folds 
+bolonko138: folds 
+winkiAA: calls $0.13
+ollikahn23: calls $0.10
+*** FLOP *** [6h 8d Td]
+winkiAA: checks 
+ollikahn23: checks 
+lurraca: bets $0.45
+winkiAA: folds 
+ollikahn23: folds 
+Uncalled bet ($0.45) returned to lurraca
+lurraca collected $0.43 from pot
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [6h 8d Td]
+Seat 1: Gladiator_k2 folded before Flop (didn't bet)
+Seat 2: MyVina folded before Flop (didn't bet)
+Seat 3: CrazyRock90 folded before Flop (didn't bet)
+Seat 4: bolonko138 (button) folded before Flop (didn't bet)
+Seat 5: winkiAA (small blind) folded on the Flop
+Seat 6: ollikahn23 (big blind) folded on the Flop
+Seat 7: YUKINON folded before Flop (didn't bet)
+Seat 8: Tachanka1967 folded before Flop (didn't bet)
+Seat 9: lurraca collected ($0.43)
+
+
+
+PokerStars Hand #183643862144:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/10 9:22:57 ET
+Table 'Lucia' 9-max Seat #5 is the button
+Seat 1: Gladiator_k2 ($11.40 in chips) 
+Seat 2: MyVina ($4.93 in chips) 
+Seat 3: CrazyRock90 ($4.59 in chips) 
+Seat 4: bolonko138 ($5.22 in chips) 
+Seat 5: winkiAA ($15.78 in chips) 
+Seat 6: ollikahn23 ($5 in chips) 
+Seat 7: YUKINON ($5.33 in chips) 
+Seat 8: Tachanka1967 ($5 in chips) 
+Seat 9: lurraca ($4.35 in chips) 
+ollikahn23: posts small blind $0.02
+YUKINON: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5s Ac]
+Tachanka1967: folds 
+lurraca: raises $0.05 to $0.10
+Gladiator_k2: folds 
+MyVina: folds 
+CrazyRock90: folds 
+bolonko138: folds 
+winkiAA: folds 
+ollikahn23: folds 
+YUKINON: folds 
+Uncalled bet ($0.05) returned to lurraca
+lurraca collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Gladiator_k2 folded before Flop (didn't bet)
+Seat 2: MyVina folded before Flop (didn't bet)
+Seat 3: CrazyRock90 folded before Flop (didn't bet)
+Seat 4: bolonko138 folded before Flop (didn't bet)
+Seat 5: winkiAA (button) folded before Flop (didn't bet)
+Seat 6: ollikahn23 (small blind) folded before Flop
+Seat 7: YUKINON (big blind) folded before Flop
+Seat 8: Tachanka1967 folded before Flop (didn't bet)
+Seat 9: lurraca collected ($0.12)
+
+
+
+PokerStars Hand #183643879816:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/10 9:23:22 ET
+Table 'Lucia' 9-max Seat #6 is the button
+Seat 1: Gladiator_k2 ($11.40 in chips) 
+Seat 2: MyVina ($4.93 in chips) 
+Seat 3: CrazyRock90 ($4.59 in chips) 
+Seat 4: bolonko138 ($5.22 in chips) 
+Seat 5: winkiAA ($15.78 in chips) 
+Seat 6: ollikahn23 ($5 in chips) 
+Seat 7: YUKINON ($5.28 in chips) 
+Seat 8: Tachanka1967 ($5 in chips) 
+Seat 9: lurraca ($4.42 in chips) 
+YUKINON: posts small blind $0.02
+Tachanka1967: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4s 5s]
+lurraca: folds 
+Gladiator_k2: folds 
+MyVina: raises $0.07 to $0.12
+CrazyRock90: folds 
+bolonko138: folds 
+winkiAA: calls $0.12
+ollikahn23: folds 
+YUKINON: folds 
+Tachanka1967: raises $0.07 to $0.19
+MyVina: calls $0.07
+winkiAA: calls $0.07
+*** FLOP *** [Ts 7h 4h]
+Tachanka1967: bets $0.57
+MyVina: calls $0.57
+winkiAA: folds 
+*** TURN *** [Ts 7h 4h] [Th]
+Tachanka1967: bets $0.83
+MyVina: calls $0.83
+*** RIVER *** [Ts 7h 4h Th] [Td]
+Tachanka1967: bets $1.62
+MyVina: raises $1.72 to $3.34 and is all-in
+Tachanka1967: calls $1.72
+*** SHOW DOWN ***
+MyVina: shows [Kc Kh] (a full house, Tens full of Kings)
+Tachanka1967: shows [7s As] (a full house, Tens full of Sevens)
+MyVina collected $9.65 from pot
+*** SUMMARY ***
+Total pot $10.07 | Rake $0.42 
+Board [Ts 7h 4h Th Td]
+Seat 1: Gladiator_k2 folded before Flop (didn't bet)
+Seat 2: MyVina showed [Kc Kh] and won ($9.65) with a full house, Tens full of Kings
+Seat 3: CrazyRock90 folded before Flop (didn't bet)
+Seat 4: bolonko138 folded before Flop (didn't bet)
+Seat 5: winkiAA folded on the Flop
+Seat 6: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 7: YUKINON (small blind) folded before Flop
+Seat 8: Tachanka1967 (big blind) showed [7s As] and lost with a full house, Tens full of Sevens
+Seat 9: lurraca folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183643936508:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/10 9:24:44 ET
+Table 'Lucia' 9-max Seat #7 is the button
+Seat 1: Gladiator_k2 ($11.40 in chips) 
+Seat 2: MyVina ($9.65 in chips) 
+Seat 3: CrazyRock90 ($4.59 in chips) 
+Seat 4: bolonko138 ($5.22 in chips) 
+Seat 5: winkiAA ($15.59 in chips) 
+Seat 6: ollikahn23 ($5 in chips) 
+Seat 7: YUKINON ($5.26 in chips) 
+Seat 8: Tachanka1967 ($5 in chips) 
+Seat 9: lurraca ($4.42 in chips) 
+Tachanka1967: posts small blind $0.02
+lurraca: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Td 7s]
+Gladiator_k2: folds 
+MyVina: folds 
+CrazyRock90: folds 
+bolonko138: folds 
+winkiAA: folds 
+ollikahn23: folds 
+YUKINON: folds 
+Tachanka1967: folds 
+Uncalled bet ($0.03) returned to lurraca
+lurraca collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Gladiator_k2 folded before Flop (didn't bet)
+Seat 2: MyVina folded before Flop (didn't bet)
+Seat 3: CrazyRock90 folded before Flop (didn't bet)
+Seat 4: bolonko138 folded before Flop (didn't bet)
+Seat 5: winkiAA folded before Flop (didn't bet)
+Seat 6: ollikahn23 folded before Flop (didn't bet)
+Seat 7: YUKINON (button) folded before Flop (didn't bet)
+Seat 8: Tachanka1967 (small blind) folded before Flop
+Seat 9: lurraca (big blind) collected ($0.04)
+
+
+
+PokerStars Hand #183643952161:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/10 9:25:06 ET
+Table 'Lucia' 9-max Seat #8 is the button
+Seat 1: Gladiator_k2 ($11.40 in chips) 
+Seat 2: MyVina ($9.65 in chips) 
+Seat 3: CrazyRock90 ($4.59 in chips) 
+Seat 4: bolonko138 ($5.22 in chips) 
+Seat 5: winkiAA ($15.59 in chips) 
+Seat 6: ollikahn23 ($5 in chips) 
+Seat 7: YUKINON ($5.26 in chips) 
+Seat 8: Tachanka1967 ($4.98 in chips) 
+Seat 9: lurraca ($4.44 in chips) 
+lurraca: posts small blind $0.02
+Gladiator_k2: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7h 7s]
+MyVina: folds 
+CrazyRock90: folds 
+bolonko138: folds 
+winkiAA: folds 
+ollikahn23: raises $0.05 to $0.10
+YUKINON: folds 
+Tachanka1967: folds 
+lurraca: folds 
+Gladiator_k2: folds 
+Uncalled bet ($0.05) returned to ollikahn23
+ollikahn23 collected $0.12 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Gladiator_k2 (big blind) folded before Flop
+Seat 2: MyVina folded before Flop (didn't bet)
+Seat 3: CrazyRock90 folded before Flop (didn't bet)
+Seat 4: bolonko138 folded before Flop (didn't bet)
+Seat 5: winkiAA folded before Flop (didn't bet)
+Seat 6: ollikahn23 collected ($0.12)
+Seat 7: YUKINON folded before Flop (didn't bet)
+Seat 8: Tachanka1967 (button) folded before Flop (didn't bet)
+Seat 9: lurraca (small blind) folded before Flop
+
+
+
+PokerStars Hand #183643967503:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/10 9:25:28 ET
+Table 'Lucia' 9-max Seat #9 is the button
+Seat 1: Gladiator_k2 ($11.35 in chips) 
+Seat 3: CrazyRock90 ($4.59 in chips) 
+Seat 4: bolonko138 ($5.22 in chips) 
+Seat 5: winkiAA ($15.59 in chips) 
+Seat 6: ollikahn23 ($5.07 in chips) 
+Seat 7: YUKINON ($5.26 in chips) 
+Seat 8: Tachanka1967 ($4.98 in chips) 
+Seat 9: lurraca ($4.42 in chips) 
+Gladiator_k2: posts small blind $0.02
+MyVina: is sitting out 
+CrazyRock90: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3h Ac]
+bolonko138: folds 
+winkiAA: folds 
+ollikahn23: folds 
+YUKINON: folds 
+MyVina leaves the table
+Tachanka1967: folds 
+lurraca: raises $0.10 to $0.15
+Gladiator_k2: folds 
+CrazyRock90: calls $0.10
+*** FLOP *** [Jd 8s 3c]
+CrazyRock90: bets $0.15
+lurraca: folds 
+Uncalled bet ($0.15) returned to CrazyRock90
+CrazyRock90 collected $0.31 from pot
+CrazyRock90: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [Jd 8s 3c]
+Seat 1: Gladiator_k2 (small blind) folded before Flop
+Seat 3: CrazyRock90 (big blind) collected ($0.31)
+Seat 4: bolonko138 folded before Flop (didn't bet)
+Seat 5: winkiAA folded before Flop (didn't bet)
+Seat 6: ollikahn23 folded before Flop (didn't bet)
+Seat 7: YUKINON folded before Flop (didn't bet)
+Seat 8: Tachanka1967 folded before Flop (didn't bet)
+Seat 9: lurraca (button) folded on the Flop
+
+
+
+PokerStars Hand #183643992199:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/10 9:26:04 ET
+Table 'Lucia' 9-max Seat #1 is the button
+Seat 1: Gladiator_k2 ($11.33 in chips) 
+Seat 3: CrazyRock90 ($4.75 in chips) 
+Seat 4: bolonko138 ($5.22 in chips) 
+Seat 5: winkiAA ($15.59 in chips) 
+Seat 6: ollikahn23 ($5.07 in chips) 
+Seat 7: YUKINON ($5.26 in chips) 
+Seat 8: Tachanka1967 ($4.98 in chips) 
+Seat 9: lurraca ($4.27 in chips) 
+CrazyRock90: posts small blind $0.02
+bolonko138: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3h 9s]
+MenaceMerlin joins the table at seat #2 
+winkiAA: folds 
+ollikahn23: folds 
+YUKINON: folds 
+Tachanka1967: folds 
+lurraca: folds 
+Gladiator_k2: folds 
+CrazyRock90: folds 
+Uncalled bet ($0.03) returned to bolonko138
+bolonko138 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Gladiator_k2 (button) folded before Flop (didn't bet)
+Seat 3: CrazyRock90 (small blind) folded before Flop
+Seat 4: bolonko138 (big blind) collected ($0.04)
+Seat 5: winkiAA folded before Flop (didn't bet)
+Seat 6: ollikahn23 folded before Flop (didn't bet)
+Seat 7: YUKINON folded before Flop (didn't bet)
+Seat 8: Tachanka1967 folded before Flop (didn't bet)
+Seat 9: lurraca folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183644002361:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/10 9:26:19 ET
+Table 'Lucia' 9-max Seat #3 is the button
+Seat 1: Gladiator_k2 ($11.33 in chips) 
+Seat 2: MenaceMerlin ($4.68 in chips) 
+Seat 3: CrazyRock90 ($4.73 in chips) 
+Seat 4: bolonko138 ($5.24 in chips) 
+Seat 5: winkiAA ($15.59 in chips) 
+Seat 6: ollikahn23 ($5.07 in chips) 
+Seat 7: YUKINON ($5.26 in chips) 
+Seat 8: Tachanka1967 ($4.98 in chips) 
+Seat 9: lurraca ($4.27 in chips) 
+bolonko138: posts small blind $0.02
+winkiAA: posts big blind $0.05
+MenaceMerlin: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4s 2d]
+ollikahn23: folds 
+YUKINON: folds 
+Tachanka1967: raises $0.05 to $0.10
+lurraca: raises $0.05 to $0.15
+Gladiator_k2: folds 
+MenaceMerlin: calls $0.10
+CrazyRock90: folds 
+bolonko138: folds 
+winkiAA: folds 
+Tachanka1967: calls $0.05
+*** FLOP *** [Tc 3s 8d]
+Tachanka1967: checks 
+lurraca: checks 
+MenaceMerlin: checks 
+*** TURN *** [Tc 3s 8d] [4h]
+Tachanka1967: checks 
+lurraca: checks 
+MenaceMerlin: bets $0.10
+Tachanka1967: folds 
+lurraca: folds 
+Uncalled bet ($0.10) returned to MenaceMerlin
+MenaceMerlin collected $0.50 from pot
+MenaceMerlin: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.52 | Rake $0.02 
+Board [Tc 3s 8d 4h]
+Seat 1: Gladiator_k2 folded before Flop (didn't bet)
+Seat 2: MenaceMerlin collected ($0.50)
+Seat 3: CrazyRock90 (button) folded before Flop (didn't bet)
+Seat 4: bolonko138 (small blind) folded before Flop
+Seat 5: winkiAA (big blind) folded before Flop
+Seat 6: ollikahn23 folded before Flop (didn't bet)
+Seat 7: YUKINON folded before Flop (didn't bet)
+Seat 8: Tachanka1967 folded on the Turn
+Seat 9: lurraca folded on the Turn
+
+
+
+PokerStars Hand #183644049803:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/10 9:27:27 ET
+Table 'Lucia' 9-max Seat #4 is the button
+Seat 1: Gladiator_k2 ($11.33 in chips) 
+Seat 2: MenaceMerlin ($5.03 in chips) 
+Seat 3: CrazyRock90 ($4.73 in chips) 
+Seat 4: bolonko138 ($5.22 in chips) 
+Seat 5: winkiAA ($15.54 in chips) 
+Seat 6: ollikahn23 ($5.07 in chips) 
+Seat 7: YUKINON ($5.26 in chips) 
+Seat 8: Tachanka1967 ($4.83 in chips) 
+Seat 9: lurraca ($4.12 in chips) 
+winkiAA: posts small blind $0.02
+ollikahn23: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qs 6c]
+YUKINON: folds 
+Tachanka1967: raises $0.05 to $0.10
+lurraca: folds 
+Gladiator_k2: calls $0.10
+MenaceMerlin: calls $0.10
+CrazyRock90: folds 
+bolonko138: folds 
+winkiAA: folds 
+ollikahn23: folds 
+*** FLOP *** [Tc 2h 4d]
+Tachanka1967: bets $0.35
+Gladiator_k2: folds 
+MenaceMerlin: calls $0.35
+*** TURN *** [Tc 2h 4d] [5c]
+Tachanka1967: checks 
+MenaceMerlin: checks 
+*** RIVER *** [Tc 2h 4d 5c] [6h]
+Tachanka1967: bets $1.03
+MenaceMerlin: folds 
+Uncalled bet ($1.03) returned to Tachanka1967
+Tachanka1967 collected $1.03 from pot
+Tachanka1967: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.07 | Rake $0.04 
+Board [Tc 2h 4d 5c 6h]
+Seat 1: Gladiator_k2 folded on the Flop
+Seat 2: MenaceMerlin folded on the River
+Seat 3: CrazyRock90 folded before Flop (didn't bet)
+Seat 4: bolonko138 (button) folded before Flop (didn't bet)
+Seat 5: winkiAA (small blind) folded before Flop
+Seat 6: ollikahn23 (big blind) folded before Flop
+Seat 7: YUKINON folded before Flop (didn't bet)
+Seat 8: Tachanka1967 collected ($1.03)
+Seat 9: lurraca folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183644095233:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/10 9:28:32 ET
+Table 'Lucia' 9-max Seat #5 is the button
+Seat 1: Gladiator_k2 ($11.23 in chips) 
+Seat 2: MenaceMerlin ($4.58 in chips) 
+Seat 3: CrazyRock90 ($4.73 in chips) 
+Seat 4: bolonko138 ($5.22 in chips) 
+Seat 5: winkiAA ($15.52 in chips) 
+Seat 6: ollikahn23 ($5.02 in chips) 
+Seat 7: YUKINON ($5.26 in chips) 
+Seat 8: Tachanka1967 ($5.41 in chips) 
+Seat 9: lurraca ($4.12 in chips) 
+ollikahn23: posts small blind $0.02
+YUKINON: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4d Th]
+Tachanka1967: raises $0.10 to $0.15
+lurraca: folds 
+Gladiator_k2: folds 
+MenaceMerlin: folds 
+CrazyRock90: folds 
+bolonko138: folds 
+winkiAA: raises $0.30 to $0.45
+ollikahn23: folds 
+YUKINON: folds 
+Tachanka1967: raises $4.96 to $5.41 and is all-in
+winkiAA: calls $4.96
+*** FLOP *** [2c 8s Tc]
+*** TURN *** [2c 8s Tc] [Ad]
+*** RIVER *** [2c 8s Tc Ad] [5d]
+*** SHOW DOWN ***
+Tachanka1967: shows [Ah Ks] (a pair of Aces)
+winkiAA: shows [Qh Qc] (a pair of Queens)
+Tachanka1967 collected $10.44 from pot
+*** SUMMARY ***
+Total pot $10.89 | Rake $0.45 
+Board [2c 8s Tc Ad 5d]
+Seat 1: Gladiator_k2 folded before Flop (didn't bet)
+Seat 2: MenaceMerlin folded before Flop (didn't bet)
+Seat 3: CrazyRock90 folded before Flop (didn't bet)
+Seat 4: bolonko138 folded before Flop (didn't bet)
+Seat 5: winkiAA (button) showed [Qh Qc] and lost with a pair of Queens
+Seat 6: ollikahn23 (small blind) folded before Flop
+Seat 7: YUKINON (big blind) folded before Flop
+Seat 8: Tachanka1967 showed [Ah Ks] and won ($10.44) with a pair of Aces
+Seat 9: lurraca folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183644125323:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/10 9:29:14 ET
+Table 'Lucia' 9-max Seat #6 is the button
+Seat 1: Gladiator_k2 ($11.23 in chips) 
+Seat 2: MenaceMerlin ($4.58 in chips) 
+Seat 3: CrazyRock90 ($4.73 in chips) 
+Seat 4: bolonko138 ($5.22 in chips) 
+Seat 5: winkiAA ($10.11 in chips) 
+Seat 6: ollikahn23 ($5 in chips) 
+Seat 7: YUKINON ($5.21 in chips) 
+Seat 8: Tachanka1967 ($10.44 in chips) 
+Seat 9: lurraca ($4.12 in chips) 
+YUKINON: posts small blind $0.02
+Tachanka1967: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9d 4c]
+lurraca: raises $0.10 to $0.15
+Gladiator_k2: folds 
+MenaceMerlin: folds 
+CrazyRock90: folds 
+bolonko138: folds 
+winkiAA: folds 
+ollikahn23: folds 
+YUKINON: folds 
+Tachanka1967: folds 
+Uncalled bet ($0.10) returned to lurraca
+lurraca collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Gladiator_k2 folded before Flop (didn't bet)
+Seat 2: MenaceMerlin folded before Flop (didn't bet)
+Seat 3: CrazyRock90 folded before Flop (didn't bet)
+Seat 4: bolonko138 folded before Flop (didn't bet)
+Seat 5: winkiAA folded before Flop (didn't bet)
+Seat 6: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 7: YUKINON (small blind) folded before Flop
+Seat 8: Tachanka1967 (big blind) folded before Flop
+Seat 9: lurraca collected ($0.12)
+
+
+
+PokerStars Hand #183644148662:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/10 9:29:48 ET
+Table 'Lucia' 9-max Seat #7 is the button
+Seat 1: Gladiator_k2 ($11.23 in chips) 
+Seat 2: MenaceMerlin ($4.58 in chips) 
+Seat 3: CrazyRock90 ($4.73 in chips) 
+Seat 4: bolonko138 ($5.22 in chips) 
+Seat 5: winkiAA ($10.11 in chips) 
+Seat 6: ollikahn23 ($5 in chips) 
+Seat 7: YUKINON ($5.19 in chips) 
+Seat 8: Tachanka1967 ($10.39 in chips) 
+Seat 9: lurraca ($4.19 in chips) 
+Tachanka1967: posts small blind $0.02
+lurraca: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kc 8h]
+Gladiator_k2: folds 
+MenaceMerlin: folds 
+CrazyRock90: folds 
+bolonko138: folds 
+winkiAA: folds 
+ollikahn23: folds 
+YUKINON: folds 
+Tachanka1967: raises $0.10 to $0.15
+lurraca: calls $0.10
+*** FLOP *** [4h 6h Jh]
+Tachanka1967: checks 
+lurraca: bets $0.35
+Tachanka1967: calls $0.35
+*** TURN *** [4h 6h Jh] [2h]
+Tachanka1967: bets $0.96
+lurraca: folds 
+Uncalled bet ($0.96) returned to Tachanka1967
+Tachanka1967 collected $0.96 from pot
+Tachanka1967: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.04 
+Board [4h 6h Jh 2h]
+Seat 1: Gladiator_k2 folded before Flop (didn't bet)
+Seat 2: MenaceMerlin folded before Flop (didn't bet)
+Seat 3: CrazyRock90 folded before Flop (didn't bet)
+Seat 4: bolonko138 folded before Flop (didn't bet)
+Seat 5: winkiAA folded before Flop (didn't bet)
+Seat 6: ollikahn23 folded before Flop (didn't bet)
+Seat 7: YUKINON (button) folded before Flop (didn't bet)
+Seat 8: Tachanka1967 (small blind) collected ($0.96)
+Seat 9: lurraca (big blind) folded on the Turn
+
+
+
+PokerStars Hand #183644190987:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/10 9:30:47 ET
+Table 'Lucia' 9-max Seat #8 is the button
+Seat 1: Gladiator_k2 ($11.23 in chips) 
+Seat 2: MenaceMerlin ($4.58 in chips) 
+Seat 3: CrazyRock90 ($4.73 in chips) 
+Seat 4: bolonko138 ($5.22 in chips) 
+Seat 5: winkiAA ($10.11 in chips) 
+Seat 6: ollikahn23 ($5 in chips) 
+Seat 7: YUKINON ($5.19 in chips) 
+Seat 8: Tachanka1967 ($10.85 in chips) 
+Seat 9: lurraca ($3.69 in chips) 
+lurraca: posts small blind $0.02
+Gladiator_k2: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qd Jc]
+MenaceMerlin: folds 
+CrazyRock90: folds 
+bolonko138: folds 
+winkiAA: folds 
+ollikahn23: folds 
+YUKINON: folds 
+Tachanka1967: raises $0.10 to $0.15
+lurraca: folds 
+Gladiator_k2: folds 
+Uncalled bet ($0.10) returned to Tachanka1967
+Tachanka1967 collected $0.12 from pot
+Tachanka1967: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: Gladiator_k2 (big blind) folded before Flop
+Seat 2: MenaceMerlin folded before Flop (didn't bet)
+Seat 3: CrazyRock90 folded before Flop (didn't bet)
+Seat 4: bolonko138 folded before Flop (didn't bet)
+Seat 5: winkiAA folded before Flop (didn't bet)
+Seat 6: ollikahn23 folded before Flop (didn't bet)
+Seat 7: YUKINON folded before Flop (didn't bet)
+Seat 8: Tachanka1967 (button) collected ($0.12)
+Seat 9: lurraca (small blind) folded before Flop
+
+
+
+PokerStars Hand #183644204992:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/10 9:31:07 ET
+Table 'Lucia' 9-max Seat #9 is the button
+Seat 1: Gladiator_k2 ($11.18 in chips) 
+Seat 2: MenaceMerlin ($4.58 in chips) 
+Seat 3: CrazyRock90 ($4.73 in chips) 
+Seat 4: bolonko138 ($5.22 in chips) 
+Seat 5: winkiAA ($10.11 in chips) 
+Seat 6: ollikahn23 ($5 in chips) 
+Seat 7: YUKINON ($5.19 in chips) 
+Seat 8: Tachanka1967 ($10.92 in chips) 
+Seat 9: lurraca ($3.67 in chips) 
+Gladiator_k2: posts small blind $0.02
+MenaceMerlin: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7c 5c]
+CrazyRock90: folds 
+bolonko138: folds 
+winkiAA: folds 
+ollikahn23: folds 
+YUKINON: folds 
+Tachanka1967: folds 
+lurraca: folds 
+Gladiator_k2: folds 
+Uncalled bet ($0.03) returned to MenaceMerlin
+MenaceMerlin collected $0.04 from pot
+MenaceMerlin: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: Gladiator_k2 (small blind) folded before Flop
+Seat 2: MenaceMerlin (big blind) collected ($0.04)
+Seat 3: CrazyRock90 folded before Flop (didn't bet)
+Seat 4: bolonko138 folded before Flop (didn't bet)
+Seat 5: winkiAA folded before Flop (didn't bet)
+Seat 6: ollikahn23 folded before Flop (didn't bet)
+Seat 7: YUKINON folded before Flop (didn't bet)
+Seat 8: Tachanka1967 folded before Flop (didn't bet)
+Seat 9: lurraca (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183644222125:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/10 9:31:31 ET
+Table 'Lucia' 9-max Seat #1 is the button
+Seat 1: Gladiator_k2 ($11.16 in chips) 
+Seat 2: MenaceMerlin ($4.60 in chips) 
+Seat 3: CrazyRock90 ($4.73 in chips) 
+Seat 4: bolonko138 ($5.22 in chips) 
+Seat 5: winkiAA ($10.11 in chips) 
+Seat 6: ollikahn23 ($5 in chips) 
+Seat 7: YUKINON ($5.19 in chips) 
+Seat 8: Tachanka1967 ($10.92 in chips) 
+Seat 9: lurraca ($3.67 in chips) 
+MenaceMerlin: posts small blind $0.02
+CrazyRock90: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5h 7h]
+bolonko138: folds 
+winkiAA: folds 
+ollikahn23: folds 
+YUKINON: folds 
+Tachanka1967: folds 
+lurraca: folds 
+Gladiator_k2: raises $0.05 to $0.10
+MenaceMerlin: calls $0.08
+CrazyRock90: folds 
+*** FLOP *** [Kd Js 3s]
+MenaceMerlin: bets $0.12
+Gladiator_k2: folds 
+Uncalled bet ($0.12) returned to MenaceMerlin
+MenaceMerlin collected $0.24 from pot
+MenaceMerlin: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Kd Js 3s]
+Seat 1: Gladiator_k2 (button) folded on the Flop
+Seat 2: MenaceMerlin (small blind) collected ($0.24)
+Seat 3: CrazyRock90 (big blind) folded before Flop
+Seat 4: bolonko138 folded before Flop (didn't bet)
+Seat 5: winkiAA folded before Flop (didn't bet)
+Seat 6: ollikahn23 folded before Flop (didn't bet)
+Seat 7: YUKINON folded before Flop (didn't bet)
+Seat 8: Tachanka1967 folded before Flop (didn't bet)
+Seat 9: lurraca folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183644247790:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/10 9:32:06 ET
+Table 'Lucia' 9-max Seat #2 is the button
+Seat 1: Gladiator_k2 ($11.06 in chips) 
+Seat 2: MenaceMerlin ($4.74 in chips) 
+Seat 3: CrazyRock90 ($4.68 in chips) 
+Seat 4: bolonko138 ($5.22 in chips) 
+Seat 5: winkiAA ($10.11 in chips) 
+Seat 6: ollikahn23 ($5 in chips) 
+Seat 7: YUKINON ($5.19 in chips) 
+Seat 8: Tachanka1967 ($10.92 in chips) 
+Seat 9: lurraca ($3.67 in chips) 
+CrazyRock90: posts small blind $0.02
+bolonko138: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qd 8s]
+winkiAA: raises $0.10 to $0.15
+ollikahn23: folds 
+YUKINON: folds 
+Tachanka1967: folds 
+lurraca: calls $0.15
+Gladiator_k2: folds 
+MenaceMerlin: folds 
+CrazyRock90: folds 
+bolonko138: folds 
+*** FLOP *** [Jd Jh Kc]
+winkiAA: checks 
+lurraca: checks 
+*** TURN *** [Jd Jh Kc] [4c]
+winkiAA: bets $0.23
+lurraca: folds 
+Uncalled bet ($0.23) returned to winkiAA
+winkiAA collected $0.35 from pot
+winkiAA: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.02 
+Board [Jd Jh Kc 4c]
+Seat 1: Gladiator_k2 folded before Flop (didn't bet)
+Seat 2: MenaceMerlin (button) folded before Flop (didn't bet)
+Seat 3: CrazyRock90 (small blind) folded before Flop
+Seat 4: bolonko138 (big blind) folded before Flop
+Seat 5: winkiAA collected ($0.35)
+Seat 6: ollikahn23 folded before Flop (didn't bet)
+Seat 7: YUKINON folded before Flop (didn't bet)
+Seat 8: Tachanka1967 folded before Flop (didn't bet)
+Seat 9: lurraca folded on the Turn
+
+
+
