@@ -1,0 +1,1037 @@
+﻿PokerStars Hand #186784160683: Tournament #2313327734, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/23 23:13:54 CET [2018/05/23 17:13:54 ET]
+Table '2313327734 1' 2-max Seat #1 is the button
+Seat 1: puncik cz (1500 in chips) 
+Seat 2: ollikahn23 (1500 in chips) 
+puncik cz: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jd Ah]
+puncik cz: calls 10
+ollikahn23: raises 55 to 75
+puncik cz: folds 
+Uncalled bet (55) returned to ollikahn23
+ollikahn23 collected 40 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: puncik cz (button) (small blind) folded before Flop
+Seat 2: ollikahn23 (big blind) collected (40)
+
+
+
+PokerStars Hand #186784169041: Tournament #2313327734, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/23 23:14:05 CET [2018/05/23 17:14:05 ET]
+Table '2313327734 1' 2-max Seat #2 is the button
+Seat 1: puncik cz (1480 in chips) 
+Seat 2: ollikahn23 (1520 in chips) 
+ollikahn23: posts small blind 10
+puncik cz: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3h Qc]
+ollikahn23: raises 25 to 45
+puncik cz: calls 25
+*** FLOP *** [Jh 7c Kh]
+puncik cz: checks 
+ollikahn23: checks 
+*** TURN *** [Jh 7c Kh] [3d]
+puncik cz: checks 
+ollikahn23: bets 45
+puncik cz: calls 45
+*** RIVER *** [Jh 7c Kh 3d] [Th]
+puncik cz: bets 20
+ollikahn23: calls 20
+*** SHOW DOWN ***
+puncik cz: shows [Ks 2c] (a pair of Kings)
+ollikahn23: mucks hand 
+puncik cz collected 220 from pot
+*** SUMMARY ***
+Total pot 220 | Rake 0 
+Board [Jh 7c Kh 3d Th]
+Seat 1: puncik cz (big blind) showed [Ks 2c] and won (220) with a pair of Kings
+Seat 2: ollikahn23 (button) (small blind) mucked [3h Qc]
+
+
+
+PokerStars Hand #186784187771: Tournament #2313327734, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/23 23:14:30 CET [2018/05/23 17:14:30 ET]
+Table '2313327734 1' 2-max Seat #1 is the button
+Seat 1: puncik cz (1590 in chips) 
+Seat 2: ollikahn23 (1410 in chips) 
+puncik cz: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qc 6h]
+puncik cz: folds 
+Uncalled bet (10) returned to ollikahn23
+ollikahn23 collected 20 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: puncik cz (button) (small blind) folded before Flop
+Seat 2: ollikahn23 (big blind) collected (20)
+
+
+
+PokerStars Hand #186784192644: Tournament #2313327734, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/23 23:14:36 CET [2018/05/23 17:14:36 ET]
+Table '2313327734 1' 2-max Seat #2 is the button
+Seat 1: puncik cz (1580 in chips) 
+Seat 2: ollikahn23 (1420 in chips) 
+ollikahn23: posts small blind 10
+puncik cz: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ad Qh]
+ollikahn23: raises 24 to 44
+puncik cz: calls 24
+*** FLOP *** [8s 2c Ah]
+puncik cz: checks 
+ollikahn23: checks 
+*** TURN *** [8s 2c Ah] [Kc]
+puncik cz: checks 
+ollikahn23: bets 55
+puncik cz: folds 
+Uncalled bet (55) returned to ollikahn23
+ollikahn23 collected 88 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 88 | Rake 0 
+Board [8s 2c Ah Kc]
+Seat 1: puncik cz (big blind) folded on the Turn
+Seat 2: ollikahn23 (button) (small blind) collected (88)
+
+
+
+PokerStars Hand #186784205919: Tournament #2313327734, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/23 23:14:54 CET [2018/05/23 17:14:54 ET]
+Table '2313327734 1' 2-max Seat #1 is the button
+Seat 1: puncik cz (1536 in chips) 
+Seat 2: ollikahn23 (1464 in chips) 
+puncik cz: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3d 6d]
+puncik cz: folds 
+Uncalled bet (10) returned to ollikahn23
+ollikahn23 collected 20 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: puncik cz (button) (small blind) folded before Flop
+Seat 2: ollikahn23 (big blind) collected (20)
+
+
+
+PokerStars Hand #186784209940: Tournament #2313327734, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/23 23:14:59 CET [2018/05/23 17:14:59 ET]
+Table '2313327734 1' 2-max Seat #2 is the button
+Seat 1: puncik cz (1526 in chips) 
+Seat 2: ollikahn23 (1474 in chips) 
+ollikahn23: posts small blind 10
+puncik cz: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kh 6s]
+ollikahn23: raises 24 to 44
+puncik cz: calls 24
+*** FLOP *** [3d 3h Js]
+puncik cz: bets 20
+ollikahn23: calls 20
+*** TURN *** [3d 3h Js] [6c]
+puncik cz: bets 40
+ollikahn23: calls 40
+*** RIVER *** [3d 3h Js 6c] [4d]
+puncik cz: checks 
+ollikahn23: checks 
+*** SHOW DOWN ***
+puncik cz: shows [Td Jh] (two pair, Jacks and Threes)
+ollikahn23: mucks hand 
+puncik cz collected 208 from pot
+*** SUMMARY ***
+Total pot 208 | Rake 0 
+Board [3d 3h Js 6c 4d]
+Seat 1: puncik cz (big blind) showed [Td Jh] and won (208) with two pair, Jacks and Threes
+Seat 2: ollikahn23 (button) (small blind) mucked [Kh 6s]
+
+
+
+PokerStars Hand #186784226170: Tournament #2313327734, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/23 23:15:20 CET [2018/05/23 17:15:20 ET]
+Table '2313327734 1' 2-max Seat #1 is the button
+Seat 1: puncik cz (1630 in chips) 
+Seat 2: ollikahn23 (1370 in chips) 
+puncik cz: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5s Kh]
+puncik cz: calls 10
+ollikahn23: checks 
+*** FLOP *** [Ad 3c 5d]
+ollikahn23: checks 
+puncik cz: checks 
+*** TURN *** [Ad 3c 5d] [Ts]
+ollikahn23: checks 
+puncik cz: bets 20
+ollikahn23: calls 20
+*** RIVER *** [Ad 3c 5d Ts] [4h]
+ollikahn23: checks 
+puncik cz: checks 
+*** SHOW DOWN ***
+ollikahn23: shows [5s Kh] (a pair of Fives)
+puncik cz: shows [Qs As] (a pair of Aces)
+puncik cz collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Ad 3c 5d Ts 4h]
+Seat 1: puncik cz (button) (small blind) showed [Qs As] and won (80) with a pair of Aces
+Seat 2: ollikahn23 (big blind) showed [5s Kh] and lost with a pair of Fives
+
+
+
+PokerStars Hand #186784241456: Tournament #2313327734, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/23 23:15:40 CET [2018/05/23 17:15:40 ET]
+Table '2313327734 1' 2-max Seat #2 is the button
+Seat 1: puncik cz (1670 in chips) 
+Seat 2: ollikahn23 (1330 in chips) 
+ollikahn23: posts small blind 10
+puncik cz: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kh Td]
+ollikahn23: raises 24 to 44
+puncik cz: calls 24
+*** FLOP *** [5c Qs 7d]
+puncik cz: bets 20
+ollikahn23: calls 20
+*** TURN *** [5c Qs 7d] [8d]
+puncik cz: bets 40
+ollikahn23: calls 40
+*** RIVER *** [5c Qs 7d 8d] [Js]
+puncik cz: checks 
+ollikahn23: checks 
+*** SHOW DOWN ***
+puncik cz: shows [6d 7s] (a pair of Sevens)
+ollikahn23: mucks hand 
+puncik cz collected 208 from pot
+*** SUMMARY ***
+Total pot 208 | Rake 0 
+Board [5c Qs 7d 8d Js]
+Seat 1: puncik cz (big blind) showed [6d 7s] and won (208) with a pair of Sevens
+Seat 2: ollikahn23 (button) (small blind) mucked [Kh Td]
+
+
+
+PokerStars Hand #186784258825: Tournament #2313327734, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/23 23:16:03 CET [2018/05/23 17:16:03 ET]
+Table '2313327734 1' 2-max Seat #1 is the button
+Seat 1: puncik cz (1774 in chips) 
+Seat 2: ollikahn23 (1226 in chips) 
+puncik cz: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jh 3c]
+puncik cz: folds 
+Uncalled bet (10) returned to ollikahn23
+ollikahn23 collected 20 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: puncik cz (button) (small blind) folded before Flop
+Seat 2: ollikahn23 (big blind) collected (20)
+
+
+
+PokerStars Hand #186784263540: Tournament #2313327734, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/23 23:16:09 CET [2018/05/23 17:16:09 ET]
+Table '2313327734 1' 2-max Seat #2 is the button
+Seat 1: puncik cz (1764 in chips) 
+Seat 2: ollikahn23 (1236 in chips) 
+ollikahn23: posts small blind 10
+puncik cz: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jh 4s]
+ollikahn23: folds 
+Uncalled bet (10) returned to puncik cz
+puncik cz collected 20 from pot
+puncik cz: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: puncik cz (big blind) collected (20)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #186784269340: Tournament #2313327734, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/23 23:16:17 CET [2018/05/23 17:16:17 ET]
+Table '2313327734 1' 2-max Seat #1 is the button
+Seat 1: puncik cz (1774 in chips) 
+Seat 2: ollikahn23 (1226 in chips) 
+puncik cz: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5h 6s]
+puncik cz: raises 20 to 40
+ollikahn23: folds 
+Uncalled bet (20) returned to puncik cz
+puncik cz collected 40 from pot
+puncik cz: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: puncik cz (button) (small blind) collected (40)
+Seat 2: ollikahn23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #186784274254: Tournament #2313327734, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/23 23:16:23 CET [2018/05/23 17:16:23 ET]
+Table '2313327734 1' 2-max Seat #2 is the button
+Seat 1: puncik cz (1794 in chips) 
+Seat 2: ollikahn23 (1206 in chips) 
+ollikahn23: posts small blind 10
+puncik cz: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5c 2c]
+ollikahn23: folds 
+Uncalled bet (10) returned to puncik cz
+puncik cz collected 20 from pot
+puncik cz: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: puncik cz (big blind) collected (20)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #186784278969: Tournament #2313327734, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/23 23:16:29 CET [2018/05/23 17:16:29 ET]
+Table '2313327734 1' 2-max Seat #1 is the button
+Seat 1: puncik cz (1804 in chips) 
+Seat 2: ollikahn23 (1196 in chips) 
+puncik cz: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2h Js]
+puncik cz: folds 
+Uncalled bet (10) returned to ollikahn23
+ollikahn23 collected 20 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: puncik cz (button) (small blind) folded before Flop
+Seat 2: ollikahn23 (big blind) collected (20)
+
+
+
+PokerStars Hand #186784283089: Tournament #2313327734, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/23 23:16:35 CET [2018/05/23 17:16:35 ET]
+Table '2313327734 1' 2-max Seat #2 is the button
+Seat 1: puncik cz (1794 in chips) 
+Seat 2: ollikahn23 (1206 in chips) 
+ollikahn23: posts small blind 10
+puncik cz: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3c 4h]
+ollikahn23: folds 
+Uncalled bet (10) returned to puncik cz
+puncik cz collected 20 from pot
+puncik cz: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: puncik cz (big blind) collected (20)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #186784287529: Tournament #2313327734, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/23 23:16:40 CET [2018/05/23 17:16:40 ET]
+Table '2313327734 1' 2-max Seat #1 is the button
+Seat 1: puncik cz (1804 in chips) 
+Seat 2: ollikahn23 (1196 in chips) 
+puncik cz: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5c 8c]
+puncik cz: calls 10
+ollikahn23: checks 
+*** FLOP *** [3h Ts 5d]
+ollikahn23: bets 24
+puncik cz: calls 24
+*** TURN *** [3h Ts 5d] [Qc]
+ollikahn23: checks 
+puncik cz: checks 
+*** RIVER *** [3h Ts 5d Qc] [4d]
+ollikahn23: checks 
+puncik cz: checks 
+*** SHOW DOWN ***
+ollikahn23: shows [5c 8c] (a pair of Fives)
+puncik cz: shows [9d 9h] (a pair of Nines)
+puncik cz collected 88 from pot
+*** SUMMARY ***
+Total pot 88 | Rake 0 
+Board [3h Ts 5d Qc 4d]
+Seat 1: puncik cz (button) (small blind) showed [9d 9h] and won (88) with a pair of Nines
+Seat 2: ollikahn23 (big blind) showed [5c 8c] and lost with a pair of Fives
+
+
+
+PokerStars Hand #186784301541: Tournament #2313327734, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/23 23:16:59 CET [2018/05/23 17:16:59 ET]
+Table '2313327734 1' 2-max Seat #2 is the button
+Seat 1: puncik cz (1848 in chips) 
+Seat 2: ollikahn23 (1152 in chips) 
+ollikahn23: posts small blind 10
+puncik cz: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kh Ts]
+ollikahn23: raises 24 to 44
+puncik cz: folds 
+Uncalled bet (24) returned to ollikahn23
+ollikahn23 collected 40 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: puncik cz (big blind) folded before Flop
+Seat 2: ollikahn23 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #186784307668: Tournament #2313327734, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/23 23:17:07 CET [2018/05/23 17:17:07 ET]
+Table '2313327734 1' 2-max Seat #1 is the button
+Seat 1: puncik cz (1828 in chips) 
+Seat 2: ollikahn23 (1172 in chips) 
+puncik cz: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2h Kd]
+puncik cz: folds 
+Uncalled bet (10) returned to ollikahn23
+ollikahn23 collected 20 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: puncik cz (button) (small blind) folded before Flop
+Seat 2: ollikahn23 (big blind) collected (20)
+
+
+
+PokerStars Hand #186784311681: Tournament #2313327734, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/23 23:17:12 CET [2018/05/23 17:17:12 ET]
+Table '2313327734 1' 2-max Seat #2 is the button
+Seat 1: puncik cz (1818 in chips) 
+Seat 2: ollikahn23 (1182 in chips) 
+ollikahn23: posts small blind 10
+puncik cz: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2s 7s]
+ollikahn23: folds 
+Uncalled bet (10) returned to puncik cz
+puncik cz collected 20 from pot
+puncik cz: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: puncik cz (big blind) collected (20)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #186784315925: Tournament #2313327734, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/23 23:17:18 CET [2018/05/23 17:17:18 ET]
+Table '2313327734 1' 2-max Seat #1 is the button
+Seat 1: puncik cz (1828 in chips) 
+Seat 2: ollikahn23 (1172 in chips) 
+puncik cz: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6s 8d]
+puncik cz: calls 10
+ollikahn23: checks 
+*** FLOP *** [Kd Ah Js]
+ollikahn23: checks 
+puncik cz: checks 
+*** TURN *** [Kd Ah Js] [Jd]
+ollikahn23: bets 24
+puncik cz: calls 24
+*** RIVER *** [Kd Ah Js Jd] [4d]
+ollikahn23: checks 
+puncik cz: checks 
+*** SHOW DOWN ***
+ollikahn23: shows [6s 8d] (a pair of Jacks)
+puncik cz: shows [2d Kc] (two pair, Kings and Jacks)
+puncik cz collected 88 from pot
+*** SUMMARY ***
+Total pot 88 | Rake 0 
+Board [Kd Ah Js Jd 4d]
+Seat 1: puncik cz (button) (small blind) showed [2d Kc] and won (88) with two pair, Kings and Jacks
+Seat 2: ollikahn23 (big blind) showed [6s 8d] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #186784330909: Tournament #2313327734, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/23 23:17:38 CET [2018/05/23 17:17:38 ET]
+Table '2313327734 1' 2-max Seat #2 is the button
+Seat 1: puncik cz (1872 in chips) 
+Seat 2: ollikahn23 (1128 in chips) 
+ollikahn23: posts small blind 10
+puncik cz: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9c 6s]
+ollikahn23: folds 
+Uncalled bet (10) returned to puncik cz
+puncik cz collected 20 from pot
+puncik cz: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: puncik cz (big blind) collected (20)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #186784334996: Tournament #2313327734, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/23 23:17:43 CET [2018/05/23 17:17:43 ET]
+Table '2313327734 1' 2-max Seat #1 is the button
+Seat 1: puncik cz (1882 in chips) 
+Seat 2: ollikahn23 (1118 in chips) 
+puncik cz: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [As 9d]
+puncik cz: calls 10
+ollikahn23: raises 35 to 55
+puncik cz: calls 35
+*** FLOP *** [6c 6h 7s]
+ollikahn23: bets 66
+puncik cz: folds 
+Uncalled bet (66) returned to ollikahn23
+ollikahn23 collected 110 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 110 | Rake 0 
+Board [6c 6h 7s]
+Seat 1: puncik cz (button) (small blind) folded on the Flop
+Seat 2: ollikahn23 (big blind) collected (110)
+
+
+
+PokerStars Hand #186784350088: Tournament #2313327734, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/23 23:17:58 CET [2018/05/23 17:17:58 ET]
+Table '2313327734 1' 2-max Seat #2 is the button
+Seat 1: puncik cz (1827 in chips) 
+Seat 2: ollikahn23 (1173 in chips) 
+ollikahn23: posts small blind 10
+puncik cz: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qh 6h]
+ollikahn23: raises 24 to 44
+puncik cz: folds 
+Uncalled bet (24) returned to ollikahn23
+ollikahn23 collected 40 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: puncik cz (big blind) folded before Flop
+Seat 2: ollikahn23 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #186784356042: Tournament #2313327734, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/23 23:18:06 CET [2018/05/23 17:18:06 ET]
+Table '2313327734 1' 2-max Seat #1 is the button
+Seat 1: puncik cz (1807 in chips) 
+Seat 2: ollikahn23 (1193 in chips) 
+puncik cz: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qs Jc]
+puncik cz: calls 10
+ollikahn23: raises 35 to 55
+puncik cz: calls 35
+*** FLOP *** [Qh 8s 5s]
+ollikahn23: bets 66
+puncik cz: raises 66 to 132
+ollikahn23: calls 66
+*** TURN *** [Qh 8s 5s] [2c]
+ollikahn23: checks 
+puncik cz: checks 
+*** RIVER *** [Qh 8s 5s 2c] [4h]
+ollikahn23: checks 
+puncik cz: bets 200
+ollikahn23: calls 200
+*** SHOW DOWN ***
+puncik cz: shows [Ah 6d] (high card Ace)
+ollikahn23: shows [Qs Jc] (a pair of Queens)
+ollikahn23 collected 774 from pot
+*** SUMMARY ***
+Total pot 774 | Rake 0 
+Board [Qh 8s 5s 2c 4h]
+Seat 1: puncik cz (button) (small blind) showed [Ah 6d] and lost with high card Ace
+Seat 2: ollikahn23 (big blind) showed [Qs Jc] and won (774) with a pair of Queens
+
+
+
+PokerStars Hand #186784390713: Tournament #2313327734, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/23 23:18:52 CET [2018/05/23 17:18:52 ET]
+Table '2313327734 1' 2-max Seat #2 is the button
+Seat 1: puncik cz (1420 in chips) 
+Seat 2: ollikahn23 (1580 in chips) 
+ollikahn23: posts small blind 10
+puncik cz: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9d 5d]
+ollikahn23: folds 
+Uncalled bet (10) returned to puncik cz
+puncik cz said, ":D"
+puncik cz collected 20 from pot
+puncik cz: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: puncik cz (big blind) collected (20)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #186784395736: Tournament #2313327734, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/23 23:18:58 CET [2018/05/23 17:18:58 ET]
+Table '2313327734 1' 2-max Seat #1 is the button
+Seat 1: puncik cz (1430 in chips) 
+Seat 2: ollikahn23 (1570 in chips) 
+puncik cz: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qh 2s]
+puncik cz: calls 10
+ollikahn23: checks 
+*** FLOP *** [3h 8c Js]
+ollikahn23: checks 
+puncik cz: checks 
+*** TURN *** [3h 8c Js] [7s]
+ollikahn23: checks 
+puncik cz: checks 
+*** RIVER *** [3h 8c Js 7s] [Qs]
+ollikahn23: bets 22
+puncik cz: folds 
+Uncalled bet (22) returned to ollikahn23
+ollikahn23 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [3h 8c Js 7s Qs]
+Seat 1: puncik cz (button) (small blind) folded on the River
+Seat 2: ollikahn23 (big blind) collected (40)
+
+
+
+PokerStars Hand #186784410465: Tournament #2313327734, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/23 23:19:18 CET [2018/05/23 17:19:18 ET]
+Table '2313327734 1' 2-max Seat #2 is the button
+Seat 1: puncik cz (1410 in chips) 
+Seat 2: ollikahn23 (1590 in chips) 
+ollikahn23: posts small blind 10
+puncik cz: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9c 7h]
+ollikahn23: folds 
+Uncalled bet (10) returned to puncik cz
+puncik cz collected 20 from pot
+puncik cz: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: puncik cz (big blind) collected (20)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #186784419675: Tournament #2313327734, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/23 23:19:31 CET [2018/05/23 17:19:31 ET]
+Table '2313327734 1' 2-max Seat #1 is the button
+Seat 1: puncik cz (1420 in chips) 
+Seat 2: ollikahn23 (1580 in chips) 
+puncik cz: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [As 4s]
+puncik cz: raises 20 to 40
+ollikahn23: calls 20
+*** FLOP *** [Ac Kc Ks]
+ollikahn23: checks 
+puncik cz: checks 
+*** TURN *** [Ac Kc Ks] [Js]
+ollikahn23: bets 66
+puncik cz: raises 66 to 132
+ollikahn23: calls 66
+*** RIVER *** [Ac Kc Ks Js] [Jd]
+ollikahn23: checks 
+puncik cz: bets 200
+ollikahn23: folds [As]
+Uncalled bet (200) returned to puncik cz
+puncik cz collected 344 from pot
+puncik cz: shows [Ah Jh] (a full house, Jacks full of Aces)
+*** SUMMARY ***
+Total pot 344 | Rake 0 
+Board [Ac Kc Ks Js Jd]
+Seat 1: puncik cz (button) (small blind) collected (344)
+Seat 2: ollikahn23 (big blind) folded on the River
+
+
+
+PokerStars Hand #186784449387: Tournament #2313327734, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/23 23:20:10 CET [2018/05/23 17:20:10 ET]
+Table '2313327734 1' 2-max Seat #2 is the button
+Seat 1: puncik cz (1592 in chips) 
+Seat 2: ollikahn23 (1408 in chips) 
+ollikahn23: posts small blind 15
+puncik cz: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qc Jh]
+ollikahn23: raises 36 to 66
+puncik cz: calls 36
+*** FLOP *** [Qs 8h Kd]
+puncik cz: checks 
+ollikahn23: checks 
+*** TURN *** [Qs 8h Kd] [Jc]
+puncik cz: checks 
+ollikahn23: bets 99
+puncik cz: folds 
+Uncalled bet (99) returned to ollikahn23
+ollikahn23 collected 132 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 132 | Rake 0 
+Board [Qs 8h Kd Jc]
+Seat 1: puncik cz (big blind) folded on the Turn
+Seat 2: ollikahn23 (button) (small blind) collected (132)
+
+
+
+PokerStars Hand #186784467415: Tournament #2313327734, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/23 23:20:34 CET [2018/05/23 17:20:34 ET]
+Table '2313327734 1' 2-max Seat #1 is the button
+Seat 1: puncik cz (1526 in chips) 
+Seat 2: ollikahn23 (1474 in chips) 
+puncik cz: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2d 7h]
+puncik cz: calls 15
+ollikahn23: checks 
+*** FLOP *** [9c As 4d]
+ollikahn23: checks 
+puncik cz: bets 30
+ollikahn23: folds 
+Uncalled bet (30) returned to puncik cz
+puncik cz collected 60 from pot
+puncik cz: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [9c As 4d]
+Seat 1: puncik cz (button) (small blind) collected (60)
+Seat 2: ollikahn23 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #186784479477: Tournament #2313327734, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/23 23:20:50 CET [2018/05/23 17:20:50 ET]
+Table '2313327734 1' 2-max Seat #2 is the button
+Seat 1: puncik cz (1556 in chips) 
+Seat 2: ollikahn23 (1444 in chips) 
+ollikahn23: posts small blind 15
+puncik cz: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Th 5s]
+ollikahn23: folds 
+Uncalled bet (15) returned to puncik cz
+puncik cz collected 30 from pot
+puncik cz: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: puncik cz (big blind) collected (30)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #186784483711: Tournament #2313327734, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/23 23:20:56 CET [2018/05/23 17:20:56 ET]
+Table '2313327734 1' 2-max Seat #1 is the button
+Seat 1: puncik cz (1571 in chips) 
+Seat 2: ollikahn23 (1429 in chips) 
+puncik cz: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Js 8h]
+puncik cz: calls 15
+ollikahn23: checks 
+*** FLOP *** [Ks 7d Jh]
+ollikahn23: checks 
+puncik cz: bets 30
+ollikahn23: calls 30
+*** TURN *** [Ks 7d Jh] [7s]
+ollikahn23: checks 
+puncik cz: checks 
+*** RIVER *** [Ks 7d Jh 7s] [Ad]
+ollikahn23: checks 
+puncik cz: bets 30
+ollikahn23: calls 30
+*** SHOW DOWN ***
+puncik cz: shows [Kh 9c] (two pair, Kings and Sevens)
+ollikahn23: mucks hand 
+puncik cz collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Ks 7d Jh 7s Ad]
+Seat 1: puncik cz (button) (small blind) showed [Kh 9c] and won (180) with two pair, Kings and Sevens
+Seat 2: ollikahn23 (big blind) mucked [Js 8h]
+
+
+
+PokerStars Hand #186784501016: Tournament #2313327734, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/23 23:21:19 CET [2018/05/23 17:21:19 ET]
+Table '2313327734 1' 2-max Seat #2 is the button
+Seat 1: puncik cz (1661 in chips) 
+Seat 2: ollikahn23 (1339 in chips) 
+ollikahn23: posts small blind 15
+puncik cz: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7c 7s]
+ollikahn23: raises 36 to 66
+puncik cz: calls 36
+*** FLOP *** [5h 9c 8h]
+puncik cz: checks 
+ollikahn23: bets 77
+puncik cz: calls 77
+*** TURN *** [5h 9c 8h] [8d]
+puncik cz: checks 
+ollikahn23: bets 188
+puncik cz: calls 188
+*** RIVER *** [5h 9c 8h 8d] [Qs]
+puncik cz: checks 
+ollikahn23: checks 
+*** SHOW DOWN ***
+puncik cz: shows [4s Ad] (a pair of Eights)
+ollikahn23: shows [7c 7s] (two pair, Eights and Sevens)
+ollikahn23 collected 662 from pot
+*** SUMMARY ***
+Total pot 662 | Rake 0 
+Board [5h 9c 8h 8d Qs]
+Seat 1: puncik cz (big blind) showed [4s Ad] and lost with a pair of Eights
+Seat 2: ollikahn23 (button) (small blind) showed [7c 7s] and won (662) with two pair, Eights and Sevens
+
+
+
+PokerStars Hand #186784523803: Tournament #2313327734, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/23 23:21:49 CET [2018/05/23 17:21:49 ET]
+Table '2313327734 1' 2-max Seat #1 is the button
+Seat 1: puncik cz (1330 in chips) 
+Seat 2: ollikahn23 (1670 in chips) 
+puncik cz: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jc 7d]
+puncik cz: raises 30 to 60
+ollikahn23: folds 
+Uncalled bet (30) returned to puncik cz
+puncik cz collected 60 from pot
+puncik cz: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: puncik cz (button) (small blind) collected (60)
+Seat 2: ollikahn23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #186784537674: Tournament #2313327734, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/23 23:22:08 CET [2018/05/23 17:22:08 ET]
+Table '2313327734 1' 2-max Seat #2 is the button
+Seat 1: puncik cz (1360 in chips) 
+Seat 2: ollikahn23 (1640 in chips) 
+ollikahn23: posts small blind 15
+puncik cz: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qh Jd]
+ollikahn23: raises 36 to 66
+puncik cz: calls 36
+*** FLOP *** [7d 4d 5c]
+puncik cz: checks 
+ollikahn23: checks 
+*** TURN *** [7d 4d 5c] [Ks]
+puncik cz: checks 
+ollikahn23: bets 77
+puncik cz: folds 
+Uncalled bet (77) returned to ollikahn23
+ollikahn23 collected 132 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 132 | Rake 0 
+Board [7d 4d 5c Ks]
+Seat 1: puncik cz (big blind) folded on the Turn
+Seat 2: ollikahn23 (button) (small blind) collected (132)
+
+
+
+PokerStars Hand #186784552960: Tournament #2313327734, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/23 23:22:28 CET [2018/05/23 17:22:28 ET]
+Table '2313327734 1' 2-max Seat #1 is the button
+Seat 1: puncik cz (1294 in chips) 
+Seat 2: ollikahn23 (1706 in chips) 
+puncik cz: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5h Jd]
+puncik cz: calls 15
+ollikahn23: checks 
+*** FLOP *** [Kc 9c 9h]
+ollikahn23: checks 
+puncik cz: checks 
+*** TURN *** [Kc 9c 9h] [7h]
+ollikahn23: checks 
+puncik cz: bets 30
+ollikahn23: folds 
+Uncalled bet (30) returned to puncik cz
+puncik cz collected 60 from pot
+puncik cz: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Kc 9c 9h 7h]
+Seat 1: puncik cz (button) (small blind) collected (60)
+Seat 2: ollikahn23 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #186784564362: Tournament #2313327734, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/23 23:22:43 CET [2018/05/23 17:22:43 ET]
+Table '2313327734 1' 2-max Seat #2 is the button
+Seat 1: puncik cz (1324 in chips) 
+Seat 2: ollikahn23 (1676 in chips) 
+ollikahn23: posts small blind 15
+puncik cz: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8c 2s]
+ollikahn23: folds 
+Uncalled bet (15) returned to puncik cz
+puncik cz collected 30 from pot
+puncik cz: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: puncik cz (big blind) collected (30)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #186784568868: Tournament #2313327734, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/23 23:22:49 CET [2018/05/23 17:22:49 ET]
+Table '2313327734 1' 2-max Seat #1 is the button
+Seat 1: puncik cz (1339 in chips) 
+Seat 2: ollikahn23 (1661 in chips) 
+puncik cz: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8h 5s]
+puncik cz: calls 15
+ollikahn23: checks 
+*** FLOP *** [Qd Tc Ad]
+ollikahn23: checks 
+puncik cz: checks 
+*** TURN *** [Qd Tc Ad] [Kd]
+ollikahn23: bets 31
+puncik cz: folds 
+Uncalled bet (31) returned to ollikahn23
+ollikahn23 collected 60 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Qd Tc Ad Kd]
+Seat 1: puncik cz (button) (small blind) folded on the Turn
+Seat 2: ollikahn23 (big blind) collected (60)
+
+
+
+PokerStars Hand #186784581693: Tournament #2313327734, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/23 23:23:06 CET [2018/05/23 17:23:06 ET]
+Table '2313327734 1' 2-max Seat #2 is the button
+Seat 1: puncik cz (1309 in chips) 
+Seat 2: ollikahn23 (1691 in chips) 
+ollikahn23: posts small blind 15
+puncik cz: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8h 4c]
+ollikahn23: folds 
+Uncalled bet (15) returned to puncik cz
+puncik cz collected 30 from pot
+puncik cz: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: puncik cz (big blind) collected (30)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #186784585873: Tournament #2313327734, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/23 23:23:12 CET [2018/05/23 17:23:12 ET]
+Table '2313327734 1' 2-max Seat #1 is the button
+Seat 1: puncik cz (1324 in chips) 
+Seat 2: ollikahn23 (1676 in chips) 
+puncik cz: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jh 2s]
+puncik cz: calls 15
+ollikahn23: checks 
+*** FLOP *** [Ac Qc 6c]
+ollikahn23: bets 33
+puncik cz: raises 33 to 66
+ollikahn23: folds 
+Uncalled bet (33) returned to puncik cz
+puncik cz collected 126 from pot
+puncik cz: shows [8d 4d] (high card Ace)
+*** SUMMARY ***
+Total pot 126 | Rake 0 
+Board [Ac Qc 6c]
+Seat 1: puncik cz (button) (small blind) collected (126)
+Seat 2: ollikahn23 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #186784597346: Tournament #2313327734, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/23 23:23:27 CET [2018/05/23 17:23:27 ET]
+Table '2313327734 1' 2-max Seat #2 is the button
+Seat 1: puncik cz (1387 in chips) 
+Seat 2: ollikahn23 (1613 in chips) 
+ollikahn23: posts small blind 15
+puncik cz: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7c 2h]
+ollikahn23: folds 
+Uncalled bet (15) returned to puncik cz
+puncik cz collected 30 from pot
+puncik cz: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: puncik cz (big blind) collected (30)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #186784602123: Tournament #2313327734, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/23 23:23:34 CET [2018/05/23 17:23:34 ET]
+Table '2313327734 1' 2-max Seat #1 is the button
+Seat 1: puncik cz (1402 in chips) 
+Seat 2: ollikahn23 (1598 in chips) 
+puncik cz: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7s Jh]
+puncik cz: calls 15
+ollikahn23 is disconnected 
+ollikahn23 has timed out while disconnected
+ollikahn23: checks 
+*** FLOP *** [9h 3s 2s]
+ollikahn23 is connected 
+ollikahn23 is disconnected 
+ollikahn23 is connected 
+ollikahn23 said, "sorry, sitting in a train :/"
+ollikahn23: checks 
+puncik cz: checks 
+*** TURN *** [9h 3s 2s] [Ks]
+ollikahn23: bets 33
+puncik cz said, "(y)"
+puncik cz: folds 
+Uncalled bet (33) returned to ollikahn23
+ollikahn23 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [9h 3s 2s Ks]
+Seat 1: puncik cz (button) (small blind) folded on the Turn
+Seat 2: ollikahn23 (big blind) collected (60)
+
+
+
+PokerStars Hand #186784738825: Tournament #2313327734, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/23 23:26:37 CET [2018/05/23 17:26:37 ET]
+Table '2313327734 1' 2-max Seat #2 is the button
+Seat 1: puncik cz (1372 in chips) 
+Seat 2: ollikahn23 (1628 in chips) 
+ollikahn23: posts small blind 15
+puncik cz: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jc Js]
+ollikahn23: raises 36 to 66
+puncik cz: calls 36
+*** FLOP *** [Th 3s 4s]
+puncik cz: bets 90
+ollikahn23: raises 121 to 211
+puncik cz: calls 121
+*** TURN *** [Th 3s 4s] [9s]
+puncik cz: checks 
+ollikahn23: bets 411
+puncik cz: calls 411
+*** RIVER *** [Th 3s 4s 9s] [Ts]
+puncik cz: bets 684 and is all-in
+ollikahn23: calls 684
+*** SHOW DOWN ***
+puncik cz: shows [Td Ah] (three of a kind, Tens)
+ollikahn23: shows [Jc Js] (a flush, Jack high)
+ollikahn23 collected 2744 from pot
+puncik cz finished the tournament in 2nd place
+ollikahn23 wins the tournament and receives $2.76 - congratulations!
+*** SUMMARY ***
+Total pot 2744 | Rake 0 
+Board [Th 3s 4s 9s Ts]
+Seat 1: puncik cz (big blind) showed [Td Ah] and lost with three of a kind, Tens
+Seat 2: ollikahn23 (button) (small blind) showed [Jc Js] and won (2744) with a flush, Jack high
+
+
+

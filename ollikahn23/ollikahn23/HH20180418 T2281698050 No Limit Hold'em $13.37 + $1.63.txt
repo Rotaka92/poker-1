@@ -1,0 +1,3300 @@
+﻿PokerStars Hand #185385848124: Tournament #2281698050, $13.37+$1.63 USD Hold'em No Limit - Level I (15/30) - 2018/04/18 14:02:05 ET
+Table '2281698050 24' 9-max Seat #1 is the button
+Seat 1: lumpiiiii (3000 in chips) 
+Seat 2: smily1208 (3000 in chips) 
+Seat 3: rubensfig (3000 in chips) 
+Seat 4: lu.brands (3000 in chips) 
+Seat 5: Chocoyote (3000 in chips) 
+Seat 6: CabeçaJones (3000 in chips) 
+Seat 7: igrok 5979 (3000 in chips) 
+Seat 8: ollikahn23 (3000 in chips) 
+Seat 9: PegPowler (3000 in chips) 
+lumpiiiii: posts the ante 4
+smily1208: posts the ante 4
+rubensfig: posts the ante 4
+lu.brands: posts the ante 4
+Chocoyote: posts the ante 4
+CabeçaJones: posts the ante 4
+igrok 5979: posts the ante 4
+ollikahn23: posts the ante 4
+PegPowler: posts the ante 4
+smily1208: posts small blind 15
+rubensfig: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jd Ac]
+lu.brands: folds 
+Chocoyote: folds 
+CabeçaJones: folds 
+igrok 5979: raises 45 to 75
+ollikahn23: calls 75
+PegPowler: folds 
+lumpiiiii: folds 
+smily1208: folds 
+rubensfig: folds 
+*** FLOP *** [Qd 5h Jh]
+igrok 5979: bets 127
+ollikahn23: calls 127
+*** TURN *** [Qd 5h Jh] [Kh]
+igrok 5979: bets 218
+ollikahn23: folds 
+Uncalled bet (218) returned to igrok 5979
+igrok 5979 collected 485 from pot
+igrok 5979: doesn't show hand 
+*** SUMMARY ***
+Total pot 485 | Rake 0 
+Board [Qd 5h Jh Kh]
+Seat 1: lumpiiiii (button) folded before Flop (didn't bet)
+Seat 2: smily1208 (small blind) folded before Flop
+Seat 3: rubensfig (big blind) folded before Flop
+Seat 4: lu.brands folded before Flop (didn't bet)
+Seat 5: Chocoyote folded before Flop (didn't bet)
+Seat 6: CabeçaJones folded before Flop (didn't bet)
+Seat 7: igrok 5979 collected (485)
+Seat 8: ollikahn23 folded on the Turn
+Seat 9: PegPowler folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185385892192: Tournament #2281698050, $13.37+$1.63 USD Hold'em No Limit - Level I (15/30) - 2018/04/18 14:03:11 ET
+Table '2281698050 24' 9-max Seat #2 is the button
+Seat 1: lumpiiiii (2996 in chips) 
+Seat 2: smily1208 (2981 in chips) 
+Seat 3: rubensfig (2966 in chips) 
+Seat 4: lu.brands (2996 in chips) 
+Seat 5: Chocoyote (2996 in chips) 
+Seat 7: igrok 5979 (3279 in chips) 
+Seat 8: ollikahn23 (2794 in chips) 
+Seat 9: PegPowler (2996 in chips) 
+lumpiiiii: posts the ante 4
+smily1208: posts the ante 4
+rubensfig: posts the ante 4
+lu.brands: posts the ante 4
+Chocoyote: posts the ante 4
+igrok 5979: posts the ante 4
+ollikahn23: posts the ante 4
+PegPowler: posts the ante 4
+rubensfig: posts small blind 15
+lu.brands: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kd 4c]
+Chocoyote: folds 
+igrok 5979: folds 
+ollikahn23: folds 
+PegPowler: raises 60 to 90
+lumpiiiii: folds 
+smily1208: calls 90
+rubensfig: folds 
+lu.brands: calls 60
+*** FLOP *** [3s 2h 3h]
+lu.brands: checks 
+PegPowler: checks 
+smily1208: bets 150
+lu.brands: folds 
+PegPowler: raises 630 to 780
+smily1208: raises 930 to 1710
+PegPowler: raises 1192 to 2902 and is all-in
+smily1208: calls 1177 and is all-in
+Uncalled bet (15) returned to PegPowler
+*** TURN *** [3s 2h 3h] [Th]
+*** RIVER *** [3s 2h 3h Th] [5h]
+*** SHOW DOWN ***
+PegPowler: shows [7d 7h] (a flush, Ten high)
+smily1208: shows [Jd 3d] (three of a kind, Threes)
+PegPowler collected 6091 from pot
+smily1208 finished the tournament
+*** SUMMARY ***
+Total pot 6091 | Rake 0 
+Board [3s 2h 3h Th 5h]
+Seat 1: lumpiiiii folded before Flop (didn't bet)
+Seat 2: smily1208 (button) showed [Jd 3d] and lost with three of a kind, Threes
+Seat 3: rubensfig (small blind) folded before Flop
+Seat 4: lu.brands (big blind) folded on the Flop
+Seat 5: Chocoyote folded before Flop (didn't bet)
+Seat 7: igrok 5979 folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: PegPowler showed [7d 7h] and won (6091) with a flush, Ten high
+
+
+
+PokerStars Hand #185385939341: Tournament #2281698050, $13.37+$1.63 USD Hold'em No Limit - Level I (15/30) - 2018/04/18 14:04:20 ET
+Table '2281698050 24' 9-max Seat #3 is the button
+Seat 1: lumpiiiii (2992 in chips) 
+Seat 3: rubensfig (2947 in chips) 
+Seat 4: lu.brands (2902 in chips) 
+Seat 5: Chocoyote (2992 in chips) 
+Seat 6: FreddyRUS (3000 in chips) 
+Seat 7: igrok 5979 (3275 in chips) 
+Seat 8: ollikahn23 (2790 in chips) 
+Seat 9: PegPowler (6106 in chips) 
+lumpiiiii: posts the ante 4
+rubensfig: posts the ante 4
+lu.brands: posts the ante 4
+Chocoyote: posts the ante 4
+FreddyRUS: posts the ante 4
+igrok 5979: posts the ante 4
+ollikahn23: posts the ante 4
+PegPowler: posts the ante 4
+lu.brands: posts small blind 15
+Chocoyote: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ah 7h]
+FreddyRUS: folds 
+igrok 5979: folds 
+ollikahn23: raises 40 to 70
+PegPowler: folds 
+lumpiiiii: folds 
+rubensfig: calls 70
+lu.brands: folds 
+Chocoyote: calls 40
+*** FLOP *** [Ks Tc 9s]
+Chocoyote: checks 
+ollikahn23: bets 115
+rubensfig: folds 
+Chocoyote: raises 305 to 420
+ollikahn23: folds 
+Uncalled bet (305) returned to Chocoyote
+Chocoyote collected 487 from pot
+*** SUMMARY ***
+Total pot 487 | Rake 0 
+Board [Ks Tc 9s]
+Seat 1: lumpiiiii folded before Flop (didn't bet)
+Seat 3: rubensfig (button) folded on the Flop
+Seat 4: lu.brands (small blind) folded before Flop
+Seat 5: Chocoyote (big blind) collected (487)
+Seat 6: FreddyRUS folded before Flop (didn't bet)
+Seat 7: igrok 5979 folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded on the Flop
+Seat 9: PegPowler folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185385976276: Tournament #2281698050, $13.37+$1.63 USD Hold'em No Limit - Level I (15/30) - 2018/04/18 14:05:15 ET
+Table '2281698050 24' 9-max Seat #4 is the button
+Seat 1: lumpiiiii (2988 in chips) 
+Seat 2: ickata_9 (3000 in chips) 
+Seat 3: rubensfig (2873 in chips) 
+Seat 4: lu.brands (2883 in chips) 
+Seat 5: Chocoyote (3290 in chips) 
+Seat 7: igrok 5979 (3271 in chips) 
+Seat 8: ollikahn23 (2601 in chips) 
+Seat 9: PegPowler (6102 in chips) 
+lumpiiiii: posts the ante 4
+ickata_9: posts the ante 4
+rubensfig: posts the ante 4
+lu.brands: posts the ante 4
+Chocoyote: posts the ante 4
+igrok 5979: posts the ante 4
+ollikahn23: posts the ante 4
+PegPowler: posts the ante 4
+Chocoyote: posts small blind 15
+igrok 5979: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7s 8h]
+ollikahn23: folds 
+PegPowler: folds 
+lumpiiiii: folds 
+ickata_9: folds 
+rubensfig: folds 
+lu.brands: folds 
+Chocoyote: calls 15
+igrok 5979 is connected 
+igrok 5979: checks 
+*** FLOP *** [6d 5h Qd]
+Index24 is disconnected 
+Chocoyote: bets 45
+igrok 5979: calls 45
+*** TURN *** [6d 5h Qd] [Qc]
+Chocoyote: checks 
+igrok 5979: bets 82
+Chocoyote: folds 
+Uncalled bet (82) returned to igrok 5979
+igrok 5979 collected 182 from pot
+igrok 5979: doesn't show hand 
+*** SUMMARY ***
+Total pot 182 | Rake 0 
+Board [6d 5h Qd Qc]
+Seat 1: lumpiiiii folded before Flop (didn't bet)
+Seat 2: ickata_9 folded before Flop (didn't bet)
+Seat 3: rubensfig folded before Flop (didn't bet)
+Seat 4: lu.brands (button) folded before Flop (didn't bet)
+Seat 5: Chocoyote (small blind) folded on the Turn
+Seat 7: igrok 5979 (big blind) collected (182)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: PegPowler folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185386034434: Tournament #2281698050, $13.37+$1.63 USD Hold'em No Limit - Level I (15/30) - 2018/04/18 14:06:39 ET
+Table '2281698050 37' 9-max Seat #1 is the button
+Seat 1: ollikahn23 (2597 in chips) 
+Seat 2: SnowmanTony (2688 in chips) 
+Seat 3: SOUFODAMS (2950 in chips) 
+Seat 4: KOHb_blr (2516 in chips) 
+Seat 5: adrrian1989 (3130 in chips) 
+Seat 6: ratmirptbl (2984 in chips) 
+ollikahn23: posts the ante 4
+SnowmanTony: posts the ante 4
+SOUFODAMS: posts the ante 4
+KOHb_blr: posts the ante 4
+adrrian1989: posts the ante 4
+ratmirptbl: posts the ante 4
+SnowmanTony: posts small blind 15
+SOUFODAMS: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Js Td]
+KOHb_blr: folds 
+adrrian1989: folds 
+ratmirptbl: folds 
+ollikahn23: raises 30 to 60
+SnowmanTony: raises 180 to 240
+SOUFODAMS: folds 
+ollikahn23: folds 
+Uncalled bet (180) returned to SnowmanTony
+SnowmanTony collected 174 from pot
+*** SUMMARY ***
+Total pot 174 | Rake 0 
+Seat 1: ollikahn23 (button) folded before Flop
+Seat 2: SnowmanTony (small blind) collected (174)
+Seat 3: SOUFODAMS (big blind) folded before Flop
+Seat 4: KOHb_blr folded before Flop (didn't bet)
+Seat 5: adrrian1989 folded before Flop (didn't bet)
+Seat 6: ratmirptbl folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185386057926: Tournament #2281698050, $13.37+$1.63 USD Hold'em No Limit - Level I (15/30) - 2018/04/18 14:07:13 ET
+Table '2281698050 37' 9-max Seat #2 is the button
+Seat 1: ollikahn23 (2533 in chips) 
+Seat 2: SnowmanTony (2798 in chips) 
+Seat 3: SOUFODAMS (2916 in chips) 
+Seat 4: KOHb_blr (2512 in chips) 
+Seat 5: adrrian1989 (3126 in chips) 
+Seat 6: ratmirptbl (2980 in chips) 
+Seat 7: FreddyRUS (2992 in chips) 
+Seat 8: plstarshine (2965 in chips) 
+ollikahn23: posts the ante 4
+SnowmanTony: posts the ante 4
+SOUFODAMS: posts the ante 4
+KOHb_blr: posts the ante 4
+adrrian1989: posts the ante 4
+ratmirptbl: posts the ante 4
+FreddyRUS: posts the ante 4
+plstarshine: posts the ante 4
+SOUFODAMS: posts small blind 15
+KOHb_blr: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9h 9s]
+adrrian1989: folds 
+ratmirptbl: folds 
+FreddyRUS: folds 
+plstarshine: folds 
+ollikahn23: raises 45 to 75
+SnowmanTony: folds 
+SOUFODAMS: folds 
+KOHb_blr: folds 
+Uncalled bet (45) returned to ollikahn23
+ollikahn23 collected 107 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 107 | Rake 0 
+Seat 1: ollikahn23 collected (107)
+Seat 2: SnowmanTony (button) folded before Flop (didn't bet)
+Seat 3: SOUFODAMS (small blind) folded before Flop
+Seat 4: KOHb_blr (big blind) folded before Flop
+Seat 5: adrrian1989 folded before Flop (didn't bet)
+Seat 6: ratmirptbl folded before Flop (didn't bet)
+Seat 7: FreddyRUS folded before Flop (didn't bet)
+Seat 8: plstarshine folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185386078538: Tournament #2281698050, $13.37+$1.63 USD Hold'em No Limit - Level I (15/30) - 2018/04/18 14:07:43 ET
+Table '2281698050 37' 9-max Seat #3 is the button
+Seat 1: ollikahn23 (2606 in chips) 
+Seat 2: SnowmanTony (2794 in chips) 
+Seat 3: SOUFODAMS (2897 in chips) 
+Seat 4: KOHb_blr (2478 in chips) 
+Seat 5: adrrian1989 (3122 in chips) 
+Seat 6: ratmirptbl (2976 in chips) 
+Seat 7: FreddyRUS (2988 in chips) 
+Seat 8: plstarshine (2961 in chips) 
+Seat 9: DON_PP (3000 in chips) 
+ollikahn23: posts the ante 4
+SnowmanTony: posts the ante 4
+SOUFODAMS: posts the ante 4
+KOHb_blr: posts the ante 4
+adrrian1989: posts the ante 4
+ratmirptbl: posts the ante 4
+FreddyRUS: posts the ante 4
+plstarshine: posts the ante 4
+DON_PP: posts the ante 4
+KOHb_blr: posts small blind 15
+adrrian1989: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7c 9h]
+ratmirptbl: folds 
+FreddyRUS: folds 
+plstarshine: folds 
+DON_PP: folds 
+ollikahn23: folds 
+SnowmanTony: folds 
+SOUFODAMS: folds 
+KOHb_blr: folds 
+Uncalled bet (15) returned to adrrian1989
+adrrian1989 collected 66 from pot
+adrrian1989: doesn't show hand 
+*** SUMMARY ***
+Total pot 66 | Rake 0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: SnowmanTony folded before Flop (didn't bet)
+Seat 3: SOUFODAMS (button) folded before Flop (didn't bet)
+Seat 4: KOHb_blr (small blind) folded before Flop
+Seat 5: adrrian1989 (big blind) collected (66)
+Seat 6: ratmirptbl folded before Flop (didn't bet)
+Seat 7: FreddyRUS folded before Flop (didn't bet)
+Seat 8: plstarshine folded before Flop (didn't bet)
+Seat 9: DON_PP folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185386107438: Tournament #2281698050, $13.37+$1.63 USD Hold'em No Limit - Level I (15/30) - 2018/04/18 14:08:24 ET
+Table '2281698050 37' 9-max Seat #4 is the button
+Seat 1: ollikahn23 (2602 in chips) 
+Seat 2: SnowmanTony (2790 in chips) 
+Seat 3: SOUFODAMS (2893 in chips) 
+Seat 4: KOHb_blr (2459 in chips) 
+Seat 5: adrrian1989 (3169 in chips) 
+Seat 6: ratmirptbl (2972 in chips) 
+Seat 7: FreddyRUS (2984 in chips) 
+Seat 8: plstarshine (2957 in chips) 
+Seat 9: DON_PP (2996 in chips) 
+ollikahn23: posts the ante 4
+SnowmanTony: posts the ante 4
+SOUFODAMS: posts the ante 4
+KOHb_blr: posts the ante 4
+adrrian1989: posts the ante 4
+ratmirptbl: posts the ante 4
+FreddyRUS: posts the ante 4
+plstarshine: posts the ante 4
+DON_PP: posts the ante 4
+adrrian1989: posts small blind 15
+ratmirptbl: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7c 4s]
+FreddyRUS: folds 
+plstarshine: folds 
+DON_PP: folds 
+ollikahn23: folds 
+SnowmanTony: folds 
+SOUFODAMS: folds 
+KOHb_blr: folds 
+adrrian1989: folds 
+Uncalled bet (15) returned to ratmirptbl
+ratmirptbl collected 66 from pot
+ratmirptbl: doesn't show hand 
+*** SUMMARY ***
+Total pot 66 | Rake 0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: SnowmanTony folded before Flop (didn't bet)
+Seat 3: SOUFODAMS folded before Flop (didn't bet)
+Seat 4: KOHb_blr (button) folded before Flop (didn't bet)
+Seat 5: adrrian1989 (small blind) folded before Flop
+Seat 6: ratmirptbl (big blind) collected (66)
+Seat 7: FreddyRUS folded before Flop (didn't bet)
+Seat 8: plstarshine folded before Flop (didn't bet)
+Seat 9: DON_PP folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185386122682: Tournament #2281698050, $13.37+$1.63 USD Hold'em No Limit - Level I (15/30) - 2018/04/18 14:08:46 ET
+Table '2281698050 37' 9-max Seat #5 is the button
+Seat 1: ollikahn23 (2598 in chips) 
+Seat 2: SnowmanTony (2786 in chips) 
+Seat 3: SOUFODAMS (2889 in chips) 
+Seat 4: KOHb_blr (2455 in chips) 
+Seat 5: adrrian1989 (3150 in chips) 
+Seat 6: ratmirptbl (3019 in chips) 
+Seat 7: FreddyRUS (2980 in chips) 
+Seat 8: plstarshine (2953 in chips) 
+Seat 9: DON_PP (2992 in chips) 
+ollikahn23: posts the ante 4
+SnowmanTony: posts the ante 4
+SOUFODAMS: posts the ante 4
+KOHb_blr: posts the ante 4
+adrrian1989: posts the ante 4
+ratmirptbl: posts the ante 4
+FreddyRUS: posts the ante 4
+plstarshine: posts the ante 4
+DON_PP: posts the ante 4
+ratmirptbl: posts small blind 15
+FreddyRUS: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Tc 3d]
+plstarshine: folds 
+DON_PP: folds 
+ollikahn23: folds 
+SnowmanTony: folds 
+SOUFODAMS: folds 
+KOHb_blr: folds 
+adrrian1989: raises 45 to 75
+ratmirptbl: folds 
+FreddyRUS: calls 45
+*** FLOP *** [9s Kd Th]
+FreddyRUS: checks 
+adrrian1989: bets 90
+FreddyRUS: folds 
+Uncalled bet (90) returned to adrrian1989
+adrrian1989 collected 201 from pot
+*** SUMMARY ***
+Total pot 201 | Rake 0 
+Board [9s Kd Th]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: SnowmanTony folded before Flop (didn't bet)
+Seat 3: SOUFODAMS folded before Flop (didn't bet)
+Seat 4: KOHb_blr folded before Flop (didn't bet)
+Seat 5: adrrian1989 (button) collected (201)
+Seat 6: ratmirptbl (small blind) folded before Flop
+Seat 7: FreddyRUS (big blind) folded on the Flop
+Seat 8: plstarshine folded before Flop (didn't bet)
+Seat 9: DON_PP folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185386169899: Tournament #2281698050, $13.37+$1.63 USD Hold'em No Limit - Level I (15/30) - 2018/04/18 14:09:54 ET
+Table '2281698050 37' 9-max Seat #6 is the button
+Seat 1: ollikahn23 (2594 in chips) 
+Seat 2: SnowmanTony (2782 in chips) 
+Seat 3: SOUFODAMS (2885 in chips) 
+Seat 4: KOHb_blr (2451 in chips) 
+Seat 5: adrrian1989 (3272 in chips) 
+Seat 6: ratmirptbl (3000 in chips) 
+Seat 7: FreddyRUS (2901 in chips) 
+Seat 8: plstarshine (2949 in chips) 
+Seat 9: DON_PP (2988 in chips) 
+ollikahn23: posts the ante 4
+SnowmanTony: posts the ante 4
+SOUFODAMS: posts the ante 4
+KOHb_blr: posts the ante 4
+adrrian1989: posts the ante 4
+ratmirptbl: posts the ante 4
+FreddyRUS: posts the ante 4
+plstarshine: posts the ante 4
+DON_PP: posts the ante 4
+FreddyRUS: posts small blind 15
+plstarshine: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7c Qd]
+DON_PP: folds 
+ollikahn23: folds 
+SnowmanTony: folds 
+SOUFODAMS: folds 
+KOHb_blr: folds 
+adrrian1989: folds 
+ratmirptbl: folds 
+FreddyRUS: folds 
+Uncalled bet (15) returned to plstarshine
+plstarshine collected 66 from pot
+*** SUMMARY ***
+Total pot 66 | Rake 0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: SnowmanTony folded before Flop (didn't bet)
+Seat 3: SOUFODAMS folded before Flop (didn't bet)
+Seat 4: KOHb_blr folded before Flop (didn't bet)
+Seat 5: adrrian1989 folded before Flop (didn't bet)
+Seat 6: ratmirptbl (button) folded before Flop (didn't bet)
+Seat 7: FreddyRUS (small blind) folded before Flop
+Seat 8: plstarshine (big blind) collected (66)
+Seat 9: DON_PP folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185386192576: Tournament #2281698050, $13.37+$1.63 USD Hold'em No Limit - Level I (15/30) - 2018/04/18 14:10:27 ET
+Table '2281698050 37' 9-max Seat #7 is the button
+Seat 1: ollikahn23 (2590 in chips) 
+Seat 2: SnowmanTony (2778 in chips) 
+Seat 3: SOUFODAMS (2881 in chips) 
+Seat 4: KOHb_blr (2447 in chips) 
+Seat 5: adrrian1989 (3268 in chips) 
+Seat 6: ratmirptbl (2996 in chips) 
+Seat 7: FreddyRUS (2882 in chips) 
+Seat 8: plstarshine (2996 in chips) 
+Seat 9: DON_PP (2984 in chips) 
+ollikahn23: posts the ante 4
+SnowmanTony: posts the ante 4
+SOUFODAMS: posts the ante 4
+KOHb_blr: posts the ante 4
+adrrian1989: posts the ante 4
+ratmirptbl: posts the ante 4
+FreddyRUS: posts the ante 4
+plstarshine: posts the ante 4
+DON_PP: posts the ante 4
+plstarshine: posts small blind 15
+DON_PP: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6h 4h]
+ollikahn23: folds 
+SnowmanTony: folds 
+SOUFODAMS: folds 
+KOHb_blr: folds 
+adrrian1989: folds 
+ratmirptbl: folds 
+FreddyRUS: raises 45 to 75
+plstarshine: folds 
+DON_PP: folds 
+Uncalled bet (45) returned to FreddyRUS
+FreddyRUS collected 111 from pot
+FreddyRUS: doesn't show hand 
+*** SUMMARY ***
+Total pot 111 | Rake 0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: SnowmanTony folded before Flop (didn't bet)
+Seat 3: SOUFODAMS folded before Flop (didn't bet)
+Seat 4: KOHb_blr folded before Flop (didn't bet)
+Seat 5: adrrian1989 folded before Flop (didn't bet)
+Seat 6: ratmirptbl folded before Flop (didn't bet)
+Seat 7: FreddyRUS (button) collected (111)
+Seat 8: plstarshine (small blind) folded before Flop
+Seat 9: DON_PP (big blind) folded before Flop
+
+
+
+PokerStars Hand #185386224343: Tournament #2281698050, $13.37+$1.63 USD Hold'em No Limit - Level I (15/30) - 2018/04/18 14:11:14 ET
+Table '2281698050 37' 9-max Seat #8 is the button
+Seat 1: ollikahn23 (2586 in chips) 
+Seat 2: SnowmanTony (2774 in chips) 
+Seat 3: SOUFODAMS (2877 in chips) 
+Seat 4: KOHb_blr (2443 in chips) 
+Seat 5: adrrian1989 (3264 in chips) 
+Seat 6: ratmirptbl (2992 in chips) 
+Seat 7: FreddyRUS (2959 in chips) 
+Seat 8: plstarshine (2977 in chips) 
+Seat 9: DON_PP (2950 in chips) 
+ollikahn23: posts the ante 4
+SnowmanTony: posts the ante 4
+SOUFODAMS: posts the ante 4
+KOHb_blr: posts the ante 4
+adrrian1989: posts the ante 4
+ratmirptbl: posts the ante 4
+FreddyRUS: posts the ante 4
+plstarshine: posts the ante 4
+DON_PP: posts the ante 4
+DON_PP: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4d 8c]
+SnowmanTony: raises 45 to 75
+SOUFODAMS: calls 75
+KOHb_blr: folds 
+adrrian1989: folds 
+ratmirptbl: folds 
+FreddyRUS: folds 
+plstarshine: folds 
+DON_PP: raises 195 to 270
+ollikahn23: folds 
+SnowmanTony: calls 195
+SOUFODAMS: calls 195
+*** FLOP *** [6s Qs 7d]
+DON_PP: bets 360
+SnowmanTony: calls 360
+SOUFODAMS: folds 
+*** TURN *** [6s Qs 7d] [8h]
+DON_PP: bets 360
+SnowmanTony: calls 360
+*** RIVER *** [6s Qs 7d 8h] [3h]
+DON_PP: checks 
+SnowmanTony: bets 450
+DON_PP: calls 450
+*** SHOW DOWN ***
+SnowmanTony: shows [Qh Ah] (a pair of Queens)
+DON_PP: mucks hand 
+SnowmanTony collected 3216 from pot
+*** SUMMARY ***
+Total pot 3216 | Rake 0 
+Board [6s Qs 7d 8h 3h]
+Seat 1: ollikahn23 (big blind) folded before Flop
+Seat 2: SnowmanTony showed [Qh Ah] and won (3216) with a pair of Queens
+Seat 3: SOUFODAMS folded on the Flop
+Seat 4: KOHb_blr folded before Flop (didn't bet)
+Seat 5: adrrian1989 folded before Flop (didn't bet)
+Seat 6: ratmirptbl folded before Flop (didn't bet)
+Seat 7: FreddyRUS folded before Flop (didn't bet)
+Seat 8: plstarshine (button) folded before Flop (didn't bet)
+Seat 9: DON_PP (small blind) mucked [Jh Js]
+
+
+
+PokerStars Hand #185386293032: Tournament #2281698050, $13.37+$1.63 USD Hold'em No Limit - Level II (20/40) - 2018/04/18 14:12:52 ET
+Table '2281698050 37' 9-max Seat #9 is the button
+Seat 1: ollikahn23 (2552 in chips) 
+Seat 2: SnowmanTony (4546 in chips) 
+Seat 3: SOUFODAMS (2603 in chips) 
+Seat 4: KOHb_blr (2439 in chips) 
+Seat 5: adrrian1989 (3260 in chips) 
+Seat 6: ratmirptbl (2988 in chips) 
+Seat 7: FreddyRUS (2955 in chips) 
+Seat 8: plstarshine (2973 in chips) 
+Seat 9: DON_PP (1506 in chips) 
+ollikahn23: posts the ante 5
+SnowmanTony: posts the ante 5
+SOUFODAMS: posts the ante 5
+KOHb_blr: posts the ante 5
+adrrian1989: posts the ante 5
+ratmirptbl: posts the ante 5
+FreddyRUS: posts the ante 5
+plstarshine: posts the ante 5
+DON_PP: posts the ante 5
+ollikahn23: posts small blind 20
+SnowmanTony: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8s Th]
+SOUFODAMS: folds 
+KOHb_blr: folds 
+adrrian1989: folds 
+ratmirptbl: folds 
+FreddyRUS: raises 60 to 100
+plstarshine: folds 
+DON_PP: calls 100
+ollikahn23: folds 
+SnowmanTony: folds 
+*** FLOP *** [2h 6s 9s]
+FreddyRUS: bets 92
+DON_PP: calls 92
+*** TURN *** [2h 6s 9s] [5s]
+FreddyRUS: checks 
+DON_PP: bets 280
+FreddyRUS: folds 
+Uncalled bet (280) returned to DON_PP
+DON_PP collected 489 from pot
+DON_PP: doesn't show hand 
+*** SUMMARY ***
+Total pot 489 | Rake 0 
+Board [2h 6s 9s 5s]
+Seat 1: ollikahn23 (small blind) folded before Flop
+Seat 2: SnowmanTony (big blind) folded before Flop
+Seat 3: SOUFODAMS folded before Flop (didn't bet)
+Seat 4: KOHb_blr folded before Flop (didn't bet)
+Seat 5: adrrian1989 folded before Flop (didn't bet)
+Seat 6: ratmirptbl folded before Flop (didn't bet)
+Seat 7: FreddyRUS folded on the Turn
+Seat 8: plstarshine folded before Flop (didn't bet)
+Seat 9: DON_PP (button) collected (489)
+
+
+
+PokerStars Hand #185386346417: Tournament #2281698050, $13.37+$1.63 USD Hold'em No Limit - Level II (20/40) - 2018/04/18 14:14:09 ET
+Table '2281698050 37' 9-max Seat #1 is the button
+Seat 1: ollikahn23 (2527 in chips) 
+Seat 2: SnowmanTony (4501 in chips) 
+Seat 4: KOHb_blr (2434 in chips) 
+Seat 5: adrrian1989 (3255 in chips) 
+Seat 6: ratmirptbl (2983 in chips) 
+Seat 7: FreddyRUS (2758 in chips) 
+Seat 8: plstarshine (2968 in chips) 
+Seat 9: DON_PP (1798 in chips) 
+ollikahn23: posts the ante 5
+SnowmanTony: posts the ante 5
+KOHb_blr: posts the ante 5
+adrrian1989: posts the ante 5
+ratmirptbl: posts the ante 5
+FreddyRUS: posts the ante 5
+plstarshine: posts the ante 5
+DON_PP: posts the ante 5
+SnowmanTony: posts small blind 20
+KOHb_blr: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kc 7s]
+adrrian1989: folds 
+ratmirptbl: folds 
+FreddyRUS: folds 
+plstarshine: folds 
+DON_PP: calls 40
+ollikahn23: raises 125 to 165
+SnowmanTony: folds 
+KOHb_blr: folds 
+DON_PP: folds 
+Uncalled bet (125) returned to ollikahn23
+ollikahn23 collected 180 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Seat 1: ollikahn23 (button) collected (180)
+Seat 2: SnowmanTony (small blind) folded before Flop
+Seat 4: KOHb_blr (big blind) folded before Flop
+Seat 5: adrrian1989 folded before Flop (didn't bet)
+Seat 6: ratmirptbl folded before Flop (didn't bet)
+Seat 7: FreddyRUS folded before Flop (didn't bet)
+Seat 8: plstarshine folded before Flop (didn't bet)
+Seat 9: DON_PP folded before Flop
+
+
+
+PokerStars Hand #185386383167: Tournament #2281698050, $13.37+$1.63 USD Hold'em No Limit - Level II (20/40) - 2018/04/18 14:15:03 ET
+Table '2281698050 37' 9-max Seat #2 is the button
+Seat 1: ollikahn23 (2662 in chips) 
+Seat 2: SnowmanTony (4476 in chips) 
+Seat 4: KOHb_blr (2389 in chips) 
+Seat 5: adrrian1989 (3250 in chips) 
+Seat 6: ratmirptbl (2978 in chips) 
+Seat 7: FreddyRUS (2753 in chips) 
+Seat 8: plstarshine (2963 in chips) 
+Seat 9: DON_PP (1753 in chips) 
+ollikahn23: posts the ante 5
+SnowmanTony: posts the ante 5
+KOHb_blr: posts the ante 5
+adrrian1989: posts the ante 5
+ratmirptbl: posts the ante 5
+FreddyRUS: posts the ante 5
+plstarshine: posts the ante 5
+DON_PP: posts the ante 5
+KOHb_blr: posts small blind 20
+adrrian1989: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2h Qs]
+ratmirptbl: folds 
+FreddyRUS: folds 
+plstarshine: folds 
+DON_PP: folds 
+ollikahn23: folds 
+SnowmanTony: raises 60 to 100
+KOHb_blr: folds 
+adrrian1989: folds 
+Uncalled bet (60) returned to SnowmanTony
+SnowmanTony collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: SnowmanTony (button) collected (140)
+Seat 4: KOHb_blr (small blind) folded before Flop
+Seat 5: adrrian1989 (big blind) folded before Flop
+Seat 6: ratmirptbl folded before Flop (didn't bet)
+Seat 7: FreddyRUS folded before Flop (didn't bet)
+Seat 8: plstarshine folded before Flop (didn't bet)
+Seat 9: DON_PP folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185386397058: Tournament #2281698050, $13.37+$1.63 USD Hold'em No Limit - Level II (20/40) - 2018/04/18 14:15:23 ET
+Table '2281698050 37' 9-max Seat #4 is the button
+Seat 1: ollikahn23 (2657 in chips) 
+Seat 2: SnowmanTony (4571 in chips) 
+Seat 3: *Dahlewitz* (3000 in chips) 
+Seat 4: KOHb_blr (2364 in chips) 
+Seat 5: adrrian1989 (3205 in chips) 
+Seat 7: FreddyRUS (2748 in chips) 
+Seat 8: plstarshine (2958 in chips) 
+Seat 9: DON_PP (1748 in chips) 
+ollikahn23: posts the ante 5
+SnowmanTony: posts the ante 5
+*Dahlewitz*: posts the ante 5
+KOHb_blr: posts the ante 5
+adrrian1989: posts the ante 5
+FreddyRUS: posts the ante 5
+plstarshine: posts the ante 5
+DON_PP: posts the ante 5
+adrrian1989: posts small blind 20
+FreddyRUS: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9h As]
+plstarshine: folds 
+DON_PP: folds 
+ollikahn23: raises 45 to 85
+SnowmanTony: folds 
+*Dahlewitz*: folds 
+KOHb_blr: calls 85
+adrrian1989: calls 65
+FreddyRUS: calls 45
+*** FLOP *** [9d 3d 4s]
+adrrian1989: checks 
+FreddyRUS: checks 
+ollikahn23: bets 140
+KOHb_blr: folds 
+adrrian1989: folds 
+FreddyRUS: folds 
+Uncalled bet (140) returned to ollikahn23
+ollikahn23 collected 380 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 380 | Rake 0 
+Board [9d 3d 4s]
+Seat 1: ollikahn23 collected (380)
+Seat 2: SnowmanTony folded before Flop (didn't bet)
+Seat 3: *Dahlewitz* folded before Flop (didn't bet)
+Seat 4: KOHb_blr (button) folded on the Flop
+Seat 5: adrrian1989 (small blind) folded on the Flop
+Seat 7: FreddyRUS (big blind) folded on the Flop
+Seat 8: plstarshine folded before Flop (didn't bet)
+Seat 9: DON_PP folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185386439355: Tournament #2281698050, $13.37+$1.63 USD Hold'em No Limit - Level II (20/40) - 2018/04/18 14:16:24 ET
+Table '2281698050 37' 9-max Seat #5 is the button
+Seat 1: ollikahn23 (2947 in chips) 
+Seat 2: SnowmanTony (4566 in chips) 
+Seat 3: *Dahlewitz* (2995 in chips) 
+Seat 4: KOHb_blr (2274 in chips) 
+Seat 5: adrrian1989 (3115 in chips) 
+Seat 6: bosi111 (3000 in chips) out of hand (moved from another table into small blind)
+Seat 7: FreddyRUS (2658 in chips) 
+Seat 8: plstarshine (2953 in chips) 
+Seat 9: DON_PP (1743 in chips) 
+bosi111 will be allowed to play after the button
+ollikahn23: posts the ante 5
+SnowmanTony: posts the ante 5
+*Dahlewitz*: posts the ante 5
+KOHb_blr: posts the ante 5
+adrrian1989: posts the ante 5
+FreddyRUS: posts the ante 5
+plstarshine: posts the ante 5
+DON_PP: posts the ante 5
+FreddyRUS: posts small blind 20
+plstarshine: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7d Js]
+DON_PP: folds 
+ollikahn23: folds 
+SnowmanTony: folds 
+*Dahlewitz*: folds 
+KOHb_blr: folds 
+adrrian1989: folds 
+FreddyRUS: folds 
+Uncalled bet (20) returned to plstarshine
+plstarshine collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: SnowmanTony folded before Flop (didn't bet)
+Seat 3: *Dahlewitz* folded before Flop (didn't bet)
+Seat 4: KOHb_blr folded before Flop (didn't bet)
+Seat 5: adrrian1989 (button) folded before Flop (didn't bet)
+Seat 7: FreddyRUS (small blind) folded before Flop
+Seat 8: plstarshine (big blind) collected (80)
+Seat 9: DON_PP folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185386468386: Tournament #2281698050, $13.37+$1.63 USD Hold'em No Limit - Level II (20/40) - 2018/04/18 14:17:05 ET
+Table '2281698050 37' 9-max Seat #7 is the button
+Seat 1: ollikahn23 (2942 in chips) 
+Seat 2: SnowmanTony (4561 in chips) 
+Seat 3: *Dahlewitz* (2990 in chips) 
+Seat 4: KOHb_blr (2269 in chips) 
+Seat 5: adrrian1989 (3110 in chips) 
+Seat 6: bosi111 (3000 in chips) 
+Seat 7: FreddyRUS (2633 in chips) 
+Seat 8: plstarshine (3008 in chips) 
+Seat 9: DON_PP (1738 in chips) 
+ollikahn23: posts the ante 5
+SnowmanTony: posts the ante 5
+*Dahlewitz*: posts the ante 5
+KOHb_blr: posts the ante 5
+adrrian1989: posts the ante 5
+bosi111: posts the ante 5
+FreddyRUS: posts the ante 5
+plstarshine: posts the ante 5
+DON_PP: posts the ante 5
+plstarshine: posts small blind 20
+DON_PP: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8h 8c]
+ollikahn23: raises 85 to 125
+SnowmanTony: folds 
+*Dahlewitz*: raises 355 to 480
+KOHb_blr: folds 
+adrrian1989: folds 
+bosi111: folds 
+FreddyRUS: folds 
+plstarshine: folds 
+DON_PP: folds 
+ollikahn23: folds 
+Uncalled bet (355) returned to *Dahlewitz*
+*Dahlewitz* collected 355 from pot
+*** SUMMARY ***
+Total pot 355 | Rake 0 
+Seat 1: ollikahn23 folded before Flop
+Seat 2: SnowmanTony folded before Flop (didn't bet)
+Seat 3: *Dahlewitz* collected (355)
+Seat 4: KOHb_blr folded before Flop (didn't bet)
+Seat 5: adrrian1989 folded before Flop (didn't bet)
+Seat 6: bosi111 folded before Flop (didn't bet)
+Seat 7: FreddyRUS (button) folded before Flop (didn't bet)
+Seat 8: plstarshine (small blind) folded before Flop
+Seat 9: DON_PP (big blind) folded before Flop
+
+
+
+PokerStars Hand #185386503252: Tournament #2281698050, $13.37+$1.63 USD Hold'em No Limit - Level II (20/40) - 2018/04/18 14:17:56 ET
+Table '2281698050 45' 9-max Seat #1 is the button
+Seat 1: lukass3055 (1736 in chips) 
+Seat 2: andreygt77 (2927 in chips) 
+Seat 3: qnko84 (4204 in chips) 
+Seat 4: Originallyy (2885 in chips) 
+Seat 5: ollikahn23 (2812 in chips) 
+Seat 7: beny05 (3000 in chips) 
+lukass3055: posts the ante 5
+andreygt77: posts the ante 5
+qnko84: posts the ante 5
+Originallyy: posts the ante 5
+ollikahn23: posts the ante 5
+beny05: posts the ante 5
+andreygt77: posts small blind 20
+qnko84: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3d 9h]
+Originallyy is connected 
+Originallyy: folds 
+ollikahn23: folds 
+beny05: folds 
+lukass3055: folds 
+andreygt77: raises 60 to 100
+qnko84: calls 60
+*** FLOP *** [4d Th 8s]
+andreygt77: bets 160
+qnko84: calls 160
+*** TURN *** [4d Th 8s] [2c]
+andreygt77: bets 400
+qnko84: calls 400
+*** RIVER *** [4d Th 8s 2c] [Jh]
+andreygt77: checks 
+qnko84: checks 
+*** SHOW DOWN ***
+andreygt77: shows [5c 3s] (high card Jack)
+qnko84: shows [5s Ts] (a pair of Tens)
+qnko84 collected 1350 from pot
+*** SUMMARY ***
+Total pot 1350 | Rake 0 
+Board [4d Th 8s 2c Jh]
+Seat 1: lukass3055 (button) folded before Flop (didn't bet)
+Seat 2: andreygt77 (small blind) showed [5c 3s] and lost with high card Jack
+Seat 3: qnko84 (big blind) showed [5s Ts] and won (1350) with a pair of Tens
+Seat 4: Originallyy folded before Flop (didn't bet)
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 7: beny05 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185386536188: Tournament #2281698050, $13.37+$1.63 USD Hold'em No Limit - Level II (20/40) - 2018/04/18 14:18:43 ET
+Table '2281698050 45' 9-max Seat #2 is the button
+Seat 1: lukass3055 (1731 in chips) 
+Seat 2: andreygt77 (2262 in chips) 
+Seat 3: qnko84 (4889 in chips) 
+Seat 4: Originallyy (2880 in chips) 
+Seat 5: ollikahn23 (2807 in chips) 
+Seat 6: Cheremis (3523 in chips) 
+Seat 7: beny05 (2995 in chips) 
+Seat 8: CraekZe (3259 in chips) 
+Seat 9: MrWilliams87 (3000 in chips) 
+lukass3055: posts the ante 5
+andreygt77: posts the ante 5
+qnko84: posts the ante 5
+Originallyy: posts the ante 5
+ollikahn23: posts the ante 5
+Cheremis: posts the ante 5
+beny05: posts the ante 5
+CraekZe: posts the ante 5
+MrWilliams87: posts the ante 5
+qnko84: posts small blind 20
+Originallyy: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kd Ah]
+ollikahn23: raises 85 to 125
+Cheremis: folds 
+beny05: folds 
+CraekZe: folds 
+MrWilliams87: folds 
+lukass3055: folds 
+andreygt77: folds 
+qnko84: folds 
+Originallyy: calls 85
+*** FLOP *** [3c Jh 2s]
+Originallyy: checks 
+ollikahn23: bets 130
+Originallyy: calls 130
+*** TURN *** [3c Jh 2s] [9h]
+Originallyy: checks 
+ollikahn23: bets 395
+beny05 is sitting out
+Originallyy: folds 
+Uncalled bet (395) returned to ollikahn23
+ollikahn23 collected 575 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 575 | Rake 0 
+Board [3c Jh 2s 9h]
+Seat 1: lukass3055 folded before Flop (didn't bet)
+Seat 2: andreygt77 (button) folded before Flop (didn't bet)
+Seat 3: qnko84 (small blind) folded before Flop
+Seat 4: Originallyy (big blind) folded on the Turn
+Seat 5: ollikahn23 collected (575)
+Seat 6: Cheremis folded before Flop (didn't bet)
+Seat 7: beny05 folded before Flop (didn't bet)
+Seat 8: CraekZe folded before Flop (didn't bet)
+Seat 9: MrWilliams87 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185386590463: Tournament #2281698050, $13.37+$1.63 USD Hold'em No Limit - Level II (20/40) - 2018/04/18 14:20:00 ET
+Table '2281698050 45' 9-max Seat #3 is the button
+Seat 1: lukass3055 (1726 in chips) 
+Seat 2: andreygt77 (2257 in chips) 
+Seat 3: qnko84 (4864 in chips) 
+Seat 4: Originallyy (2620 in chips) 
+Seat 5: ollikahn23 (3122 in chips) 
+Seat 6: Cheremis (3518 in chips) 
+Seat 7: beny05 (2990 in chips) is sitting out
+Seat 8: CraekZe (3254 in chips) 
+Seat 9: MrWilliams87 (2995 in chips) 
+lukass3055: posts the ante 5
+andreygt77: posts the ante 5
+qnko84: posts the ante 5
+Originallyy: posts the ante 5
+ollikahn23: posts the ante 5
+Cheremis: posts the ante 5
+beny05: posts the ante 5
+CraekZe: posts the ante 5
+MrWilliams87: posts the ante 5
+Originallyy: posts small blind 20
+ollikahn23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2s 8h]
+beny05 has returned
+Cheremis: folds 
+beny05: raises 40 to 80
+CraekZe: folds 
+MrWilliams87: folds 
+lukass3055: folds 
+andreygt77: folds 
+qnko84: folds 
+Originallyy: folds 
+ollikahn23: folds 
+Uncalled bet (40) returned to beny05
+beny05 collected 145 from pot
+beny05: doesn't show hand 
+*** SUMMARY ***
+Total pot 145 | Rake 0 
+Seat 1: lukass3055 folded before Flop (didn't bet)
+Seat 2: andreygt77 folded before Flop (didn't bet)
+Seat 3: qnko84 (button) folded before Flop (didn't bet)
+Seat 4: Originallyy (small blind) folded before Flop
+Seat 5: ollikahn23 (big blind) folded before Flop
+Seat 6: Cheremis folded before Flop (didn't bet)
+Seat 7: beny05 collected (145)
+Seat 8: CraekZe folded before Flop (didn't bet)
+Seat 9: MrWilliams87 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185386614603: Tournament #2281698050, $13.37+$1.63 USD Hold'em No Limit - Level II (20/40) - 2018/04/18 14:20:35 ET
+Table '2281698050 45' 9-max Seat #4 is the button
+Seat 1: lukass3055 (1721 in chips) 
+Seat 2: andreygt77 (2252 in chips) 
+Seat 3: qnko84 (4859 in chips) 
+Seat 4: Originallyy (2595 in chips) 
+Seat 5: ollikahn23 (3077 in chips) 
+Seat 6: Cheremis (3513 in chips) 
+Seat 7: beny05 (3090 in chips) 
+Seat 8: CraekZe (3249 in chips) 
+Seat 9: MrWilliams87 (2990 in chips) 
+lukass3055: posts the ante 5
+andreygt77: posts the ante 5
+qnko84: posts the ante 5
+Originallyy: posts the ante 5
+ollikahn23: posts the ante 5
+Cheremis: posts the ante 5
+beny05: posts the ante 5
+CraekZe: posts the ante 5
+MrWilliams87: posts the ante 5
+ollikahn23: posts small blind 20
+Cheremis: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6d As]
+beny05: raises 80 to 120
+CraekZe: folds 
+MrWilliams87: folds 
+lukass3055: folds 
+andreygt77: folds 
+qnko84: folds 
+Originallyy: folds 
+ollikahn23: folds 
+Cheremis: folds 
+Uncalled bet (80) returned to beny05
+beny05 collected 145 from pot
+beny05: doesn't show hand 
+*** SUMMARY ***
+Total pot 145 | Rake 0 
+Seat 1: lukass3055 folded before Flop (didn't bet)
+Seat 2: andreygt77 folded before Flop (didn't bet)
+Seat 3: qnko84 folded before Flop (didn't bet)
+Seat 4: Originallyy (button) folded before Flop (didn't bet)
+Seat 5: ollikahn23 (small blind) folded before Flop
+Seat 6: Cheremis (big blind) folded before Flop
+Seat 7: beny05 collected (145)
+Seat 8: CraekZe folded before Flop (didn't bet)
+Seat 9: MrWilliams87 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185386638792: Tournament #2281698050, $13.37+$1.63 USD Hold'em No Limit - Level II (20/40) - 2018/04/18 14:21:09 ET
+Table '2281698050 45' 9-max Seat #5 is the button
+Seat 1: lukass3055 (1716 in chips) 
+Seat 2: andreygt77 (2247 in chips) 
+Seat 3: qnko84 (4854 in chips) 
+Seat 4: Originallyy (2590 in chips) 
+Seat 5: ollikahn23 (3052 in chips) 
+Seat 6: Cheremis (3468 in chips) 
+Seat 7: beny05 (3190 in chips) 
+Seat 8: CraekZe (3244 in chips) 
+Seat 9: MrWilliams87 (2985 in chips) 
+lukass3055: posts the ante 5
+andreygt77: posts the ante 5
+qnko84: posts the ante 5
+Originallyy: posts the ante 5
+ollikahn23: posts the ante 5
+Cheremis: posts the ante 5
+beny05: posts the ante 5
+CraekZe: posts the ante 5
+MrWilliams87: posts the ante 5
+Cheremis: posts small blind 20
+beny05: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Js 4h]
+CraekZe: folds 
+MrWilliams87: folds 
+lukass3055: raises 40 to 80
+andreygt77: folds 
+qnko84: folds 
+Originallyy: folds 
+ollikahn23: folds 
+Cheremis: calls 60
+beny05: calls 40
+*** FLOP *** [4s Td 7h]
+Cheremis: checks 
+beny05: bets 120
+lukass3055: folds 
+Cheremis: folds 
+Uncalled bet (120) returned to beny05
+beny05 collected 285 from pot
+beny05: doesn't show hand 
+*** SUMMARY ***
+Total pot 285 | Rake 0 
+Board [4s Td 7h]
+Seat 1: lukass3055 folded on the Flop
+Seat 2: andreygt77 folded before Flop (didn't bet)
+Seat 3: qnko84 folded before Flop (didn't bet)
+Seat 4: Originallyy folded before Flop (didn't bet)
+Seat 5: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 6: Cheremis (small blind) folded on the Flop
+Seat 7: beny05 (big blind) collected (285)
+Seat 8: CraekZe folded before Flop (didn't bet)
+Seat 9: MrWilliams87 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185386666711: Tournament #2281698050, $13.37+$1.63 USD Hold'em No Limit - Level II (20/40) - 2018/04/18 14:21:49 ET
+Table '2281698050 45' 9-max Seat #6 is the button
+Seat 1: lukass3055 (1631 in chips) 
+Seat 2: andreygt77 (2242 in chips) 
+Seat 3: qnko84 (4849 in chips) 
+Seat 4: Originallyy (2585 in chips) 
+Seat 5: ollikahn23 (3047 in chips) 
+Seat 6: Cheremis (3383 in chips) 
+Seat 7: beny05 (3390 in chips) 
+Seat 8: CraekZe (3239 in chips) 
+Seat 9: MrWilliams87 (2980 in chips) 
+lukass3055: posts the ante 5
+andreygt77: posts the ante 5
+qnko84: posts the ante 5
+Originallyy: posts the ante 5
+ollikahn23: posts the ante 5
+Cheremis: posts the ante 5
+beny05: posts the ante 5
+CraekZe: posts the ante 5
+MrWilliams87: posts the ante 5
+beny05: posts small blind 20
+CraekZe: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9d 2d]
+MrWilliams87: folds 
+lukass3055: folds 
+andreygt77: raises 60 to 100
+qnko84: calls 100
+Originallyy: calls 100
+ollikahn23: calls 100
+Cheremis: folds 
+beny05: folds 
+CraekZe: calls 60
+*** FLOP *** [Qc Ad 4d]
+CraekZe: checks 
+andreygt77: checks 
+qnko84: bets 160
+Originallyy: calls 160
+ollikahn23: calls 160
+CraekZe: folds 
+andreygt77: folds 
+*** TURN *** [Qc Ad 4d] [6s]
+qnko84: bets 320
+Originallyy: calls 320
+ollikahn23: calls 320
+*** RIVER *** [Qc Ad 4d 6s] [Tc]
+qnko84: checks 
+Originallyy: checks 
+ollikahn23: checks 
+*** SHOW DOWN ***
+qnko84: shows [As 8s] (a pair of Aces)
+Originallyy: shows [Jh Ah] (a pair of Aces - Queen+Jack kicker)
+ollikahn23: mucks hand 
+Originallyy collected 2005 from pot
+*** SUMMARY ***
+Total pot 2005 | Rake 0 
+Board [Qc Ad 4d 6s Tc]
+Seat 1: lukass3055 folded before Flop (didn't bet)
+Seat 2: andreygt77 folded on the Flop
+Seat 3: qnko84 showed [As 8s] and lost with a pair of Aces
+Seat 4: Originallyy showed [Jh Ah] and won (2005) with a pair of Aces
+Seat 5: ollikahn23 mucked [9d 2d]
+Seat 6: Cheremis (button) folded before Flop (didn't bet)
+Seat 7: beny05 (small blind) folded before Flop
+Seat 8: CraekZe (big blind) folded on the Flop
+Seat 9: MrWilliams87 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185386745211: Tournament #2281698050, $13.37+$1.63 USD Hold'em No Limit - Level III (25/50) - 2018/04/18 14:23:40 ET
+Table '2281698050 45' 9-max Seat #7 is the button
+Seat 1: lukass3055 (1626 in chips) 
+Seat 2: andreygt77 (2137 in chips) 
+Seat 3: qnko84 (4264 in chips) 
+Seat 4: Originallyy (4005 in chips) 
+Seat 5: ollikahn23 (2462 in chips) 
+Seat 6: Cheremis (3378 in chips) 
+Seat 7: beny05 (3365 in chips) 
+Seat 8: CraekZe (3134 in chips) 
+Seat 9: MrWilliams87 (2975 in chips) 
+lukass3055: posts the ante 6
+andreygt77: posts the ante 6
+qnko84: posts the ante 6
+Originallyy: posts the ante 6
+ollikahn23: posts the ante 6
+Cheremis: posts the ante 6
+beny05: posts the ante 6
+CraekZe: posts the ante 6
+MrWilliams87: posts the ante 6
+CraekZe: posts small blind 25
+MrWilliams87: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6c Qc]
+lukass3055: folds 
+andreygt77: folds 
+qnko84: raises 50 to 100
+Originallyy: folds 
+ollikahn23: folds 
+Cheremis: folds 
+beny05: folds 
+CraekZe: folds 
+MrWilliams87: folds 
+Uncalled bet (50) returned to qnko84
+qnko84 collected 179 from pot
+*** SUMMARY ***
+Total pot 179 | Rake 0 
+Seat 1: lukass3055 folded before Flop (didn't bet)
+Seat 2: andreygt77 folded before Flop (didn't bet)
+Seat 3: qnko84 collected (179)
+Seat 4: Originallyy folded before Flop (didn't bet)
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: Cheremis folded before Flop (didn't bet)
+Seat 7: beny05 (button) folded before Flop (didn't bet)
+Seat 8: CraekZe (small blind) folded before Flop
+Seat 9: MrWilliams87 (big blind) folded before Flop
+
+
+
+PokerStars Hand #185386764560: Tournament #2281698050, $13.37+$1.63 USD Hold'em No Limit - Level III (25/50) - 2018/04/18 14:24:07 ET
+Table '2281698050 45' 9-max Seat #8 is the button
+Seat 1: lukass3055 (1620 in chips) 
+Seat 2: andreygt77 (2131 in chips) 
+Seat 3: qnko84 (4387 in chips) 
+Seat 4: Originallyy (3999 in chips) 
+Seat 5: ollikahn23 (2456 in chips) 
+Seat 6: Cheremis (3372 in chips) 
+Seat 7: beny05 (3359 in chips) 
+Seat 8: CraekZe (3103 in chips) 
+Seat 9: MrWilliams87 (2919 in chips) 
+lukass3055: posts the ante 6
+andreygt77: posts the ante 6
+qnko84: posts the ante 6
+Originallyy: posts the ante 6
+ollikahn23: posts the ante 6
+Cheremis: posts the ante 6
+beny05: posts the ante 6
+CraekZe: posts the ante 6
+MrWilliams87: posts the ante 6
+MrWilliams87: posts small blind 25
+lukass3055: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9s 8c]
+andreygt77: folds 
+qnko84: raises 150 to 200
+Originallyy: folds 
+ollikahn23: folds 
+Cheremis: calls 200
+beny05: calls 200
+CraekZe: folds 
+MrWilliams87: folds 
+lukass3055: folds 
+*** FLOP *** [Qs 2c 6d]
+qnko84: checks 
+Cheremis: bets 300
+beny05: folds 
+qnko84: folds 
+Uncalled bet (300) returned to Cheremis
+Cheremis collected 729 from pot
+Cheremis: doesn't show hand 
+*** SUMMARY ***
+Total pot 729 | Rake 0 
+Board [Qs 2c 6d]
+Seat 1: lukass3055 (big blind) folded before Flop
+Seat 2: andreygt77 folded before Flop (didn't bet)
+Seat 3: qnko84 folded on the Flop
+Seat 4: Originallyy folded before Flop (didn't bet)
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: Cheremis collected (729)
+Seat 7: beny05 folded on the Flop
+Seat 8: CraekZe (button) folded before Flop (didn't bet)
+Seat 9: MrWilliams87 (small blind) folded before Flop
+
+
+
+PokerStars Hand #185386806057: Tournament #2281698050, $13.37+$1.63 USD Hold'em No Limit - Level III (25/50) - 2018/04/18 14:25:06 ET
+Table '2281698050 45' 9-max Seat #9 is the button
+Seat 1: lukass3055 (1564 in chips) 
+Seat 2: andreygt77 (2125 in chips) 
+Seat 3: qnko84 (4181 in chips) 
+Seat 4: Originallyy (3993 in chips) 
+Seat 5: ollikahn23 (2450 in chips) 
+Seat 6: Cheremis (3895 in chips) 
+Seat 7: beny05 (3153 in chips) 
+Seat 8: CraekZe (3097 in chips) 
+Seat 9: MrWilliams87 (2888 in chips) 
+lukass3055: posts the ante 6
+andreygt77: posts the ante 6
+qnko84: posts the ante 6
+Originallyy: posts the ante 6
+ollikahn23: posts the ante 6
+Cheremis: posts the ante 6
+beny05: posts the ante 6
+CraekZe: posts the ante 6
+MrWilliams87: posts the ante 6
+lukass3055: posts small blind 25
+andreygt77: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5c Kd]
+qnko84: folds 
+Originallyy: raises 98 to 148
+ollikahn23: folds 
+Cheremis: folds 
+beny05: folds 
+CraekZe: folds 
+MrWilliams87: calls 148
+lukass3055: folds 
+andreygt77: calls 98
+*** FLOP *** [2c Qh Ks]
+andreygt77: checks 
+Originallyy: bets 361
+MrWilliams87: folds 
+andreygt77: folds 
+Uncalled bet (361) returned to Originallyy
+Originallyy collected 523 from pot
+Originallyy: doesn't show hand 
+*** SUMMARY ***
+Total pot 523 | Rake 0 
+Board [2c Qh Ks]
+Seat 1: lukass3055 (small blind) folded before Flop
+Seat 2: andreygt77 (big blind) folded on the Flop
+Seat 3: qnko84 folded before Flop (didn't bet)
+Seat 4: Originallyy collected (523)
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: Cheremis folded before Flop (didn't bet)
+Seat 7: beny05 folded before Flop (didn't bet)
+Seat 8: CraekZe folded before Flop (didn't bet)
+Seat 9: MrWilliams87 (button) folded on the Flop
+
+
+
+PokerStars Hand #185386829178: Tournament #2281698050, $13.37+$1.63 USD Hold'em No Limit - Level III (25/50) - 2018/04/18 14:25:39 ET
+Table '2281698050 45' 9-max Seat #1 is the button
+Seat 1: lukass3055 (1533 in chips) 
+Seat 2: andreygt77 (1971 in chips) 
+Seat 3: qnko84 (4175 in chips) 
+Seat 4: Originallyy (4362 in chips) 
+Seat 5: ollikahn23 (2444 in chips) 
+Seat 6: Cheremis (3889 in chips) 
+Seat 7: beny05 (3147 in chips) 
+Seat 8: CraekZe (3091 in chips) 
+Seat 9: MrWilliams87 (2734 in chips) 
+lukass3055: posts the ante 6
+andreygt77: posts the ante 6
+qnko84: posts the ante 6
+Originallyy: posts the ante 6
+ollikahn23: posts the ante 6
+Cheremis: posts the ante 6
+beny05: posts the ante 6
+CraekZe: posts the ante 6
+MrWilliams87: posts the ante 6
+andreygt77: posts small blind 25
+qnko84: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jc 4s]
+Originallyy: folds 
+ollikahn23: folds 
+Cheremis: folds 
+beny05: folds 
+CraekZe: folds 
+MrWilliams87: raises 100 to 150
+lukass3055: folds 
+andreygt77: folds 
+qnko84: folds 
+Uncalled bet (100) returned to MrWilliams87
+MrWilliams87 collected 179 from pot
+MrWilliams87: doesn't show hand 
+*** SUMMARY ***
+Total pot 179 | Rake 0 
+Seat 1: lukass3055 (button) folded before Flop (didn't bet)
+Seat 2: andreygt77 (small blind) folded before Flop
+Seat 3: qnko84 (big blind) folded before Flop
+Seat 4: Originallyy folded before Flop (didn't bet)
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: Cheremis folded before Flop (didn't bet)
+Seat 7: beny05 folded before Flop (didn't bet)
+Seat 8: CraekZe folded before Flop (didn't bet)
+Seat 9: MrWilliams87 collected (179)
+
+
+
+PokerStars Hand #185386850528: Tournament #2281698050, $13.37+$1.63 USD Hold'em No Limit - Level III (25/50) - 2018/04/18 14:26:10 ET
+Table '2281698050 45' 9-max Seat #2 is the button
+Seat 1: lukass3055 (1527 in chips) 
+Seat 2: andreygt77 (1940 in chips) 
+Seat 3: qnko84 (4119 in chips) 
+Seat 4: Originallyy (4356 in chips) 
+Seat 5: ollikahn23 (2438 in chips) 
+Seat 6: Cheremis (3883 in chips) 
+Seat 7: beny05 (3141 in chips) 
+Seat 8: CraekZe (3085 in chips) 
+Seat 9: MrWilliams87 (2857 in chips) 
+lukass3055: posts the ante 6
+andreygt77: posts the ante 6
+qnko84: posts the ante 6
+Originallyy: posts the ante 6
+ollikahn23: posts the ante 6
+Cheremis: posts the ante 6
+beny05: posts the ante 6
+CraekZe: posts the ante 6
+MrWilliams87: posts the ante 6
+qnko84: posts small blind 25
+Originallyy: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qd 2s]
+ollikahn23: folds 
+Cheremis: folds 
+beny05: raises 100 to 150
+CraekZe: folds 
+MrWilliams87: folds 
+lukass3055: folds 
+andreygt77: folds 
+qnko84: folds 
+Originallyy: calls 100
+*** FLOP *** [Js As 4d]
+Originallyy: checks 
+beny05: bets 200
+Originallyy: folds 
+Uncalled bet (200) returned to beny05
+beny05 collected 379 from pot
+beny05: doesn't show hand 
+*** SUMMARY ***
+Total pot 379 | Rake 0 
+Board [Js As 4d]
+Seat 1: lukass3055 folded before Flop (didn't bet)
+Seat 2: andreygt77 (button) folded before Flop (didn't bet)
+Seat 3: qnko84 (small blind) folded before Flop
+Seat 4: Originallyy (big blind) folded on the Flop
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: Cheremis folded before Flop (didn't bet)
+Seat 7: beny05 collected (379)
+Seat 8: CraekZe folded before Flop (didn't bet)
+Seat 9: MrWilliams87 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185386889224: Tournament #2281698050, $13.37+$1.63 USD Hold'em No Limit - Level III (25/50) - 2018/04/18 14:27:04 ET
+Table '2281698050 45' 9-max Seat #3 is the button
+Seat 1: lukass3055 (1521 in chips) 
+Seat 2: andreygt77 (1934 in chips) 
+Seat 3: qnko84 (4088 in chips) 
+Seat 4: Originallyy (4200 in chips) 
+Seat 5: ollikahn23 (2432 in chips) 
+Seat 6: Cheremis (3877 in chips) 
+Seat 7: beny05 (3364 in chips) 
+Seat 8: CraekZe (3079 in chips) 
+Seat 9: MrWilliams87 (2851 in chips) 
+lukass3055: posts the ante 6
+andreygt77: posts the ante 6
+qnko84: posts the ante 6
+Originallyy: posts the ante 6
+ollikahn23: posts the ante 6
+Cheremis: posts the ante 6
+beny05: posts the ante 6
+CraekZe: posts the ante 6
+MrWilliams87: posts the ante 6
+Originallyy: posts small blind 25
+ollikahn23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4h 3d]
+Cheremis: folds 
+beny05: folds 
+CraekZe: folds 
+MrWilliams87: folds 
+lukass3055: folds 
+andreygt77: raises 100 to 150
+qnko84: folds 
+Originallyy: folds 
+ollikahn23: folds 
+Uncalled bet (100) returned to andreygt77
+andreygt77 collected 179 from pot
+andreygt77: doesn't show hand 
+*** SUMMARY ***
+Total pot 179 | Rake 0 
+Seat 1: lukass3055 folded before Flop (didn't bet)
+Seat 2: andreygt77 collected (179)
+Seat 3: qnko84 (button) folded before Flop (didn't bet)
+Seat 4: Originallyy (small blind) folded before Flop
+Seat 5: ollikahn23 (big blind) folded before Flop
+Seat 6: Cheremis folded before Flop (didn't bet)
+Seat 7: beny05 folded before Flop (didn't bet)
+Seat 8: CraekZe folded before Flop (didn't bet)
+Seat 9: MrWilliams87 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185386911206: Tournament #2281698050, $13.37+$1.63 USD Hold'em No Limit - Level III (25/50) - 2018/04/18 14:27:36 ET
+Table '2281698050 45' 9-max Seat #4 is the button
+Seat 1: lukass3055 (1515 in chips) 
+Seat 2: andreygt77 (2057 in chips) 
+Seat 3: qnko84 (4082 in chips) 
+Seat 4: Originallyy (4169 in chips) 
+Seat 5: ollikahn23 (2376 in chips) 
+Seat 6: Cheremis (3871 in chips) 
+Seat 7: beny05 (3358 in chips) 
+Seat 8: CraekZe (3073 in chips) 
+Seat 9: MrWilliams87 (2845 in chips) 
+lukass3055: posts the ante 6
+andreygt77: posts the ante 6
+qnko84: posts the ante 6
+Originallyy: posts the ante 6
+ollikahn23: posts the ante 6
+Cheremis: posts the ante 6
+beny05: posts the ante 6
+CraekZe: posts the ante 6
+MrWilliams87: posts the ante 6
+ollikahn23: posts small blind 25
+Cheremis: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4s 4d]
+beny05: folds 
+CraekZe: folds 
+MrWilliams87: folds 
+lukass3055: folds 
+andreygt77: folds 
+qnko84: folds 
+Originallyy: folds 
+ollikahn23: raises 150 to 200
+Cheremis: raises 1950 to 2150
+ollikahn23: folds 
+Uncalled bet (1950) returned to Cheremis
+Cheremis collected 454 from pot
+Cheremis: doesn't show hand 
+*** SUMMARY ***
+Total pot 454 | Rake 0 
+Seat 1: lukass3055 folded before Flop (didn't bet)
+Seat 2: andreygt77 folded before Flop (didn't bet)
+Seat 3: qnko84 folded before Flop (didn't bet)
+Seat 4: Originallyy (button) folded before Flop (didn't bet)
+Seat 5: ollikahn23 (small blind) folded before Flop
+Seat 6: Cheremis (big blind) collected (454)
+Seat 7: beny05 folded before Flop (didn't bet)
+Seat 8: CraekZe folded before Flop (didn't bet)
+Seat 9: MrWilliams87 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185386951575: Tournament #2281698050, $13.37+$1.63 USD Hold'em No Limit - Level III (25/50) - 2018/04/18 14:28:33 ET
+Table '2281698050 45' 9-max Seat #5 is the button
+Seat 1: lukass3055 (1509 in chips) 
+Seat 2: andreygt77 (2051 in chips) 
+Seat 3: qnko84 (4076 in chips) 
+Seat 4: Originallyy (4163 in chips) 
+Seat 5: ollikahn23 (2170 in chips) 
+Seat 6: Cheremis (4119 in chips) 
+Seat 7: beny05 (3352 in chips) 
+Seat 8: CraekZe (3067 in chips) 
+Seat 9: MrWilliams87 (2839 in chips) 
+lukass3055: posts the ante 6
+andreygt77: posts the ante 6
+qnko84: posts the ante 6
+Originallyy: posts the ante 6
+ollikahn23: posts the ante 6
+Cheremis: posts the ante 6
+beny05: posts the ante 6
+CraekZe: posts the ante 6
+MrWilliams87: posts the ante 6
+Cheremis: posts small blind 25
+beny05: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Th 5s]
+CraekZe: folds 
+MrWilliams87: folds 
+lukass3055: raises 50 to 100
+andreygt77: folds 
+qnko84: calls 100
+Originallyy: folds 
+ollikahn23: folds 
+Cheremis: folds 
+beny05: folds 
+*** FLOP *** [6h 5d 6s]
+lukass3055: bets 165
+qnko84: folds 
+Uncalled bet (165) returned to lukass3055
+lukass3055 collected 329 from pot
+lukass3055: doesn't show hand 
+*** SUMMARY ***
+Total pot 329 | Rake 0 
+Board [6h 5d 6s]
+Seat 1: lukass3055 collected (329)
+Seat 2: andreygt77 folded before Flop (didn't bet)
+Seat 3: qnko84 folded on the Flop
+Seat 4: Originallyy folded before Flop (didn't bet)
+Seat 5: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 6: Cheremis (small blind) folded before Flop
+Seat 7: beny05 (big blind) folded before Flop
+Seat 8: CraekZe folded before Flop (didn't bet)
+Seat 9: MrWilliams87 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185386977634: Tournament #2281698050, $13.37+$1.63 USD Hold'em No Limit - Level III (25/50) - 2018/04/18 14:29:10 ET
+Table '2281698050 45' 9-max Seat #6 is the button
+Seat 1: lukass3055 (1732 in chips) 
+Seat 2: andreygt77 (2045 in chips) 
+Seat 3: qnko84 (3970 in chips) 
+Seat 4: Originallyy (4157 in chips) 
+Seat 5: ollikahn23 (2164 in chips) 
+Seat 6: Cheremis (4088 in chips) 
+Seat 7: beny05 (3296 in chips) 
+Seat 8: CraekZe (3061 in chips) 
+Seat 9: MrWilliams87 (2833 in chips) 
+lukass3055: posts the ante 6
+andreygt77: posts the ante 6
+qnko84: posts the ante 6
+Originallyy: posts the ante 6
+ollikahn23: posts the ante 6
+Cheremis: posts the ante 6
+beny05: posts the ante 6
+CraekZe: posts the ante 6
+MrWilliams87: posts the ante 6
+beny05: posts small blind 25
+CraekZe: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Tc 6c]
+MrWilliams87: folds 
+lukass3055: folds 
+andreygt77: raises 75 to 125
+qnko84: folds 
+Originallyy: folds 
+ollikahn23: folds 
+Cheremis: folds 
+beny05: folds 
+CraekZe: calls 75
+*** FLOP *** [4d 6s As]
+CraekZe: checks 
+andreygt77: bets 225
+CraekZe: folds 
+Uncalled bet (225) returned to andreygt77
+andreygt77 collected 329 from pot
+andreygt77: doesn't show hand 
+*** SUMMARY ***
+Total pot 329 | Rake 0 
+Board [4d 6s As]
+Seat 1: lukass3055 folded before Flop (didn't bet)
+Seat 2: andreygt77 collected (329)
+Seat 3: qnko84 folded before Flop (didn't bet)
+Seat 4: Originallyy folded before Flop (didn't bet)
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: Cheremis (button) folded before Flop (didn't bet)
+Seat 7: beny05 (small blind) folded before Flop
+Seat 8: CraekZe (big blind) folded on the Flop
+Seat 9: MrWilliams87 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185387018524: Tournament #2281698050, $13.37+$1.63 USD Hold'em No Limit - Level III (25/50) - 2018/04/18 14:30:08 ET
+Table '2281698050 45' 9-max Seat #7 is the button
+Seat 1: lukass3055 (1726 in chips) 
+Seat 2: andreygt77 (2243 in chips) 
+Seat 3: qnko84 (3964 in chips) 
+Seat 4: Originallyy (4151 in chips) 
+Seat 5: ollikahn23 (2158 in chips) 
+Seat 6: Cheremis (4082 in chips) 
+Seat 7: beny05 (3265 in chips) 
+Seat 8: CraekZe (2930 in chips) 
+Seat 9: MrWilliams87 (2827 in chips) 
+lukass3055: posts the ante 6
+andreygt77: posts the ante 6
+qnko84: posts the ante 6
+Originallyy: posts the ante 6
+ollikahn23: posts the ante 6
+Cheremis: posts the ante 6
+beny05: posts the ante 6
+CraekZe: posts the ante 6
+MrWilliams87: posts the ante 6
+CraekZe: posts small blind 25
+MrWilliams87: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3s 7h]
+lukass3055: folds 
+andreygt77: raises 75 to 125
+qnko84: folds 
+Originallyy: calls 125
+ollikahn23: folds 
+Cheremis: folds 
+beny05: calls 125
+CraekZe: folds 
+MrWilliams87: calls 75
+*** FLOP *** [8d Jc Qd]
+MrWilliams87: checks 
+andreygt77: checks 
+Originallyy: checks 
+beny05: checks 
+*** TURN *** [8d Jc Qd] [Ah]
+MrWilliams87: checks 
+andreygt77: checks 
+Originallyy: checks 
+beny05: bets 300
+MrWilliams87: folds 
+andreygt77: folds 
+Originallyy: folds 
+Uncalled bet (300) returned to beny05
+beny05 collected 579 from pot
+beny05: doesn't show hand 
+*** SUMMARY ***
+Total pot 579 | Rake 0 
+Board [8d Jc Qd Ah]
+Seat 1: lukass3055 folded before Flop (didn't bet)
+Seat 2: andreygt77 folded on the Turn
+Seat 3: qnko84 folded before Flop (didn't bet)
+Seat 4: Originallyy folded on the Turn
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: Cheremis folded before Flop (didn't bet)
+Seat 7: beny05 (button) collected (579)
+Seat 8: CraekZe (small blind) folded before Flop
+Seat 9: MrWilliams87 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #185387064099: Tournament #2281698050, $13.37+$1.63 USD Hold'em No Limit - Level III (25/50) - 2018/04/18 14:31:12 ET
+Table '2281698050 45' 9-max Seat #8 is the button
+Seat 1: lukass3055 (1720 in chips) 
+Seat 2: andreygt77 (2112 in chips) 
+Seat 3: qnko84 (3958 in chips) 
+Seat 4: Originallyy (4020 in chips) 
+Seat 5: ollikahn23 (2152 in chips) 
+Seat 6: Cheremis (4076 in chips) 
+Seat 7: beny05 (3713 in chips) 
+Seat 8: CraekZe (2899 in chips) 
+Seat 9: MrWilliams87 (2696 in chips) 
+lukass3055: posts the ante 6
+andreygt77: posts the ante 6
+qnko84: posts the ante 6
+Originallyy: posts the ante 6
+ollikahn23: posts the ante 6
+Cheremis: posts the ante 6
+beny05: posts the ante 6
+CraekZe: posts the ante 6
+MrWilliams87: posts the ante 6
+MrWilliams87: posts small blind 25
+lukass3055: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7c Kc]
+andreygt77: folds 
+qnko84: folds 
+Originallyy: folds 
+ollikahn23: folds 
+Cheremis: folds 
+beny05: folds 
+CraekZe: folds 
+MrWilliams87: raises 100 to 150
+lukass3055: folds 
+Uncalled bet (100) returned to MrWilliams87
+MrWilliams87 collected 154 from pot
+MrWilliams87: doesn't show hand 
+*** SUMMARY ***
+Total pot 154 | Rake 0 
+Seat 1: lukass3055 (big blind) folded before Flop
+Seat 2: andreygt77 folded before Flop (didn't bet)
+Seat 3: qnko84 folded before Flop (didn't bet)
+Seat 4: Originallyy folded before Flop (didn't bet)
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: Cheremis folded before Flop (didn't bet)
+Seat 7: beny05 folded before Flop (didn't bet)
+Seat 8: CraekZe (button) folded before Flop (didn't bet)
+Seat 9: MrWilliams87 (small blind) collected (154)
+
+
+
+PokerStars Hand #185387088682: Tournament #2281698050, $13.37+$1.63 USD Hold'em No Limit - Level III (25/50) - 2018/04/18 14:31:47 ET
+Table '2281698050 45' 9-max Seat #9 is the button
+Seat 1: lukass3055 (1664 in chips) 
+Seat 2: andreygt77 (2106 in chips) 
+Seat 3: qnko84 (3952 in chips) 
+Seat 4: Originallyy (4014 in chips) 
+Seat 5: ollikahn23 (2146 in chips) 
+Seat 6: Cheremis (4070 in chips) 
+Seat 7: beny05 (3707 in chips) 
+Seat 8: CraekZe (2893 in chips) 
+Seat 9: MrWilliams87 (2794 in chips) 
+lukass3055: posts the ante 6
+andreygt77: posts the ante 6
+qnko84: posts the ante 6
+Originallyy: posts the ante 6
+ollikahn23: posts the ante 6
+Cheremis: posts the ante 6
+beny05: posts the ante 6
+CraekZe: posts the ante 6
+MrWilliams87: posts the ante 6
+lukass3055: posts small blind 25
+andreygt77: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9d 8c]
+qnko84: folds 
+Originallyy: folds 
+ollikahn23: folds 
+Cheremis: folds 
+beny05: folds 
+CraekZe: folds 
+MrWilliams87: folds 
+lukass3055: raises 50 to 100
+andreygt77: calls 50
+*** FLOP *** [Qh 3c 7s]
+lukass3055: bets 127
+andreygt77: folds 
+Uncalled bet (127) returned to lukass3055
+lukass3055 collected 254 from pot
+lukass3055: doesn't show hand 
+*** SUMMARY ***
+Total pot 254 | Rake 0 
+Board [Qh 3c 7s]
+Seat 1: lukass3055 (small blind) collected (254)
+Seat 2: andreygt77 (big blind) folded on the Flop
+Seat 3: qnko84 folded before Flop (didn't bet)
+Seat 4: Originallyy folded before Flop (didn't bet)
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: Cheremis folded before Flop (didn't bet)
+Seat 7: beny05 folded before Flop (didn't bet)
+Seat 8: CraekZe folded before Flop (didn't bet)
+Seat 9: MrWilliams87 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185387110769: Tournament #2281698050, $13.37+$1.63 USD Hold'em No Limit - Level IV (30/60) - 2018/04/18 14:32:18 ET
+Table '2281698050 45' 9-max Seat #1 is the button
+Seat 1: lukass3055 (1812 in chips) 
+Seat 2: andreygt77 (2000 in chips) 
+Seat 3: qnko84 (3946 in chips) 
+Seat 4: Originallyy (4008 in chips) 
+Seat 5: ollikahn23 (2140 in chips) 
+Seat 6: Cheremis (4064 in chips) 
+Seat 7: beny05 (3701 in chips) 
+Seat 8: CraekZe (2887 in chips) 
+Seat 9: MrWilliams87 (2788 in chips) 
+lukass3055: posts the ante 7
+andreygt77: posts the ante 7
+qnko84: posts the ante 7
+Originallyy: posts the ante 7
+ollikahn23: posts the ante 7
+Cheremis: posts the ante 7
+beny05: posts the ante 7
+CraekZe: posts the ante 7
+MrWilliams87: posts the ante 7
+andreygt77: posts small blind 30
+qnko84: posts big blind 60
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ah 5s]
+Originallyy: folds 
+ollikahn23: folds 
+Cheremis: folds 
+beny05: folds 
+CraekZe: folds 
+MrWilliams87: folds 
+lukass3055: folds 
+andreygt77: folds 
+Uncalled bet (30) returned to qnko84
+qnko84 collected 123 from pot
+qnko84: doesn't show hand 
+*** SUMMARY ***
+Total pot 123 | Rake 0 
+Seat 1: lukass3055 (button) folded before Flop (didn't bet)
+Seat 2: andreygt77 (small blind) folded before Flop
+Seat 3: qnko84 (big blind) collected (123)
+Seat 4: Originallyy folded before Flop (didn't bet)
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: Cheremis folded before Flop (didn't bet)
+Seat 7: beny05 folded before Flop (didn't bet)
+Seat 8: CraekZe folded before Flop (didn't bet)
+Seat 9: MrWilliams87 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185387122505: Tournament #2281698050, $13.37+$1.63 USD Hold'em No Limit - Level IV (30/60) - 2018/04/18 14:32:34 ET
+Table '2281698050 45' 9-max Seat #2 is the button
+Seat 1: lukass3055 (1805 in chips) 
+Seat 2: andreygt77 (1963 in chips) 
+Seat 3: qnko84 (4032 in chips) 
+Seat 4: Originallyy (4001 in chips) 
+Seat 5: ollikahn23 (2133 in chips) 
+Seat 6: Cheremis (4057 in chips) 
+Seat 7: beny05 (3694 in chips) 
+Seat 8: CraekZe (2880 in chips) 
+Seat 9: MrWilliams87 (2781 in chips) 
+lukass3055: posts the ante 7
+andreygt77: posts the ante 7
+qnko84: posts the ante 7
+Originallyy: posts the ante 7
+ollikahn23: posts the ante 7
+Cheremis: posts the ante 7
+beny05: posts the ante 7
+CraekZe: posts the ante 7
+MrWilliams87: posts the ante 7
+qnko84: posts small blind 30
+Originallyy: posts big blind 60
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kd 2c]
+ollikahn23: folds 
+Cheremis: folds 
+beny05: folds 
+CraekZe: folds 
+MrWilliams87: folds 
+lukass3055: folds 
+andreygt77: raises 120 to 180
+qnko84: folds 
+Originallyy: folds 
+Uncalled bet (120) returned to andreygt77
+andreygt77 collected 213 from pot
+andreygt77: doesn't show hand 
+*** SUMMARY ***
+Total pot 213 | Rake 0 
+Seat 1: lukass3055 folded before Flop (didn't bet)
+Seat 2: andreygt77 (button) collected (213)
+Seat 3: qnko84 (small blind) folded before Flop
+Seat 4: Originallyy (big blind) folded before Flop
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: Cheremis folded before Flop (didn't bet)
+Seat 7: beny05 folded before Flop (didn't bet)
+Seat 8: CraekZe folded before Flop (didn't bet)
+Seat 9: MrWilliams87 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185387139522: Tournament #2281698050, $13.37+$1.63 USD Hold'em No Limit - Level IV (30/60) - 2018/04/18 14:32:58 ET
+Table '2281698050 45' 9-max Seat #3 is the button
+Seat 1: lukass3055 (1798 in chips) 
+Seat 2: andreygt77 (2109 in chips) 
+Seat 3: qnko84 (3995 in chips) 
+Seat 4: Originallyy (3934 in chips) 
+Seat 5: ollikahn23 (2126 in chips) 
+Seat 6: Cheremis (4050 in chips) 
+Seat 7: beny05 (3687 in chips) 
+Seat 8: CraekZe (2873 in chips) 
+Seat 9: MrWilliams87 (2774 in chips) 
+lukass3055: posts the ante 7
+andreygt77: posts the ante 7
+qnko84: posts the ante 7
+Originallyy: posts the ante 7
+ollikahn23: posts the ante 7
+Cheremis: posts the ante 7
+beny05: posts the ante 7
+CraekZe: posts the ante 7
+MrWilliams87: posts the ante 7
+Originallyy: posts small blind 30
+ollikahn23: posts big blind 60
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8d Qd]
+Cheremis: folds 
+beny05: folds 
+CraekZe: folds 
+MrWilliams87: raises 95 to 155
+lukass3055: folds 
+andreygt77: folds 
+qnko84: calls 155
+Originallyy: folds 
+ollikahn23: calls 95
+*** FLOP *** [6s 4d Ts]
+ollikahn23: checks 
+MrWilliams87: bets 215
+qnko84: folds 
+ollikahn23: folds 
+Uncalled bet (215) returned to MrWilliams87
+MrWilliams87 collected 558 from pot
+MrWilliams87: doesn't show hand 
+*** SUMMARY ***
+Total pot 558 | Rake 0 
+Board [6s 4d Ts]
+Seat 1: lukass3055 folded before Flop (didn't bet)
+Seat 2: andreygt77 folded before Flop (didn't bet)
+Seat 3: qnko84 (button) folded on the Flop
+Seat 4: Originallyy (small blind) folded before Flop
+Seat 5: ollikahn23 (big blind) folded on the Flop
+Seat 6: Cheremis folded before Flop (didn't bet)
+Seat 7: beny05 folded before Flop (didn't bet)
+Seat 8: CraekZe folded before Flop (didn't bet)
+Seat 9: MrWilliams87 collected (558)
+
+
+
+PokerStars Hand #185387173387: Tournament #2281698050, $13.37+$1.63 USD Hold'em No Limit - Level IV (30/60) - 2018/04/18 14:33:46 ET
+Table '2281698050 45' 9-max Seat #4 is the button
+Seat 1: lukass3055 (1791 in chips) 
+Seat 2: andreygt77 (2102 in chips) 
+Seat 3: qnko84 (3833 in chips) 
+Seat 4: Originallyy (3897 in chips) 
+Seat 5: ollikahn23 (1964 in chips) 
+Seat 6: Cheremis (4043 in chips) 
+Seat 7: beny05 (3680 in chips) 
+Seat 8: CraekZe (2866 in chips) 
+Seat 9: MrWilliams87 (3170 in chips) 
+lukass3055: posts the ante 7
+andreygt77: posts the ante 7
+qnko84: posts the ante 7
+Originallyy: posts the ante 7
+ollikahn23: posts the ante 7
+Cheremis: posts the ante 7
+beny05: posts the ante 7
+CraekZe: posts the ante 7
+MrWilliams87: posts the ante 7
+ollikahn23: posts small blind 30
+Cheremis: posts big blind 60
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6h 9h]
+beny05 has timed out
+beny05: folds 
+beny05 is sitting out
+CraekZe: folds 
+MrWilliams87: folds 
+lukass3055: folds 
+andreygt77: folds 
+qnko84: folds 
+Originallyy: folds 
+ollikahn23: calls 30
+Cheremis: checks 
+*** FLOP *** [4s As Kd]
+ollikahn23: bets 75
+Cheremis: folds 
+Uncalled bet (75) returned to ollikahn23
+ollikahn23 collected 183 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 183 | Rake 0 
+Board [4s As Kd]
+Seat 1: lukass3055 folded before Flop (didn't bet)
+Seat 2: andreygt77 folded before Flop (didn't bet)
+Seat 3: qnko84 folded before Flop (didn't bet)
+Seat 4: Originallyy (button) folded before Flop (didn't bet)
+Seat 5: ollikahn23 (small blind) collected (183)
+Seat 6: Cheremis (big blind) folded on the Flop
+Seat 7: beny05 folded before Flop (didn't bet)
+Seat 8: CraekZe folded before Flop (didn't bet)
+Seat 9: MrWilliams87 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185387234890: Tournament #2281698050, $13.37+$1.63 USD Hold'em No Limit - Level IV (30/60) - 2018/04/18 14:35:13 ET
+Table '2281698050 45' 9-max Seat #5 is the button
+Seat 1: lukass3055 (1784 in chips) 
+Seat 2: andreygt77 (2095 in chips) 
+Seat 3: qnko84 (3826 in chips) 
+Seat 4: Originallyy (3890 in chips) 
+Seat 5: ollikahn23 (2080 in chips) 
+Seat 6: Cheremis (3976 in chips) 
+Seat 7: beny05 (3673 in chips) is sitting out
+Seat 8: CraekZe (2859 in chips) 
+Seat 9: MrWilliams87 (3163 in chips) 
+lukass3055: posts the ante 7
+andreygt77: posts the ante 7
+qnko84: posts the ante 7
+Originallyy: posts the ante 7
+ollikahn23: posts the ante 7
+Cheremis: posts the ante 7
+beny05: posts the ante 7
+CraekZe: posts the ante 7
+MrWilliams87: posts the ante 7
+Cheremis: posts small blind 30
+beny05: posts big blind 60
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Tc Jc]
+CraekZe: folds 
+MrWilliams87: folds 
+lukass3055: folds 
+andreygt77: raises 120 to 180
+beny05 has returned
+qnko84: calls 180
+Originallyy: folds 
+ollikahn23: calls 180
+Cheremis: raises 700 to 880
+beny05: folds 
+andreygt77: folds 
+qnko84: folds 
+ollikahn23: folds 
+Uncalled bet (700) returned to Cheremis
+Cheremis collected 843 from pot
+Cheremis: doesn't show hand 
+*** SUMMARY ***
+Total pot 843 | Rake 0 
+Seat 1: lukass3055 folded before Flop (didn't bet)
+Seat 2: andreygt77 folded before Flop
+Seat 3: qnko84 folded before Flop
+Seat 4: Originallyy folded before Flop (didn't bet)
+Seat 5: ollikahn23 (button) folded before Flop
+Seat 6: Cheremis (small blind) collected (843)
+Seat 7: beny05 (big blind) folded before Flop
+Seat 8: CraekZe folded before Flop (didn't bet)
+Seat 9: MrWilliams87 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185387262374: Tournament #2281698050, $13.37+$1.63 USD Hold'em No Limit - Level IV (30/60) - 2018/04/18 14:35:51 ET
+Table '2281698050 45' 9-max Seat #6 is the button
+Seat 1: lukass3055 (1777 in chips) 
+Seat 2: andreygt77 (1908 in chips) 
+Seat 3: qnko84 (3639 in chips) 
+Seat 4: Originallyy (3883 in chips) 
+Seat 5: ollikahn23 (1893 in chips) 
+Seat 6: Cheremis (4632 in chips) 
+Seat 7: beny05 (3606 in chips) 
+Seat 8: CraekZe (2852 in chips) 
+Seat 9: MrWilliams87 (3156 in chips) 
+lukass3055: posts the ante 7
+andreygt77: posts the ante 7
+qnko84: posts the ante 7
+Originallyy: posts the ante 7
+ollikahn23: posts the ante 7
+Cheremis: posts the ante 7
+beny05: posts the ante 7
+CraekZe: posts the ante 7
+MrWilliams87: posts the ante 7
+beny05: posts small blind 30
+CraekZe: posts big blind 60
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jc Js]
+MrWilliams87: folds 
+lukass3055: folds 
+andreygt77: folds 
+qnko84: folds 
+Originallyy: raises 89 to 149
+ollikahn23: raises 89 to 238
+Cheremis: folds 
+beny05: folds 
+CraekZe: folds 
+Originallyy: calls 89
+*** FLOP *** [Qc 5h 8d]
+Originallyy: checks 
+ollikahn23: checks 
+*** TURN *** [Qc 5h 8d] [8h]
+Originallyy: checks 
+ollikahn23: bets 250
+Originallyy: calls 250
+*** RIVER *** [Qc 5h 8d 8h] [6s]
+Originallyy: checks 
+ollikahn23: checks 
+*** SHOW DOWN ***
+Originallyy: shows [Th Td] (two pair, Tens and Eights)
+ollikahn23: shows [Jc Js] (two pair, Jacks and Eights)
+ollikahn23 collected 1129 from pot
+*** SUMMARY ***
+Total pot 1129 | Rake 0 
+Board [Qc 5h 8d 8h 6s]
+Seat 1: lukass3055 folded before Flop (didn't bet)
+Seat 2: andreygt77 folded before Flop (didn't bet)
+Seat 3: qnko84 folded before Flop (didn't bet)
+Seat 4: Originallyy showed [Th Td] and lost with two pair, Tens and Eights
+Seat 5: ollikahn23 showed [Jc Js] and won (1129) with two pair, Jacks and Eights
+Seat 6: Cheremis (button) folded before Flop (didn't bet)
+Seat 7: beny05 (small blind) folded before Flop
+Seat 8: CraekZe (big blind) folded before Flop
+Seat 9: MrWilliams87 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185387333008: Tournament #2281698050, $13.37+$1.63 USD Hold'em No Limit - Level IV (30/60) - 2018/04/18 14:37:31 ET
+Table '2281698050 45' 9-max Seat #7 is the button
+Seat 1: lukass3055 (1770 in chips) 
+Seat 2: andreygt77 (1901 in chips) 
+Seat 3: qnko84 (3632 in chips) 
+Seat 4: Originallyy (3388 in chips) 
+Seat 5: ollikahn23 (2527 in chips) 
+Seat 6: Cheremis (4625 in chips) 
+Seat 7: beny05 (3569 in chips) 
+Seat 8: CraekZe (2785 in chips) 
+Seat 9: MrWilliams87 (3149 in chips) 
+lukass3055: posts the ante 7
+andreygt77: posts the ante 7
+qnko84: posts the ante 7
+Originallyy: posts the ante 7
+ollikahn23: posts the ante 7
+Cheremis: posts the ante 7
+beny05: posts the ante 7
+CraekZe: posts the ante 7
+MrWilliams87: posts the ante 7
+CraekZe: posts small blind 30
+MrWilliams87: posts big blind 60
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2s 6d]
+lukass3055: folds 
+andreygt77: folds 
+qnko84: folds 
+Originallyy: folds 
+ollikahn23: folds 
+Cheremis: folds 
+beny05: folds 
+CraekZe: folds 
+Uncalled bet (30) returned to MrWilliams87
+MrWilliams87 collected 123 from pot
+MrWilliams87: doesn't show hand 
+*** SUMMARY ***
+Total pot 123 | Rake 0 
+Seat 1: lukass3055 folded before Flop (didn't bet)
+Seat 2: andreygt77 folded before Flop (didn't bet)
+Seat 3: qnko84 folded before Flop (didn't bet)
+Seat 4: Originallyy folded before Flop (didn't bet)
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: Cheremis folded before Flop (didn't bet)
+Seat 7: beny05 (button) folded before Flop (didn't bet)
+Seat 8: CraekZe (small blind) folded before Flop
+Seat 9: MrWilliams87 (big blind) collected (123)
+
+
+
+PokerStars Hand #185387349767: Tournament #2281698050, $13.37+$1.63 USD Hold'em No Limit - Level IV (30/60) - 2018/04/18 14:37:54 ET
+Table '2281698050 45' 9-max Seat #8 is the button
+Seat 1: lukass3055 (1763 in chips) 
+Seat 2: andreygt77 (1894 in chips) 
+Seat 3: qnko84 (3625 in chips) 
+Seat 4: Originallyy (3381 in chips) 
+Seat 5: ollikahn23 (2520 in chips) 
+Seat 6: Cheremis (4618 in chips) 
+Seat 7: beny05 (3562 in chips) 
+Seat 8: CraekZe (2748 in chips) 
+Seat 9: MrWilliams87 (3235 in chips) 
+lukass3055: posts the ante 7
+andreygt77: posts the ante 7
+qnko84: posts the ante 7
+Originallyy: posts the ante 7
+ollikahn23: posts the ante 7
+Cheremis: posts the ante 7
+beny05: posts the ante 7
+CraekZe: posts the ante 7
+MrWilliams87: posts the ante 7
+MrWilliams87: posts small blind 30
+lukass3055: posts big blind 60
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3c 6d]
+andreygt77: raises 60 to 120
+qnko84: calls 120
+Originallyy: folds 
+ollikahn23: folds 
+Cheremis: folds 
+beny05: folds 
+CraekZe: folds 
+MrWilliams87: folds 
+lukass3055: calls 60
+*** FLOP *** [4c 7h 2h]
+andreygt77 is disconnected 
+lukass3055: checks 
+andreygt77 is connected 
+andreygt77: checks 
+qnko84: bets 240
+lukass3055: folds 
+andreygt77: raises 1527 to 1767 and is all-in
+qnko84: folds 
+Uncalled bet (1527) returned to andreygt77
+andreygt77 collected 933 from pot
+andreygt77: doesn't show hand 
+*** SUMMARY ***
+Total pot 933 | Rake 0 
+Board [4c 7h 2h]
+Seat 1: lukass3055 (big blind) folded on the Flop
+Seat 2: andreygt77 collected (933)
+Seat 3: qnko84 folded on the Flop
+Seat 4: Originallyy folded before Flop (didn't bet)
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: Cheremis folded before Flop (didn't bet)
+Seat 7: beny05 folded before Flop (didn't bet)
+Seat 8: CraekZe (button) folded before Flop (didn't bet)
+Seat 9: MrWilliams87 (small blind) folded before Flop
+
+
+
+PokerStars Hand #185387412888: Tournament #2281698050, $13.37+$1.63 USD Hold'em No Limit - Level IV (30/60) - 2018/04/18 14:39:23 ET
+Table '2281698050 45' 9-max Seat #9 is the button
+Seat 1: lukass3055 (1636 in chips) 
+Seat 2: andreygt77 (2460 in chips) 
+Seat 3: qnko84 (3258 in chips) 
+Seat 4: Originallyy (3374 in chips) 
+Seat 5: ollikahn23 (2513 in chips) 
+Seat 6: Cheremis (4611 in chips) 
+Seat 7: beny05 (3555 in chips) 
+Seat 8: CraekZe (2741 in chips) 
+Seat 9: MrWilliams87 (3198 in chips) 
+lukass3055: posts the ante 7
+andreygt77: posts the ante 7
+qnko84: posts the ante 7
+Originallyy: posts the ante 7
+ollikahn23: posts the ante 7
+Cheremis: posts the ante 7
+beny05: posts the ante 7
+CraekZe: posts the ante 7
+MrWilliams87: posts the ante 7
+lukass3055: posts small blind 30
+andreygt77: posts big blind 60
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2s 6d]
+qnko84: folds 
+Originallyy: folds 
+ollikahn23: folds 
+Cheremis: folds 
+beny05: folds 
+CraekZe: folds 
+MrWilliams87: raises 85 to 145
+lukass3055: folds 
+andreygt77: raises 2308 to 2453 and is all-in
+MrWilliams87: folds 
+Uncalled bet (2308) returned to andreygt77
+andreygt77 collected 383 from pot
+*** SUMMARY ***
+Total pot 383 | Rake 0 
+Seat 1: lukass3055 (small blind) folded before Flop
+Seat 2: andreygt77 (big blind) collected (383)
+Seat 3: qnko84 folded before Flop (didn't bet)
+Seat 4: Originallyy folded before Flop (didn't bet)
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: Cheremis folded before Flop (didn't bet)
+Seat 7: beny05 folded before Flop (didn't bet)
+Seat 8: CraekZe folded before Flop (didn't bet)
+Seat 9: MrWilliams87 (button) folded before Flop
+
+
+
+PokerStars Hand #185387443073: Tournament #2281698050, $13.37+$1.63 USD Hold'em No Limit - Level IV (30/60) - 2018/04/18 14:40:04 ET
+Table '2281698050 45' 9-max Seat #1 is the button
+Seat 1: lukass3055 (1599 in chips) 
+Seat 2: andreygt77 (2691 in chips) 
+Seat 3: qnko84 (3251 in chips) 
+Seat 4: Originallyy (3367 in chips) 
+Seat 5: ollikahn23 (2506 in chips) 
+Seat 6: Cheremis (4604 in chips) 
+Seat 7: beny05 (3548 in chips) 
+Seat 8: CraekZe (2734 in chips) 
+Seat 9: MrWilliams87 (3046 in chips) 
+lukass3055: posts the ante 7
+andreygt77: posts the ante 7
+qnko84: posts the ante 7
+Originallyy: posts the ante 7
+ollikahn23: posts the ante 7
+Cheremis: posts the ante 7
+beny05: posts the ante 7
+CraekZe: posts the ante 7
+MrWilliams87: posts the ante 7
+andreygt77: posts small blind 30
+qnko84: posts big blind 60
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2c Kc]
+Originallyy: folds 
+ollikahn23: folds 
+Cheremis: folds 
+beny05: folds 
+CraekZe: folds 
+MrWilliams87: folds 
+lukass3055: folds 
+andreygt77: folds 
+Uncalled bet (30) returned to qnko84
+qnko84 collected 123 from pot
+*** SUMMARY ***
+Total pot 123 | Rake 0 
+Seat 1: lukass3055 (button) folded before Flop (didn't bet)
+Seat 2: andreygt77 (small blind) folded before Flop
+Seat 3: qnko84 (big blind) collected (123)
+Seat 4: Originallyy folded before Flop (didn't bet)
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: Cheremis folded before Flop (didn't bet)
+Seat 7: beny05 folded before Flop (didn't bet)
+Seat 8: CraekZe folded before Flop (didn't bet)
+Seat 9: MrWilliams87 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185387462895: Tournament #2281698050, $13.37+$1.63 USD Hold'em No Limit - Level IV (30/60) - 2018/04/18 14:40:32 ET
+Table '2281698050 45' 9-max Seat #2 is the button
+Seat 1: lukass3055 (1592 in chips) 
+Seat 2: andreygt77 (2654 in chips) 
+Seat 3: qnko84 (3337 in chips) 
+Seat 4: Originallyy (3360 in chips) 
+Seat 5: ollikahn23 (2499 in chips) 
+Seat 6: Cheremis (4597 in chips) 
+Seat 7: beny05 (3541 in chips) 
+Seat 8: CraekZe (2727 in chips) 
+Seat 9: MrWilliams87 (3039 in chips) 
+lukass3055: posts the ante 7
+andreygt77: posts the ante 7
+qnko84: posts the ante 7
+Originallyy: posts the ante 7
+ollikahn23: posts the ante 7
+Cheremis: posts the ante 7
+beny05: posts the ante 7
+CraekZe: posts the ante 7
+MrWilliams87: posts the ante 7
+qnko84: posts small blind 30
+Originallyy: posts big blind 60
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4d Ts]
+ollikahn23: folds 
+Cheremis: folds 
+beny05: folds 
+CraekZe: folds 
+MrWilliams87: folds 
+lukass3055: folds 
+andreygt77: folds 
+qnko84: folds 
+Uncalled bet (30) returned to Originallyy
+Originallyy collected 123 from pot
+Originallyy: doesn't show hand 
+*** SUMMARY ***
+Total pot 123 | Rake 0 
+Seat 1: lukass3055 folded before Flop (didn't bet)
+Seat 2: andreygt77 (button) folded before Flop (didn't bet)
+Seat 3: qnko84 (small blind) folded before Flop
+Seat 4: Originallyy (big blind) collected (123)
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: Cheremis folded before Flop (didn't bet)
+Seat 7: beny05 folded before Flop (didn't bet)
+Seat 8: CraekZe folded before Flop (didn't bet)
+Seat 9: MrWilliams87 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185387492630: Tournament #2281698050, $13.37+$1.63 USD Hold'em No Limit - Level IV (30/60) - 2018/04/18 14:41:13 ET
+Table '2281698050 45' 9-max Seat #3 is the button
+Seat 1: lukass3055 (1585 in chips) 
+Seat 2: andreygt77 (2647 in chips) 
+Seat 3: qnko84 (3300 in chips) 
+Seat 4: Originallyy (3446 in chips) 
+Seat 5: ollikahn23 (2492 in chips) 
+Seat 6: Cheremis (4590 in chips) 
+Seat 7: beny05 (3534 in chips) 
+Seat 8: CraekZe (2720 in chips) 
+Seat 9: MrWilliams87 (3032 in chips) 
+lukass3055: posts the ante 7
+andreygt77: posts the ante 7
+qnko84: posts the ante 7
+Originallyy: posts the ante 7
+ollikahn23: posts the ante 7
+Cheremis: posts the ante 7
+beny05: posts the ante 7
+CraekZe: posts the ante 7
+MrWilliams87: posts the ante 7
+Originallyy: posts small blind 30
+ollikahn23: posts big blind 60
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3s 9h]
+Cheremis: folds 
+beny05: folds 
+CraekZe: folds 
+MrWilliams87: folds 
+lukass3055: folds 
+andreygt77: raises 90 to 150
+qnko84: calls 150
+Originallyy: folds 
+ollikahn23: folds 
+*** FLOP *** [Kd 7c Ac]
+andreygt77: bets 180
+qnko84: calls 180
+*** TURN *** [Kd 7c Ac] [6s]
+andreygt77: checks 
+qnko84: bets 420
+andreygt77 is connected 
+andreygt77: calls 420
+*** RIVER *** [Kd 7c Ac 6s] [5c]
+andreygt77: checks 
+qnko84: bets 900
+andreygt77: calls 900
+*** SHOW DOWN ***
+qnko84: shows [Jc Tc] (a flush, Ace high)
+andreygt77: mucks hand 
+qnko84 collected 3453 from pot
+*** SUMMARY ***
+Total pot 3453 | Rake 0 
+Board [Kd 7c Ac 6s 5c]
+Seat 1: lukass3055 folded before Flop (didn't bet)
+Seat 2: andreygt77 mucked [8c Ks]
+Seat 3: qnko84 (button) showed [Jc Tc] and won (3453) with a flush, Ace high
+Seat 4: Originallyy (small blind) folded before Flop
+Seat 5: ollikahn23 (big blind) folded before Flop
+Seat 6: Cheremis folded before Flop (didn't bet)
+Seat 7: beny05 folded before Flop (didn't bet)
+Seat 8: CraekZe folded before Flop (didn't bet)
+Seat 9: MrWilliams87 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185387576907: Tournament #2281698050, $13.37+$1.63 USD Hold'em No Limit - Level V (40/80) - 2018/04/18 14:43:10 ET
+Table '2281698050 45' 9-max Seat #4 is the button
+Seat 1: lukass3055 (1578 in chips) 
+Seat 2: andreygt77 (990 in chips) 
+Seat 3: qnko84 (5096 in chips) 
+Seat 4: Originallyy (3409 in chips) 
+Seat 5: ollikahn23 (2425 in chips) 
+Seat 6: Cheremis (4583 in chips) 
+Seat 7: beny05 (3527 in chips) 
+Seat 8: CraekZe (2713 in chips) 
+Seat 9: MrWilliams87 (3025 in chips) 
+lukass3055: posts the ante 10
+andreygt77: posts the ante 10
+qnko84: posts the ante 10
+Originallyy: posts the ante 10
+ollikahn23: posts the ante 10
+Cheremis: posts the ante 10
+beny05: posts the ante 10
+CraekZe: posts the ante 10
+MrWilliams87: posts the ante 10
+ollikahn23: posts small blind 40
+Cheremis: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6d 4c]
+beny05: folds 
+CraekZe: folds 
+MrWilliams87: folds 
+lukass3055: raises 1488 to 1568 and is all-in
+andreygt77: folds 
+qnko84: folds 
+Originallyy: folds 
+ollikahn23: folds 
+Cheremis: folds 
+Uncalled bet (1488) returned to lukass3055
+lukass3055 collected 290 from pot
+lukass3055: doesn't show hand 
+*** SUMMARY ***
+Total pot 290 | Rake 0 
+Seat 1: lukass3055 collected (290)
+Seat 2: andreygt77 folded before Flop (didn't bet)
+Seat 3: qnko84 folded before Flop (didn't bet)
+Seat 4: Originallyy (button) folded before Flop (didn't bet)
+Seat 5: ollikahn23 (small blind) folded before Flop
+Seat 6: Cheremis (big blind) folded before Flop
+Seat 7: beny05 folded before Flop (didn't bet)
+Seat 8: CraekZe folded before Flop (didn't bet)
+Seat 9: MrWilliams87 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185387601534: Tournament #2281698050, $13.37+$1.63 USD Hold'em No Limit - Level V (40/80) - 2018/04/18 14:43:44 ET
+Table '2281698050 45' 9-max Seat #5 is the button
+Seat 1: lukass3055 (1778 in chips) 
+Seat 2: andreygt77 (980 in chips) 
+Seat 3: qnko84 (5086 in chips) 
+Seat 4: Originallyy (3399 in chips) 
+Seat 5: ollikahn23 (2375 in chips) 
+Seat 6: Cheremis (4493 in chips) 
+Seat 7: beny05 (3517 in chips) 
+Seat 8: CraekZe (2703 in chips) 
+Seat 9: MrWilliams87 (3015 in chips) 
+lukass3055: posts the ante 10
+andreygt77: posts the ante 10
+qnko84: posts the ante 10
+Originallyy: posts the ante 10
+ollikahn23: posts the ante 10
+Cheremis: posts the ante 10
+beny05: posts the ante 10
+CraekZe: posts the ante 10
+MrWilliams87: posts the ante 10
+Cheremis: posts small blind 40
+beny05: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3s 2h]
+CraekZe: folds 
+MrWilliams87: raises 105 to 185
+lukass3055: folds 
+andreygt77: folds 
+qnko84: folds 
+Originallyy: folds 
+ollikahn23: folds 
+Cheremis: folds 
+beny05: folds 
+Uncalled bet (105) returned to MrWilliams87
+MrWilliams87 collected 290 from pot
+MrWilliams87: doesn't show hand 
+*** SUMMARY ***
+Total pot 290 | Rake 0 
+Seat 1: lukass3055 folded before Flop (didn't bet)
+Seat 2: andreygt77 folded before Flop (didn't bet)
+Seat 3: qnko84 folded before Flop (didn't bet)
+Seat 4: Originallyy folded before Flop (didn't bet)
+Seat 5: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 6: Cheremis (small blind) folded before Flop
+Seat 7: beny05 (big blind) folded before Flop
+Seat 8: CraekZe folded before Flop (didn't bet)
+Seat 9: MrWilliams87 collected (290)
+
+
+
+PokerStars Hand #185387626913: Tournament #2281698050, $13.37+$1.63 USD Hold'em No Limit - Level V (40/80) - 2018/04/18 14:44:19 ET
+Table '2281698050 45' 9-max Seat #6 is the button
+Seat 1: lukass3055 (1768 in chips) 
+Seat 2: andreygt77 (970 in chips) 
+Seat 3: qnko84 (5076 in chips) 
+Seat 4: Originallyy (3389 in chips) 
+Seat 5: ollikahn23 (2365 in chips) 
+Seat 6: Cheremis (4443 in chips) 
+Seat 7: beny05 (3427 in chips) 
+Seat 9: MrWilliams87 (3215 in chips) 
+lukass3055: posts the ante 10
+andreygt77: posts the ante 10
+qnko84: posts the ante 10
+Originallyy: posts the ante 10
+ollikahn23: posts the ante 10
+Cheremis: posts the ante 10
+beny05: posts the ante 10
+MrWilliams87: posts the ante 10
+beny05: posts small blind 40
+MrWilliams87: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kd 5h]
+lukass3055: raises 1678 to 1758 and is all-in
+andreygt77: folds 
+qnko84: folds 
+Originallyy: folds 
+ollikahn23: folds 
+Cheremis: folds 
+beny05: folds 
+MrWilliams87: calls 1678
+*** FLOP *** [5c 3s Kc]
+*** TURN *** [5c 3s Kc] [4d]
+*** RIVER *** [5c 3s Kc 4d] [7h]
+*** SHOW DOWN ***
+MrWilliams87: shows [Qc Ah] (high card Ace)
+lukass3055: shows [7d Ac] (a pair of Sevens)
+lukass3055 collected 3636 from pot
+*** SUMMARY ***
+Total pot 3636 | Rake 0 
+Board [5c 3s Kc 4d 7h]
+Seat 1: lukass3055 showed [7d Ac] and won (3636) with a pair of Sevens
+Seat 2: andreygt77 folded before Flop (didn't bet)
+Seat 3: qnko84 folded before Flop (didn't bet)
+Seat 4: Originallyy folded before Flop (didn't bet)
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: Cheremis (button) folded before Flop (didn't bet)
+Seat 7: beny05 (small blind) folded before Flop
+Seat 9: MrWilliams87 (big blind) showed [Qc Ah] and lost with high card Ace
+
+
+
+PokerStars Hand #185387655141: Tournament #2281698050, $13.37+$1.63 USD Hold'em No Limit - Level V (40/80) - 2018/04/18 14:44:58 ET
+Table '2281698050 45' 9-max Seat #7 is the button
+Seat 1: lukass3055 (3636 in chips) 
+Seat 2: andreygt77 (960 in chips) 
+Seat 3: qnko84 (5066 in chips) 
+Seat 4: Originallyy (3379 in chips) 
+Seat 5: ollikahn23 (2355 in chips) 
+Seat 6: Cheremis (4433 in chips) 
+Seat 7: beny05 (3377 in chips) 
+Seat 9: MrWilliams87 (1447 in chips) 
+lukass3055: posts the ante 10
+andreygt77: posts the ante 10
+qnko84: posts the ante 10
+Originallyy: posts the ante 10
+ollikahn23: posts the ante 10
+Cheremis: posts the ante 10
+beny05: posts the ante 10
+MrWilliams87: posts the ante 10
+MrWilliams87: posts small blind 40
+lukass3055: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kd Ts]
+andreygt77: folds 
+qnko84: folds 
+Originallyy: folds 
+ollikahn23: raises 80 to 160
+Cheremis: folds 
+beny05: folds 
+MrWilliams87: folds 
+lukass3055: folds 
+Uncalled bet (80) returned to ollikahn23
+ollikahn23 collected 280 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Seat 1: lukass3055 (big blind) folded before Flop
+Seat 2: andreygt77 folded before Flop (didn't bet)
+Seat 3: qnko84 folded before Flop (didn't bet)
+Seat 4: Originallyy folded before Flop (didn't bet)
+Seat 5: ollikahn23 collected (280)
+Seat 6: Cheremis folded before Flop (didn't bet)
+Seat 7: beny05 (button) folded before Flop (didn't bet)
+Seat 9: MrWilliams87 (small blind) folded before Flop
+
+
+
+PokerStars Hand #185387679431: Tournament #2281698050, $13.37+$1.63 USD Hold'em No Limit - Level V (40/80) - 2018/04/18 14:45:32 ET
+Table '2281698050 45' 9-max Seat #9 is the button
+Seat 1: lukass3055 (3546 in chips) 
+Seat 2: andreygt77 (950 in chips) 
+Seat 3: qnko84 (5056 in chips) 
+Seat 4: Originallyy (3369 in chips) 
+Seat 5: ollikahn23 (2545 in chips) 
+Seat 6: Cheremis (4423 in chips) 
+Seat 7: beny05 (3367 in chips) 
+Seat 9: MrWilliams87 (1397 in chips) 
+lukass3055: posts the ante 10
+andreygt77: posts the ante 10
+qnko84: posts the ante 10
+Originallyy: posts the ante 10
+ollikahn23: posts the ante 10
+Cheremis: posts the ante 10
+beny05: posts the ante 10
+MrWilliams87: posts the ante 10
+lukass3055: posts small blind 40
+andreygt77: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8c 5h]
+qnko84: folds 
+Originallyy: folds 
+ollikahn23: folds 
+Cheremis: folds 
+beny05: folds 
+MrWilliams87: folds 
+lukass3055: folds 
+Uncalled bet (40) returned to andreygt77
+andreygt77 collected 160 from pot
+andreygt77: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 1: lukass3055 (small blind) folded before Flop
+Seat 2: andreygt77 (big blind) collected (160)
+Seat 3: qnko84 folded before Flop (didn't bet)
+Seat 4: Originallyy folded before Flop (didn't bet)
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: Cheremis folded before Flop (didn't bet)
+Seat 7: beny05 folded before Flop (didn't bet)
+Seat 9: MrWilliams87 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185387703911: Tournament #2281698050, $13.37+$1.63 USD Hold'em No Limit - Level V (40/80) - 2018/04/18 14:46:05 ET
+Table '2281698050 45' 9-max Seat #1 is the button
+Seat 1: lukass3055 (3496 in chips) 
+Seat 2: andreygt77 (1060 in chips) 
+Seat 3: qnko84 (5046 in chips) 
+Seat 4: Originallyy (3359 in chips) 
+Seat 5: ollikahn23 (2535 in chips) 
+Seat 6: Cheremis (4413 in chips) 
+Seat 7: beny05 (3357 in chips) 
+Seat 8: humria (3000 in chips) 
+Seat 9: MrWilliams87 (1387 in chips) 
+lukass3055: posts the ante 10
+andreygt77: posts the ante 10
+qnko84: posts the ante 10
+Originallyy: posts the ante 10
+ollikahn23: posts the ante 10
+Cheremis: posts the ante 10
+beny05: posts the ante 10
+humria: posts the ante 10
+MrWilliams87: posts the ante 10
+andreygt77: posts small blind 40
+qnko84: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8s 4c]
+Originallyy: folds 
+ollikahn23: folds 
+Cheremis: folds 
+beny05: folds 
+humria has timed out while disconnected
+humria: folds 
+humria is sitting out
+MrWilliams87: raises 107 to 187
+lukass3055: folds 
+andreygt77: folds 
+qnko84: folds 
+Uncalled bet (107) returned to MrWilliams87
+MrWilliams87 collected 290 from pot
+MrWilliams87: doesn't show hand 
+*** SUMMARY ***
+Total pot 290 | Rake 0 
+Seat 1: lukass3055 (button) folded before Flop (didn't bet)
+Seat 2: andreygt77 (small blind) folded before Flop
+Seat 3: qnko84 (big blind) folded before Flop
+Seat 4: Originallyy folded before Flop (didn't bet)
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: Cheremis folded before Flop (didn't bet)
+Seat 7: beny05 folded before Flop (didn't bet)
+Seat 8: humria folded before Flop (didn't bet)
+Seat 9: MrWilliams87 collected (290)
+
+
+
+PokerStars Hand #185387734856: Tournament #2281698050, $13.37+$1.63 USD Hold'em No Limit - Level V (40/80) - 2018/04/18 14:46:45 ET
+Table '2281698050 45' 9-max Seat #2 is the button
+Seat 1: lukass3055 (3486 in chips) 
+Seat 2: andreygt77 (1010 in chips) 
+Seat 3: qnko84 (4956 in chips) 
+Seat 4: Originallyy (3349 in chips) 
+Seat 5: ollikahn23 (2525 in chips) 
+Seat 6: Cheremis (4403 in chips) 
+Seat 7: beny05 (3347 in chips) 
+Seat 8: humria (2990 in chips) is sitting out
+Seat 9: MrWilliams87 (1587 in chips) 
+lukass3055: posts the ante 10
+andreygt77: posts the ante 10
+qnko84: posts the ante 10
+Originallyy: posts the ante 10
+ollikahn23: posts the ante 10
+Cheremis: posts the ante 10
+beny05: posts the ante 10
+humria: posts the ante 10
+MrWilliams87: posts the ante 10
+qnko84: posts small blind 40
+Originallyy: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6d Th]
+ollikahn23: folds 
+Cheremis: folds 
+beny05: raises 160 to 240
+humria: folds 
+MrWilliams87: folds 
+lukass3055: folds 
+andreygt77: folds 
+qnko84: calls 200
+Originallyy: folds 
+*** FLOP *** [8d 7c 4s]
+qnko84: checks 
+beny05: checks 
+*** TURN *** [8d 7c 4s] [5h]
+qnko84: checks 
+beny05: checks 
+*** RIVER *** [8d 7c 4s 5h] [5d]
+qnko84: checks 
+beny05: checks 
+*** SHOW DOWN ***
+qnko84: shows [Ah Qh] (a pair of Fives)
+beny05: mucks hand 
+qnko84 collected 650 from pot
+*** SUMMARY ***
+Total pot 650 | Rake 0 
+Board [8d 7c 4s 5h 5d]
+Seat 1: lukass3055 folded before Flop (didn't bet)
+Seat 2: andreygt77 (button) folded before Flop (didn't bet)
+Seat 3: qnko84 (small blind) showed [Ah Qh] and won (650) with a pair of Fives
+Seat 4: Originallyy (big blind) folded before Flop
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: Cheremis folded before Flop (didn't bet)
+Seat 7: beny05 mucked [Ac Jd]
+Seat 8: humria folded before Flop (didn't bet)
+Seat 9: MrWilliams87 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185387772204: Tournament #2281698050, $13.37+$1.63 USD Hold'em No Limit - Level V (40/80) - 2018/04/18 14:47:36 ET
+Table '2281698050 45' 9-max Seat #3 is the button
+Seat 1: lukass3055 (3476 in chips) 
+Seat 2: andreygt77 (1000 in chips) 
+Seat 3: qnko84 (5356 in chips) 
+Seat 4: Originallyy (3259 in chips) 
+Seat 5: ollikahn23 (2515 in chips) 
+Seat 6: Cheremis (4393 in chips) 
+Seat 7: beny05 (3097 in chips) 
+Seat 8: humria (2980 in chips) is sitting out
+Seat 9: MrWilliams87 (1577 in chips) 
+lukass3055: posts the ante 10
+andreygt77: posts the ante 10
+qnko84: posts the ante 10
+Originallyy: posts the ante 10
+ollikahn23: posts the ante 10
+Cheremis: posts the ante 10
+beny05: posts the ante 10
+humria: posts the ante 10
+MrWilliams87: posts the ante 10
+Originallyy: posts small blind 40
+ollikahn23: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2h Th]
+Cheremis: folds 
+beny05: folds 
+humria: folds 
+MrWilliams87: raises 105 to 185
+lukass3055: raises 3281 to 3466 and is all-in
+andreygt77: folds 
+qnko84: folds 
+Originallyy: folds 
+ollikahn23: folds 
+MrWilliams87: calls 1382 and is all-in
+Uncalled bet (1899) returned to lukass3055
+*** FLOP *** [9c 8s 2d]
+*** TURN *** [9c 8s 2d] [8d]
+*** RIVER *** [9c 8s 2d 8d] [Ac]
+*** SHOW DOWN ***
+MrWilliams87: shows [Qd Qs] (two pair, Queens and Eights)
+lukass3055: shows [7d 7s] (two pair, Eights and Sevens)
+MrWilliams87 collected 3344 from pot
+*** SUMMARY ***
+Total pot 3344 | Rake 0 
+Board [9c 8s 2d 8d Ac]
+Seat 1: lukass3055 showed [7d 7s] and lost with two pair, Eights and Sevens
+Seat 2: andreygt77 folded before Flop (didn't bet)
+Seat 3: qnko84 (button) folded before Flop (didn't bet)
+Seat 4: Originallyy (small blind) folded before Flop
+Seat 5: ollikahn23 (big blind) folded before Flop
+Seat 6: Cheremis folded before Flop (didn't bet)
+Seat 7: beny05 folded before Flop (didn't bet)
+Seat 8: humria folded before Flop (didn't bet)
+Seat 9: MrWilliams87 showed [Qd Qs] and won (3344) with two pair, Queens and Eights
+
+
+
+PokerStars Hand #185387793329: Tournament #2281698050, $13.37+$1.63 USD Hold'em No Limit - Level V (40/80) - 2018/04/18 14:48:05 ET
+Table '2281698050 45' 9-max Seat #4 is the button
+Seat 1: lukass3055 (1899 in chips) 
+Seat 2: andreygt77 (990 in chips) 
+Seat 3: qnko84 (5346 in chips) 
+Seat 4: Originallyy (3209 in chips) 
+Seat 5: ollikahn23 (2425 in chips) 
+Seat 6: Cheremis (4383 in chips) 
+Seat 7: beny05 (3087 in chips) 
+Seat 8: humria (2970 in chips) is sitting out
+Seat 9: MrWilliams87 (3344 in chips) 
+lukass3055: posts the ante 10
+andreygt77: posts the ante 10
+qnko84: posts the ante 10
+Originallyy: posts the ante 10
+ollikahn23: posts the ante 10
+Cheremis: posts the ante 10
+beny05: posts the ante 10
+humria: posts the ante 10
+MrWilliams87: posts the ante 10
+ollikahn23: posts small blind 40
+Cheremis: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jc Th]
+beny05: folds 
+humria: folds 
+MrWilliams87: folds 
+lukass3055: raises 80 to 160
+andreygt77: folds 
+qnko84: folds 
+Originallyy: folds 
+ollikahn23: folds 
+Cheremis: calls 80
+*** FLOP *** [9d 5s Js]
+Cheremis: checks 
+lukass3055: bets 225
+Cheremis: folds 
+Uncalled bet (225) returned to lukass3055
+lukass3055 collected 450 from pot
+lukass3055: doesn't show hand 
+*** SUMMARY ***
+Total pot 450 | Rake 0 
+Board [9d 5s Js]
+Seat 1: lukass3055 collected (450)
+Seat 2: andreygt77 folded before Flop (didn't bet)
+Seat 3: qnko84 folded before Flop (didn't bet)
+Seat 4: Originallyy (button) folded before Flop (didn't bet)
+Seat 5: ollikahn23 (small blind) folded before Flop
+Seat 6: Cheremis (big blind) folded on the Flop
+Seat 7: beny05 folded before Flop (didn't bet)
+Seat 8: humria folded before Flop (didn't bet)
+Seat 9: MrWilliams87 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185387823930: Tournament #2281698050, $13.37+$1.63 USD Hold'em No Limit - Level V (40/80) - 2018/04/18 14:48:48 ET
+Table '2281698050 45' 9-max Seat #5 is the button
+Seat 1: lukass3055 (2179 in chips) 
+Seat 2: andreygt77 (980 in chips) 
+Seat 3: qnko84 (5336 in chips) 
+Seat 4: Originallyy (3199 in chips) 
+Seat 5: ollikahn23 (2375 in chips) 
+Seat 6: Cheremis (4213 in chips) 
+Seat 7: beny05 (3077 in chips) 
+Seat 8: humria (2960 in chips) is sitting out
+Seat 9: MrWilliams87 (3334 in chips) 
+lukass3055: posts the ante 10
+andreygt77: posts the ante 10
+qnko84: posts the ante 10
+Originallyy: posts the ante 10
+ollikahn23: posts the ante 10
+Cheremis: posts the ante 10
+beny05: posts the ante 10
+humria: posts the ante 10
+MrWilliams87: posts the ante 10
+Cheremis: posts small blind 40
+beny05: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5h Ts]
+humria: folds 
+MrWilliams87: folds 
+lukass3055: folds 
+andreygt77: folds 
+qnko84: folds 
+Originallyy: folds 
+ollikahn23: folds 
+Cheremis: folds 
+Uncalled bet (40) returned to beny05
+beny05 collected 170 from pot
+beny05: doesn't show hand 
+*** SUMMARY ***
+Total pot 170 | Rake 0 
+Seat 1: lukass3055 folded before Flop (didn't bet)
+Seat 2: andreygt77 folded before Flop (didn't bet)
+Seat 3: qnko84 folded before Flop (didn't bet)
+Seat 4: Originallyy folded before Flop (didn't bet)
+Seat 5: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 6: Cheremis (small blind) folded before Flop
+Seat 7: beny05 (big blind) collected (170)
+Seat 8: humria folded before Flop (didn't bet)
+Seat 9: MrWilliams87 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185387836555: Tournament #2281698050, $13.37+$1.63 USD Hold'em No Limit - Level V (40/80) - 2018/04/18 14:49:05 ET
+Table '2281698050 45' 9-max Seat #6 is the button
+Seat 1: lukass3055 (2169 in chips) 
+Seat 2: andreygt77 (970 in chips) 
+Seat 3: qnko84 (5326 in chips) 
+Seat 4: Originallyy (3189 in chips) 
+Seat 5: ollikahn23 (2365 in chips) 
+Seat 6: Cheremis (4163 in chips) 
+Seat 7: beny05 (3197 in chips) 
+Seat 8: humria (2950 in chips) is sitting out
+Seat 9: MrWilliams87 (3324 in chips) 
+lukass3055: posts the ante 10
+andreygt77: posts the ante 10
+qnko84: posts the ante 10
+Originallyy: posts the ante 10
+ollikahn23: posts the ante 10
+Cheremis: posts the ante 10
+beny05: posts the ante 10
+humria: posts the ante 10
+MrWilliams87: posts the ante 10
+beny05: posts small blind 40
+humria: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8d Ah]
+MrWilliams87: folds 
+lukass3055: folds 
+andreygt77: folds 
+qnko84: folds 
+Originallyy: folds 
+ollikahn23: raises 80 to 160
+Cheremis: folds 
+beny05: calls 120
+humria: folds 
+*** FLOP *** [5c Ts 9h]
+beny05: checks 
+ollikahn23: checks 
+*** TURN *** [5c Ts 9h] [3h]
+beny05: bets 240
+ollikahn23: calls 240
+*** RIVER *** [5c Ts 9h 3h] [Jh]
+beny05: bets 480
+ollikahn23: raises 640 to 1120
+beny05: calls 640
+*** SHOW DOWN ***
+ollikahn23: shows [8d Ah] (high card Ace)
+beny05: shows [Tc Jd] (two pair, Jacks and Tens)
+beny05 collected 3210 from pot
+*** SUMMARY ***
+Total pot 3210 | Rake 0 
+Board [5c Ts 9h 3h Jh]
+Seat 1: lukass3055 folded before Flop (didn't bet)
+Seat 2: andreygt77 folded before Flop (didn't bet)
+Seat 3: qnko84 folded before Flop (didn't bet)
+Seat 4: Originallyy folded before Flop (didn't bet)
+Seat 5: ollikahn23 showed [8d Ah] and lost with high card Ace
+Seat 6: Cheremis (button) folded before Flop (didn't bet)
+Seat 7: beny05 (small blind) showed [Tc Jd] and won (3210) with two pair, Jacks and Tens
+Seat 8: humria (big blind) folded before Flop
+Seat 9: MrWilliams87 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185387898625: Tournament #2281698050, $13.37+$1.63 USD Hold'em No Limit - Level V (40/80) - 2018/04/18 14:50:31 ET
+Table '2281698050 45' 9-max Seat #7 is the button
+Seat 1: lukass3055 (2159 in chips) 
+Seat 2: andreygt77 (960 in chips) 
+Seat 3: qnko84 (5316 in chips) 
+Seat 4: Originallyy (3179 in chips) 
+Seat 5: ollikahn23 (835 in chips) 
+Seat 6: Cheremis (4153 in chips) 
+Seat 7: beny05 (4877 in chips) 
+Seat 8: humria (2860 in chips) is sitting out
+Seat 9: MrWilliams87 (3314 in chips) 
+lukass3055: posts the ante 10
+andreygt77: posts the ante 10
+qnko84: posts the ante 10
+Originallyy: posts the ante 10
+ollikahn23: posts the ante 10
+Cheremis: posts the ante 10
+beny05: posts the ante 10
+humria: posts the ante 10
+MrWilliams87: posts the ante 10
+humria: posts small blind 40
+MrWilliams87: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5s Jh]
+lukass3055: raises 80 to 160
+andreygt77: folds 
+qnko84: folds 
+Originallyy: folds 
+ollikahn23: folds 
+Cheremis: folds 
+Cheremis said, "don't lie, kahn"
+beny05: folds 
+humria: folds 
+MrWilliams87: calls 80
+*** FLOP *** [8d 5d 8s]
+MrWilliams87: checks 
+lukass3055: bets 225
+MrWilliams87: calls 225
+*** TURN *** [8d 5d 8s] [Qd]
+MrWilliams87: checks 
+lukass3055: checks 
+*** RIVER *** [8d 5d 8s Qd] [Ts]
+MrWilliams87: checks 
+lukass3055: checks 
+*** SHOW DOWN ***
+MrWilliams87: shows [7h Ad] (a pair of Eights)
+lukass3055: shows [Th Ac] (two pair, Tens and Eights)
+lukass3055 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Board [8d 5d 8s Qd Ts]
+Seat 1: lukass3055 showed [Th Ac] and won (900) with two pair, Tens and Eights
+Seat 2: andreygt77 folded before Flop (didn't bet)
+Seat 3: qnko84 folded before Flop (didn't bet)
+Seat 4: Originallyy folded before Flop (didn't bet)
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: Cheremis folded before Flop (didn't bet)
+Seat 7: beny05 (button) folded before Flop (didn't bet)
+Seat 8: humria (small blind) folded before Flop
+Seat 9: MrWilliams87 (big blind) showed [7h Ad] and lost with a pair of Eights
+
+
+
+PokerStars Hand #185387948990: Tournament #2281698050, $13.37+$1.63 USD Hold'em No Limit - Level V (40/80) - 2018/04/18 14:51:41 ET
+Table '2281698050 45' 9-max Seat #8 is the button
+Seat 1: lukass3055 (2664 in chips) 
+Seat 2: andreygt77 (950 in chips) 
+Seat 3: qnko84 (5306 in chips) 
+Seat 4: Originallyy (3169 in chips) 
+Seat 5: ollikahn23 (825 in chips) 
+Seat 6: Cheremis (4143 in chips) 
+Seat 7: beny05 (4867 in chips) 
+Seat 8: humria (2810 in chips) is sitting out
+Seat 9: MrWilliams87 (2919 in chips) 
+lukass3055: posts the ante 10
+andreygt77: posts the ante 10
+qnko84: posts the ante 10
+Originallyy: posts the ante 10
+ollikahn23: posts the ante 10
+Cheremis: posts the ante 10
+beny05: posts the ante 10
+humria: posts the ante 10
+MrWilliams87: posts the ante 10
+MrWilliams87: posts small blind 40
+lukass3055: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9h Kd]
+andreygt77: folds 
+qnko84: folds 
+Originallyy: folds 
+ollikahn23: folds 
+Cheremis: raises 120 to 200
+beny05: folds 
+humria: folds 
+MrWilliams87: folds 
+lukass3055: folds 
+Uncalled bet (120) returned to Cheremis
+Cheremis collected 290 from pot
+Cheremis: doesn't show hand 
+*** SUMMARY ***
+Total pot 290 | Rake 0 
+Seat 1: lukass3055 (big blind) folded before Flop
+Seat 2: andreygt77 folded before Flop (didn't bet)
+Seat 3: qnko84 folded before Flop (didn't bet)
+Seat 4: Originallyy folded before Flop (didn't bet)
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: Cheremis collected (290)
+Seat 7: beny05 folded before Flop (didn't bet)
+Seat 8: humria (button) folded before Flop (didn't bet)
+Seat 9: MrWilliams87 (small blind) folded before Flop
+
+
+
+PokerStars Hand #185387971959: Tournament #2281698050, $13.37+$1.63 USD Hold'em No Limit - Level VI (50/100) - 2018/04/18 14:52:13 ET
+Table '2281698050 45' 9-max Seat #9 is the button
+Seat 1: lukass3055 (2574 in chips) 
+Seat 2: andreygt77 (940 in chips) 
+Seat 3: qnko84 (5296 in chips) 
+Seat 4: Originallyy (3159 in chips) 
+Seat 5: ollikahn23 (815 in chips) 
+Seat 6: Cheremis (4343 in chips) 
+Seat 7: beny05 (4857 in chips) 
+Seat 8: humria (2800 in chips) is sitting out
+Seat 9: MrWilliams87 (2869 in chips) 
+lukass3055: posts the ante 12
+andreygt77: posts the ante 12
+qnko84: posts the ante 12
+Originallyy: posts the ante 12
+ollikahn23: posts the ante 12
+Cheremis: posts the ante 12
+beny05: posts the ante 12
+humria: posts the ante 12
+MrWilliams87: posts the ante 12
+lukass3055: posts small blind 50
+andreygt77: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ad 8c]
+qnko84: folds 
+Originallyy: folds 
+ollikahn23: raises 703 to 803 and is all-in
+Cheremis: folds 
+beny05: folds 
+humria: folds 
+MrWilliams87: folds 
+lukass3055: folds 
+andreygt77: calls 703
+*** FLOP *** [Jd 3c 9s]
+*** TURN *** [Jd 3c 9s] [Tc]
+*** RIVER *** [Jd 3c 9s Tc] [3s]
+*** SHOW DOWN ***
+andreygt77: shows [Qc Jc] (two pair, Jacks and Threes)
+ollikahn23: shows [Ad 8c] (a pair of Threes)
+andreygt77 collected 1764 from pot
+ollikahn23 finished the tournament
+*** SUMMARY ***
+Total pot 1764 | Rake 0 
+Board [Jd 3c 9s Tc 3s]
+Seat 1: lukass3055 (small blind) folded before Flop
+Seat 2: andreygt77 (big blind) showed [Qc Jc] and won (1764) with two pair, Jacks and Threes
+Seat 3: qnko84 folded before Flop (didn't bet)
+Seat 4: Originallyy folded before Flop (didn't bet)
+Seat 5: ollikahn23 showed [Ad 8c] and lost with a pair of Threes
+Seat 6: Cheremis folded before Flop (didn't bet)
+Seat 7: beny05 folded before Flop (didn't bet)
+Seat 8: humria folded before Flop (didn't bet)
+Seat 9: MrWilliams87 (button) folded before Flop (didn't bet)
+
+
+

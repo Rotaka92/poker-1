@@ -1,0 +1,343 @@
+﻿PokerStars Hand #186066892661: Tournament #2297624750, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/06 0:25:36 CET [2018/05/05 18:25:36 ET]
+Table '2297624750 1' 2-max Seat #1 is the button
+Seat 1: pobegman (1500 in chips) 
+Seat 2: ollikahn23 (1500 in chips) 
+pobegman: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8s Kc]
+pobegman: raises 1480 to 1500 and is all-in
+ollikahn23: folds 
+Uncalled bet (1480) returned to pobegman
+pobegman collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: pobegman (button) (small blind) collected (40)
+Seat 2: ollikahn23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #186066897211: Tournament #2297624750, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/06 0:25:44 CET [2018/05/05 18:25:44 ET]
+Table '2297624750 1' 2-max Seat #2 is the button
+Seat 1: pobegman (1520 in chips) 
+Seat 2: ollikahn23 (1480 in chips) 
+ollikahn23: posts small blind 10
+pobegman: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2s 8h]
+ollikahn23: folds 
+Uncalled bet (10) returned to pobegman
+pobegman collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: pobegman (big blind) collected (20)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #186066900376: Tournament #2297624750, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/06 0:25:49 CET [2018/05/05 18:25:49 ET]
+Table '2297624750 1' 2-max Seat #1 is the button
+Seat 1: pobegman (1530 in chips) 
+Seat 2: ollikahn23 (1470 in chips) 
+pobegman: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2h Jh]
+pobegman: raises 1510 to 1530 and is all-in
+ollikahn23: folds 
+Uncalled bet (1510) returned to pobegman
+pobegman collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: pobegman (button) (small blind) collected (40)
+Seat 2: ollikahn23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #186066904523: Tournament #2297624750, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/06 0:25:55 CET [2018/05/05 18:25:55 ET]
+Table '2297624750 1' 2-max Seat #2 is the button
+Seat 1: pobegman (1550 in chips) 
+Seat 2: ollikahn23 (1450 in chips) 
+ollikahn23: posts small blind 10
+pobegman: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kh Qs]
+ollikahn23: calls 10
+pobegman: checks 
+*** FLOP *** [2c 4d 7h]
+pobegman: checks 
+ollikahn23: checks 
+*** TURN *** [2c 4d 7h] [5d]
+pobegman: checks 
+ollikahn23: checks 
+*** RIVER *** [2c 4d 7h 5d] [Ts]
+pobegman: bets 1530 and is all-in
+ollikahn23: folds 
+Uncalled bet (1530) returned to pobegman
+pobegman collected 40 from pot
+pobegman: shows [8c 6d] (a straight, Four to Eight)
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [2c 4d 7h 5d Ts]
+Seat 1: pobegman (big blind) collected (40)
+Seat 2: ollikahn23 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #186066919300: Tournament #2297624750, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/06 0:26:20 CET [2018/05/05 18:26:20 ET]
+Table '2297624750 1' 2-max Seat #1 is the button
+Seat 1: pobegman (1570 in chips) 
+Seat 2: ollikahn23 (1430 in chips) 
+pobegman: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8c Kc]
+pobegman: calls 10
+ollikahn23: checks 
+*** FLOP *** [9d Tc Jd]
+ollikahn23: checks 
+pobegman: checks 
+*** TURN *** [9d Tc Jd] [Kd]
+ollikahn23: checks 
+pobegman: bets 1550 and is all-in
+ollikahn23: folds 
+Uncalled bet (1550) returned to pobegman
+pobegman collected 40 from pot
+pobegman: shows [5d 6d] (a flush, King high)
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [9d Tc Jd Kd]
+Seat 1: pobegman (button) (small blind) collected (40)
+Seat 2: ollikahn23 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #186066928522: Tournament #2297624750, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/06 0:26:35 CET [2018/05/05 18:26:35 ET]
+Table '2297624750 1' 2-max Seat #2 is the button
+Seat 1: pobegman (1590 in chips) 
+Seat 2: ollikahn23 (1410 in chips) 
+ollikahn23: posts small blind 10
+pobegman: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kc 6d]
+ollikahn23: calls 10
+pobegman: checks 
+*** FLOP *** [2d Ac 8s]
+pobegman: checks 
+ollikahn23: checks 
+*** TURN *** [2d Ac 8s] [7s]
+pobegman: bets 1570 and is all-in
+ollikahn23: folds 
+Uncalled bet (1570) returned to pobegman
+pobegman collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [2d Ac 8s 7s]
+Seat 1: pobegman (big blind) collected (40)
+Seat 2: ollikahn23 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #186066936998: Tournament #2297624750, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/06 0:26:49 CET [2018/05/05 18:26:49 ET]
+Table '2297624750 1' 2-max Seat #1 is the button
+Seat 1: pobegman (1610 in chips) 
+Seat 2: ollikahn23 (1390 in chips) 
+pobegman: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Js 2c]
+pobegman: calls 10
+ollikahn23: checks 
+*** FLOP *** [3c Qd Ks]
+ollikahn23: checks 
+pobegman: checks 
+*** TURN *** [3c Qd Ks] [5s]
+ollikahn23: checks 
+pobegman: checks 
+*** RIVER *** [3c Qd Ks 5s] [6c]
+ollikahn23: bets 20
+pobegman: calls 20
+*** SHOW DOWN ***
+ollikahn23: shows [Js 2c] (high card King)
+pobegman: shows [6h 4h] (a pair of Sixes)
+pobegman collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [3c Qd Ks 5s 6c]
+Seat 1: pobegman (button) (small blind) showed [6h 4h] and won (80) with a pair of Sixes
+Seat 2: ollikahn23 (big blind) showed [Js 2c] and lost with high card King
+
+
+
+PokerStars Hand #186066946249: Tournament #2297624750, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/06 0:27:03 CET [2018/05/05 18:27:03 ET]
+Table '2297624750 1' 2-max Seat #2 is the button
+Seat 1: pobegman (1650 in chips) 
+Seat 2: ollikahn23 (1350 in chips) 
+ollikahn23: posts small blind 10
+pobegman: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3s As]
+ollikahn23: calls 10
+pobegman: checks 
+*** FLOP *** [Ah Ad 6s]
+pobegman: checks 
+ollikahn23: checks 
+*** TURN *** [Ah Ad 6s] [4c]
+pobegman: checks 
+ollikahn23: checks 
+*** RIVER *** [Ah Ad 6s 4c] [3h]
+pobegman: checks 
+ollikahn23: bets 30
+pobegman: calls 30
+*** SHOW DOWN ***
+ollikahn23: shows [3s As] (a full house, Aces full of Threes)
+pobegman has timed out
+pobegman: mucks hand 
+ollikahn23 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [Ah Ad 6s 4c 3h]
+Seat 1: pobegman (big blind) mucked [Ks 2d]
+Seat 2: ollikahn23 (button) (small blind) showed [3s As] and won (100) with a full house, Aces full of Threes
+
+
+
+PokerStars Hand #186066960533: Tournament #2297624750, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/06 0:27:27 CET [2018/05/05 18:27:27 ET]
+Table '2297624750 1' 2-max Seat #1 is the button
+Seat 1: pobegman (1600 in chips) 
+Seat 2: ollikahn23 (1400 in chips) 
+pobegman: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Js 5c]
+pobegman: raises 1580 to 1600 and is all-in
+ollikahn23: folds 
+Uncalled bet (1580) returned to pobegman
+pobegman collected 40 from pot
+pobegman: shows [Qc Ks] (high card King)
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: pobegman (button) (small blind) collected (40)
+Seat 2: ollikahn23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #186066964536: Tournament #2297624750, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/06 0:27:34 CET [2018/05/05 18:27:34 ET]
+Table '2297624750 1' 2-max Seat #2 is the button
+Seat 1: pobegman (1620 in chips) 
+Seat 2: ollikahn23 (1380 in chips) 
+ollikahn23: posts small blind 10
+pobegman: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6h 2s]
+ollikahn23: folds 
+Uncalled bet (10) returned to pobegman
+pobegman collected 20 from pot
+pobegman: shows [2h Qh] (high card Queen)
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: pobegman (big blind) collected (20)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #186066967763: Tournament #2297624750, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/06 0:27:39 CET [2018/05/05 18:27:39 ET]
+Table '2297624750 1' 2-max Seat #1 is the button
+Seat 1: pobegman (1630 in chips) 
+Seat 2: ollikahn23 (1370 in chips) 
+pobegman: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qc 7d]
+pobegman: raises 1610 to 1630 and is all-in
+ollikahn23: folds 
+Uncalled bet (1610) returned to pobegman
+pobegman collected 40 from pot
+pobegman: shows [7h Ad] (high card Ace)
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: pobegman (button) (small blind) collected (40)
+Seat 2: ollikahn23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #186066972376: Tournament #2297624750, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/06 0:27:47 CET [2018/05/05 18:27:47 ET]
+Table '2297624750 1' 2-max Seat #2 is the button
+Seat 1: pobegman (1650 in chips) 
+Seat 2: ollikahn23 (1350 in chips) 
+ollikahn23: posts small blind 10
+pobegman: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7h 7d]
+ollikahn23: calls 10
+pobegman: checks 
+*** FLOP *** [4s 7s 9d]
+pobegman: bets 20
+ollikahn23: calls 20
+*** TURN *** [4s 7s 9d] [Kc]
+pobegman: bets 20
+ollikahn23: calls 20
+*** RIVER *** [4s 7s 9d Kc] [8s]
+pobegman: bets 60
+ollikahn23: raises 60 to 120
+pobegman: calls 60
+*** SHOW DOWN ***
+ollikahn23: shows [7h 7d] (three of a kind, Sevens)
+pobegman has timed out
+pobegman: mucks hand 
+ollikahn23 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [4s 7s 9d Kc 8s]
+Seat 1: pobegman (big blind) mucked [4c 2d]
+Seat 2: ollikahn23 (button) (small blind) showed [7h 7d] and won (360) with three of a kind, Sevens
+
+
+
+PokerStars Hand #186066990274: Tournament #2297624750, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/06 0:28:16 CET [2018/05/05 18:28:16 ET]
+Table '2297624750 1' 2-max Seat #1 is the button
+Seat 1: pobegman (1470 in chips) 
+Seat 2: ollikahn23 (1530 in chips) 
+pobegman: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3s 4c]
+pobegman: raises 1450 to 1470 and is all-in
+ollikahn23: folds 
+Uncalled bet (1450) returned to pobegman
+pobegman collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: pobegman (button) (small blind) collected (40)
+Seat 2: ollikahn23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #186066995004: Tournament #2297624750, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/06 0:28:24 CET [2018/05/05 18:28:24 ET]
+Table '2297624750 1' 2-max Seat #2 is the button
+Seat 1: pobegman (1490 in chips) 
+Seat 2: ollikahn23 (1510 in chips) 
+ollikahn23: posts small blind 10
+pobegman: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Tc As]
+ollikahn23: calls 10
+pobegman: raises 1470 to 1490 and is all-in
+ollikahn23: calls 1470
+*** FLOP *** [Td Js 2d]
+*** TURN *** [Td Js 2d] [Qd]
+*** RIVER *** [Td Js 2d Qd] [Kc]
+*** SHOW DOWN ***
+pobegman: shows [3c 4c] (high card King)
+ollikahn23: shows [Tc As] (a straight, Ten to Ace)
+ollikahn23 collected 2980 from pot
+pobegman finished the tournament in 2nd place
+ollikahn23 wins the tournament and receives $2.80 - congratulations!
+*** SUMMARY ***
+Total pot 2980 | Rake 0 
+Board [Td Js 2d Qd Kc]
+Seat 1: pobegman (big blind) showed [3c 4c] and lost with high card King
+Seat 2: ollikahn23 (button) (small blind) showed [Tc As] and won (2980) with a straight, Ten to Ace
+
+
+

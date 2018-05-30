@@ -1,0 +1,129 @@
+﻿PokerStars Hand #186247917380: Tournament #2301550441, 37 SC Hold'em No Limit - Level I (25/50) - 2018/05/10 17:23:09 CET [2018/05/10 11:23:09 ET]
+Table '2301550441 1' 6-max Seat #1 is the button
+Seat 1: Lootap (500 in chips) 
+Seat 2: asa sukhee (500 in chips) 
+Seat 3: ollikahn23 (500 in chips) 
+Seat 4: mirica91 (500 in chips) 
+Seat 5: SergoSochi1 (500 in chips) 
+Seat 6: alinutza790 (500 in chips) 
+Lootap: posts the ante 10
+asa sukhee: posts the ante 10
+ollikahn23: posts the ante 10
+mirica91: posts the ante 10
+SergoSochi1: posts the ante 10
+alinutza790: posts the ante 10
+asa sukhee: posts small blind 25
+ollikahn23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2d Ac]
+mirica91: folds 
+SergoSochi1: raises 100 to 150
+alinutza790: raises 340 to 490 and is all-in
+Lootap: folds 
+asa sukhee: folds 
+ollikahn23: folds 
+SergoSochi1: calls 340 and is all-in
+*** FLOP *** [4h 6h 2s]
+*** TURN *** [4h 6h 2s] [6d]
+*** RIVER *** [4h 6h 2s 6d] [5h]
+*** SHOW DOWN ***
+SergoSochi1: shows [5c 5s] (a full house, Fives full of Sixes)
+alinutza790: shows [As Ad] (two pair, Aces and Sixes)
+SergoSochi1 collected 1115 from pot
+alinutza790 finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 1115 | Rake 0 
+Board [4h 6h 2s 6d 5h]
+Seat 1: Lootap (button) folded before Flop (didn't bet)
+Seat 2: asa sukhee (small blind) folded before Flop
+Seat 3: ollikahn23 (big blind) folded before Flop
+Seat 4: mirica91 folded before Flop (didn't bet)
+Seat 5: SergoSochi1 showed [5c 5s] and won (1115) with a full house, Fives full of Sixes
+Seat 6: alinutza790 showed [As Ad] and lost with two pair, Aces and Sixes
+
+
+
+PokerStars Hand #186247932814: Tournament #2301550441, 37 SC Hold'em No Limit - Level I (25/50) - 2018/05/10 17:23:35 CET [2018/05/10 11:23:35 ET]
+Table '2301550441 1' 6-max Seat #2 is the button
+Seat 1: Lootap (490 in chips) 
+Seat 2: asa sukhee (465 in chips) 
+Seat 3: ollikahn23 (440 in chips) 
+Seat 4: mirica91 (490 in chips) 
+Seat 5: SergoSochi1 (1115 in chips) 
+Lootap: posts the ante 10
+asa sukhee: posts the ante 10
+ollikahn23: posts the ante 10
+mirica91: posts the ante 10
+SergoSochi1: posts the ante 10
+ollikahn23: posts small blind 25
+mirica91: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2c As]
+SergoSochi1: calls 50
+Lootap: folds 
+asa sukhee: raises 161 to 211
+ollikahn23: folds 
+mirica91: folds 
+SergoSochi1: raises 894 to 1105 and is all-in
+asa sukhee: calls 244 and is all-in
+Uncalled bet (650) returned to SergoSochi1
+*** FLOP *** [Ah 9s Ac]
+*** TURN *** [Ah 9s Ac] [2s]
+*** RIVER *** [Ah 9s Ac 2s] [Ad]
+*** SHOW DOWN ***
+SergoSochi1: shows [3h 3d] (a full house, Aces full of Threes)
+asa sukhee: shows [Th Tc] (a full house, Aces full of Tens)
+asa sukhee collected 1035 from pot
+*** SUMMARY ***
+Total pot 1035 | Rake 0 
+Board [Ah 9s Ac 2s Ad]
+Seat 1: Lootap folded before Flop (didn't bet)
+Seat 2: asa sukhee (button) showed [Th Tc] and won (1035) with a full house, Aces full of Tens
+Seat 3: ollikahn23 (small blind) folded before Flop
+Seat 4: mirica91 (big blind) folded before Flop
+Seat 5: SergoSochi1 showed [3h 3d] and lost with a full house, Aces full of Threes
+
+
+
+PokerStars Hand #186247949170: Tournament #2301550441, 37 SC Hold'em No Limit - Level I (25/50) - 2018/05/10 17:24:03 CET [2018/05/10 11:24:03 ET]
+Table '2301550441 1' 6-max Seat #3 is the button
+Seat 1: Lootap (480 in chips) 
+Seat 2: asa sukhee (1035 in chips) 
+Seat 3: ollikahn23 (405 in chips) 
+Seat 4: mirica91 (430 in chips) 
+Seat 5: SergoSochi1 (650 in chips) 
+Lootap: posts the ante 10
+asa sukhee: posts the ante 10
+ollikahn23: posts the ante 10
+mirica91: posts the ante 10
+SergoSochi1: posts the ante 10
+mirica91: posts small blind 25
+SergoSochi1: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Js Ad]
+Lootap: folds 
+asa sukhee: folds 
+ollikahn23: raises 50 to 100
+mirica91: folds 
+SergoSochi1: raises 540 to 640 and is all-in
+ollikahn23: calls 295 and is all-in
+Uncalled bet (245) returned to SergoSochi1
+*** FLOP *** [7c 8h Ts]
+*** TURN *** [7c 8h Ts] [3c]
+*** RIVER *** [7c 8h Ts 3c] [4c]
+*** SHOW DOWN ***
+SergoSochi1: shows [5c 5s] (a pair of Fives)
+ollikahn23: shows [Js Ad] (high card Ace)
+SergoSochi1 collected 865 from pot
+ollikahn23 finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 865 | Rake 0 
+Board [7c 8h Ts 3c 4c]
+Seat 1: Lootap folded before Flop (didn't bet)
+Seat 2: asa sukhee folded before Flop (didn't bet)
+Seat 3: ollikahn23 (button) showed [Js Ad] and lost with high card Ace
+Seat 4: mirica91 (small blind) folded before Flop
+Seat 5: SergoSochi1 (big blind) showed [5c 5s] and won (865) with a pair of Fives
+
+
+

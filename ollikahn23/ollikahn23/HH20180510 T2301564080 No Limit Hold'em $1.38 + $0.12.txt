@@ -1,0 +1,1746 @@
+﻿PokerStars Hand #186248784480: Tournament #2301564080, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/10 17:47:22 CET [2018/05/10 11:47:22 ET]
+Table '2301564080 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1500 in chips) 
+Seat 2: mghpo (1500 in chips) 
+ollikahn23: posts small blind 10
+mghpo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kd 8h]
+ollikahn23: raises 20 to 40
+mghpo: calls 20
+*** FLOP *** [8s 4s 2h]
+mghpo: checks 
+ollikahn23: bets 60
+mghpo: calls 60
+*** TURN *** [8s 4s 2h] [Td]
+mghpo: bets 20
+ollikahn23: raises 70 to 90
+mghpo: calls 70
+*** RIVER *** [8s 4s 2h Td] [Ts]
+mghpo: bets 380
+ollikahn23: folds 
+Uncalled bet (380) returned to mghpo
+mghpo collected 380 from pot
+mghpo: doesn't show hand 
+*** SUMMARY ***
+Total pot 380 | Rake 0 
+Board [8s 4s 2h Td Ts]
+Seat 1: ollikahn23 (button) (small blind) folded on the River
+Seat 2: mghpo (big blind) collected (380)
+
+
+
+PokerStars Hand #186248813914: Tournament #2301564080, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/10 17:48:10 CET [2018/05/10 11:48:10 ET]
+Table '2301564080 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1310 in chips) 
+Seat 2: mghpo (1690 in chips) 
+mghpo: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2c 6c]
+mghpo: calls 10
+ollikahn23: checks 
+*** FLOP *** [8s 3s 2h]
+ollikahn23: checks 
+mghpo: checks 
+*** TURN *** [8s 3s 2h] [4h]
+ollikahn23: bets 30
+mghpo: calls 30
+*** RIVER *** [8s 3s 2h 4h] [Ts]
+ollikahn23: checks 
+mghpo: checks 
+*** SHOW DOWN ***
+ollikahn23: shows [2c 6c] (a pair of Deuces)
+mghpo: mucks hand 
+ollikahn23 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [8s 3s 2h 4h Ts]
+Seat 1: ollikahn23 (big blind) showed [2c 6c] and won (100) with a pair of Deuces
+Seat 2: mghpo (button) (small blind) mucked [Qd 5d]
+
+
+
+PokerStars Hand #186248826134: Tournament #2301564080, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/10 17:48:30 CET [2018/05/10 11:48:30 ET]
+Table '2301564080 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1360 in chips) 
+Seat 2: mghpo (1640 in chips) 
+ollikahn23: posts small blind 10
+mghpo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ad 8s]
+ollikahn23: raises 20 to 40
+mghpo: calls 20
+*** FLOP *** [7d Kh 7s]
+mghpo: checks 
+ollikahn23: bets 45
+mghpo: folds 
+Uncalled bet (45) returned to ollikahn23
+ollikahn23 collected 80 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [7d Kh 7s]
+Seat 1: ollikahn23 (button) (small blind) collected (80)
+Seat 2: mghpo (big blind) folded on the Flop
+
+
+
+PokerStars Hand #186248836213: Tournament #2301564080, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/10 17:48:46 CET [2018/05/10 11:48:46 ET]
+Table '2301564080 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1400 in chips) 
+Seat 2: mghpo (1600 in chips) 
+mghpo: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7s Jh]
+mghpo: calls 10
+ollikahn23: checks 
+*** FLOP *** [Js 9d 6h]
+ollikahn23: bets 30
+mghpo: calls 30
+*** TURN *** [Js 9d 6h] [Ts]
+ollikahn23: bets 55
+mghpo: calls 55
+*** RIVER *** [Js 9d 6h Ts] [Ks]
+ollikahn23: checks 
+mghpo: bets 210
+ollikahn23: calls 210
+*** SHOW DOWN ***
+mghpo: shows [8s 6s] (a flush, King high)
+ollikahn23: mucks hand 
+mghpo collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | Rake 0 
+Board [Js 9d 6h Ts Ks]
+Seat 1: ollikahn23 (big blind) mucked [7s Jh]
+Seat 2: mghpo (button) (small blind) showed [8s 6s] and won (630) with a flush, King high
+
+
+
+PokerStars Hand #186248851547: Tournament #2301564080, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/10 17:49:11 CET [2018/05/10 11:49:11 ET]
+Table '2301564080 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1085 in chips) 
+Seat 2: mghpo (1915 in chips) 
+ollikahn23: posts small blind 10
+mghpo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kd 6h]
+ollikahn23: raises 20 to 40
+mghpo: calls 20
+*** FLOP *** [2s Ah 5c]
+mghpo: checks 
+ollikahn23: bets 45
+mghpo: calls 45
+*** TURN *** [2s Ah 5c] [Qs]
+mghpo: checks 
+ollikahn23: checks 
+*** RIVER *** [2s Ah 5c Qs] [Jh]
+mghpo: bets 460
+ollikahn23: folds 
+Uncalled bet (460) returned to mghpo
+mghpo collected 170 from pot
+mghpo: doesn't show hand 
+*** SUMMARY ***
+Total pot 170 | Rake 0 
+Board [2s Ah 5c Qs Jh]
+Seat 1: ollikahn23 (button) (small blind) folded on the River
+Seat 2: mghpo (big blind) collected (170)
+
+
+
+PokerStars Hand #186248877362: Tournament #2301564080, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/10 17:49:53 CET [2018/05/10 11:49:53 ET]
+Table '2301564080 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1000 in chips) 
+Seat 2: mghpo (2000 in chips) 
+mghpo: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kd Ts]
+mghpo: calls 10
+ollikahn23: checks 
+*** FLOP *** [Qd Qs 3d]
+ollikahn23: checks 
+mghpo: checks 
+*** TURN *** [Qd Qs 3d] [5c]
+ollikahn23: bets 20
+mghpo: calls 20
+*** RIVER *** [Qd Qs 3d 5c] [7c]
+ollikahn23: checks 
+mghpo: checks 
+*** SHOW DOWN ***
+ollikahn23: shows [Kd Ts] (a pair of Queens)
+mghpo: shows [Js 3c] (two pair, Queens and Threes)
+mghpo collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Qd Qs 3d 5c 7c]
+Seat 1: ollikahn23 (big blind) showed [Kd Ts] and lost with a pair of Queens
+Seat 2: mghpo (button) (small blind) showed [Js 3c] and won (80) with two pair, Queens and Threes
+
+
+
+PokerStars Hand #186248888271: Tournament #2301564080, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/10 17:50:11 CET [2018/05/10 11:50:11 ET]
+Table '2301564080 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (960 in chips) 
+Seat 2: mghpo (2040 in chips) 
+ollikahn23: posts small blind 10
+mghpo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ac 8d]
+ollikahn23: raises 20 to 40
+mghpo: folds 
+Uncalled bet (20) returned to ollikahn23
+ollikahn23 collected 40 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) collected (40)
+Seat 2: mghpo (big blind) folded before Flop
+
+
+
+PokerStars Hand #186248892345: Tournament #2301564080, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/10 17:50:18 CET [2018/05/10 11:50:18 ET]
+Table '2301564080 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (980 in chips) 
+Seat 2: mghpo (2020 in chips) 
+mghpo: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ts 2s]
+mghpo: folds 
+Uncalled bet (10) returned to ollikahn23
+ollikahn23 collected 20 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: ollikahn23 (big blind) collected (20)
+Seat 2: mghpo (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #186248896367: Tournament #2301564080, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/10 17:50:24 CET [2018/05/10 11:50:24 ET]
+Table '2301564080 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (990 in chips) 
+Seat 2: mghpo (2010 in chips) 
+ollikahn23: posts small blind 10
+mghpo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8c Qd]
+ollikahn23: raises 20 to 40
+mghpo: calls 20
+*** FLOP *** [Kc Tc 9h]
+mghpo: checks 
+ollikahn23: checks 
+*** TURN *** [Kc Tc 9h] [2d]
+mghpo: checks 
+ollikahn23: bets 45
+mghpo: calls 45
+*** RIVER *** [Kc Tc 9h 2d] [7d]
+mghpo: checks 
+ollikahn23: checks 
+*** SHOW DOWN ***
+mghpo: shows [Ac 4s] (high card Ace)
+ollikahn23: mucks hand 
+mghpo collected 170 from pot
+*** SUMMARY ***
+Total pot 170 | Rake 0 
+Board [Kc Tc 9h 2d 7d]
+Seat 1: ollikahn23 (button) (small blind) mucked [8c Qd]
+Seat 2: mghpo (big blind) showed [Ac 4s] and won (170) with high card Ace
+
+
+
+PokerStars Hand #186248910007: Tournament #2301564080, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/10 17:50:47 CET [2018/05/10 11:50:47 ET]
+Table '2301564080 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (905 in chips) 
+Seat 2: mghpo (2095 in chips) 
+mghpo: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ac Ks]
+mghpo: calls 10
+ollikahn23: checks 
+*** FLOP *** [Jd Kh 4d]
+ollikahn23: checks 
+mghpo: checks 
+*** TURN *** [Jd Kh 4d] [9h]
+ollikahn23: bets 40
+mghpo: calls 40
+*** RIVER *** [Jd Kh 4d 9h] [7d]
+ollikahn23: bets 70
+mghpo: folds [Th 5h]
+Uncalled bet (70) returned to ollikahn23
+ollikahn23 collected 120 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Jd Kh 4d 9h 7d]
+Seat 1: ollikahn23 (big blind) collected (120)
+Seat 2: mghpo (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #186248925651: Tournament #2301564080, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/10 17:51:13 CET [2018/05/10 11:51:13 ET]
+Table '2301564080 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (965 in chips) 
+Seat 2: mghpo (2035 in chips) 
+ollikahn23: posts small blind 10
+mghpo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kh Qc]
+ollikahn23: raises 20 to 40
+mghpo: calls 20
+*** FLOP *** [Jc 9c 8d]
+mghpo: bets 80
+ollikahn23: calls 80
+*** TURN *** [Jc 9c 8d] [Qs]
+mghpo: checks 
+ollikahn23: checks 
+*** RIVER *** [Jc 9c 8d Qs] [3c]
+mghpo: checks 
+ollikahn23: bets 125
+mghpo: calls 125
+*** SHOW DOWN ***
+ollikahn23: shows [Kh Qc] (a pair of Queens)
+mghpo: mucks hand 
+ollikahn23 collected 490 from pot
+*** SUMMARY ***
+Total pot 490 | Rake 0 
+Board [Jc 9c 8d Qs 3c]
+Seat 1: ollikahn23 (button) (small blind) showed [Kh Qc] and won (490) with a pair of Queens
+Seat 2: mghpo (big blind) mucked [5d 9d]
+
+
+
+PokerStars Hand #186248942591: Tournament #2301564080, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/10 17:51:40 CET [2018/05/10 11:51:40 ET]
+Table '2301564080 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1210 in chips) 
+Seat 2: mghpo (1790 in chips) 
+mghpo: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qs Qh]
+mghpo: calls 10
+ollikahn23: checks 
+*** FLOP *** [2h 4d Ts]
+ollikahn23: checks 
+mghpo: checks 
+*** TURN *** [2h 4d Ts] [As]
+ollikahn23: bets 30
+mghpo: folds 
+Uncalled bet (30) returned to ollikahn23
+ollikahn23 collected 40 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [2h 4d Ts As]
+Seat 1: ollikahn23 (big blind) collected (40)
+Seat 2: mghpo (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #186248954751: Tournament #2301564080, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/10 17:52:00 CET [2018/05/10 11:52:00 ET]
+Table '2301564080 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1230 in chips) 
+Seat 2: mghpo (1770 in chips) 
+ollikahn23: posts small blind 10
+mghpo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9d 7s]
+ollikahn23: folds 
+Uncalled bet (10) returned to mghpo
+mghpo collected 20 from pot
+mghpo: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) folded before Flop
+Seat 2: mghpo (big blind) collected (20)
+
+
+
+PokerStars Hand #186248958196: Tournament #2301564080, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/10 17:52:06 CET [2018/05/10 11:52:06 ET]
+Table '2301564080 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1220 in chips) 
+Seat 2: mghpo (1780 in chips) 
+mghpo: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7s 3d]
+mghpo: calls 10
+ollikahn23: checks 
+*** FLOP *** [Ac Kd 3h]
+ollikahn23: checks 
+mghpo: checks 
+*** TURN *** [Ac Kd 3h] [6h]
+ollikahn23: checks 
+mghpo: bets 20
+ollikahn23: folds 
+Uncalled bet (20) returned to mghpo
+mghpo collected 40 from pot
+mghpo: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Ac Kd 3h 6h]
+Seat 1: ollikahn23 (big blind) folded on the Turn
+Seat 2: mghpo (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #186248969847: Tournament #2301564080, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/10 17:52:25 CET [2018/05/10 11:52:25 ET]
+Table '2301564080 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1200 in chips) 
+Seat 2: mghpo (1800 in chips) 
+ollikahn23: posts small blind 10
+mghpo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3h 9d]
+ollikahn23: folds 
+Uncalled bet (10) returned to mghpo
+mghpo collected 20 from pot
+mghpo: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) folded before Flop
+Seat 2: mghpo (big blind) collected (20)
+
+
+
+PokerStars Hand #186248973499: Tournament #2301564080, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/10 17:52:31 CET [2018/05/10 11:52:31 ET]
+Table '2301564080 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1190 in chips) 
+Seat 2: mghpo (1810 in chips) 
+mghpo: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4c Th]
+mghpo: calls 10
+ollikahn23: checks 
+*** FLOP *** [5c 6h 3d]
+ollikahn23: checks 
+mghpo: checks 
+*** TURN *** [5c 6h 3d] [7h]
+ollikahn23: bets 30
+mghpo: calls 30
+*** RIVER *** [5c 6h 3d 7h] [Jh]
+ollikahn23: bets 70
+mghpo: raises 70 to 140
+ollikahn23: calls 70
+*** SHOW DOWN ***
+mghpo: shows [Qs Js] (a pair of Jacks)
+ollikahn23: shows [4c Th] (a straight, Three to Seven)
+ollikahn23 collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | Rake 0 
+Board [5c 6h 3d 7h Jh]
+Seat 1: ollikahn23 (big blind) showed [4c Th] and won (380) with a straight, Three to Seven
+Seat 2: mghpo (button) (small blind) showed [Qs Js] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #186248985770: Tournament #2301564080, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/10 17:52:51 CET [2018/05/10 11:52:51 ET]
+Table '2301564080 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1380 in chips) 
+Seat 2: mghpo (1620 in chips) 
+ollikahn23: posts small blind 10
+mghpo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ad Th]
+ollikahn23: raises 20 to 40
+mghpo: folds 
+Uncalled bet (20) returned to ollikahn23
+ollikahn23 collected 40 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) collected (40)
+Seat 2: mghpo (big blind) folded before Flop
+
+
+
+PokerStars Hand #186248992453: Tournament #2301564080, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/10 17:53:02 CET [2018/05/10 11:53:02 ET]
+Table '2301564080 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1400 in chips) 
+Seat 2: mghpo (1600 in chips) 
+mghpo: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4s 8h]
+mghpo: folds 
+Uncalled bet (10) returned to ollikahn23
+ollikahn23 collected 20 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: ollikahn23 (big blind) collected (20)
+Seat 2: mghpo (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #186248995823: Tournament #2301564080, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/10 17:53:08 CET [2018/05/10 11:53:08 ET]
+Table '2301564080 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1410 in chips) 
+Seat 2: mghpo (1590 in chips) 
+ollikahn23: posts small blind 10
+mghpo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5h Kh]
+ollikahn23: raises 20 to 40
+mghpo: folds 
+Uncalled bet (20) returned to ollikahn23
+ollikahn23 collected 40 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) collected (40)
+Seat 2: mghpo (big blind) folded before Flop
+
+
+
+PokerStars Hand #186249000145: Tournament #2301564080, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/10 17:53:15 CET [2018/05/10 11:53:15 ET]
+Table '2301564080 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1430 in chips) 
+Seat 2: mghpo (1570 in chips) 
+mghpo: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7h 7d]
+mghpo: calls 10
+ollikahn23: checks 
+*** FLOP *** [8c 4c Ah]
+ollikahn23: checks 
+mghpo: checks 
+*** TURN *** [8c 4c Ah] [Ks]
+ollikahn23: checks 
+mghpo: bets 20
+ollikahn23: calls 20
+*** RIVER *** [8c 4c Ah Ks] [8d]
+ollikahn23: checks 
+mghpo: bets 80
+ollikahn23: calls 80
+*** SHOW DOWN ***
+mghpo: shows [Kc Tc] (two pair, Kings and Eights)
+ollikahn23: mucks hand 
+mghpo collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [8c 4c Ah Ks 8d]
+Seat 1: ollikahn23 (big blind) mucked [7h 7d]
+Seat 2: mghpo (button) (small blind) showed [Kc Tc] and won (240) with two pair, Kings and Eights
+
+
+
+PokerStars Hand #186249013674: Tournament #2301564080, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/10 17:53:37 CET [2018/05/10 11:53:37 ET]
+Table '2301564080 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1310 in chips) 
+Seat 2: mghpo (1690 in chips) 
+ollikahn23: posts small blind 15
+mghpo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5d As]
+ollikahn23: raises 30 to 60
+mghpo: calls 30
+*** FLOP *** [8s 4c 2s]
+mghpo: checks 
+ollikahn23: checks 
+*** TURN *** [8s 4c 2s] [Ad]
+mghpo: checks 
+ollikahn23: checks 
+*** RIVER *** [8s 4c 2s Ad] [7h]
+mghpo: checks 
+ollikahn23: bets 120
+mghpo: folds 
+Uncalled bet (120) returned to ollikahn23
+ollikahn23 collected 120 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [8s 4c 2s Ad 7h]
+Seat 1: ollikahn23 (button) (small blind) collected (120)
+Seat 2: mghpo (big blind) folded on the River
+
+
+
+PokerStars Hand #186249026215: Tournament #2301564080, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/10 17:53:58 CET [2018/05/10 11:53:58 ET]
+Table '2301564080 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1370 in chips) 
+Seat 2: mghpo (1630 in chips) 
+mghpo: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kh Jh]
+mghpo: calls 15
+ollikahn23: checks 
+*** FLOP *** [4h 4d Jd]
+ollikahn23: checks 
+mghpo: checks 
+*** TURN *** [4h 4d Jd] [Ts]
+ollikahn23: bets 60
+mghpo: folds 
+Uncalled bet (60) returned to ollikahn23
+ollikahn23 collected 60 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [4h 4d Jd Ts]
+Seat 1: ollikahn23 (big blind) collected (60)
+Seat 2: mghpo (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #186249035206: Tournament #2301564080, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/10 17:54:13 CET [2018/05/10 11:54:13 ET]
+Table '2301564080 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1400 in chips) 
+Seat 2: mghpo (1600 in chips) 
+ollikahn23: posts small blind 15
+mghpo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8d 4d]
+ollikahn23: folds 
+Uncalled bet (15) returned to mghpo
+mghpo collected 30 from pot
+mghpo: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) folded before Flop
+Seat 2: mghpo (big blind) collected (30)
+
+
+
+PokerStars Hand #186249038684: Tournament #2301564080, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/10 17:54:19 CET [2018/05/10 11:54:19 ET]
+Table '2301564080 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1385 in chips) 
+Seat 2: mghpo (1615 in chips) 
+mghpo: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9d Qs]
+mghpo: calls 15
+ollikahn23: checks 
+*** FLOP *** [9s 5c 3h]
+ollikahn23: checks 
+mghpo: checks 
+*** TURN *** [9s 5c 3h] [2c]
+ollikahn23: bets 60
+mghpo: calls 60
+*** RIVER *** [9s 5c 3h 2c] [6d]
+ollikahn23: checks 
+mghpo: bets 180
+ollikahn23: calls 180
+*** SHOW DOWN ***
+mghpo: shows [Jd 8c] (high card Jack)
+ollikahn23: shows [9d Qs] (a pair of Nines)
+ollikahn23 collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | Rake 0 
+Board [9s 5c 3h 2c 6d]
+Seat 1: ollikahn23 (big blind) showed [9d Qs] and won (540) with a pair of Nines
+Seat 2: mghpo (button) (small blind) showed [Jd 8c] and lost with high card Jack
+
+
+
+PokerStars Hand #186249055525: Tournament #2301564080, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/10 17:54:46 CET [2018/05/10 11:54:46 ET]
+Table '2301564080 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1655 in chips) 
+Seat 2: mghpo (1345 in chips) 
+ollikahn23: posts small blind 15
+mghpo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4s Kh]
+ollikahn23: raises 30 to 60
+mghpo: calls 30
+*** FLOP *** [Qh Ts 7h]
+mghpo: checks 
+ollikahn23: checks 
+*** TURN *** [Qh Ts 7h] [6s]
+mghpo: checks 
+ollikahn23: checks 
+*** RIVER *** [Qh Ts 7h 6s] [8d]
+mghpo: checks 
+ollikahn23: checks 
+*** SHOW DOWN ***
+mghpo: shows [Js 2d] (high card Queen)
+ollikahn23: shows [4s Kh] (high card King)
+ollikahn23 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Qh Ts 7h 6s 8d]
+Seat 1: ollikahn23 (button) (small blind) showed [4s Kh] and won (120) with high card King
+Seat 2: mghpo (big blind) showed [Js 2d] and lost with high card Queen
+
+
+
+PokerStars Hand #186249065092: Tournament #2301564080, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/10 17:55:02 CET [2018/05/10 11:55:02 ET]
+Table '2301564080 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1715 in chips) 
+Seat 2: mghpo (1285 in chips) 
+mghpo: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5c 4d]
+mghpo: calls 15
+ollikahn23: checks 
+*** FLOP *** [Qh 2h Kh]
+ollikahn23: checks 
+mghpo: checks 
+*** TURN *** [Qh 2h Kh] [5h]
+ollikahn23: bets 45
+mghpo: folds 
+Uncalled bet (45) returned to ollikahn23
+ollikahn23 collected 60 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Qh 2h Kh 5h]
+Seat 1: ollikahn23 (big blind) collected (60)
+Seat 2: mghpo (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #186249074443: Tournament #2301564080, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/10 17:55:20 CET [2018/05/10 11:55:20 ET]
+Table '2301564080 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1745 in chips) 
+Seat 2: mghpo (1255 in chips) 
+ollikahn23: posts small blind 15
+mghpo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jd Ah]
+ollikahn23: raises 30 to 60
+mghpo: calls 30
+*** FLOP *** [3d Kh 6h]
+mghpo: bets 30
+ollikahn23: calls 30
+*** TURN *** [3d Kh 6h] [Kd]
+mghpo: bets 180
+ollikahn23: folds 
+Uncalled bet (180) returned to mghpo
+mghpo collected 180 from pot
+mghpo: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [3d Kh 6h Kd]
+Seat 1: ollikahn23 (button) (small blind) folded on the Turn
+Seat 2: mghpo (big blind) collected (180)
+
+
+
+PokerStars Hand #186249084010: Tournament #2301564080, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/10 17:55:39 CET [2018/05/10 11:55:39 ET]
+Table '2301564080 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1655 in chips) 
+Seat 2: mghpo (1345 in chips) 
+mghpo: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8s Qh]
+mghpo: calls 15
+ollikahn23: checks 
+*** FLOP *** [9h 3c 6s]
+ollikahn23: checks 
+mghpo: checks 
+*** TURN *** [9h 3c 6s] [3h]
+ollikahn23: checks 
+mghpo: checks 
+*** RIVER *** [9h 3c 6s 3h] [8c]
+ollikahn23: bets 60
+mghpo: folds 
+Uncalled bet (60) returned to ollikahn23
+ollikahn23 collected 60 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [9h 3c 6s 3h 8c]
+Seat 1: ollikahn23 (big blind) collected (60)
+Seat 2: mghpo (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #186249094885: Tournament #2301564080, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/10 17:56:01 CET [2018/05/10 11:56:01 ET]
+Table '2301564080 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1685 in chips) 
+Seat 2: mghpo (1315 in chips) 
+ollikahn23: posts small blind 15
+mghpo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7c Th]
+ollikahn23: folds 
+Uncalled bet (15) returned to mghpo
+mghpo collected 30 from pot
+mghpo: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) folded before Flop
+Seat 2: mghpo (big blind) collected (30)
+
+
+
+PokerStars Hand #186249097530: Tournament #2301564080, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/10 17:56:06 CET [2018/05/10 11:56:06 ET]
+Table '2301564080 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1670 in chips) 
+Seat 2: mghpo (1330 in chips) 
+mghpo: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7d 9h]
+mghpo: calls 15
+ollikahn23: checks 
+*** FLOP *** [6s Tc Kc]
+ollikahn23: checks 
+mghpo: bets 30
+ollikahn23: folds 
+Uncalled bet (30) returned to mghpo
+mghpo collected 60 from pot
+mghpo: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [6s Tc Kc]
+Seat 1: ollikahn23 (big blind) folded on the Flop
+Seat 2: mghpo (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #186249103001: Tournament #2301564080, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/10 17:56:17 CET [2018/05/10 11:56:17 ET]
+Table '2301564080 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1640 in chips) 
+Seat 2: mghpo (1360 in chips) 
+ollikahn23: posts small blind 15
+mghpo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4c 3c]
+ollikahn23: folds 
+Uncalled bet (15) returned to mghpo
+mghpo collected 30 from pot
+mghpo: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) folded before Flop
+Seat 2: mghpo (big blind) collected (30)
+
+
+
+PokerStars Hand #186249105683: Tournament #2301564080, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/10 17:56:23 CET [2018/05/10 11:56:23 ET]
+Table '2301564080 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1625 in chips) 
+Seat 2: mghpo (1375 in chips) 
+mghpo: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5c 4d]
+mghpo: calls 15
+ollikahn23: checks 
+*** FLOP *** [Kc 7h Th]
+ollikahn23: checks 
+mghpo: checks 
+*** TURN *** [Kc 7h Th] [3d]
+ollikahn23: checks 
+mghpo: checks 
+*** RIVER *** [Kc 7h Th 3d] [6d]
+ollikahn23: bets 60
+mghpo: calls 60
+*** SHOW DOWN ***
+ollikahn23: shows [5c 4d] (a straight, Three to Seven)
+mghpo: mucks hand 
+ollikahn23 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Kc 7h Th 3d 6d]
+Seat 1: ollikahn23 (big blind) showed [5c 4d] and won (180) with a straight, Three to Seven
+Seat 2: mghpo (button) (small blind) mucked [Ac 9c]
+
+
+
+PokerStars Hand #186249114113: Tournament #2301564080, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/10 17:56:39 CET [2018/05/10 11:56:39 ET]
+Table '2301564080 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1715 in chips) 
+Seat 2: mghpo (1285 in chips) 
+ollikahn23: posts small blind 15
+mghpo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4d Ac]
+ollikahn23: raises 30 to 60
+mghpo: folds 
+Uncalled bet (30) returned to ollikahn23
+ollikahn23 collected 60 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) collected (60)
+Seat 2: mghpo (big blind) folded before Flop
+
+
+
+PokerStars Hand #186249118108: Tournament #2301564080, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/10 17:56:47 CET [2018/05/10 11:56:47 ET]
+Table '2301564080 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1745 in chips) 
+Seat 2: mghpo (1255 in chips) 
+mghpo: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5h 9d]
+mghpo: calls 15
+ollikahn23: checks 
+*** FLOP *** [4s 3s 2h]
+ollikahn23: checks 
+mghpo: checks 
+*** TURN *** [4s 3s 2h] [Tc]
+ollikahn23: bets 30
+mghpo: folds 
+Uncalled bet (30) returned to ollikahn23
+ollikahn23 collected 60 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [4s 3s 2h Tc]
+Seat 1: ollikahn23 (big blind) collected (60)
+Seat 2: mghpo (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #186249124461: Tournament #2301564080, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/10 17:57:00 CET [2018/05/10 11:57:00 ET]
+Table '2301564080 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1775 in chips) 
+Seat 2: mghpo (1225 in chips) 
+ollikahn23: posts small blind 15
+mghpo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jh Jc]
+ollikahn23: raises 30 to 60
+mghpo: folds 
+Uncalled bet (30) returned to ollikahn23
+ollikahn23 collected 60 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) collected (60)
+Seat 2: mghpo (big blind) folded before Flop
+
+
+
+PokerStars Hand #186249127680: Tournament #2301564080, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/10 17:57:13 CET [2018/05/10 11:57:13 ET]
+Table '2301564080 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1805 in chips) 
+Seat 2: mghpo (1195 in chips) 
+mghpo: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ah As]
+mghpo: folds 
+Uncalled bet (15) returned to ollikahn23
+ollikahn23 collected 30 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: ollikahn23 (big blind) collected (30)
+Seat 2: mghpo (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #186249132295: Tournament #2301564080, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/10 17:57:19 CET [2018/05/10 11:57:19 ET]
+Table '2301564080 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1820 in chips) 
+Seat 2: mghpo (1180 in chips) 
+ollikahn23: posts small blind 15
+mghpo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6h 5s]
+ollikahn23: folds 
+Uncalled bet (15) returned to mghpo
+mghpo collected 30 from pot
+mghpo: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) folded before Flop
+Seat 2: mghpo (big blind) collected (30)
+
+
+
+PokerStars Hand #186249134899: Tournament #2301564080, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/10 17:57:25 CET [2018/05/10 11:57:25 ET]
+Table '2301564080 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1805 in chips) 
+Seat 2: mghpo (1195 in chips) 
+mghpo: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6d 2s]
+mghpo: calls 15
+ollikahn23: checks 
+*** FLOP *** [6s Kd Kh]
+ollikahn23: checks 
+mghpo: checks 
+*** TURN *** [6s Kd Kh] [5d]
+ollikahn23: bets 45
+mghpo: calls 45
+*** RIVER *** [6s Kd Kh 5d] [4c]
+ollikahn23: bets 85
+mghpo: calls 85
+*** SHOW DOWN ***
+ollikahn23: shows [6d 2s] (two pair, Kings and Sixes)
+mghpo: mucks hand 
+ollikahn23 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [6s Kd Kh 5d 4c]
+Seat 1: ollikahn23 (big blind) showed [6d 2s] and won (320) with two pair, Kings and Sixes
+Seat 2: mghpo (button) (small blind) mucked [Ac 8h]
+
+
+
+PokerStars Hand #186249145836: Tournament #2301564080, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/10 17:57:47 CET [2018/05/10 11:57:47 ET]
+Table '2301564080 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1965 in chips) 
+Seat 2: mghpo (1035 in chips) 
+ollikahn23: posts small blind 15
+mghpo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ah Td]
+ollikahn23: raises 30 to 60
+mghpo: calls 30
+*** FLOP *** [7d 3s 5s]
+mghpo: bets 120
+ollikahn23: calls 120
+*** TURN *** [7d 3s 5s] [9c]
+mghpo: bets 30
+ollikahn23: calls 30
+*** RIVER *** [7d 3s 5s 9c] [Jc]
+mghpo: bets 30
+ollikahn23: calls 30
+*** SHOW DOWN ***
+mghpo: shows [8h 5c] (a pair of Fives)
+ollikahn23: mucks hand 
+mghpo collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [7d 3s 5s 9c Jc]
+Seat 1: ollikahn23 (button) (small blind) mucked [Ah Td]
+Seat 2: mghpo (big blind) showed [8h 5c] and won (480) with a pair of Fives
+
+
+
+PokerStars Hand #186249158000: Tournament #2301564080, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/10 17:58:11 CET [2018/05/10 11:58:11 ET]
+Table '2301564080 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1725 in chips) 
+Seat 2: mghpo (1275 in chips) 
+mghpo: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ad 7d]
+mghpo: calls 15
+ollikahn23: checks 
+*** FLOP *** [6h 6s Ac]
+ollikahn23: checks 
+mghpo: checks 
+*** TURN *** [6h 6s Ac] [8s]
+ollikahn23: bets 45
+mghpo: calls 45
+*** RIVER *** [6h 6s Ac 8s] [3d]
+ollikahn23: bets 85
+mghpo: folds [Qs 5s]
+Uncalled bet (85) returned to ollikahn23
+ollikahn23 collected 150 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [6h 6s Ac 8s 3d]
+Seat 1: ollikahn23 (big blind) collected (150)
+Seat 2: mghpo (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #186249169216: Tournament #2301564080, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/10 17:58:33 CET [2018/05/10 11:58:33 ET]
+Table '2301564080 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1800 in chips) 
+Seat 2: mghpo (1200 in chips) 
+ollikahn23: posts small blind 15
+mghpo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2d Jd]
+ollikahn23: raises 30 to 60
+mghpo: folds 
+Uncalled bet (30) returned to ollikahn23
+ollikahn23 collected 60 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) collected (60)
+Seat 2: mghpo (big blind) folded before Flop
+
+
+
+PokerStars Hand #186249172652: Tournament #2301564080, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/10 17:58:40 CET [2018/05/10 11:58:40 ET]
+Table '2301564080 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1830 in chips) 
+Seat 2: mghpo (1170 in chips) 
+mghpo: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qs 7d]
+mghpo: calls 15
+ollikahn23: checks 
+*** FLOP *** [7s 4h 9s]
+ollikahn23: checks 
+mghpo: checks 
+*** TURN *** [7s 4h 9s] [8c]
+ollikahn23: bets 45
+mghpo: calls 45
+*** RIVER *** [7s 4h 9s 8c] [Ts]
+ollikahn23: checks 
+mghpo: bets 150
+ollikahn23: folds 
+Uncalled bet (150) returned to mghpo
+mghpo collected 150 from pot
+mghpo: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [7s 4h 9s 8c Ts]
+Seat 1: ollikahn23 (big blind) folded on the River
+Seat 2: mghpo (button) (small blind) collected (150)
+
+
+
+PokerStars Hand #186249185032: Tournament #2301564080, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/10 17:59:05 CET [2018/05/10 11:59:05 ET]
+Table '2301564080 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1755 in chips) 
+Seat 2: mghpo (1245 in chips) 
+ollikahn23: posts small blind 15
+mghpo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6h 2h]
+ollikahn23: folds 
+Uncalled bet (15) returned to mghpo
+mghpo collected 30 from pot
+mghpo: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) folded before Flop
+Seat 2: mghpo (big blind) collected (30)
+
+
+
+PokerStars Hand #186249187701: Tournament #2301564080, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/10 17:59:10 CET [2018/05/10 11:59:10 ET]
+Table '2301564080 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1740 in chips) 
+Seat 2: mghpo (1260 in chips) 
+mghpo: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Tc 4c]
+mghpo: folds 
+Uncalled bet (15) returned to ollikahn23
+ollikahn23 collected 30 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: ollikahn23 (big blind) collected (30)
+Seat 2: mghpo (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #186249190466: Tournament #2301564080, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/10 17:59:16 CET [2018/05/10 11:59:16 ET]
+Table '2301564080 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1755 in chips) 
+Seat 2: mghpo (1245 in chips) 
+ollikahn23: posts small blind 15
+mghpo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3d Ah]
+ollikahn23: raises 30 to 60
+mghpo: calls 30
+*** FLOP *** [Ts 3h Tc]
+mghpo: checks 
+ollikahn23: bets 55
+mghpo: calls 55
+*** TURN *** [Ts 3h Tc] [2d]
+mghpo: checks 
+ollikahn23: bets 130
+mghpo: calls 130
+*** RIVER *** [Ts 3h Tc 2d] [8d]
+mghpo: checks 
+ollikahn23: checks 
+*** SHOW DOWN ***
+mghpo: shows [6d Kd] (a pair of Tens)
+ollikahn23: shows [3d Ah] (two pair, Tens and Threes)
+ollikahn23 collected 490 from pot
+*** SUMMARY ***
+Total pot 490 | Rake 0 
+Board [Ts 3h Tc 2d 8d]
+Seat 1: ollikahn23 (button) (small blind) showed [3d Ah] and won (490) with two pair, Tens and Threes
+Seat 2: mghpo (big blind) showed [6d Kd] and lost with a pair of Tens
+
+
+
+PokerStars Hand #186249202962: Tournament #2301564080, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/05/10 17:59:41 CET [2018/05/10 11:59:41 ET]
+Table '2301564080 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (2000 in chips) 
+Seat 2: mghpo (1000 in chips) 
+mghpo: posts small blind 20
+ollikahn23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4d 5d]
+mghpo: folds 
+Uncalled bet (20) returned to ollikahn23
+ollikahn23 collected 40 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ollikahn23 (big blind) collected (40)
+Seat 2: mghpo (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #186249205896: Tournament #2301564080, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/05/10 17:59:46 CET [2018/05/10 11:59:46 ET]
+Table '2301564080 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (2020 in chips) 
+Seat 2: mghpo (980 in chips) 
+ollikahn23: posts small blind 20
+mghpo: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Tc 8h]
+ollikahn23: folds 
+Uncalled bet (20) returned to mghpo
+mghpo collected 40 from pot
+mghpo: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) folded before Flop
+Seat 2: mghpo (big blind) collected (40)
+
+
+
+PokerStars Hand #186249208962: Tournament #2301564080, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/05/10 17:59:53 CET [2018/05/10 11:59:53 ET]
+Table '2301564080 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (2000 in chips) 
+Seat 2: mghpo (1000 in chips) 
+mghpo: posts small blind 20
+ollikahn23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2h 6c]
+mghpo: folds 
+Uncalled bet (20) returned to ollikahn23
+ollikahn23 collected 40 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ollikahn23 (big blind) collected (40)
+Seat 2: mghpo (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #186249211838: Tournament #2301564080, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/05/10 17:59:58 CET [2018/05/10 11:59:58 ET]
+Table '2301564080 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (2020 in chips) 
+Seat 2: mghpo (980 in chips) 
+ollikahn23: posts small blind 20
+mghpo: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4s 9s]
+ollikahn23: folds 
+Uncalled bet (20) returned to mghpo
+mghpo collected 40 from pot
+mghpo: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) folded before Flop
+Seat 2: mghpo (big blind) collected (40)
+
+
+
+PokerStars Hand #186249214541: Tournament #2301564080, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/05/10 18:00:03 CET [2018/05/10 12:00:03 ET]
+Table '2301564080 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (2000 in chips) 
+Seat 2: mghpo (1000 in chips) 
+mghpo: posts small blind 20
+ollikahn23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jd 2s]
+mghpo: calls 20
+ollikahn23: checks 
+*** FLOP *** [4d Tc 6h]
+ollikahn23: checks 
+mghpo: bets 40
+ollikahn23: folds 
+Uncalled bet (40) returned to mghpo
+mghpo collected 80 from pot
+mghpo: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [4d Tc 6h]
+Seat 1: ollikahn23 (big blind) folded on the Flop
+Seat 2: mghpo (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #186249220219: Tournament #2301564080, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/05/10 18:00:15 CET [2018/05/10 12:00:15 ET]
+Table '2301564080 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1960 in chips) 
+Seat 2: mghpo (1040 in chips) 
+ollikahn23: posts small blind 20
+mghpo: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Js Jh]
+ollikahn23: raises 40 to 80
+mghpo: folds 
+Uncalled bet (40) returned to ollikahn23
+ollikahn23 collected 80 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) collected (80)
+Seat 2: mghpo (big blind) folded before Flop
+
+
+
+PokerStars Hand #186249223384: Tournament #2301564080, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/05/10 18:00:21 CET [2018/05/10 12:00:21 ET]
+Table '2301564080 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (2000 in chips) 
+Seat 2: mghpo (1000 in chips) 
+mghpo: posts small blind 20
+ollikahn23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jc 6h]
+mghpo: raises 40 to 80
+ollikahn23: folds 
+Uncalled bet (40) returned to mghpo
+mghpo collected 80 from pot
+mghpo: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: ollikahn23 (big blind) folded before Flop
+Seat 2: mghpo (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #186249226697: Tournament #2301564080, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/05/10 18:00:27 CET [2018/05/10 12:00:27 ET]
+Table '2301564080 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1960 in chips) 
+Seat 2: mghpo (1040 in chips) 
+ollikahn23: posts small blind 20
+mghpo: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9d As]
+ollikahn23: raises 40 to 80
+mghpo: calls 40
+*** FLOP *** [Qs 6c 5c]
+mghpo: bets 40
+ollikahn23: raises 45 to 85
+mghpo: calls 45
+*** TURN *** [Qs 6c 5c] [7c]
+mghpo: bets 330
+ollikahn23: folds 
+Uncalled bet (330) returned to mghpo
+mghpo collected 330 from pot
+mghpo: doesn't show hand 
+*** SUMMARY ***
+Total pot 330 | Rake 0 
+Board [Qs 6c 5c 7c]
+Seat 1: ollikahn23 (button) (small blind) folded on the Turn
+Seat 2: mghpo (big blind) collected (330)
+
+
+
+PokerStars Hand #186249241017: Tournament #2301564080, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/05/10 18:00:54 CET [2018/05/10 12:00:54 ET]
+Table '2301564080 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1795 in chips) 
+Seat 2: mghpo (1205 in chips) 
+mghpo: posts small blind 20
+ollikahn23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ah 4h]
+mghpo: calls 20
+ollikahn23: checks 
+*** FLOP *** [Qd Ac Js]
+ollikahn23: checks 
+mghpo: bets 40
+ollikahn23: calls 40
+*** TURN *** [Qd Ac Js] [Jh]
+ollikahn23: checks 
+mghpo: bets 40
+ollikahn23: calls 40
+*** RIVER *** [Qd Ac Js Jh] [Jc]
+ollikahn23: bets 120
+mghpo: calls 120
+*** SHOW DOWN ***
+ollikahn23: shows [Ah 4h] (a full house, Jacks full of Aces)
+mghpo: mucks hand 
+ollikahn23 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [Qd Ac Js Jh Jc]
+Seat 1: ollikahn23 (big blind) showed [Ah 4h] and won (480) with a full house, Jacks full of Aces
+Seat 2: mghpo (button) (small blind) mucked [8d Qc]
+
+
+
+PokerStars Hand #186249254580: Tournament #2301564080, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/05/10 18:01:19 CET [2018/05/10 12:01:19 ET]
+Table '2301564080 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (2035 in chips) 
+Seat 2: mghpo (965 in chips) 
+ollikahn23: posts small blind 20
+mghpo: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ad 3s]
+ollikahn23: raises 40 to 80
+mghpo: folds 
+Uncalled bet (40) returned to ollikahn23
+ollikahn23 collected 80 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) collected (80)
+Seat 2: mghpo (big blind) folded before Flop
+
+
+
+PokerStars Hand #186249261106: Tournament #2301564080, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/05/10 18:01:30 CET [2018/05/10 12:01:30 ET]
+Table '2301564080 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (2075 in chips) 
+Seat 2: mghpo (925 in chips) 
+mghpo: posts small blind 20
+ollikahn23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ks Ah]
+mghpo: calls 20
+ollikahn23: raises 120 to 160
+mghpo: calls 120
+*** FLOP *** [5d Jc 9s]
+ollikahn23: bets 200
+mghpo: folds 
+Uncalled bet (200) returned to ollikahn23
+ollikahn23 collected 320 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [5d Jc 9s]
+Seat 1: ollikahn23 (big blind) collected (320)
+Seat 2: mghpo (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #186249271780: Tournament #2301564080, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/05/10 18:01:47 CET [2018/05/10 12:01:47 ET]
+Table '2301564080 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (2235 in chips) 
+Seat 2: mghpo (765 in chips) 
+ollikahn23: posts small blind 20
+mghpo: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5c Qc]
+ollikahn23: raises 40 to 80
+mghpo: calls 40
+*** FLOP *** [8d 4h Kc]
+mghpo: checks 
+ollikahn23: bets 75
+mghpo: folds 
+Uncalled bet (75) returned to ollikahn23
+ollikahn23 collected 160 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [8d 4h Kc]
+Seat 1: ollikahn23 (button) (small blind) collected (160)
+Seat 2: mghpo (big blind) folded on the Flop
+
+
+
+PokerStars Hand #186249281626: Tournament #2301564080, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/05/10 18:02:04 CET [2018/05/10 12:02:04 ET]
+Table '2301564080 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (2315 in chips) 
+Seat 2: mghpo (685 in chips) 
+mghpo: posts small blind 20
+ollikahn23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3c 4s]
+mghpo: folds 
+Uncalled bet (20) returned to ollikahn23
+ollikahn23 collected 40 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ollikahn23 (big blind) collected (40)
+Seat 2: mghpo (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #186249284998: Tournament #2301564080, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/05/10 18:02:10 CET [2018/05/10 12:02:10 ET]
+Table '2301564080 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (2335 in chips) 
+Seat 2: mghpo (665 in chips) 
+ollikahn23: posts small blind 20
+mghpo: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ad 7h]
+ollikahn23: raises 40 to 80
+mghpo: calls 40
+*** FLOP *** [2c 3d 2h]
+mghpo: bets 160
+ollikahn23: folds 
+Uncalled bet (160) returned to mghpo
+mghpo collected 160 from pot
+mghpo: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [2c 3d 2h]
+Seat 1: ollikahn23 (button) (small blind) folded on the Flop
+Seat 2: mghpo (big blind) collected (160)
+
+
+
+PokerStars Hand #186249293396: Tournament #2301564080, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/05/10 18:02:23 CET [2018/05/10 12:02:23 ET]
+Table '2301564080 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (2255 in chips) 
+Seat 2: mghpo (745 in chips) 
+mghpo: posts small blind 20
+ollikahn23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7d Ts]
+mghpo: raises 80 to 120
+ollikahn23: folds 
+Uncalled bet (80) returned to mghpo
+mghpo collected 80 from pot
+mghpo: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: ollikahn23 (big blind) folded before Flop
+Seat 2: mghpo (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #186249297939: Tournament #2301564080, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/05/10 18:02:30 CET [2018/05/10 12:02:30 ET]
+Table '2301564080 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (2215 in chips) 
+Seat 2: mghpo (785 in chips) 
+ollikahn23: posts small blind 20
+mghpo: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jd 7s]
+ollikahn23: folds 
+Uncalled bet (20) returned to mghpo
+mghpo collected 40 from pot
+mghpo: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) folded before Flop
+Seat 2: mghpo (big blind) collected (40)
+
+
+
+PokerStars Hand #186249303369: Tournament #2301564080, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/05/10 18:02:40 CET [2018/05/10 12:02:40 ET]
+Table '2301564080 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (2195 in chips) 
+Seat 2: mghpo (805 in chips) 
+mghpo: posts small blind 20
+ollikahn23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4s 6c]
+mghpo: raises 40 to 80
+ollikahn23: folds 
+Uncalled bet (40) returned to mghpo
+mghpo collected 80 from pot
+mghpo: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: ollikahn23 (big blind) folded before Flop
+Seat 2: mghpo (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #186249307596: Tournament #2301564080, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/05/10 18:02:47 CET [2018/05/10 12:02:47 ET]
+Table '2301564080 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (2155 in chips) 
+Seat 2: mghpo (845 in chips) 
+ollikahn23: posts small blind 20
+mghpo: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6c 5c]
+ollikahn23: raises 40 to 80
+mghpo: calls 40
+*** FLOP *** [2c 8s 5d]
+mghpo: bets 40
+ollikahn23: calls 40
+*** TURN *** [2c 8s 5d] [8h]
+mghpo: bets 40
+ollikahn23: raises 55 to 95
+mghpo: calls 55
+*** RIVER *** [2c 8s 5d 8h] [Qd]
+mghpo: bets 40
+ollikahn23: calls 40
+*** SHOW DOWN ***
+mghpo: shows [9d Jc] (a pair of Eights)
+ollikahn23: shows [6c 5c] (two pair, Eights and Fives)
+ollikahn23 collected 510 from pot
+*** SUMMARY ***
+Total pot 510 | Rake 0 
+Board [2c 8s 5d 8h Qd]
+Seat 1: ollikahn23 (button) (small blind) showed [6c 5c] and won (510) with two pair, Eights and Fives
+Seat 2: mghpo (big blind) showed [9d Jc] and lost with a pair of Eights
+
+
+
+PokerStars Hand #186249327002: Tournament #2301564080, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/05/10 18:03:18 CET [2018/05/10 12:03:18 ET]
+Table '2301564080 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (2410 in chips) 
+Seat 2: mghpo (590 in chips) 
+mghpo: posts small blind 20
+ollikahn23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7d 8c]
+mghpo: calls 20
+ollikahn23: checks 
+*** FLOP *** [4h 6d Qh]
+ollikahn23: checks 
+mghpo: bets 550 and is all-in
+ollikahn23: folds 
+Uncalled bet (550) returned to mghpo
+mghpo collected 80 from pot
+mghpo: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [4h 6d Qh]
+Seat 1: ollikahn23 (big blind) folded on the Flop
+Seat 2: mghpo (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #186249334201: Tournament #2301564080, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/05/10 18:03:30 CET [2018/05/10 12:03:30 ET]
+Table '2301564080 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (2370 in chips) 
+Seat 2: mghpo (630 in chips) 
+ollikahn23: posts small blind 20
+mghpo: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2h 6s]
+ollikahn23: folds 
+Uncalled bet (20) returned to mghpo
+mghpo collected 40 from pot
+mghpo: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) folded before Flop
+Seat 2: mghpo (big blind) collected (40)
+
+
+
+PokerStars Hand #186249337533: Tournament #2301564080, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/05/10 18:03:36 CET [2018/05/10 12:03:36 ET]
+Table '2301564080 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (2350 in chips) 
+Seat 2: mghpo (650 in chips) 
+mghpo: posts small blind 20
+ollikahn23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Tc 7d]
+mghpo: calls 20
+ollikahn23: checks 
+*** FLOP *** [Jd 9c Kc]
+ollikahn23: checks 
+mghpo: bets 610 and is all-in
+ollikahn23: folds 
+Uncalled bet (610) returned to mghpo
+mghpo collected 80 from pot
+mghpo: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Jd 9c Kc]
+Seat 1: ollikahn23 (big blind) folded on the Flop
+Seat 2: mghpo (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #186249344665: Tournament #2301564080, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/05/10 18:03:47 CET [2018/05/10 12:03:47 ET]
+Table '2301564080 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (2310 in chips) 
+Seat 2: mghpo (690 in chips) 
+ollikahn23: posts small blind 20
+mghpo: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kc 3c]
+ollikahn23: raises 40 to 80
+mghpo: calls 40
+*** FLOP *** [Ad Tc As]
+mghpo: checks 
+ollikahn23: checks 
+*** TURN *** [Ad Tc As] [Td]
+mghpo: checks 
+ollikahn23: bets 55
+mghpo: calls 55
+*** RIVER *** [Ad Tc As Td] [2s]
+mghpo: checks 
+ollikahn23: checks 
+*** SHOW DOWN ***
+mghpo: shows [Jh 5s] (two pair, Aces and Tens)
+ollikahn23: shows [Kc 3c] (two pair, Aces and Tens - King kicker)
+ollikahn23 collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | Rake 0 
+Board [Ad Tc As Td 2s]
+Seat 1: ollikahn23 (button) (small blind) showed [Kc 3c] and won (270) with two pair, Aces and Tens
+Seat 2: mghpo (big blind) showed [Jh 5s] and lost with two pair, Aces and Tens
+
+
+
+PokerStars Hand #186249359053: Tournament #2301564080, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/05/10 18:04:11 CET [2018/05/10 12:04:11 ET]
+Table '2301564080 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (2445 in chips) 
+Seat 2: mghpo (555 in chips) 
+mghpo: posts small blind 20
+ollikahn23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ah 6d]
+mghpo: folds 
+Uncalled bet (20) returned to ollikahn23
+ollikahn23 collected 40 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ollikahn23 (big blind) collected (40)
+Seat 2: mghpo (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #186249362501: Tournament #2301564080, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/05/10 18:04:16 CET [2018/05/10 12:04:16 ET]
+Table '2301564080 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (2465 in chips) 
+Seat 2: mghpo (535 in chips) 
+ollikahn23: posts small blind 20
+mghpo: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ac 6s]
+ollikahn23: raises 40 to 80
+mghpo: folds 
+Uncalled bet (40) returned to ollikahn23
+ollikahn23 collected 80 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) collected (80)
+Seat 2: mghpo (big blind) folded before Flop
+
+
+
+PokerStars Hand #186249366131: Tournament #2301564080, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/05/10 18:04:22 CET [2018/05/10 12:04:22 ET]
+Table '2301564080 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (2505 in chips) 
+Seat 2: mghpo (495 in chips) 
+mghpo: posts small blind 20
+ollikahn23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qd Ad]
+mghpo: calls 20
+ollikahn23: raises 120 to 160
+mghpo: calls 120
+*** FLOP *** [As 9c 7c]
+ollikahn23: bets 160
+mghpo: raises 175 to 335 and is all-in
+ollikahn23: calls 175
+*** TURN *** [As 9c 7c] [Td]
+*** RIVER *** [As 9c 7c Td] [5s]
+*** SHOW DOWN ***
+ollikahn23: shows [Qd Ad] (a pair of Aces)
+mghpo: shows [Ks 3h] (high card Ace)
+ollikahn23 collected 990 from pot
+mghpo finished the tournament in 2nd place
+ollikahn23 wins the tournament and receives $2.76 - congratulations!
+*** SUMMARY ***
+Total pot 990 | Rake 0 
+Board [As 9c 7c Td 5s]
+Seat 1: ollikahn23 (big blind) showed [Qd Ad] and won (990) with a pair of Aces
+Seat 2: mghpo (button) (small blind) showed [Ks 3h] and lost with high card Ace
+
+
+

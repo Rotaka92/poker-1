@@ -1,0 +1,2241 @@
+﻿PokerStars Hand #184036209092: Tournament #2243832673, $20+$2 USD Hold'em No Limit - Level VII (100/200) - 2018/03/18 15:24:40 ET
+Table '2243832673 59' 9-max Seat #1 is the button
+Seat 1: hoots19 (11700 in chips) 
+Seat 2: TNNT (11090 in chips) 
+Seat 3: ollikahn23 (10000 in chips) 
+Seat 4: DiazPoker1 (11514 in chips) 
+Seat 5: I AM COOKIE1 (15384 in chips) 
+Seat 6: antonioalan (8517 in chips) 
+Seat 7: cipri8988 (11126 in chips) 
+Seat 8: mangacii (9386 in chips) 
+Seat 9: chaboom21 (8652 in chips) 
+hoots19: posts the ante 20
+TNNT: posts the ante 20
+ollikahn23: posts the ante 20
+DiazPoker1: posts the ante 20
+I AM COOKIE1: posts the ante 20
+antonioalan: posts the ante 20
+cipri8988: posts the ante 20
+mangacii: posts the ante 20
+chaboom21: posts the ante 20
+TNNT: posts small blind 100
+ollikahn23: posts big blind 200
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6d 5h]
+DiazPoker1: folds 
+I AM COOKIE1: calls 200
+antonioalan: calls 200
+cipri8988: folds 
+mangacii: folds 
+chaboom21: folds 
+hoots19: folds 
+TNNT: calls 100
+ollikahn23: checks 
+*** FLOP *** [Kd 4s 9c]
+TNNT: checks 
+ollikahn23: checks 
+I AM COOKIE1: bets 490
+antonioalan: folds 
+TNNT: folds 
+ollikahn23: folds 
+Uncalled bet (490) returned to I AM COOKIE1
+I AM COOKIE1 collected 980 from pot
+*** SUMMARY ***
+Total pot 980 | Rake 0 
+Board [Kd 4s 9c]
+Seat 1: hoots19 (button) folded before Flop (didn't bet)
+Seat 2: TNNT (small blind) folded on the Flop
+Seat 3: ollikahn23 (big blind) folded on the Flop
+Seat 4: DiazPoker1 folded before Flop (didn't bet)
+Seat 5: I AM COOKIE1 collected (980)
+Seat 6: antonioalan folded on the Flop
+Seat 7: cipri8988 folded before Flop (didn't bet)
+Seat 8: mangacii folded before Flop (didn't bet)
+Seat 9: chaboom21 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184036299037: Tournament #2243832673, $20+$2 USD Hold'em No Limit - Level VII (100/200) - 2018/03/18 15:26:09 ET
+Table '2243832673 59' 9-max Seat #2 is the button
+Seat 1: hoots19 (11680 in chips) 
+Seat 2: TNNT (10870 in chips) 
+Seat 3: ollikahn23 (9780 in chips) 
+Seat 4: DiazPoker1 (11494 in chips) 
+Seat 5: I AM COOKIE1 (16144 in chips) 
+Seat 6: antonioalan (8297 in chips) 
+Seat 7: cipri8988 (11106 in chips) 
+Seat 8: mangacii (9366 in chips) 
+Seat 9: chaboom21 (8632 in chips) 
+hoots19: posts the ante 20
+TNNT: posts the ante 20
+ollikahn23: posts the ante 20
+DiazPoker1: posts the ante 20
+I AM COOKIE1: posts the ante 20
+antonioalan: posts the ante 20
+cipri8988: posts the ante 20
+mangacii: posts the ante 20
+chaboom21: posts the ante 20
+ollikahn23: posts small blind 100
+DiazPoker1: posts big blind 200
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8d 7c]
+I AM COOKIE1: calls 200
+antonioalan: folds 
+cipri8988: folds 
+mangacii: folds 
+chaboom21: raises 375 to 575
+hoots19: calls 575
+TNNT: folds 
+ollikahn23: folds 
+DiazPoker1: calls 375
+I AM COOKIE1: calls 375
+*** FLOP *** [4h 4d 2c]
+DiazPoker1: checks 
+I AM COOKIE1: checks 
+chaboom21: bets 1200
+hoots19: folds 
+DiazPoker1: folds 
+I AM COOKIE1: folds 
+Uncalled bet (1200) returned to chaboom21
+chaboom21 collected 2580 from pot
+chaboom21: doesn't show hand 
+*** SUMMARY ***
+Total pot 2580 | Rake 0 
+Board [4h 4d 2c]
+Seat 1: hoots19 folded on the Flop
+Seat 2: TNNT (button) folded before Flop (didn't bet)
+Seat 3: ollikahn23 (small blind) folded before Flop
+Seat 4: DiazPoker1 (big blind) folded on the Flop
+Seat 5: I AM COOKIE1 folded on the Flop
+Seat 6: antonioalan folded before Flop (didn't bet)
+Seat 7: cipri8988 folded before Flop (didn't bet)
+Seat 8: mangacii folded before Flop (didn't bet)
+Seat 9: chaboom21 collected (2580)
+
+
+
+PokerStars Hand #184036422052: Tournament #2243832673, $20+$2 USD Hold'em No Limit - Level VII (100/200) - 2018/03/18 15:28:12 ET
+Table '2243832673 59' 9-max Seat #3 is the button
+Seat 1: hoots19 (11085 in chips) 
+Seat 2: TNNT (10850 in chips) 
+Seat 3: ollikahn23 (9660 in chips) 
+Seat 4: DiazPoker1 (10899 in chips) 
+Seat 5: I AM COOKIE1 (15549 in chips) 
+Seat 6: antonioalan (8277 in chips) 
+Seat 7: cipri8988 (11086 in chips) 
+Seat 8: mangacii (9346 in chips) 
+Seat 9: chaboom21 (10617 in chips) 
+hoots19: posts the ante 20
+TNNT: posts the ante 20
+ollikahn23: posts the ante 20
+DiazPoker1: posts the ante 20
+I AM COOKIE1: posts the ante 20
+antonioalan: posts the ante 20
+cipri8988: posts the ante 20
+mangacii: posts the ante 20
+chaboom21: posts the ante 20
+DiazPoker1: posts small blind 100
+I AM COOKIE1: posts big blind 200
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3d Kc]
+antonioalan: folds 
+cipri8988: folds 
+mangacii: raises 300 to 500
+chaboom21: folds 
+hoots19: folds 
+TNNT: folds 
+ollikahn23: folds 
+DiazPoker1: calls 400
+I AM COOKIE1: calls 300
+*** FLOP *** [6s Qd 9s]
+DiazPoker1: checks 
+I AM COOKIE1: checks 
+mangacii: checks 
+*** TURN *** [6s Qd 9s] [6d]
+DiazPoker1: checks 
+I AM COOKIE1: checks 
+mangacii: bets 1042
+DiazPoker1: folds 
+I AM COOKIE1: folds 
+Uncalled bet (1042) returned to mangacii
+mangacii collected 1680 from pot
+*** SUMMARY ***
+Total pot 1680 | Rake 0 
+Board [6s Qd 9s 6d]
+Seat 1: hoots19 folded before Flop (didn't bet)
+Seat 2: TNNT folded before Flop (didn't bet)
+Seat 3: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 4: DiazPoker1 (small blind) folded on the Turn
+Seat 5: I AM COOKIE1 (big blind) folded on the Turn
+Seat 6: antonioalan folded before Flop (didn't bet)
+Seat 7: cipri8988 folded before Flop (didn't bet)
+Seat 8: mangacii collected (1680)
+Seat 9: chaboom21 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184036538946: Tournament #2243832673, $20+$2 USD Hold'em No Limit - Level VII (100/200) - 2018/03/18 15:30:10 ET
+Table '2243832673 59' 9-max Seat #4 is the button
+Seat 1: hoots19 (11065 in chips) 
+Seat 2: TNNT (10830 in chips) 
+Seat 3: ollikahn23 (9640 in chips) 
+Seat 4: DiazPoker1 (10379 in chips) 
+Seat 5: I AM COOKIE1 (15029 in chips) 
+Seat 6: antonioalan (8257 in chips) 
+Seat 7: cipri8988 (11066 in chips) 
+Seat 8: mangacii (10506 in chips) 
+Seat 9: chaboom21 (10597 in chips) 
+hoots19: posts the ante 20
+TNNT: posts the ante 20
+ollikahn23: posts the ante 20
+DiazPoker1: posts the ante 20
+I AM COOKIE1: posts the ante 20
+antonioalan: posts the ante 20
+cipri8988: posts the ante 20
+mangacii: posts the ante 20
+chaboom21: posts the ante 20
+I AM COOKIE1: posts small blind 100
+antonioalan: posts big blind 200
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7h Jc]
+cipri8988: folds 
+mangacii: folds 
+chaboom21: folds 
+hoots19: raises 240 to 440
+TNNT: calls 440
+ollikahn23: folds 
+DiazPoker1: folds 
+I AM COOKIE1: folds 
+antonioalan: calls 240
+*** FLOP *** [7c Ks 5c]
+antonioalan: checks 
+hoots19: bets 640
+TNNT: calls 640
+antonioalan: calls 640
+*** TURN *** [7c Ks 5c] [Qs]
+antonioalan: checks 
+hoots19: checks 
+TNNT: checks 
+*** RIVER *** [7c Ks 5c Qs] [9c]
+antonioalan: bets 1162
+hoots19: folds 
+TNNT: folds 
+Uncalled bet (1162) returned to antonioalan
+antonioalan collected 3520 from pot
+antonioalan: doesn't show hand 
+*** SUMMARY ***
+Total pot 3520 | Rake 0 
+Board [7c Ks 5c Qs 9c]
+Seat 1: hoots19 folded on the River
+Seat 2: TNNT folded on the River
+Seat 3: ollikahn23 folded before Flop (didn't bet)
+Seat 4: DiazPoker1 (button) folded before Flop (didn't bet)
+Seat 5: I AM COOKIE1 (small blind) folded before Flop
+Seat 6: antonioalan (big blind) collected (3520)
+Seat 7: cipri8988 folded before Flop (didn't bet)
+Seat 8: mangacii folded before Flop (didn't bet)
+Seat 9: chaboom21 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184036630279: Tournament #2243832673, $20+$2 USD Hold'em No Limit - Level VII (100/200) - 2018/03/18 15:31:42 ET
+Table '2243832673 59' 9-max Seat #5 is the button
+Seat 1: hoots19 (9965 in chips) 
+Seat 2: TNNT (9730 in chips) 
+Seat 3: ollikahn23 (9620 in chips) 
+Seat 4: DiazPoker1 (10359 in chips) 
+Seat 5: I AM COOKIE1 (14909 in chips) 
+Seat 6: antonioalan (10677 in chips) 
+Seat 7: cipri8988 (11046 in chips) 
+Seat 8: mangacii (10486 in chips) 
+Seat 9: chaboom21 (10577 in chips) 
+hoots19: posts the ante 20
+TNNT: posts the ante 20
+ollikahn23: posts the ante 20
+DiazPoker1: posts the ante 20
+I AM COOKIE1: posts the ante 20
+antonioalan: posts the ante 20
+cipri8988: posts the ante 20
+mangacii: posts the ante 20
+chaboom21: posts the ante 20
+antonioalan: posts small blind 100
+cipri8988: posts big blind 200
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kd Ks]
+mangacii: raises 270 to 470
+chaboom21: folds 
+hoots19: folds 
+TNNT: raises 867 to 1337
+ollikahn23: calls 1337
+DiazPoker1: folds 
+I AM COOKIE1: folds 
+antonioalan: raises 9320 to 10657 and is all-in
+cipri8988: folds 
+mangacii: folds 
+TNNT: calls 8373 and is all-in
+ollikahn23: folds 
+Uncalled bet (947) returned to antonioalan
+*** FLOP *** [5d Jc 5c]
+*** TURN *** [5d Jc 5c] [Jd]
+*** RIVER *** [5d Jc 5c Jd] [6c]
+*** SHOW DOWN ***
+antonioalan: shows [Kh Kc] (two pair, Kings and Jacks)
+TNNT: shows [Qs Qd] (two pair, Queens and Jacks)
+antonioalan collected 21607 from pot
+TNNT finished the tournament
+*** SUMMARY ***
+Total pot 21607 | Rake 0 
+Board [5d Jc 5c Jd 6c]
+Seat 1: hoots19 folded before Flop (didn't bet)
+Seat 2: TNNT showed [Qs Qd] and lost with two pair, Queens and Jacks
+Seat 3: ollikahn23 folded before Flop
+Seat 4: DiazPoker1 folded before Flop (didn't bet)
+Seat 5: I AM COOKIE1 (button) folded before Flop (didn't bet)
+Seat 6: antonioalan (small blind) showed [Kh Kc] and won (21607) with two pair, Kings and Jacks
+Seat 7: cipri8988 (big blind) folded before Flop
+Seat 8: mangacii folded before Flop
+Seat 9: chaboom21 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184036715630: Tournament #2243832673, $20+$2 USD Hold'em No Limit - Level VIII (125/250) - 2018/03/18 15:33:06 ET
+Table '2243832673 59' 9-max Seat #6 is the button
+Seat 1: hoots19 (9945 in chips) 
+Seat 3: ollikahn23 (8263 in chips) 
+Seat 4: DiazPoker1 (10339 in chips) 
+Seat 5: I AM COOKIE1 (14889 in chips) 
+Seat 6: antonioalan (22554 in chips) 
+Seat 7: cipri8988 (10826 in chips) 
+Seat 8: mangacii (9996 in chips) 
+Seat 9: chaboom21 (10557 in chips) 
+hoots19: posts the ante 25
+ollikahn23: posts the ante 25
+DiazPoker1: posts the ante 25
+I AM COOKIE1: posts the ante 25
+antonioalan: posts the ante 25
+cipri8988: posts the ante 25
+mangacii: posts the ante 25
+chaboom21: posts the ante 25
+cipri8988: posts small blind 125
+mangacii: posts big blind 250
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2d 4h]
+chaboom21: folds 
+hoots19: folds 
+ollikahn23: folds 
+DiazPoker1: raises 325 to 575
+I AM COOKIE1: calls 575
+antonioalan: raises 1175 to 1750
+cipri8988: folds 
+mangacii: folds 
+DiazPoker1: folds 
+I AM COOKIE1: calls 1175
+*** FLOP *** [8s 4d Ac]
+I AM COOKIE1: checks 
+antonioalan: bets 1535
+I AM COOKIE1: raises 11579 to 13114 and is all-in
+antonioalan: folds 
+Uncalled bet (11579) returned to I AM COOKIE1
+I AM COOKIE1 collected 7720 from pot
+*** SUMMARY ***
+Total pot 7720 | Rake 0 
+Board [8s 4d Ac]
+Seat 1: hoots19 folded before Flop (didn't bet)
+Seat 3: ollikahn23 folded before Flop (didn't bet)
+Seat 4: DiazPoker1 folded before Flop
+Seat 5: I AM COOKIE1 collected (7720)
+Seat 6: antonioalan (button) folded on the Flop
+Seat 7: cipri8988 (small blind) folded before Flop
+Seat 8: mangacii (big blind) folded before Flop
+Seat 9: chaboom21 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184036816088: Tournament #2243832673, $20+$2 USD Hold'em No Limit - Level VIII (125/250) - 2018/03/18 15:34:47 ET
+Table '2243832673 59' 9-max Seat #7 is the button
+Seat 1: hoots19 (9920 in chips) 
+Seat 2: JPeso41 (10000 in chips) 
+Seat 3: ollikahn23 (8238 in chips) 
+Seat 4: DiazPoker1 (9739 in chips) 
+Seat 5: I AM COOKIE1 (19299 in chips) 
+Seat 6: antonioalan (19244 in chips) 
+Seat 7: cipri8988 (10676 in chips) 
+Seat 8: mangacii (9721 in chips) 
+Seat 9: chaboom21 (10532 in chips) 
+hoots19: posts the ante 25
+JPeso41: posts the ante 25
+ollikahn23: posts the ante 25
+DiazPoker1: posts the ante 25
+I AM COOKIE1: posts the ante 25
+antonioalan: posts the ante 25
+cipri8988: posts the ante 25
+mangacii: posts the ante 25
+chaboom21: posts the ante 25
+mangacii: posts small blind 125
+chaboom21: posts big blind 250
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4c Js]
+hoots19: raises 320 to 570
+JPeso41: folds 
+ollikahn23: folds 
+DiazPoker1: folds 
+I AM COOKIE1: folds 
+antonioalan: calls 570
+cipri8988: calls 570
+mangacii: folds 
+chaboom21: calls 320
+*** FLOP *** [9h 5c 5h]
+chaboom21: checks 
+hoots19: checks 
+antonioalan: checks 
+cipri8988: bets 868
+chaboom21: folds 
+hoots19: folds 
+antonioalan: calls 868
+*** TURN *** [9h 5c 5h] [5d]
+antonioalan: checks 
+cipri8988: checks 
+*** RIVER *** [9h 5c 5h 5d] [7d]
+antonioalan: bets 961
+cipri8988: folds 
+Uncalled bet (961) returned to antonioalan
+antonioalan collected 4366 from pot
+antonioalan: doesn't show hand 
+*** SUMMARY ***
+Total pot 4366 | Rake 0 
+Board [9h 5c 5h 5d 7d]
+Seat 1: hoots19 folded on the Flop
+Seat 2: JPeso41 folded before Flop (didn't bet)
+Seat 3: ollikahn23 folded before Flop (didn't bet)
+Seat 4: DiazPoker1 folded before Flop (didn't bet)
+Seat 5: I AM COOKIE1 folded before Flop (didn't bet)
+Seat 6: antonioalan collected (4366)
+Seat 7: cipri8988 (button) folded on the River
+Seat 8: mangacii (small blind) folded before Flop
+Seat 9: chaboom21 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #184036931815: Tournament #2243832673, $20+$2 USD Hold'em No Limit - Level VIII (125/250) - 2018/03/18 15:36:42 ET
+Table '2243832673 59' 9-max Seat #8 is the button
+Seat 1: hoots19 (9325 in chips) 
+Seat 2: JPeso41 (9975 in chips) 
+Seat 3: ollikahn23 (8213 in chips) 
+Seat 4: DiazPoker1 (9714 in chips) 
+Seat 5: I AM COOKIE1 (19274 in chips) 
+Seat 6: antonioalan (22147 in chips) 
+Seat 7: cipri8988 (9213 in chips) 
+Seat 8: mangacii (9571 in chips) 
+Seat 9: chaboom21 (9937 in chips) 
+hoots19: posts the ante 25
+JPeso41: posts the ante 25
+ollikahn23: posts the ante 25
+DiazPoker1: posts the ante 25
+I AM COOKIE1: posts the ante 25
+antonioalan: posts the ante 25
+cipri8988: posts the ante 25
+mangacii: posts the ante 25
+chaboom21: posts the ante 25
+chaboom21: posts small blind 125
+hoots19: posts big blind 250
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ts 2s]
+JPeso41: raises 250 to 500
+ollikahn23: folds 
+DiazPoker1: folds 
+I AM COOKIE1: folds 
+antonioalan: folds 
+cipri8988: folds 
+mangacii: folds 
+chaboom21: folds 
+hoots19: folds 
+Uncalled bet (250) returned to JPeso41
+JPeso41 collected 850 from pot
+JPeso41: doesn't show hand 
+*** SUMMARY ***
+Total pot 850 | Rake 0 
+Seat 1: hoots19 (big blind) folded before Flop
+Seat 2: JPeso41 collected (850)
+Seat 3: ollikahn23 folded before Flop (didn't bet)
+Seat 4: DiazPoker1 folded before Flop (didn't bet)
+Seat 5: I AM COOKIE1 folded before Flop (didn't bet)
+Seat 6: antonioalan folded before Flop (didn't bet)
+Seat 7: cipri8988 folded before Flop (didn't bet)
+Seat 8: mangacii (button) folded before Flop (didn't bet)
+Seat 9: chaboom21 (small blind) folded before Flop
+
+
+
+PokerStars Hand #184036975836: Tournament #2243832673, $20+$2 USD Hold'em No Limit - Level VIII (125/250) - 2018/03/18 15:37:26 ET
+Table '2243832673 59' 9-max Seat #9 is the button
+Seat 1: hoots19 (9050 in chips) 
+Seat 2: JPeso41 (10550 in chips) 
+Seat 3: ollikahn23 (8188 in chips) 
+Seat 4: DiazPoker1 (9689 in chips) 
+Seat 5: I AM COOKIE1 (19249 in chips) 
+Seat 6: antonioalan (22122 in chips) 
+Seat 7: cipri8988 (9188 in chips) 
+Seat 8: mangacii (9546 in chips) 
+Seat 9: chaboom21 (9787 in chips) 
+hoots19: posts the ante 25
+JPeso41: posts the ante 25
+ollikahn23: posts the ante 25
+DiazPoker1: posts the ante 25
+I AM COOKIE1: posts the ante 25
+antonioalan: posts the ante 25
+cipri8988: posts the ante 25
+mangacii: posts the ante 25
+chaboom21: posts the ante 25
+hoots19: posts small blind 125
+JPeso41: posts big blind 250
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qc 7c]
+ollikahn23: folds 
+DiazPoker1: raises 325 to 575
+I AM COOKIE1: folds 
+antonioalan: folds 
+cipri8988: folds 
+mangacii: folds 
+chaboom21: folds 
+hoots19: folds 
+JPeso41: folds 
+Uncalled bet (325) returned to DiazPoker1
+DiazPoker1 collected 850 from pot
+DiazPoker1: doesn't show hand 
+*** SUMMARY ***
+Total pot 850 | Rake 0 
+Seat 1: hoots19 (small blind) folded before Flop
+Seat 2: JPeso41 (big blind) folded before Flop
+Seat 3: ollikahn23 folded before Flop (didn't bet)
+Seat 4: DiazPoker1 collected (850)
+Seat 5: I AM COOKIE1 folded before Flop (didn't bet)
+Seat 6: antonioalan folded before Flop (didn't bet)
+Seat 7: cipri8988 folded before Flop (didn't bet)
+Seat 8: mangacii folded before Flop (didn't bet)
+Seat 9: chaboom21 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184037004832: Tournament #2243832673, $20+$2 USD Hold'em No Limit - Level VIII (125/250) - 2018/03/18 15:37:55 ET
+Table '2243832673 59' 9-max Seat #1 is the button
+Seat 1: hoots19 (8900 in chips) 
+Seat 2: JPeso41 (10275 in chips) 
+Seat 3: ollikahn23 (8163 in chips) 
+Seat 4: DiazPoker1 (10264 in chips) 
+Seat 5: I AM COOKIE1 (19224 in chips) 
+Seat 6: antonioalan (22097 in chips) 
+Seat 7: cipri8988 (9163 in chips) 
+Seat 8: mangacii (9521 in chips) 
+Seat 9: chaboom21 (9762 in chips) 
+hoots19: posts the ante 25
+JPeso41: posts the ante 25
+ollikahn23: posts the ante 25
+DiazPoker1: posts the ante 25
+I AM COOKIE1: posts the ante 25
+antonioalan: posts the ante 25
+cipri8988: posts the ante 25
+mangacii: posts the ante 25
+chaboom21: posts the ante 25
+JPeso41: posts small blind 125
+ollikahn23: posts big blind 250
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2d 9d]
+DiazPoker1: folds 
+I AM COOKIE1: folds 
+antonioalan: folds 
+cipri8988: folds 
+mangacii: raises 272 to 522
+chaboom21: folds 
+hoots19: folds 
+JPeso41: folds 
+ollikahn23: folds 
+Uncalled bet (272) returned to mangacii
+mangacii collected 850 from pot
+*** SUMMARY ***
+Total pot 850 | Rake 0 
+Seat 1: hoots19 (button) folded before Flop (didn't bet)
+Seat 2: JPeso41 (small blind) folded before Flop
+Seat 3: ollikahn23 (big blind) folded before Flop
+Seat 4: DiazPoker1 folded before Flop (didn't bet)
+Seat 5: I AM COOKIE1 folded before Flop (didn't bet)
+Seat 6: antonioalan folded before Flop (didn't bet)
+Seat 7: cipri8988 folded before Flop (didn't bet)
+Seat 8: mangacii collected (850)
+Seat 9: chaboom21 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184037033336: Tournament #2243832673, $20+$2 USD Hold'em No Limit - Level VIII (125/250) - 2018/03/18 15:38:23 ET
+Table '2243832673 59' 9-max Seat #2 is the button
+Seat 1: hoots19 (8875 in chips) 
+Seat 2: JPeso41 (10125 in chips) 
+Seat 3: ollikahn23 (7888 in chips) 
+Seat 4: DiazPoker1 (10239 in chips) 
+Seat 5: I AM COOKIE1 (19199 in chips) 
+Seat 6: antonioalan (22072 in chips) 
+Seat 7: cipri8988 (9138 in chips) 
+Seat 8: mangacii (10096 in chips) 
+Seat 9: chaboom21 (9737 in chips) 
+hoots19: posts the ante 25
+JPeso41: posts the ante 25
+ollikahn23: posts the ante 25
+DiazPoker1: posts the ante 25
+I AM COOKIE1: posts the ante 25
+antonioalan: posts the ante 25
+cipri8988: posts the ante 25
+mangacii: posts the ante 25
+chaboom21: posts the ante 25
+ollikahn23: posts small blind 125
+DiazPoker1: posts big blind 250
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jh Tc]
+I AM COOKIE1: folds 
+antonioalan: folds 
+cipri8988: raises 292 to 542
+mangacii: folds 
+chaboom21: folds 
+hoots19: folds 
+JPeso41: folds 
+ollikahn23: folds 
+DiazPoker1: calls 292
+*** FLOP *** [6h 4h Kd]
+DiazPoker1: checks 
+cipri8988: bets 473
+DiazPoker1: raises 473 to 946
+cipri8988: folds 
+Uncalled bet (473) returned to DiazPoker1
+DiazPoker1 collected 2380 from pot
+DiazPoker1: doesn't show hand 
+*** SUMMARY ***
+Total pot 2380 | Rake 0 
+Board [6h 4h Kd]
+Seat 1: hoots19 folded before Flop (didn't bet)
+Seat 2: JPeso41 (button) folded before Flop (didn't bet)
+Seat 3: ollikahn23 (small blind) folded before Flop
+Seat 4: DiazPoker1 (big blind) collected (2380)
+Seat 5: I AM COOKIE1 folded before Flop (didn't bet)
+Seat 6: antonioalan folded before Flop (didn't bet)
+Seat 7: cipri8988 folded on the Flop
+Seat 8: mangacii folded before Flop (didn't bet)
+Seat 9: chaboom21 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184037117924: Tournament #2243832673, $20+$2 USD Hold'em No Limit - Level VIII (125/250) - 2018/03/18 15:39:47 ET
+Table '2243832673 59' 9-max Seat #3 is the button
+Seat 1: hoots19 (8850 in chips) 
+Seat 2: JPeso41 (10100 in chips) 
+Seat 3: ollikahn23 (7738 in chips) 
+Seat 4: DiazPoker1 (11579 in chips) 
+Seat 5: I AM COOKIE1 (19174 in chips) 
+Seat 6: antonioalan (22047 in chips) 
+Seat 7: cipri8988 (8098 in chips) 
+Seat 8: mangacii (10071 in chips) 
+Seat 9: chaboom21 (9712 in chips) 
+hoots19: posts the ante 25
+JPeso41: posts the ante 25
+ollikahn23: posts the ante 25
+DiazPoker1: posts the ante 25
+I AM COOKIE1: posts the ante 25
+antonioalan: posts the ante 25
+cipri8988: posts the ante 25
+mangacii: posts the ante 25
+chaboom21: posts the ante 25
+DiazPoker1: posts small blind 125
+I AM COOKIE1: posts big blind 250
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Tc 4d]
+antonioalan: folds 
+cipri8988: folds 
+mangacii: folds 
+chaboom21: folds 
+hoots19: raises 370 to 620
+JPeso41: folds 
+ollikahn23: folds 
+DiazPoker1: folds 
+I AM COOKIE1: folds 
+Uncalled bet (370) returned to hoots19
+hoots19 collected 850 from pot
+hoots19: doesn't show hand 
+*** SUMMARY ***
+Total pot 850 | Rake 0 
+Seat 1: hoots19 collected (850)
+Seat 2: JPeso41 folded before Flop (didn't bet)
+Seat 3: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 4: DiazPoker1 (small blind) folded before Flop
+Seat 5: I AM COOKIE1 (big blind) folded before Flop
+Seat 6: antonioalan folded before Flop (didn't bet)
+Seat 7: cipri8988 folded before Flop (didn't bet)
+Seat 8: mangacii folded before Flop (didn't bet)
+Seat 9: chaboom21 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184037152654: Tournament #2243832673, $20+$2 USD Hold'em No Limit - Level VIII (125/250) - 2018/03/18 15:40:22 ET
+Table '2243832673 59' 9-max Seat #4 is the button
+Seat 1: hoots19 (9425 in chips) 
+Seat 2: JPeso41 (10075 in chips) 
+Seat 3: ollikahn23 (7713 in chips) 
+Seat 4: DiazPoker1 (11429 in chips) 
+Seat 5: I AM COOKIE1 (18899 in chips) 
+Seat 6: antonioalan (22022 in chips) 
+Seat 7: cipri8988 (8073 in chips) 
+Seat 8: mangacii (10046 in chips) 
+Seat 9: chaboom21 (9687 in chips) 
+hoots19: posts the ante 25
+JPeso41: posts the ante 25
+ollikahn23: posts the ante 25
+DiazPoker1: posts the ante 25
+I AM COOKIE1: posts the ante 25
+antonioalan: posts the ante 25
+cipri8988: posts the ante 25
+mangacii: posts the ante 25
+chaboom21: posts the ante 25
+I AM COOKIE1: posts small blind 125
+antonioalan: posts big blind 250
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5c 7s]
+cipri8988: folds 
+mangacii: folds 
+chaboom21: raises 282 to 532
+hoots19: folds 
+JPeso41: folds 
+ollikahn23: calls 532
+DiazPoker1 has timed out
+DiazPoker1: folds 
+DiazPoker1 is sitting out
+I AM COOKIE1: calls 407
+antonioalan: folds 
+*** FLOP *** [Kc Ks 8h]
+I AM COOKIE1: checks 
+chaboom21: bets 891
+ollikahn23: folds 
+DiazPoker1 has returned
+I AM COOKIE1: folds 
+Uncalled bet (891) returned to chaboom21
+chaboom21 collected 2071 from pot
+chaboom21: doesn't show hand 
+*** SUMMARY ***
+Total pot 2071 | Rake 0 
+Board [Kc Ks 8h]
+Seat 1: hoots19 folded before Flop (didn't bet)
+Seat 2: JPeso41 folded before Flop (didn't bet)
+Seat 3: ollikahn23 folded on the Flop
+Seat 4: DiazPoker1 (button) folded before Flop (didn't bet)
+Seat 5: I AM COOKIE1 (small blind) folded on the Flop
+Seat 6: antonioalan (big blind) folded before Flop
+Seat 7: cipri8988 folded before Flop (didn't bet)
+Seat 8: mangacii folded before Flop (didn't bet)
+Seat 9: chaboom21 collected (2071)
+
+
+
+PokerStars Hand #184037315477: Tournament #2243832673, $20+$2 USD Hold'em No Limit - Level VIII (125/250) - 2018/03/18 15:43:06 ET
+Table '2243832673 59' 9-max Seat #5 is the button
+Seat 1: hoots19 (9400 in chips) 
+Seat 2: JPeso41 (10050 in chips) 
+Seat 3: ollikahn23 (7156 in chips) 
+Seat 4: DiazPoker1 (11404 in chips) 
+Seat 5: I AM COOKIE1 (18342 in chips) 
+Seat 6: antonioalan (21747 in chips) 
+Seat 7: cipri8988 (8048 in chips) 
+Seat 8: mangacii (10021 in chips) 
+Seat 9: chaboom21 (11201 in chips) 
+hoots19: posts the ante 25
+JPeso41: posts the ante 25
+ollikahn23: posts the ante 25
+DiazPoker1: posts the ante 25
+I AM COOKIE1: posts the ante 25
+antonioalan: posts the ante 25
+cipri8988: posts the ante 25
+mangacii: posts the ante 25
+chaboom21: posts the ante 25
+antonioalan: posts small blind 125
+cipri8988: posts big blind 250
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9d 9c]
+mangacii: folds 
+chaboom21: folds 
+hoots19: folds 
+JPeso41: folds 
+ollikahn23: raises 281 to 531
+DiazPoker1: folds 
+I AM COOKIE1: folds 
+antonioalan: raises 1219 to 1750
+cipri8988: folds 
+ollikahn23: calls 1219
+*** FLOP *** [3h 3c 8s]
+antonioalan: bets 1749
+ollikahn23: raises 3632 to 5381 and is all-in
+antonioalan: calls 3632
+*** TURN *** [3h 3c 8s] [8h]
+*** RIVER *** [3h 3c 8s 8h] [Kc]
+*** SHOW DOWN ***
+antonioalan: shows [2h As] (two pair, Eights and Threes)
+ollikahn23: shows [9d 9c] (two pair, Nines and Eights)
+ollikahn23 collected 14737 from pot
+*** SUMMARY ***
+Total pot 14737 | Rake 0 
+Board [3h 3c 8s 8h Kc]
+Seat 1: hoots19 folded before Flop (didn't bet)
+Seat 2: JPeso41 folded before Flop (didn't bet)
+Seat 3: ollikahn23 showed [9d 9c] and won (14737) with two pair, Nines and Eights
+Seat 4: DiazPoker1 folded before Flop (didn't bet)
+Seat 5: I AM COOKIE1 (button) folded before Flop (didn't bet)
+Seat 6: antonioalan (small blind) showed [2h As] and lost with two pair, Eights and Threes
+Seat 7: cipri8988 (big blind) folded before Flop
+Seat 8: mangacii folded before Flop (didn't bet)
+Seat 9: chaboom21 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184037403165: Tournament #2243832673, $20+$2 USD Hold'em No Limit - Level IX (150/300) - 2018/03/18 15:44:33 ET
+Table '2243832673 59' 9-max Seat #6 is the button
+Seat 1: hoots19 (9375 in chips) 
+Seat 2: JPeso41 (10025 in chips) 
+Seat 3: ollikahn23 (14737 in chips) 
+Seat 4: DiazPoker1 (11379 in chips) 
+Seat 5: I AM COOKIE1 (18317 in chips) 
+Seat 6: antonioalan (14591 in chips) 
+Seat 7: cipri8988 (7773 in chips) 
+Seat 8: mangacii (9996 in chips) 
+Seat 9: chaboom21 (11176 in chips) 
+hoots19: posts the ante 30
+JPeso41: posts the ante 30
+ollikahn23: posts the ante 30
+DiazPoker1: posts the ante 30
+I AM COOKIE1: posts the ante 30
+antonioalan: posts the ante 30
+cipri8988: posts the ante 30
+mangacii: posts the ante 30
+chaboom21: posts the ante 30
+cipri8988: posts small blind 150
+mangacii: posts big blind 300
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2h Kh]
+chaboom21: folds 
+hoots19: raises 480 to 780
+JPeso41: folds 
+ollikahn23: folds 
+DiazPoker1: folds 
+I AM COOKIE1: folds 
+antonioalan: folds 
+cipri8988: folds 
+mangacii: folds 
+Uncalled bet (480) returned to hoots19
+hoots19 collected 1020 from pot
+hoots19: doesn't show hand 
+*** SUMMARY ***
+Total pot 1020 | Rake 0 
+Seat 1: hoots19 collected (1020)
+Seat 2: JPeso41 folded before Flop (didn't bet)
+Seat 3: ollikahn23 folded before Flop (didn't bet)
+Seat 4: DiazPoker1 folded before Flop (didn't bet)
+Seat 5: I AM COOKIE1 folded before Flop (didn't bet)
+Seat 6: antonioalan (button) folded before Flop (didn't bet)
+Seat 7: cipri8988 (small blind) folded before Flop
+Seat 8: mangacii (big blind) folded before Flop
+Seat 9: chaboom21 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184037442891: Tournament #2243832673, $20+$2 USD Hold'em No Limit - Level IX (150/300) - 2018/03/18 15:45:13 ET
+Table '2243832673 59' 9-max Seat #7 is the button
+Seat 1: hoots19 (10065 in chips) 
+Seat 2: JPeso41 (9995 in chips) 
+Seat 3: ollikahn23 (14707 in chips) 
+Seat 4: DiazPoker1 (11349 in chips) 
+Seat 5: I AM COOKIE1 (18287 in chips) 
+Seat 6: antonioalan (14561 in chips) 
+Seat 7: cipri8988 (7593 in chips) 
+Seat 8: mangacii (9666 in chips) 
+Seat 9: chaboom21 (11146 in chips) 
+hoots19: posts the ante 30
+JPeso41: posts the ante 30
+ollikahn23: posts the ante 30
+DiazPoker1: posts the ante 30
+I AM COOKIE1: posts the ante 30
+antonioalan: posts the ante 30
+cipri8988: posts the ante 30
+mangacii: posts the ante 30
+chaboom21: posts the ante 30
+mangacii: posts small blind 150
+chaboom21: posts big blind 300
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2h 4c]
+hoots19: folds 
+JPeso41: folds 
+ollikahn23: folds 
+DiazPoker1: folds 
+I AM COOKIE1: folds 
+antonioalan: folds 
+cipri8988: raises 300 to 600
+mangacii: raises 1200 to 1800
+chaboom21: folds 
+cipri8988: folds 
+Uncalled bet (1200) returned to mangacii
+mangacii collected 1770 from pot
+*** SUMMARY ***
+Total pot 1770 | Rake 0 
+Seat 1: hoots19 folded before Flop (didn't bet)
+Seat 2: JPeso41 folded before Flop (didn't bet)
+Seat 3: ollikahn23 folded before Flop (didn't bet)
+Seat 4: DiazPoker1 folded before Flop (didn't bet)
+Seat 5: I AM COOKIE1 folded before Flop (didn't bet)
+Seat 6: antonioalan folded before Flop (didn't bet)
+Seat 7: cipri8988 (button) folded before Flop
+Seat 8: mangacii (small blind) collected (1770)
+Seat 9: chaboom21 (big blind) folded before Flop
+
+
+
+PokerStars Hand #184037488603: Tournament #2243832673, $20+$2 USD Hold'em No Limit - Level IX (150/300) - 2018/03/18 15:46:00 ET
+Table '2243832673 59' 9-max Seat #8 is the button
+Seat 1: hoots19 (10035 in chips) 
+Seat 2: JPeso41 (9965 in chips) 
+Seat 3: ollikahn23 (14677 in chips) 
+Seat 4: DiazPoker1 (11319 in chips) 
+Seat 5: I AM COOKIE1 (18257 in chips) 
+Seat 6: antonioalan (14531 in chips) 
+Seat 7: cipri8988 (6963 in chips) 
+Seat 8: mangacii (10806 in chips) 
+Seat 9: chaboom21 (10816 in chips) 
+hoots19: posts the ante 30
+JPeso41: posts the ante 30
+ollikahn23: posts the ante 30
+DiazPoker1: posts the ante 30
+I AM COOKIE1: posts the ante 30
+antonioalan: posts the ante 30
+cipri8988: posts the ante 30
+mangacii: posts the ante 30
+chaboom21: posts the ante 30
+chaboom21: posts small blind 150
+hoots19: posts big blind 300
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6d 2s]
+JPeso41: raises 300 to 600
+ollikahn23: folds 
+DiazPoker1: folds 
+I AM COOKIE1: folds 
+antonioalan: folds 
+cipri8988: folds 
+mangacii: folds 
+chaboom21: folds 
+hoots19: calls 300
+*** FLOP *** [8h 3c 2h]
+hoots19: checks 
+JPeso41: bets 900
+hoots19: folds 
+Uncalled bet (900) returned to JPeso41
+JPeso41 collected 1620 from pot
+JPeso41: doesn't show hand 
+*** SUMMARY ***
+Total pot 1620 | Rake 0 
+Board [8h 3c 2h]
+Seat 1: hoots19 (big blind) folded on the Flop
+Seat 2: JPeso41 collected (1620)
+Seat 3: ollikahn23 folded before Flop (didn't bet)
+Seat 4: DiazPoker1 folded before Flop (didn't bet)
+Seat 5: I AM COOKIE1 folded before Flop (didn't bet)
+Seat 6: antonioalan folded before Flop (didn't bet)
+Seat 7: cipri8988 folded before Flop (didn't bet)
+Seat 8: mangacii (button) folded before Flop (didn't bet)
+Seat 9: chaboom21 (small blind) folded before Flop
+
+
+
+PokerStars Hand #184037564193: Tournament #2243832673, $20+$2 USD Hold'em No Limit - Level IX (150/300) - 2018/03/18 15:47:16 ET
+Table '2243832673 59' 9-max Seat #9 is the button
+Seat 1: hoots19 (9405 in chips) 
+Seat 2: JPeso41 (10955 in chips) 
+Seat 3: ollikahn23 (14647 in chips) 
+Seat 4: DiazPoker1 (11289 in chips) 
+Seat 5: I AM COOKIE1 (18227 in chips) 
+Seat 6: antonioalan (14501 in chips) 
+Seat 7: cipri8988 (6933 in chips) 
+Seat 8: mangacii (10776 in chips) 
+Seat 9: chaboom21 (10636 in chips) 
+hoots19: posts the ante 30
+JPeso41: posts the ante 30
+ollikahn23: posts the ante 30
+DiazPoker1: posts the ante 30
+I AM COOKIE1: posts the ante 30
+antonioalan: posts the ante 30
+cipri8988: posts the ante 30
+mangacii: posts the ante 30
+chaboom21: posts the ante 30
+hoots19: posts small blind 150
+JPeso41: posts big blind 300
+*** HOLE CARDS ***
+Dealt to ollikahn23 [As 3c]
+ollikahn23: folds 
+DiazPoker1: raises 390 to 690
+I AM COOKIE1: folds 
+antonioalan: folds 
+cipri8988: folds 
+mangacii: calls 690
+chaboom21: folds 
+hoots19: folds 
+JPeso41: calls 390
+*** FLOP *** [5d 8c 5s]
+JPeso41: checks 
+DiazPoker1: checks 
+mangacii: bets 750
+JPeso41: folds 
+DiazPoker1: folds 
+Uncalled bet (750) returned to mangacii
+mangacii collected 2490 from pot
+*** SUMMARY ***
+Total pot 2490 | Rake 0 
+Board [5d 8c 5s]
+Seat 1: hoots19 (small blind) folded before Flop
+Seat 2: JPeso41 (big blind) folded on the Flop
+Seat 3: ollikahn23 folded before Flop (didn't bet)
+Seat 4: DiazPoker1 folded on the Flop
+Seat 5: I AM COOKIE1 folded before Flop (didn't bet)
+Seat 6: antonioalan folded before Flop (didn't bet)
+Seat 7: cipri8988 folded before Flop (didn't bet)
+Seat 8: mangacii collected (2490)
+Seat 9: chaboom21 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184037614612: Tournament #2243832673, $20+$2 USD Hold'em No Limit - Level IX (150/300) - 2018/03/18 15:48:07 ET
+Table '2243832673 59' 9-max Seat #1 is the button
+Seat 1: hoots19 (9225 in chips) 
+Seat 2: JPeso41 (10235 in chips) 
+Seat 3: ollikahn23 (14617 in chips) 
+Seat 4: DiazPoker1 (10569 in chips) 
+Seat 5: I AM COOKIE1 (18197 in chips) 
+Seat 6: antonioalan (14471 in chips) 
+Seat 7: cipri8988 (6903 in chips) 
+Seat 8: mangacii (12546 in chips) 
+Seat 9: chaboom21 (10606 in chips) 
+hoots19: posts the ante 30
+JPeso41: posts the ante 30
+ollikahn23: posts the ante 30
+DiazPoker1: posts the ante 30
+I AM COOKIE1: posts the ante 30
+antonioalan: posts the ante 30
+cipri8988: posts the ante 30
+mangacii: posts the ante 30
+chaboom21: posts the ante 30
+JPeso41: posts small blind 150
+ollikahn23: posts big blind 300
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5s 3d]
+DiazPoker1: raises 300 to 600
+I AM COOKIE1: folds 
+antonioalan: folds 
+cipri8988: folds 
+mangacii: folds 
+chaboom21: folds 
+hoots19: folds 
+JPeso41: calls 450
+ollikahn23: folds 
+*** FLOP *** [2s Ad 3s]
+JPeso41: bets 500
+DiazPoker1: calls 500
+*** TURN *** [2s Ad 3s] [Kd]
+JPeso41: bets 1212
+DiazPoker1: calls 1212
+*** RIVER *** [2s Ad 3s Kd] [Qh]
+JPeso41: checks 
+DiazPoker1: bets 8227 and is all-in
+JPeso41: calls 7893 and is all-in
+Uncalled bet (334) returned to DiazPoker1
+*** SHOW DOWN ***
+DiazPoker1: shows [Ts Js] (a straight, Ten to Ace)
+JPeso41: shows [Ah Ks] (two pair, Aces and Kings)
+DiazPoker1 collected 20980 from pot
+JPeso41 finished the tournament
+*** SUMMARY ***
+Total pot 20980 | Rake 0 
+Board [2s Ad 3s Kd Qh]
+Seat 1: hoots19 (button) folded before Flop (didn't bet)
+Seat 2: JPeso41 (small blind) showed [Ah Ks] and lost with two pair, Aces and Kings
+Seat 3: ollikahn23 (big blind) folded before Flop
+Seat 4: DiazPoker1 showed [Ts Js] and won (20980) with a straight, Ten to Ace
+Seat 5: I AM COOKIE1 folded before Flop (didn't bet)
+Seat 6: antonioalan folded before Flop (didn't bet)
+Seat 7: cipri8988 folded before Flop (didn't bet)
+Seat 8: mangacii folded before Flop (didn't bet)
+Seat 9: chaboom21 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184037687165: Tournament #2243832673, $20+$2 USD Hold'em No Limit - Level IX (150/300) - 2018/03/18 15:49:21 ET
+Table '2243832673 59' 9-max Seat #3 is the button
+Seat 1: hoots19 (9195 in chips) 
+Seat 3: ollikahn23 (14287 in chips) 
+Seat 4: DiazPoker1 (21314 in chips) 
+Seat 5: I AM COOKIE1 (18167 in chips) 
+Seat 6: antonioalan (14441 in chips) 
+Seat 7: cipri8988 (6873 in chips) 
+Seat 8: mangacii (12516 in chips) 
+Seat 9: chaboom21 (10576 in chips) 
+hoots19: posts the ante 30
+ollikahn23: posts the ante 30
+DiazPoker1: posts the ante 30
+I AM COOKIE1: posts the ante 30
+antonioalan: posts the ante 30
+cipri8988: posts the ante 30
+mangacii: posts the ante 30
+chaboom21: posts the ante 30
+DiazPoker1: posts small blind 150
+I AM COOKIE1: posts big blind 300
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7h 5h]
+antonioalan: raises 300 to 600
+cipri8988: folds 
+mangacii: folds 
+chaboom21: calls 600
+hoots19: folds 
+ollikahn23: calls 600
+DiazPoker1: folds 
+I AM COOKIE1: calls 300
+*** FLOP *** [4s 9c Qh]
+I AM COOKIE1: checks 
+antonioalan: bets 1535
+chaboom21: calls 1535
+ollikahn23: folds 
+I AM COOKIE1: folds 
+*** TURN *** [4s 9c Qh] [Ac]
+antonioalan: checks 
+chaboom21: bets 1500
+antonioalan: calls 1500
+*** RIVER *** [4s 9c Qh Ac] [3s]
+antonioalan: bets 10776 and is all-in
+chaboom21: calls 6911 and is all-in
+Uncalled bet (3865) returned to antonioalan
+*** SHOW DOWN ***
+antonioalan: shows [Ah As] (three of a kind, Aces)
+chaboom21: shows [9h 9d] (three of a kind, Nines)
+antonioalan collected 22682 from pot
+chaboom21 finished the tournament
+*** SUMMARY ***
+Total pot 22682 | Rake 0 
+Board [4s 9c Qh Ac 3s]
+Seat 1: hoots19 folded before Flop (didn't bet)
+Seat 3: ollikahn23 (button) folded on the Flop
+Seat 4: DiazPoker1 (small blind) folded before Flop
+Seat 5: I AM COOKIE1 (big blind) folded on the Flop
+Seat 6: antonioalan showed [Ah As] and won (22682) with three of a kind, Aces
+Seat 7: cipri8988 folded before Flop (didn't bet)
+Seat 8: mangacii folded before Flop (didn't bet)
+Seat 9: chaboom21 showed [9h 9d] and lost with three of a kind, Nines
+
+
+
+PokerStars Hand #184037776359: Tournament #2243832673, $20+$2 USD Hold'em No Limit - Level IX (150/300) - 2018/03/18 15:50:53 ET
+Table '2243832673 59' 9-max Seat #4 is the button
+Seat 1: hoots19 (9165 in chips) 
+Seat 2: scalabaggio (10000 in chips) 
+Seat 3: ollikahn23 (13657 in chips) 
+Seat 4: DiazPoker1 (21134 in chips) 
+Seat 5: I AM COOKIE1 (17537 in chips) 
+Seat 6: antonioalan (26547 in chips) 
+Seat 7: cipri8988 (6843 in chips) 
+Seat 8: mangacii (12486 in chips) 
+hoots19: posts the ante 30
+scalabaggio: posts the ante 30
+ollikahn23: posts the ante 30
+DiazPoker1: posts the ante 30
+I AM COOKIE1: posts the ante 30
+antonioalan: posts the ante 30
+cipri8988: posts the ante 30
+mangacii: posts the ante 30
+I AM COOKIE1: posts small blind 150
+antonioalan: posts big blind 300
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qd 5d]
+cipri8988: folds 
+mangacii: raises 300 to 600
+hoots19: folds 
+scalabaggio: folds 
+ollikahn23: folds 
+DiazPoker1: folds 
+I AM COOKIE1: folds 
+antonioalan: folds 
+Uncalled bet (300) returned to mangacii
+mangacii collected 990 from pot
+*** SUMMARY ***
+Total pot 990 | Rake 0 
+Seat 1: hoots19 folded before Flop (didn't bet)
+Seat 2: scalabaggio folded before Flop (didn't bet)
+Seat 3: ollikahn23 folded before Flop (didn't bet)
+Seat 4: DiazPoker1 (button) folded before Flop (didn't bet)
+Seat 5: I AM COOKIE1 (small blind) folded before Flop
+Seat 6: antonioalan (big blind) folded before Flop
+Seat 7: cipri8988 folded before Flop (didn't bet)
+Seat 8: mangacii collected (990)
+
+
+
+PokerStars Hand #184037802108: Tournament #2243832673, $20+$2 USD Hold'em No Limit - Level IX (150/300) - 2018/03/18 15:51:19 ET
+Table '2243832673 59' 9-max Seat #5 is the button
+Seat 1: hoots19 (9135 in chips) 
+Seat 2: scalabaggio (9970 in chips) 
+Seat 3: ollikahn23 (13627 in chips) 
+Seat 4: DiazPoker1 (21104 in chips) 
+Seat 5: I AM COOKIE1 (17357 in chips) 
+Seat 6: antonioalan (26217 in chips) 
+Seat 7: cipri8988 (6813 in chips) 
+Seat 8: mangacii (13146 in chips) 
+Seat 9: AttackonBK (20079 in chips) 
+hoots19: posts the ante 30
+scalabaggio: posts the ante 30
+ollikahn23: posts the ante 30
+DiazPoker1: posts the ante 30
+I AM COOKIE1: posts the ante 30
+antonioalan: posts the ante 30
+cipri8988: posts the ante 30
+mangacii: posts the ante 30
+AttackonBK: posts the ante 30
+antonioalan: posts small blind 150
+cipri8988: posts big blind 300
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4h 2s]
+mangacii: folds 
+AttackonBK: folds 
+hoots19: folds 
+scalabaggio: folds 
+ollikahn23: folds 
+DiazPoker1: raises 300 to 600
+I AM COOKIE1: folds 
+antonioalan: calls 450
+cipri8988: calls 300
+*** FLOP *** [8d Jh Qc]
+antonioalan: checks 
+cipri8988: checks 
+DiazPoker1: checks 
+*** TURN *** [8d Jh Qc] [Tc]
+antonioalan: checks 
+cipri8988: checks 
+hoots19 is disconnected 
+DiazPoker1: checks 
+*** RIVER *** [8d Jh Qc Tc] [3h]
+antonioalan: checks 
+cipri8988: checks 
+DiazPoker1: checks 
+*** SHOW DOWN ***
+antonioalan: shows [4s 5s] (high card Queen)
+cipri8988: shows [4d Jd] (a pair of Jacks)
+DiazPoker1: mucks hand 
+cipri8988 collected 2070 from pot
+*** SUMMARY ***
+Total pot 2070 | Rake 0 
+Board [8d Jh Qc Tc 3h]
+Seat 1: hoots19 folded before Flop (didn't bet)
+Seat 2: scalabaggio folded before Flop (didn't bet)
+Seat 3: ollikahn23 folded before Flop (didn't bet)
+Seat 4: DiazPoker1 mucked [7h Ah]
+Seat 5: I AM COOKIE1 (button) folded before Flop (didn't bet)
+Seat 6: antonioalan (small blind) showed [4s 5s] and lost with high card Queen
+Seat 7: cipri8988 (big blind) showed [4d Jd] and won (2070) with a pair of Jacks
+Seat 8: mangacii folded before Flop (didn't bet)
+Seat 9: AttackonBK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184037855780: Tournament #2243832673, $20+$2 USD Hold'em No Limit - Level IX (150/300) - 2018/03/18 15:52:13 ET
+Table '2243832673 59' 9-max Seat #6 is the button
+Seat 1: hoots19 (9105 in chips) 
+Seat 2: scalabaggio (9940 in chips) 
+Seat 3: ollikahn23 (13597 in chips) 
+Seat 4: DiazPoker1 (20474 in chips) 
+Seat 5: I AM COOKIE1 (17327 in chips) 
+Seat 6: antonioalan (25587 in chips) 
+Seat 7: cipri8988 (8253 in chips) 
+Seat 8: mangacii (13116 in chips) 
+Seat 9: AttackonBK (20049 in chips) 
+hoots19: posts the ante 30
+scalabaggio: posts the ante 30
+ollikahn23: posts the ante 30
+DiazPoker1: posts the ante 30
+I AM COOKIE1: posts the ante 30
+antonioalan: posts the ante 30
+cipri8988: posts the ante 30
+mangacii: posts the ante 30
+AttackonBK: posts the ante 30
+cipri8988: posts small blind 150
+mangacii: posts big blind 300
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3d 9s]
+AttackonBK: folds 
+hoots19: raises 340 to 640
+scalabaggio: calls 640
+ollikahn23: folds 
+DiazPoker1: calls 640
+I AM COOKIE1: folds 
+antonioalan: folds 
+antonioalan is sitting out
+cipri8988: folds 
+mangacii: calls 340
+*** FLOP *** [5s 6c Qs]
+mangacii: checks 
+hoots19: checks 
+scalabaggio: checks 
+DiazPoker1: checks 
+*** TURN *** [5s 6c Qs] [9c]
+mangacii: checks 
+hoots19: checks 
+scalabaggio: bets 1200
+DiazPoker1: folds 
+mangacii: calls 1200
+hoots19: folds 
+*** RIVER *** [5s 6c Qs 9c] [4d]
+mangacii: checks 
+scalabaggio: bets 2400
+mangacii: folds 
+Uncalled bet (2400) returned to scalabaggio
+scalabaggio collected 5380 from pot
+scalabaggio: doesn't show hand 
+*** SUMMARY ***
+Total pot 5380 | Rake 0 
+Board [5s 6c Qs 9c 4d]
+Seat 1: hoots19 folded on the Turn
+Seat 2: scalabaggio collected (5380)
+Seat 3: ollikahn23 folded before Flop (didn't bet)
+Seat 4: DiazPoker1 folded on the Turn
+Seat 5: I AM COOKIE1 folded before Flop (didn't bet)
+Seat 6: antonioalan (button) folded before Flop (didn't bet)
+Seat 7: cipri8988 (small blind) folded before Flop
+Seat 8: mangacii (big blind) folded on the River
+Seat 9: AttackonBK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184037949133: Tournament #2243832673, $20+$2 USD Hold'em No Limit - Level IX (150/300) - 2018/03/18 15:53:49 ET
+Table '2243832673 59' 9-max Seat #7 is the button
+Seat 1: hoots19 (8435 in chips) 
+Seat 2: scalabaggio (13450 in chips) 
+Seat 3: ollikahn23 (13567 in chips) 
+Seat 4: DiazPoker1 (19804 in chips) 
+Seat 6: antonioalan (25557 in chips) is sitting out
+Seat 7: cipri8988 (8073 in chips) 
+Seat 8: mangacii (11246 in chips) 
+Seat 9: AttackonBK (20019 in chips) 
+hoots19: posts the ante 30
+scalabaggio: posts the ante 30
+ollikahn23: posts the ante 30
+DiazPoker1: posts the ante 30
+antonioalan: posts the ante 30
+cipri8988: posts the ante 30
+mangacii: posts the ante 30
+AttackonBK: posts the ante 30
+mangacii: posts small blind 150
+AttackonBK: posts big blind 300
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ah Qh]
+hoots19: raises 380 to 680
+scalabaggio: folds 
+ollikahn23: raises 380 to 1060
+DiazPoker1: folds 
+antonioalan: folds 
+cipri8988: folds 
+mangacii: folds 
+AttackonBK: folds 
+hoots19: calls 380
+*** FLOP *** [Th 7h 2s]
+hoots19: checks 
+ollikahn23: bets 1100
+antonioalan has returned
+hoots19: folds 
+Uncalled bet (1100) returned to ollikahn23
+ollikahn23 collected 2810 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 2810 | Rake 0 
+Board [Th 7h 2s]
+Seat 1: hoots19 folded on the Flop
+Seat 2: scalabaggio folded before Flop (didn't bet)
+Seat 3: ollikahn23 collected (2810)
+Seat 4: DiazPoker1 folded before Flop (didn't bet)
+Seat 6: antonioalan folded before Flop (didn't bet)
+Seat 7: cipri8988 (button) folded before Flop (didn't bet)
+Seat 8: mangacii (small blind) folded before Flop
+Seat 9: AttackonBK (big blind) folded before Flop
+
+
+
+PokerStars Hand #184038003537: Tournament #2243832673, $20+$2 USD Hold'em No Limit - Level IX (150/300) - 2018/03/18 15:54:44 ET
+Table '2243832673 59' 9-max Seat #8 is the button
+Seat 1: hoots19 (7345 in chips) 
+Seat 2: scalabaggio (13420 in chips) 
+Seat 3: ollikahn23 (15287 in chips) 
+Seat 4: DiazPoker1 (19774 in chips) 
+Seat 5: kslevin (10000 in chips) 
+Seat 6: antonioalan (25527 in chips) 
+Seat 7: cipri8988 (8043 in chips) 
+Seat 8: mangacii (11066 in chips) 
+Seat 9: AttackonBK (19689 in chips) 
+hoots19: posts the ante 30
+scalabaggio: posts the ante 30
+ollikahn23: posts the ante 30
+DiazPoker1: posts the ante 30
+kslevin: posts the ante 30
+antonioalan: posts the ante 30
+cipri8988: posts the ante 30
+mangacii: posts the ante 30
+AttackonBK: posts the ante 30
+AttackonBK: posts small blind 150
+hoots19: posts big blind 300
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3d 4d]
+scalabaggio: folds 
+ollikahn23: folds 
+DiazPoker1: folds 
+kslevin: folds 
+antonioalan: folds 
+cipri8988: raises 351 to 651
+mangacii: folds 
+AttackonBK: calls 501
+hoots19: calls 351
+*** FLOP *** [As 2s 5d]
+AttackonBK: checks 
+hoots19: checks 
+cipri8988: checks 
+*** TURN *** [As 2s 5d] [2h]
+AttackonBK: bets 900
+hoots19: folds 
+cipri8988: folds 
+Uncalled bet (900) returned to AttackonBK
+AttackonBK collected 2223 from pot
+AttackonBK: doesn't show hand 
+*** SUMMARY ***
+Total pot 2223 | Rake 0 
+Board [As 2s 5d 2h]
+Seat 1: hoots19 (big blind) folded on the Turn
+Seat 2: scalabaggio folded before Flop (didn't bet)
+Seat 3: ollikahn23 folded before Flop (didn't bet)
+Seat 4: DiazPoker1 folded before Flop (didn't bet)
+Seat 5: kslevin folded before Flop (didn't bet)
+Seat 6: antonioalan folded before Flop (didn't bet)
+Seat 7: cipri8988 folded on the Turn
+Seat 8: mangacii (button) folded before Flop (didn't bet)
+Seat 9: AttackonBK (small blind) collected (2223)
+
+
+
+PokerStars Hand #184038345290: Tournament #2243832673, $20+$2 USD Hold'em No Limit - Level IX (150/300) - 2018/03/18 16:02:08 ET
+Table '2243832673 59' 9-max Seat #9 is the button
+Seat 1: hoots19 (6664 in chips) 
+Seat 2: scalabaggio (13390 in chips) 
+Seat 3: ollikahn23 (15257 in chips) 
+Seat 4: DiazPoker1 (19744 in chips) 
+Seat 5: kslevin (9970 in chips) 
+Seat 6: antonioalan (25497 in chips) 
+Seat 7: cipri8988 (7362 in chips) 
+Seat 8: mangacii (11036 in chips) 
+Seat 9: AttackonBK (21231 in chips) 
+hoots19: posts the ante 30
+scalabaggio: posts the ante 30
+ollikahn23: posts the ante 30
+DiazPoker1: posts the ante 30
+kslevin: posts the ante 30
+antonioalan: posts the ante 30
+cipri8988: posts the ante 30
+mangacii: posts the ante 30
+AttackonBK: posts the ante 30
+hoots19: posts small blind 150
+scalabaggio: posts big blind 300
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4h Qd]
+ollikahn23: folds 
+DiazPoker1: folds 
+kslevin: raises 366 to 666
+antonioalan: folds 
+cipri8988: folds 
+mangacii: calls 666
+AttackonBK: folds 
+hoots19: folds 
+scalabaggio: calls 366
+*** FLOP *** [6d Ad 4c]
+scalabaggio: checks 
+kslevin: checks 
+mangacii: bets 1050
+scalabaggio: calls 1050
+kslevin: folds 
+*** TURN *** [6d Ad 4c] [As]
+scalabaggio: checks 
+mangacii: bets 2033
+scalabaggio: raises 9611 to 11644 and is all-in
+mangacii: folds 
+Uncalled bet (9611) returned to scalabaggio
+scalabaggio collected 8584 from pot
+scalabaggio: doesn't show hand 
+*** SUMMARY ***
+Total pot 8584 | Rake 0 
+Board [6d Ad 4c As]
+Seat 1: hoots19 (small blind) folded before Flop
+Seat 2: scalabaggio (big blind) collected (8584)
+Seat 3: ollikahn23 folded before Flop (didn't bet)
+Seat 4: DiazPoker1 folded before Flop (didn't bet)
+Seat 5: kslevin folded on the Flop
+Seat 6: antonioalan folded before Flop (didn't bet)
+Seat 7: cipri8988 folded before Flop (didn't bet)
+Seat 8: mangacii folded on the Turn
+Seat 9: AttackonBK (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184038420834: Tournament #2243832673, $20+$2 USD Hold'em No Limit - Level IX (150/300) - 2018/03/18 16:03:28 ET
+Table '2243832673 59' 9-max Seat #1 is the button
+Seat 1: hoots19 (6484 in chips) 
+Seat 2: scalabaggio (18195 in chips) 
+Seat 3: ollikahn23 (15227 in chips) 
+Seat 4: DiazPoker1 (19714 in chips) 
+Seat 5: kslevin (9274 in chips) 
+Seat 6: antonioalan (25467 in chips) 
+Seat 7: cipri8988 (7332 in chips) 
+Seat 8: mangacii (7257 in chips) 
+Seat 9: AttackonBK (21201 in chips) 
+hoots19: posts the ante 30
+scalabaggio: posts the ante 30
+ollikahn23: posts the ante 30
+DiazPoker1: posts the ante 30
+kslevin: posts the ante 30
+antonioalan: posts the ante 30
+cipri8988: posts the ante 30
+mangacii: posts the ante 30
+AttackonBK: posts the ante 30
+scalabaggio: posts small blind 150
+ollikahn23: posts big blind 300
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Tc Ah]
+DiazPoker1: folds 
+kslevin: folds 
+antonioalan: folds 
+cipri8988: folds 
+mangacii: raises 300 to 600
+AttackonBK: raises 1000 to 1600
+hoots19: folds 
+scalabaggio: calls 1450
+ollikahn23: folds 
+mangacii: folds 
+*** FLOP *** [Ac 3c 7h]
+scalabaggio: checks 
+AttackonBK: bets 2100
+scalabaggio: calls 2100
+*** TURN *** [Ac 3c 7h] [Js]
+scalabaggio: checks 
+AttackonBK: bets 5100
+scalabaggio: calls 5100
+*** RIVER *** [Ac 3c 7h Js] [4s]
+scalabaggio: checks 
+AttackonBK: bets 12371 and is all-in
+scalabaggio: calls 9365 and is all-in
+Uncalled bet (3006) returned to AttackonBK
+*** SHOW DOWN ***
+AttackonBK: shows [Jc Jh] (three of a kind, Jacks)
+scalabaggio: shows [Qd Ad] (a pair of Aces)
+AttackonBK collected 37500 from pot
+scalabaggio finished the tournament
+*** SUMMARY ***
+Total pot 37500 | Rake 0 
+Board [Ac 3c 7h Js 4s]
+Seat 1: hoots19 (button) folded before Flop (didn't bet)
+Seat 2: scalabaggio (small blind) showed [Qd Ad] and lost with a pair of Aces
+Seat 3: ollikahn23 (big blind) folded before Flop
+Seat 4: DiazPoker1 folded before Flop (didn't bet)
+Seat 5: kslevin folded before Flop (didn't bet)
+Seat 6: antonioalan folded before Flop (didn't bet)
+Seat 7: cipri8988 folded before Flop (didn't bet)
+Seat 8: mangacii folded before Flop
+Seat 9: AttackonBK showed [Jc Jh] and won (37500) with three of a kind, Jacks
+
+
+
+PokerStars Hand #184038509844: Tournament #2243832673, $20+$2 USD Hold'em No Limit - Level X (200/400) - 2018/03/18 16:04:59 ET
+Table '2243832673 59' 9-max Seat #3 is the button
+Seat 1: hoots19 (6454 in chips) 
+Seat 3: ollikahn23 (14897 in chips) 
+Seat 4: DiazPoker1 (19684 in chips) 
+Seat 5: kslevin (9244 in chips) 
+Seat 6: antonioalan (25437 in chips) 
+Seat 7: cipri8988 (7302 in chips) 
+Seat 8: mangacii (6627 in chips) 
+Seat 9: AttackonBK (40506 in chips) 
+hoots19: posts the ante 40
+ollikahn23: posts the ante 40
+DiazPoker1: posts the ante 40
+kslevin: posts the ante 40
+antonioalan: posts the ante 40
+cipri8988: posts the ante 40
+mangacii: posts the ante 40
+AttackonBK: posts the ante 40
+DiazPoker1: posts small blind 200
+kslevin: posts big blind 400
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ac 7d]
+antonioalan: folds 
+cipri8988: folds 
+mangacii: folds 
+AttackonBK: folds 
+hoots19: folds 
+ollikahn23: raises 400 to 800
+DiazPoker1: folds 
+kslevin: raises 8404 to 9204 and is all-in
+ollikahn23: folds 
+Uncalled bet (8404) returned to kslevin
+kslevin collected 2120 from pot
+kslevin: doesn't show hand 
+*** SUMMARY ***
+Total pot 2120 | Rake 0 
+Seat 1: hoots19 folded before Flop (didn't bet)
+Seat 3: ollikahn23 (button) folded before Flop
+Seat 4: DiazPoker1 (small blind) folded before Flop
+Seat 5: kslevin (big blind) collected (2120)
+Seat 6: antonioalan folded before Flop (didn't bet)
+Seat 7: cipri8988 folded before Flop (didn't bet)
+Seat 8: mangacii folded before Flop (didn't bet)
+Seat 9: AttackonBK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184038544856: Tournament #2243832673, $20+$2 USD Hold'em No Limit - Level X (200/400) - 2018/03/18 16:05:34 ET
+Table '2243832673 59' 9-max Seat #4 is the button
+Seat 1: hoots19 (6414 in chips) 
+Seat 2: Brookesyful (9960 in chips) 
+Seat 3: ollikahn23 (14057 in chips) 
+Seat 4: DiazPoker1 (19444 in chips) 
+Seat 5: kslevin (10524 in chips) 
+Seat 6: antonioalan (25397 in chips) 
+Seat 7: cipri8988 (7262 in chips) 
+Seat 8: mangacii (6587 in chips) 
+Seat 9: AttackonBK (40466 in chips) 
+hoots19: posts the ante 40
+Brookesyful: posts the ante 40
+ollikahn23: posts the ante 40
+DiazPoker1: posts the ante 40
+kslevin: posts the ante 40
+antonioalan: posts the ante 40
+cipri8988: posts the ante 40
+mangacii: posts the ante 40
+AttackonBK: posts the ante 40
+kslevin: posts small blind 200
+antonioalan: posts big blind 400
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2s 4d]
+cipri8988: folds 
+mangacii: folds 
+AttackonBK: folds 
+hoots19: folds 
+Brookesyful: folds 
+ollikahn23: folds 
+DiazPoker1: folds 
+kslevin: folds 
+Uncalled bet (200) returned to antonioalan
+antonioalan collected 760 from pot
+antonioalan: doesn't show hand 
+*** SUMMARY ***
+Total pot 760 | Rake 0 
+Seat 1: hoots19 folded before Flop (didn't bet)
+Seat 2: Brookesyful folded before Flop (didn't bet)
+Seat 3: ollikahn23 folded before Flop (didn't bet)
+Seat 4: DiazPoker1 (button) folded before Flop (didn't bet)
+Seat 5: kslevin (small blind) folded before Flop
+Seat 6: antonioalan (big blind) collected (760)
+Seat 7: cipri8988 folded before Flop (didn't bet)
+Seat 8: mangacii folded before Flop (didn't bet)
+Seat 9: AttackonBK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184038565409: Tournament #2243832673, $20+$2 USD Hold'em No Limit - Level X (200/400) - 2018/03/18 16:05:55 ET
+Table '2243832673 59' 9-max Seat #5 is the button
+Seat 1: hoots19 (6374 in chips) 
+Seat 2: Brookesyful (9920 in chips) 
+Seat 3: ollikahn23 (14017 in chips) 
+Seat 4: DiazPoker1 (19404 in chips) 
+Seat 5: kslevin (10284 in chips) 
+Seat 6: antonioalan (25917 in chips) 
+Seat 7: cipri8988 (7222 in chips) 
+Seat 8: mangacii (6547 in chips) 
+Seat 9: AttackonBK (40426 in chips) 
+hoots19: posts the ante 40
+Brookesyful: posts the ante 40
+ollikahn23: posts the ante 40
+DiazPoker1: posts the ante 40
+kslevin: posts the ante 40
+antonioalan: posts the ante 40
+cipri8988: posts the ante 40
+mangacii: posts the ante 40
+AttackonBK: posts the ante 40
+antonioalan: posts small blind 200
+cipri8988: posts big blind 400
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5s Tc]
+mangacii: folds 
+AttackonBK: folds 
+hoots19: folds 
+Brookesyful: folds 
+ollikahn23: raises 400 to 800
+DiazPoker1: calls 800
+kslevin: raises 9444 to 10244 and is all-in
+antonioalan: folds 
+cipri8988: folds 
+ollikahn23: folds 
+DiazPoker1: folds 
+Uncalled bet (9444) returned to kslevin
+kslevin collected 3360 from pot
+kslevin: doesn't show hand 
+*** SUMMARY ***
+Total pot 3360 | Rake 0 
+Seat 1: hoots19 folded before Flop (didn't bet)
+Seat 2: Brookesyful folded before Flop (didn't bet)
+Seat 3: ollikahn23 folded before Flop
+Seat 4: DiazPoker1 folded before Flop
+Seat 5: kslevin (button) collected (3360)
+Seat 6: antonioalan (small blind) folded before Flop
+Seat 7: cipri8988 (big blind) folded before Flop
+Seat 8: mangacii folded before Flop (didn't bet)
+Seat 9: AttackonBK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184038599428: Tournament #2243832673, $20+$2 USD Hold'em No Limit - Level X (200/400) - 2018/03/18 16:06:29 ET
+Table '2243832673 59' 9-max Seat #6 is the button
+Seat 1: hoots19 (6334 in chips) 
+Seat 2: Brookesyful (9880 in chips) 
+Seat 3: ollikahn23 (13177 in chips) 
+Seat 4: DiazPoker1 (18564 in chips) 
+Seat 5: kslevin (12804 in chips) 
+Seat 6: antonioalan (25677 in chips) 
+Seat 7: cipri8988 (6782 in chips) 
+Seat 8: mangacii (6507 in chips) 
+Seat 9: AttackonBK (40386 in chips) 
+hoots19: posts the ante 40
+Brookesyful: posts the ante 40
+ollikahn23: posts the ante 40
+DiazPoker1: posts the ante 40
+kslevin: posts the ante 40
+antonioalan: posts the ante 40
+cipri8988: posts the ante 40
+mangacii: posts the ante 40
+AttackonBK: posts the ante 40
+cipri8988: posts small blind 200
+mangacii: posts big blind 400
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9h Ts]
+AttackonBK: folds 
+hoots19: raises 599 to 999
+Brookesyful: folds 
+ollikahn23: folds 
+DiazPoker1: folds 
+kslevin: folds 
+antonioalan: calls 999
+cipri8988: folds 
+mangacii: folds 
+*** FLOP *** [Ks 8c 7c]
+hoots19: bets 1183
+antonioalan: calls 1183
+*** TURN *** [Ks 8c 7c] [Ac]
+hoots19: bets 2130
+antonioalan: calls 2130
+*** RIVER *** [Ks 8c 7c Ac] [Qd]
+hoots19: bets 1982 and is all-in
+antonioalan: folds 
+Uncalled bet (1982) returned to hoots19
+hoots19 collected 9584 from pot
+hoots19: doesn't show hand 
+*** SUMMARY ***
+Total pot 9584 | Rake 0 
+Board [Ks 8c 7c Ac Qd]
+Seat 1: hoots19 collected (9584)
+Seat 2: Brookesyful folded before Flop (didn't bet)
+Seat 3: ollikahn23 folded before Flop (didn't bet)
+Seat 4: DiazPoker1 folded before Flop (didn't bet)
+Seat 5: kslevin folded before Flop (didn't bet)
+Seat 6: antonioalan (button) folded on the River
+Seat 7: cipri8988 (small blind) folded before Flop
+Seat 8: mangacii (big blind) folded before Flop
+Seat 9: AttackonBK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184038677867: Tournament #2243832673, $20+$2 USD Hold'em No Limit - Level X (200/400) - 2018/03/18 16:07:47 ET
+Table '2243832673 59' 9-max Seat #7 is the button
+Seat 1: hoots19 (11566 in chips) 
+Seat 2: Brookesyful (9840 in chips) 
+Seat 3: ollikahn23 (13137 in chips) 
+Seat 4: DiazPoker1 (18524 in chips) 
+Seat 5: kslevin (12764 in chips) 
+Seat 6: antonioalan (21325 in chips) 
+Seat 7: cipri8988 (6542 in chips) 
+Seat 8: mangacii (6067 in chips) 
+Seat 9: AttackonBK (40346 in chips) 
+hoots19: posts the ante 40
+Brookesyful: posts the ante 40
+ollikahn23: posts the ante 40
+DiazPoker1: posts the ante 40
+kslevin: posts the ante 40
+antonioalan: posts the ante 40
+cipri8988: posts the ante 40
+mangacii: posts the ante 40
+AttackonBK: posts the ante 40
+mangacii: posts small blind 200
+AttackonBK: posts big blind 400
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ts 4d]
+hoots19: folds 
+Brookesyful: folds 
+ollikahn23: folds 
+DiazPoker1: raises 400 to 800
+kslevin: folds 
+antonioalan: calls 800
+cipri8988: folds 
+mangacii: folds 
+AttackonBK: calls 400
+*** FLOP *** [5c 5s 7c]
+AttackonBK: checks 
+DiazPoker1: bets 977
+antonioalan: raises 1823 to 2800
+AttackonBK: folds 
+DiazPoker1: raises 2800 to 5600
+antonioalan: folds 
+Uncalled bet (2800) returned to DiazPoker1
+DiazPoker1 collected 8560 from pot
+DiazPoker1: doesn't show hand 
+*** SUMMARY ***
+Total pot 8560 | Rake 0 
+Board [5c 5s 7c]
+Seat 1: hoots19 folded before Flop (didn't bet)
+Seat 2: Brookesyful folded before Flop (didn't bet)
+Seat 3: ollikahn23 folded before Flop (didn't bet)
+Seat 4: DiazPoker1 collected (8560)
+Seat 5: kslevin folded before Flop (didn't bet)
+Seat 6: antonioalan folded on the Flop
+Seat 7: cipri8988 (button) folded before Flop (didn't bet)
+Seat 8: mangacii (small blind) folded before Flop
+Seat 9: AttackonBK (big blind) folded on the Flop
+
+
+
+PokerStars Hand #184038738254: Tournament #2243832673, $20+$2 USD Hold'em No Limit - Level X (200/400) - 2018/03/18 16:08:49 ET
+Table '2243832673 59' 9-max Seat #8 is the button
+Seat 1: hoots19 (11526 in chips) 
+Seat 2: Brookesyful (9800 in chips) 
+Seat 3: ollikahn23 (13097 in chips) 
+Seat 4: DiazPoker1 (23444 in chips) 
+Seat 5: kslevin (12724 in chips) 
+Seat 6: antonioalan (17685 in chips) 
+Seat 7: cipri8988 (6502 in chips) 
+Seat 8: mangacii (5827 in chips) 
+Seat 9: AttackonBK (39506 in chips) 
+hoots19: posts the ante 40
+Brookesyful: posts the ante 40
+ollikahn23: posts the ante 40
+DiazPoker1: posts the ante 40
+kslevin: posts the ante 40
+antonioalan: posts the ante 40
+cipri8988: posts the ante 40
+mangacii: posts the ante 40
+AttackonBK: posts the ante 40
+AttackonBK: posts small blind 200
+hoots19: posts big blind 400
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8d 8h]
+Brookesyful: folds 
+ollikahn23: raises 457 to 857
+DiazPoker1: folds 
+kslevin: folds 
+antonioalan: folds 
+cipri8988: folds 
+mangacii: calls 857
+AttackonBK: folds 
+hoots19: folds 
+*** FLOP *** [Th 6d Jd]
+ollikahn23: bets 994
+mangacii: raises 3936 to 4930 and is all-in
+ollikahn23: folds 
+Uncalled bet (3936) returned to mangacii
+mangacii collected 4662 from pot
+*** SUMMARY ***
+Total pot 4662 | Rake 0 
+Board [Th 6d Jd]
+Seat 1: hoots19 (big blind) folded before Flop
+Seat 2: Brookesyful folded before Flop (didn't bet)
+Seat 3: ollikahn23 folded on the Flop
+Seat 4: DiazPoker1 folded before Flop (didn't bet)
+Seat 5: kslevin folded before Flop (didn't bet)
+Seat 6: antonioalan folded before Flop (didn't bet)
+Seat 7: cipri8988 folded before Flop (didn't bet)
+Seat 8: mangacii (button) collected (4662)
+Seat 9: AttackonBK (small blind) folded before Flop
+
+
+
+PokerStars Hand #184038816188: Tournament #2243832673, $20+$2 USD Hold'em No Limit - Level X (200/400) - 2018/03/18 16:10:07 ET
+Table '2243832673 59' 9-max Seat #9 is the button
+Seat 1: hoots19 (11086 in chips) 
+Seat 2: Brookesyful (9760 in chips) 
+Seat 3: ollikahn23 (11206 in chips) 
+Seat 4: DiazPoker1 (23404 in chips) 
+Seat 5: kslevin (12684 in chips) 
+Seat 6: antonioalan (17645 in chips) 
+Seat 7: cipri8988 (6462 in chips) 
+Seat 8: mangacii (8598 in chips) 
+Seat 9: AttackonBK (39266 in chips) 
+hoots19: posts the ante 40
+Brookesyful: posts the ante 40
+ollikahn23: posts the ante 40
+DiazPoker1: posts the ante 40
+kslevin: posts the ante 40
+antonioalan: posts the ante 40
+cipri8988: posts the ante 40
+mangacii: posts the ante 40
+AttackonBK: posts the ante 40
+hoots19: posts small blind 200
+Brookesyful: posts big blind 400
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5h 3h]
+ollikahn23: folds 
+DiazPoker1: folds 
+kslevin: folds 
+antonioalan: folds 
+cipri8988: folds 
+mangacii: raises 400 to 800
+AttackonBK: calls 800
+hoots19: folds 
+Brookesyful: calls 400
+*** FLOP *** [2s 5d 2c]
+Brookesyful: checks 
+mangacii: bets 1000
+AttackonBK: calls 1000
+Brookesyful: folds 
+*** TURN *** [2s 5d 2c] [8h]
+mangacii: checks 
+AttackonBK: checks 
+*** RIVER *** [2s 5d 2c 8h] [4d]
+mangacii: checks 
+AttackonBK: checks 
+*** SHOW DOWN ***
+mangacii: shows [Kd Jc] (a pair of Deuces)
+AttackonBK: mucks hand 
+mangacii collected 4960 from pot
+*** SUMMARY ***
+Total pot 4960 | Rake 0 
+Board [2s 5d 2c 8h 4d]
+Seat 1: hoots19 (small blind) folded before Flop
+Seat 2: Brookesyful (big blind) folded on the Flop
+Seat 3: ollikahn23 folded before Flop (didn't bet)
+Seat 4: DiazPoker1 folded before Flop (didn't bet)
+Seat 5: kslevin folded before Flop (didn't bet)
+Seat 6: antonioalan folded before Flop (didn't bet)
+Seat 7: cipri8988 folded before Flop (didn't bet)
+Seat 8: mangacii showed [Kd Jc] and won (4960) with a pair of Deuces
+Seat 9: AttackonBK (button) mucked [Th Kh]
+
+
+
+PokerStars Hand #184038875178: Tournament #2243832673, $20+$2 USD Hold'em No Limit - Level X (200/400) - 2018/03/18 16:11:06 ET
+Table '2243832673 59' 9-max Seat #1 is the button
+Seat 1: hoots19 (10846 in chips) 
+Seat 2: Brookesyful (8920 in chips) 
+Seat 3: ollikahn23 (11166 in chips) 
+Seat 4: DiazPoker1 (23364 in chips) 
+Seat 5: kslevin (12644 in chips) 
+Seat 6: antonioalan (17605 in chips) 
+Seat 7: cipri8988 (6422 in chips) 
+Seat 8: mangacii (11718 in chips) 
+Seat 9: AttackonBK (37426 in chips) 
+hoots19: posts the ante 40
+Brookesyful: posts the ante 40
+ollikahn23: posts the ante 40
+DiazPoker1: posts the ante 40
+kslevin: posts the ante 40
+antonioalan: posts the ante 40
+cipri8988: posts the ante 40
+mangacii: posts the ante 40
+AttackonBK: posts the ante 40
+Brookesyful: posts small blind 200
+ollikahn23: posts big blind 400
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3c 2d]
+DiazPoker1: folds 
+kslevin: folds 
+antonioalan: folds 
+cipri8988: folds 
+mangacii: raises 400 to 800
+AttackonBK: raises 2000 to 2800
+hoots19: folds 
+Brookesyful: folds 
+ollikahn23: folds 
+mangacii: calls 2000
+*** FLOP *** [Th 2s As]
+mangacii: checks 
+AttackonBK: bets 4000
+mangacii: raises 4878 to 8878 and is all-in
+AttackonBK: calls 4878
+*** TURN *** [Th 2s As] [Ks]
+*** RIVER *** [Th 2s As Ks] [9d]
+*** SHOW DOWN ***
+mangacii: shows [Qs 9s] (a flush, Ace high)
+AttackonBK: shows [Ad Ac] (three of a kind, Aces)
+mangacii collected 24316 from pot
+*** SUMMARY ***
+Total pot 24316 | Rake 0 
+Board [Th 2s As Ks 9d]
+Seat 1: hoots19 (button) folded before Flop (didn't bet)
+Seat 2: Brookesyful (small blind) folded before Flop
+Seat 3: ollikahn23 (big blind) folded before Flop
+Seat 4: DiazPoker1 folded before Flop (didn't bet)
+Seat 5: kslevin folded before Flop (didn't bet)
+Seat 6: antonioalan folded before Flop (didn't bet)
+Seat 7: cipri8988 folded before Flop (didn't bet)
+Seat 8: mangacii showed [Qs 9s] and won (24316) with a flush, Ace high
+Seat 9: AttackonBK showed [Ad Ac] and lost with three of a kind, Aces
+
+
+
+PokerStars Hand #184038953035: Tournament #2243832673, $20+$2 USD Hold'em No Limit - Level X (200/400) - 2018/03/18 16:12:24 ET
+Table '2243832673 59' 9-max Seat #2 is the button
+Seat 1: hoots19 (10806 in chips) 
+Seat 2: Brookesyful (8680 in chips) 
+Seat 3: ollikahn23 (10726 in chips) 
+Seat 4: DiazPoker1 (23324 in chips) 
+Seat 5: kslevin (12604 in chips) 
+Seat 6: antonioalan (17565 in chips) 
+Seat 7: cipri8988 (6382 in chips) 
+Seat 8: mangacii (24316 in chips) 
+Seat 9: AttackonBK (25708 in chips) 
+hoots19: posts the ante 40
+Brookesyful: posts the ante 40
+ollikahn23: posts the ante 40
+DiazPoker1: posts the ante 40
+kslevin: posts the ante 40
+antonioalan: posts the ante 40
+cipri8988: posts the ante 40
+mangacii: posts the ante 40
+AttackonBK: posts the ante 40
+ollikahn23: posts small blind 200
+DiazPoker1: posts big blind 400
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2s 8s]
+kslevin: raises 477 to 877
+antonioalan: folds 
+cipri8988: folds 
+mangacii: folds 
+AttackonBK: folds 
+hoots19: calls 877
+Brookesyful: folds 
+ollikahn23: folds 
+DiazPoker1: calls 477
+*** FLOP *** [5c 3c Td]
+DiazPoker1: checks 
+kslevin: bets 1434
+hoots19: folds 
+DiazPoker1: calls 1434
+*** TURN *** [5c 3c Td] [6d]
+DiazPoker1: checks 
+kslevin: bets 2424
+DiazPoker1: calls 2424
+*** RIVER *** [5c 3c Td 6d] [3s]
+DiazPoker1: checks 
+kslevin: bets 7635
+DiazPoker1: raises 7635 to 15270
+kslevin: calls 194 and is all-in
+Uncalled bet (7441) returned to DiazPoker1
+*** SHOW DOWN ***
+DiazPoker1: shows [3d 4d] (three of a kind, Threes)
+kslevin: shows [Kc Tc] (two pair, Tens and Threes)
+DiazPoker1 collected 26565 from pot
+kslevin finished the tournament
+*** SUMMARY ***
+Total pot 26565 | Rake 0 
+Board [5c 3c Td 6d 3s]
+Seat 1: hoots19 folded on the Flop
+Seat 2: Brookesyful (button) folded before Flop (didn't bet)
+Seat 3: ollikahn23 (small blind) folded before Flop
+Seat 4: DiazPoker1 (big blind) showed [3d 4d] and won (26565) with three of a kind, Threes
+Seat 5: kslevin showed [Kc Tc] and lost with two pair, Tens and Threes
+Seat 6: antonioalan folded before Flop (didn't bet)
+Seat 7: cipri8988 folded before Flop (didn't bet)
+Seat 8: mangacii folded before Flop (didn't bet)
+Seat 9: AttackonBK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184039044165: Tournament #2243832673, $20+$2 USD Hold'em No Limit - Level X (200/400) - 2018/03/18 16:13:56 ET
+Table '2243832673 59' 9-max Seat #3 is the button
+Seat 1: hoots19 (9889 in chips) 
+Seat 2: Brookesyful (8640 in chips) 
+Seat 3: ollikahn23 (10486 in chips) 
+Seat 4: DiazPoker1 (37285 in chips) 
+Seat 5: AcePheres (7918 in chips) 
+Seat 6: antonioalan (17525 in chips) 
+Seat 7: cipri8988 (6342 in chips) 
+Seat 8: mangacii (24276 in chips) 
+Seat 9: AttackonBK (25668 in chips) 
+hoots19: posts the ante 40
+Brookesyful: posts the ante 40
+ollikahn23: posts the ante 40
+DiazPoker1: posts the ante 40
+AcePheres: posts the ante 40
+antonioalan: posts the ante 40
+cipri8988: posts the ante 40
+mangacii: posts the ante 40
+AttackonBK: posts the ante 40
+DiazPoker1: posts small blind 200
+AcePheres: posts big blind 400
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8h 5h]
+antonioalan: raises 400 to 800
+cipri8988: folds 
+mangacii: folds 
+AttackonBK: folds 
+hoots19: folds 
+Brookesyful: folds 
+ollikahn23: calls 800
+DiazPoker1: folds 
+AcePheres: raises 7078 to 7878 and is all-in
+antonioalan: calls 7078
+ollikahn23: folds 
+*** FLOP *** [5c 8c Qh]
+*** TURN *** [5c 8c Qh] [4d]
+*** RIVER *** [5c 8c Qh 4d] [7s]
+*** SHOW DOWN ***
+AcePheres: shows [8d 8s] (three of a kind, Eights)
+antonioalan: shows [Ad Ac] (a pair of Aces)
+AcePheres collected 17116 from pot
+*** SUMMARY ***
+Total pot 17116 | Rake 0 
+Board [5c 8c Qh 4d 7s]
+Seat 1: hoots19 folded before Flop (didn't bet)
+Seat 2: Brookesyful folded before Flop (didn't bet)
+Seat 3: ollikahn23 (button) folded before Flop
+Seat 4: DiazPoker1 (small blind) folded before Flop
+Seat 5: AcePheres (big blind) showed [8d 8s] and won (17116) with three of a kind, Eights
+Seat 6: antonioalan showed [Ad Ac] and lost with a pair of Aces
+Seat 7: cipri8988 folded before Flop (didn't bet)
+Seat 8: mangacii folded before Flop (didn't bet)
+Seat 9: AttackonBK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184039097456: Tournament #2243832673, $20+$2 USD Hold'em No Limit - Level X (200/400) - 2018/03/18 16:14:51 ET
+Table '2243832673 59' 9-max Seat #4 is the button
+Seat 1: hoots19 (9849 in chips) 
+Seat 2: Brookesyful (8600 in chips) 
+Seat 3: ollikahn23 (9646 in chips) 
+Seat 4: DiazPoker1 (37045 in chips) 
+Seat 5: AcePheres (17116 in chips) 
+Seat 6: antonioalan (9607 in chips) 
+Seat 7: cipri8988 (6302 in chips) 
+Seat 8: mangacii (24236 in chips) 
+Seat 9: AttackonBK (25628 in chips) 
+hoots19: posts the ante 40
+Brookesyful: posts the ante 40
+ollikahn23: posts the ante 40
+DiazPoker1: posts the ante 40
+AcePheres: posts the ante 40
+antonioalan: posts the ante 40
+cipri8988: posts the ante 40
+mangacii: posts the ante 40
+AttackonBK: posts the ante 40
+AcePheres: posts small blind 200
+antonioalan: posts big blind 400
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kh 6d]
+cipri8988: folds 
+mangacii: folds 
+AttackonBK: folds 
+hoots19: folds 
+Brookesyful: folds 
+ollikahn23: folds 
+DiazPoker1: raises 400 to 800
+AcePheres: calls 600
+antonioalan: raises 1600 to 2400
+DiazPoker1: calls 1600
+AcePheres: calls 1600
+*** FLOP *** [Td 5d 5c]
+AcePheres: checks 
+antonioalan: bets 2495
+DiazPoker1: folds 
+AcePheres: raises 12181 to 14676 and is all-in
+antonioalan: calls 4672 and is all-in
+Uncalled bet (7509) returned to AcePheres
+*** TURN *** [Td 5d 5c] [4d]
+*** RIVER *** [Td 5d 5c 4d] [Qs]
+*** SHOW DOWN ***
+AcePheres: shows [Qh Th] (two pair, Queens and Tens)
+antonioalan: shows [4s Ah] (two pair, Fives and Fours)
+AcePheres collected 21894 from pot
+antonioalan finished the tournament
+*** SUMMARY ***
+Total pot 21894 | Rake 0 
+Board [Td 5d 5c 4d Qs]
+Seat 1: hoots19 folded before Flop (didn't bet)
+Seat 2: Brookesyful folded before Flop (didn't bet)
+Seat 3: ollikahn23 folded before Flop (didn't bet)
+Seat 4: DiazPoker1 (button) folded on the Flop
+Seat 5: AcePheres (small blind) showed [Qh Th] and won (21894) with two pair, Queens and Tens
+Seat 6: antonioalan (big blind) showed [4s Ah] and lost with two pair, Fives and Fours
+Seat 7: cipri8988 folded before Flop (didn't bet)
+Seat 8: mangacii folded before Flop (didn't bet)
+Seat 9: AttackonBK folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184039191177: Tournament #2243832673, $20+$2 USD Hold'em No Limit - Level XI (250/500) - 2018/03/18 16:16:25 ET
+Table '2243832673 59' 9-max Seat #5 is the button
+Seat 1: hoots19 (9809 in chips) 
+Seat 2: Brookesyful (8560 in chips) 
+Seat 3: ollikahn23 (9606 in chips) 
+Seat 4: DiazPoker1 (34605 in chips) 
+Seat 5: AcePheres (29403 in chips) 
+Seat 7: cipri8988 (6262 in chips) 
+Seat 8: mangacii (24196 in chips) 
+Seat 9: AttackonBK (25588 in chips) 
+hoots19: posts the ante 50
+Brookesyful: posts the ante 50
+ollikahn23: posts the ante 50
+DiazPoker1: posts the ante 50
+AcePheres: posts the ante 50
+cipri8988: posts the ante 50
+mangacii: posts the ante 50
+AttackonBK: posts the ante 50
+cipri8988: posts small blind 250
+mangacii: posts big blind 500
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3c 3s]
+AttackonBK: folds 
+hoots19: calls 500
+Brookesyful: folds 
+ollikahn23: calls 500
+DiazPoker1: folds 
+AcePheres: raises 1250 to 1750
+cipri8988: folds 
+mangacii: folds 
+hoots19: calls 1250
+ollikahn23: calls 1250
+*** FLOP *** [8s 8c 9s]
+hoots19: checks 
+ollikahn23: checks 
+AcePheres: bets 2048
+hoots19: folds 
+ollikahn23: raises 5758 to 7806 and is all-in
+AcePheres: calls 5758
+*** TURN *** [8s 8c 9s] [Th]
+*** RIVER *** [8s 8c 9s Th] [7s]
+*** SHOW DOWN ***
+ollikahn23: shows [3c 3s] (two pair, Eights and Threes)
+AcePheres: shows [As Ac] (two pair, Aces and Eights)
+AcePheres collected 22012 from pot
+ollikahn23 finished the tournament
+*** SUMMARY ***
+Total pot 22012 | Rake 0 
+Board [8s 8c 9s Th 7s]
+Seat 1: hoots19 folded on the Flop
+Seat 2: Brookesyful folded before Flop (didn't bet)
+Seat 3: ollikahn23 showed [3c 3s] and lost with two pair, Eights and Threes
+Seat 4: DiazPoker1 folded before Flop (didn't bet)
+Seat 5: AcePheres (button) showed [As Ac] and won (22012) with two pair, Aces and Eights
+Seat 7: cipri8988 (small blind) folded before Flop
+Seat 8: mangacii (big blind) folded before Flop
+Seat 9: AttackonBK folded before Flop (didn't bet)
+
+
+

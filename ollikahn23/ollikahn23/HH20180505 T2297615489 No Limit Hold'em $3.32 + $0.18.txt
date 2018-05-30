@@ -1,0 +1,197 @@
+﻿PokerStars Hand #186066651416: Tournament #2297615489, $3.32+$0.18 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/06 0:19:07 CET [2018/05/05 18:19:07 ET]
+Table '2297615489 1' 2-max Seat #1 is the button
+Seat 1: Lucheeto (1500 in chips) 
+Seat 2: ollikahn23 (1500 in chips) 
+Lucheeto: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8d 6c]
+Lucheeto: raises 20 to 40
+ollikahn23: folds 
+Uncalled bet (20) returned to Lucheeto
+Lucheeto collected 40 from pot
+Lucheeto: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Lucheeto (button) (small blind) collected (40)
+Seat 2: ollikahn23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #186066656413: Tournament #2297615489, $3.32+$0.18 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/06 0:19:15 CET [2018/05/05 18:19:15 ET]
+Table '2297615489 1' 2-max Seat #2 is the button
+Seat 1: Lucheeto (1520 in chips) 
+Seat 2: ollikahn23 (1480 in chips) 
+ollikahn23: posts small blind 10
+Lucheeto: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jc 7s]
+ollikahn23: raises 20 to 40
+Lucheeto: calls 20
+*** FLOP *** [Qd Qs 8c]
+Lucheeto: checks 
+ollikahn23: bets 40
+Lucheeto: raises 40 to 80
+ollikahn23: folds 
+Uncalled bet (40) returned to Lucheeto
+Lucheeto collected 160 from pot
+Lucheeto: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Qd Qs 8c]
+Seat 1: Lucheeto (big blind) collected (160)
+Seat 2: ollikahn23 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #186066668537: Tournament #2297615489, $3.32+$0.18 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/06 0:19:34 CET [2018/05/05 18:19:34 ET]
+Table '2297615489 1' 2-max Seat #1 is the button
+Seat 1: Lucheeto (1600 in chips) 
+Seat 2: ollikahn23 (1400 in chips) 
+Lucheeto: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Js 5h]
+Lucheeto: calls 10
+ollikahn23: checks 
+*** FLOP *** [Qd 2c 7d]
+ollikahn23: checks 
+Lucheeto: bets 40
+ollikahn23: folds 
+Uncalled bet (40) returned to Lucheeto
+Lucheeto collected 40 from pot
+Lucheeto: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Qd 2c 7d]
+Seat 1: Lucheeto (button) (small blind) collected (40)
+Seat 2: ollikahn23 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #186066675515: Tournament #2297615489, $3.32+$0.18 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/06 0:19:45 CET [2018/05/05 18:19:45 ET]
+Table '2297615489 1' 2-max Seat #2 is the button
+Seat 1: Lucheeto (1620 in chips) 
+Seat 2: ollikahn23 (1380 in chips) 
+ollikahn23: posts small blind 10
+Lucheeto: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6c Js]
+ollikahn23: folds 
+Uncalled bet (10) returned to Lucheeto
+Lucheeto collected 20 from pot
+Lucheeto: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Lucheeto (big blind) collected (20)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #186066679157: Tournament #2297615489, $3.32+$0.18 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/06 0:19:51 CET [2018/05/05 18:19:51 ET]
+Table '2297615489 1' 2-max Seat #1 is the button
+Seat 1: Lucheeto (1630 in chips) 
+Seat 2: ollikahn23 (1370 in chips) 
+Lucheeto: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5d 3d]
+Lucheeto: folds 
+Uncalled bet (10) returned to ollikahn23
+ollikahn23 collected 20 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Lucheeto (button) (small blind) folded before Flop
+Seat 2: ollikahn23 (big blind) collected (20)
+
+
+
+PokerStars Hand #186066683487: Tournament #2297615489, $3.32+$0.18 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/06 0:19:58 CET [2018/05/05 18:19:58 ET]
+Table '2297615489 1' 2-max Seat #2 is the button
+Seat 1: Lucheeto (1620 in chips) 
+Seat 2: ollikahn23 (1380 in chips) 
+ollikahn23: posts small blind 10
+Lucheeto: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5h 6s]
+ollikahn23: folds 
+Uncalled bet (10) returned to Lucheeto
+Lucheeto collected 20 from pot
+Lucheeto: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Lucheeto (big blind) collected (20)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #186066687006: Tournament #2297615489, $3.32+$0.18 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/06 0:20:04 CET [2018/05/05 18:20:04 ET]
+Table '2297615489 1' 2-max Seat #1 is the button
+Seat 1: Lucheeto (1630 in chips) 
+Seat 2: ollikahn23 (1370 in chips) 
+Lucheeto: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9c Kh]
+Lucheeto: calls 10
+ollikahn23: checks 
+*** FLOP *** [4s 3s 4c]
+ollikahn23: checks 
+Lucheeto: checks 
+*** TURN *** [4s 3s 4c] [4d]
+ollikahn23: checks 
+Lucheeto: checks 
+*** RIVER *** [4s 3s 4c 4d] [Ts]
+ollikahn23: checks 
+Lucheeto: checks 
+*** SHOW DOWN ***
+ollikahn23: shows [9c Kh] (three of a kind, Fours)
+Lucheeto: shows [2c Kd] (three of a kind, Fours)
+ollikahn23 collected 20 from pot
+Lucheeto collected 20 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [4s 3s 4c 4d Ts]
+Seat 1: Lucheeto (button) (small blind) showed [2c Kd] and won (20) with three of a kind, Fours
+Seat 2: ollikahn23 (big blind) showed [9c Kh] and won (20) with three of a kind, Fours
+
+
+
+PokerStars Hand #186066699218: Tournament #2297615489, $3.32+$0.18 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/06 0:20:24 CET [2018/05/05 18:20:24 ET]
+Table '2297615489 1' 2-max Seat #2 is the button
+Seat 1: Lucheeto (1630 in chips) 
+Seat 2: ollikahn23 (1370 in chips) 
+ollikahn23: posts small blind 10
+Lucheeto: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ac As]
+ollikahn23: raises 20 to 40
+Lucheeto: calls 20
+*** FLOP *** [Jc Qd 9h]
+Lucheeto: checks 
+ollikahn23: bets 60
+Lucheeto: raises 60 to 120
+ollikahn23: raises 135 to 255
+Lucheeto: calls 135
+*** TURN *** [Jc Qd 9h] [3d]
+Lucheeto: checks 
+ollikahn23: bets 311
+Lucheeto: raises 311 to 622
+ollikahn23: raises 453 to 1075 and is all-in
+Lucheeto: calls 453
+*** RIVER *** [Jc Qd 9h 3d] [4d]
+*** SHOW DOWN ***
+Lucheeto: shows [Kd Ts] (a straight, Nine to King)
+ollikahn23: shows [Ac As] (a pair of Aces)
+Lucheeto collected 2740 from pot
+ollikahn23 finished the tournament in 2nd place
+Lucheeto wins the tournament and receives $6.64 - congratulations!
+*** SUMMARY ***
+Total pot 2740 | Rake 0 
+Board [Jc Qd 9h 3d 4d]
+Seat 1: Lucheeto (big blind) showed [Kd Ts] and won (2740) with a straight, Nine to King
+Seat 2: ollikahn23 (button) (small blind) showed [Ac As] and lost with a pair of Aces
+
+
+

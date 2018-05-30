@@ -1,0 +1,206 @@
+﻿PokerStars Hand #186248180249: Tournament #2301555344, 19 SC Hold'em No Limit - Level I (25/50) - 2018/05/10 17:30:36 CET [2018/05/10 11:30:36 ET]
+Table '2301555344 1' 6-max Seat #1 is the button
+Seat 1: imgankhuu (500 in chips) 
+Seat 2: Knuthkuethe (500 in chips) 
+Seat 3: MBARRATT108 (500 in chips) 
+Seat 4: ollikahn23 (500 in chips) 
+Seat 5: andradegm (500 in chips) 
+Seat 6: Mona174610 (500 in chips) 
+imgankhuu: posts the ante 10
+Knuthkuethe: posts the ante 10
+MBARRATT108: posts the ante 10
+ollikahn23: posts the ante 10
+andradegm: posts the ante 10
+Mona174610: posts the ante 10
+Knuthkuethe: posts small blind 25
+MBARRATT108: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5h 6h]
+ollikahn23: folds 
+andradegm: folds 
+Mona174610: folds 
+imgankhuu: raises 105 to 155
+Knuthkuethe: folds 
+MBARRATT108: raises 335 to 490 and is all-in
+imgankhuu: folds [9d Jd]
+Uncalled bet (335) returned to MBARRATT108
+MBARRATT108 collected 395 from pot
+MBARRATT108: doesn't show hand 
+*** SUMMARY ***
+Total pot 395 | Rake 0 
+Seat 1: imgankhuu (button) folded before Flop
+Seat 2: Knuthkuethe (small blind) folded before Flop
+Seat 3: MBARRATT108 (big blind) collected (395)
+Seat 4: ollikahn23 folded before Flop (didn't bet)
+Seat 5: andradegm folded before Flop (didn't bet)
+Seat 6: Mona174610 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #186248199255: Tournament #2301555344, 19 SC Hold'em No Limit - Level I (25/50) - 2018/05/10 17:31:08 CET [2018/05/10 11:31:08 ET]
+Table '2301555344 1' 6-max Seat #2 is the button
+Seat 1: imgankhuu (335 in chips) 
+Seat 2: Knuthkuethe (465 in chips) 
+Seat 3: MBARRATT108 (730 in chips) 
+Seat 4: ollikahn23 (490 in chips) 
+Seat 5: andradegm (490 in chips) 
+Seat 6: Mona174610 (490 in chips) 
+imgankhuu: posts the ante 10
+Knuthkuethe: posts the ante 10
+MBARRATT108: posts the ante 10
+ollikahn23: posts the ante 10
+andradegm: posts the ante 10
+Mona174610: posts the ante 10
+MBARRATT108: posts small blind 25
+ollikahn23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Td Jc]
+andradegm: raises 50 to 100
+Mona174610: folds 
+imgankhuu: folds 
+Knuthkuethe: folds 
+MBARRATT108: calls 75
+ollikahn23: calls 50
+*** FLOP *** [Tc 8s Ks]
+MBARRATT108: checks 
+ollikahn23: bets 380 and is all-in
+andradegm: folds 
+MBARRATT108: folds 
+Uncalled bet (380) returned to ollikahn23
+ollikahn23 collected 360 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [Tc 8s Ks]
+Seat 1: imgankhuu folded before Flop (didn't bet)
+Seat 2: Knuthkuethe (button) folded before Flop (didn't bet)
+Seat 3: MBARRATT108 (small blind) folded on the Flop
+Seat 4: ollikahn23 (big blind) collected (360)
+Seat 5: andradegm folded on the Flop
+Seat 6: Mona174610 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #186248223511: Tournament #2301555344, 19 SC Hold'em No Limit - Level I (25/50) - 2018/05/10 17:31:49 CET [2018/05/10 11:31:49 ET]
+Table '2301555344 1' 6-max Seat #3 is the button
+Seat 1: imgankhuu (325 in chips) 
+Seat 2: Knuthkuethe (455 in chips) 
+Seat 3: MBARRATT108 (620 in chips) 
+Seat 4: ollikahn23 (740 in chips) 
+Seat 5: andradegm (380 in chips) 
+Seat 6: Mona174610 (480 in chips) 
+imgankhuu: posts the ante 10
+Knuthkuethe: posts the ante 10
+MBARRATT108: posts the ante 10
+ollikahn23: posts the ante 10
+andradegm: posts the ante 10
+Mona174610: posts the ante 10
+ollikahn23: posts small blind 25
+andradegm: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qc Kc]
+Mona174610: folds 
+imgankhuu: folds 
+Knuthkuethe: folds 
+MBARRATT108: raises 560 to 610 and is all-in
+ollikahn23: folds 
+andradegm: calls 320 and is all-in
+Uncalled bet (240) returned to MBARRATT108
+*** FLOP *** [Th Td 3c]
+*** TURN *** [Th Td 3c] [Kh]
+*** RIVER *** [Th Td 3c Kh] [8d]
+*** SHOW DOWN ***
+andradegm: shows [Qd 6h] (a pair of Tens)
+MBARRATT108: shows [7d Ah] (a pair of Tens - Ace kicker)
+MBARRATT108 collected 825 from pot
+andradegm finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 825 | Rake 0 
+Board [Th Td 3c Kh 8d]
+Seat 1: imgankhuu folded before Flop (didn't bet)
+Seat 2: Knuthkuethe folded before Flop (didn't bet)
+Seat 3: MBARRATT108 (button) showed [7d Ah] and won (825) with a pair of Tens
+Seat 4: ollikahn23 (small blind) folded before Flop
+Seat 5: andradegm (big blind) showed [Qd 6h] and lost with a pair of Tens
+Seat 6: Mona174610 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #186248240373: Tournament #2301555344, 19 SC Hold'em No Limit - Level I (25/50) - 2018/05/10 17:32:17 CET [2018/05/10 11:32:17 ET]
+Table '2301555344 1' 6-max Seat #4 is the button
+Seat 1: imgankhuu (315 in chips) 
+Seat 2: Knuthkuethe (445 in chips) 
+Seat 3: MBARRATT108 (1065 in chips) 
+Seat 4: ollikahn23 (705 in chips) 
+Seat 6: Mona174610 (470 in chips) 
+imgankhuu: posts the ante 10
+Knuthkuethe: posts the ante 10
+MBARRATT108: posts the ante 10
+ollikahn23: posts the ante 10
+Mona174610: posts the ante 10
+Mona174610: posts small blind 25
+imgankhuu: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6h Js]
+Knuthkuethe: raises 385 to 435 and is all-in
+MBARRATT108: folds 
+ollikahn23: folds 
+Mona174610: calls 410
+imgankhuu: folds 
+*** FLOP *** [2d 9d 7h]
+*** TURN *** [2d 9d 7h] [Jh]
+*** RIVER *** [2d 9d 7h Jh] [Kc]
+*** SHOW DOWN ***
+Mona174610: shows [Kh 7s] (two pair, Kings and Sevens)
+Knuthkuethe: shows [Qh Ad] (high card Ace)
+Mona174610 collected 970 from pot
+Knuthkuethe finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 970 | Rake 0 
+Board [2d 9d 7h Jh Kc]
+Seat 1: imgankhuu (big blind) folded before Flop
+Seat 2: Knuthkuethe showed [Qh Ad] and lost with high card Ace
+Seat 3: MBARRATT108 folded before Flop (didn't bet)
+Seat 4: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 6: Mona174610 (small blind) showed [Kh 7s] and won (970) with two pair, Kings and Sevens
+
+
+
+PokerStars Hand #186248252274: Tournament #2301555344, 19 SC Hold'em No Limit - Level I (25/50) - 2018/05/10 17:32:38 CET [2018/05/10 11:32:38 ET]
+Table '2301555344 1' 6-max Seat #6 is the button
+Seat 1: imgankhuu (255 in chips) 
+Seat 3: MBARRATT108 (1055 in chips) 
+Seat 4: ollikahn23 (695 in chips) 
+Seat 6: Mona174610 (995 in chips) 
+imgankhuu: posts the ante 10
+MBARRATT108: posts the ante 10
+ollikahn23: posts the ante 10
+Mona174610: posts the ante 10
+imgankhuu: posts small blind 25
+MBARRATT108: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ah 8c]
+ollikahn23: raises 50 to 100
+Mona174610: raises 885 to 985 and is all-in
+imgankhuu: folds 
+MBARRATT108: folds 
+ollikahn23: calls 585 and is all-in
+Uncalled bet (300) returned to Mona174610
+*** FLOP *** [5c 2c 8s]
+*** TURN *** [5c 2c 8s] [2h]
+*** RIVER *** [5c 2c 8s 2h] [4c]
+*** SHOW DOWN ***
+ollikahn23: shows [Ah 8c] (two pair, Eights and Deuces)
+Mona174610: shows [Qs Qd] (two pair, Queens and Deuces)
+Mona174610 collected 1485 from pot
+ollikahn23 finished the tournament in 4th place
+*** SUMMARY ***
+Total pot 1485 | Rake 0 
+Board [5c 2c 8s 2h 4c]
+Seat 1: imgankhuu (small blind) folded before Flop
+Seat 3: MBARRATT108 (big blind) folded before Flop
+Seat 4: ollikahn23 showed [Ah 8c] and lost with two pair, Eights and Deuces
+Seat 6: Mona174610 (button) showed [Qs Qd] and won (1485) with two pair, Queens and Deuces
+
+
+

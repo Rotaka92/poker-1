@@ -1,0 +1,265 @@
+﻿PokerStars Hand #186247789455: Tournament #2301547759, 37 SC Hold'em No Limit - Level I (25/50) - 2018/05/10 17:19:31 CET [2018/05/10 11:19:31 ET]
+Table '2301547759 1' 6-max Seat #1 is the button
+Seat 1: aa3270 (500 in chips) 
+Seat 2: CEMEHOBHA125 (500 in chips) 
+Seat 3: keymac198 (500 in chips) 
+Seat 4: ollikahn23 (500 in chips) 
+Seat 5: bars57 (500 in chips) 
+Seat 6: sexymotherfuckr (500 in chips) 
+aa3270: posts the ante 10
+CEMEHOBHA125: posts the ante 10
+keymac198: posts the ante 10
+ollikahn23: posts the ante 10
+bars57: posts the ante 10
+sexymotherfuckr: posts the ante 10
+CEMEHOBHA125: posts small blind 25
+keymac198: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9h Ad]
+ollikahn23: raises 50 to 100
+bars57: folds 
+sexymotherfuckr: folds 
+aa3270: folds 
+CEMEHOBHA125: folds 
+keymac198: folds 
+Uncalled bet (50) returned to ollikahn23
+ollikahn23 collected 185 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 185 | Rake 0 
+Seat 1: aa3270 (button) folded before Flop (didn't bet)
+Seat 2: CEMEHOBHA125 (small blind) folded before Flop
+Seat 3: keymac198 (big blind) folded before Flop
+Seat 4: ollikahn23 collected (185)
+Seat 5: bars57 folded before Flop (didn't bet)
+Seat 6: sexymotherfuckr folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #186247802001: Tournament #2301547759, 37 SC Hold'em No Limit - Level I (25/50) - 2018/05/10 17:19:53 CET [2018/05/10 11:19:53 ET]
+Table '2301547759 1' 6-max Seat #2 is the button
+Seat 1: aa3270 (490 in chips) 
+Seat 2: CEMEHOBHA125 (465 in chips) 
+Seat 3: keymac198 (440 in chips) 
+Seat 4: ollikahn23 (625 in chips) 
+Seat 5: bars57 (490 in chips) 
+Seat 6: sexymotherfuckr (490 in chips) 
+aa3270: posts the ante 10
+CEMEHOBHA125: posts the ante 10
+keymac198: posts the ante 10
+ollikahn23: posts the ante 10
+bars57: posts the ante 10
+sexymotherfuckr: posts the ante 10
+keymac198: posts small blind 25
+ollikahn23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5c 8d]
+bars57: calls 50
+sexymotherfuckr: raises 430 to 480 and is all-in
+aa3270: folds 
+CEMEHOBHA125: folds 
+keymac198: folds 
+ollikahn23: folds 
+bars57: calls 430 and is all-in
+*** FLOP *** [5h Tc Qs]
+*** TURN *** [5h Tc Qs] [Jc]
+*** RIVER *** [5h Tc Qs Jc] [6h]
+*** SHOW DOWN ***
+bars57: shows [9s 6c] (a pair of Sixes)
+sexymotherfuckr: shows [7s 7d] (a pair of Sevens)
+sexymotherfuckr collected 1095 from pot
+bars57 finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 1095 | Rake 0 
+Board [5h Tc Qs Jc 6h]
+Seat 1: aa3270 folded before Flop (didn't bet)
+Seat 2: CEMEHOBHA125 (button) folded before Flop (didn't bet)
+Seat 3: keymac198 (small blind) folded before Flop
+Seat 4: ollikahn23 (big blind) folded before Flop
+Seat 5: bars57 showed [9s 6c] and lost with a pair of Sixes
+Seat 6: sexymotherfuckr showed [7s 7d] and won (1095) with a pair of Sevens
+
+
+
+PokerStars Hand #186247818226: Tournament #2301547759, 37 SC Hold'em No Limit - Level I (25/50) - 2018/05/10 17:20:20 CET [2018/05/10 11:20:20 ET]
+Table '2301547759 1' 6-max Seat #3 is the button
+Seat 1: aa3270 (480 in chips) 
+Seat 2: CEMEHOBHA125 (455 in chips) 
+Seat 3: keymac198 (405 in chips) 
+Seat 4: ollikahn23 (565 in chips) 
+Seat 6: sexymotherfuckr (1095 in chips) 
+aa3270: posts the ante 10
+CEMEHOBHA125: posts the ante 10
+keymac198: posts the ante 10
+ollikahn23: posts the ante 10
+sexymotherfuckr: posts the ante 10
+ollikahn23: posts small blind 25
+sexymotherfuckr: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2c 9d]
+aa3270: folds 
+CEMEHOBHA125: folds 
+keymac198: raises 175 to 225
+ollikahn23: folds 
+sexymotherfuckr: folds 
+Uncalled bet (175) returned to keymac198
+keymac198 collected 175 from pot
+keymac198: doesn't show hand 
+*** SUMMARY ***
+Total pot 175 | Rake 0 
+Seat 1: aa3270 folded before Flop (didn't bet)
+Seat 2: CEMEHOBHA125 folded before Flop (didn't bet)
+Seat 3: keymac198 (button) collected (175)
+Seat 4: ollikahn23 (small blind) folded before Flop
+Seat 6: sexymotherfuckr (big blind) folded before Flop
+
+
+
+PokerStars Hand #186247827599: Tournament #2301547759, 37 SC Hold'em No Limit - Level I (25/50) - 2018/05/10 17:20:36 CET [2018/05/10 11:20:36 ET]
+Table '2301547759 1' 6-max Seat #4 is the button
+Seat 1: aa3270 (470 in chips) 
+Seat 2: CEMEHOBHA125 (445 in chips) 
+Seat 3: keymac198 (520 in chips) 
+Seat 4: ollikahn23 (530 in chips) 
+Seat 6: sexymotherfuckr (1035 in chips) 
+aa3270: posts the ante 10
+CEMEHOBHA125: posts the ante 10
+keymac198: posts the ante 10
+ollikahn23: posts the ante 10
+sexymotherfuckr: posts the ante 10
+sexymotherfuckr: posts small blind 25
+aa3270: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kh Td]
+CEMEHOBHA125: folds 
+keymac198: folds 
+ollikahn23: raises 470 to 520 and is all-in
+sexymotherfuckr: folds 
+aa3270: folds 
+Uncalled bet (470) returned to ollikahn23
+ollikahn23 collected 175 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 175 | Rake 0 
+Seat 1: aa3270 (big blind) folded before Flop
+Seat 2: CEMEHOBHA125 folded before Flop (didn't bet)
+Seat 3: keymac198 folded before Flop (didn't bet)
+Seat 4: ollikahn23 (button) collected (175)
+Seat 6: sexymotherfuckr (small blind) folded before Flop
+
+
+
+PokerStars Hand #186247840896: Tournament #2301547759, 37 SC Hold'em No Limit - Level I (25/50) - 2018/05/10 17:20:59 CET [2018/05/10 11:20:59 ET]
+Table '2301547759 1' 6-max Seat #6 is the button
+Seat 1: aa3270 (410 in chips) 
+Seat 2: CEMEHOBHA125 (435 in chips) 
+Seat 3: keymac198 (510 in chips) 
+Seat 4: ollikahn23 (645 in chips) 
+Seat 6: sexymotherfuckr (1000 in chips) 
+aa3270: posts the ante 10
+CEMEHOBHA125: posts the ante 10
+keymac198: posts the ante 10
+ollikahn23: posts the ante 10
+sexymotherfuckr: posts the ante 10
+aa3270: posts small blind 25
+CEMEHOBHA125: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Td 5s]
+keymac198: raises 175 to 225
+ollikahn23: folds 
+sexymotherfuckr: folds 
+aa3270: folds 
+CEMEHOBHA125: folds 
+Uncalled bet (175) returned to keymac198
+keymac198 collected 175 from pot
+keymac198: doesn't show hand 
+*** SUMMARY ***
+Total pot 175 | Rake 0 
+Seat 1: aa3270 (small blind) folded before Flop
+Seat 2: CEMEHOBHA125 (big blind) folded before Flop
+Seat 3: keymac198 collected (175)
+Seat 4: ollikahn23 folded before Flop (didn't bet)
+Seat 6: sexymotherfuckr (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #186247849590: Tournament #2301547759, 37 SC Hold'em No Limit - Level I (25/50) - 2018/05/10 17:21:14 CET [2018/05/10 11:21:14 ET]
+Table '2301547759 1' 6-max Seat #1 is the button
+Seat 1: aa3270 (375 in chips) 
+Seat 2: CEMEHOBHA125 (375 in chips) 
+Seat 3: keymac198 (625 in chips) 
+Seat 4: ollikahn23 (635 in chips) 
+Seat 6: sexymotherfuckr (990 in chips) 
+aa3270: posts the ante 10
+CEMEHOBHA125: posts the ante 10
+keymac198: posts the ante 10
+ollikahn23: posts the ante 10
+sexymotherfuckr: posts the ante 10
+CEMEHOBHA125: posts small blind 25
+keymac198: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7c Qh]
+ollikahn23: folds 
+sexymotherfuckr: folds 
+aa3270: raises 315 to 365 and is all-in
+CEMEHOBHA125: calls 340 and is all-in
+keymac198: calls 315
+*** FLOP *** [6d 8c Jc]
+*** TURN *** [6d 8c Jc] [3h]
+*** RIVER *** [6d 8c Jc 3h] [Kh]
+*** SHOW DOWN ***
+CEMEHOBHA125: shows [Td Jd] (a pair of Jacks)
+keymac198: shows [As 3d] (a pair of Threes)
+aa3270: shows [Ac 3s] (a pair of Threes)
+CEMEHOBHA125 collected 1145 from pot
+aa3270 finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 1145 | Rake 0 
+Board [6d 8c Jc 3h Kh]
+Seat 1: aa3270 (button) showed [Ac 3s] and lost with a pair of Threes
+Seat 2: CEMEHOBHA125 (small blind) showed [Td Jd] and won (1145) with a pair of Jacks
+Seat 3: keymac198 (big blind) showed [As 3d] and lost with a pair of Threes
+Seat 4: ollikahn23 folded before Flop (didn't bet)
+Seat 6: sexymotherfuckr folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #186247875092: Tournament #2301547759, 37 SC Hold'em No Limit - Level I (25/50) - 2018/05/10 17:21:57 CET [2018/05/10 11:21:57 ET]
+Table '2301547759 1' 6-max Seat #2 is the button
+Seat 2: CEMEHOBHA125 (1145 in chips) 
+Seat 3: keymac198 (250 in chips) 
+Seat 4: ollikahn23 (625 in chips) 
+Seat 6: sexymotherfuckr (980 in chips) 
+CEMEHOBHA125: posts the ante 10
+keymac198: posts the ante 10
+ollikahn23: posts the ante 10
+sexymotherfuckr: posts the ante 10
+keymac198: posts small blind 25
+ollikahn23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kd Ac]
+sexymotherfuckr: folds 
+CEMEHOBHA125: calls 50
+keymac198: folds 
+ollikahn23: raises 150 to 200
+CEMEHOBHA125: raises 935 to 1135 and is all-in
+ollikahn23: calls 415 and is all-in
+Uncalled bet (520) returned to CEMEHOBHA125
+*** FLOP *** [8d Th 5s]
+*** TURN *** [8d Th 5s] [2s]
+*** RIVER *** [8d Th 5s 2s] [6d]
+*** SHOW DOWN ***
+ollikahn23: shows [Kd Ac] (high card Ace)
+CEMEHOBHA125: shows [8s Kh] (a pair of Eights)
+CEMEHOBHA125 collected 1295 from pot
+ollikahn23 finished the tournament in 4th place
+*** SUMMARY ***
+Total pot 1295 | Rake 0 
+Board [8d Th 5s 2s 6d]
+Seat 2: CEMEHOBHA125 (button) showed [8s Kh] and won (1295) with a pair of Eights
+Seat 3: keymac198 (small blind) folded before Flop
+Seat 4: ollikahn23 (big blind) showed [Kd Ac] and lost with high card Ace
+Seat 6: sexymotherfuckr folded before Flop (didn't bet)
+
+
+

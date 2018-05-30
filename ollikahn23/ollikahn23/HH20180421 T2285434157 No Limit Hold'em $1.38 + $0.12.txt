@@ -1,0 +1,1937 @@
+﻿PokerStars Hand #185513090294: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/21 18:12:06 ET
+Table '2285434157 1' 2-max Seat #1 is the button
+Seat 1: vanDEmaaan (1500 in chips) 
+Seat 2: ollikahn23 (1500 in chips) 
+vanDEmaaan: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Js 7d]
+vanDEmaaan: raises 20 to 40
+ollikahn23: folds 
+Uncalled bet (20) returned to vanDEmaaan
+vanDEmaaan collected 40 from pot
+vanDEmaaan: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: vanDEmaaan (button) (small blind) collected (40)
+Seat 2: ollikahn23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #185513102336: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/21 18:12:26 ET
+Table '2285434157 1' 2-max Seat #2 is the button
+Seat 1: vanDEmaaan (1520 in chips) 
+Seat 2: ollikahn23 (1480 in chips) 
+ollikahn23: posts small blind 10
+vanDEmaaan: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qh 3d]
+ollikahn23: raises 20 to 40
+vanDEmaaan: calls 20
+*** FLOP *** [3s 5h Ac]
+vanDEmaaan: checks 
+ollikahn23: bets 40
+vanDEmaaan: calls 40
+*** TURN *** [3s 5h Ac] [8d]
+vanDEmaaan: bets 80
+ollikahn23: folds 
+Uncalled bet (80) returned to vanDEmaaan
+vanDEmaaan collected 160 from pot
+vanDEmaaan: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [3s 5h Ac 8d]
+Seat 1: vanDEmaaan (big blind) collected (160)
+Seat 2: ollikahn23 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #185513142336: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/21 18:13:29 ET
+Table '2285434157 1' 2-max Seat #1 is the button
+Seat 1: vanDEmaaan (1600 in chips) 
+Seat 2: ollikahn23 (1400 in chips) 
+vanDEmaaan: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ad Qc]
+vanDEmaaan: raises 20 to 40
+ollikahn23: raises 40 to 80
+vanDEmaaan: calls 40
+*** FLOP *** [Ac 9d 2c]
+ollikahn23: bets 80
+vanDEmaaan: calls 80
+*** TURN *** [Ac 9d 2c] [5h]
+ollikahn23: bets 140
+vanDEmaaan: calls 140
+*** RIVER *** [Ac 9d 2c 5h] [7d]
+ollikahn23: bets 240
+vanDEmaaan: raises 1060 to 1300 and is all-in
+ollikahn23: folds 
+Uncalled bet (1060) returned to vanDEmaaan
+vanDEmaaan collected 1080 from pot
+vanDEmaaan: doesn't show hand 
+*** SUMMARY ***
+Total pot 1080 | Rake 0 
+Board [Ac 9d 2c 5h 7d]
+Seat 1: vanDEmaaan (button) (small blind) collected (1080)
+Seat 2: ollikahn23 (big blind) folded on the River
+
+
+
+PokerStars Hand #185513190948: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/21 18:14:46 ET
+Table '2285434157 1' 2-max Seat #2 is the button
+Seat 1: vanDEmaaan (2140 in chips) 
+Seat 2: ollikahn23 (860 in chips) 
+ollikahn23: posts small blind 10
+vanDEmaaan: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2d 5c]
+ollikahn23: folds 
+Uncalled bet (10) returned to vanDEmaaan
+vanDEmaaan collected 20 from pot
+vanDEmaaan: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: vanDEmaaan (big blind) collected (20)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185513194232: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/21 18:14:51 ET
+Table '2285434157 1' 2-max Seat #1 is the button
+Seat 1: vanDEmaaan (2150 in chips) 
+Seat 2: ollikahn23 (850 in chips) 
+vanDEmaaan: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ah 7h]
+vanDEmaaan: raises 20 to 40
+ollikahn23: calls 20
+*** FLOP *** [8h 6c Jd]
+ollikahn23: checks 
+vanDEmaaan: checks 
+*** TURN *** [8h 6c Jd] [Ad]
+ollikahn23: bets 60
+vanDEmaaan: folds 
+Uncalled bet (60) returned to ollikahn23
+ollikahn23 collected 80 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [8h 6c Jd Ad]
+Seat 1: vanDEmaaan (button) (small blind) folded on the Turn
+Seat 2: ollikahn23 (big blind) collected (80)
+
+
+
+PokerStars Hand #185513216668: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/21 18:15:26 ET
+Table '2285434157 1' 2-max Seat #2 is the button
+Seat 1: vanDEmaaan (2110 in chips) 
+Seat 2: ollikahn23 (890 in chips) 
+ollikahn23: posts small blind 10
+vanDEmaaan: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2h Jh]
+ollikahn23: folds 
+Uncalled bet (10) returned to vanDEmaaan
+vanDEmaaan collected 20 from pot
+vanDEmaaan: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: vanDEmaaan (big blind) collected (20)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185513220066: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/21 18:15:32 ET
+Table '2285434157 1' 2-max Seat #1 is the button
+Seat 1: vanDEmaaan (2120 in chips) 
+Seat 2: ollikahn23 (880 in chips) 
+vanDEmaaan: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Tc 9d]
+vanDEmaaan: raises 20 to 40
+ollikahn23: folds 
+Uncalled bet (20) returned to vanDEmaaan
+vanDEmaaan collected 40 from pot
+vanDEmaaan: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: vanDEmaaan (button) (small blind) collected (40)
+Seat 2: ollikahn23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #185513227544: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/21 18:15:44 ET
+Table '2285434157 1' 2-max Seat #2 is the button
+Seat 1: vanDEmaaan (2140 in chips) 
+Seat 2: ollikahn23 (860 in chips) 
+ollikahn23: posts small blind 10
+vanDEmaaan: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jd Ah]
+ollikahn23: raises 20 to 40
+vanDEmaaan: calls 20
+*** FLOP *** [4s 3d 6c]
+vanDEmaaan: checks 
+ollikahn23: bets 60
+vanDEmaaan: calls 60
+*** TURN *** [4s 3d 6c] [Kh]
+vanDEmaaan: checks 
+ollikahn23: checks 
+*** RIVER *** [4s 3d 6c Kh] [6s]
+vanDEmaaan: checks 
+ollikahn23: checks 
+*** SHOW DOWN ***
+vanDEmaaan: shows [9c 4c] (two pair, Sixes and Fours)
+ollikahn23: mucks hand 
+vanDEmaaan collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [4s 3d 6c Kh 6s]
+Seat 1: vanDEmaaan (big blind) showed [9c 4c] and won (200) with two pair, Sixes and Fours
+Seat 2: ollikahn23 (button) (small blind) mucked [Jd Ah]
+
+
+
+PokerStars Hand #185513267990: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/21 18:16:49 ET
+Table '2285434157 1' 2-max Seat #1 is the button
+Seat 1: vanDEmaaan (2240 in chips) 
+Seat 2: ollikahn23 (760 in chips) 
+vanDEmaaan: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8h Ad]
+vanDEmaaan: raises 20 to 40
+ollikahn23: calls 20
+*** FLOP *** [8d Kh Tc]
+ollikahn23: checks 
+vanDEmaaan: bets 60
+ollikahn23: folds 
+Uncalled bet (60) returned to vanDEmaaan
+vanDEmaaan collected 80 from pot
+vanDEmaaan: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [8d Kh Tc]
+Seat 1: vanDEmaaan (button) (small blind) collected (80)
+Seat 2: ollikahn23 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #185513292745: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/21 18:17:29 ET
+Table '2285434157 1' 2-max Seat #2 is the button
+Seat 1: vanDEmaaan (2280 in chips) 
+Seat 2: ollikahn23 (720 in chips) 
+ollikahn23: posts small blind 10
+vanDEmaaan: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3c 9c]
+ollikahn23: folds 
+Uncalled bet (10) returned to vanDEmaaan
+vanDEmaaan collected 20 from pot
+vanDEmaaan: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: vanDEmaaan (big blind) collected (20)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185513296063: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/21 18:17:34 ET
+Table '2285434157 1' 2-max Seat #1 is the button
+Seat 1: vanDEmaaan (2290 in chips) 
+Seat 2: ollikahn23 (710 in chips) 
+vanDEmaaan: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5c 9h]
+vanDEmaaan: folds 
+Uncalled bet (10) returned to ollikahn23
+ollikahn23 collected 20 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: vanDEmaaan (button) (small blind) folded before Flop
+Seat 2: ollikahn23 (big blind) collected (20)
+
+
+
+PokerStars Hand #185513303673: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/21 18:17:46 ET
+Table '2285434157 1' 2-max Seat #2 is the button
+Seat 1: vanDEmaaan (2280 in chips) 
+Seat 2: ollikahn23 (720 in chips) 
+ollikahn23: posts small blind 10
+vanDEmaaan: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ad 6h]
+ollikahn23: raises 20 to 40
+vanDEmaaan: calls 20
+*** FLOP *** [9d 6c Qh]
+vanDEmaaan: checks 
+ollikahn23: checks 
+*** TURN *** [9d 6c Qh] [4c]
+vanDEmaaan: bets 40
+ollikahn23: calls 40
+*** RIVER *** [9d 6c Qh 4c] [Js]
+vanDEmaaan: checks 
+ollikahn23: bets 80
+vanDEmaaan: raises 240 to 320
+ollikahn23: calls 240
+*** SHOW DOWN ***
+vanDEmaaan: shows [Kc 7h] (high card King)
+ollikahn23: shows [Ad 6h] (a pair of Sixes)
+ollikahn23 collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | Rake 0 
+Board [9d 6c Qh 4c Js]
+Seat 1: vanDEmaaan (big blind) showed [Kc 7h] and lost with high card King
+Seat 2: ollikahn23 (button) (small blind) showed [Ad 6h] and won (800) with a pair of Sixes
+
+
+
+PokerStars Hand #185513368978: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/21 18:19:30 ET
+Table '2285434157 1' 2-max Seat #1 is the button
+Seat 1: vanDEmaaan (1880 in chips) 
+Seat 2: ollikahn23 (1120 in chips) 
+vanDEmaaan: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qc 8h]
+vanDEmaaan: raises 30 to 60
+ollikahn23: calls 30
+*** FLOP *** [9s 2c 5s]
+ollikahn23: checks 
+vanDEmaaan said, "idiiot"
+vanDEmaaan: checks 
+*** TURN *** [9s 2c 5s] [9c]
+ollikahn23 said, "so eindeutiger bluff :D idiot"
+ollikahn23: checks 
+vanDEmaaan: checks 
+*** RIVER *** [9s 2c 5s 9c] [4d]
+ollikahn23: checks 
+vanDEmaaan said, "du meinst du kannst das hier gewinnen??"
+vanDEmaaan: checks 
+*** SHOW DOWN ***
+ollikahn23: shows [Qc 8h] (a pair of Nines)
+vanDEmaaan: shows [8c Ks] (a pair of Nines - King kicker)
+vanDEmaaan collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [9s 2c 5s 9c 4d]
+Seat 1: vanDEmaaan (button) (small blind) showed [8c Ks] and won (120) with a pair of Nines
+Seat 2: ollikahn23 (big blind) showed [Qc 8h] and lost with a pair of Nines
+
+
+
+PokerStars Hand #185513403232: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/21 18:20:25 ET
+Table '2285434157 1' 2-max Seat #2 is the button
+Seat 1: vanDEmaaan (1940 in chips) 
+Seat 2: ollikahn23 (1060 in chips) 
+ollikahn23: posts small blind 15
+vanDEmaaan: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9c 2h]
+ollikahn23: folds 
+Uncalled bet (15) returned to vanDEmaaan
+vanDEmaaan collected 30 from pot
+vanDEmaaan: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: vanDEmaaan (big blind) collected (30)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185513407901: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/21 18:20:32 ET
+Table '2285434157 1' 2-max Seat #1 is the button
+Seat 1: vanDEmaaan (1955 in chips) 
+Seat 2: ollikahn23 (1045 in chips) 
+vanDEmaaan: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6c Qh]
+ollikahn23 said, "..."
+vanDEmaaan: raises 30 to 60
+ollikahn23: calls 30
+*** FLOP *** [As 9s Qs]
+ollikahn23: checks 
+vanDEmaaan: checks 
+*** TURN *** [As 9s Qs] [5c]
+ollikahn23: bets 60
+vanDEmaaan: folds 
+Uncalled bet (60) returned to ollikahn23
+ollikahn23 collected 120 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [As 9s Qs 5c]
+Seat 1: vanDEmaaan (button) (small blind) folded on the Turn
+Seat 2: ollikahn23 (big blind) collected (120)
+
+
+
+PokerStars Hand #185513426831: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/21 18:21:02 ET
+Table '2285434157 1' 2-max Seat #2 is the button
+Seat 1: vanDEmaaan (1895 in chips) 
+Seat 2: ollikahn23 (1105 in chips) 
+ollikahn23: posts small blind 15
+vanDEmaaan: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qh As]
+ollikahn23: raises 30 to 60
+vanDEmaaan: calls 30
+*** FLOP *** [8c 6h Kh]
+vanDEmaaan: checks 
+ollikahn23: checks 
+*** TURN *** [8c 6h Kh] [4d]
+vanDEmaaan: bets 120
+ollikahn23: folds 
+Uncalled bet (120) returned to vanDEmaaan
+vanDEmaaan collected 120 from pot
+vanDEmaaan: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [8c 6h Kh 4d]
+Seat 1: vanDEmaaan (big blind) collected (120)
+Seat 2: ollikahn23 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #185513452944: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/21 18:21:42 ET
+Table '2285434157 1' 2-max Seat #1 is the button
+Seat 1: vanDEmaaan (1955 in chips) 
+Seat 2: ollikahn23 (1045 in chips) 
+vanDEmaaan: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qc 4h]
+vanDEmaaan: raises 30 to 60
+ollikahn23: folds 
+Uncalled bet (30) returned to vanDEmaaan
+vanDEmaaan collected 60 from pot
+vanDEmaaan: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: vanDEmaaan (button) (small blind) collected (60)
+Seat 2: ollikahn23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #185513460514: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/21 18:21:55 ET
+Table '2285434157 1' 2-max Seat #2 is the button
+Seat 1: vanDEmaaan (1985 in chips) 
+Seat 2: ollikahn23 (1015 in chips) 
+ollikahn23: posts small blind 15
+vanDEmaaan: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4h 8d]
+ollikahn23: folds 
+Uncalled bet (15) returned to vanDEmaaan
+vanDEmaaan collected 30 from pot
+vanDEmaaan: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: vanDEmaaan (big blind) collected (30)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185513463868: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/21 18:22:00 ET
+Table '2285434157 1' 2-max Seat #1 is the button
+Seat 1: vanDEmaaan (2000 in chips) 
+Seat 2: ollikahn23 (1000 in chips) 
+vanDEmaaan: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5d 6c]
+vanDEmaaan: raises 30 to 60
+ollikahn23: folds 
+Uncalled bet (30) returned to vanDEmaaan
+vanDEmaaan collected 60 from pot
+vanDEmaaan: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: vanDEmaaan (button) (small blind) collected (60)
+Seat 2: ollikahn23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #185513468210: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/21 18:22:07 ET
+Table '2285434157 1' 2-max Seat #2 is the button
+Seat 1: vanDEmaaan (2030 in chips) 
+Seat 2: ollikahn23 (970 in chips) 
+ollikahn23: posts small blind 15
+vanDEmaaan: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3c 8h]
+ollikahn23: folds 
+Uncalled bet (15) returned to vanDEmaaan
+vanDEmaaan collected 30 from pot
+vanDEmaaan: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: vanDEmaaan (big blind) collected (30)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185513471408: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/21 18:22:12 ET
+Table '2285434157 1' 2-max Seat #1 is the button
+Seat 1: vanDEmaaan (2045 in chips) 
+Seat 2: ollikahn23 (955 in chips) 
+vanDEmaaan: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kh 7d]
+vanDEmaaan: raises 30 to 60
+ollikahn23: calls 30
+*** FLOP *** [8h Js 9s]
+ollikahn23: checks 
+vanDEmaaan: bets 60
+ollikahn23: folds 
+Uncalled bet (60) returned to vanDEmaaan
+vanDEmaaan collected 120 from pot
+vanDEmaaan: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [8h Js 9s]
+Seat 1: vanDEmaaan (button) (small blind) collected (120)
+Seat 2: ollikahn23 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #185513483232: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/21 18:22:31 ET
+Table '2285434157 1' 2-max Seat #2 is the button
+Seat 1: vanDEmaaan (2105 in chips) 
+Seat 2: ollikahn23 (895 in chips) 
+ollikahn23: posts small blind 15
+vanDEmaaan: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7h Kd]
+ollikahn23: raises 30 to 60
+vanDEmaaan: calls 30
+*** FLOP *** [4h Qc Kc]
+vanDEmaaan: checks 
+ollikahn23: bets 60
+vanDEmaaan: folds 
+Uncalled bet (60) returned to ollikahn23
+ollikahn23 collected 120 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [4h Qc Kc]
+Seat 1: vanDEmaaan (big blind) folded on the Flop
+Seat 2: ollikahn23 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #185513494779: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/21 18:22:50 ET
+Table '2285434157 1' 2-max Seat #1 is the button
+Seat 1: vanDEmaaan (2045 in chips) 
+Seat 2: ollikahn23 (955 in chips) 
+vanDEmaaan: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4h 5d]
+vanDEmaaan: raises 30 to 60
+ollikahn23: folds 
+Uncalled bet (30) returned to vanDEmaaan
+vanDEmaaan collected 60 from pot
+vanDEmaaan: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: vanDEmaaan (button) (small blind) collected (60)
+Seat 2: ollikahn23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #185513504598: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/21 18:23:05 ET
+Table '2285434157 1' 2-max Seat #2 is the button
+Seat 1: vanDEmaaan (2075 in chips) 
+Seat 2: ollikahn23 (925 in chips) 
+ollikahn23: posts small blind 15
+vanDEmaaan: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9d Ts]
+ollikahn23: folds 
+Uncalled bet (15) returned to vanDEmaaan
+vanDEmaaan collected 30 from pot
+vanDEmaaan: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: vanDEmaaan (big blind) collected (30)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185513510822: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/21 18:23:15 ET
+Table '2285434157 1' 2-max Seat #1 is the button
+Seat 1: vanDEmaaan (2090 in chips) 
+Seat 2: ollikahn23 (910 in chips) 
+vanDEmaaan: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Tc Td]
+vanDEmaaan: raises 30 to 60
+ollikahn23: raises 90 to 150
+vanDEmaaan: calls 90
+*** FLOP *** [6h Ts Jc]
+ollikahn23: bets 150
+vanDEmaaan: folds 
+Uncalled bet (150) returned to ollikahn23
+ollikahn23 collected 300 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [6h Ts Jc]
+Seat 1: vanDEmaaan (button) (small blind) folded on the Flop
+Seat 2: ollikahn23 (big blind) collected (300)
+
+
+
+PokerStars Hand #185513520423: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/21 18:23:31 ET
+Table '2285434157 1' 2-max Seat #2 is the button
+Seat 1: vanDEmaaan (1940 in chips) 
+Seat 2: ollikahn23 (1060 in chips) 
+ollikahn23: posts small blind 15
+vanDEmaaan: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2s 3s]
+ollikahn23: folds 
+Uncalled bet (15) returned to vanDEmaaan
+vanDEmaaan collected 30 from pot
+vanDEmaaan: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: vanDEmaaan (big blind) collected (30)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185513523697: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/21 18:23:36 ET
+Table '2285434157 1' 2-max Seat #1 is the button
+Seat 1: vanDEmaaan (1955 in chips) 
+Seat 2: ollikahn23 (1045 in chips) 
+vanDEmaaan: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2s 4h]
+vanDEmaaan: calls 15
+ollikahn23: checks 
+*** FLOP *** [7s 8d 5s]
+ollikahn23: checks 
+vanDEmaaan: checks 
+*** TURN *** [7s 8d 5s] [Qs]
+ollikahn23: checks 
+vanDEmaaan: bets 30
+ollikahn23: folds 
+Uncalled bet (30) returned to vanDEmaaan
+vanDEmaaan collected 60 from pot
+vanDEmaaan: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [7s 8d 5s Qs]
+Seat 1: vanDEmaaan (button) (small blind) collected (60)
+Seat 2: ollikahn23 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #185513531816: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/21 18:23:49 ET
+Table '2285434157 1' 2-max Seat #2 is the button
+Seat 1: vanDEmaaan (1985 in chips) 
+Seat 2: ollikahn23 (1015 in chips) 
+ollikahn23: posts small blind 15
+vanDEmaaan: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6d 7h]
+ollikahn23: folds 
+Uncalled bet (15) returned to vanDEmaaan
+vanDEmaaan collected 30 from pot
+vanDEmaaan: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: vanDEmaaan (big blind) collected (30)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185513535213: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/21 18:23:54 ET
+Table '2285434157 1' 2-max Seat #1 is the button
+Seat 1: vanDEmaaan (2000 in chips) 
+Seat 2: ollikahn23 (1000 in chips) 
+vanDEmaaan: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8s 9d]
+vanDEmaaan: folds 
+Uncalled bet (15) returned to ollikahn23
+ollikahn23 collected 30 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: vanDEmaaan (button) (small blind) folded before Flop
+Seat 2: ollikahn23 (big blind) collected (30)
+
+
+
+PokerStars Hand #185513538802: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/21 18:24:00 ET
+Table '2285434157 1' 2-max Seat #2 is the button
+Seat 1: vanDEmaaan (1985 in chips) 
+Seat 2: ollikahn23 (1015 in chips) 
+ollikahn23: posts small blind 15
+vanDEmaaan: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6s Qh]
+ollikahn23: raises 30 to 60
+vanDEmaaan: raises 210 to 270
+ollikahn23: folds 
+Uncalled bet (210) returned to vanDEmaaan
+vanDEmaaan collected 120 from pot
+vanDEmaaan: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: vanDEmaaan (big blind) collected (120)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185513546051: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/04/21 18:24:11 ET
+Table '2285434157 1' 2-max Seat #1 is the button
+Seat 1: vanDEmaaan (2045 in chips) 
+Seat 2: ollikahn23 (955 in chips) 
+vanDEmaaan: posts small blind 20
+ollikahn23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kd As]
+vanDEmaaan: calls 20
+ollikahn23: raises 120 to 160
+vanDEmaaan: calls 120
+*** FLOP *** [2d Qc Qh]
+ollikahn23: bets 160
+vanDEmaaan: calls 160
+*** TURN *** [2d Qc Qh] [Th]
+ollikahn23: bets 635 and is all-in
+vanDEmaaan said, "hmmmmmmmmmmmm"
+vanDEmaaan said, "hast dus?"
+vanDEmaaan: calls 635
+*** RIVER *** [2d Qc Qh Th] [Jh]
+*** SHOW DOWN ***
+ollikahn23: shows [Kd As] (a straight, Ten to Ace)
+vanDEmaaan: shows [Ts Ac] (two pair, Queens and Tens)
+ollikahn23 collected 1910 from pot
+ollikahn23 said, "nice call"
+*** SUMMARY ***
+Total pot 1910 | Rake 0 
+Board [2d Qc Qh Th Jh]
+Seat 1: vanDEmaaan (button) (small blind) showed [Ts Ac] and lost with two pair, Queens and Tens
+Seat 2: ollikahn23 (big blind) showed [Kd As] and won (1910) with a straight, Ten to Ace
+
+
+
+PokerStars Hand #185513583548: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/04/21 18:25:11 ET
+Table '2285434157 1' 2-max Seat #2 is the button
+Seat 1: vanDEmaaan (1090 in chips) 
+Seat 2: ollikahn23 (1910 in chips) 
+ollikahn23: posts small blind 20
+vanDEmaaan: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2s 6d]
+ollikahn23 said, "sick"
+ollikahn23: folds 
+Uncalled bet (20) returned to vanDEmaaan
+vanDEmaaan collected 40 from pot
+vanDEmaaan: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: vanDEmaaan (big blind) collected (40)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185513589282: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/04/21 18:25:20 ET
+Table '2285434157 1' 2-max Seat #1 is the button
+Seat 1: vanDEmaaan (1110 in chips) 
+Seat 2: ollikahn23 (1890 in chips) 
+vanDEmaaan: posts small blind 20
+ollikahn23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3d Td]
+vanDEmaaan: calls 20
+ollikahn23: checks 
+*** FLOP *** [8s Qd 7d]
+ollikahn23: checks 
+vanDEmaaan: checks 
+*** TURN *** [8s Qd 7d] [2c]
+ollikahn23: bets 40
+vanDEmaaan: calls 40
+*** RIVER *** [8s Qd 7d 2c] [Ts]
+ollikahn23: bets 80
+vanDEmaaan: calls 80
+*** SHOW DOWN ***
+ollikahn23: shows [3d Td] (a pair of Tens)
+vanDEmaaan: shows [As Th] (a pair of Tens - Ace kicker)
+vanDEmaaan collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [8s Qd 7d 2c Ts]
+Seat 1: vanDEmaaan (button) (small blind) showed [As Th] and won (320) with a pair of Tens
+Seat 2: ollikahn23 (big blind) showed [3d Td] and lost with a pair of Tens
+
+
+
+PokerStars Hand #185513615448: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/04/21 18:25:47 ET
+Table '2285434157 1' 2-max Seat #2 is the button
+Seat 1: vanDEmaaan (1270 in chips) 
+Seat 2: ollikahn23 (1730 in chips) 
+ollikahn23: posts small blind 20
+vanDEmaaan: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kh Qd]
+ollikahn23: raises 40 to 80
+vanDEmaaan: calls 40
+*** FLOP *** [Kc Ah 4h]
+vanDEmaaan: checks 
+ollikahn23: checks 
+*** TURN *** [Kc Ah 4h] [2d]
+vanDEmaaan: bets 40
+ollikahn23: calls 40
+*** RIVER *** [Kc Ah 4h 2d] [9d]
+vanDEmaaan: bets 120
+ollikahn23: calls 120
+*** SHOW DOWN ***
+vanDEmaaan: shows [7s Js] (high card Ace)
+ollikahn23: shows [Kh Qd] (a pair of Kings)
+ollikahn23 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [Kc Ah 4h 2d 9d]
+Seat 1: vanDEmaaan (big blind) showed [7s Js] and lost with high card Ace
+Seat 2: ollikahn23 (button) (small blind) showed [Kh Qd] and won (480) with a pair of Kings
+
+
+
+PokerStars Hand #185513627704: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/04/21 18:26:07 ET
+Table '2285434157 1' 2-max Seat #1 is the button
+Seat 1: vanDEmaaan (1030 in chips) 
+Seat 2: ollikahn23 (1970 in chips) 
+vanDEmaaan: posts small blind 20
+ollikahn23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8d 6c]
+vanDEmaaan: calls 20
+ollikahn23: checks 
+*** FLOP *** [Qc Kd Qd]
+ollikahn23: checks 
+vanDEmaaan: bets 40
+ollikahn23: folds 
+Uncalled bet (40) returned to vanDEmaaan
+vanDEmaaan collected 80 from pot
+vanDEmaaan: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Qc Kd Qd]
+Seat 1: vanDEmaaan (button) (small blind) collected (80)
+Seat 2: ollikahn23 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #185513633981: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/04/21 18:26:17 ET
+Table '2285434157 1' 2-max Seat #2 is the button
+Seat 1: vanDEmaaan (1070 in chips) 
+Seat 2: ollikahn23 (1930 in chips) 
+ollikahn23: posts small blind 20
+vanDEmaaan: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9h 4s]
+ollikahn23: folds 
+Uncalled bet (20) returned to vanDEmaaan
+vanDEmaaan collected 40 from pot
+vanDEmaaan: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: vanDEmaaan (big blind) collected (40)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185513637183: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/04/21 18:26:22 ET
+Table '2285434157 1' 2-max Seat #1 is the button
+Seat 1: vanDEmaaan (1090 in chips) 
+Seat 2: ollikahn23 (1910 in chips) 
+vanDEmaaan: posts small blind 20
+ollikahn23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6h 3c]
+vanDEmaaan: calls 20
+ollikahn23: checks 
+*** FLOP *** [2d 2c Ks]
+ollikahn23: checks 
+vanDEmaaan: checks 
+*** TURN *** [2d 2c Ks] [3h]
+ollikahn23: checks 
+vanDEmaaan: bets 40
+ollikahn23: calls 40
+*** RIVER *** [2d 2c Ks 3h] [Ah]
+ollikahn23: checks 
+vanDEmaaan: bets 40
+ollikahn23: calls 40
+*** SHOW DOWN ***
+vanDEmaaan: shows [4d 6d] (a pair of Deuces)
+ollikahn23: shows [6h 3c] (two pair, Threes and Deuces)
+ollikahn23 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [2d 2c Ks 3h Ah]
+Seat 1: vanDEmaaan (button) (small blind) showed [4d 6d] and lost with a pair of Deuces
+Seat 2: ollikahn23 (big blind) showed [6h 3c] and won (240) with two pair, Threes and Deuces
+
+
+
+PokerStars Hand #185513645543: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/04/21 18:26:36 ET
+Table '2285434157 1' 2-max Seat #2 is the button
+Seat 1: vanDEmaaan (970 in chips) 
+Seat 2: ollikahn23 (2030 in chips) 
+ollikahn23: posts small blind 20
+vanDEmaaan: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2s Kh]
+ollikahn23: raises 40 to 80
+vanDEmaaan: calls 40
+*** FLOP *** [7h 6d 8h]
+vanDEmaaan: checks 
+ollikahn23: checks 
+*** TURN *** [7h 6d 8h] [5h]
+vanDEmaaan: checks 
+ollikahn23: bets 80
+vanDEmaaan: calls 80
+*** RIVER *** [7h 6d 8h 5h] [Ad]
+vanDEmaaan: checks 
+ollikahn23: bets 200
+vanDEmaaan: calls 200
+*** SHOW DOWN ***
+ollikahn23: shows [2s Kh] (high card Ace)
+vanDEmaaan: shows [7s 5c] (two pair, Sevens and Fives)
+vanDEmaaan collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | Rake 0 
+Board [7h 6d 8h 5h Ad]
+Seat 1: vanDEmaaan (big blind) showed [7s 5c] and won (720) with two pair, Sevens and Fives
+Seat 2: ollikahn23 (button) (small blind) showed [2s Kh] and lost with high card Ace
+
+
+
+PokerStars Hand #185513657571: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/04/21 18:26:55 ET
+Table '2285434157 1' 2-max Seat #1 is the button
+Seat 1: vanDEmaaan (1330 in chips) 
+Seat 2: ollikahn23 (1670 in chips) 
+vanDEmaaan: posts small blind 20
+ollikahn23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ks 5h]
+vanDEmaaan: calls 20
+ollikahn23: checks 
+*** FLOP *** [5s Jc 6d]
+ollikahn23: checks 
+vanDEmaaan: bets 40
+ollikahn23: calls 40
+*** TURN *** [5s Jc 6d] [Th]
+ollikahn23: checks 
+vanDEmaaan: checks 
+*** RIVER *** [5s Jc 6d Th] [8h]
+ollikahn23: checks 
+vanDEmaaan: bets 120
+ollikahn23: calls 120
+*** SHOW DOWN ***
+vanDEmaaan: shows [Qs Jd] (a pair of Jacks)
+ollikahn23: mucks hand 
+vanDEmaaan collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [5s Jc 6d Th 8h]
+Seat 1: vanDEmaaan (button) (small blind) showed [Qs Jd] and won (400) with a pair of Jacks
+Seat 2: ollikahn23 (big blind) mucked [Ks 5h]
+
+
+
+PokerStars Hand #185513669111: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/04/21 18:27:14 ET
+Table '2285434157 1' 2-max Seat #2 is the button
+Seat 1: vanDEmaaan (1530 in chips) 
+Seat 2: ollikahn23 (1470 in chips) 
+ollikahn23: posts small blind 20
+vanDEmaaan: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jd Td]
+ollikahn23: raises 40 to 80
+vanDEmaaan: folds 
+Uncalled bet (40) returned to ollikahn23
+ollikahn23 collected 80 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: vanDEmaaan (big blind) folded before Flop
+Seat 2: ollikahn23 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #185513673781: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/04/21 18:27:21 ET
+Table '2285434157 1' 2-max Seat #1 is the button
+Seat 1: vanDEmaaan (1490 in chips) 
+Seat 2: ollikahn23 (1510 in chips) 
+vanDEmaaan: posts small blind 20
+ollikahn23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ks Ts]
+vanDEmaaan: raises 40 to 80
+ollikahn23: calls 40
+*** FLOP *** [Qs Th Tc]
+ollikahn23: checks 
+vanDEmaaan: checks 
+*** TURN *** [Qs Th Tc] [9d]
+ollikahn23: bets 120
+vanDEmaaan: calls 120
+*** RIVER *** [Qs Th Tc 9d] [9c]
+ollikahn23: bets 280
+vanDEmaaan: calls 280
+*** SHOW DOWN ***
+ollikahn23: shows [Ks Ts] (a full house, Tens full of Nines)
+vanDEmaaan: mucks hand 
+ollikahn23 collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | Rake 0 
+Board [Qs Th Tc 9d 9c]
+Seat 1: vanDEmaaan (button) (small blind) mucked [As Ah]
+Seat 2: ollikahn23 (big blind) showed [Ks Ts] and won (960) with a full house, Tens full of Nines
+
+
+
+PokerStars Hand #185513689385: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/04/21 18:27:47 ET
+Table '2285434157 1' 2-max Seat #2 is the button
+Seat 1: vanDEmaaan (1010 in chips) 
+Seat 2: ollikahn23 (1990 in chips) 
+ollikahn23: posts small blind 20
+vanDEmaaan: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9d 5c]
+ollikahn23: folds 
+Uncalled bet (20) returned to vanDEmaaan
+vanDEmaaan collected 40 from pot
+vanDEmaaan: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: vanDEmaaan (big blind) collected (40)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185513693901: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/04/21 18:27:54 ET
+Table '2285434157 1' 2-max Seat #1 is the button
+Seat 1: vanDEmaaan (1030 in chips) 
+Seat 2: ollikahn23 (1970 in chips) 
+vanDEmaaan: posts small blind 20
+ollikahn23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4c Qd]
+vanDEmaaan: raises 40 to 80
+ollikahn23: folds 
+Uncalled bet (40) returned to vanDEmaaan
+vanDEmaaan collected 80 from pot
+vanDEmaaan: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: vanDEmaaan (button) (small blind) collected (80)
+Seat 2: ollikahn23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #185513697627: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/04/21 18:28:00 ET
+Table '2285434157 1' 2-max Seat #2 is the button
+Seat 1: vanDEmaaan (1070 in chips) 
+Seat 2: ollikahn23 (1930 in chips) 
+ollikahn23: posts small blind 20
+vanDEmaaan: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ks Tc]
+ollikahn23: raises 40 to 80
+vanDEmaaan: calls 40
+*** FLOP *** [6s Ac As]
+vanDEmaaan: checks 
+ollikahn23: bets 80
+vanDEmaaan: calls 80
+*** TURN *** [6s Ac As] [4h]
+vanDEmaaan: checks 
+ollikahn23: bets 160
+vanDEmaaan: raises 750 to 910 and is all-in
+ollikahn23: folds 
+Uncalled bet (750) returned to vanDEmaaan
+vanDEmaaan collected 640 from pot
+vanDEmaaan: doesn't show hand 
+*** SUMMARY ***
+Total pot 640 | Rake 0 
+Board [6s Ac As 4h]
+Seat 1: vanDEmaaan (big blind) collected (640)
+Seat 2: ollikahn23 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #185513712668: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/04/21 18:28:25 ET
+Table '2285434157 1' 2-max Seat #1 is the button
+Seat 1: vanDEmaaan (1390 in chips) 
+Seat 2: ollikahn23 (1610 in chips) 
+vanDEmaaan: posts small blind 20
+ollikahn23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ah 5h]
+vanDEmaaan: calls 20
+ollikahn23: raises 40 to 80
+vanDEmaaan: calls 40
+*** FLOP *** [3s As 8c]
+ollikahn23: bets 80
+vanDEmaaan: calls 80
+*** TURN *** [3s As 8c] [Kh]
+ollikahn23: checks 
+vanDEmaaan: checks 
+*** RIVER *** [3s As 8c Kh] [8h]
+ollikahn23: bets 160
+vanDEmaaan: calls 160
+*** SHOW DOWN ***
+ollikahn23: shows [Ah 5h] (two pair, Aces and Eights)
+vanDEmaaan: mucks hand 
+ollikahn23 collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | Rake 0 
+Board [3s As 8c Kh 8h]
+Seat 1: vanDEmaaan (button) (small blind) mucked [9s Qs]
+Seat 2: ollikahn23 (big blind) showed [Ah 5h] and won (640) with two pair, Aces and Eights
+
+
+
+PokerStars Hand #185513724566: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/04/21 18:28:44 ET
+Table '2285434157 1' 2-max Seat #2 is the button
+Seat 1: vanDEmaaan (1070 in chips) 
+Seat 2: ollikahn23 (1930 in chips) 
+ollikahn23: posts small blind 20
+vanDEmaaan: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3d Ks]
+ollikahn23: raises 40 to 80
+vanDEmaaan: calls 40
+*** FLOP *** [6s Js 2h]
+vanDEmaaan: checks 
+ollikahn23: checks 
+*** TURN *** [6s Js 2h] [9c]
+vanDEmaaan: bets 120
+ollikahn23: folds 
+Uncalled bet (120) returned to vanDEmaaan
+vanDEmaaan collected 160 from pot
+vanDEmaaan: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [6s Js 2h 9c]
+Seat 1: vanDEmaaan (big blind) collected (160)
+Seat 2: ollikahn23 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #185513734760: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/04/21 18:29:01 ET
+Table '2285434157 1' 2-max Seat #1 is the button
+Seat 1: vanDEmaaan (1150 in chips) 
+Seat 2: ollikahn23 (1850 in chips) 
+vanDEmaaan: posts small blind 20
+ollikahn23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9h Qd]
+vanDEmaaan: calls 20
+ollikahn23: checks 
+*** FLOP *** [2h Qs Kd]
+ollikahn23: checks 
+vanDEmaaan: checks 
+*** TURN *** [2h Qs Kd] [3d]
+ollikahn23: bets 80
+vanDEmaaan: calls 80
+*** RIVER *** [2h Qs Kd 3d] [5s]
+ollikahn23: bets 120
+vanDEmaaan: raises 480 to 600
+ollikahn23: calls 480
+*** SHOW DOWN ***
+vanDEmaaan: shows [Ad 4h] (a straight, Ace to Five)
+ollikahn23: mucks hand 
+vanDEmaaan collected 1440 from pot
+*** SUMMARY ***
+Total pot 1440 | Rake 0 
+Board [2h Qs Kd 3d 5s]
+Seat 1: vanDEmaaan (button) (small blind) showed [Ad 4h] and won (1440) with a straight, Ace to Five
+Seat 2: ollikahn23 (big blind) mucked [9h Qd]
+
+
+
+PokerStars Hand #185513754775: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/04/21 18:29:34 ET
+Table '2285434157 1' 2-max Seat #2 is the button
+Seat 1: vanDEmaaan (1870 in chips) 
+Seat 2: ollikahn23 (1130 in chips) 
+ollikahn23: posts small blind 20
+vanDEmaaan: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8s 2d]
+ollikahn23: folds 
+Uncalled bet (20) returned to vanDEmaaan
+vanDEmaaan collected 40 from pot
+vanDEmaaan: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: vanDEmaaan (big blind) collected (40)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185513759015: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/04/21 18:29:41 ET
+Table '2285434157 1' 2-max Seat #1 is the button
+Seat 1: vanDEmaaan (1890 in chips) 
+Seat 2: ollikahn23 (1110 in chips) 
+vanDEmaaan: posts small blind 20
+ollikahn23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jc 6h]
+vanDEmaaan: calls 20
+ollikahn23: checks 
+*** FLOP *** [8s 8h 7c]
+ollikahn23: checks 
+vanDEmaaan: checks 
+*** TURN *** [8s 8h 7c] [Kc]
+ollikahn23: bets 40
+vanDEmaaan: raises 40 to 80
+ollikahn23: folds 
+Uncalled bet (40) returned to vanDEmaaan
+vanDEmaaan collected 160 from pot
+vanDEmaaan: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [8s 8h 7c Kc]
+Seat 1: vanDEmaaan (button) (small blind) collected (160)
+Seat 2: ollikahn23 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #185513769814: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/04/21 18:29:58 ET
+Table '2285434157 1' 2-max Seat #2 is the button
+Seat 1: vanDEmaaan (1970 in chips) 
+Seat 2: ollikahn23 (1030 in chips) 
+ollikahn23: posts small blind 20
+vanDEmaaan: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Td 2d]
+ollikahn23: folds 
+Uncalled bet (20) returned to vanDEmaaan
+vanDEmaaan collected 40 from pot
+vanDEmaaan: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: vanDEmaaan (big blind) collected (40)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185513772870: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/04/21 18:30:03 ET
+Table '2285434157 1' 2-max Seat #1 is the button
+Seat 1: vanDEmaaan (1990 in chips) 
+Seat 2: ollikahn23 (1010 in chips) 
+vanDEmaaan: posts small blind 20
+ollikahn23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8c 6d]
+vanDEmaaan: calls 20
+ollikahn23: checks 
+*** FLOP *** [9s Kc Ks]
+ollikahn23: checks 
+vanDEmaaan: checks 
+*** TURN *** [9s Kc Ks] [8h]
+ollikahn23: bets 40
+vanDEmaaan: calls 40
+*** RIVER *** [9s Kc Ks 8h] [8s]
+ollikahn23: bets 80
+vanDEmaaan: folds 
+Uncalled bet (80) returned to ollikahn23
+ollikahn23 collected 160 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [9s Kc Ks 8h 8s]
+Seat 1: vanDEmaaan (button) (small blind) folded on the River
+Seat 2: ollikahn23 (big blind) collected (160)
+
+
+
+PokerStars Hand #185513784363: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/04/21 18:30:22 ET
+Table '2285434157 1' 2-max Seat #2 is the button
+Seat 1: vanDEmaaan (1910 in chips) 
+Seat 2: ollikahn23 (1090 in chips) 
+ollikahn23: posts small blind 25
+vanDEmaaan: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jc Js]
+ollikahn23: raises 50 to 100
+vanDEmaaan: calls 50
+*** FLOP *** [3h 8s Ts]
+vanDEmaaan: checks 
+ollikahn23: bets 150
+vanDEmaaan: folds 
+Uncalled bet (150) returned to ollikahn23
+ollikahn23 collected 200 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [3h 8s Ts]
+Seat 1: vanDEmaaan (big blind) folded on the Flop
+Seat 2: ollikahn23 (button) (small blind) collected (200)
+
+
+
+PokerStars Hand #185513791757: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/04/21 18:30:34 ET
+Table '2285434157 1' 2-max Seat #1 is the button
+Seat 1: vanDEmaaan (1810 in chips) 
+Seat 2: ollikahn23 (1190 in chips) 
+vanDEmaaan: posts small blind 25
+ollikahn23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7d 9d]
+vanDEmaaan: raises 50 to 100
+ollikahn23: calls 50
+*** FLOP *** [Kd 2d Qs]
+ollikahn23: checks 
+vanDEmaaan: bets 150
+ollikahn23: calls 150
+*** TURN *** [Kd 2d Qs] [3c]
+ollikahn23: checks 
+vanDEmaaan: checks 
+*** RIVER *** [Kd 2d Qs 3c] [9h]
+ollikahn23: checks 
+vanDEmaaan: bets 150
+ollikahn23: calls 150
+*** SHOW DOWN ***
+vanDEmaaan: shows [4c 8c] (high card King)
+ollikahn23: shows [7d 9d] (a pair of Nines)
+ollikahn23 collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | Rake 0 
+Board [Kd 2d Qs 3c 9h]
+Seat 1: vanDEmaaan (button) (small blind) showed [4c 8c] and lost with high card King
+Seat 2: ollikahn23 (big blind) showed [7d 9d] and won (800) with a pair of Nines
+
+
+
+PokerStars Hand #185513804145: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/04/21 18:30:54 ET
+Table '2285434157 1' 2-max Seat #2 is the button
+Seat 1: vanDEmaaan (1410 in chips) 
+Seat 2: ollikahn23 (1590 in chips) 
+ollikahn23: posts small blind 25
+vanDEmaaan: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2h Qh]
+ollikahn23: raises 50 to 100
+vanDEmaaan: raises 1310 to 1410 and is all-in
+ollikahn23: folds 
+Uncalled bet (1310) returned to vanDEmaaan
+vanDEmaaan collected 200 from pot
+vanDEmaaan: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Seat 1: vanDEmaaan (big blind) collected (200)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185513809044: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/04/21 18:31:02 ET
+Table '2285434157 1' 2-max Seat #1 is the button
+Seat 1: vanDEmaaan (1510 in chips) 
+Seat 2: ollikahn23 (1490 in chips) 
+vanDEmaaan: posts small blind 25
+ollikahn23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2h Ts]
+vanDEmaaan: calls 25
+ollikahn23: checks 
+*** FLOP *** [Jc 2d Qc]
+ollikahn23: checks 
+vanDEmaaan: checks 
+*** TURN *** [Jc 2d Qc] [Qd]
+ollikahn23: bets 50
+vanDEmaaan: raises 100 to 150
+ollikahn23: raises 100 to 250
+vanDEmaaan: calls 100
+*** RIVER *** [Jc 2d Qc Qd] [8d]
+ollikahn23: checks 
+vanDEmaaan: bets 300
+ollikahn23: calls 300
+*** SHOW DOWN ***
+vanDEmaaan: shows [Jd Td] (a flush, Queen high)
+ollikahn23: mucks hand 
+vanDEmaaan collected 1200 from pot
+*** SUMMARY ***
+Total pot 1200 | Rake 0 
+Board [Jc 2d Qc Qd 8d]
+Seat 1: vanDEmaaan (button) (small blind) showed [Jd Td] and won (1200) with a flush, Queen high
+Seat 2: ollikahn23 (big blind) mucked [2h Ts]
+
+
+
+PokerStars Hand #185513825227: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/04/21 18:31:28 ET
+Table '2285434157 1' 2-max Seat #2 is the button
+Seat 1: vanDEmaaan (2110 in chips) 
+Seat 2: ollikahn23 (890 in chips) 
+ollikahn23: posts small blind 25
+vanDEmaaan: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6d 2d]
+ollikahn23: folds 
+Uncalled bet (25) returned to vanDEmaaan
+vanDEmaaan collected 50 from pot
+vanDEmaaan: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: vanDEmaaan (big blind) collected (50)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185513828391: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/04/21 18:31:33 ET
+Table '2285434157 1' 2-max Seat #1 is the button
+Seat 1: vanDEmaaan (2135 in chips) 
+Seat 2: ollikahn23 (865 in chips) 
+vanDEmaaan: posts small blind 25
+ollikahn23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4d 3d]
+vanDEmaaan: calls 25
+ollikahn23: checks 
+*** FLOP *** [Js Kd 7s]
+ollikahn23: checks 
+vanDEmaaan: checks 
+*** TURN *** [Js Kd 7s] [3s]
+ollikahn23: checks 
+vanDEmaaan: bets 50
+ollikahn23: calls 50
+*** RIVER *** [Js Kd 7s 3s] [3c]
+ollikahn23: bets 200
+vanDEmaaan: calls 200
+*** SHOW DOWN ***
+ollikahn23: shows [4d 3d] (three of a kind, Threes)
+vanDEmaaan: mucks hand 
+ollikahn23 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [Js Kd 7s 3s 3c]
+Seat 1: vanDEmaaan (button) (small blind) mucked [Jd 2c]
+Seat 2: ollikahn23 (big blind) showed [4d 3d] and won (600) with three of a kind, Threes
+
+
+
+PokerStars Hand #185513844013: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/04/21 18:31:59 ET
+Table '2285434157 1' 2-max Seat #2 is the button
+Seat 1: vanDEmaaan (1835 in chips) 
+Seat 2: ollikahn23 (1165 in chips) 
+ollikahn23: posts small blind 25
+vanDEmaaan: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3h Qh]
+ollikahn23: raises 50 to 100
+vanDEmaaan: raises 1735 to 1835 and is all-in
+ollikahn23: folds 
+Uncalled bet (1735) returned to vanDEmaaan
+vanDEmaaan collected 200 from pot
+vanDEmaaan: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Seat 1: vanDEmaaan (big blind) collected (200)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185513851167: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/04/21 18:32:10 ET
+Table '2285434157 1' 2-max Seat #1 is the button
+Seat 1: vanDEmaaan (1935 in chips) 
+Seat 2: ollikahn23 (1065 in chips) 
+vanDEmaaan: posts small blind 25
+ollikahn23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5h Ac]
+vanDEmaaan: calls 25
+ollikahn23: checks 
+*** FLOP *** [7d 4s 2s]
+ollikahn23: checks 
+vanDEmaaan: bets 50
+ollikahn23: calls 50
+*** TURN *** [7d 4s 2s] [Ks]
+ollikahn23: bets 150
+vanDEmaaan: calls 150
+*** RIVER *** [7d 4s 2s Ks] [5c]
+ollikahn23: checks 
+vanDEmaaan: checks 
+*** SHOW DOWN ***
+ollikahn23: shows [5h Ac] (a pair of Fives)
+vanDEmaaan: shows [9c 7c] (a pair of Sevens)
+vanDEmaaan collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Board [7d 4s 2s Ks 5c]
+Seat 1: vanDEmaaan (button) (small blind) showed [9c 7c] and won (500) with a pair of Sevens
+Seat 2: ollikahn23 (big blind) showed [5h Ac] and lost with a pair of Fives
+
+
+
+PokerStars Hand #185513873376: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/04/21 18:32:46 ET
+Table '2285434157 1' 2-max Seat #2 is the button
+Seat 1: vanDEmaaan (2185 in chips) 
+Seat 2: ollikahn23 (815 in chips) 
+ollikahn23: posts small blind 25
+vanDEmaaan: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3c Ah]
+ollikahn23: raises 50 to 100
+vanDEmaaan: folds 
+Uncalled bet (50) returned to ollikahn23
+ollikahn23 collected 100 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: vanDEmaaan (big blind) folded before Flop
+Seat 2: ollikahn23 (button) (small blind) collected (100)
+
+
+
+PokerStars Hand #185513877882: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/04/21 18:32:54 ET
+Table '2285434157 1' 2-max Seat #1 is the button
+Seat 1: vanDEmaaan (2135 in chips) 
+Seat 2: ollikahn23 (865 in chips) 
+vanDEmaaan: posts small blind 25
+ollikahn23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3d Kc]
+vanDEmaaan: calls 25
+ollikahn23: checks 
+*** FLOP *** [6c 2d Ad]
+ollikahn23: checks 
+vanDEmaaan: checks 
+*** TURN *** [6c 2d Ad] [As]
+ollikahn23: checks 
+vanDEmaaan: bets 100
+ollikahn23: folds 
+Uncalled bet (100) returned to vanDEmaaan
+vanDEmaaan collected 100 from pot
+vanDEmaaan: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [6c 2d Ad As]
+Seat 1: vanDEmaaan (button) (small blind) collected (100)
+Seat 2: ollikahn23 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #185513889754: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/04/21 18:33:13 ET
+Table '2285434157 1' 2-max Seat #2 is the button
+Seat 1: vanDEmaaan (2185 in chips) 
+Seat 2: ollikahn23 (815 in chips) 
+ollikahn23: posts small blind 25
+vanDEmaaan: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9c 8h]
+ollikahn23: raises 50 to 100
+vanDEmaaan: raises 150 to 250
+ollikahn23: folds 
+Uncalled bet (150) returned to vanDEmaaan
+vanDEmaaan collected 200 from pot
+vanDEmaaan: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Seat 1: vanDEmaaan (big blind) collected (200)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185513895785: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/04/21 18:33:23 ET
+Table '2285434157 1' 2-max Seat #1 is the button
+Seat 1: vanDEmaaan (2285 in chips) 
+Seat 2: ollikahn23 (715 in chips) 
+vanDEmaaan: posts small blind 25
+ollikahn23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5h 9d]
+vanDEmaaan: calls 25
+ollikahn23: checks 
+*** FLOP *** [Js Ks 8s]
+ollikahn23: checks 
+vanDEmaaan: bets 50
+ollikahn23: folds 
+Uncalled bet (50) returned to vanDEmaaan
+vanDEmaaan collected 100 from pot
+vanDEmaaan: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [Js Ks 8s]
+Seat 1: vanDEmaaan (button) (small blind) collected (100)
+Seat 2: ollikahn23 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #185513902154: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/04/21 18:33:33 ET
+Table '2285434157 1' 2-max Seat #2 is the button
+Seat 1: vanDEmaaan (2335 in chips) 
+Seat 2: ollikahn23 (665 in chips) 
+ollikahn23: posts small blind 25
+vanDEmaaan: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9d 3d]
+ollikahn23: folds 
+Uncalled bet (25) returned to vanDEmaaan
+vanDEmaaan collected 50 from pot
+vanDEmaaan: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: vanDEmaaan (big blind) collected (50)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185513905297: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/04/21 18:33:38 ET
+Table '2285434157 1' 2-max Seat #1 is the button
+Seat 1: vanDEmaaan (2360 in chips) 
+Seat 2: ollikahn23 (640 in chips) 
+vanDEmaaan: posts small blind 25
+ollikahn23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3s Qh]
+vanDEmaaan: calls 25
+ollikahn23: checks 
+*** FLOP *** [Qd 5h 4c]
+ollikahn23: checks 
+vanDEmaaan: bets 50
+ollikahn23: calls 50
+*** TURN *** [Qd 5h 4c] [8d]
+ollikahn23: checks 
+vanDEmaaan: checks 
+*** RIVER *** [Qd 5h 4c 8d] [7s]
+ollikahn23: bets 100
+vanDEmaaan: calls 100
+*** SHOW DOWN ***
+ollikahn23: shows [3s Qh] (a pair of Queens)
+vanDEmaaan: shows [4h Qc] (two pair, Queens and Fours)
+vanDEmaaan collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [Qd 5h 4c 8d 7s]
+Seat 1: vanDEmaaan (button) (small blind) showed [4h Qc] and won (400) with two pair, Queens and Fours
+Seat 2: ollikahn23 (big blind) showed [3s Qh] and lost with a pair of Queens
+
+
+
+PokerStars Hand #185513913860: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/04/21 18:33:52 ET
+Table '2285434157 1' 2-max Seat #2 is the button
+Seat 1: vanDEmaaan (2560 in chips) 
+Seat 2: ollikahn23 (440 in chips) 
+ollikahn23: posts small blind 25
+vanDEmaaan: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3c 9s]
+ollikahn23: folds 
+Uncalled bet (25) returned to vanDEmaaan
+vanDEmaaan collected 50 from pot
+vanDEmaaan: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: vanDEmaaan (big blind) collected (50)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185513917145: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/04/21 18:33:58 ET
+Table '2285434157 1' 2-max Seat #1 is the button
+Seat 1: vanDEmaaan (2585 in chips) 
+Seat 2: ollikahn23 (415 in chips) 
+vanDEmaaan: posts small blind 25
+ollikahn23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5c 3d]
+vanDEmaaan: folds 
+Uncalled bet (25) returned to ollikahn23
+ollikahn23 collected 50 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: vanDEmaaan (button) (small blind) folded before Flop
+Seat 2: ollikahn23 (big blind) collected (50)
+
+
+
+PokerStars Hand #185513921748: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/04/21 18:34:05 ET
+Table '2285434157 1' 2-max Seat #2 is the button
+Seat 1: vanDEmaaan (2560 in chips) 
+Seat 2: ollikahn23 (440 in chips) 
+ollikahn23: posts small blind 25
+vanDEmaaan: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2d Qd]
+ollikahn23: raises 50 to 100
+vanDEmaaan: calls 50
+*** FLOP *** [7s 3s Kc]
+vanDEmaaan: checks 
+ollikahn23: bets 100
+vanDEmaaan: raises 300 to 400
+ollikahn23: folds 
+Uncalled bet (300) returned to vanDEmaaan
+vanDEmaaan collected 400 from pot
+vanDEmaaan: doesn't show hand 
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [7s 3s Kc]
+Seat 1: vanDEmaaan (big blind) collected (400)
+Seat 2: ollikahn23 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #185513930868: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/04/21 18:34:20 ET
+Table '2285434157 1' 2-max Seat #1 is the button
+Seat 1: vanDEmaaan (2760 in chips) 
+Seat 2: ollikahn23 (240 in chips) 
+vanDEmaaan: posts small blind 25
+ollikahn23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2s Js]
+vanDEmaaan: raises 300 to 350
+ollikahn23: folds 
+Uncalled bet (300) returned to vanDEmaaan
+vanDEmaaan collected 100 from pot
+vanDEmaaan: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: vanDEmaaan (button) (small blind) collected (100)
+Seat 2: ollikahn23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #185513935808: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/04/21 18:34:29 ET
+Table '2285434157 1' 2-max Seat #2 is the button
+Seat 1: vanDEmaaan (2810 in chips) 
+Seat 2: ollikahn23 (190 in chips) 
+ollikahn23: posts small blind 25
+vanDEmaaan: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9c 7s]
+ollikahn23: folds 
+Uncalled bet (25) returned to vanDEmaaan
+vanDEmaaan collected 50 from pot
+vanDEmaaan: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: vanDEmaaan (big blind) collected (50)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185513939059: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/04/21 18:34:34 ET
+Table '2285434157 1' 2-max Seat #1 is the button
+Seat 1: vanDEmaaan (2835 in chips) 
+Seat 2: ollikahn23 (165 in chips) 
+vanDEmaaan: posts small blind 25
+ollikahn23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3h Ad]
+vanDEmaaan: folds 
+Uncalled bet (25) returned to ollikahn23
+ollikahn23 collected 50 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: vanDEmaaan (button) (small blind) folded before Flop
+Seat 2: ollikahn23 (big blind) collected (50)
+
+
+
+PokerStars Hand #185513942215: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/04/21 18:34:39 ET
+Table '2285434157 1' 2-max Seat #2 is the button
+Seat 1: vanDEmaaan (2810 in chips) 
+Seat 2: ollikahn23 (190 in chips) 
+ollikahn23: posts small blind 25
+vanDEmaaan: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ac 4s]
+ollikahn23: raises 140 to 190 and is all-in
+vanDEmaaan: folds 
+Uncalled bet (140) returned to ollikahn23
+ollikahn23 collected 100 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: vanDEmaaan (big blind) folded before Flop
+Seat 2: ollikahn23 (button) (small blind) collected (100)
+
+
+
+PokerStars Hand #185513946844: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/04/21 18:34:47 ET
+Table '2285434157 1' 2-max Seat #1 is the button
+Seat 1: vanDEmaaan (2760 in chips) 
+Seat 2: ollikahn23 (240 in chips) 
+vanDEmaaan: posts small blind 25
+ollikahn23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7s Qh]
+vanDEmaaan: calls 25
+ollikahn23: checks 
+*** FLOP *** [Tc Qs Td]
+ollikahn23: checks 
+vanDEmaaan: checks 
+*** TURN *** [Tc Qs Td] [Kd]
+ollikahn23: checks 
+vanDEmaaan: checks 
+*** RIVER *** [Tc Qs Td Kd] [5s]
+ollikahn23: bets 100
+vanDEmaaan: calls 100
+*** SHOW DOWN ***
+ollikahn23: shows [7s Qh] (two pair, Queens and Tens)
+vanDEmaaan: mucks hand 
+ollikahn23 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [Tc Qs Td Kd 5s]
+Seat 1: vanDEmaaan (button) (small blind) mucked [7d 5c]
+Seat 2: ollikahn23 (big blind) showed [7s Qh] and won (300) with two pair, Queens and Tens
+
+
+
+PokerStars Hand #185513957364: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/04/21 18:35:04 ET
+Table '2285434157 1' 2-max Seat #2 is the button
+Seat 1: vanDEmaaan (2610 in chips) 
+Seat 2: ollikahn23 (390 in chips) 
+ollikahn23: posts small blind 25
+vanDEmaaan: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [As 2s]
+ollikahn23: raises 340 to 390 and is all-in
+vanDEmaaan: folds 
+Uncalled bet (340) returned to ollikahn23
+ollikahn23 collected 100 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: vanDEmaaan (big blind) folded before Flop
+Seat 2: ollikahn23 (button) (small blind) collected (100)
+
+
+
+PokerStars Hand #185513961997: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/04/21 18:35:12 ET
+Table '2285434157 1' 2-max Seat #1 is the button
+Seat 1: vanDEmaaan (2560 in chips) 
+Seat 2: ollikahn23 (440 in chips) 
+vanDEmaaan: posts small blind 25
+ollikahn23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8s 3s]
+vanDEmaaan: calls 25
+ollikahn23: checks 
+*** FLOP *** [Th 3c 3d]
+ollikahn23: checks 
+vanDEmaaan: bets 50
+ollikahn23: calls 50
+*** TURN *** [Th 3c 3d] [2h]
+ollikahn23: checks 
+vanDEmaaan: checks 
+*** RIVER *** [Th 3c 3d 2h] [Kd]
+ollikahn23: bets 150
+vanDEmaaan: folds 
+Uncalled bet (150) returned to ollikahn23
+ollikahn23 collected 200 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [Th 3c 3d 2h Kd]
+Seat 1: vanDEmaaan (button) (small blind) folded on the River
+Seat 2: ollikahn23 (big blind) collected (200)
+
+
+
+PokerStars Hand #185513982385: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/04/21 18:35:46 ET
+Table '2285434157 1' 2-max Seat #2 is the button
+Seat 1: vanDEmaaan (2460 in chips) 
+Seat 2: ollikahn23 (540 in chips) 
+ollikahn23: posts small blind 25
+vanDEmaaan: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2d 8s]
+ollikahn23: folds 
+Uncalled bet (25) returned to vanDEmaaan
+vanDEmaaan collected 50 from pot
+vanDEmaaan: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: vanDEmaaan (big blind) collected (50)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185513985442: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/04/21 18:35:51 ET
+Table '2285434157 1' 2-max Seat #1 is the button
+Seat 1: vanDEmaaan (2485 in chips) 
+Seat 2: ollikahn23 (515 in chips) 
+vanDEmaaan: posts small blind 25
+ollikahn23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [As 2d]
+vanDEmaaan: raises 50 to 100
+ollikahn23: folds 
+Uncalled bet (50) returned to vanDEmaaan
+vanDEmaaan collected 100 from pot
+vanDEmaaan: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: vanDEmaaan (button) (small blind) collected (100)
+Seat 2: ollikahn23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #185513993299: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/04/21 18:36:04 ET
+Table '2285434157 1' 2-max Seat #2 is the button
+Seat 1: vanDEmaaan (2535 in chips) 
+Seat 2: ollikahn23 (465 in chips) 
+ollikahn23: posts small blind 25
+vanDEmaaan: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7s Qd]
+ollikahn23: folds 
+Uncalled bet (25) returned to vanDEmaaan
+vanDEmaaan collected 50 from pot
+vanDEmaaan: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: vanDEmaaan (big blind) collected (50)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185513998004: Tournament #2285434157, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level V (30/60) - 2018/04/21 18:36:11 ET
+Table '2285434157 1' 2-max Seat #1 is the button
+Seat 1: vanDEmaaan (2560 in chips) 
+Seat 2: ollikahn23 (440 in chips) 
+vanDEmaaan: posts small blind 30
+ollikahn23: posts big blind 60
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Th Td]
+vanDEmaaan: raises 300 to 360
+ollikahn23: raises 80 to 440 and is all-in
+vanDEmaaan: calls 80
+*** FLOP *** [6c 2d Qd]
+*** TURN *** [6c 2d Qd] [9s]
+*** RIVER *** [6c 2d Qd 9s] [5h]
+ollikahn23 said, "gg"
+*** SHOW DOWN ***
+ollikahn23: shows [Th Td] (a pair of Tens)
+vanDEmaaan: shows [Ks Qc] (a pair of Queens)
+vanDEmaaan collected 880 from pot
+ollikahn23 finished the tournament in 2nd place
+vanDEmaaan wins the tournament and receives $2.76 - congratulations!
+*** SUMMARY ***
+Total pot 880 | Rake 0 
+Board [6c 2d Qd 9s 5h]
+Seat 1: vanDEmaaan (button) (small blind) showed [Ks Qc] and won (880) with a pair of Queens
+Seat 2: ollikahn23 (big blind) showed [Th Td] and lost with a pair of Tens
+
+
+

@@ -9,7 +9,9 @@ Created on Wed Feb 07 23:24:38 2018
 from __future__ import unicode_literals
 from __future__ import division
 from poker import Suit
+import time
 import re
+import random
 
 list(Suit)  #Suit is a class 
 
@@ -110,6 +112,13 @@ o = hh.button
 
 
 ##########     START TO ANALYZE THE HAND    ##########
+
+dec = 1             #Number of our decision
+addWe = 0           #what we have add to the pot so far
+high = []           #empty list to get the highest amount being bet so far
+
+
+
 #Hand history parsing
 from poker.room.pokerstars import PokerStarsHandHistory
 # First step, only raw hand history is saved, no parsing will happen yet
@@ -127,12 +136,6 @@ p = hh.hero
 
 #what we have?
 p.combo
-
-
-
-
-
-
 
 
 
@@ -161,27 +164,27 @@ for i in range(len(aa)):
 
 
 #how many players are on the table at the moment
-q = 0
+pl = 0
 for i in range(hh.max_players):
     if 'Empty Seat' not in a[i].name:
-        q += 1
+        pl += 1
 
 
 
 #add further q/ positions
-if q == 7:
-    if t == 1:
-        pos = 'SB'    
-    if t == 2: 
-        pos = 'BB'
-    if t == 3: 
-        pos = 'UTG'
-    if t == 4: 
-        pos = 'UTG+1'
-    if t == 5:
-        pos = 'MP'
-    if t == 6:
-        pos = 'CO'
+#if q == 7:
+#    if t == 1:
+#        pos = 'SB'    
+#    if t == 2: 
+#        pos = 'BB'
+#    if t == 3: 
+#        pos = 'UTG'
+#    if t == 4: 
+#        pos = 'UTG+1'
+#    if t == 5:
+#        pos = 'MP'
+#    if t == 6:
+#        pos = 'CO'
    
    
    
@@ -201,7 +204,7 @@ if 'ante' in HAND1:
         ante = HAND1[p1:p1+15]
         ante = ante.partition('ante ')[2]
         ante = int(ante.partition('\nn')[0])
-        anteTot = ante*q
+        anteTot = ante*pl
         
     except:
         pass
@@ -214,18 +217,30 @@ potSize0 = int(anteTot + hh.sb + hh.bb)
 
 v = hh.preflop_actions
 potSize1 = potSize0
+NotOut = pl-1     #how many player does fold before us
 for i in range(len(v)):
     #i = 1
     if v[i].partition(':')[0] != hh.hero.name:
         add = v[i].partition(':')[2]
-        if 'calls' in add:
+        if 'calls' in add and 'all-in' not in add:
             add1 = int(add.partition('calls ')[2])
+            
+        if 'calls' in add and 'all-in' in add:  
+            add1 = int(add.partition('to ')[2].partition(' and')[0])
 
-        if 'raises' in add:
+        if 'raises' in add and 'all-in' not in add:
             add1 = int(add.partition('to ')[2])
+                       
+        if 'raises' in add and 'all-in' in add:  
+            add1 = int(add.partition('to ')[2].partition(' and')[0])
+            high.append(add1)
             
         if 'checks' in add:
             add1 = 0
+            
+        if 'folds' in add:
+            add1 = 0
+            NotOut -= 1
         
         potSize1 += add1
 
@@ -233,9 +248,9 @@ for i in range(len(v)):
         break
 
 
-# í is our position regarding to the raiser
+# i is our position regarding to the player on seat 1 
                 
-#####################      what are our potOdds preflop       ####################
+#####################      what are our potOdds preflop, first decision       ####################
                 
 #if there was no raise before us and our position is outside of the blinds
 if all('raises' not in v[j] for j in range(len(v[:i]))) and t != 2 and t != 1:
@@ -248,31 +263,24 @@ if all('raises' not in v[j] for j in range(len(v[:i]))) and t == 2:
     potOdds0 = float(0.000000001/potSize1)
     
     
-#if there was a raise before and we arent in the blinds    
+#if there was a raise before us and we arent in the blinds    
 if any('raises' in v[j] for j in range(len(v[:i]))) and t != 2 and t != 1:
     for q in range(len(v[:i])):
     #q = 0
         if v[q].partition(':')[0] != hh.hero.name:
             addr = v[q].partition(':')[2]
-            if 'raises' in addr:
+            if 'raises' in addr and all('raises' not in v[q2].partition(':')[2] for q2 in range(q+1,len(v[:i]))) and 'all-in' not in addr:
                 addr1 = int(addr.partition('to ')[2])
-            if 'reraises' in addr:
-                addr1 = int(addr.partition('to ')[2])
+                
+            if 'raises' in addr and all('raises' not in v[q2].partition(':')[2] for q2 in range(q+1,len(v[:i]))) and 'all-in' in addr:
+                addr1 = max(high)
+                
+                if addr1-addWe < p.stack:
+                    potOdds1 = float((addr1-addWe)/potSize1)
 
     potOdds0 = float(addr1/potSize1)
     
-    
-    
 
-
-    
-    
-    
-    
-    
-    
-    
-    
     
 
 
@@ -282,56 +290,11 @@ if any('raises' in v[j] for j in range(len(v[:i]))) and t != 2 and t != 1:
 from deuces import Card
 from deuces import Evaluator
 evaluator = Evaluator()
-
-
-
-
-card = Card.new('Qh')
-
-
-board = [Card.new('Ah'), Card.new('Kh'), Card.new('Jh'), Card.new('2s'), Card.new('3h')]
-
-hand = [Card.new('Qs'), Card.new('Ts')]
-
-
-
-
-
-###which strength the hand has
-print evaluator.evaluate(board, hand)
-
-
 from deuces import Deck
-deck = Deck()
-board = deck.draw(5)
-player1_hand = deck.draw(2)
-player2_hand = deck.draw(2)
-
-p1_score = evaluator.evaluate(board, player1_hand)
-
-p2_score = evaluator.evaluate(board, player2_hand)
-
-
-p1_class = evaluator.get_rank_class(p1_score)
-
-p2_class = evaluator.get_rank_class(p2_score)
-
-
-evaluator.class_to_string(p1_class)
-
-evaluator.class_to_string(p2_class)
-
-
-hands = [player1_hand, player2_hand]
-evaluator.hand_summary(board, hands)
-
-
-
 
 
 
 #what are our raw cards?
-
 raw = HAND1.strip()
 split_re = re.compile(r" ?\*\*\* ?\n?|\n")
 splitted = split_re.split(raw)
@@ -361,24 +324,282 @@ hand = [
    Card.new(second_raw_card)
 ]    
     
-    
-
-
-print evaluator.evaluate(hand)
-
 
 #calculating our equity preflop, regarding the count of players
 
-import random
-from deuces import Deck
 
-deck = Deck()
+p11 = 0                 #how often do we win
+p22 = 0                 #how often opponents win
+opp = NotOut            #how many opponents are still in the game in that moment, we have to make a decision
+playerHero_hand = hand  #our hand
 
-player1_hand = hand
-a = deck.cards.remove(hand[0], hand[1])
 
-player2_hand = deck.draw(2)
-board = deck.draw(5)
+start_time = time.time()
+for i in range(20000):   
+    #constructin the whole deck
+    deck = Deck()
+    
+    
+    #Card.print_pretty_cards(player1_hand)
+    
+    
+    #removing our own hand from the deck
+    deck.cards.remove(hand[0])
+    deck.cards.remove(hand[1])
+    
+    
+    d = {}
+    for j in range(opp):
+        #giving a random player random cards
+        d['player%s_hand'%j] = deck.draw(2)
+        
+    #Card.print_pretty_cards(d['player2_hand'])
+   
+    #Card.print_pretty_cards(d['player3_hand'])
+    
+    
+    board = deck.draw(5)
+    #Card.print_pretty_cards(board)
+    
+    
+    #how strong are the hands from our opponents
+    e = {}
+    for k in range(opp):
+        e['p%s_score'%k] = evaluator.evaluate(board, d['player%s_hand'%k])
+#        p1_score = evaluator.evaluate(board, player1_hand)
+#        p2_score = evaluator.evaluate(board, player2_hand)
+#        p3_score = evaluator.evaluate(board, player3_hand)
+    
+    
+    #how strong is our hand
+    e['pHero_score'] = evaluator.evaluate(board, playerHero_hand)
+    
+    
+    if min(e, key=e.get) == 'pHero_score':
+        p11 += 1
+        
+    else:
+        p22 += 1
+   
+
+rate = p11/20000
+
+
+if rate < potOdds0:
+    print('Decision Nr.%d: Fold the Hand preflop'%dec)
+    dec += 1
+    
+else:
+    print('Decision Nr.%d: Call/ Raise the Hand preflop'%dec)
+    dec += 1    
+    
+print("--- %s seconds ---" % (time.time() - start_time))
+
+
+
+
+
+
+
+
+#####what amount comes into the pot after it was our turn for the first time
+
+
+v = hh.preflop_actions
+potSize1 = potSize0
+c = 0           #what is our position regarding to UTG
+for i in range(len(v)):
+    #i = 1
+    if v[i].partition(':')[0] != hh.hero.name:
+        
+        add = v[i].partition(':')[2]
+        if 'calls' in add:
+            add1 = int(add.partition('calls ')[2])
+
+        if 'raises' in add:
+            add1 = int(add.partition('to ')[2])
+            
+        if 'checks' in add:
+            add1 = 0
+            
+        if 'folds' in add:
+            add1 = 0
+            NotOut -= 1
+        
+        potSize1 += add1
+
+    else:
+        break
+  
+  
+#what amount do we spend into the pot with our first affirmative decision 
+potSize2 = potSize1
+for i in range(len(v)):
+    c += 1
+    if v[i].partition(':')[0] == hh.hero.name:
+        add = v[i].partition(':')[2]
+        if 'calls' in add:
+            addWe += int(add.partition('calls ')[2])
+
+        if 'raises' in add:
+            addWe += int(add.partition('to ')[2])
+            
+        if 'checks' in add:
+            addWe += 0
+            
+        if 'folds' in add:
+            addWe += 0
+            NotOut -= 1
+        
+        potSize2 += addWe
+        break
+    
+    
+
+#what amount comes into the pot after from our opponents after our first decision until our second decision
+potSize3 = potSize2
+for i in range(c, len(v)):
+    #i = 3
+    if v[i].partition(':')[0] != hh.hero.name:
+        add = v[i].partition(':')[2]
+        if 'calls' in add and 'all-in' not in add:
+            add1 = int(add.partition('calls ')[2])
+            
+        if 'calls' in add and 'all-in' in add:  
+            add1 = int(add.partition('to ')[2].partition(' and')[0])
+
+        if 'raises' in add and 'all-in' not in add:
+            add1 = int(add.partition('to ')[2])
+                       
+        if 'raises' in add and 'all-in' in add:  
+            add1 = int(add.partition('to ')[2].partition(' and')[0])
+            high.append(add1)
+            
+        if 'checks' in add:
+            add1 = 0
+            
+        if 'folds' in add:
+            add1 = 0
+            NotOut -= 1
+        
+        potSize3 += add1
+
+    else:
+        break
+
+
+
+# i is our position regarding to the player on seat 1 (change the name of the variable!!!)
+                
+                
+#####################      what are our potOdds preflop, second decision       ####################
+
+
+                
+#if there was no raise before us and our position is outside of the blinds
+if all('raises' not in v[j] for j in range(len(v[:i]))) and t != 2 and t != 1:
+    potOdds0 = float(hh.bb/potSize1)
+
+if all('raises' not in v[j] for j in range(len(v[:i]))) and t == 1:
+    potOdds0 = float(hh.sb/potSize1)
+    
+if all('raises' not in v[j] for j in range(len(v[:i]))) and t == 2:    
+    potOdds0 = float(0.000000001/potSize1)
+    
+    
+#if there was a raise before us and we arent in the blinds    
+if any('raises' in v[j] for j in range(len(v[:i]))) and t != 2 and t != 1:
+    for q in range(len(v[:i])):
+    #q = 3
+        if v[q].partition(':')[0] != hh.hero.name:
+            addr = v[q].partition(':')[2]
+            #is there raise and is it the last one before our decision, q2 = 1
+            if 'raises' in addr and all('raises' not in v[q2].partition(':')[2] for q2 in range(q+1,len(v[:i]))) and 'all-in' not in addr:
+                addr1 = int(addr.partition('to ')[2])
+                
+            if 'raises' in addr and all('raises' not in v[q2].partition(':')[2] for q2 in range(q+1,len(v[:i]))) and 'all-in' in addr:
+                addr1 = max(high)
+                
+                if addr1-addWe < p.stack:
+                    potOdds1 = float((addr1-addWe)/potSize3)
+
+
+
+
+    
+
+
+
+p11 = 0                 #how often do we win
+p22 = 0                 #how often opponents win
+opp = NotOut            #how many opponents are still in the game in that moment, we have to make a decision
+playerHero_hand = hand  #our hand
+
+
+start_time = time.time()
+for i in range(20000):   
+    #constructin the whole deck
+    deck = Deck()
+    
+    
+    #Card.print_pretty_cards(player1_hand)
+    
+    
+    #removing our own hand from the deck
+    deck.cards.remove(hand[0])
+    deck.cards.remove(hand[1])
+    
+    
+    d = {}
+    for j in range(opp):
+        #giving a random player random cards
+        d['player%s_hand'%j] = deck.draw(2)
+        
+    #Card.print_pretty_cards(d['player2_hand'])
+   
+    #Card.print_pretty_cards(d['player3_hand'])
+    
+    
+    board = deck.draw(5)
+    #Card.print_pretty_cards(board)
+    
+    
+    #how strong are the hands from our opponents
+    e = {}
+    for k in range(opp):
+        e['p%s_score'%k] = evaluator.evaluate(board, d['player%s_hand'%k])
+#        p1_score = evaluator.evaluate(board, player1_hand)
+#        p2_score = evaluator.evaluate(board, player2_hand)
+#        p3_score = evaluator.evaluate(board, player3_hand)
+    
+    
+    #how strong is our hand
+    e['pHero_score'] = evaluator.evaluate(board, playerHero_hand)
+    
+    
+    if min(e, key=e.get) == 'pHero_score':
+        p11 += 1
+        
+    else:
+        p22 += 1
+   
+
+rate = p11/20000
+
+
+if rate < potOdds0:
+    print('Decision Nr.%d: Fold the Hand preflop'%dec)
+    dec += 1
+    
+else:
+    print('Decision Nr.%d: Call/ Raise the Hand preflop'%dec)
+    dec += 1    
+    
+print("--- %s seconds ---" % (time.time() - start_time))
+
+
+
+
 
 
 
@@ -483,7 +704,7 @@ z2 = hh.show_down
 
 
 
-
+########   STARTING ANALYSE HEADS-UP BY THE BOOK OF TIPTON  ##########
 
 
 from poker.room.pokerstars import PokerStarsHandHistory
@@ -498,47 +719,61 @@ hh.hero.combo
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ###################   space for the essential - THE HANDS #################
 
+
+
+
 HAND1 = """
-PokerStars Hand #183001414583:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 19:47:59 ET
-Table 'Sarin' 9-max Seat #8 is the button
-Seat 1: ollikahn23 ($10 in chips) 
-Seat 2: your_drama1 ($18.73 in chips) 
-Seat 3: Sasha Ghan ($13.88 in chips) 
-Seat 4: Velliton87 ($10.16 in chips) 
-Seat 5: kasatka07 ($17.53 in chips) 
-Seat 6: Denisella ($10.24 in chips) 
-Seat 7: Mr_Dick666 ($11.06 in chips) 
-Seat 8: JasonAG ($10.32 in chips) 
-Seat 9: ZuJIOk ($18.53 in chips) 
-ZuJIOk: posts small blind $0.05
-ollikahn23: posts big blind $0.10
+PokerStars Hand #187043871016: Tournament #2318958343, $1.38+$0.12 USD Hold'em No Limit - Level II (15/30) - 2018/05/30 22:16:20 CET [2018/05/30 16:16:20 ET]
+Table '2318958343 1' 2-max Seat #1 is the button
+Seat 1: k0oki (1854 in chips)
+Seat 2: ollikahn23 (1146 in chips)
+k0oki: posts small blind 15
+ollikahn23: posts big blind 30
 *** HOLE CARDS ***
-Dealt to ollikahn23 [6h Th]
-your_drama1: folds 
-Sasha Ghan: folds 
-Velliton87: folds 
-kasatka07: folds 
-Denisella: folds 
-Mr_Dick666: folds 
-JasonAG: raises $0.10 to $0.20
-ZuJIOk: folds 
-ollikahn23: folds 
-Uncalled bet ($0.10) returned to JasonAG
-JasonAG collected $0.25 from pot
-JasonAG: doesn't show hand 
+Dealt to ollikahn23 [Ac Qc]
+k0oki: raises 30 to 60
+ollikahn23: calls 30
+*** FLOP *** [2d 3h 5c]
+ollikahn23: checks
+k0oki: bets 40
+ollikahn23: calls 40
+*** TURN *** [2d 3h 5c] [Kc]
+ollikahn23: bets 90
+k0oki: calls 90
+*** RIVER *** [2d 3h 5c Kc] [3s]
+ollikahn23: checks
+k0oki: bets 190
+ollikahn23: folds
+Uncalled bet (190) returned to k0oki
+k0oki collected 380 from pot
+k0oki: doesn't show hand
 *** SUMMARY ***
-Total pot $0.25 | Rake $0 
-Seat 1: ollikahn23 (big blind) folded before Flop
-Seat 2: your_drama1 folded before Flop (didn't bet)
-Seat 3: Sasha Ghan folded before Flop (didn't bet)
-Seat 4: Velliton87 folded before Flop (didn't bet)
-Seat 5: kasatka07 folded before Flop (didn't bet)
-Seat 6: Denisella folded before Flop (didn't bet)
-Seat 7: Mr_Dick666 folded before Flop (didn't bet)
-Seat 8: JasonAG (button) collected ($0.25)
-Seat 9: ZuJIOk (small blind) folded before Flop"""
+Total pot 380 | Rake 0
+Board [2d 3h 5c Kc 3s]
+Seat 1: k0oki (button) (small blind) collected (380)
+Seat 2: ollikahn23 (big blind) folded on the River"""
+
+
 
 
 
@@ -604,49 +839,55 @@ Seat 7: RTS-Rob showed [Tc 9c] and lost with a pair of Eights
 Seat 8: ollikahn23 showed [7h 7s] and won (11837) with a full house, Sevens full of Eights"""
 
 
+
+
+
+
+
+
 HAND1 = """
-PokerStars Hand #105024000105: Tournament #797469411, $3.19+$0.31 USD Hold'em No Limit - Level I (10/20) - 2013/10/04 19:53:27 CET [2013/10/04 13:53:27 ET]
-Table '797469411 15' 9-max Seat #1 is the button
-Seat 1: flettl2 (1500 in chips)
-Seat 2: santy312 (3000 in chips)
-Seat 3: flavio766 (3000 in chips)
-Seat 4: strongi82 (3000 in chips)
-Seat 5: W2lkm2n (3000 in chips)
-Seat 6: MISTRPerfect (3000 in chips)
-Seat 7: blak_douglas (3000 in chips)
-Seat 8: sinus91 (1500 in chips)
-Seat 9: STBIJUJA (1500 in chips)
-santy312: posts small blind 10
-flavio766: posts big blind 20
+PokerStars Hand #183001414583:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 19:47:59 ET
+Table 'Sarin' 9-max Seat #8 is the button
+Seat 1: ollikahn23 ($10 in chips) 
+Seat 2: your_drama1 ($18.73 in chips) 
+Seat 3: Sasha Ghan ($13.88 in chips) 
+Seat 4: Velliton87 ($10.16 in chips) 
+Seat 5: kasatka07 ($17.53 in chips) 
+Seat 6: Denisella ($10.24 in chips) 
+Seat 7: Mr_Dick666 ($11.06 in chips) 
+Seat 8: JasonAG ($10.32 in chips) 
+Seat 9: ZuJIOk ($18.53 in chips) 
+ZuJIOk: posts small blind $0.05
+ollikahn23: posts big blind $0.10
 *** HOLE CARDS ***
-Dealt to W2lkm2n [Ac Jh]
-strongi82: folds
-W2lkm2n: raises 40 to 60
-MISTRPerfect: calls 60
-blak_douglas: folds
-sinus91: folds
-STBIJUJA: folds
-flettl2: folds
-santy312: folds
-flavio766: folds
-*** FLOP *** [2s 6d 6h]
-W2lkm2n: bets 80
-MISTRPerfect: folds
-Uncalled bet (80) returned to W2lkm2n
-W2lkm2n collected 150 from pot
-W2lkm2n: doesn't show hand
+Dealt to ollikahn23 [6h Th]
+your_drama1: folds 
+Sasha Ghan: folds 
+Velliton87: folds 
+kasatka07: folds 
+Denisella: folds 
+Mr_Dick666: folds 
+JasonAG: raises $0.10 to $0.20
+ZuJIOk: folds 
+ollikahn23: folds 
+Uncalled bet ($0.10) returned to JasonAG
+JasonAG collected $0.25 from pot
+JasonAG: doesn't show hand 
 *** SUMMARY ***
-Total pot 150 | Rake 0
-Board [2s 6d 6h]
-Seat 1: flettl2 (button) folded before Flop (didn't bet)
-Seat 2: santy312 (small blind) folded before Flop
-Seat 3: flavio766 (big blind) folded before Flop
-Seat 4: strongi82 folded before Flop (didn't bet)
-Seat 5: W2lkm2n collected (150)
-Seat 6: MISTRPerfect folded on the Flop
-Seat 7: blak_douglas folded before Flop (didn't bet)
-Seat 8: sinus91 folded before Flop (didn't bet)
-Seat 9: STBIJUJA folded before Flop (didn't bet)"""
+Total pot $0.25 | Rake $0 
+Seat 1: ollikahn23 (big blind) folded before Flop
+Seat 2: your_drama1 folded before Flop (didn't bet)
+Seat 3: Sasha Ghan folded before Flop (didn't bet)
+Seat 4: Velliton87 folded before Flop (didn't bet)
+Seat 5: kasatka07 folded before Flop (didn't bet)
+Seat 6: Denisella folded before Flop (didn't bet)
+Seat 7: Mr_Dick666 folded before Flop (didn't bet)
+Seat 8: JasonAG (button) collected ($0.25)
+Seat 9: ZuJIOk (small blind) folded before Flop"""
+
+
+
+
 
 
 HAND1 = """
@@ -761,4 +1002,3 @@ Seat 5: kidkid84 (button) folded before Flop (didn't bet)
 Seat 6: MoAKs70 (small blind) folded before Flop
 Seat 8: Matt242 (big blind) folded before Flop
 Seat 9: Alt4y folded before Flop (didn't bet)"""
-

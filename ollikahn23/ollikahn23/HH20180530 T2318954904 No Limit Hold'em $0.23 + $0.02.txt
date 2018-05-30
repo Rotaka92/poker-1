@@ -1,0 +1,575 @@
+﻿PokerStars Hand #187043083195: Tournament #2318954904, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2018/05/30 21:57:52 CET [2018/05/30 15:57:52 ET]
+Table '2318954904 1' 3-max Seat #1 is the button
+Seat 1: GivM8YOPot (500 in chips) 
+Seat 2: Sega E-burg (500 in chips) 
+Seat 3: ollikahn23 (500 in chips) 
+Sega E-burg: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5c 9d]
+GivM8YOPot: folds 
+Sega E-burg: calls 10
+ollikahn23: checks 
+*** FLOP *** [2s Kh Kc]
+Sega E-burg: bets 20
+ollikahn23: folds 
+Uncalled bet (20) returned to Sega E-burg
+Sega E-burg collected 40 from pot
+Sega E-burg: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [2s Kh Kc]
+Seat 1: GivM8YOPot (button) folded before Flop (didn't bet)
+Seat 2: Sega E-burg (small blind) collected (40)
+Seat 3: ollikahn23 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #187043093524: Tournament #2318954904, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2018/05/30 21:58:10 CET [2018/05/30 15:58:10 ET]
+Table '2318954904 1' 3-max Seat #2 is the button
+Seat 1: GivM8YOPot (500 in chips) 
+Seat 2: Sega E-burg (520 in chips) 
+Seat 3: ollikahn23 (480 in chips) 
+ollikahn23: posts small blind 10
+GivM8YOPot: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ad Jc]
+Sega E-burg: calls 20
+ollikahn23: raises 60 to 80
+GivM8YOPot: folds 
+Sega E-burg: calls 60
+*** FLOP *** [Jd 5d 7h]
+ollikahn23: bets 120
+Sega E-burg: calls 120
+*** TURN *** [Jd 5d 7h] [Jh]
+ollikahn23: checks 
+Sega E-burg: bets 210
+ollikahn23: raises 70 to 280 and is all-in
+Sega E-burg: calls 70
+*** RIVER *** [Jd 5d 7h Jh] [5h]
+*** SHOW DOWN ***
+ollikahn23: shows [Ad Jc] (a full house, Jacks full of Fives)
+Sega E-burg: shows [8d 7d] (two pair, Jacks and Sevens)
+ollikahn23 collected 980 from pot
+*** SUMMARY ***
+Total pot 980 | Rake 0 
+Board [Jd 5d 7h Jh 5h]
+Seat 1: GivM8YOPot (big blind) folded before Flop
+Seat 2: Sega E-burg (button) showed [8d 7d] and lost with two pair, Jacks and Sevens
+Seat 3: ollikahn23 (small blind) showed [Ad Jc] and won (980) with a full house, Jacks full of Fives
+
+
+
+PokerStars Hand #187043109591: Tournament #2318954904, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2018/05/30 21:58:38 CET [2018/05/30 15:58:38 ET]
+Table '2318954904 1' 3-max Seat #3 is the button
+Seat 1: GivM8YOPot (480 in chips) 
+Seat 2: Sega E-burg (40 in chips) 
+Seat 3: ollikahn23 (980 in chips) 
+GivM8YOPot: posts small blind 10
+Sega E-burg: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3h 6h]
+ollikahn23: folds 
+GivM8YOPot: folds 
+Uncalled bet (10) returned to Sega E-burg
+Sega E-burg collected 20 from pot
+Sega E-burg: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: GivM8YOPot (small blind) folded before Flop
+Seat 2: Sega E-burg (big blind) collected (20)
+Seat 3: ollikahn23 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #187043112194: Tournament #2318954904, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2018/05/30 21:58:43 CET [2018/05/30 15:58:43 ET]
+Table '2318954904 1' 3-max Seat #1 is the button
+Seat 1: GivM8YOPot (470 in chips) 
+Seat 2: Sega E-burg (50 in chips) 
+Seat 3: ollikahn23 (980 in chips) 
+Sega E-burg: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qd 3h]
+GivM8YOPot: folds 
+Sega E-burg: folds 
+Uncalled bet (10) returned to ollikahn23
+ollikahn23 collected 20 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: GivM8YOPot (button) folded before Flop (didn't bet)
+Seat 2: Sega E-burg (small blind) folded before Flop
+Seat 3: ollikahn23 (big blind) collected (20)
+
+
+
+PokerStars Hand #187043115304: Tournament #2318954904, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2018/05/30 21:58:48 CET [2018/05/30 15:58:48 ET]
+Table '2318954904 1' 3-max Seat #2 is the button
+Seat 1: GivM8YOPot (470 in chips) 
+Seat 2: Sega E-burg (40 in chips) 
+Seat 3: ollikahn23 (990 in chips) 
+ollikahn23: posts small blind 10
+GivM8YOPot: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3h 9h]
+Sega E-burg: raises 20 to 40 and is all-in
+ollikahn23: folds 
+GivM8YOPot: calls 20
+*** FLOP *** [2h 9d 3s]
+*** TURN *** [2h 9d 3s] [Tc]
+*** RIVER *** [2h 9d 3s Tc] [Qh]
+*** SHOW DOWN ***
+GivM8YOPot: shows [Ac 7h] (high card Ace)
+Sega E-burg: shows [Qd 7s] (a pair of Queens)
+Sega E-burg collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [2h 9d 3s Tc Qh]
+Seat 1: GivM8YOPot (big blind) showed [Ac 7h] and lost with high card Ace
+Seat 2: Sega E-burg (button) showed [Qd 7s] and won (90) with a pair of Queens
+Seat 3: ollikahn23 (small blind) folded before Flop
+
+
+
+PokerStars Hand #187043124684: Tournament #2318954904, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2018/05/30 21:59:04 CET [2018/05/30 15:59:04 ET]
+Table '2318954904 1' 3-max Seat #3 is the button
+Seat 1: GivM8YOPot (430 in chips) 
+Seat 2: Sega E-burg (90 in chips) 
+Seat 3: ollikahn23 (980 in chips) 
+GivM8YOPot: posts small blind 10
+Sega E-burg: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4s Kh]
+ollikahn23: raises 60 to 80
+GivM8YOPot: raises 350 to 430 and is all-in
+Sega E-burg: calls 70 and is all-in
+ollikahn23: folds 
+Uncalled bet (340) returned to GivM8YOPot
+*** FLOP *** [Qh Jd Td]
+*** TURN *** [Qh Jd Td] [Jc]
+*** RIVER *** [Qh Jd Td Jc] [9h]
+*** SHOW DOWN ***
+GivM8YOPot: shows [Ah 5d] (a pair of Jacks)
+Sega E-burg: shows [5s As] (a pair of Jacks)
+GivM8YOPot collected 130 from pot
+Sega E-burg collected 130 from pot
+*** SUMMARY ***
+Total pot 260 | Rake 0 
+Board [Qh Jd Td Jc 9h]
+Seat 1: GivM8YOPot (small blind) showed [Ah 5d] and won (130) with a pair of Jacks
+Seat 2: Sega E-burg (big blind) showed [5s As] and won (130) with a pair of Jacks
+Seat 3: ollikahn23 (button) folded before Flop
+
+
+
+PokerStars Hand #187043136348: Tournament #2318954904, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2018/05/30 21:59:25 CET [2018/05/30 15:59:25 ET]
+Table '2318954904 1' 3-max Seat #1 is the button
+Seat 1: GivM8YOPot (470 in chips) 
+Seat 2: Sega E-burg (130 in chips) 
+Seat 3: ollikahn23 (900 in chips) 
+Sega E-burg: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7s Kc]
+GivM8YOPot: raises 450 to 470 and is all-in
+Sega E-burg: folds 
+ollikahn23: folds 
+Uncalled bet (450) returned to GivM8YOPot
+GivM8YOPot collected 50 from pot
+GivM8YOPot: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: GivM8YOPot (button) collected (50)
+Seat 2: Sega E-burg (small blind) folded before Flop
+Seat 3: ollikahn23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #187043142468: Tournament #2318954904, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2018/05/30 21:59:35 CET [2018/05/30 15:59:35 ET]
+Table '2318954904 1' 3-max Seat #2 is the button
+Seat 1: GivM8YOPot (500 in chips) 
+Seat 2: Sega E-burg (120 in chips) 
+Seat 3: ollikahn23 (880 in chips) 
+ollikahn23: posts small blind 10
+GivM8YOPot: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2c 7c]
+Sega E-burg: calls 20
+ollikahn23: folds 
+GivM8YOPot: raises 480 to 500 and is all-in
+Sega E-burg: calls 100 and is all-in
+Uncalled bet (380) returned to GivM8YOPot
+*** FLOP *** [Jc 2h 7h]
+*** TURN *** [Jc 2h 7h] [6d]
+*** RIVER *** [Jc 2h 7h 6d] [5s]
+*** SHOW DOWN ***
+GivM8YOPot: shows [Ah 9s] (high card Ace)
+Sega E-burg: shows [Kh 3h] (high card King)
+GivM8YOPot collected 250 from pot
+Sega E-burg finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Board [Jc 2h 7h 6d 5s]
+Seat 1: GivM8YOPot (big blind) showed [Ah 9s] and won (250) with high card Ace
+Seat 2: Sega E-burg (button) showed [Kh 3h] and lost with high card King
+Seat 3: ollikahn23 (small blind) folded before Flop
+
+
+
+PokerStars Hand #187043155559: Tournament #2318954904, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2018/05/30 21:59:58 CET [2018/05/30 15:59:58 ET]
+Table '2318954904 1' 3-max Seat #1 is the button
+Seat 1: GivM8YOPot (630 in chips) 
+Seat 3: ollikahn23 (870 in chips) 
+GivM8YOPot: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2c Js]
+GivM8YOPot: folds 
+Uncalled bet (10) returned to ollikahn23
+ollikahn23 collected 20 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: GivM8YOPot (button) (small blind) folded before Flop
+Seat 3: ollikahn23 (big blind) collected (20)
+
+
+
+PokerStars Hand #187043157836: Tournament #2318954904, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2018/05/30 22:00:02 CET [2018/05/30 16:00:02 ET]
+Table '2318954904 1' 3-max Seat #3 is the button
+Seat 1: GivM8YOPot (620 in chips) 
+Seat 3: ollikahn23 (880 in chips) 
+ollikahn23: posts small blind 10
+GivM8YOPot: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8s 9c]
+ollikahn23: raises 20 to 40
+GivM8YOPot: folds 
+Uncalled bet (20) returned to ollikahn23
+ollikahn23 collected 40 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: GivM8YOPot (big blind) folded before Flop
+Seat 3: ollikahn23 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #187043160542: Tournament #2318954904, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2018/05/30 22:00:07 CET [2018/05/30 16:00:07 ET]
+Table '2318954904 1' 3-max Seat #1 is the button
+Seat 1: GivM8YOPot (600 in chips) 
+Seat 3: ollikahn23 (900 in chips) 
+GivM8YOPot: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3c Ad]
+GivM8YOPot: raises 20 to 40
+ollikahn23: calls 20
+*** FLOP *** [Qd Ac Jc]
+ollikahn23: checks 
+GivM8YOPot: checks 
+*** TURN *** [Qd Ac Jc] [Kh]
+ollikahn23: checks 
+GivM8YOPot: checks 
+*** RIVER *** [Qd Ac Jc Kh] [2s]
+ollikahn23: bets 60
+GivM8YOPot: folds 
+Uncalled bet (60) returned to ollikahn23
+ollikahn23 collected 80 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Qd Ac Jc Kh 2s]
+Seat 1: GivM8YOPot (button) (small blind) folded on the River
+Seat 3: ollikahn23 (big blind) collected (80)
+
+
+
+PokerStars Hand #187043168712: Tournament #2318954904, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2018/05/30 22:00:21 CET [2018/05/30 16:00:21 ET]
+Table '2318954904 1' 3-max Seat #3 is the button
+Seat 1: GivM8YOPot (560 in chips) 
+Seat 3: ollikahn23 (940 in chips) 
+ollikahn23: posts small blind 10
+GivM8YOPot: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jh Kc]
+ollikahn23: raises 20 to 40
+GivM8YOPot: calls 20
+*** FLOP *** [2d 2h Qc]
+GivM8YOPot: checks 
+ollikahn23: bets 40
+GivM8YOPot: folds 
+Uncalled bet (40) returned to ollikahn23
+ollikahn23 collected 80 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [2d 2h Qc]
+Seat 1: GivM8YOPot (big blind) folded on the Flop
+Seat 3: ollikahn23 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #187043175328: Tournament #2318954904, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2018/05/30 22:00:31 CET [2018/05/30 16:00:31 ET]
+Table '2318954904 1' 3-max Seat #1 is the button
+Seat 1: GivM8YOPot (520 in chips) 
+Seat 3: ollikahn23 (980 in chips) 
+GivM8YOPot: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4h 8h]
+GivM8YOPot: folds 
+Uncalled bet (10) returned to ollikahn23
+ollikahn23 collected 20 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: GivM8YOPot (button) (small blind) folded before Flop
+Seat 3: ollikahn23 (big blind) collected (20)
+
+
+
+PokerStars Hand #187043177354: Tournament #2318954904, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2018/05/30 22:00:34 CET [2018/05/30 16:00:34 ET]
+Table '2318954904 1' 3-max Seat #3 is the button
+Seat 1: GivM8YOPot (510 in chips) 
+Seat 3: ollikahn23 (990 in chips) 
+ollikahn23: posts small blind 10
+GivM8YOPot: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8c 3h]
+ollikahn23: folds 
+Uncalled bet (10) returned to GivM8YOPot
+GivM8YOPot collected 20 from pot
+GivM8YOPot: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: GivM8YOPot (big blind) collected (20)
+Seat 3: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #187043179452: Tournament #2318954904, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2018/05/30 22:00:38 CET [2018/05/30 16:00:38 ET]
+Table '2318954904 1' 3-max Seat #1 is the button
+Seat 1: GivM8YOPot (520 in chips) 
+Seat 3: ollikahn23 (980 in chips) 
+GivM8YOPot: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4c 3s]
+GivM8YOPot: raises 20 to 40
+ollikahn23: folds 
+Uncalled bet (20) returned to GivM8YOPot
+GivM8YOPot collected 40 from pot
+GivM8YOPot: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: GivM8YOPot (button) (small blind) collected (40)
+Seat 3: ollikahn23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #187043182617: Tournament #2318954904, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2018/05/30 22:00:43 CET [2018/05/30 16:00:43 ET]
+Table '2318954904 1' 3-max Seat #3 is the button
+Seat 1: GivM8YOPot (540 in chips) 
+Seat 3: ollikahn23 (960 in chips) 
+ollikahn23: posts small blind 10
+GivM8YOPot: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5c Js]
+ollikahn23: raises 20 to 40
+GivM8YOPot: raises 500 to 540 and is all-in
+ollikahn23: folds 
+Uncalled bet (500) returned to GivM8YOPot
+GivM8YOPot collected 80 from pot
+GivM8YOPot: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: GivM8YOPot (big blind) collected (80)
+Seat 3: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #187043187513: Tournament #2318954904, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2018/05/30 22:00:51 CET [2018/05/30 16:00:51 ET]
+Table '2318954904 1' 3-max Seat #1 is the button
+Seat 1: GivM8YOPot (580 in chips) 
+Seat 3: ollikahn23 (920 in chips) 
+GivM8YOPot: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5d 5h]
+GivM8YOPot: raises 20 to 40
+ollikahn23: raises 880 to 920 and is all-in
+GivM8YOPot: folds 
+Uncalled bet (880) returned to ollikahn23
+ollikahn23 collected 80 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: GivM8YOPot (button) (small blind) folded before Flop
+Seat 3: ollikahn23 (big blind) collected (80)
+
+
+
+PokerStars Hand #187043194488: Tournament #2318954904, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2018/05/30 22:01:01 CET [2018/05/30 16:01:01 ET]
+Table '2318954904 1' 3-max Seat #3 is the button
+Seat 1: GivM8YOPot (540 in chips) 
+Seat 3: ollikahn23 (960 in chips) 
+ollikahn23: posts small blind 15
+GivM8YOPot: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7d 6h]
+ollikahn23: folds 
+Uncalled bet (15) returned to GivM8YOPot
+GivM8YOPot collected 30 from pot
+GivM8YOPot: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: GivM8YOPot (big blind) collected (30)
+Seat 3: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #187043196530: Tournament #2318954904, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2018/05/30 22:01:05 CET [2018/05/30 16:01:05 ET]
+Table '2318954904 1' 3-max Seat #1 is the button
+Seat 1: GivM8YOPot (555 in chips) 
+Seat 3: ollikahn23 (945 in chips) 
+GivM8YOPot: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4s 8h]
+GivM8YOPot: folds 
+Uncalled bet (15) returned to ollikahn23
+ollikahn23 collected 30 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: GivM8YOPot (button) (small blind) folded before Flop
+Seat 3: ollikahn23 (big blind) collected (30)
+
+
+
+PokerStars Hand #187043199128: Tournament #2318954904, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2018/05/30 22:01:09 CET [2018/05/30 16:01:09 ET]
+Table '2318954904 1' 3-max Seat #3 is the button
+Seat 1: GivM8YOPot (540 in chips) 
+Seat 3: ollikahn23 (960 in chips) 
+ollikahn23: posts small blind 15
+GivM8YOPot: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7d Kd]
+ollikahn23: raises 30 to 60
+GivM8YOPot: calls 30
+*** FLOP *** [6d 4s 6h]
+GivM8YOPot: checks 
+ollikahn23: bets 60
+GivM8YOPot: folds 
+Uncalled bet (60) returned to ollikahn23
+ollikahn23 collected 120 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [6d 4s 6h]
+Seat 1: GivM8YOPot (big blind) folded on the Flop
+Seat 3: ollikahn23 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #187043206482: Tournament #2318954904, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2018/05/30 22:01:20 CET [2018/05/30 16:01:20 ET]
+Table '2318954904 1' 3-max Seat #1 is the button
+Seat 1: GivM8YOPot (480 in chips) 
+Seat 3: ollikahn23 (1020 in chips) 
+GivM8YOPot: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8s Qs]
+GivM8YOPot: raises 30 to 60
+ollikahn23: calls 30
+*** FLOP *** [5c Js Ac]
+ollikahn23: checks 
+GivM8YOPot: checks 
+*** TURN *** [5c Js Ac] [2c]
+ollikahn23: bets 60
+GivM8YOPot: folds 
+Uncalled bet (60) returned to ollikahn23
+ollikahn23 collected 120 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [5c Js Ac 2c]
+Seat 1: GivM8YOPot (button) (small blind) folded on the Turn
+Seat 3: ollikahn23 (big blind) collected (120)
+
+
+
+PokerStars Hand #187043215720: Tournament #2318954904, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2018/05/30 22:01:33 CET [2018/05/30 16:01:33 ET]
+Table '2318954904 1' 3-max Seat #3 is the button
+Seat 1: GivM8YOPot (420 in chips) 
+Seat 3: ollikahn23 (1080 in chips) 
+ollikahn23: posts small blind 15
+GivM8YOPot: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ks 5d]
+ollikahn23: raises 30 to 60
+GivM8YOPot: raises 60 to 120
+ollikahn23: calls 60
+*** FLOP *** [5c As Qs]
+GivM8YOPot: bets 120
+ollikahn23: folds 
+Uncalled bet (120) returned to GivM8YOPot
+GivM8YOPot collected 240 from pot
+GivM8YOPot: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [5c As Qs]
+Seat 1: GivM8YOPot (big blind) collected (240)
+Seat 3: ollikahn23 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #187043230636: Tournament #2318954904, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2018/05/30 22:01:55 CET [2018/05/30 16:01:55 ET]
+Table '2318954904 1' 3-max Seat #1 is the button
+Seat 1: GivM8YOPot (540 in chips) 
+Seat 3: ollikahn23 (960 in chips) 
+GivM8YOPot: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ks 9d]
+GivM8YOPot: folds 
+Uncalled bet (15) returned to ollikahn23
+ollikahn23 collected 30 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: GivM8YOPot (button) (small blind) folded before Flop
+Seat 3: ollikahn23 (big blind) collected (30)
+
+
+
+PokerStars Hand #187043234026: Tournament #2318954904, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2018/05/30 22:01:59 CET [2018/05/30 16:01:59 ET]
+Table '2318954904 1' 3-max Seat #3 is the button
+Seat 1: GivM8YOPot (525 in chips) 
+Seat 3: ollikahn23 (975 in chips) 
+ollikahn23: posts small blind 15
+GivM8YOPot: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3h 3d]
+ollikahn23: raises 30 to 60
+GivM8YOPot: raises 465 to 525 and is all-in
+ollikahn23: calls 465
+*** FLOP *** [5s Ts Qd]
+*** TURN *** [5s Ts Qd] [Ks]
+*** RIVER *** [5s Ts Qd Ks] [8s]
+*** SHOW DOWN ***
+GivM8YOPot: shows [Ad 6c] (high card Ace)
+ollikahn23: shows [3h 3d] (a pair of Threes)
+ollikahn23 collected 1050 from pot
+GivM8YOPot finished the tournament in 2nd place
+ollikahn23 wins the tournament and receives $0.50 - congratulations!
+*** SUMMARY ***
+Total pot 1050 | Rake 0 
+Board [5s Ts Qd Ks 8s]
+Seat 1: GivM8YOPot (big blind) showed [Ad 6c] and lost with high card Ace
+Seat 3: ollikahn23 (button) (small blind) showed [3h 3d] and won (1050) with a pair of Threes
+
+
+

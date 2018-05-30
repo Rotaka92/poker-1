@@ -1,0 +1,4791 @@
+﻿PokerStars Hand #184036063414: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/03/18 15:22:14 ET
+Table '2253360261 5' 9-max Seat #3 is the button
+Seat 1: davdav23 (1494 in chips) 
+Seat 2: h1gher1 (1445 in chips) 
+Seat 3: tTxbrazza (1464 in chips) 
+Seat 4: mickeyftw116 (1474 in chips) 
+Seat 5: antichrist27 (1885 in chips) 
+Seat 6: satyago bernab (1244 in chips) 
+Seat 7: BCEOTEU, (1494 in chips) 
+Seat 8: ollikahn23 (1500 in chips) 
+Seat 9: ioanna576 (1500 in chips) 
+davdav23: posts the ante 3
+h1gher1: posts the ante 3
+tTxbrazza: posts the ante 3
+mickeyftw116: posts the ante 3
+antichrist27: posts the ante 3
+satyago bernab: posts the ante 3
+BCEOTEU,: posts the ante 3
+ollikahn23: posts the ante 3
+ioanna576: posts the ante 3
+mickeyftw116: posts small blind 10
+antichrist27: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kc 5h]
+satyago bernab: calls 20
+BCEOTEU,: folds 
+ollikahn23: folds 
+ioanna576: folds 
+davdav23: raises 100 to 120
+h1gher1: folds 
+tTxbrazza: folds 
+mickeyftw116: folds 
+antichrist27: folds 
+satyago bernab: calls 100
+*** FLOP *** [Js Jh 7d]
+satyago bernab: checks 
+davdav23: bets 89
+satyago bernab: calls 89
+*** TURN *** [Js Jh 7d] [6d]
+satyago bernab: checks 
+davdav23: bets 285
+satyago bernab: folds 
+Uncalled bet (285) returned to davdav23
+davdav23 collected 475 from pot
+davdav23: doesn't show hand 
+*** SUMMARY ***
+Total pot 475 | Rake 0 
+Board [Js Jh 7d 6d]
+Seat 1: davdav23 collected (475)
+Seat 2: h1gher1 folded before Flop (didn't bet)
+Seat 3: tTxbrazza (button) folded before Flop (didn't bet)
+Seat 4: mickeyftw116 (small blind) folded before Flop
+Seat 5: antichrist27 (big blind) folded before Flop
+Seat 6: satyago bernab folded on the Turn
+Seat 7: BCEOTEU, folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: ioanna576 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184036131292: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/03/18 15:23:22 ET
+Table '2253360261 5' 9-max Seat #4 is the button
+Seat 1: davdav23 (1757 in chips) 
+Seat 2: h1gher1 (1442 in chips) 
+Seat 3: tTxbrazza (1461 in chips) 
+Seat 4: mickeyftw116 (1461 in chips) 
+Seat 5: antichrist27 (1862 in chips) 
+Seat 7: BCEOTEU, (1491 in chips) 
+Seat 8: ollikahn23 (1497 in chips) 
+Seat 9: ioanna576 (1497 in chips) 
+davdav23: posts the ante 3
+h1gher1: posts the ante 3
+tTxbrazza: posts the ante 3
+mickeyftw116: posts the ante 3
+antichrist27: posts the ante 3
+BCEOTEU,: posts the ante 3
+ollikahn23: posts the ante 3
+ioanna576: posts the ante 3
+antichrist27: posts small blind 10
+BCEOTEU,: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qc 4d]
+ollikahn23: folds 
+ioanna576: folds 
+davdav23: folds 
+h1gher1: folds 
+tTxbrazza: folds 
+mickeyftw116: folds 
+antichrist27: calls 10
+BCEOTEU,: checks 
+*** FLOP *** [Jd Ac Kc]
+antichrist27: bets 20
+BCEOTEU,: folds 
+Uncalled bet (20) returned to antichrist27
+antichrist27 collected 64 from pot
+*** SUMMARY ***
+Total pot 64 | Rake 0 
+Board [Jd Ac Kc]
+Seat 1: davdav23 folded before Flop (didn't bet)
+Seat 2: h1gher1 folded before Flop (didn't bet)
+Seat 3: tTxbrazza folded before Flop (didn't bet)
+Seat 4: mickeyftw116 (button) folded before Flop (didn't bet)
+Seat 5: antichrist27 (small blind) collected (64)
+Seat 7: BCEOTEU, (big blind) folded on the Flop
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: ioanna576 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184036170679: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/03/18 15:24:01 ET
+Table '2253360261 5' 9-max Seat #5 is the button
+Seat 1: davdav23 (1754 in chips) 
+Seat 2: h1gher1 (1439 in chips) 
+Seat 3: tTxbrazza (1458 in chips) 
+Seat 4: mickeyftw116 (1458 in chips) 
+Seat 5: antichrist27 (1903 in chips) 
+Seat 6: NineBe (1500 in chips) out of hand (moved from another table into small blind)
+Seat 7: BCEOTEU, (1468 in chips) 
+Seat 8: ollikahn23 (1494 in chips) 
+Seat 9: ioanna576 (1494 in chips) 
+NineBe will be allowed to play after the button
+davdav23: posts the ante 3
+h1gher1: posts the ante 3
+tTxbrazza: posts the ante 3
+mickeyftw116: posts the ante 3
+antichrist27: posts the ante 3
+BCEOTEU,: posts the ante 3
+ollikahn23: posts the ante 3
+ioanna576: posts the ante 3
+BCEOTEU,: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qh 2h]
+ioanna576: raises 24 to 44
+davdav23: folds 
+h1gher1: folds 
+tTxbrazza: folds 
+mickeyftw116: folds 
+antichrist27: folds 
+BCEOTEU,: folds 
+ollikahn23: folds 
+Uncalled bet (24) returned to ioanna576
+ioanna576 collected 74 from pot
+*** SUMMARY ***
+Total pot 74 | Rake 0 
+Seat 1: davdav23 folded before Flop (didn't bet)
+Seat 2: h1gher1 folded before Flop (didn't bet)
+Seat 3: tTxbrazza folded before Flop (didn't bet)
+Seat 4: mickeyftw116 folded before Flop (didn't bet)
+Seat 5: antichrist27 (button) folded before Flop (didn't bet)
+Seat 7: BCEOTEU, (small blind) folded before Flop
+Seat 8: ollikahn23 (big blind) folded before Flop
+Seat 9: ioanna576 collected (74)
+
+
+
+PokerStars Hand #184036191029: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/03/18 15:24:22 ET
+Table '2253360261 5' 9-max Seat #7 is the button
+Seat 1: davdav23 (1751 in chips) 
+Seat 2: h1gher1 (1436 in chips) 
+Seat 3: tTxbrazza (1455 in chips) 
+Seat 4: mickeyftw116 (1455 in chips) 
+Seat 5: antichrist27 (1900 in chips) 
+Seat 6: NineBe (1500 in chips) 
+Seat 7: BCEOTEU, (1455 in chips) 
+Seat 8: ollikahn23 (1471 in chips) 
+davdav23: posts the ante 3
+h1gher1: posts the ante 3
+tTxbrazza: posts the ante 3
+mickeyftw116: posts the ante 3
+antichrist27: posts the ante 3
+NineBe: posts the ante 3
+BCEOTEU,: posts the ante 3
+ollikahn23: posts the ante 3
+ollikahn23: posts small blind 10
+davdav23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6c 2c]
+h1gher1: folds 
+tTxbrazza: folds 
+mickeyftw116: folds 
+antichrist27: raises 60 to 80
+NineBe: calls 80
+BCEOTEU,: folds 
+ollikahn23: folds 
+davdav23: calls 60
+*** FLOP *** [Ac 3d 3c]
+davdav23: checks 
+antichrist27: bets 140
+NineBe: calls 140
+davdav23: calls 140
+*** TURN *** [Ac 3d 3c] [Jc]
+davdav23: checks 
+antichrist27: bets 340
+NineBe: calls 340
+davdav23: calls 340
+*** RIVER *** [Ac 3d 3c Jc] [Ks]
+davdav23: bets 1188 and is all-in
+antichrist27: calls 1188
+NineBe: folds 
+*** SHOW DOWN ***
+davdav23: shows [Ah Th] (two pair, Aces and Threes)
+antichrist27: shows [Kd Ad] (two pair, Aces and Kings)
+antichrist27 collected 4090 from pot
+davdav23 finished the tournament
+*** SUMMARY ***
+Total pot 4090 | Rake 0 
+Board [Ac 3d 3c Jc Ks]
+Seat 1: davdav23 (big blind) showed [Ah Th] and lost with two pair, Aces and Threes
+Seat 2: h1gher1 folded before Flop (didn't bet)
+Seat 3: tTxbrazza folded before Flop (didn't bet)
+Seat 4: mickeyftw116 folded before Flop (didn't bet)
+Seat 5: antichrist27 showed [Kd Ad] and won (4090) with two pair, Aces and Kings
+Seat 6: NineBe folded on the River
+Seat 7: BCEOTEU, (button) folded before Flop (didn't bet)
+Seat 8: ollikahn23 (small blind) folded before Flop
+
+
+
+PokerStars Hand #184036271906: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/03/18 15:25:42 ET
+Table '2253360261 5' 9-max Seat #8 is the button
+Seat 2: h1gher1 (1433 in chips) 
+Seat 3: tTxbrazza (1452 in chips) 
+Seat 4: mickeyftw116 (1452 in chips) 
+Seat 5: antichrist27 (4239 in chips) 
+Seat 6: NineBe (937 in chips) 
+Seat 7: BCEOTEU, (1452 in chips) 
+Seat 8: ollikahn23 (1458 in chips) 
+h1gher1: posts the ante 3
+tTxbrazza: posts the ante 3
+mickeyftw116: posts the ante 3
+antichrist27: posts the ante 3
+NineBe: posts the ante 3
+BCEOTEU,: posts the ante 3
+ollikahn23: posts the ante 3
+h1gher1: posts small blind 10
+tTxbrazza: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6h 5c]
+mickeyftw116: folds 
+antichrist27: folds 
+NineBe: folds 
+BCEOTEU,: folds 
+ollikahn23: raises 40 to 60
+h1gher1: calls 50
+tTxbrazza: folds 
+*** FLOP *** [Kc Td 2h]
+h1gher1: checks 
+ollikahn23: bets 60
+h1gher1: folds 
+Uncalled bet (60) returned to ollikahn23
+ollikahn23 collected 161 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 161 | Rake 0 
+Board [Kc Td 2h]
+Seat 2: h1gher1 (small blind) folded on the Flop
+Seat 3: tTxbrazza (big blind) folded before Flop
+Seat 4: mickeyftw116 folded before Flop (didn't bet)
+Seat 5: antichrist27 folded before Flop (didn't bet)
+Seat 6: NineBe folded before Flop (didn't bet)
+Seat 7: BCEOTEU, folded before Flop (didn't bet)
+Seat 8: ollikahn23 (button) collected (161)
+
+
+
+PokerStars Hand #184036327298: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/03/18 15:26:38 ET
+Table '2253360261 5' 9-max Seat #2 is the button
+Seat 1: LeandroC1993 (1512 in chips) 
+Seat 2: h1gher1 (1370 in chips) 
+Seat 3: tTxbrazza (1429 in chips) 
+Seat 4: mickeyftw116 (1449 in chips) 
+Seat 5: antichrist27 (4236 in chips) 
+Seat 6: NineBe (934 in chips) 
+Seat 7: BCEOTEU, (1449 in chips) 
+Seat 8: ollikahn23 (1556 in chips) 
+LeandroC1993: posts the ante 3
+h1gher1: posts the ante 3
+tTxbrazza: posts the ante 3
+mickeyftw116: posts the ante 3
+antichrist27: posts the ante 3
+NineBe: posts the ante 3
+BCEOTEU,: posts the ante 3
+ollikahn23: posts the ante 3
+tTxbrazza: posts small blind 10
+mickeyftw116: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5h 7c]
+antichrist27: folds 
+NineBe: raises 25 to 45
+BCEOTEU,: raises 95 to 140
+ollikahn23: folds 
+LeandroC1993: folds 
+h1gher1: folds 
+tTxbrazza: folds 
+mickeyftw116: folds 
+NineBe: calls 95
+*** FLOP *** [Kd 5s Qd]
+NineBe: checks 
+BCEOTEU,: bets 184
+NineBe: calls 184
+*** TURN *** [Kd 5s Qd] [Jh]
+NineBe: checks 
+BCEOTEU,: bets 386
+NineBe: raises 221 to 607 and is all-in
+BCEOTEU,: calls 221
+*** RIVER *** [Kd 5s Qd Jh] [8h]
+*** SHOW DOWN ***
+NineBe: shows [Qc Ah] (a pair of Queens)
+BCEOTEU,: shows [Kc Ks] (three of a kind, Kings)
+BCEOTEU, collected 1916 from pot
+NineBe finished the tournament
+*** SUMMARY ***
+Total pot 1916 | Rake 0 
+Board [Kd 5s Qd Jh 8h]
+Seat 1: LeandroC1993 folded before Flop (didn't bet)
+Seat 2: h1gher1 (button) folded before Flop (didn't bet)
+Seat 3: tTxbrazza (small blind) folded before Flop
+Seat 4: mickeyftw116 (big blind) folded before Flop
+Seat 5: antichrist27 folded before Flop (didn't bet)
+Seat 6: NineBe showed [Qc Ah] and lost with a pair of Queens
+Seat 7: BCEOTEU, showed [Kc Ks] and won (1916) with three of a kind, Kings
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184036394487: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/03/18 15:27:45 ET
+Table '2253360261 5' 9-max Seat #3 is the button
+Seat 1: LeandroC1993 (1509 in chips) 
+Seat 2: h1gher1 (1367 in chips) 
+Seat 3: tTxbrazza (1416 in chips) 
+Seat 4: mickeyftw116 (1426 in chips) 
+Seat 5: antichrist27 (4233 in chips) 
+Seat 7: BCEOTEU, (2431 in chips) 
+Seat 8: ollikahn23 (1553 in chips) 
+LeandroC1993: posts the ante 3
+h1gher1: posts the ante 3
+tTxbrazza: posts the ante 3
+mickeyftw116: posts the ante 3
+antichrist27: posts the ante 3
+BCEOTEU,: posts the ante 3
+ollikahn23: posts the ante 3
+mickeyftw116: posts small blind 10
+antichrist27: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Tc 6s]
+BCEOTEU,: folds 
+ollikahn23: folds 
+LeandroC1993: raises 40 to 60
+h1gher1: folds 
+tTxbrazza: folds 
+mickeyftw116: folds 
+antichrist27: calls 40
+*** FLOP *** [Kh Qc Ks]
+antichrist27: checks 
+LeandroC1993: bets 53
+antichrist27: folds 
+Uncalled bet (53) returned to LeandroC1993
+LeandroC1993 collected 151 from pot
+LeandroC1993: doesn't show hand 
+*** SUMMARY ***
+Total pot 151 | Rake 0 
+Board [Kh Qc Ks]
+Seat 1: LeandroC1993 collected (151)
+Seat 2: h1gher1 folded before Flop (didn't bet)
+Seat 3: tTxbrazza (button) folded before Flop (didn't bet)
+Seat 4: mickeyftw116 (small blind) folded before Flop
+Seat 5: antichrist27 (big blind) folded on the Flop
+Seat 7: BCEOTEU, folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184036443160: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/03/18 15:28:33 ET
+Table '2253360261 5' 9-max Seat #4 is the button
+Seat 1: LeandroC1993 (1597 in chips) 
+Seat 2: h1gher1 (1364 in chips) 
+Seat 3: tTxbrazza (1413 in chips) 
+Seat 4: mickeyftw116 (1413 in chips) 
+Seat 5: antichrist27 (4170 in chips) 
+Seat 6: rmusicon (1576 in chips) 
+Seat 7: BCEOTEU, (2428 in chips) 
+Seat 8: ollikahn23 (1550 in chips) 
+LeandroC1993: posts the ante 3
+h1gher1: posts the ante 3
+tTxbrazza: posts the ante 3
+mickeyftw116: posts the ante 3
+antichrist27: posts the ante 3
+rmusicon: posts the ante 3
+BCEOTEU,: posts the ante 3
+ollikahn23: posts the ante 3
+antichrist27: posts small blind 10
+rmusicon: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Js 4s]
+BCEOTEU,: folds 
+ollikahn23: folds 
+LeandroC1993: folds 
+h1gher1: folds 
+tTxbrazza: folds 
+mickeyftw116: raises 33 to 53
+antichrist27: folds 
+rmusicon: raises 67 to 120
+mickeyftw116: folds 
+Uncalled bet (67) returned to rmusicon
+rmusicon collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Seat 1: LeandroC1993 folded before Flop (didn't bet)
+Seat 2: h1gher1 folded before Flop (didn't bet)
+Seat 3: tTxbrazza folded before Flop (didn't bet)
+Seat 4: mickeyftw116 (button) folded before Flop
+Seat 5: antichrist27 (small blind) folded before Flop
+Seat 6: rmusicon (big blind) collected (140)
+Seat 7: BCEOTEU, folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184036482417: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/03/18 15:29:12 ET
+Table '2253360261 5' 9-max Seat #5 is the button
+Seat 1: LeandroC1993 (1594 in chips) 
+Seat 2: h1gher1 (1361 in chips) 
+Seat 3: tTxbrazza (1410 in chips) 
+Seat 4: mickeyftw116 (1357 in chips) 
+Seat 5: antichrist27 (4157 in chips) 
+Seat 6: rmusicon (1660 in chips) 
+Seat 7: BCEOTEU, (2425 in chips) 
+Seat 8: ollikahn23 (1547 in chips) 
+LeandroC1993: posts the ante 3
+h1gher1: posts the ante 3
+tTxbrazza: posts the ante 3
+mickeyftw116: posts the ante 3
+antichrist27: posts the ante 3
+rmusicon: posts the ante 3
+BCEOTEU,: posts the ante 3
+ollikahn23: posts the ante 3
+rmusicon: posts small blind 10
+BCEOTEU,: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ad 2c]
+ollikahn23: folds 
+LeandroC1993: folds 
+h1gher1: folds 
+tTxbrazza: folds 
+mickeyftw116: raises 33 to 53
+antichrist27: folds 
+rmusicon: raises 47 to 100
+BCEOTEU,: folds 
+mickeyftw116: calls 47
+*** FLOP *** [3h 9c 6c]
+rmusicon: bets 150
+mickeyftw116: raises 310 to 460
+rmusicon: calls 310
+*** TURN *** [3h 9c 6c] [Kd]
+rmusicon: checks 
+mickeyftw116: bets 794 and is all-in
+rmusicon: calls 794
+*** RIVER *** [3h 9c 6c Kd] [Ah]
+*** SHOW DOWN ***
+rmusicon: shows [4h 4s] (a pair of Fours)
+mickeyftw116: shows [As 9d] (two pair, Aces and Nines)
+mickeyftw116 collected 2752 from pot
+*** SUMMARY ***
+Total pot 2752 | Rake 0 
+Board [3h 9c 6c Kd Ah]
+Seat 1: LeandroC1993 folded before Flop (didn't bet)
+Seat 2: h1gher1 folded before Flop (didn't bet)
+Seat 3: tTxbrazza folded before Flop (didn't bet)
+Seat 4: mickeyftw116 showed [As 9d] and won (2752) with two pair, Aces and Nines
+Seat 5: antichrist27 (button) folded before Flop (didn't bet)
+Seat 6: rmusicon (small blind) showed [4h 4s] and lost with a pair of Fours
+Seat 7: BCEOTEU, (big blind) folded before Flop
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184036551760: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/03/18 15:30:22 ET
+Table '2253360261 5' 9-max Seat #6 is the button
+Seat 1: LeandroC1993 (1591 in chips) 
+Seat 2: h1gher1 (1358 in chips) 
+Seat 3: tTxbrazza (1407 in chips) 
+Seat 4: mickeyftw116 (2752 in chips) 
+Seat 5: antichrist27 (4154 in chips) 
+Seat 6: rmusicon (303 in chips) 
+Seat 7: BCEOTEU, (2402 in chips) 
+Seat 8: ollikahn23 (1544 in chips) 
+LeandroC1993: posts the ante 3
+h1gher1: posts the ante 3
+tTxbrazza: posts the ante 3
+mickeyftw116: posts the ante 3
+antichrist27: posts the ante 3
+rmusicon: posts the ante 3
+BCEOTEU,: posts the ante 3
+ollikahn23: posts the ante 3
+BCEOTEU,: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3h Ac]
+LeandroC1993: raises 40 to 60
+h1gher1: folds 
+tTxbrazza: folds 
+mickeyftw116: folds 
+antichrist27: folds 
+rmusicon: raises 240 to 300 and is all-in
+BCEOTEU,: raises 2099 to 2399 and is all-in
+ollikahn23: folds 
+LeandroC1993: folds 
+Uncalled bet (2099) returned to BCEOTEU,
+*** FLOP *** [8s 7s 3d]
+*** TURN *** [8s 7s 3d] [3s]
+*** RIVER *** [8s 7s 3d 3s] [9c]
+*** SHOW DOWN ***
+BCEOTEU,: shows [Ks Ah] (a pair of Threes)
+rmusicon: shows [6h 8h] (two pair, Eights and Threes)
+rmusicon collected 704 from pot
+*** SUMMARY ***
+Total pot 704 | Rake 0 
+Board [8s 7s 3d 3s 9c]
+Seat 1: LeandroC1993 folded before Flop
+Seat 2: h1gher1 folded before Flop (didn't bet)
+Seat 3: tTxbrazza folded before Flop (didn't bet)
+Seat 4: mickeyftw116 folded before Flop (didn't bet)
+Seat 5: antichrist27 folded before Flop (didn't bet)
+Seat 6: rmusicon (button) showed [6h 8h] and won (704) with two pair, Eights and Threes
+Seat 7: BCEOTEU, (small blind) showed [Ks Ah] and lost with a pair of Threes
+Seat 8: ollikahn23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #184036601753: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/03/18 15:31:13 ET
+Table '2253360261 5' 9-max Seat #7 is the button
+Seat 1: LeandroC1993 (1528 in chips) 
+Seat 2: h1gher1 (1355 in chips) 
+Seat 3: tTxbrazza (1404 in chips) 
+Seat 4: mickeyftw116 (2749 in chips) 
+Seat 5: antichrist27 (4151 in chips) 
+Seat 6: rmusicon (704 in chips) 
+Seat 7: BCEOTEU, (2099 in chips) 
+Seat 8: ollikahn23 (1521 in chips) 
+LeandroC1993: posts the ante 3
+h1gher1: posts the ante 3
+tTxbrazza: posts the ante 3
+mickeyftw116: posts the ante 3
+antichrist27: posts the ante 3
+rmusicon: posts the ante 3
+BCEOTEU,: posts the ante 3
+ollikahn23: posts the ante 3
+ollikahn23: posts small blind 10
+LeandroC1993: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Th 6h]
+h1gher1: folds 
+tTxbrazza: folds 
+mickeyftw116: folds 
+antichrist27: calls 20
+rmusicon: folds 
+BCEOTEU,: folds 
+ollikahn23: calls 10
+LeandroC1993: checks 
+*** FLOP *** [Kd 7c Ah]
+ollikahn23: checks 
+LeandroC1993: checks 
+antichrist27: bets 40
+ollikahn23: folds 
+LeandroC1993: folds 
+Uncalled bet (40) returned to antichrist27
+antichrist27 collected 84 from pot
+antichrist27: doesn't show hand 
+*** SUMMARY ***
+Total pot 84 | Rake 0 
+Board [Kd 7c Ah]
+Seat 1: LeandroC1993 (big blind) folded on the Flop
+Seat 2: h1gher1 folded before Flop (didn't bet)
+Seat 3: tTxbrazza folded before Flop (didn't bet)
+Seat 4: mickeyftw116 folded before Flop (didn't bet)
+Seat 5: antichrist27 collected (84)
+Seat 6: rmusicon folded before Flop (didn't bet)
+Seat 7: BCEOTEU, (button) folded before Flop (didn't bet)
+Seat 8: ollikahn23 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #184036645229: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/03/18 15:31:57 ET
+Table '2253360261 5' 9-max Seat #8 is the button
+Seat 1: LeandroC1993 (1505 in chips) 
+Seat 2: h1gher1 (1352 in chips) 
+Seat 3: tTxbrazza (1401 in chips) 
+Seat 4: mickeyftw116 (2746 in chips) 
+Seat 5: antichrist27 (4212 in chips) 
+Seat 6: rmusicon (701 in chips) 
+Seat 7: BCEOTEU, (2096 in chips) 
+Seat 8: ollikahn23 (1498 in chips) 
+LeandroC1993: posts the ante 3
+h1gher1: posts the ante 3
+tTxbrazza: posts the ante 3
+mickeyftw116: posts the ante 3
+antichrist27: posts the ante 3
+rmusicon: posts the ante 3
+BCEOTEU,: posts the ante 3
+ollikahn23: posts the ante 3
+LeandroC1993: posts small blind 10
+h1gher1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8s 5s]
+tTxbrazza: folds 
+mickeyftw116: folds 
+antichrist27: folds 
+rmusicon: raises 80 to 100
+BCEOTEU,: folds 
+ollikahn23: folds 
+LeandroC1993: folds 
+h1gher1: calls 80
+*** FLOP *** [3c 4s Qd]
+h1gher1: checks 
+rmusicon: checks 
+*** TURN *** [3c 4s Qd] [Ts]
+h1gher1: bets 180
+rmusicon: raises 418 to 598 and is all-in
+h1gher1: calls 418
+*** RIVER *** [3c 4s Qd Ts] [7h]
+*** SHOW DOWN ***
+h1gher1: shows [9c Qc] (a pair of Queens)
+rmusicon: shows [Jc Ad] (high card Ace)
+h1gher1 collected 1430 from pot
+rmusicon finished the tournament
+*** SUMMARY ***
+Total pot 1430 | Rake 0 
+Board [3c 4s Qd Ts 7h]
+Seat 1: LeandroC1993 (small blind) folded before Flop
+Seat 2: h1gher1 (big blind) showed [9c Qc] and won (1430) with a pair of Queens
+Seat 3: tTxbrazza folded before Flop (didn't bet)
+Seat 4: mickeyftw116 folded before Flop (didn't bet)
+Seat 5: antichrist27 folded before Flop (didn't bet)
+Seat 6: rmusicon showed [Jc Ad] and lost with high card Ace
+Seat 7: BCEOTEU, folded before Flop (didn't bet)
+Seat 8: ollikahn23 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184036685805: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/03/18 15:32:37 ET
+Table '2253360261 5' 9-max Seat #1 is the button
+Seat 1: LeandroC1993 (1492 in chips) 
+Seat 2: h1gher1 (2081 in chips) 
+Seat 3: tTxbrazza (1398 in chips) 
+Seat 4: mickeyftw116 (2743 in chips) 
+Seat 5: antichrist27 (4209 in chips) 
+Seat 7: BCEOTEU, (2093 in chips) 
+Seat 8: ollikahn23 (1495 in chips) 
+LeandroC1993: posts the ante 3
+h1gher1: posts the ante 3
+tTxbrazza: posts the ante 3
+mickeyftw116: posts the ante 3
+antichrist27: posts the ante 3
+BCEOTEU,: posts the ante 3
+ollikahn23: posts the ante 3
+h1gher1: posts small blind 10
+tTxbrazza: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Tc As]
+mickeyftw116: folds 
+antichrist27: raises 20 to 40
+BCEOTEU,: folds 
+ollikahn23: calls 40
+LeandroC1993: calls 40
+h1gher1: folds 
+tTxbrazza: folds 
+*** FLOP *** [8d Ad 9d]
+antichrist27: bets 20
+ollikahn23: raises 100 to 120
+LeandroC1993: folds 
+antichrist27: folds 
+Uncalled bet (100) returned to ollikahn23
+ollikahn23 collected 211 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 211 | Rake 0 
+Board [8d Ad 9d]
+Seat 1: LeandroC1993 (button) folded on the Flop
+Seat 2: h1gher1 (small blind) folded before Flop
+Seat 3: tTxbrazza (big blind) folded before Flop
+Seat 4: mickeyftw116 folded before Flop (didn't bet)
+Seat 5: antichrist27 folded on the Flop
+Seat 7: BCEOTEU, folded before Flop (didn't bet)
+Seat 8: ollikahn23 collected (211)
+
+
+
+PokerStars Hand #184036736780: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/03/18 15:33:27 ET
+Table '2253360261 5' 9-max Seat #2 is the button
+Seat 1: LeandroC1993 (1449 in chips) 
+Seat 2: h1gher1 (2068 in chips) 
+Seat 3: tTxbrazza (1375 in chips) 
+Seat 4: mickeyftw116 (2740 in chips) 
+Seat 5: antichrist27 (4146 in chips) 
+Seat 7: BCEOTEU, (2090 in chips) 
+Seat 8: ollikahn23 (1643 in chips) 
+LeandroC1993: posts the ante 3
+h1gher1: posts the ante 3
+tTxbrazza: posts the ante 3
+mickeyftw116: posts the ante 3
+antichrist27: posts the ante 3
+BCEOTEU,: posts the ante 3
+ollikahn23: posts the ante 3
+tTxbrazza: posts small blind 10
+mickeyftw116: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8d 5h]
+antichrist27: folds 
+BCEOTEU,: folds 
+ollikahn23: folds 
+LeandroC1993: folds 
+h1gher1: folds 
+tTxbrazza: raises 40 to 60
+mickeyftw116: folds 
+Uncalled bet (40) returned to tTxbrazza
+tTxbrazza collected 61 from pot
+tTxbrazza: doesn't show hand 
+*** SUMMARY ***
+Total pot 61 | Rake 0 
+Seat 1: LeandroC1993 folded before Flop (didn't bet)
+Seat 2: h1gher1 (button) folded before Flop (didn't bet)
+Seat 3: tTxbrazza (small blind) collected (61)
+Seat 4: mickeyftw116 (big blind) folded before Flop
+Seat 5: antichrist27 folded before Flop (didn't bet)
+Seat 7: BCEOTEU, folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184036764459: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/03/18 15:33:55 ET
+Table '2253360261 5' 9-max Seat #3 is the button
+Seat 1: LeandroC1993 (1446 in chips) 
+Seat 2: h1gher1 (2065 in chips) 
+Seat 3: tTxbrazza (1413 in chips) 
+Seat 4: mickeyftw116 (2717 in chips) 
+Seat 5: antichrist27 (4143 in chips) 
+Seat 7: BCEOTEU, (2087 in chips) 
+Seat 8: ollikahn23 (1640 in chips) 
+LeandroC1993: posts the ante 3
+h1gher1: posts the ante 3
+tTxbrazza: posts the ante 3
+mickeyftw116: posts the ante 3
+antichrist27: posts the ante 3
+BCEOTEU,: posts the ante 3
+ollikahn23: posts the ante 3
+mickeyftw116: posts small blind 10
+antichrist27: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kc 2h]
+BCEOTEU,: folds 
+ollikahn23: folds 
+LeandroC1993: folds 
+h1gher1: raises 30 to 50
+tTxbrazza: folds 
+mickeyftw116: folds 
+antichrist27: calls 30
+*** FLOP *** [7d 7s Ac]
+antichrist27: checks 
+h1gher1: bets 45
+antichrist27: calls 45
+*** TURN *** [7d 7s Ac] [Ad]
+antichrist27: checks 
+h1gher1: checks 
+*** RIVER *** [7d 7s Ac Ad] [2d]
+antichrist27: bets 120
+h1gher1: calls 120
+*** SHOW DOWN ***
+antichrist27: shows [Jd 6d] (a flush, Ace high)
+h1gher1: shows [5c 7c] (a full house, Sevens full of Aces)
+h1gher1 collected 461 from pot
+*** SUMMARY ***
+Total pot 461 | Rake 0 
+Board [7d 7s Ac Ad 2d]
+Seat 1: LeandroC1993 folded before Flop (didn't bet)
+Seat 2: h1gher1 showed [5c 7c] and won (461) with a full house, Sevens full of Aces
+Seat 3: tTxbrazza (button) folded before Flop (didn't bet)
+Seat 4: mickeyftw116 (small blind) folded before Flop
+Seat 5: antichrist27 (big blind) showed [Jd 6d] and lost with a flush, Ace high
+Seat 7: BCEOTEU, folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184036816930: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/03/18 15:34:47 ET
+Table '2253360261 5' 9-max Seat #4 is the button
+Seat 1: LeandroC1993 (1443 in chips) 
+Seat 2: h1gher1 (2308 in chips) 
+Seat 3: tTxbrazza (1410 in chips) 
+Seat 4: mickeyftw116 (2704 in chips) 
+Seat 5: antichrist27 (3925 in chips) 
+Seat 7: BCEOTEU, (2084 in chips) 
+Seat 8: ollikahn23 (1637 in chips) 
+Seat 9: lindaboom (1500 in chips) 
+LeandroC1993: posts the ante 3
+h1gher1: posts the ante 3
+tTxbrazza: posts the ante 3
+mickeyftw116: posts the ante 3
+antichrist27: posts the ante 3
+BCEOTEU,: posts the ante 3
+ollikahn23: posts the ante 3
+lindaboom: posts the ante 3
+antichrist27: posts small blind 10
+BCEOTEU,: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2h Ts]
+ollikahn23: folds 
+lindaboom: calls 20
+LeandroC1993: folds 
+h1gher1: folds 
+tTxbrazza: folds 
+mickeyftw116: raises 80 to 100
+antichrist27: calls 90
+BCEOTEU,: calls 80
+lindaboom: calls 80
+*** FLOP *** [4h Qh 8h]
+antichrist27: bets 100
+BCEOTEU,: folds 
+lindaboom: calls 100
+mickeyftw116: calls 100
+*** TURN *** [4h Qh 8h] [Qd]
+antichrist27: bets 320
+lindaboom: calls 320
+mickeyftw116: calls 320
+*** RIVER *** [4h Qh 8h Qd] [6d]
+antichrist27: bets 880
+lindaboom: raises 97 to 977 and is all-in
+mickeyftw116: folds 
+antichrist27: calls 97
+*** SHOW DOWN ***
+lindaboom: shows [7c 8d] (two pair, Queens and Eights)
+antichrist27: shows [Qc Kc] (three of a kind, Queens)
+antichrist27 collected 3638 from pot
+lindaboom finished the tournament
+*** SUMMARY ***
+Total pot 3638 | Rake 0 
+Board [4h Qh 8h Qd 6d]
+Seat 1: LeandroC1993 folded before Flop (didn't bet)
+Seat 2: h1gher1 folded before Flop (didn't bet)
+Seat 3: tTxbrazza folded before Flop (didn't bet)
+Seat 4: mickeyftw116 (button) folded on the River
+Seat 5: antichrist27 (small blind) showed [Qc Kc] and won (3638) with three of a kind, Queens
+Seat 7: BCEOTEU, (big blind) folded on the Flop
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: lindaboom showed [7c 8d] and lost with two pair, Queens and Eights
+
+
+
+PokerStars Hand #184036893666: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/18 15:36:04 ET
+Table '2253360261 5' 9-max Seat #5 is the button
+Seat 1: LeandroC1993 (1440 in chips) 
+Seat 2: h1gher1 (2305 in chips) 
+Seat 3: tTxbrazza (1407 in chips) 
+Seat 4: mickeyftw116 (2181 in chips) 
+Seat 5: antichrist27 (6063 in chips) 
+Seat 7: BCEOTEU, (1981 in chips) 
+Seat 8: ollikahn23 (1634 in chips) 
+LeandroC1993: posts the ante 4
+h1gher1: posts the ante 4
+tTxbrazza: posts the ante 4
+mickeyftw116: posts the ante 4
+antichrist27: posts the ante 4
+BCEOTEU,: posts the ante 4
+ollikahn23: posts the ante 4
+BCEOTEU,: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6d 3s]
+LeandroC1993: folds 
+h1gher1: folds 
+tTxbrazza: folds 
+mickeyftw116: folds 
+antichrist27: folds 
+BCEOTEU,: folds 
+Uncalled bet (15) returned to ollikahn23
+ollikahn23 collected 58 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 58 | Rake 0 
+Seat 1: LeandroC1993 folded before Flop (didn't bet)
+Seat 2: h1gher1 folded before Flop (didn't bet)
+Seat 3: tTxbrazza folded before Flop (didn't bet)
+Seat 4: mickeyftw116 folded before Flop (didn't bet)
+Seat 5: antichrist27 (button) folded before Flop (didn't bet)
+Seat 7: BCEOTEU, (small blind) folded before Flop
+Seat 8: ollikahn23 (big blind) collected (58)
+
+
+
+PokerStars Hand #184036903106: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/18 15:36:13 ET
+Table '2253360261 5' 9-max Seat #7 is the button
+Seat 1: LeandroC1993 (1436 in chips) 
+Seat 2: h1gher1 (2301 in chips) 
+Seat 3: tTxbrazza (1403 in chips) 
+Seat 4: mickeyftw116 (2177 in chips) 
+Seat 5: antichrist27 (6059 in chips) 
+Seat 6: Taateflask3 (1500 in chips) 
+Seat 7: BCEOTEU, (1962 in chips) 
+Seat 8: ollikahn23 (1673 in chips) 
+LeandroC1993: posts the ante 4
+h1gher1: posts the ante 4
+tTxbrazza: posts the ante 4
+mickeyftw116: posts the ante 4
+antichrist27: posts the ante 4
+Taateflask3: posts the ante 4
+BCEOTEU,: posts the ante 4
+ollikahn23: posts the ante 4
+ollikahn23: posts small blind 15
+LeandroC1993: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9h Jd]
+h1gher1: folds 
+tTxbrazza: folds 
+mickeyftw116: folds 
+antichrist27: calls 30
+Taateflask3: folds 
+BCEOTEU,: folds 
+ollikahn23: folds 
+LeandroC1993: raises 90 to 120
+antichrist27: folds 
+Uncalled bet (90) returned to LeandroC1993
+LeandroC1993 collected 107 from pot
+LeandroC1993: doesn't show hand 
+*** SUMMARY ***
+Total pot 107 | Rake 0 
+Seat 1: LeandroC1993 (big blind) collected (107)
+Seat 2: h1gher1 folded before Flop (didn't bet)
+Seat 3: tTxbrazza folded before Flop (didn't bet)
+Seat 4: mickeyftw116 folded before Flop (didn't bet)
+Seat 5: antichrist27 folded before Flop
+Seat 6: Taateflask3 folded before Flop (didn't bet)
+Seat 7: BCEOTEU, (button) folded before Flop (didn't bet)
+Seat 8: ollikahn23 (small blind) folded before Flop
+
+
+
+PokerStars Hand #184036929746: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/18 15:36:40 ET
+Table '2253360261 5' 9-max Seat #8 is the button
+Seat 1: LeandroC1993 (1509 in chips) 
+Seat 2: h1gher1 (2297 in chips) 
+Seat 3: tTxbrazza (1399 in chips) 
+Seat 4: mickeyftw116 (2173 in chips) 
+Seat 5: antichrist27 (6025 in chips) 
+Seat 6: Taateflask3 (1496 in chips) 
+Seat 7: BCEOTEU, (1958 in chips) 
+Seat 8: ollikahn23 (1654 in chips) 
+LeandroC1993: posts the ante 4
+h1gher1: posts the ante 4
+tTxbrazza: posts the ante 4
+mickeyftw116: posts the ante 4
+antichrist27: posts the ante 4
+Taateflask3: posts the ante 4
+BCEOTEU,: posts the ante 4
+ollikahn23: posts the ante 4
+LeandroC1993: posts small blind 15
+h1gher1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6d Tc]
+tTxbrazza: folds 
+mickeyftw116: folds 
+antichrist27: calls 30
+Taateflask3: folds 
+BCEOTEU,: folds 
+ollikahn23: calls 30
+LeandroC1993: folds 
+h1gher1: checks 
+*** FLOP *** [Qd 2c 2h]
+h1gher1: checks 
+antichrist27: checks 
+ollikahn23: checks 
+*** TURN *** [Qd 2c 2h] [Ks]
+h1gher1: checks 
+antichrist27: checks 
+ollikahn23: checks 
+*** RIVER *** [Qd 2c 2h Ks] [4d]
+h1gher1: checks 
+antichrist27: bets 30
+ollikahn23: folds 
+h1gher1: folds 
+Uncalled bet (30) returned to antichrist27
+antichrist27 collected 137 from pot
+antichrist27: doesn't show hand 
+*** SUMMARY ***
+Total pot 137 | Rake 0 
+Board [Qd 2c 2h Ks 4d]
+Seat 1: LeandroC1993 (small blind) folded before Flop
+Seat 2: h1gher1 (big blind) folded on the River
+Seat 3: tTxbrazza folded before Flop (didn't bet)
+Seat 4: mickeyftw116 folded before Flop (didn't bet)
+Seat 5: antichrist27 collected (137)
+Seat 6: Taateflask3 folded before Flop (didn't bet)
+Seat 7: BCEOTEU, folded before Flop (didn't bet)
+Seat 8: ollikahn23 (button) folded on the River
+
+
+
+PokerStars Hand #184036994860: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/18 15:37:45 ET
+Table '2253360261 5' 9-max Seat #1 is the button
+Seat 1: LeandroC1993 (1490 in chips) 
+Seat 2: h1gher1 (2263 in chips) 
+Seat 3: tTxbrazza (1395 in chips) 
+Seat 4: mickeyftw116 (2169 in chips) 
+Seat 5: antichrist27 (6128 in chips) 
+Seat 6: Taateflask3 (1492 in chips) 
+Seat 7: BCEOTEU, (1954 in chips) 
+Seat 8: ollikahn23 (1620 in chips) 
+LeandroC1993: posts the ante 4
+h1gher1: posts the ante 4
+tTxbrazza: posts the ante 4
+mickeyftw116: posts the ante 4
+antichrist27: posts the ante 4
+Taateflask3: posts the ante 4
+BCEOTEU,: posts the ante 4
+ollikahn23: posts the ante 4
+h1gher1: posts small blind 15
+tTxbrazza: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5c 8s]
+mickeyftw116: folds 
+antichrist27: folds 
+Taateflask3: folds 
+BCEOTEU,: folds 
+ollikahn23: folds 
+LeandroC1993: raises 45 to 75
+h1gher1: folds 
+tTxbrazza: folds 
+Uncalled bet (45) returned to LeandroC1993
+LeandroC1993 collected 107 from pot
+LeandroC1993: doesn't show hand 
+*** SUMMARY ***
+Total pot 107 | Rake 0 
+Seat 1: LeandroC1993 (button) collected (107)
+Seat 2: h1gher1 (small blind) folded before Flop
+Seat 3: tTxbrazza (big blind) folded before Flop
+Seat 4: mickeyftw116 folded before Flop (didn't bet)
+Seat 5: antichrist27 folded before Flop (didn't bet)
+Seat 6: Taateflask3 folded before Flop (didn't bet)
+Seat 7: BCEOTEU, folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184037023222: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/18 15:38:13 ET
+Table '2253360261 5' 9-max Seat #2 is the button
+Seat 1: LeandroC1993 (1563 in chips) 
+Seat 2: h1gher1 (2244 in chips) 
+Seat 3: tTxbrazza (1361 in chips) 
+Seat 4: mickeyftw116 (2165 in chips) 
+Seat 5: antichrist27 (6124 in chips) 
+Seat 6: Taateflask3 (1488 in chips) 
+Seat 7: BCEOTEU, (1950 in chips) 
+Seat 8: ollikahn23 (1616 in chips) 
+LeandroC1993: posts the ante 4
+h1gher1: posts the ante 4
+tTxbrazza: posts the ante 4
+mickeyftw116: posts the ante 4
+antichrist27: posts the ante 4
+Taateflask3: posts the ante 4
+BCEOTEU,: posts the ante 4
+ollikahn23: posts the ante 4
+tTxbrazza: posts small blind 15
+mickeyftw116: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8s Ts]
+antichrist27: folds 
+Taateflask3: calls 30
+BCEOTEU,: folds 
+ollikahn23: raises 57 to 87
+LeandroC1993: folds 
+h1gher1: folds 
+tTxbrazza: folds 
+mickeyftw116: calls 57
+Taateflask3: calls 57
+*** FLOP *** [6h 4c As]
+mickeyftw116: checks 
+Taateflask3: bets 154
+ollikahn23: calls 154
+mickeyftw116: folds 
+*** TURN *** [6h 4c As] [Kh]
+Taateflask3: bets 616
+ollikahn23: folds 
+Uncalled bet (616) returned to Taateflask3
+Taateflask3 collected 616 from pot
+Taateflask3: doesn't show hand 
+*** SUMMARY ***
+Total pot 616 | Rake 0 
+Board [6h 4c As Kh]
+Seat 1: LeandroC1993 folded before Flop (didn't bet)
+Seat 2: h1gher1 (button) folded before Flop (didn't bet)
+Seat 3: tTxbrazza (small blind) folded before Flop
+Seat 4: mickeyftw116 (big blind) folded on the Flop
+Seat 5: antichrist27 folded before Flop (didn't bet)
+Seat 6: Taateflask3 collected (616)
+Seat 7: BCEOTEU, folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded on the Turn
+
+
+
+PokerStars Hand #184037080699: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/18 15:39:10 ET
+Table '2253360261 5' 9-max Seat #3 is the button
+Seat 1: LeandroC1993 (1559 in chips) 
+Seat 2: h1gher1 (2240 in chips) 
+Seat 3: tTxbrazza (1342 in chips) 
+Seat 4: mickeyftw116 (2074 in chips) 
+Seat 6: Taateflask3 (1859 in chips) 
+Seat 7: BCEOTEU, (1946 in chips) 
+Seat 8: ollikahn23 (1371 in chips) 
+Seat 9: kamijaa (1500 in chips) 
+LeandroC1993: posts the ante 4
+h1gher1: posts the ante 4
+tTxbrazza: posts the ante 4
+mickeyftw116: posts the ante 4
+Taateflask3: posts the ante 4
+BCEOTEU,: posts the ante 4
+ollikahn23: posts the ante 4
+kamijaa: posts the ante 4
+mickeyftw116: posts small blind 15
+Taateflask3: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6h 3h]
+BCEOTEU,: folds 
+ollikahn23: folds 
+kamijaa: folds 
+LeandroC1993: raises 45 to 75
+h1gher1: folds 
+tTxbrazza: folds 
+mickeyftw116: folds 
+Taateflask3: raises 45 to 120
+LeandroC1993: calls 45
+*** FLOP *** [Th Ad 2d]
+Taateflask3: checks 
+LeandroC1993: bets 187
+Taateflask3: folds 
+Uncalled bet (187) returned to LeandroC1993
+LeandroC1993 collected 287 from pot
+LeandroC1993: doesn't show hand 
+*** SUMMARY ***
+Total pot 287 | Rake 0 
+Board [Th Ad 2d]
+Seat 1: LeandroC1993 collected (287)
+Seat 2: h1gher1 folded before Flop (didn't bet)
+Seat 3: tTxbrazza (button) folded before Flop (didn't bet)
+Seat 4: mickeyftw116 (small blind) folded before Flop
+Seat 6: Taateflask3 (big blind) folded on the Flop
+Seat 7: BCEOTEU, folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: kamijaa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184037138669: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/18 15:40:08 ET
+Table '2253360261 5' 9-max Seat #4 is the button
+Seat 1: LeandroC1993 (1722 in chips) 
+Seat 2: h1gher1 (2236 in chips) 
+Seat 3: tTxbrazza (1338 in chips) 
+Seat 4: mickeyftw116 (2055 in chips) 
+Seat 6: Taateflask3 (1735 in chips) 
+Seat 7: BCEOTEU, (1942 in chips) 
+Seat 8: ollikahn23 (1367 in chips) 
+Seat 9: kamijaa (1496 in chips) 
+LeandroC1993: posts the ante 4
+h1gher1: posts the ante 4
+tTxbrazza: posts the ante 4
+mickeyftw116: posts the ante 4
+Taateflask3: posts the ante 4
+BCEOTEU,: posts the ante 4
+ollikahn23: posts the ante 4
+kamijaa: posts the ante 4
+Taateflask3: posts small blind 15
+BCEOTEU,: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7c 3d]
+ollikahn23: folds 
+kamijaa: folds 
+LeandroC1993: folds 
+h1gher1: folds 
+tTxbrazza: folds 
+mickeyftw116: raises 50 to 80
+Taateflask3: folds 
+BCEOTEU,: calls 50
+*** FLOP *** [9h 4s Td]
+BCEOTEU,: checks 
+mickeyftw116: checks 
+*** TURN *** [9h 4s Td] [8s]
+BCEOTEU,: bets 90
+mickeyftw116: calls 90
+*** RIVER *** [9h 4s Td 8s] [As]
+BCEOTEU,: checks 
+mickeyftw116: bets 221
+BCEOTEU,: calls 221
+*** SHOW DOWN ***
+mickeyftw116: shows [Ac 8d] (two pair, Aces and Eights)
+BCEOTEU,: mucks hand 
+mickeyftw116 collected 829 from pot
+*** SUMMARY ***
+Total pot 829 | Rake 0 
+Board [9h 4s Td 8s As]
+Seat 1: LeandroC1993 folded before Flop (didn't bet)
+Seat 2: h1gher1 folded before Flop (didn't bet)
+Seat 3: tTxbrazza folded before Flop (didn't bet)
+Seat 4: mickeyftw116 (button) showed [Ac 8d] and won (829) with two pair, Aces and Eights
+Seat 6: Taateflask3 (small blind) folded before Flop
+Seat 7: BCEOTEU, (big blind) mucked [Qh 9d]
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: kamijaa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184037183062: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/18 15:40:53 ET
+Table '2253360261 5' 9-max Seat #6 is the button
+Seat 1: LeandroC1993 (1718 in chips) 
+Seat 2: h1gher1 (2232 in chips) 
+Seat 3: tTxbrazza (1334 in chips) 
+Seat 4: mickeyftw116 (2489 in chips) 
+Seat 6: Taateflask3 (1716 in chips) 
+Seat 7: BCEOTEU, (1547 in chips) 
+Seat 8: ollikahn23 (1363 in chips) 
+Seat 9: kamijaa (1492 in chips) 
+LeandroC1993: posts the ante 4
+h1gher1: posts the ante 4
+tTxbrazza: posts the ante 4
+mickeyftw116: posts the ante 4
+Taateflask3: posts the ante 4
+BCEOTEU,: posts the ante 4
+ollikahn23: posts the ante 4
+kamijaa: posts the ante 4
+BCEOTEU,: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Js 8s]
+kamijaa: raises 60 to 90
+LeandroC1993: folds 
+h1gher1: folds 
+tTxbrazza: folds 
+mickeyftw116: folds 
+Taateflask3: folds 
+BCEOTEU,: folds 
+ollikahn23: folds 
+Uncalled bet (60) returned to kamijaa
+kamijaa collected 107 from pot
+kamijaa: doesn't show hand 
+*** SUMMARY ***
+Total pot 107 | Rake 0 
+Seat 1: LeandroC1993 folded before Flop (didn't bet)
+Seat 2: h1gher1 folded before Flop (didn't bet)
+Seat 3: tTxbrazza folded before Flop (didn't bet)
+Seat 4: mickeyftw116 folded before Flop (didn't bet)
+Seat 6: Taateflask3 (button) folded before Flop (didn't bet)
+Seat 7: BCEOTEU, (small blind) folded before Flop
+Seat 8: ollikahn23 (big blind) folded before Flop
+Seat 9: kamijaa collected (107)
+
+
+
+PokerStars Hand #184037236869: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/18 15:41:47 ET
+Table '2253360261 5' 9-max Seat #7 is the button
+Seat 1: LeandroC1993 (1714 in chips) 
+Seat 2: h1gher1 (2228 in chips) 
+Seat 3: tTxbrazza (1330 in chips) 
+Seat 4: mickeyftw116 (2485 in chips) 
+Seat 6: Taateflask3 (1712 in chips) 
+Seat 7: BCEOTEU, (1528 in chips) 
+Seat 8: ollikahn23 (1329 in chips) 
+Seat 9: kamijaa (1565 in chips) 
+LeandroC1993: posts the ante 4
+h1gher1: posts the ante 4
+tTxbrazza: posts the ante 4
+mickeyftw116: posts the ante 4
+Taateflask3: posts the ante 4
+BCEOTEU,: posts the ante 4
+ollikahn23: posts the ante 4
+kamijaa: posts the ante 4
+ollikahn23: posts small blind 15
+kamijaa: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jd 8d]
+LeandroC1993: folds 
+h1gher1: folds 
+tTxbrazza: raises 60 to 90
+mickeyftw116: folds 
+Taateflask3: calls 90
+BCEOTEU,: folds 
+ollikahn23: calls 75
+kamijaa: folds 
+*** FLOP *** [5c 5s 6d]
+ollikahn23: checks 
+tTxbrazza: bets 105
+Taateflask3: folds 
+ollikahn23: folds 
+Uncalled bet (105) returned to tTxbrazza
+tTxbrazza collected 332 from pot
+tTxbrazza: doesn't show hand 
+*** SUMMARY ***
+Total pot 332 | Rake 0 
+Board [5c 5s 6d]
+Seat 1: LeandroC1993 folded before Flop (didn't bet)
+Seat 2: h1gher1 folded before Flop (didn't bet)
+Seat 3: tTxbrazza collected (332)
+Seat 4: mickeyftw116 folded before Flop (didn't bet)
+Seat 6: Taateflask3 folded on the Flop
+Seat 7: BCEOTEU, (button) folded before Flop (didn't bet)
+Seat 8: ollikahn23 (small blind) folded on the Flop
+Seat 9: kamijaa (big blind) folded before Flop
+
+
+
+PokerStars Hand #184037284166: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/18 15:42:34 ET
+Table '2253360261 5' 9-max Seat #8 is the button
+Seat 1: LeandroC1993 (1710 in chips) 
+Seat 2: h1gher1 (2224 in chips) 
+Seat 3: tTxbrazza (1568 in chips) 
+Seat 4: mickeyftw116 (2481 in chips) 
+Seat 5: The KatanaGr (1500 in chips) 
+Seat 6: Taateflask3 (1618 in chips) 
+Seat 7: BCEOTEU, (1524 in chips) 
+Seat 8: ollikahn23 (1235 in chips) 
+Seat 9: kamijaa (1531 in chips) 
+LeandroC1993: posts the ante 4
+h1gher1: posts the ante 4
+tTxbrazza: posts the ante 4
+mickeyftw116: posts the ante 4
+The KatanaGr: posts the ante 4
+Taateflask3: posts the ante 4
+BCEOTEU,: posts the ante 4
+ollikahn23: posts the ante 4
+kamijaa: posts the ante 4
+kamijaa: posts small blind 15
+LeandroC1993: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4s Kc]
+h1gher1: folds 
+tTxbrazza: folds 
+mickeyftw116: raises 50 to 80
+The KatanaGr: folds 
+Taateflask3: folds 
+BCEOTEU,: folds 
+ollikahn23: folds 
+kamijaa: folds 
+LeandroC1993: folds 
+Uncalled bet (50) returned to mickeyftw116
+mickeyftw116 collected 111 from pot
+mickeyftw116: doesn't show hand 
+*** SUMMARY ***
+Total pot 111 | Rake 0 
+Seat 1: LeandroC1993 (big blind) folded before Flop
+Seat 2: h1gher1 folded before Flop (didn't bet)
+Seat 3: tTxbrazza folded before Flop (didn't bet)
+Seat 4: mickeyftw116 collected (111)
+Seat 5: The KatanaGr folded before Flop (didn't bet)
+Seat 6: Taateflask3 folded before Flop (didn't bet)
+Seat 7: BCEOTEU, folded before Flop (didn't bet)
+Seat 8: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 9: kamijaa (small blind) folded before Flop
+
+
+
+PokerStars Hand #184037327680: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/18 15:43:18 ET
+Table '2253360261 5' 9-max Seat #9 is the button
+Seat 1: LeandroC1993 (1676 in chips) 
+Seat 2: h1gher1 (2220 in chips) 
+Seat 3: tTxbrazza (1564 in chips) 
+Seat 4: mickeyftw116 (2558 in chips) 
+Seat 5: The KatanaGr (1496 in chips) 
+Seat 6: Taateflask3 (1614 in chips) 
+Seat 7: BCEOTEU, (1520 in chips) 
+Seat 8: ollikahn23 (1231 in chips) 
+Seat 9: kamijaa (1512 in chips) 
+LeandroC1993: posts the ante 4
+h1gher1: posts the ante 4
+tTxbrazza: posts the ante 4
+mickeyftw116: posts the ante 4
+The KatanaGr: posts the ante 4
+Taateflask3: posts the ante 4
+BCEOTEU,: posts the ante 4
+ollikahn23: posts the ante 4
+kamijaa: posts the ante 4
+LeandroC1993: posts small blind 15
+h1gher1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ad 6d]
+tTxbrazza: folds 
+mickeyftw116: raises 50 to 80
+The KatanaGr: calls 80
+Taateflask3: calls 80
+BCEOTEU,: folds 
+ollikahn23: calls 80
+kamijaa: calls 80
+LeandroC1993: raises 220 to 300
+h1gher1: folds 
+mickeyftw116: calls 220
+The KatanaGr: folds 
+Taateflask3: folds 
+ollikahn23: folds 
+kamijaa: folds 
+*** FLOP *** [Qh 9d 4s]
+LeandroC1993: bets 345
+mickeyftw116: folds 
+Uncalled bet (345) returned to LeandroC1993
+LeandroC1993 collected 986 from pot
+LeandroC1993: doesn't show hand 
+*** SUMMARY ***
+Total pot 986 | Rake 0 
+Board [Qh 9d 4s]
+Seat 1: LeandroC1993 (small blind) collected (986)
+Seat 2: h1gher1 (big blind) folded before Flop
+Seat 3: tTxbrazza folded before Flop (didn't bet)
+Seat 4: mickeyftw116 folded on the Flop
+Seat 5: The KatanaGr folded before Flop
+Seat 6: Taateflask3 folded before Flop
+Seat 7: BCEOTEU, folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop
+Seat 9: kamijaa (button) folded before Flop
+
+
+
+PokerStars Hand #184037409292: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/18 15:44:40 ET
+Table '2253360261 5' 9-max Seat #1 is the button
+Seat 1: LeandroC1993 (2358 in chips) 
+Seat 2: h1gher1 (2186 in chips) 
+Seat 3: tTxbrazza (1560 in chips) 
+Seat 4: mickeyftw116 (2254 in chips) 
+Seat 5: The KatanaGr (1412 in chips) 
+Seat 6: Taateflask3 (1530 in chips) 
+Seat 7: BCEOTEU, (1516 in chips) 
+Seat 8: ollikahn23 (1147 in chips) 
+Seat 9: kamijaa (1428 in chips) 
+LeandroC1993: posts the ante 4
+h1gher1: posts the ante 4
+tTxbrazza: posts the ante 4
+mickeyftw116: posts the ante 4
+The KatanaGr: posts the ante 4
+Taateflask3: posts the ante 4
+BCEOTEU,: posts the ante 4
+ollikahn23: posts the ante 4
+kamijaa: posts the ante 4
+h1gher1: posts small blind 15
+tTxbrazza: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jd 6c]
+mickeyftw116: folds 
+The KatanaGr: folds 
+Taateflask3: raises 30 to 60
+BCEOTEU,: folds 
+ollikahn23: folds 
+kamijaa: folds 
+LeandroC1993: folds 
+h1gher1: folds 
+tTxbrazza: folds 
+Uncalled bet (30) returned to Taateflask3
+Taateflask3 collected 111 from pot
+Taateflask3: doesn't show hand 
+*** SUMMARY ***
+Total pot 111 | Rake 0 
+Seat 1: LeandroC1993 (button) folded before Flop (didn't bet)
+Seat 2: h1gher1 (small blind) folded before Flop
+Seat 3: tTxbrazza (big blind) folded before Flop
+Seat 4: mickeyftw116 folded before Flop (didn't bet)
+Seat 5: The KatanaGr folded before Flop (didn't bet)
+Seat 6: Taateflask3 collected (111)
+Seat 7: BCEOTEU, folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: kamijaa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184037441959: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/18 15:45:13 ET
+Table '2253360261 5' 9-max Seat #2 is the button
+Seat 1: LeandroC1993 (2354 in chips) 
+Seat 2: h1gher1 (2167 in chips) 
+Seat 3: tTxbrazza (1526 in chips) 
+Seat 4: mickeyftw116 (2250 in chips) 
+Seat 5: The KatanaGr (1408 in chips) 
+Seat 6: Taateflask3 (1607 in chips) 
+Seat 7: BCEOTEU, (1512 in chips) 
+Seat 8: ollikahn23 (1143 in chips) 
+Seat 9: kamijaa (1424 in chips) 
+LeandroC1993: posts the ante 4
+h1gher1: posts the ante 4
+tTxbrazza: posts the ante 4
+mickeyftw116: posts the ante 4
+The KatanaGr: posts the ante 4
+Taateflask3: posts the ante 4
+BCEOTEU,: posts the ante 4
+ollikahn23: posts the ante 4
+kamijaa: posts the ante 4
+tTxbrazza: posts small blind 15
+mickeyftw116: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5h 8d]
+The KatanaGr: folds 
+Taateflask3: folds 
+BCEOTEU,: folds 
+ollikahn23: folds 
+kamijaa: folds 
+LeandroC1993: folds 
+h1gher1: folds 
+tTxbrazza: calls 15
+mickeyftw116: checks 
+*** FLOP *** [4d 9c 8h]
+tTxbrazza: checks 
+mickeyftw116: checks 
+*** TURN *** [4d 9c 8h] [8s]
+tTxbrazza: checks 
+mickeyftw116: checks 
+*** RIVER *** [4d 9c 8h 8s] [7c]
+tTxbrazza: checks 
+mickeyftw116: checks 
+*** SHOW DOWN ***
+tTxbrazza: shows [2d 2c] (two pair, Eights and Deuces)
+mickeyftw116: mucks hand 
+tTxbrazza collected 96 from pot
+*** SUMMARY ***
+Total pot 96 | Rake 0 
+Board [4d 9c 8h 8s 7c]
+Seat 1: LeandroC1993 folded before Flop (didn't bet)
+Seat 2: h1gher1 (button) folded before Flop (didn't bet)
+Seat 3: tTxbrazza (small blind) showed [2d 2c] and won (96) with two pair, Eights and Deuces
+Seat 4: mickeyftw116 (big blind) mucked [5d Js]
+Seat 5: The KatanaGr folded before Flop (didn't bet)
+Seat 6: Taateflask3 folded before Flop (didn't bet)
+Seat 7: BCEOTEU, folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: kamijaa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184037478637: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/18 15:45:50 ET
+Table '2253360261 5' 9-max Seat #3 is the button
+Seat 1: LeandroC1993 (2350 in chips) 
+Seat 2: h1gher1 (2163 in chips) 
+Seat 3: tTxbrazza (1588 in chips) 
+Seat 4: mickeyftw116 (2216 in chips) 
+Seat 5: The KatanaGr (1404 in chips) 
+Seat 6: Taateflask3 (1603 in chips) 
+Seat 7: BCEOTEU, (1508 in chips) 
+Seat 8: ollikahn23 (1139 in chips) 
+Seat 9: kamijaa (1420 in chips) 
+LeandroC1993: posts the ante 4
+h1gher1: posts the ante 4
+tTxbrazza: posts the ante 4
+mickeyftw116: posts the ante 4
+The KatanaGr: posts the ante 4
+Taateflask3: posts the ante 4
+BCEOTEU,: posts the ante 4
+ollikahn23: posts the ante 4
+kamijaa: posts the ante 4
+mickeyftw116: posts small blind 15
+The KatanaGr: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9s 5h]
+Taateflask3: calls 30
+BCEOTEU,: folds 
+ollikahn23: folds 
+kamijaa: folds 
+LeandroC1993: folds 
+h1gher1: raises 70 to 100
+tTxbrazza: folds 
+mickeyftw116: folds 
+The KatanaGr: folds 
+Taateflask3: calls 70
+*** FLOP *** [Kc Ad 3s]
+Taateflask3: checks 
+h1gher1: bets 90
+Taateflask3: raises 90 to 180
+h1gher1: calls 90
+*** TURN *** [Kc Ad 3s] [6h]
+Taateflask3: bets 321
+h1gher1: calls 321
+*** RIVER *** [Kc Ad 3s 6h] [Tc]
+Taateflask3: checks 
+h1gher1: bets 1283
+Taateflask3: calls 998 and is all-in
+Uncalled bet (285) returned to h1gher1
+*** SHOW DOWN ***
+h1gher1: shows [6d 6c] (three of a kind, Sixes)
+Taateflask3: shows [Ah Qd] (a pair of Aces)
+h1gher1 collected 3279 from pot
+Taateflask3 finished the tournament
+*** SUMMARY ***
+Total pot 3279 | Rake 0 
+Board [Kc Ad 3s 6h Tc]
+Seat 1: LeandroC1993 folded before Flop (didn't bet)
+Seat 2: h1gher1 showed [6d 6c] and won (3279) with three of a kind, Sixes
+Seat 3: tTxbrazza (button) folded before Flop (didn't bet)
+Seat 4: mickeyftw116 (small blind) folded before Flop
+Seat 5: The KatanaGr (big blind) folded before Flop
+Seat 6: Taateflask3 showed [Ah Qd] and lost with a pair of Aces
+Seat 7: BCEOTEU, folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: kamijaa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184037569706: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/18 15:47:22 ET
+Table '2253360261 5' 9-max Seat #4 is the button
+Seat 1: LeandroC1993 (2346 in chips) 
+Seat 2: h1gher1 (3839 in chips) 
+Seat 3: tTxbrazza (1584 in chips) 
+Seat 4: mickeyftw116 (2197 in chips) 
+Seat 5: The KatanaGr (1370 in chips) 
+Seat 7: BCEOTEU, (1504 in chips) 
+Seat 8: ollikahn23 (1135 in chips) 
+Seat 9: kamijaa (1416 in chips) 
+LeandroC1993: posts the ante 4
+h1gher1: posts the ante 4
+tTxbrazza: posts the ante 4
+mickeyftw116: posts the ante 4
+The KatanaGr: posts the ante 4
+BCEOTEU,: posts the ante 4
+ollikahn23: posts the ante 4
+kamijaa: posts the ante 4
+The KatanaGr: posts small blind 15
+BCEOTEU,: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7c 4c]
+ollikahn23: folds 
+kamijaa: raises 60 to 90
+LeandroC1993: folds 
+h1gher1: folds 
+tTxbrazza: folds 
+mickeyftw116: folds 
+The KatanaGr: folds 
+BCEOTEU,: folds 
+Uncalled bet (60) returned to kamijaa
+kamijaa collected 107 from pot
+kamijaa: doesn't show hand 
+*** SUMMARY ***
+Total pot 107 | Rake 0 
+Seat 1: LeandroC1993 folded before Flop (didn't bet)
+Seat 2: h1gher1 folded before Flop (didn't bet)
+Seat 3: tTxbrazza folded before Flop (didn't bet)
+Seat 4: mickeyftw116 (button) folded before Flop (didn't bet)
+Seat 5: The KatanaGr (small blind) folded before Flop
+Seat 7: BCEOTEU, (big blind) folded before Flop
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: kamijaa collected (107)
+
+
+
+PokerStars Hand #184037607344: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/18 15:48:00 ET
+Table '2253360261 5' 9-max Seat #5 is the button
+Seat 1: LeandroC1993 (2342 in chips) 
+Seat 2: h1gher1 (3835 in chips) 
+Seat 3: tTxbrazza (1580 in chips) 
+Seat 4: mickeyftw116 (2193 in chips) 
+Seat 5: The KatanaGr (1351 in chips) 
+Seat 7: BCEOTEU, (1470 in chips) 
+Seat 8: ollikahn23 (1131 in chips) 
+Seat 9: kamijaa (1489 in chips) 
+LeandroC1993: posts the ante 4
+h1gher1: posts the ante 4
+tTxbrazza: posts the ante 4
+mickeyftw116: posts the ante 4
+The KatanaGr: posts the ante 4
+BCEOTEU,: posts the ante 4
+ollikahn23: posts the ante 4
+kamijaa: posts the ante 4
+BCEOTEU,: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6c 3s]
+kamijaa: folds 
+LeandroC1993: folds 
+h1gher1: folds 
+tTxbrazza: folds 
+mickeyftw116: folds 
+The KatanaGr: raises 36 to 66
+BCEOTEU,: folds 
+ollikahn23: folds 
+Uncalled bet (36) returned to The KatanaGr
+The KatanaGr collected 107 from pot
+*** SUMMARY ***
+Total pot 107 | Rake 0 
+Seat 1: LeandroC1993 folded before Flop (didn't bet)
+Seat 2: h1gher1 folded before Flop (didn't bet)
+Seat 3: tTxbrazza folded before Flop (didn't bet)
+Seat 4: mickeyftw116 folded before Flop (didn't bet)
+Seat 5: The KatanaGr (button) collected (107)
+Seat 7: BCEOTEU, (small blind) folded before Flop
+Seat 8: ollikahn23 (big blind) folded before Flop
+Seat 9: kamijaa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184037652377: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/18 15:48:45 ET
+Table '2253360261 5' 9-max Seat #7 is the button
+Seat 1: LeandroC1993 (2338 in chips) 
+Seat 2: h1gher1 (3831 in chips) 
+Seat 3: tTxbrazza (1576 in chips) 
+Seat 4: mickeyftw116 (2189 in chips) 
+Seat 5: The KatanaGr (1424 in chips) 
+Seat 7: BCEOTEU, (1451 in chips) 
+Seat 8: ollikahn23 (1097 in chips) 
+Seat 9: kamijaa (1485 in chips) 
+LeandroC1993: posts the ante 4
+h1gher1: posts the ante 4
+tTxbrazza: posts the ante 4
+mickeyftw116: posts the ante 4
+The KatanaGr: posts the ante 4
+BCEOTEU,: posts the ante 4
+ollikahn23: posts the ante 4
+kamijaa: posts the ante 4
+ollikahn23: posts small blind 15
+kamijaa: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9s 7h]
+LeandroC1993: folds 
+h1gher1: raises 40 to 70
+tTxbrazza: folds 
+mickeyftw116: calls 70
+The KatanaGr: folds 
+BCEOTEU,: folds 
+ollikahn23: folds 
+kamijaa: folds 
+*** FLOP *** [Qc Jd 3c]
+h1gher1: bets 90
+mickeyftw116: calls 90
+*** TURN *** [Qc Jd 3c] [5s]
+h1gher1: bets 190
+mickeyftw116: raises 287 to 477
+h1gher1: calls 287
+*** RIVER *** [Qc Jd 3c 5s] [9h]
+h1gher1: checks 
+mickeyftw116: bets 770
+h1gher1: raises 2420 to 3190 and is all-in
+mickeyftw116: calls 778 and is all-in
+Uncalled bet (1642) returned to h1gher1
+*** SHOW DOWN ***
+h1gher1: shows [Ks Ts] (a straight, Nine to King)
+mickeyftw116: shows [Qd Jc] (two pair, Queens and Jacks)
+h1gher1 collected 4447 from pot
+mickeyftw116 finished the tournament
+*** SUMMARY ***
+Total pot 4447 | Rake 0 
+Board [Qc Jd 3c 5s 9h]
+Seat 1: LeandroC1993 folded before Flop (didn't bet)
+Seat 2: h1gher1 showed [Ks Ts] and won (4447) with a straight, Nine to King
+Seat 3: tTxbrazza folded before Flop (didn't bet)
+Seat 4: mickeyftw116 showed [Qd Jc] and lost with two pair, Queens and Jacks
+Seat 5: The KatanaGr folded before Flop (didn't bet)
+Seat 7: BCEOTEU, (button) folded before Flop (didn't bet)
+Seat 8: ollikahn23 (small blind) folded before Flop
+Seat 9: kamijaa (big blind) folded before Flop
+
+
+
+PokerStars Hand #184037739106: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/18 15:50:14 ET
+Table '2253360261 5' 9-max Seat #8 is the button
+Seat 1: LeandroC1993 (2334 in chips) 
+Seat 2: h1gher1 (6089 in chips) 
+Seat 3: tTxbrazza (1572 in chips) 
+Seat 5: The KatanaGr (1420 in chips) 
+Seat 7: BCEOTEU, (1447 in chips) 
+Seat 8: ollikahn23 (1078 in chips) 
+Seat 9: kamijaa (1451 in chips) 
+LeandroC1993: posts the ante 4
+h1gher1: posts the ante 4
+tTxbrazza: posts the ante 4
+The KatanaGr: posts the ante 4
+BCEOTEU,: posts the ante 4
+ollikahn23: posts the ante 4
+kamijaa: posts the ante 4
+kamijaa: posts small blind 15
+LeandroC1993: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4d Kc]
+h1gher1: folds 
+tTxbrazza: folds 
+The KatanaGr: folds 
+BCEOTEU,: folds 
+ollikahn23: raises 60 to 90
+kamijaa: folds 
+LeandroC1993: folds 
+Uncalled bet (60) returned to ollikahn23
+ollikahn23 collected 103 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 103 | Rake 0 
+Seat 1: LeandroC1993 (big blind) folded before Flop
+Seat 2: h1gher1 folded before Flop (didn't bet)
+Seat 3: tTxbrazza folded before Flop (didn't bet)
+Seat 5: The KatanaGr folded before Flop (didn't bet)
+Seat 7: BCEOTEU, folded before Flop (didn't bet)
+Seat 8: ollikahn23 (button) collected (103)
+Seat 9: kamijaa (small blind) folded before Flop
+
+
+
+PokerStars Hand #184037764715: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/03/18 15:50:40 ET
+Table '2253360261 5' 9-max Seat #9 is the button
+Seat 1: LeandroC1993 (2300 in chips) 
+Seat 2: h1gher1 (6085 in chips) 
+Seat 3: tTxbrazza (1568 in chips) 
+Seat 4: antichrist27 (6002 in chips) 
+Seat 5: The KatanaGr (1416 in chips) 
+Seat 7: BCEOTEU, (1443 in chips) 
+Seat 8: ollikahn23 (1147 in chips) 
+Seat 9: kamijaa (1432 in chips) 
+LeandroC1993: posts the ante 6
+h1gher1: posts the ante 6
+tTxbrazza: posts the ante 6
+antichrist27: posts the ante 6
+The KatanaGr: posts the ante 6
+BCEOTEU,: posts the ante 6
+ollikahn23: posts the ante 6
+kamijaa: posts the ante 6
+LeandroC1993: posts small blind 25
+h1gher1: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5c 7s]
+tTxbrazza: folds 
+antichrist27: folds 
+The KatanaGr: folds 
+BCEOTEU,: folds 
+ollikahn23: folds 
+kamijaa: folds 
+LeandroC1993: raises 119 to 169
+h1gher1: raises 281 to 450
+LeandroC1993: folds 
+Uncalled bet (281) returned to h1gher1
+h1gher1 collected 386 from pot
+h1gher1: doesn't show hand 
+*** SUMMARY ***
+Total pot 386 | Rake 0 
+Seat 1: LeandroC1993 (small blind) folded before Flop
+Seat 2: h1gher1 (big blind) collected (386)
+Seat 3: tTxbrazza folded before Flop (didn't bet)
+Seat 4: antichrist27 folded before Flop (didn't bet)
+Seat 5: The KatanaGr folded before Flop (didn't bet)
+Seat 7: BCEOTEU, folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: kamijaa (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184037812175: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/03/18 15:51:29 ET
+Table '2253360261 5' 9-max Seat #1 is the button
+Seat 1: LeandroC1993 (2125 in chips) 
+Seat 2: h1gher1 (6296 in chips) 
+Seat 3: tTxbrazza (1562 in chips) 
+Seat 4: antichrist27 (5996 in chips) 
+Seat 5: The KatanaGr (1410 in chips) 
+Seat 7: BCEOTEU, (1437 in chips) 
+Seat 8: ollikahn23 (1141 in chips) 
+Seat 9: kamijaa (1426 in chips) 
+LeandroC1993: posts the ante 6
+h1gher1: posts the ante 6
+tTxbrazza: posts the ante 6
+antichrist27: posts the ante 6
+The KatanaGr: posts the ante 6
+BCEOTEU,: posts the ante 6
+ollikahn23: posts the ante 6
+kamijaa: posts the ante 6
+h1gher1: posts small blind 25
+tTxbrazza: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6d 4h]
+antichrist27: folds 
+The KatanaGr: folds 
+BCEOTEU,: folds 
+ollikahn23: folds 
+kamijaa: raises 80 to 130
+LeandroC1993: folds 
+h1gher1: raises 270 to 400
+tTxbrazza: folds 
+kamijaa: folds 
+Uncalled bet (270) returned to h1gher1
+h1gher1 collected 358 from pot
+h1gher1: doesn't show hand 
+*** SUMMARY ***
+Total pot 358 | Rake 0 
+Seat 1: LeandroC1993 (button) folded before Flop (didn't bet)
+Seat 2: h1gher1 (small blind) collected (358)
+Seat 3: tTxbrazza (big blind) folded before Flop
+Seat 4: antichrist27 folded before Flop (didn't bet)
+Seat 5: The KatanaGr folded before Flop (didn't bet)
+Seat 7: BCEOTEU, folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: kamijaa folded before Flop
+
+
+
+PokerStars Hand #184037838607: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/03/18 15:51:56 ET
+Table '2253360261 5' 9-max Seat #2 is the button
+Seat 1: LeandroC1993 (2119 in chips) 
+Seat 2: h1gher1 (6518 in chips) 
+Seat 3: tTxbrazza (1506 in chips) 
+Seat 4: antichrist27 (5990 in chips) 
+Seat 5: The KatanaGr (1404 in chips) 
+Seat 7: BCEOTEU, (1431 in chips) 
+Seat 8: ollikahn23 (1135 in chips) 
+Seat 9: kamijaa (1290 in chips) 
+LeandroC1993: posts the ante 6
+h1gher1: posts the ante 6
+tTxbrazza: posts the ante 6
+antichrist27: posts the ante 6
+The KatanaGr: posts the ante 6
+BCEOTEU,: posts the ante 6
+ollikahn23: posts the ante 6
+kamijaa: posts the ante 6
+tTxbrazza: posts small blind 25
+antichrist27: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Td Jd]
+The KatanaGr: folds 
+BCEOTEU,: folds 
+ollikahn23: raises 50 to 100
+kamijaa: folds 
+LeandroC1993: folds 
+h1gher1: folds 
+tTxbrazza: folds 
+antichrist27: calls 50
+*** FLOP *** [7s 7h Ks]
+antichrist27: checks 
+ollikahn23: bets 100
+antichrist27: calls 100
+*** TURN *** [7s 7h Ks] [Ac]
+antichrist27: checks 
+ollikahn23: bets 350
+antichrist27: calls 350
+*** RIVER *** [7s 7h Ks Ac] [Qd]
+antichrist27: checks 
+ollikahn23: bets 579 and is all-in
+antichrist27: calls 579
+*** SHOW DOWN ***
+ollikahn23: shows [Td Jd] (a straight, Ten to Ace)
+antichrist27: shows [Ts As] (two pair, Aces and Sevens)
+ollikahn23 collected 2331 from pot
+*** SUMMARY ***
+Total pot 2331 | Rake 0 
+Board [7s 7h Ks Ac Qd]
+Seat 1: LeandroC1993 folded before Flop (didn't bet)
+Seat 2: h1gher1 (button) folded before Flop (didn't bet)
+Seat 3: tTxbrazza (small blind) folded before Flop
+Seat 4: antichrist27 (big blind) showed [Ts As] and lost with two pair, Aces and Sevens
+Seat 5: The KatanaGr folded before Flop (didn't bet)
+Seat 7: BCEOTEU, folded before Flop (didn't bet)
+Seat 8: ollikahn23 showed [Td Jd] and won (2331) with a straight, Ten to Ace
+Seat 9: kamijaa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184037882313: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/03/18 15:52:41 ET
+Table '2253360261 5' 9-max Seat #3 is the button
+Seat 1: LeandroC1993 (2113 in chips) 
+Seat 2: h1gher1 (6512 in chips) 
+Seat 3: tTxbrazza (1475 in chips) 
+Seat 4: antichrist27 (4855 in chips) 
+Seat 5: The KatanaGr (1398 in chips) 
+Seat 6: CesarAAnd (1500 in chips) 
+Seat 7: BCEOTEU, (1425 in chips) 
+Seat 8: ollikahn23 (2331 in chips) 
+Seat 9: kamijaa (1284 in chips) 
+LeandroC1993: posts the ante 6
+h1gher1: posts the ante 6
+tTxbrazza: posts the ante 6
+antichrist27: posts the ante 6
+The KatanaGr: posts the ante 6
+CesarAAnd: posts the ante 6
+BCEOTEU,: posts the ante 6
+ollikahn23: posts the ante 6
+kamijaa: posts the ante 6
+antichrist27: posts small blind 25
+The KatanaGr: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6d Td]
+CesarAAnd: raises 55 to 105
+BCEOTEU,: calls 105
+ollikahn23: folds 
+kamijaa: folds 
+LeandroC1993: folds 
+h1gher1: folds 
+tTxbrazza: folds 
+antichrist27: folds 
+The KatanaGr: folds 
+*** FLOP *** [Qs 6s 6h]
+CesarAAnd: checks 
+BCEOTEU,: bets 153
+CesarAAnd: calls 153
+*** TURN *** [Qs 6s 6h] [5d]
+CesarAAnd: checks 
+BCEOTEU,: checks 
+*** RIVER *** [Qs 6s 6h 5d] [Th]
+CesarAAnd: bets 568
+BCEOTEU,: calls 568
+*** SHOW DOWN ***
+CesarAAnd: shows [Kd Qd] (two pair, Queens and Sixes)
+BCEOTEU,: mucks hand 
+CesarAAnd collected 1781 from pot
+*** SUMMARY ***
+Total pot 1781 | Rake 0 
+Board [Qs 6s 6h 5d Th]
+Seat 1: LeandroC1993 folded before Flop (didn't bet)
+Seat 2: h1gher1 folded before Flop (didn't bet)
+Seat 3: tTxbrazza (button) folded before Flop (didn't bet)
+Seat 4: antichrist27 (small blind) folded before Flop
+Seat 5: The KatanaGr (big blind) folded before Flop
+Seat 6: CesarAAnd showed [Kd Qd] and won (1781) with two pair, Queens and Sixes
+Seat 7: BCEOTEU, mucked [Ts As]
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: kamijaa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184037945689: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/03/18 15:53:45 ET
+Table '2253360261 5' 9-max Seat #4 is the button
+Seat 1: LeandroC1993 (2107 in chips) 
+Seat 2: h1gher1 (6506 in chips) 
+Seat 3: tTxbrazza (1469 in chips) 
+Seat 4: antichrist27 (4824 in chips) 
+Seat 5: The KatanaGr (1342 in chips) 
+Seat 7: BCEOTEU, (593 in chips) 
+Seat 8: ollikahn23 (2325 in chips) 
+Seat 9: kamijaa (1278 in chips) 
+LeandroC1993: posts the ante 6
+h1gher1: posts the ante 6
+tTxbrazza: posts the ante 6
+antichrist27: posts the ante 6
+The KatanaGr: posts the ante 6
+BCEOTEU,: posts the ante 6
+ollikahn23: posts the ante 6
+kamijaa: posts the ante 6
+The KatanaGr: posts small blind 25
+BCEOTEU,: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ah Qd]
+ollikahn23: raises 100 to 150
+kamijaa: folds 
+LeandroC1993: folds 
+h1gher1: folds 
+tTxbrazza: folds 
+antichrist27: folds 
+The KatanaGr: folds 
+BCEOTEU,: folds 
+Uncalled bet (100) returned to ollikahn23
+ollikahn23 collected 173 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 173 | Rake 0 
+Seat 1: LeandroC1993 folded before Flop (didn't bet)
+Seat 2: h1gher1 folded before Flop (didn't bet)
+Seat 3: tTxbrazza folded before Flop (didn't bet)
+Seat 4: antichrist27 (button) folded before Flop (didn't bet)
+Seat 5: The KatanaGr (small blind) folded before Flop
+Seat 7: BCEOTEU, (big blind) folded before Flop
+Seat 8: ollikahn23 collected (173)
+Seat 9: kamijaa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184037988014: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/03/18 15:54:29 ET
+Table '2253360261 5' 9-max Seat #5 is the button
+Seat 1: LeandroC1993 (2101 in chips) 
+Seat 2: h1gher1 (6500 in chips) 
+Seat 3: tTxbrazza (1463 in chips) 
+Seat 4: antichrist27 (4818 in chips) 
+Seat 5: The KatanaGr (1311 in chips) 
+Seat 7: BCEOTEU, (537 in chips) 
+Seat 8: ollikahn23 (2442 in chips) 
+Seat 9: kamijaa (1272 in chips) 
+LeandroC1993: posts the ante 6
+h1gher1: posts the ante 6
+tTxbrazza: posts the ante 6
+antichrist27: posts the ante 6
+The KatanaGr: posts the ante 6
+BCEOTEU,: posts the ante 6
+ollikahn23: posts the ante 6
+kamijaa: posts the ante 6
+BCEOTEU,: posts small blind 25
+ollikahn23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6c Jh]
+kamijaa: folds 
+LeandroC1993: folds 
+h1gher1: raises 75 to 125
+tTxbrazza: folds 
+antichrist27: calls 125
+The KatanaGr: folds 
+BCEOTEU,: folds 
+ollikahn23: folds 
+*** FLOP *** [3c 6s 3d]
+h1gher1: bets 210
+antichrist27: calls 210
+*** TURN *** [3c 6s 3d] [5c]
+h1gher1: bets 580
+antichrist27: folds 
+Uncalled bet (580) returned to h1gher1
+h1gher1 collected 793 from pot
+h1gher1: doesn't show hand 
+*** SUMMARY ***
+Total pot 793 | Rake 0 
+Board [3c 6s 3d 5c]
+Seat 1: LeandroC1993 folded before Flop (didn't bet)
+Seat 2: h1gher1 collected (793)
+Seat 3: tTxbrazza folded before Flop (didn't bet)
+Seat 4: antichrist27 folded on the Turn
+Seat 5: The KatanaGr (button) folded before Flop (didn't bet)
+Seat 7: BCEOTEU, (small blind) folded before Flop
+Seat 8: ollikahn23 (big blind) folded before Flop
+Seat 9: kamijaa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184038297092: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/03/18 16:01:14 ET
+Table '2253360261 5' 9-max Seat #7 is the button
+Seat 1: LeandroC1993 (2095 in chips) 
+Seat 2: h1gher1 (6952 in chips) 
+Seat 3: .duvernaschi (1500 in chips) 
+Seat 4: antichrist27 (4477 in chips) 
+Seat 5: The KatanaGr (1305 in chips) 
+Seat 6: Gyptia (1500 in chips) 
+Seat 7: BCEOTEU, (506 in chips) 
+Seat 8: ollikahn23 (2386 in chips) 
+Seat 9: kamijaa (1266 in chips) 
+LeandroC1993: posts the ante 6
+h1gher1: posts the ante 6
+.duvernaschi: posts the ante 6
+antichrist27: posts the ante 6
+The KatanaGr: posts the ante 6
+Gyptia: posts the ante 6
+BCEOTEU,: posts the ante 6
+ollikahn23: posts the ante 6
+kamijaa: posts the ante 6
+ollikahn23: posts small blind 25
+kamijaa: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6s Qh]
+LeandroC1993: folds 
+h1gher1: folds 
+.duvernaschi: folds 
+antichrist27: folds 
+The KatanaGr: folds 
+Gyptia: folds 
+BCEOTEU,: raises 450 to 500 and is all-in
+ollikahn23: folds 
+kamijaa: calls 450
+*** FLOP *** [Qc 5d Kh]
+*** TURN *** [Qc 5d Kh] [9d]
+*** RIVER *** [Qc 5d Kh 9d] [6c]
+*** SHOW DOWN ***
+kamijaa: shows [Js Ah] (high card Ace)
+BCEOTEU,: shows [7h Ad] (high card Ace - lower kicker)
+kamijaa collected 1079 from pot
+BCEOTEU, finished the tournament
+*** SUMMARY ***
+Total pot 1079 | Rake 0 
+Board [Qc 5d Kh 9d 6c]
+Seat 1: LeandroC1993 folded before Flop (didn't bet)
+Seat 2: h1gher1 folded before Flop (didn't bet)
+Seat 3: .duvernaschi folded before Flop (didn't bet)
+Seat 4: antichrist27 folded before Flop (didn't bet)
+Seat 5: The KatanaGr folded before Flop (didn't bet)
+Seat 6: Gyptia folded before Flop (didn't bet)
+Seat 7: BCEOTEU, (button) showed [7h Ad] and lost with high card Ace
+Seat 8: ollikahn23 (small blind) folded before Flop
+Seat 9: kamijaa (big blind) showed [Js Ah] and won (1079) with high card Ace
+
+
+
+PokerStars Hand #184038325284: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/03/18 16:01:46 ET
+Table '2253360261 5' 9-max Seat #8 is the button
+Seat 2: h1gher1 (6946 in chips) 
+Seat 3: .duvernaschi (1494 in chips) 
+Seat 4: antichrist27 (4471 in chips) 
+Seat 5: The KatanaGr (1299 in chips) 
+Seat 6: Gyptia (1494 in chips) 
+Seat 8: ollikahn23 (2355 in chips) 
+Seat 9: kamijaa (1839 in chips) 
+h1gher1: posts the ante 6
+.duvernaschi: posts the ante 6
+antichrist27: posts the ante 6
+The KatanaGr: posts the ante 6
+Gyptia: posts the ante 6
+ollikahn23: posts the ante 6
+kamijaa: posts the ante 6
+kamijaa: posts small blind 25
+h1gher1: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3d 9h]
+.duvernaschi: folds 
+antichrist27 is disconnected 
+antichrist27 is connected 
+antichrist27: folds 
+The KatanaGr: folds 
+Gyptia: folds 
+ollikahn23: raises 50 to 100
+kamijaa: folds 
+h1gher1: calls 50
+*** FLOP *** [As 5h Kd]
+h1gher1: checks 
+ollikahn23: bets 110
+h1gher1: folds 
+Uncalled bet (110) returned to ollikahn23
+ollikahn23 collected 267 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 267 | Rake 0 
+Board [As 5h Kd]
+Seat 2: h1gher1 (big blind) folded on the Flop
+Seat 3: .duvernaschi folded before Flop (didn't bet)
+Seat 4: antichrist27 folded before Flop (didn't bet)
+Seat 5: The KatanaGr folded before Flop (didn't bet)
+Seat 6: Gyptia folded before Flop (didn't bet)
+Seat 8: ollikahn23 (button) collected (267)
+Seat 9: kamijaa (small blind) folded before Flop
+
+
+
+PokerStars Hand #184038396271: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/03/18 16:03:03 ET
+Table '2253360261 5' 9-max Seat #9 is the button
+Seat 1: dima479234 (1500 in chips) out of hand (moved from another table into small blind)
+Seat 2: h1gher1 (6840 in chips) 
+Seat 3: .duvernaschi (1488 in chips) 
+Seat 4: antichrist27 (4465 in chips) 
+Seat 5: The KatanaGr (1293 in chips) 
+Seat 6: Gyptia (1488 in chips) 
+Seat 8: ollikahn23 (2516 in chips) 
+Seat 9: kamijaa (1808 in chips) 
+dima479234 will be allowed to play after the button
+h1gher1: posts the ante 6
+.duvernaschi: posts the ante 6
+antichrist27: posts the ante 6
+The KatanaGr: posts the ante 6
+Gyptia: posts the ante 6
+ollikahn23: posts the ante 6
+kamijaa: posts the ante 6
+h1gher1: posts small blind 25
+.duvernaschi: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2d 4d]
+antichrist27: folds 
+The KatanaGr: folds 
+Gyptia: folds 
+ollikahn23: raises 50 to 100
+kamijaa: folds 
+h1gher1: folds 
+.duvernaschi: folds 
+Uncalled bet (50) returned to ollikahn23
+ollikahn23 collected 167 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 167 | Rake 0 
+Seat 2: h1gher1 (small blind) folded before Flop
+Seat 3: .duvernaschi (big blind) folded before Flop
+Seat 4: antichrist27 folded before Flop (didn't bet)
+Seat 5: The KatanaGr folded before Flop (didn't bet)
+Seat 6: Gyptia folded before Flop (didn't bet)
+Seat 8: ollikahn23 collected (167)
+Seat 9: kamijaa (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184038432188: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/03/18 16:03:40 ET
+Table '2253360261 5' 9-max Seat #2 is the button
+Seat 1: dima479234 (1500 in chips) 
+Seat 2: h1gher1 (6809 in chips) 
+Seat 3: .duvernaschi (1432 in chips) 
+Seat 4: antichrist27 (4459 in chips) 
+Seat 5: The KatanaGr (1287 in chips) 
+Seat 6: Gyptia (1482 in chips) 
+Seat 8: ollikahn23 (2627 in chips) 
+Seat 9: kamijaa (1802 in chips) 
+dima479234: posts the ante 6
+h1gher1: posts the ante 6
+.duvernaschi: posts the ante 6
+antichrist27: posts the ante 6
+The KatanaGr: posts the ante 6
+Gyptia: posts the ante 6
+ollikahn23: posts the ante 6
+kamijaa: posts the ante 6
+.duvernaschi: posts small blind 25
+antichrist27: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6s Ah]
+The KatanaGr: folds 
+Gyptia: folds 
+ollikahn23: folds 
+kamijaa: folds 
+dima479234: folds 
+h1gher1: folds 
+.duvernaschi: raises 100 to 150
+antichrist27: calls 100
+*** FLOP *** [4d Ts 3h]
+.duvernaschi: bets 275
+antichrist27: folds 
+Uncalled bet (275) returned to .duvernaschi
+.duvernaschi collected 348 from pot
+*** SUMMARY ***
+Total pot 348 | Rake 0 
+Board [4d Ts 3h]
+Seat 1: dima479234 folded before Flop (didn't bet)
+Seat 2: h1gher1 (button) folded before Flop (didn't bet)
+Seat 3: .duvernaschi (small blind) collected (348)
+Seat 4: antichrist27 (big blind) folded on the Flop
+Seat 5: The KatanaGr folded before Flop (didn't bet)
+Seat 6: Gyptia folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: kamijaa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184038487839: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/03/18 16:04:37 ET
+Table '2253360261 5' 9-max Seat #3 is the button
+Seat 1: dima479234 (1494 in chips) 
+Seat 2: h1gher1 (6803 in chips) 
+Seat 3: .duvernaschi (1624 in chips) 
+Seat 4: antichrist27 (4303 in chips) 
+Seat 5: The KatanaGr (1281 in chips) 
+Seat 6: Gyptia (1476 in chips) 
+Seat 7: TrishaPL (1500 in chips) 
+Seat 8: ollikahn23 (2621 in chips) 
+Seat 9: kamijaa (1796 in chips) 
+dima479234: posts the ante 6
+h1gher1: posts the ante 6
+.duvernaschi: posts the ante 6
+antichrist27: posts the ante 6
+The KatanaGr: posts the ante 6
+Gyptia: posts the ante 6
+TrishaPL: posts the ante 6
+ollikahn23: posts the ante 6
+kamijaa: posts the ante 6
+antichrist27: posts small blind 25
+The KatanaGr: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kc 4d]
+Gyptia: folds 
+TrishaPL: folds 
+ollikahn23: folds 
+kamijaa: folds 
+dima479234: raises 200 to 250
+h1gher1: folds 
+.duvernaschi: folds 
+antichrist27: folds 
+The KatanaGr: folds 
+Uncalled bet (200) returned to dima479234
+dima479234 collected 179 from pot
+dima479234: doesn't show hand 
+*** SUMMARY ***
+Total pot 179 | Rake 0 
+Seat 1: dima479234 collected (179)
+Seat 2: h1gher1 folded before Flop (didn't bet)
+Seat 3: .duvernaschi (button) folded before Flop (didn't bet)
+Seat 4: antichrist27 (small blind) folded before Flop
+Seat 5: The KatanaGr (big blind) folded before Flop
+Seat 6: Gyptia folded before Flop (didn't bet)
+Seat 7: TrishaPL folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: kamijaa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184038543435: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/03/18 16:05:33 ET
+Table '2253360261 5' 9-max Seat #4 is the button
+Seat 1: dima479234 (1617 in chips) 
+Seat 2: h1gher1 (6797 in chips) 
+Seat 3: .duvernaschi (1618 in chips) 
+Seat 4: antichrist27 (4272 in chips) 
+Seat 5: The KatanaGr (1225 in chips) 
+Seat 6: Gyptia (1470 in chips) 
+Seat 7: TrishaPL (1494 in chips) 
+Seat 8: ollikahn23 (2615 in chips) 
+Seat 9: kamijaa (1790 in chips) 
+dima479234: posts the ante 6
+h1gher1: posts the ante 6
+.duvernaschi: posts the ante 6
+antichrist27: posts the ante 6
+The KatanaGr: posts the ante 6
+Gyptia: posts the ante 6
+TrishaPL: posts the ante 6
+ollikahn23: posts the ante 6
+kamijaa: posts the ante 6
+The KatanaGr: posts small blind 25
+Gyptia: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ts Qd]
+TrishaPL: raises 60 to 110
+ollikahn23: folds 
+kamijaa: folds 
+dima479234: folds 
+h1gher1: folds 
+.duvernaschi: folds 
+antichrist27: calls 110
+The KatanaGr: calls 85
+Gyptia: folds 
+*** FLOP *** [6h Ks 9d]
+The KatanaGr: checks 
+TrishaPL: checks 
+antichrist27: bets 150
+The KatanaGr: folds 
+TrishaPL: folds 
+Uncalled bet (150) returned to antichrist27
+antichrist27 collected 434 from pot
+antichrist27: doesn't show hand 
+*** SUMMARY ***
+Total pot 434 | Rake 0 
+Board [6h Ks 9d]
+Seat 1: dima479234 folded before Flop (didn't bet)
+Seat 2: h1gher1 folded before Flop (didn't bet)
+Seat 3: .duvernaschi folded before Flop (didn't bet)
+Seat 4: antichrist27 (button) collected (434)
+Seat 5: The KatanaGr (small blind) folded on the Flop
+Seat 6: Gyptia (big blind) folded before Flop
+Seat 7: TrishaPL folded on the Flop
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: kamijaa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184038605759: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/03/18 16:06:35 ET
+Table '2253360261 5' 9-max Seat #5 is the button
+Seat 1: dima479234 (1611 in chips) 
+Seat 2: h1gher1 (6791 in chips) 
+Seat 3: .duvernaschi (1612 in chips) 
+Seat 4: antichrist27 (4590 in chips) 
+Seat 5: The KatanaGr (1109 in chips) 
+Seat 6: Gyptia (1414 in chips) 
+Seat 7: TrishaPL (1378 in chips) 
+Seat 8: ollikahn23 (2609 in chips) 
+Seat 9: kamijaa (1784 in chips) 
+dima479234: posts the ante 6
+h1gher1: posts the ante 6
+.duvernaschi: posts the ante 6
+antichrist27: posts the ante 6
+The KatanaGr: posts the ante 6
+Gyptia: posts the ante 6
+TrishaPL: posts the ante 6
+ollikahn23: posts the ante 6
+kamijaa: posts the ante 6
+Gyptia: posts small blind 25
+TrishaPL: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qh 5h]
+ollikahn23: folds 
+kamijaa: folds 
+dima479234: folds 
+h1gher1: folds 
+.duvernaschi: folds 
+antichrist27: raises 50 to 100
+The KatanaGr: folds 
+Gyptia: folds 
+TrishaPL: calls 50
+*** FLOP *** [9s 6c 4d]
+TrishaPL: checks 
+antichrist27: bets 100
+TrishaPL: folds 
+Uncalled bet (100) returned to antichrist27
+antichrist27 collected 279 from pot
+antichrist27: doesn't show hand 
+*** SUMMARY ***
+Total pot 279 | Rake 0 
+Board [9s 6c 4d]
+Seat 1: dima479234 folded before Flop (didn't bet)
+Seat 2: h1gher1 folded before Flop (didn't bet)
+Seat 3: .duvernaschi folded before Flop (didn't bet)
+Seat 4: antichrist27 collected (279)
+Seat 5: The KatanaGr (button) folded before Flop (didn't bet)
+Seat 6: Gyptia (small blind) folded before Flop
+Seat 7: TrishaPL (big blind) folded on the Flop
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: kamijaa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184038655818: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/03/18 16:07:25 ET
+Table '2253360261 5' 9-max Seat #6 is the button
+Seat 1: dima479234 (1605 in chips) 
+Seat 2: h1gher1 (6785 in chips) 
+Seat 3: .duvernaschi (1606 in chips) 
+Seat 4: antichrist27 (4763 in chips) 
+Seat 5: The KatanaGr (1103 in chips) 
+Seat 6: Gyptia (1383 in chips) 
+Seat 7: TrishaPL (1272 in chips) 
+Seat 8: ollikahn23 (2603 in chips) 
+Seat 9: kamijaa (1778 in chips) 
+dima479234: posts the ante 6
+h1gher1: posts the ante 6
+.duvernaschi: posts the ante 6
+antichrist27: posts the ante 6
+The KatanaGr: posts the ante 6
+Gyptia: posts the ante 6
+TrishaPL: posts the ante 6
+ollikahn23: posts the ante 6
+kamijaa: posts the ante 6
+TrishaPL: posts small blind 25
+ollikahn23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9h 9d]
+kamijaa: folds 
+dima479234: raises 1549 to 1599 and is all-in
+h1gher1: folds 
+.duvernaschi: folds 
+antichrist27: calls 1599
+The KatanaGr: folds 
+Gyptia: folds 
+TrishaPL: calls 1241 and is all-in
+ollikahn23: folds 
+*** FLOP *** [4h 8s 6s]
+*** TURN *** [4h 8s 6s] [Kc]
+*** RIVER *** [4h 8s 6s Kc] [3d]
+*** SHOW DOWN ***
+dima479234: shows [8d Ks] (two pair, Kings and Eights)
+antichrist27: shows [Jd Jh] (a pair of Jacks)
+dima479234 collected 666 from side pot
+TrishaPL: shows [Ts Th] (a pair of Tens)
+dima479234 collected 3902 from main pot
+TrishaPL finished the tournament in 92nd place
+*** SUMMARY ***
+Total pot 4568 Main pot 3902. Side pot 666. | Rake 0 
+Board [4h 8s 6s Kc 3d]
+Seat 1: dima479234 showed [8d Ks] and won (4568) with two pair, Kings and Eights
+Seat 2: h1gher1 folded before Flop (didn't bet)
+Seat 3: .duvernaschi folded before Flop (didn't bet)
+Seat 4: antichrist27 showed [Jd Jh] and lost with a pair of Jacks
+Seat 5: The KatanaGr folded before Flop (didn't bet)
+Seat 6: Gyptia (button) folded before Flop (didn't bet)
+Seat 7: TrishaPL (small blind) showed [Ts Th] and lost with a pair of Tens
+Seat 8: ollikahn23 (big blind) folded before Flop
+Seat 9: kamijaa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184038724654: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/03/18 16:08:35 ET
+Table '2253360261 5' 9-max Seat #8 is the button
+Seat 1: dima479234 (4568 in chips) 
+Seat 2: h1gher1 (6779 in chips) 
+Seat 3: .duvernaschi (1600 in chips) 
+Seat 4: antichrist27 (3158 in chips) 
+Seat 5: The KatanaGr (1097 in chips) 
+Seat 6: Gyptia (1377 in chips) 
+Seat 8: ollikahn23 (2547 in chips) 
+Seat 9: kamijaa (1772 in chips) 
+dima479234: posts the ante 6
+h1gher1: posts the ante 6
+.duvernaschi: posts the ante 6
+antichrist27: posts the ante 6
+The KatanaGr: posts the ante 6
+Gyptia: posts the ante 6
+ollikahn23: posts the ante 6
+kamijaa: posts the ante 6
+kamijaa: posts small blind 25
+dima479234: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5h Js]
+h1gher1: folds 
+.duvernaschi: folds 
+antichrist27 is disconnected 
+antichrist27 is connected 
+antichrist27: folds 
+The KatanaGr: folds 
+Gyptia: raises 75 to 125
+ollikahn23: folds 
+kamijaa: folds 
+dima479234: calls 75
+*** FLOP *** [5s Th 6c]
+dima479234: bets 250
+Gyptia: calls 250
+*** TURN *** [5s Th 6c] [4s]
+dima479234: bets 400
+Gyptia: calls 400
+*** RIVER *** [5s Th 6c 4s] [6s]
+dima479234: bets 3787 and is all-in
+Gyptia: calls 596 and is all-in
+Uncalled bet (3191) returned to dima479234
+*** SHOW DOWN ***
+dima479234: shows [3h 7s] (a straight, Three to Seven)
+Gyptia: shows [5d 5c] (a full house, Fives full of Sixes)
+Gyptia collected 2815 from pot
+*** SUMMARY ***
+Total pot 2815 | Rake 0 
+Board [5s Th 6c 4s 6s]
+Seat 1: dima479234 (big blind) showed [3h 7s] and lost with a straight, Three to Seven
+Seat 2: h1gher1 folded before Flop (didn't bet)
+Seat 3: .duvernaschi folded before Flop (didn't bet)
+Seat 4: antichrist27 folded before Flop (didn't bet)
+Seat 5: The KatanaGr folded before Flop (didn't bet)
+Seat 6: Gyptia showed [5d 5c] and won (2815) with a full house, Fives full of Sixes
+Seat 8: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 9: kamijaa (small blind) folded before Flop
+
+
+
+PokerStars Hand #184038861476: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/03/18 16:10:52 ET
+Table '2253360261 5' 9-max Seat #9 is the button
+Seat 1: dima479234 (3191 in chips) 
+Seat 2: h1gher1 (6773 in chips) 
+Seat 3: .duvernaschi (1594 in chips) 
+Seat 4: antichrist27 (3152 in chips) 
+Seat 5: The KatanaGr (1091 in chips) 
+Seat 6: Gyptia (2815 in chips) 
+Seat 7: BRMK1ng (3786 in chips) 
+Seat 8: ollikahn23 (2541 in chips) 
+Seat 9: kamijaa (1741 in chips) 
+dima479234: posts the ante 6
+h1gher1: posts the ante 6
+.duvernaschi: posts the ante 6
+antichrist27: posts the ante 6
+The KatanaGr: posts the ante 6
+Gyptia: posts the ante 6
+BRMK1ng: posts the ante 6
+ollikahn23: posts the ante 6
+kamijaa: posts the ante 6
+dima479234: posts small blind 25
+h1gher1: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ad Ac]
+.duvernaschi: folds 
+antichrist27: folds 
+The KatanaGr: folds 
+Gyptia: folds 
+BRMK1ng: folds 
+ollikahn23: raises 50 to 100
+kamijaa: folds 
+dima479234: folds 
+h1gher1: calls 50
+*** FLOP *** [Ts Ah Td]
+h1gher1: checks 
+ollikahn23: checks 
+*** TURN *** [Ts Ah Td] [Js]
+h1gher1: checks 
+ollikahn23: bets 220
+h1gher1: folds 
+Uncalled bet (220) returned to ollikahn23
+ollikahn23 collected 279 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 279 | Rake 0 
+Board [Ts Ah Td Js]
+Seat 1: dima479234 (small blind) folded before Flop
+Seat 2: h1gher1 (big blind) folded on the Turn
+Seat 3: .duvernaschi folded before Flop (didn't bet)
+Seat 4: antichrist27 folded before Flop (didn't bet)
+Seat 5: The KatanaGr folded before Flop (didn't bet)
+Seat 6: Gyptia folded before Flop (didn't bet)
+Seat 7: BRMK1ng folded before Flop (didn't bet)
+Seat 8: ollikahn23 collected (279)
+Seat 9: kamijaa (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184038949761: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/03/18 16:12:21 ET
+Table '2253360261 5' 9-max Seat #1 is the button
+Seat 1: dima479234 (3160 in chips) 
+Seat 2: h1gher1 (6667 in chips) 
+Seat 3: .duvernaschi (1588 in chips) 
+Seat 4: antichrist27 (3146 in chips) 
+Seat 5: The KatanaGr (1085 in chips) 
+Seat 6: Gyptia (2809 in chips) 
+Seat 7: BRMK1ng (3780 in chips) 
+Seat 8: ollikahn23 (2714 in chips) 
+Seat 9: kamijaa (1735 in chips) 
+dima479234: posts the ante 10
+h1gher1: posts the ante 10
+.duvernaschi: posts the ante 10
+antichrist27: posts the ante 10
+The KatanaGr: posts the ante 10
+Gyptia: posts the ante 10
+BRMK1ng: posts the ante 10
+ollikahn23: posts the ante 10
+kamijaa: posts the ante 10
+h1gher1: posts small blind 50
+.duvernaschi: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7c 9h]
+antichrist27: folds 
+The KatanaGr: folds 
+Gyptia: folds 
+BRMK1ng: folds 
+ollikahn23: folds 
+kamijaa: raises 110 to 210
+dima479234: raises 2940 to 3150 and is all-in
+h1gher1: folds 
+.duvernaschi: folds 
+kamijaa: calls 1515 and is all-in
+Uncalled bet (1425) returned to dima479234
+*** FLOP *** [6h 9c Th]
+*** TURN *** [6h 9c Th] [Tc]
+*** RIVER *** [6h 9c Th Tc] [Js]
+*** SHOW DOWN ***
+kamijaa: shows [Qc Ad] (a pair of Tens)
+dima479234: shows [8s Ts] (three of a kind, Tens)
+dima479234 collected 3690 from pot
+kamijaa finished the tournament in 85th place
+*** SUMMARY ***
+Total pot 3690 | Rake 0 
+Board [6h 9c Th Tc Js]
+Seat 1: dima479234 (button) showed [8s Ts] and won (3690) with three of a kind, Tens
+Seat 2: h1gher1 (small blind) folded before Flop
+Seat 3: .duvernaschi (big blind) folded before Flop
+Seat 4: antichrist27 folded before Flop (didn't bet)
+Seat 5: The KatanaGr folded before Flop (didn't bet)
+Seat 6: Gyptia folded before Flop (didn't bet)
+Seat 7: BRMK1ng folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: kamijaa showed [Qc Ad] and lost with a pair of Tens
+
+
+
+PokerStars Hand #184039020878: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/03/18 16:13:33 ET
+Table '2253360261 5' 9-max Seat #2 is the button
+Seat 1: dima479234 (5115 in chips) 
+Seat 2: h1gher1 (6607 in chips) 
+Seat 3: .duvernaschi (1478 in chips) 
+Seat 4: antichrist27 (3136 in chips) 
+Seat 5: The KatanaGr (1075 in chips) 
+Seat 6: Gyptia (2799 in chips) 
+Seat 7: BRMK1ng (3770 in chips) 
+Seat 8: ollikahn23 (2704 in chips) 
+dima479234: posts the ante 10
+h1gher1: posts the ante 10
+.duvernaschi: posts the ante 10
+antichrist27: posts the ante 10
+The KatanaGr: posts the ante 10
+Gyptia: posts the ante 10
+BRMK1ng: posts the ante 10
+ollikahn23: posts the ante 10
+.duvernaschi: posts small blind 50
+antichrist27: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7s Qd]
+The KatanaGr: folds 
+Gyptia: folds 
+BRMK1ng: folds 
+ollikahn23: folds 
+dima479234: folds 
+h1gher1: folds 
+.duvernaschi: folds 
+Uncalled bet (50) returned to antichrist27
+antichrist27 collected 180 from pot
+antichrist27: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Seat 1: dima479234 folded before Flop (didn't bet)
+Seat 2: h1gher1 (button) folded before Flop (didn't bet)
+Seat 3: .duvernaschi (small blind) folded before Flop
+Seat 4: antichrist27 (big blind) collected (180)
+Seat 5: The KatanaGr folded before Flop (didn't bet)
+Seat 6: Gyptia folded before Flop (didn't bet)
+Seat 7: BRMK1ng folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184039039974: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/03/18 16:13:52 ET
+Table '2253360261 5' 9-max Seat #3 is the button
+Seat 1: dima479234 (5105 in chips) 
+Seat 2: h1gher1 (6597 in chips) 
+Seat 3: .duvernaschi (1418 in chips) 
+Seat 4: antichrist27 (3256 in chips) 
+Seat 5: The KatanaGr (1065 in chips) 
+Seat 6: Gyptia (2789 in chips) 
+Seat 7: BRMK1ng (3760 in chips) 
+Seat 8: ollikahn23 (2694 in chips) 
+dima479234: posts the ante 10
+h1gher1: posts the ante 10
+.duvernaschi: posts the ante 10
+antichrist27: posts the ante 10
+The KatanaGr: posts the ante 10
+Gyptia: posts the ante 10
+BRMK1ng: posts the ante 10
+ollikahn23: posts the ante 10
+antichrist27: posts small blind 50
+The KatanaGr: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4c Qh]
+Gyptia: folds 
+BRMK1ng: folds 
+ollikahn23: folds 
+dima479234: folds 
+h1gher1: folds 
+.duvernaschi: folds 
+antichrist27: calls 50
+The KatanaGr: checks 
+*** FLOP *** [Ac Ah 6s]
+antichrist27: bets 100
+The KatanaGr: folds 
+Uncalled bet (100) returned to antichrist27
+antichrist27 collected 280 from pot
+antichrist27: doesn't show hand 
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Board [Ac Ah 6s]
+Seat 1: dima479234 folded before Flop (didn't bet)
+Seat 2: h1gher1 folded before Flop (didn't bet)
+Seat 3: .duvernaschi (button) folded before Flop (didn't bet)
+Seat 4: antichrist27 (small blind) collected (280)
+Seat 5: The KatanaGr (big blind) folded on the Flop
+Seat 6: Gyptia folded before Flop (didn't bet)
+Seat 7: BRMK1ng folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184039078108: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/03/18 16:14:31 ET
+Table '2253360261 5' 9-max Seat #4 is the button
+Seat 1: dima479234 (5095 in chips) 
+Seat 2: h1gher1 (6587 in chips) 
+Seat 3: .duvernaschi (1408 in chips) 
+Seat 4: antichrist27 (3426 in chips) 
+Seat 5: The KatanaGr (955 in chips) 
+Seat 6: Gyptia (2779 in chips) 
+Seat 7: BRMK1ng (3750 in chips) 
+Seat 8: ollikahn23 (2684 in chips) 
+Seat 9: victor333333 (1991 in chips) 
+dima479234: posts the ante 10
+h1gher1: posts the ante 10
+.duvernaschi: posts the ante 10
+antichrist27: posts the ante 10
+The KatanaGr: posts the ante 10
+Gyptia: posts the ante 10
+BRMK1ng: posts the ante 10
+ollikahn23: posts the ante 10
+victor333333: posts the ante 10
+The KatanaGr: posts small blind 50
+Gyptia: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kd 5d]
+BRMK1ng: raises 105 to 205
+ollikahn23: folds 
+victor333333: folds 
+dima479234: folds 
+h1gher1: folds 
+.duvernaschi: folds 
+antichrist27 is disconnected 
+antichrist27 is connected 
+antichrist27: folds 
+The KatanaGr: raises 740 to 945 and is all-in
+Gyptia: folds 
+BRMK1ng: calls 740
+*** FLOP *** [6s 8c Tc]
+*** TURN *** [6s 8c Tc] [4s]
+*** RIVER *** [6s 8c Tc 4s] [5c]
+*** SHOW DOWN ***
+The KatanaGr: shows [Kh Ah] (high card Ace)
+BRMK1ng: shows [As Jd] (high card Ace - lower kicker)
+The KatanaGr collected 2080 from pot
+*** SUMMARY ***
+Total pot 2080 | Rake 0 
+Board [6s 8c Tc 4s 5c]
+Seat 1: dima479234 folded before Flop (didn't bet)
+Seat 2: h1gher1 folded before Flop (didn't bet)
+Seat 3: .duvernaschi folded before Flop (didn't bet)
+Seat 4: antichrist27 (button) folded before Flop (didn't bet)
+Seat 5: The KatanaGr (small blind) showed [Kh Ah] and won (2080) with high card Ace
+Seat 6: Gyptia (big blind) folded before Flop
+Seat 7: BRMK1ng showed [As Jd] and lost with high card Ace
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: victor333333 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184039140209: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/03/18 16:15:34 ET
+Table '2253360261 5' 9-max Seat #5 is the button
+Seat 1: dima479234 (5085 in chips) 
+Seat 2: h1gher1 (6577 in chips) 
+Seat 3: .duvernaschi (1398 in chips) 
+Seat 4: antichrist27 (3416 in chips) 
+Seat 5: The KatanaGr (2080 in chips) 
+Seat 6: Gyptia (2669 in chips) 
+Seat 7: BRMK1ng (2795 in chips) 
+Seat 8: ollikahn23 (2674 in chips) 
+Seat 9: victor333333 (1981 in chips) 
+dima479234: posts the ante 10
+h1gher1: posts the ante 10
+.duvernaschi: posts the ante 10
+antichrist27: posts the ante 10
+The KatanaGr: posts the ante 10
+Gyptia: posts the ante 10
+BRMK1ng: posts the ante 10
+ollikahn23: posts the ante 10
+victor333333: posts the ante 10
+Gyptia: posts small blind 50
+BRMK1ng: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ks 2s]
+ollikahn23: folds 
+victor333333: calls 100
+dima479234: folds 
+h1gher1: folds 
+.duvernaschi: raises 250 to 350
+antichrist27: folds 
+The KatanaGr: folds 
+Gyptia: folds 
+BRMK1ng: folds 
+victor333333: calls 250
+*** FLOP *** [Th 2d 7d]
+victor333333: checks 
+.duvernaschi: checks 
+*** TURN *** [Th 2d 7d] [Jc]
+victor333333: checks 
+.duvernaschi: bets 600
+victor333333: folds 
+Uncalled bet (600) returned to .duvernaschi
+.duvernaschi collected 940 from pot
+*** SUMMARY ***
+Total pot 940 | Rake 0 
+Board [Th 2d 7d Jc]
+Seat 1: dima479234 folded before Flop (didn't bet)
+Seat 2: h1gher1 folded before Flop (didn't bet)
+Seat 3: .duvernaschi collected (940)
+Seat 4: antichrist27 folded before Flop (didn't bet)
+Seat 5: The KatanaGr (button) folded before Flop (didn't bet)
+Seat 6: Gyptia (small blind) folded before Flop
+Seat 7: BRMK1ng (big blind) folded before Flop
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: victor333333 folded on the Turn
+
+
+
+PokerStars Hand #184039196075: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/03/18 16:16:30 ET
+Table '2253360261 5' 9-max Seat #6 is the button
+Seat 1: dima479234 (5075 in chips) 
+Seat 3: .duvernaschi (1978 in chips) 
+Seat 4: antichrist27 (3406 in chips) 
+Seat 5: The KatanaGr (2070 in chips) 
+Seat 6: Gyptia (2609 in chips) 
+Seat 7: BRMK1ng (2685 in chips) 
+Seat 8: ollikahn23 (2664 in chips) 
+Seat 9: victor333333 (1621 in chips) 
+dima479234: posts the ante 10
+.duvernaschi: posts the ante 10
+antichrist27: posts the ante 10
+The KatanaGr: posts the ante 10
+Gyptia: posts the ante 10
+BRMK1ng: posts the ante 10
+ollikahn23: posts the ante 10
+victor333333: posts the ante 10
+BRMK1ng: posts small blind 50
+ollikahn23: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qc 5h]
+victor333333: raises 100 to 200
+dima479234: folds 
+.duvernaschi: folds 
+antichrist27: folds 
+The KatanaGr: folds 
+Gyptia: folds 
+BRMK1ng: folds 
+ollikahn23: folds 
+Uncalled bet (100) returned to victor333333
+victor333333 collected 330 from pot
+victor333333: doesn't show hand 
+*** SUMMARY ***
+Total pot 330 | Rake 0 
+Seat 1: dima479234 folded before Flop (didn't bet)
+Seat 3: .duvernaschi folded before Flop (didn't bet)
+Seat 4: antichrist27 folded before Flop (didn't bet)
+Seat 5: The KatanaGr folded before Flop (didn't bet)
+Seat 6: Gyptia (button) folded before Flop (didn't bet)
+Seat 7: BRMK1ng (small blind) folded before Flop
+Seat 8: ollikahn23 (big blind) folded before Flop
+Seat 9: victor333333 collected (330)
+
+
+
+PokerStars Hand #184039221774: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/03/18 16:16:56 ET
+Table '2253360261 5' 9-max Seat #7 is the button
+Seat 1: dima479234 (5065 in chips) 
+Seat 2: Joe Newfield (1236 in chips) 
+Seat 3: .duvernaschi (1968 in chips) 
+Seat 4: antichrist27 (3396 in chips) 
+Seat 5: The KatanaGr (2060 in chips) 
+Seat 6: Gyptia (2599 in chips) 
+Seat 7: BRMK1ng (2625 in chips) 
+Seat 8: ollikahn23 (2554 in chips) 
+Seat 9: victor333333 (1841 in chips) 
+dima479234: posts the ante 10
+Joe Newfield: posts the ante 10
+.duvernaschi: posts the ante 10
+antichrist27: posts the ante 10
+The KatanaGr: posts the ante 10
+Gyptia: posts the ante 10
+BRMK1ng: posts the ante 10
+ollikahn23: posts the ante 10
+victor333333: posts the ante 10
+ollikahn23: posts small blind 50
+victor333333: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4s Jd]
+dima479234: folds 
+Joe Newfield: raises 100 to 200
+.duvernaschi: folds 
+antichrist27: folds 
+The KatanaGr: raises 1850 to 2050 and is all-in
+Gyptia: folds 
+BRMK1ng: folds 
+ollikahn23: folds 
+victor333333: folds 
+Joe Newfield: calls 1026 and is all-in
+Uncalled bet (824) returned to The KatanaGr
+*** FLOP *** [Td Qc 6d]
+*** TURN *** [Td Qc 6d] [Ks]
+*** RIVER *** [Td Qc 6d Ks] [8h]
+*** SHOW DOWN ***
+Joe Newfield: shows [Ah 9h] (high card Ace)
+The KatanaGr: shows [Ts Tc] (three of a kind, Tens)
+The KatanaGr collected 2692 from pot
+Joe Newfield finished the tournament in 72nd place
+*** SUMMARY ***
+Total pot 2692 | Rake 0 
+Board [Td Qc 6d Ks 8h]
+Seat 1: dima479234 folded before Flop (didn't bet)
+Seat 2: Joe Newfield showed [Ah 9h] and lost with high card Ace
+Seat 3: .duvernaschi folded before Flop (didn't bet)
+Seat 4: antichrist27 folded before Flop (didn't bet)
+Seat 5: The KatanaGr showed [Ts Tc] and won (2692) with three of a kind, Tens
+Seat 6: Gyptia folded before Flop (didn't bet)
+Seat 7: BRMK1ng (button) folded before Flop (didn't bet)
+Seat 8: ollikahn23 (small blind) folded before Flop
+Seat 9: victor333333 (big blind) folded before Flop
+
+
+
+PokerStars Hand #184039274426: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/03/18 16:17:50 ET
+Table '2253360261 5' 9-max Seat #8 is the button
+Seat 1: dima479234 (5055 in chips) 
+Seat 3: .duvernaschi (1958 in chips) 
+Seat 4: antichrist27 (3386 in chips) 
+Seat 5: The KatanaGr (3516 in chips) 
+Seat 6: Gyptia (2589 in chips) 
+Seat 7: BRMK1ng (2615 in chips) 
+Seat 8: ollikahn23 (2494 in chips) 
+Seat 9: victor333333 (1731 in chips) 
+dima479234: posts the ante 10
+.duvernaschi: posts the ante 10
+antichrist27: posts the ante 10
+The KatanaGr: posts the ante 10
+Gyptia: posts the ante 10
+BRMK1ng: posts the ante 10
+ollikahn23: posts the ante 10
+victor333333: posts the ante 10
+victor333333: posts small blind 50
+dima479234: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6c 6d]
+.duvernaschi: folds 
+antichrist27: folds 
+The KatanaGr: folds 
+Gyptia: folds 
+BRMK1ng: raises 120 to 220
+ollikahn23: calls 220
+victor333333: calls 170
+dima479234: raises 200 to 420
+BRMK1ng: folds 
+ollikahn23: calls 200
+victor333333: calls 200
+*** FLOP *** [2d 2c Qh]
+victor333333: checks 
+dima479234: bets 1800
+ollikahn23: folds 
+victor333333: folds 
+Uncalled bet (1800) returned to dima479234
+dima479234 collected 1560 from pot
+dima479234: doesn't show hand 
+*** SUMMARY ***
+Total pot 1560 | Rake 0 
+Board [2d 2c Qh]
+Seat 1: dima479234 (big blind) collected (1560)
+Seat 3: .duvernaschi folded before Flop (didn't bet)
+Seat 4: antichrist27 folded before Flop (didn't bet)
+Seat 5: The KatanaGr folded before Flop (didn't bet)
+Seat 6: Gyptia folded before Flop (didn't bet)
+Seat 7: BRMK1ng folded before Flop
+Seat 8: ollikahn23 (button) folded on the Flop
+Seat 9: victor333333 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #184039351038: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/03/18 16:19:08 ET
+Table '2253360261 5' 9-max Seat #9 is the button
+Seat 1: dima479234 (6185 in chips) 
+Seat 3: .duvernaschi (1948 in chips) 
+Seat 4: antichrist27 (3376 in chips) 
+Seat 5: The KatanaGr (3506 in chips) 
+Seat 6: Gyptia (2579 in chips) 
+Seat 7: BRMK1ng (2385 in chips) 
+Seat 8: ollikahn23 (2064 in chips) 
+Seat 9: victor333333 (1301 in chips) 
+dima479234: posts the ante 10
+.duvernaschi: posts the ante 10
+antichrist27: posts the ante 10
+The KatanaGr: posts the ante 10
+Gyptia: posts the ante 10
+BRMK1ng: posts the ante 10
+ollikahn23: posts the ante 10
+victor333333: posts the ante 10
+dima479234: posts small blind 50
+.duvernaschi: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Tc 8s]
+antichrist27: folds 
+The KatanaGr: folds 
+Gyptia: folds 
+BRMK1ng: folds 
+ollikahn23: raises 100 to 200
+victor333333: folds 
+dima479234: folds 
+.duvernaschi: folds 
+Uncalled bet (100) returned to ollikahn23
+ollikahn23 collected 330 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 330 | Rake 0 
+Seat 1: dima479234 (small blind) folded before Flop
+Seat 3: .duvernaschi (big blind) folded before Flop
+Seat 4: antichrist27 folded before Flop (didn't bet)
+Seat 5: The KatanaGr folded before Flop (didn't bet)
+Seat 6: Gyptia folded before Flop (didn't bet)
+Seat 7: BRMK1ng folded before Flop (didn't bet)
+Seat 8: ollikahn23 collected (330)
+Seat 9: victor333333 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184039376039: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/03/18 16:19:34 ET
+Table '2253360261 5' 9-max Seat #1 is the button
+Seat 1: dima479234 (6125 in chips) 
+Seat 3: .duvernaschi (1838 in chips) 
+Seat 4: antichrist27 (3366 in chips) 
+Seat 5: The KatanaGr (3496 in chips) 
+Seat 6: Gyptia (2569 in chips) 
+Seat 7: BRMK1ng (2375 in chips) 
+Seat 8: ollikahn23 (2284 in chips) 
+Seat 9: victor333333 (1291 in chips) 
+dima479234: posts the ante 10
+.duvernaschi: posts the ante 10
+antichrist27: posts the ante 10
+The KatanaGr: posts the ante 10
+Gyptia: posts the ante 10
+BRMK1ng: posts the ante 10
+ollikahn23: posts the ante 10
+victor333333: posts the ante 10
+.duvernaschi: posts small blind 50
+antichrist27: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6h 7d]
+The KatanaGr: raises 121 to 221
+Gyptia: folds 
+BRMK1ng: folds 
+ollikahn23: folds 
+victor333333: folds 
+dima479234: folds 
+.duvernaschi: folds 
+antichrist27: calls 121
+*** FLOP *** [Qd Ah Th]
+antichrist27: checks 
+The KatanaGr: checks 
+*** TURN *** [Qd Ah Th] [7s]
+antichrist27: bets 300
+The KatanaGr: calls 300
+*** RIVER *** [Qd Ah Th 7s] [4c]
+antichrist27: bets 800
+The KatanaGr: folds 
+Uncalled bet (800) returned to antichrist27
+antichrist27 collected 1172 from pot
+antichrist27: doesn't show hand 
+*** SUMMARY ***
+Total pot 1172 | Rake 0 
+Board [Qd Ah Th 7s 4c]
+Seat 1: dima479234 (button) folded before Flop (didn't bet)
+Seat 3: .duvernaschi (small blind) folded before Flop
+Seat 4: antichrist27 (big blind) collected (1172)
+Seat 5: The KatanaGr folded on the River
+Seat 6: Gyptia folded before Flop (didn't bet)
+Seat 7: BRMK1ng folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: victor333333 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184039454318: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/03/18 16:20:53 ET
+Table '2253360261 5' 9-max Seat #3 is the button
+Seat 1: dima479234 (6115 in chips) 
+Seat 3: .duvernaschi (1778 in chips) 
+Seat 4: antichrist27 (4007 in chips) 
+Seat 5: The KatanaGr (2965 in chips) 
+Seat 6: Gyptia (2559 in chips) 
+Seat 7: BRMK1ng (2365 in chips) 
+Seat 8: ollikahn23 (2274 in chips) 
+Seat 9: victor333333 (1281 in chips) 
+dima479234: posts the ante 10
+.duvernaschi: posts the ante 10
+antichrist27: posts the ante 10
+The KatanaGr: posts the ante 10
+Gyptia: posts the ante 10
+BRMK1ng: posts the ante 10
+ollikahn23: posts the ante 10
+victor333333: posts the ante 10
+antichrist27: posts small blind 50
+The KatanaGr: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3s 5h]
+Gyptia: folds 
+BRMK1ng: folds 
+ollikahn23: folds 
+victor333333: calls 100
+dima479234: raises 400 to 500
+.duvernaschi: folds 
+antichrist27: folds 
+The KatanaGr: folds 
+victor333333: raises 771 to 1271 and is all-in
+dima479234: calls 771
+*** FLOP *** [9c Ks 4c]
+*** TURN *** [9c Ks 4c] [Jd]
+*** RIVER *** [9c Ks 4c Jd] [9h]
+*** SHOW DOWN ***
+victor333333: shows [5d 4d] (two pair, Nines and Fours)
+dima479234: shows [9s 6s] (three of a kind, Nines)
+dima479234 collected 2772 from pot
+victor333333 finished the tournament in 68th place
+*** SUMMARY ***
+Total pot 2772 | Rake 0 
+Board [9c Ks 4c Jd 9h]
+Seat 1: dima479234 showed [9s 6s] and won (2772) with three of a kind, Nines
+Seat 3: .duvernaschi (button) folded before Flop (didn't bet)
+Seat 4: antichrist27 (small blind) folded before Flop
+Seat 5: The KatanaGr (big blind) folded before Flop
+Seat 6: Gyptia folded before Flop (didn't bet)
+Seat 7: BRMK1ng folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: victor333333 showed [5d 4d] and lost with two pair, Nines and Fours
+
+
+
+PokerStars Hand #184039508302: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/03/18 16:21:48 ET
+Table '2253360261 5' 9-max Seat #4 is the button
+Seat 1: dima479234 (7606 in chips) 
+Seat 3: .duvernaschi (1768 in chips) 
+Seat 4: antichrist27 (3947 in chips) 
+Seat 5: The KatanaGr (2855 in chips) 
+Seat 6: Gyptia (2549 in chips) 
+Seat 7: BRMK1ng (2355 in chips) 
+Seat 8: ollikahn23 (2264 in chips) 
+dima479234: posts the ante 10
+.duvernaschi: posts the ante 10
+antichrist27: posts the ante 10
+The KatanaGr: posts the ante 10
+Gyptia: posts the ante 10
+BRMK1ng: posts the ante 10
+ollikahn23: posts the ante 10
+The KatanaGr: posts small blind 50
+Gyptia: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3d Th]
+BRMK1ng: folds 
+ollikahn23: folds 
+dima479234: raises 320 to 420
+.duvernaschi: folds 
+antichrist27: folds 
+The KatanaGr: folds 
+Gyptia: folds 
+Uncalled bet (320) returned to dima479234
+dima479234 collected 320 from pot
+dima479234: doesn't show hand 
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Seat 1: dima479234 collected (320)
+Seat 3: .duvernaschi folded before Flop (didn't bet)
+Seat 4: antichrist27 (button) folded before Flop (didn't bet)
+Seat 5: The KatanaGr (small blind) folded before Flop
+Seat 6: Gyptia (big blind) folded before Flop
+Seat 7: BRMK1ng folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184039544347: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/03/18 16:22:25 ET
+Table '2253360261 5' 9-max Seat #5 is the button
+Seat 1: dima479234 (7816 in chips) 
+Seat 3: .duvernaschi (1758 in chips) 
+Seat 4: antichrist27 (3937 in chips) 
+Seat 5: The KatanaGr (2795 in chips) 
+Seat 6: Gyptia (2439 in chips) 
+Seat 7: BRMK1ng (2345 in chips) 
+Seat 8: ollikahn23 (2254 in chips) 
+Seat 9: twirls92 (1019 in chips) 
+dima479234: posts the ante 10
+.duvernaschi: posts the ante 10
+antichrist27: posts the ante 10
+The KatanaGr: posts the ante 10
+Gyptia: posts the ante 10
+BRMK1ng: posts the ante 10
+ollikahn23: posts the ante 10
+twirls92: posts the ante 10
+Gyptia: posts small blind 50
+BRMK1ng: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3h 6d]
+ollikahn23: folds 
+twirls92: folds 
+dima479234: folds 
+.duvernaschi: folds 
+antichrist27: folds 
+The KatanaGr: raises 100 to 200
+Gyptia: folds 
+BRMK1ng: calls 100
+*** FLOP *** [Ad Ks 7s]
+BRMK1ng: checks 
+The KatanaGr: bets 207
+BRMK1ng: folds 
+Uncalled bet (207) returned to The KatanaGr
+The KatanaGr collected 530 from pot
+*** SUMMARY ***
+Total pot 530 | Rake 0 
+Board [Ad Ks 7s]
+Seat 1: dima479234 folded before Flop (didn't bet)
+Seat 3: .duvernaschi folded before Flop (didn't bet)
+Seat 4: antichrist27 folded before Flop (didn't bet)
+Seat 5: The KatanaGr (button) collected (530)
+Seat 6: Gyptia (small blind) folded before Flop
+Seat 7: BRMK1ng (big blind) folded on the Flop
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: twirls92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184039595348: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/03/18 16:23:17 ET
+Table '2253360261 5' 9-max Seat #6 is the button
+Seat 1: dima479234 (7806 in chips) 
+Seat 3: .duvernaschi (1748 in chips) 
+Seat 4: antichrist27 (3927 in chips) 
+Seat 5: The KatanaGr (3115 in chips) 
+Seat 6: Gyptia (2379 in chips) 
+Seat 7: BRMK1ng (2135 in chips) 
+Seat 8: ollikahn23 (2244 in chips) 
+Seat 9: twirls92 (1009 in chips) 
+dima479234: posts the ante 10
+.duvernaschi: posts the ante 10
+antichrist27: posts the ante 10
+The KatanaGr: posts the ante 10
+Gyptia: posts the ante 10
+BRMK1ng: posts the ante 10
+ollikahn23: posts the ante 10
+twirls92: posts the ante 10
+BRMK1ng: posts small blind 50
+ollikahn23: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3c 2h]
+twirls92: folds 
+dima479234: folds 
+.duvernaschi: raises 150 to 250
+antichrist27: folds 
+The KatanaGr: folds 
+Gyptia: folds 
+BRMK1ng: folds 
+ollikahn23: folds 
+Uncalled bet (150) returned to .duvernaschi
+.duvernaschi collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | Rake 0 
+Seat 1: dima479234 folded before Flop (didn't bet)
+Seat 3: .duvernaschi collected (330)
+Seat 4: antichrist27 folded before Flop (didn't bet)
+Seat 5: The KatanaGr folded before Flop (didn't bet)
+Seat 6: Gyptia (button) folded before Flop (didn't bet)
+Seat 7: BRMK1ng (small blind) folded before Flop
+Seat 8: ollikahn23 (big blind) folded before Flop
+Seat 9: twirls92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184039626171: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/03/18 16:23:49 ET
+Table '2253360261 5' 9-max Seat #7 is the button
+Seat 1: dima479234 (7796 in chips) 
+Seat 3: .duvernaschi (1968 in chips) 
+Seat 4: antichrist27 (3917 in chips) 
+Seat 5: The KatanaGr (3105 in chips) 
+Seat 6: Gyptia (2369 in chips) 
+Seat 7: BRMK1ng (2075 in chips) 
+Seat 8: ollikahn23 (2134 in chips) 
+Seat 9: twirls92 (999 in chips) 
+dima479234: posts the ante 10
+.duvernaschi: posts the ante 10
+antichrist27: posts the ante 10
+The KatanaGr: posts the ante 10
+Gyptia: posts the ante 10
+BRMK1ng: posts the ante 10
+ollikahn23: posts the ante 10
+twirls92: posts the ante 10
+ollikahn23: posts small blind 50
+twirls92: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8h As]
+dima479234: folds 
+.duvernaschi: folds 
+antichrist27: folds 
+The KatanaGr: folds 
+Gyptia: folds 
+BRMK1ng: folds 
+ollikahn23: raises 200 to 300
+twirls92: folds 
+Uncalled bet (200) returned to ollikahn23
+ollikahn23 collected 280 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Seat 1: dima479234 folded before Flop (didn't bet)
+Seat 3: .duvernaschi folded before Flop (didn't bet)
+Seat 4: antichrist27 folded before Flop (didn't bet)
+Seat 5: The KatanaGr folded before Flop (didn't bet)
+Seat 6: Gyptia folded before Flop (didn't bet)
+Seat 7: BRMK1ng (button) folded before Flop (didn't bet)
+Seat 8: ollikahn23 (small blind) collected (280)
+Seat 9: twirls92 (big blind) folded before Flop
+
+
+
+PokerStars Hand #184039650456: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/03/18 16:24:14 ET
+Table '2253360261 5' 9-max Seat #8 is the button
+Seat 1: dima479234 (7786 in chips) 
+Seat 3: .duvernaschi (1958 in chips) 
+Seat 4: antichrist27 (3907 in chips) 
+Seat 5: The KatanaGr (3095 in chips) 
+Seat 6: Gyptia (2359 in chips) 
+Seat 7: BRMK1ng (2065 in chips) 
+Seat 8: ollikahn23 (2304 in chips) 
+Seat 9: twirls92 (889 in chips) 
+dima479234: posts the ante 10
+.duvernaschi: posts the ante 10
+antichrist27: posts the ante 10
+The KatanaGr: posts the ante 10
+Gyptia: posts the ante 10
+BRMK1ng: posts the ante 10
+ollikahn23: posts the ante 10
+twirls92: posts the ante 10
+twirls92: posts small blind 50
+dima479234: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jh 6h]
+.duvernaschi: raises 150 to 250
+antichrist27: calls 250
+The KatanaGr: folds 
+Gyptia: folds 
+BRMK1ng: folds 
+ollikahn23: folds 
+twirls92: folds 
+dima479234: folds 
+*** FLOP *** [7d 5d 4h]
+.duvernaschi: bets 500
+antichrist27: raises 500 to 1000
+.duvernaschi: raises 698 to 1698 and is all-in
+antichrist27: calls 698
+*** TURN *** [7d 5d 4h] [Jd]
+*** RIVER *** [7d 5d 4h Jd] [9h]
+*** SHOW DOWN ***
+.duvernaschi: shows [Th Tc] (a pair of Tens)
+antichrist27: shows [Ac 7c] (a pair of Sevens)
+.duvernaschi collected 4126 from pot
+*** SUMMARY ***
+Total pot 4126 | Rake 0 
+Board [7d 5d 4h Jd 9h]
+Seat 1: dima479234 (big blind) folded before Flop
+Seat 3: .duvernaschi showed [Th Tc] and won (4126) with a pair of Tens
+Seat 4: antichrist27 showed [Ac 7c] and lost with a pair of Sevens
+Seat 5: The KatanaGr folded before Flop (didn't bet)
+Seat 6: Gyptia folded before Flop (didn't bet)
+Seat 7: BRMK1ng folded before Flop (didn't bet)
+Seat 8: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 9: twirls92 (small blind) folded before Flop
+
+
+
+PokerStars Hand #184039716975: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/03/18 16:25:21 ET
+Table '2253360261 5' 9-max Seat #9 is the button
+Seat 1: dima479234 (7676 in chips) 
+Seat 3: .duvernaschi (4126 in chips) 
+Seat 4: antichrist27 (1949 in chips) 
+Seat 5: The KatanaGr (3085 in chips) 
+Seat 6: Gyptia (2349 in chips) 
+Seat 7: BRMK1ng (2055 in chips) 
+Seat 8: ollikahn23 (2294 in chips) 
+Seat 9: twirls92 (829 in chips) 
+dima479234: posts the ante 10
+.duvernaschi: posts the ante 10
+antichrist27: posts the ante 10
+The KatanaGr: posts the ante 10
+Gyptia: posts the ante 10
+BRMK1ng: posts the ante 10
+ollikahn23: posts the ante 10
+twirls92: posts the ante 10
+dima479234: posts small blind 50
+.duvernaschi: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qd 3s]
+antichrist27: folds 
+The KatanaGr: raises 121 to 221
+Gyptia: folds 
+BRMK1ng: folds 
+ollikahn23: folds 
+twirls92: folds 
+dima479234: folds 
+.duvernaschi: folds 
+Uncalled bet (121) returned to The KatanaGr
+The KatanaGr collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | Rake 0 
+Seat 1: dima479234 (small blind) folded before Flop
+Seat 3: .duvernaschi (big blind) folded before Flop
+Seat 4: antichrist27 folded before Flop (didn't bet)
+Seat 5: The KatanaGr collected (330)
+Seat 6: Gyptia folded before Flop (didn't bet)
+Seat 7: BRMK1ng folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: twirls92 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184039740297: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/03/18 16:25:45 ET
+Table '2253360261 5' 9-max Seat #1 is the button
+Seat 1: dima479234 (7616 in chips) 
+Seat 3: .duvernaschi (4016 in chips) 
+Seat 4: antichrist27 (1939 in chips) 
+Seat 5: The KatanaGr (3305 in chips) 
+Seat 6: Gyptia (2339 in chips) 
+Seat 7: BRMK1ng (2045 in chips) 
+Seat 8: ollikahn23 (2284 in chips) 
+Seat 9: twirls92 (819 in chips) 
+dima479234: posts the ante 10
+.duvernaschi: posts the ante 10
+antichrist27: posts the ante 10
+The KatanaGr: posts the ante 10
+Gyptia: posts the ante 10
+BRMK1ng: posts the ante 10
+ollikahn23: posts the ante 10
+twirls92: posts the ante 10
+.duvernaschi: posts small blind 50
+antichrist27: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8h 8c]
+The KatanaGr: raises 112 to 212
+Gyptia: folds 
+BRMK1ng: folds 
+ollikahn23: calls 212
+twirls92: folds 
+dima479234: folds 
+.duvernaschi: folds 
+antichrist27: calls 112
+*** FLOP *** [2c 9s 9c]
+antichrist27: checks 
+The KatanaGr: checks 
+ollikahn23: bets 400
+antichrist27: calls 400
+The KatanaGr: folds 
+*** TURN *** [2c 9s 9c] [Ks]
+antichrist27: checks 
+ollikahn23: checks 
+*** RIVER *** [2c 9s 9c Ks] [9d]
+antichrist27: checks 
+ollikahn23: checks 
+*** SHOW DOWN ***
+antichrist27: shows [Js 9h] (four of a kind, Nines)
+ollikahn23: mucks hand 
+antichrist27 collected 1566 from pot
+*** SUMMARY ***
+Total pot 1566 | Rake 0 
+Board [2c 9s 9c Ks 9d]
+Seat 1: dima479234 (button) folded before Flop (didn't bet)
+Seat 3: .duvernaschi (small blind) folded before Flop
+Seat 4: antichrist27 (big blind) showed [Js 9h] and won (1566) with four of a kind, Nines
+Seat 5: The KatanaGr folded on the Flop
+Seat 6: Gyptia folded before Flop (didn't bet)
+Seat 7: BRMK1ng folded before Flop (didn't bet)
+Seat 8: ollikahn23 mucked [8h 8c]
+Seat 9: twirls92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184039811278: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level V (75/150) - 2018/03/18 16:26:58 ET
+Table '2253360261 5' 9-max Seat #3 is the button
+Seat 1: dima479234 (7606 in chips) 
+Seat 3: .duvernaschi (3956 in chips) 
+Seat 4: antichrist27 (2883 in chips) 
+Seat 5: The KatanaGr (3083 in chips) 
+Seat 6: Gyptia (2329 in chips) 
+Seat 7: BRMK1ng (2035 in chips) 
+Seat 8: ollikahn23 (1662 in chips) 
+Seat 9: twirls92 (809 in chips) 
+dima479234: posts the ante 15
+.duvernaschi: posts the ante 15
+antichrist27: posts the ante 15
+The KatanaGr: posts the ante 15
+Gyptia: posts the ante 15
+BRMK1ng: posts the ante 15
+ollikahn23: posts the ante 15
+twirls92: posts the ante 15
+antichrist27: posts small blind 75
+The KatanaGr: posts big blind 150
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Td Jh]
+Gyptia: folds 
+BRMK1ng: folds 
+ollikahn23: folds 
+twirls92: folds 
+dima479234: folds 
+.duvernaschi: folds 
+antichrist27: calls 75
+The KatanaGr: raises 332 to 482
+antichrist27: folds 
+Uncalled bet (332) returned to The KatanaGr
+The KatanaGr collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | Rake 0 
+Seat 1: dima479234 folded before Flop (didn't bet)
+Seat 3: .duvernaschi (button) folded before Flop (didn't bet)
+Seat 4: antichrist27 (small blind) folded before Flop
+Seat 5: The KatanaGr (big blind) collected (420)
+Seat 6: Gyptia folded before Flop (didn't bet)
+Seat 7: BRMK1ng folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: twirls92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184039848114: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level V (75/150) - 2018/03/18 16:27:36 ET
+Table '2253360261 5' 9-max Seat #4 is the button
+Seat 1: dima479234 (7591 in chips) 
+Seat 3: .duvernaschi (3941 in chips) 
+Seat 4: antichrist27 (2718 in chips) 
+Seat 5: The KatanaGr (3338 in chips) 
+Seat 6: Gyptia (2314 in chips) 
+Seat 7: BRMK1ng (2020 in chips) 
+Seat 8: ollikahn23 (1647 in chips) 
+Seat 9: twirls92 (794 in chips) 
+dima479234: posts the ante 15
+.duvernaschi: posts the ante 15
+antichrist27: posts the ante 15
+The KatanaGr: posts the ante 15
+Gyptia: posts the ante 15
+BRMK1ng: posts the ante 15
+ollikahn23: posts the ante 15
+twirls92: posts the ante 15
+The KatanaGr: posts small blind 75
+Gyptia: posts big blind 150
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3h 5c]
+BRMK1ng: folds 
+ollikahn23: folds 
+twirls92: folds 
+dima479234: folds 
+.duvernaschi: folds 
+antichrist27: raises 150 to 300
+The KatanaGr: folds 
+Gyptia: folds 
+Uncalled bet (150) returned to antichrist27
+antichrist27 collected 495 from pot
+antichrist27: doesn't show hand 
+*** SUMMARY ***
+Total pot 495 | Rake 0 
+Seat 1: dima479234 folded before Flop (didn't bet)
+Seat 3: .duvernaschi folded before Flop (didn't bet)
+Seat 4: antichrist27 (button) collected (495)
+Seat 5: The KatanaGr (small blind) folded before Flop
+Seat 6: Gyptia (big blind) folded before Flop
+Seat 7: BRMK1ng folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: twirls92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184039864829: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level V (75/150) - 2018/03/18 16:27:53 ET
+Table '2253360261 5' 9-max Seat #5 is the button
+Seat 1: dima479234 (7576 in chips) 
+Seat 2: peace&loove (5407 in chips) 
+Seat 3: .duvernaschi (3926 in chips) 
+Seat 4: antichrist27 (3048 in chips) 
+Seat 5: The KatanaGr (3248 in chips) 
+Seat 6: Gyptia (2149 in chips) 
+Seat 7: BRMK1ng (2005 in chips) 
+Seat 8: ollikahn23 (1632 in chips) 
+Seat 9: twirls92 (779 in chips) 
+dima479234: posts the ante 15
+peace&loove: posts the ante 15
+.duvernaschi: posts the ante 15
+antichrist27: posts the ante 15
+The KatanaGr: posts the ante 15
+Gyptia: posts the ante 15
+BRMK1ng: posts the ante 15
+ollikahn23: posts the ante 15
+twirls92: posts the ante 15
+Gyptia: posts small blind 75
+BRMK1ng: posts big blind 150
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7c 3c]
+ollikahn23: folds 
+twirls92: folds 
+dima479234: folds 
+peace&loove: folds 
+.duvernaschi: folds 
+antichrist27: folds 
+The KatanaGr: folds 
+Gyptia: raises 1984 to 2134 and is all-in
+BRMK1ng: folds 
+Uncalled bet (1984) returned to Gyptia
+Gyptia collected 435 from pot
+Gyptia: doesn't show hand 
+*** SUMMARY ***
+Total pot 435 | Rake 0 
+Seat 1: dima479234 folded before Flop (didn't bet)
+Seat 2: peace&loove folded before Flop (didn't bet)
+Seat 3: .duvernaschi folded before Flop (didn't bet)
+Seat 4: antichrist27 folded before Flop (didn't bet)
+Seat 5: The KatanaGr (button) folded before Flop (didn't bet)
+Seat 6: Gyptia (small blind) collected (435)
+Seat 7: BRMK1ng (big blind) folded before Flop
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: twirls92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184039906049: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level V (75/150) - 2018/03/18 16:28:35 ET
+Table '2253360261 5' 9-max Seat #6 is the button
+Seat 1: dima479234 (7561 in chips) 
+Seat 2: peace&loove (5392 in chips) 
+Seat 3: .duvernaschi (3911 in chips) 
+Seat 4: antichrist27 (3033 in chips) 
+Seat 5: The KatanaGr (3233 in chips) 
+Seat 6: Gyptia (2419 in chips) 
+Seat 7: BRMK1ng (1840 in chips) 
+Seat 8: ollikahn23 (1617 in chips) 
+Seat 9: twirls92 (764 in chips) 
+dima479234: posts the ante 15
+peace&loove: posts the ante 15
+.duvernaschi: posts the ante 15
+antichrist27: posts the ante 15
+The KatanaGr: posts the ante 15
+Gyptia: posts the ante 15
+BRMK1ng: posts the ante 15
+ollikahn23: posts the ante 15
+twirls92: posts the ante 15
+BRMK1ng: posts small blind 75
+ollikahn23: posts big blind 150
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8h Td]
+twirls92: raises 599 to 749 and is all-in
+dima479234: raises 6797 to 7546 and is all-in
+peace&loove: folds 
+.duvernaschi: folds 
+antichrist27: folds 
+The KatanaGr: folds 
+Gyptia: folds 
+BRMK1ng: folds 
+ollikahn23: folds 
+Uncalled bet (6797) returned to dima479234
+*** FLOP *** [Kc Ad 5h]
+*** TURN *** [Kc Ad 5h] [2s]
+*** RIVER *** [Kc Ad 5h 2s] [Jc]
+*** SHOW DOWN ***
+twirls92: shows [Js Qc] (a pair of Jacks)
+dima479234: shows [7h Th] (high card Ace)
+twirls92 collected 1858 from pot
+*** SUMMARY ***
+Total pot 1858 | Rake 0 
+Board [Kc Ad 5h 2s Jc]
+Seat 1: dima479234 showed [7h Th] and lost with high card Ace
+Seat 2: peace&loove folded before Flop (didn't bet)
+Seat 3: .duvernaschi folded before Flop (didn't bet)
+Seat 4: antichrist27 folded before Flop (didn't bet)
+Seat 5: The KatanaGr folded before Flop (didn't bet)
+Seat 6: Gyptia (button) folded before Flop (didn't bet)
+Seat 7: BRMK1ng (small blind) folded before Flop
+Seat 8: ollikahn23 (big blind) folded before Flop
+Seat 9: twirls92 showed [Js Qc] and won (1858) with a pair of Jacks
+
+
+
+PokerStars Hand #184039938688: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level V (75/150) - 2018/03/18 16:29:08 ET
+Table '2253360261 5' 9-max Seat #7 is the button
+Seat 1: dima479234 (6797 in chips) 
+Seat 2: peace&loove (5377 in chips) 
+Seat 3: .duvernaschi (3896 in chips) 
+Seat 4: antichrist27 (3018 in chips) 
+Seat 5: The KatanaGr (3218 in chips) 
+Seat 6: Gyptia (2404 in chips) 
+Seat 7: BRMK1ng (1750 in chips) 
+Seat 8: ollikahn23 (1452 in chips) 
+Seat 9: twirls92 (1858 in chips) 
+dima479234: posts the ante 15
+peace&loove: posts the ante 15
+.duvernaschi: posts the ante 15
+antichrist27: posts the ante 15
+The KatanaGr: posts the ante 15
+Gyptia: posts the ante 15
+BRMK1ng: posts the ante 15
+ollikahn23: posts the ante 15
+twirls92: posts the ante 15
+ollikahn23: posts small blind 75
+twirls92: posts big blind 150
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8s 5d]
+dima479234: folds 
+peace&loove: folds 
+.duvernaschi: folds 
+antichrist27: folds 
+The KatanaGr: raises 168 to 318
+Gyptia: folds 
+BRMK1ng: folds 
+ollikahn23: folds 
+twirls92: folds 
+Uncalled bet (168) returned to The KatanaGr
+The KatanaGr collected 510 from pot
+*** SUMMARY ***
+Total pot 510 | Rake 0 
+Seat 1: dima479234 folded before Flop (didn't bet)
+Seat 2: peace&loove folded before Flop (didn't bet)
+Seat 3: .duvernaschi folded before Flop (didn't bet)
+Seat 4: antichrist27 folded before Flop (didn't bet)
+Seat 5: The KatanaGr collected (510)
+Seat 6: Gyptia folded before Flop (didn't bet)
+Seat 7: BRMK1ng (button) folded before Flop (didn't bet)
+Seat 8: ollikahn23 (small blind) folded before Flop
+Seat 9: twirls92 (big blind) folded before Flop
+
+
+
+PokerStars Hand #184039970023: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level V (75/150) - 2018/03/18 16:29:41 ET
+Table '2253360261 5' 9-max Seat #8 is the button
+Seat 1: dima479234 (6782 in chips) 
+Seat 2: peace&loove (5362 in chips) 
+Seat 3: .duvernaschi (3881 in chips) 
+Seat 4: antichrist27 (3003 in chips) 
+Seat 5: The KatanaGr (3563 in chips) 
+Seat 6: Gyptia (2389 in chips) 
+Seat 7: BRMK1ng (1735 in chips) 
+Seat 8: ollikahn23 (1362 in chips) 
+Seat 9: twirls92 (1693 in chips) 
+dima479234: posts the ante 15
+peace&loove: posts the ante 15
+.duvernaschi: posts the ante 15
+antichrist27: posts the ante 15
+The KatanaGr: posts the ante 15
+Gyptia: posts the ante 15
+BRMK1ng: posts the ante 15
+ollikahn23: posts the ante 15
+twirls92: posts the ante 15
+twirls92: posts small blind 75
+dima479234: posts big blind 150
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4c 3s]
+peace&loove: folds 
+.duvernaschi: folds 
+antichrist27: folds 
+The KatanaGr: folds 
+Gyptia: folds 
+BRMK1ng: folds 
+ollikahn23: folds 
+twirls92: raises 1528 to 1678 and is all-in
+dima479234: calls 1528
+*** FLOP *** [2s 4d Ac]
+*** TURN *** [2s 4d Ac] [4s]
+*** RIVER *** [2s 4d Ac 4s] [Qs]
+*** SHOW DOWN ***
+twirls92: shows [7h Kd] (a pair of Fours)
+dima479234: shows [Kh Td] (a pair of Fours)
+twirls92 collected 1746 from pot
+dima479234 collected 1745 from pot
+*** SUMMARY ***
+Total pot 3491 | Rake 0 
+Board [2s 4d Ac 4s Qs]
+Seat 1: dima479234 (big blind) showed [Kh Td] and won (1745) with a pair of Fours
+Seat 2: peace&loove folded before Flop (didn't bet)
+Seat 3: .duvernaschi folded before Flop (didn't bet)
+Seat 4: antichrist27 folded before Flop (didn't bet)
+Seat 5: The KatanaGr folded before Flop (didn't bet)
+Seat 6: Gyptia folded before Flop (didn't bet)
+Seat 7: BRMK1ng folded before Flop (didn't bet)
+Seat 8: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 9: twirls92 (small blind) showed [7h Kd] and won (1746) with a pair of Fours
+
+
+
+PokerStars Hand #184040016195: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level V (75/150) - 2018/03/18 16:30:28 ET
+Table '2253360261 5' 9-max Seat #9 is the button
+Seat 1: dima479234 (6834 in chips) 
+Seat 2: peace&loove (5347 in chips) 
+Seat 3: .duvernaschi (3866 in chips) 
+Seat 4: antichrist27 (2988 in chips) 
+Seat 5: The KatanaGr (3548 in chips) 
+Seat 6: Gyptia (2374 in chips) 
+Seat 7: BRMK1ng (1720 in chips) 
+Seat 8: ollikahn23 (1347 in chips) 
+Seat 9: twirls92 (1746 in chips) 
+dima479234: posts the ante 15
+peace&loove: posts the ante 15
+.duvernaschi: posts the ante 15
+antichrist27: posts the ante 15
+The KatanaGr: posts the ante 15
+Gyptia: posts the ante 15
+BRMK1ng: posts the ante 15
+ollikahn23: posts the ante 15
+twirls92: posts the ante 15
+dima479234: posts small blind 75
+peace&loove: posts big blind 150
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2c 3s]
+.duvernaschi: raises 225 to 375
+antichrist27: folds 
+The KatanaGr: folds 
+Gyptia: folds 
+BRMK1ng: folds 
+ollikahn23: folds 
+twirls92: raises 1356 to 1731 and is all-in
+dima479234: folds 
+peace&loove: folds 
+.duvernaschi: calls 1356
+*** FLOP *** [4d 8s 4c]
+*** TURN *** [4d 8s 4c] [5h]
+*** RIVER *** [4d 8s 4c 5h] [Jh]
+*** SHOW DOWN ***
+.duvernaschi: shows [Qd Ah] (a pair of Fours)
+twirls92: shows [Th Td] (two pair, Tens and Fours)
+twirls92 collected 3822 from pot
+*** SUMMARY ***
+Total pot 3822 | Rake 0 
+Board [4d 8s 4c 5h Jh]
+Seat 1: dima479234 (small blind) folded before Flop
+Seat 2: peace&loove (big blind) folded before Flop
+Seat 3: .duvernaschi showed [Qd Ah] and lost with a pair of Fours
+Seat 4: antichrist27 folded before Flop (didn't bet)
+Seat 5: The KatanaGr folded before Flop (didn't bet)
+Seat 6: Gyptia folded before Flop (didn't bet)
+Seat 7: BRMK1ng folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: twirls92 (button) showed [Th Td] and won (3822) with two pair, Tens and Fours
+
+
+
+PokerStars Hand #184040072575: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level V (75/150) - 2018/03/18 16:31:27 ET
+Table '2253360261 5' 9-max Seat #1 is the button
+Seat 1: dima479234 (6744 in chips) 
+Seat 2: peace&loove (5182 in chips) 
+Seat 3: .duvernaschi (2120 in chips) 
+Seat 4: antichrist27 (2973 in chips) 
+Seat 5: The KatanaGr (3533 in chips) 
+Seat 6: Gyptia (2359 in chips) 
+Seat 7: BRMK1ng (1705 in chips) 
+Seat 8: ollikahn23 (1332 in chips) 
+Seat 9: twirls92 (3822 in chips) 
+dima479234: posts the ante 15
+peace&loove: posts the ante 15
+.duvernaschi: posts the ante 15
+antichrist27: posts the ante 15
+The KatanaGr: posts the ante 15
+Gyptia: posts the ante 15
+BRMK1ng: posts the ante 15
+ollikahn23: posts the ante 15
+twirls92: posts the ante 15
+peace&loove: posts small blind 75
+.duvernaschi: posts big blind 150
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9d 6s]
+antichrist27: folds 
+The KatanaGr: folds 
+Gyptia: folds 
+BRMK1ng: folds 
+ollikahn23: folds 
+twirls92: raises 172 to 322
+dima479234: folds 
+peace&loove: calls 247
+.duvernaschi: folds 
+*** FLOP *** [8h 7c 6c]
+peace&loove: checks 
+twirls92: bets 372
+peace&loove: folds 
+Uncalled bet (372) returned to twirls92
+twirls92 collected 929 from pot
+twirls92: doesn't show hand 
+*** SUMMARY ***
+Total pot 929 | Rake 0 
+Board [8h 7c 6c]
+Seat 1: dima479234 (button) folded before Flop (didn't bet)
+Seat 2: peace&loove (small blind) folded on the Flop
+Seat 3: .duvernaschi (big blind) folded before Flop
+Seat 4: antichrist27 folded before Flop (didn't bet)
+Seat 5: The KatanaGr folded before Flop (didn't bet)
+Seat 6: Gyptia folded before Flop (didn't bet)
+Seat 7: BRMK1ng folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: twirls92 collected (929)
+
+
+
+PokerStars Hand #184040119464: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level V (75/150) - 2018/03/18 16:32:15 ET
+Table '2253360261 5' 9-max Seat #2 is the button
+Seat 1: dima479234 (6729 in chips) 
+Seat 2: peace&loove (4845 in chips) 
+Seat 3: .duvernaschi (1955 in chips) 
+Seat 4: antichrist27 (2958 in chips) 
+Seat 5: The KatanaGr (3518 in chips) 
+Seat 6: Gyptia (2344 in chips) 
+Seat 7: BRMK1ng (1690 in chips) 
+Seat 8: ollikahn23 (1317 in chips) 
+Seat 9: twirls92 (4414 in chips) 
+dima479234: posts the ante 15
+peace&loove: posts the ante 15
+.duvernaschi: posts the ante 15
+antichrist27: posts the ante 15
+The KatanaGr: posts the ante 15
+Gyptia: posts the ante 15
+BRMK1ng: posts the ante 15
+ollikahn23: posts the ante 15
+twirls92: posts the ante 15
+.duvernaschi: posts small blind 75
+antichrist27: posts big blind 150
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qh Td]
+The KatanaGr: raises 182 to 332
+Gyptia: folds 
+BRMK1ng: folds 
+ollikahn23: folds 
+twirls92: folds 
+dima479234: folds 
+peace&loove: folds 
+.duvernaschi: folds 
+antichrist27: calls 182
+*** FLOP *** [4d Jh Kh]
+antichrist27: checks 
+The KatanaGr: bets 416
+antichrist27: folds 
+Uncalled bet (416) returned to The KatanaGr
+The KatanaGr collected 874 from pot
+*** SUMMARY ***
+Total pot 874 | Rake 0 
+Board [4d Jh Kh]
+Seat 1: dima479234 folded before Flop (didn't bet)
+Seat 2: peace&loove (button) folded before Flop (didn't bet)
+Seat 3: .duvernaschi (small blind) folded before Flop
+Seat 4: antichrist27 (big blind) folded on the Flop
+Seat 5: The KatanaGr collected (874)
+Seat 6: Gyptia folded before Flop (didn't bet)
+Seat 7: BRMK1ng folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: twirls92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184040168712: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level V (75/150) - 2018/03/18 16:33:06 ET
+Table '2253360261 5' 9-max Seat #3 is the button
+Seat 1: dima479234 (6714 in chips) 
+Seat 2: peace&loove (4830 in chips) 
+Seat 3: .duvernaschi (1865 in chips) 
+Seat 4: antichrist27 (2611 in chips) 
+Seat 5: The KatanaGr (4045 in chips) 
+Seat 6: Gyptia (2329 in chips) 
+Seat 7: BRMK1ng (1675 in chips) 
+Seat 8: ollikahn23 (1302 in chips) 
+Seat 9: twirls92 (4399 in chips) 
+dima479234: posts the ante 15
+peace&loove: posts the ante 15
+.duvernaschi: posts the ante 15
+antichrist27: posts the ante 15
+The KatanaGr: posts the ante 15
+Gyptia: posts the ante 15
+BRMK1ng: posts the ante 15
+ollikahn23: posts the ante 15
+twirls92: posts the ante 15
+antichrist27: posts small blind 75
+The KatanaGr: posts big blind 150
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9d Td]
+Gyptia: folds 
+BRMK1ng: folds 
+ollikahn23: folds 
+twirls92: folds 
+dima479234: folds 
+peace&loove: folds 
+.duvernaschi: folds 
+antichrist27: calls 75
+The KatanaGr: checks 
+*** FLOP *** [7h 3d 7s]
+antichrist27: bets 150
+The KatanaGr: folds 
+Uncalled bet (150) returned to antichrist27
+antichrist27 collected 435 from pot
+antichrist27: doesn't show hand 
+*** SUMMARY ***
+Total pot 435 | Rake 0 
+Board [7h 3d 7s]
+Seat 1: dima479234 folded before Flop (didn't bet)
+Seat 2: peace&loove folded before Flop (didn't bet)
+Seat 3: .duvernaschi (button) folded before Flop (didn't bet)
+Seat 4: antichrist27 (small blind) collected (435)
+Seat 5: The KatanaGr (big blind) folded on the Flop
+Seat 6: Gyptia folded before Flop (didn't bet)
+Seat 7: BRMK1ng folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: twirls92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184040236102: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level V (75/150) - 2018/03/18 16:34:13 ET
+Table '2253360261 10' 9-max Seat #5 is the button
+Seat 1: ollikahn23 (1287 in chips) 
+Seat 2: pica-pau788 (5262 in chips) 
+Seat 3: lightwave123 (3081 in chips) 
+Seat 4: ExXxtazZz (1666 in chips) 
+Seat 5: AlteDame1892 (4988 in chips) 
+Seat 6: Trasimene2 (1694 in chips) 
+Seat 7: TulioMB (8502 in chips) 
+Seat 8: Dudlove (2449 in chips) 
+ollikahn23: posts the ante 15
+pica-pau788: posts the ante 15
+lightwave123: posts the ante 15
+ExXxtazZz: posts the ante 15
+AlteDame1892: posts the ante 15
+Trasimene2: posts the ante 15
+TulioMB: posts the ante 15
+Dudlove: posts the ante 15
+Trasimene2: posts small blind 75
+TulioMB: posts big blind 150
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Td 3s]
+Dudlove: folds 
+ollikahn23: folds 
+pica-pau788: folds 
+lightwave123: folds 
+ExXxtazZz: folds 
+AlteDame1892: folds 
+Trasimene2: folds 
+Uncalled bet (75) returned to TulioMB
+TulioMB collected 270 from pot
+TulioMB: doesn't show hand 
+*** SUMMARY ***
+Total pot 270 | Rake 0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: pica-pau788 folded before Flop (didn't bet)
+Seat 3: lightwave123 folded before Flop (didn't bet)
+Seat 4: ExXxtazZz folded before Flop (didn't bet)
+Seat 5: AlteDame1892 (button) folded before Flop (didn't bet)
+Seat 6: Trasimene2 (small blind) folded before Flop
+Seat 7: TulioMB (big blind) collected (270)
+Seat 8: Dudlove folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184040247879: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level V (75/150) - 2018/03/18 16:34:25 ET
+Table '2253360261 10' 9-max Seat #6 is the button
+Seat 1: ollikahn23 (1272 in chips) 
+Seat 2: pica-pau788 (5247 in chips) 
+Seat 3: lightwave123 (3066 in chips) 
+Seat 4: ExXxtazZz (1651 in chips) 
+Seat 5: AlteDame1892 (4973 in chips) 
+Seat 6: Trasimene2 (1604 in chips) 
+Seat 7: TulioMB (8682 in chips) 
+Seat 8: Dudlove (2434 in chips) 
+ollikahn23: posts the ante 15
+pica-pau788: posts the ante 15
+lightwave123: posts the ante 15
+ExXxtazZz: posts the ante 15
+AlteDame1892: posts the ante 15
+Trasimene2: posts the ante 15
+TulioMB: posts the ante 15
+Dudlove: posts the ante 15
+TulioMB: posts small blind 75
+Dudlove: posts big blind 150
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9h 4s]
+ollikahn23: folds 
+pica-pau788: folds 
+lightwave123: folds 
+ExXxtazZz: folds 
+AlteDame1892: folds 
+Trasimene2: folds 
+TulioMB: raises 8517 to 8667 and is all-in
+Dudlove: folds 
+Uncalled bet (8517) returned to TulioMB
+TulioMB collected 420 from pot
+TulioMB: doesn't show hand 
+*** SUMMARY ***
+Total pot 420 | Rake 0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: pica-pau788 folded before Flop (didn't bet)
+Seat 3: lightwave123 folded before Flop (didn't bet)
+Seat 4: ExXxtazZz folded before Flop (didn't bet)
+Seat 5: AlteDame1892 folded before Flop (didn't bet)
+Seat 6: Trasimene2 (button) folded before Flop (didn't bet)
+Seat 7: TulioMB (small blind) collected (420)
+Seat 8: Dudlove (big blind) folded before Flop
+
+
+
+PokerStars Hand #184040303963: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level V (75/150) - 2018/03/18 16:35:24 ET
+Table '2253360261 10' 9-max Seat #7 is the button
+Seat 1: ollikahn23 (1257 in chips) 
+Seat 2: pica-pau788 (5232 in chips) 
+Seat 3: lightwave123 (3051 in chips) 
+Seat 4: ExXxtazZz (1636 in chips) 
+Seat 5: AlteDame1892 (4958 in chips) 
+Seat 6: Trasimene2 (1589 in chips) 
+Seat 7: TulioMB (8937 in chips) 
+Seat 8: Dudlove (2269 in chips) 
+Seat 9: Montydu (2420 in chips) 
+ollikahn23: posts the ante 15
+pica-pau788: posts the ante 15
+lightwave123: posts the ante 15
+ExXxtazZz: posts the ante 15
+AlteDame1892: posts the ante 15
+Trasimene2: posts the ante 15
+TulioMB: posts the ante 15
+Dudlove: posts the ante 15
+Montydu: posts the ante 15
+Dudlove: posts small blind 75
+Montydu: posts big blind 150
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3d 5c]
+ollikahn23: folds 
+pica-pau788: folds 
+lightwave123: folds 
+ExXxtazZz: folds 
+AlteDame1892: raises 225 to 375
+Trasimene2: folds 
+TulioMB: folds 
+Dudlove: folds 
+Montydu: calls 225
+*** FLOP *** [8s 9h Qc]
+Montydu: checks 
+AlteDame1892: checks 
+*** TURN *** [8s 9h Qc] [4d]
+Montydu: checks 
+AlteDame1892: bets 288
+Montydu: calls 288
+*** RIVER *** [8s 9h Qc 4d] [Js]
+Montydu: checks 
+AlteDame1892: bets 461
+Montydu: raises 1281 to 1742 and is all-in
+AlteDame1892: calls 1281
+*** SHOW DOWN ***
+Montydu: shows [3c Ts] (a straight, Eight to Queen)
+AlteDame1892: shows [8c Tc] (a straight, Eight to Queen)
+Montydu collected 2510 from pot
+AlteDame1892 collected 2510 from pot
+*** SUMMARY ***
+Total pot 5020 | Rake 0 
+Board [8s 9h Qc 4d Js]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: pica-pau788 folded before Flop (didn't bet)
+Seat 3: lightwave123 folded before Flop (didn't bet)
+Seat 4: ExXxtazZz folded before Flop (didn't bet)
+Seat 5: AlteDame1892 showed [8c Tc] and won (2510) with a straight, Eight to Queen
+Seat 6: Trasimene2 folded before Flop (didn't bet)
+Seat 7: TulioMB (button) folded before Flop (didn't bet)
+Seat 8: Dudlove (small blind) folded before Flop
+Seat 9: Montydu (big blind) showed [3c Ts] and won (2510) with a straight, Eight to Queen
+
+
+
+PokerStars Hand #184040355616: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level V (75/150) - 2018/03/18 16:36:17 ET
+Table '2253360261 10' 9-max Seat #8 is the button
+Seat 1: ollikahn23 (1242 in chips) 
+Seat 2: pica-pau788 (5217 in chips) 
+Seat 3: lightwave123 (3036 in chips) 
+Seat 4: ExXxtazZz (1621 in chips) 
+Seat 5: AlteDame1892 (5048 in chips) 
+Seat 6: Trasimene2 (1574 in chips) 
+Seat 7: TulioMB (8922 in chips) 
+Seat 8: Dudlove (2179 in chips) 
+Seat 9: Montydu (2510 in chips) 
+ollikahn23: posts the ante 15
+pica-pau788: posts the ante 15
+lightwave123: posts the ante 15
+ExXxtazZz: posts the ante 15
+AlteDame1892: posts the ante 15
+Trasimene2: posts the ante 15
+TulioMB: posts the ante 15
+Dudlove: posts the ante 15
+Montydu: posts the ante 15
+Montydu: posts small blind 75
+ollikahn23: posts big blind 150
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jd Qc]
+pica-pau788: folds 
+lightwave123: raises 300 to 450
+ExXxtazZz: folds 
+AlteDame1892: folds 
+Trasimene2: folds 
+TulioMB: folds 
+Dudlove: folds 
+Montydu: raises 2045 to 2495 and is all-in
+ollikahn23: folds 
+lightwave123: calls 2045
+*** FLOP *** [4c Qh 9c]
+*** TURN *** [4c Qh 9c] [6s]
+*** RIVER *** [4c Qh 9c 6s] [9d]
+*** SHOW DOWN ***
+Montydu: shows [Jh Jc] (two pair, Jacks and Nines)
+lightwave123: shows [As 9s] (three of a kind, Nines)
+lightwave123 collected 5275 from pot
+Montydu finished the tournament in 42nd place
+*** SUMMARY ***
+Total pot 5275 | Rake 0 
+Board [4c Qh 9c 6s 9d]
+Seat 1: ollikahn23 (big blind) folded before Flop
+Seat 2: pica-pau788 folded before Flop (didn't bet)
+Seat 3: lightwave123 showed [As 9s] and won (5275) with three of a kind, Nines
+Seat 4: ExXxtazZz folded before Flop (didn't bet)
+Seat 5: AlteDame1892 folded before Flop (didn't bet)
+Seat 6: Trasimene2 folded before Flop (didn't bet)
+Seat 7: TulioMB folded before Flop (didn't bet)
+Seat 8: Dudlove (button) folded before Flop (didn't bet)
+Seat 9: Montydu (small blind) showed [Jh Jc] and lost with two pair, Jacks and Nines
+
+
+
+PokerStars Hand #184040395572: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level V (75/150) - 2018/03/18 16:36:58 ET
+Table '2253360261 10' 9-max Seat #1 is the button
+Seat 1: ollikahn23 (1077 in chips) 
+Seat 2: pica-pau788 (5202 in chips) 
+Seat 3: lightwave123 (5801 in chips) 
+Seat 4: ExXxtazZz (1606 in chips) 
+Seat 5: AlteDame1892 (5033 in chips) 
+Seat 6: Trasimene2 (1559 in chips) 
+Seat 7: TulioMB (8907 in chips) 
+Seat 8: Dudlove (2164 in chips) 
+ollikahn23: posts the ante 15
+pica-pau788: posts the ante 15
+lightwave123: posts the ante 15
+ExXxtazZz: posts the ante 15
+AlteDame1892: posts the ante 15
+Trasimene2: posts the ante 15
+TulioMB: posts the ante 15
+Dudlove: posts the ante 15
+pica-pau788: posts small blind 75
+lightwave123: posts big blind 150
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6c Ac]
+ExXxtazZz: folds 
+AlteDame1892: folds 
+Trasimene2: folds 
+TulioMB: folds 
+Dudlove: folds 
+ollikahn23: raises 912 to 1062 and is all-in
+pica-pau788: folds 
+lightwave123: folds 
+Uncalled bet (912) returned to ollikahn23
+ollikahn23 collected 495 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 495 | Rake 0 
+Seat 1: ollikahn23 (button) collected (495)
+Seat 2: pica-pau788 (small blind) folded before Flop
+Seat 3: lightwave123 (big blind) folded before Flop
+Seat 4: ExXxtazZz folded before Flop (didn't bet)
+Seat 5: AlteDame1892 folded before Flop (didn't bet)
+Seat 6: Trasimene2 folded before Flop (didn't bet)
+Seat 7: TulioMB folded before Flop (didn't bet)
+Seat 8: Dudlove folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184040441456: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level V (75/150) - 2018/03/18 16:37:46 ET
+Table '2253360261 10' 9-max Seat #2 is the button
+Seat 1: ollikahn23 (1407 in chips) 
+Seat 2: pica-pau788 (5112 in chips) 
+Seat 3: lightwave123 (5636 in chips) 
+Seat 4: ExXxtazZz (1591 in chips) 
+Seat 5: AlteDame1892 (5018 in chips) 
+Seat 6: Trasimene2 (1544 in chips) 
+Seat 7: TulioMB (8892 in chips) 
+Seat 8: Dudlove (2149 in chips) 
+ollikahn23: posts the ante 15
+pica-pau788: posts the ante 15
+lightwave123: posts the ante 15
+ExXxtazZz: posts the ante 15
+AlteDame1892: posts the ante 15
+Trasimene2: posts the ante 15
+TulioMB: posts the ante 15
+Dudlove: posts the ante 15
+lightwave123: posts small blind 75
+ExXxtazZz: posts big blind 150
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Tc 7s]
+AlteDame1892: folds 
+Trasimene2: folds 
+TulioMB: raises 150 to 300
+Dudlove: folds 
+ollikahn23: folds 
+pica-pau788: folds 
+lightwave123: folds 
+ExXxtazZz: folds 
+Uncalled bet (150) returned to TulioMB
+TulioMB collected 495 from pot
+TulioMB: doesn't show hand 
+*** SUMMARY ***
+Total pot 495 | Rake 0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: pica-pau788 (button) folded before Flop (didn't bet)
+Seat 3: lightwave123 (small blind) folded before Flop
+Seat 4: ExXxtazZz (big blind) folded before Flop
+Seat 5: AlteDame1892 folded before Flop (didn't bet)
+Seat 6: Trasimene2 folded before Flop (didn't bet)
+Seat 7: TulioMB collected (495)
+Seat 8: Dudlove folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184040504370: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level V (75/150) - 2018/03/18 16:38:51 ET
+Table '2253360261 10' 9-max Seat #3 is the button
+Seat 1: ollikahn23 (1392 in chips) 
+Seat 2: pica-pau788 (5097 in chips) 
+Seat 3: lightwave123 (5546 in chips) 
+Seat 4: ExXxtazZz (1426 in chips) 
+Seat 5: AlteDame1892 (5003 in chips) 
+Seat 6: Trasimene2 (1529 in chips) 
+Seat 7: TulioMB (9222 in chips) 
+ollikahn23: posts the ante 15
+pica-pau788: posts the ante 15
+lightwave123: posts the ante 15
+ExXxtazZz: posts the ante 15
+AlteDame1892: posts the ante 15
+Trasimene2: posts the ante 15
+TulioMB: posts the ante 15
+ExXxtazZz: posts small blind 75
+AlteDame1892: posts big blind 150
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3c 4h]
+Trasimene2: raises 1364 to 1514 and is all-in
+TulioMB: folds 
+ollikahn23: folds 
+pica-pau788: folds 
+lightwave123: folds 
+ExXxtazZz: folds 
+AlteDame1892: folds 
+Uncalled bet (1364) returned to Trasimene2
+Trasimene2 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: pica-pau788 folded before Flop (didn't bet)
+Seat 3: lightwave123 (button) folded before Flop (didn't bet)
+Seat 4: ExXxtazZz (small blind) folded before Flop
+Seat 5: AlteDame1892 (big blind) folded before Flop
+Seat 6: Trasimene2 collected (480)
+Seat 7: TulioMB folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184040536087: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level V (75/150) - 2018/03/18 16:39:24 ET
+Table '2253360261 10' 9-max Seat #4 is the button
+Seat 1: ollikahn23 (1377 in chips) 
+Seat 2: pica-pau788 (5082 in chips) 
+Seat 3: lightwave123 (5531 in chips) 
+Seat 4: ExXxtazZz (1336 in chips) 
+Seat 5: AlteDame1892 (4838 in chips) 
+Seat 6: Trasimene2 (1844 in chips) 
+Seat 7: TulioMB (9207 in chips) 
+Seat 8: trololo_pl (4045 in chips) 
+Seat 9: BIGSLICKS09 (8053 in chips) 
+ollikahn23: posts the ante 15
+pica-pau788: posts the ante 15
+lightwave123: posts the ante 15
+ExXxtazZz: posts the ante 15
+AlteDame1892: posts the ante 15
+Trasimene2: posts the ante 15
+TulioMB: posts the ante 15
+trololo_pl: posts the ante 15
+BIGSLICKS09: posts the ante 15
+AlteDame1892: posts small blind 75
+Trasimene2: posts big blind 150
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jh Qc]
+TulioMB: folds 
+trololo_pl: folds 
+BIGSLICKS09: folds 
+ollikahn23: folds 
+pica-pau788: raises 180 to 330
+lightwave123: folds 
+ExXxtazZz: raises 991 to 1321 and is all-in
+AlteDame1892: folds 
+Trasimene2: raises 508 to 1829 and is all-in
+pica-pau788: calls 1499
+*** FLOP *** [Qh 7c 3d]
+*** TURN *** [Qh 7c 3d] [Kd]
+*** RIVER *** [Qh 7c 3d Kd] [Qs]
+*** SHOW DOWN ***
+Trasimene2: shows [As Ts] (a pair of Queens)
+pica-pau788: shows [Td Tc] (two pair, Queens and Tens)
+pica-pau788 collected 1016 from side pot
+ExXxtazZz: shows [8h 8s] (two pair, Queens and Eights)
+pica-pau788 collected 4173 from main pot
+Trasimene2 finished the tournament in 35th place
+ExXxtazZz finished the tournament in 36th place
+*** SUMMARY ***
+Total pot 5189 Main pot 4173. Side pot 1016. | Rake 0 
+Board [Qh 7c 3d Kd Qs]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: pica-pau788 showed [Td Tc] and won (5189) with two pair, Queens and Tens
+Seat 3: lightwave123 folded before Flop (didn't bet)
+Seat 4: ExXxtazZz (button) showed [8h 8s] and lost with two pair, Queens and Eights
+Seat 5: AlteDame1892 (small blind) folded before Flop
+Seat 6: Trasimene2 (big blind) showed [As Ts] and lost with a pair of Queens
+Seat 7: TulioMB folded before Flop (didn't bet)
+Seat 8: trololo_pl folded before Flop (didn't bet)
+Seat 9: BIGSLICKS09 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184040572127: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level V (75/150) - 2018/03/18 16:40:02 ET
+Table '2253360261 10' 9-max Seat #5 is the button
+Seat 1: ollikahn23 (1362 in chips) 
+Seat 2: pica-pau788 (8427 in chips) 
+Seat 3: lightwave123 (5516 in chips) 
+Seat 5: AlteDame1892 (4748 in chips) 
+Seat 7: TulioMB (9192 in chips) 
+Seat 8: trololo_pl (4030 in chips) 
+Seat 9: BIGSLICKS09 (8038 in chips) 
+ollikahn23: posts the ante 15
+pica-pau788: posts the ante 15
+lightwave123: posts the ante 15
+AlteDame1892: posts the ante 15
+TulioMB: posts the ante 15
+trololo_pl: posts the ante 15
+BIGSLICKS09: posts the ante 15
+TulioMB: posts small blind 75
+trololo_pl: posts big blind 150
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Td Th]
+BIGSLICKS09: folds 
+ollikahn23: raises 1197 to 1347 and is all-in
+pica-pau788: folds 
+lightwave123: folds 
+AlteDame1892: folds 
+TulioMB: folds 
+trololo_pl: folds 
+Uncalled bet (1197) returned to ollikahn23
+ollikahn23 collected 480 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Seat 1: ollikahn23 collected (480)
+Seat 2: pica-pau788 folded before Flop (didn't bet)
+Seat 3: lightwave123 folded before Flop (didn't bet)
+Seat 5: AlteDame1892 (button) folded before Flop (didn't bet)
+Seat 7: TulioMB (small blind) folded before Flop
+Seat 8: trololo_pl (big blind) folded before Flop
+Seat 9: BIGSLICKS09 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184040598760: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level V (75/150) - 2018/03/18 16:40:29 ET
+Table '2253360261 10' 9-max Seat #7 is the button
+Seat 1: ollikahn23 (1677 in chips) 
+Seat 2: pica-pau788 (8412 in chips) 
+Seat 3: lightwave123 (5501 in chips) 
+Seat 5: AlteDame1892 (4733 in chips) 
+Seat 6: drehds420 (1015 in chips) 
+Seat 7: TulioMB (9102 in chips) 
+Seat 8: trololo_pl (3865 in chips) 
+Seat 9: BIGSLICKS09 (8023 in chips) 
+ollikahn23: posts the ante 15
+pica-pau788: posts the ante 15
+lightwave123: posts the ante 15
+AlteDame1892: posts the ante 15
+drehds420: posts the ante 15
+TulioMB: posts the ante 15
+trololo_pl: posts the ante 15
+BIGSLICKS09: posts the ante 15
+trololo_pl: posts small blind 75
+BIGSLICKS09: posts big blind 150
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jc Ac]
+ollikahn23: raises 1512 to 1662 and is all-in
+pica-pau788: folds 
+lightwave123: folds 
+AlteDame1892: folds 
+drehds420: calls 1000 and is all-in
+TulioMB: folds 
+trololo_pl: folds 
+BIGSLICKS09: folds 
+Uncalled bet (662) returned to ollikahn23
+*** FLOP *** [Kc 2s 5c]
+*** TURN *** [Kc 2s 5c] [4s]
+*** RIVER *** [Kc 2s 5c 4s] [Th]
+*** SHOW DOWN ***
+ollikahn23: shows [Jc Ac] (high card Ace)
+drehds420: shows [Ad Qd] (high card Ace - King+Queen kicker)
+drehds420 collected 2345 from pot
+*** SUMMARY ***
+Total pot 2345 | Rake 0 
+Board [Kc 2s 5c 4s Th]
+Seat 1: ollikahn23 showed [Jc Ac] and lost with high card Ace
+Seat 2: pica-pau788 folded before Flop (didn't bet)
+Seat 3: lightwave123 folded before Flop (didn't bet)
+Seat 5: AlteDame1892 folded before Flop (didn't bet)
+Seat 6: drehds420 showed [Ad Qd] and won (2345) with high card Ace
+Seat 7: TulioMB (button) folded before Flop (didn't bet)
+Seat 8: trololo_pl (small blind) folded before Flop
+Seat 9: BIGSLICKS09 (big blind) folded before Flop
+
+
+
+PokerStars Hand #184040631706: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level V (75/150) - 2018/03/18 16:41:04 ET
+Table '2253360261 10' 9-max Seat #8 is the button
+Seat 1: ollikahn23 (662 in chips) 
+Seat 2: pica-pau788 (8397 in chips) 
+Seat 3: lightwave123 (5486 in chips) 
+Seat 5: AlteDame1892 (4718 in chips) 
+Seat 6: drehds420 (2345 in chips) 
+Seat 7: TulioMB (9087 in chips) 
+Seat 8: trololo_pl (3775 in chips) 
+Seat 9: BIGSLICKS09 (7858 in chips) 
+ollikahn23: posts the ante 15
+pica-pau788: posts the ante 15
+lightwave123: posts the ante 15
+AlteDame1892: posts the ante 15
+drehds420: posts the ante 15
+TulioMB: posts the ante 15
+trololo_pl: posts the ante 15
+BIGSLICKS09: posts the ante 15
+BIGSLICKS09: posts small blind 75
+ollikahn23: posts big blind 150
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qd 5s]
+pica-pau788: folds 
+lightwave123: folds 
+AlteDame1892: folds 
+drehds420: folds 
+TulioMB: folds 
+trololo_pl: folds 
+BIGSLICKS09: folds 
+Uncalled bet (75) returned to ollikahn23
+ollikahn23 collected 270 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 270 | Rake 0 
+Seat 1: ollikahn23 (big blind) collected (270)
+Seat 2: pica-pau788 folded before Flop (didn't bet)
+Seat 3: lightwave123 folded before Flop (didn't bet)
+Seat 5: AlteDame1892 folded before Flop (didn't bet)
+Seat 6: drehds420 folded before Flop (didn't bet)
+Seat 7: TulioMB folded before Flop (didn't bet)
+Seat 8: trololo_pl (button) folded before Flop (didn't bet)
+Seat 9: BIGSLICKS09 (small blind) folded before Flop
+
+
+
+PokerStars Hand #184040652311: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level V (75/150) - 2018/03/18 16:41:25 ET
+Table '2253360261 10' 9-max Seat #9 is the button
+Seat 1: ollikahn23 (842 in chips) 
+Seat 2: pica-pau788 (8382 in chips) 
+Seat 3: lightwave123 (5471 in chips) 
+Seat 5: AlteDame1892 (4703 in chips) 
+Seat 6: drehds420 (2330 in chips) 
+Seat 7: TulioMB (9072 in chips) 
+Seat 8: trololo_pl (3760 in chips) 
+Seat 9: BIGSLICKS09 (7768 in chips) 
+ollikahn23: posts the ante 15
+pica-pau788: posts the ante 15
+lightwave123: posts the ante 15
+AlteDame1892: posts the ante 15
+drehds420: posts the ante 15
+TulioMB: posts the ante 15
+trololo_pl: posts the ante 15
+BIGSLICKS09: posts the ante 15
+ollikahn23: posts small blind 75
+pica-pau788: posts big blind 150
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5d 6c]
+lightwave123: folds 
+AlteDame1892: folds 
+drehds420: folds 
+TulioMB: folds 
+trololo_pl: raises 225 to 375
+BIGSLICKS09: folds 
+ollikahn23: folds 
+pica-pau788: folds 
+Uncalled bet (225) returned to trololo_pl
+trololo_pl collected 495 from pot
+trololo_pl: doesn't show hand 
+*** SUMMARY ***
+Total pot 495 | Rake 0 
+Seat 1: ollikahn23 (small blind) folded before Flop
+Seat 2: pica-pau788 (big blind) folded before Flop
+Seat 3: lightwave123 folded before Flop (didn't bet)
+Seat 5: AlteDame1892 folded before Flop (didn't bet)
+Seat 6: drehds420 folded before Flop (didn't bet)
+Seat 7: TulioMB folded before Flop (didn't bet)
+Seat 8: trololo_pl collected (495)
+Seat 9: BIGSLICKS09 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184040687905: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level VI (100/200) - 2018/03/18 16:42:03 ET
+Table '2253360261 10' 9-max Seat #1 is the button
+Seat 1: ollikahn23 (752 in chips) 
+Seat 2: pica-pau788 (8217 in chips) 
+Seat 3: lightwave123 (5456 in chips) 
+Seat 5: AlteDame1892 (4688 in chips) 
+Seat 6: drehds420 (2315 in chips) 
+Seat 7: TulioMB (9057 in chips) 
+Seat 8: trololo_pl (4090 in chips) 
+Seat 9: BIGSLICKS09 (7753 in chips) 
+ollikahn23: posts the ante 20
+pica-pau788: posts the ante 20
+lightwave123: posts the ante 20
+AlteDame1892: posts the ante 20
+drehds420: posts the ante 20
+TulioMB: posts the ante 20
+trololo_pl: posts the ante 20
+BIGSLICKS09: posts the ante 20
+pica-pau788: posts small blind 100
+lightwave123: posts big blind 200
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9s 8c]
+AlteDame1892: raises 200 to 400
+drehds420 has timed out
+drehds420: folds 
+drehds420 is sitting out
+drehds420 has returned
+TulioMB: raises 600 to 1000
+trololo_pl: folds 
+BIGSLICKS09: folds 
+ollikahn23: folds 
+pica-pau788: folds 
+lightwave123: folds 
+AlteDame1892: folds 
+Uncalled bet (600) returned to TulioMB
+TulioMB collected 1260 from pot
+TulioMB: doesn't show hand 
+*** SUMMARY ***
+Total pot 1260 | Rake 0 
+Seat 1: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 2: pica-pau788 (small blind) folded before Flop
+Seat 3: lightwave123 (big blind) folded before Flop
+Seat 5: AlteDame1892 folded before Flop
+Seat 6: drehds420 folded before Flop (didn't bet)
+Seat 7: TulioMB collected (1260)
+Seat 8: trololo_pl folded before Flop (didn't bet)
+Seat 9: BIGSLICKS09 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184040757125: Tournament #2253360261, $4.10+$0.40 USD Hold'em No Limit - Level VI (100/200) - 2018/03/18 16:43:15 ET
+Table '2253360261 10' 9-max Seat #2 is the button
+Seat 1: ollikahn23 (732 in chips) 
+Seat 2: pica-pau788 (8097 in chips) 
+Seat 3: lightwave123 (5236 in chips) 
+Seat 5: AlteDame1892 (4268 in chips) 
+Seat 6: drehds420 (2295 in chips) 
+Seat 7: TulioMB (9897 in chips) 
+Seat 8: trololo_pl (4070 in chips) 
+Seat 9: BIGSLICKS09 (7733 in chips) 
+ollikahn23: posts the ante 20
+pica-pau788: posts the ante 20
+lightwave123: posts the ante 20
+AlteDame1892: posts the ante 20
+drehds420: posts the ante 20
+TulioMB: posts the ante 20
+trololo_pl: posts the ante 20
+BIGSLICKS09: posts the ante 20
+lightwave123: posts small blind 100
+AlteDame1892: posts big blind 200
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Tc Ts]
+drehds420: folds 
+TulioMB: folds 
+trololo_pl: folds 
+BIGSLICKS09: raises 200 to 400
+ollikahn23: raises 312 to 712 and is all-in
+pica-pau788: folds 
+lightwave123: calls 612
+AlteDame1892: folds 
+BIGSLICKS09: calls 312
+*** FLOP *** [4s 6s Ad]
+lightwave123: checks 
+BIGSLICKS09: bets 200
+lightwave123: calls 200
+*** TURN *** [4s 6s Ad] [6c]
+lightwave123: checks 
+BIGSLICKS09: checks 
+*** RIVER *** [4s 6s Ad 6c] [7d]
+lightwave123: checks 
+BIGSLICKS09: checks 
+*** SHOW DOWN ***
+lightwave123: shows [Kc Ah] (two pair, Aces and Sixes)
+BIGSLICKS09: mucks hand 
+lightwave123 collected 400 from side pot
+ollikahn23: mucks hand 
+lightwave123 collected 2496 from main pot
+ollikahn23 finished the tournament in 33rd place
+*** SUMMARY ***
+Total pot 2896 Main pot 2496. Side pot 400. | Rake 0 
+Board [4s 6s Ad 6c 7d]
+Seat 1: ollikahn23 mucked [Tc Ts]
+Seat 2: pica-pau788 (button) folded before Flop (didn't bet)
+Seat 3: lightwave123 (small blind) showed [Kc Ah] and won (2896) with two pair, Aces and Sixes
+Seat 5: AlteDame1892 (big blind) folded before Flop
+Seat 6: drehds420 folded before Flop (didn't bet)
+Seat 7: TulioMB folded before Flop (didn't bet)
+Seat 8: trololo_pl folded before Flop (didn't bet)
+Seat 9: BIGSLICKS09 mucked [Kh Qh]
+
+
+

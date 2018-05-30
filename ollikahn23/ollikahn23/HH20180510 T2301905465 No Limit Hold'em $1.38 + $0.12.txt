@@ -1,0 +1,1989 @@
+﻿PokerStars Hand #186265452494: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/11 0:04:34 CET [2018/05/10 18:04:34 ET]
+Table '2301905465 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1500 in chips) 
+Seat 2: tom_sketchi (1500 in chips) 
+ollikahn23: posts small blind 10
+tom_sketchi: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3h Td]
+ollikahn23: folds 
+Uncalled bet (10) returned to tom_sketchi
+tom_sketchi collected 20 from pot
+tom_sketchi: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) folded before Flop
+Seat 2: tom_sketchi (big blind) collected (20)
+
+
+
+PokerStars Hand #186265458012: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/11 0:04:42 CET [2018/05/10 18:04:42 ET]
+Table '2301905465 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1490 in chips) 
+Seat 2: tom_sketchi (1510 in chips) 
+tom_sketchi: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ac 2c]
+tom_sketchi: raises 34 to 54
+ollikahn23: calls 34
+*** FLOP *** [4c 5c Tc]
+ollikahn23: checks 
+tom_sketchi: checks 
+*** TURN *** [4c 5c Tc] [7h]
+ollikahn23: bets 85
+tom_sketchi: calls 85
+*** RIVER *** [4c 5c Tc 7h] [As]
+ollikahn23: bets 195
+tom_sketchi: folds 
+Uncalled bet (195) returned to ollikahn23
+ollikahn23 collected 278 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 278 | Rake 0 
+Board [4c 5c Tc 7h As]
+Seat 1: ollikahn23 (big blind) collected (278)
+Seat 2: tom_sketchi (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #186265488069: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/11 0:05:24 CET [2018/05/10 18:05:24 ET]
+Table '2301905465 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1629 in chips) 
+Seat 2: tom_sketchi (1371 in chips) 
+ollikahn23: posts small blind 10
+tom_sketchi: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9d Kc]
+ollikahn23: raises 20 to 40
+tom_sketchi: calls 20
+*** FLOP *** [8s Th 9h]
+tom_sketchi: checks 
+ollikahn23: bets 65
+tom_sketchi: folds 
+Uncalled bet (65) returned to ollikahn23
+ollikahn23 collected 80 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [8s Th 9h]
+Seat 1: ollikahn23 (button) (small blind) collected (80)
+Seat 2: tom_sketchi (big blind) folded on the Flop
+
+
+
+PokerStars Hand #186265511888: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/11 0:05:58 CET [2018/05/10 18:05:58 ET]
+Table '2301905465 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1669 in chips) 
+Seat 2: tom_sketchi (1331 in chips) 
+tom_sketchi: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ah 3c]
+tom_sketchi: folds 
+Uncalled bet (10) returned to ollikahn23
+ollikahn23 collected 20 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: ollikahn23 (big blind) collected (20)
+Seat 2: tom_sketchi (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #186265516264: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/11 0:06:05 CET [2018/05/10 18:06:05 ET]
+Table '2301905465 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1679 in chips) 
+Seat 2: tom_sketchi (1321 in chips) 
+ollikahn23: posts small blind 10
+tom_sketchi: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3c 9c]
+ollikahn23: folds 
+Uncalled bet (10) returned to tom_sketchi
+tom_sketchi collected 20 from pot
+tom_sketchi: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) folded before Flop
+Seat 2: tom_sketchi (big blind) collected (20)
+
+
+
+PokerStars Hand #186265520101: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/11 0:06:10 CET [2018/05/10 18:06:10 ET]
+Table '2301905465 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1669 in chips) 
+Seat 2: tom_sketchi (1331 in chips) 
+tom_sketchi: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6s 3d]
+tom_sketchi: raises 20 to 40
+ollikahn23: folds 
+Uncalled bet (20) returned to tom_sketchi
+tom_sketchi collected 40 from pot
+tom_sketchi: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ollikahn23 (big blind) folded before Flop
+Seat 2: tom_sketchi (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #186265532480: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/11 0:06:28 CET [2018/05/10 18:06:28 ET]
+Table '2301905465 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1649 in chips) 
+Seat 2: tom_sketchi (1351 in chips) 
+ollikahn23: posts small blind 10
+tom_sketchi: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jd 3h]
+ollikahn23: folds 
+Uncalled bet (10) returned to tom_sketchi
+tom_sketchi collected 20 from pot
+tom_sketchi: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) folded before Flop
+Seat 2: tom_sketchi (big blind) collected (20)
+
+
+
+PokerStars Hand #186265537380: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/11 0:06:35 CET [2018/05/10 18:06:35 ET]
+Table '2301905465 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1639 in chips) 
+Seat 2: tom_sketchi (1361 in chips) 
+tom_sketchi: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Td 5h]
+tom_sketchi: raises 34 to 54
+ollikahn23: folds 
+Uncalled bet (34) returned to tom_sketchi
+tom_sketchi collected 40 from pot
+tom_sketchi: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ollikahn23 (big blind) folded before Flop
+Seat 2: tom_sketchi (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #186265544157: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/11 0:06:45 CET [2018/05/10 18:06:45 ET]
+Table '2301905465 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1619 in chips) 
+Seat 2: tom_sketchi (1381 in chips) 
+ollikahn23: posts small blind 10
+tom_sketchi: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6h Ks]
+ollikahn23: raises 30 to 50
+tom_sketchi: folds 
+Uncalled bet (30) returned to ollikahn23
+ollikahn23 collected 40 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) collected (40)
+Seat 2: tom_sketchi (big blind) folded before Flop
+
+
+
+PokerStars Hand #186265552582: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/11 0:06:57 CET [2018/05/10 18:06:57 ET]
+Table '2301905465 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1639 in chips) 
+Seat 2: tom_sketchi (1361 in chips) 
+tom_sketchi: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2d 2h]
+tom_sketchi: folds 
+Uncalled bet (10) returned to ollikahn23
+ollikahn23 collected 20 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: ollikahn23 (big blind) collected (20)
+Seat 2: tom_sketchi (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #186265558720: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/11 0:07:05 CET [2018/05/10 18:07:05 ET]
+Table '2301905465 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1649 in chips) 
+Seat 2: tom_sketchi (1351 in chips) 
+ollikahn23: posts small blind 10
+tom_sketchi: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qc 2h]
+ollikahn23: raises 30 to 50
+tom_sketchi: calls 30
+*** FLOP *** [Ks Qd 6s]
+tom_sketchi: checks 
+ollikahn23: checks 
+*** TURN *** [Ks Qd 6s] [Ah]
+tom_sketchi: bets 39
+ollikahn23: calls 39
+*** RIVER *** [Ks Qd 6s Ah] [Td]
+tom_sketchi: bets 140
+ollikahn23: folds 
+Uncalled bet (140) returned to tom_sketchi
+tom_sketchi collected 178 from pot
+tom_sketchi: doesn't show hand 
+*** SUMMARY ***
+Total pot 178 | Rake 0 
+Board [Ks Qd 6s Ah Td]
+Seat 1: ollikahn23 (button) (small blind) folded on the River
+Seat 2: tom_sketchi (big blind) collected (178)
+
+
+
+PokerStars Hand #186265583524: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/11 0:07:41 CET [2018/05/10 18:07:41 ET]
+Table '2301905465 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1560 in chips) 
+Seat 2: tom_sketchi (1440 in chips) 
+tom_sketchi: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ts 8h]
+tom_sketchi said, "Oliver Kahn"
+tom_sketchi: raises 34 to 54
+tom_sketchi said, "best keeper ever!"
+ollikahn23 said, "yes man :)"
+ollikahn23: folds 
+Uncalled bet (34) returned to tom_sketchi
+tom_sketchi collected 40 from pot
+tom_sketchi: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ollikahn23 (big blind) folded before Flop
+Seat 2: tom_sketchi (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #186265600011: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/11 0:08:04 CET [2018/05/10 18:08:04 ET]
+Table '2301905465 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1540 in chips) 
+Seat 2: tom_sketchi (1460 in chips) 
+ollikahn23: posts small blind 10
+tom_sketchi: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8s Ks]
+ollikahn23: raises 35 to 55
+tom_sketchi: calls 35
+*** FLOP *** [3h 6s 6c]
+tom_sketchi: bets 20
+ollikahn23: raises 40 to 60
+tom_sketchi: raises 136 to 196
+ollikahn23: folds 
+Uncalled bet (136) returned to tom_sketchi
+tom_sketchi collected 230 from pot
+tom_sketchi: doesn't show hand 
+*** SUMMARY ***
+Total pot 230 | Rake 0 
+Board [3h 6s 6c]
+Seat 1: ollikahn23 (button) (small blind) folded on the Flop
+Seat 2: tom_sketchi (big blind) collected (230)
+
+
+
+PokerStars Hand #186265620948: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/11 0:08:34 CET [2018/05/10 18:08:34 ET]
+Table '2301905465 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1425 in chips) 
+Seat 2: tom_sketchi (1575 in chips) 
+tom_sketchi: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kd As]
+tom_sketchi: calls 10
+ollikahn23: raises 35 to 55
+tom_sketchi: calls 35
+*** FLOP *** [6h Qh Qd]
+ollikahn23: bets 65
+tom_sketchi: folds 
+Uncalled bet (65) returned to ollikahn23
+ollikahn23 collected 110 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 110 | Rake 0 
+Board [6h Qh Qd]
+Seat 1: ollikahn23 (big blind) collected (110)
+Seat 2: tom_sketchi (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #186265635370: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/11 0:08:55 CET [2018/05/10 18:08:55 ET]
+Table '2301905465 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1480 in chips) 
+Seat 2: tom_sketchi (1520 in chips) 
+ollikahn23: posts small blind 10
+tom_sketchi: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7c 3s]
+ollikahn23: folds 
+Uncalled bet (10) returned to tom_sketchi
+tom_sketchi collected 20 from pot
+tom_sketchi: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) folded before Flop
+Seat 2: tom_sketchi (big blind) collected (20)
+
+
+
+PokerStars Hand #186265639415: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/11 0:09:00 CET [2018/05/10 18:09:00 ET]
+Table '2301905465 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1470 in chips) 
+Seat 2: tom_sketchi (1530 in chips) 
+tom_sketchi: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7d Ah]
+tom_sketchi: raises 20 to 40
+ollikahn23: calls 20
+*** FLOP *** [6s 2d Kd]
+ollikahn23: checks 
+tom_sketchi: checks 
+*** TURN *** [6s 2d Kd] [Td]
+ollikahn23: checks 
+tom_sketchi: checks 
+*** RIVER *** [6s 2d Kd Td] [6c]
+ollikahn23: checks 
+tom_sketchi: checks 
+*** SHOW DOWN ***
+ollikahn23: shows [7d Ah] (a pair of Sixes)
+tom_sketchi: mucks hand 
+ollikahn23 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [6s 2d Kd Td 6c]
+Seat 1: ollikahn23 (big blind) showed [7d Ah] and won (80) with a pair of Sixes
+Seat 2: tom_sketchi (button) (small blind) mucked [3s 7s]
+
+
+
+PokerStars Hand #186265672337: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/11 0:09:48 CET [2018/05/10 18:09:48 ET]
+Table '2301905465 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1510 in chips) 
+Seat 2: tom_sketchi (1490 in chips) 
+ollikahn23: posts small blind 10
+tom_sketchi: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2s 2d]
+ollikahn23: raises 35 to 55
+tom_sketchi: calls 35
+*** FLOP *** [9s Qs Ac]
+tom_sketchi: checks 
+ollikahn23: bets 65
+tom_sketchi: folds 
+Uncalled bet (65) returned to ollikahn23
+ollikahn23 collected 110 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 110 | Rake 0 
+Board [9s Qs Ac]
+Seat 1: ollikahn23 (button) (small blind) collected (110)
+Seat 2: tom_sketchi (big blind) folded on the Flop
+
+
+
+PokerStars Hand #186265691293: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/11 0:10:15 CET [2018/05/10 18:10:15 ET]
+Table '2301905465 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1565 in chips) 
+Seat 2: tom_sketchi (1435 in chips) 
+tom_sketchi: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jd 3h]
+tom_sketchi: raises 34 to 54
+ollikahn23: folds 
+Uncalled bet (34) returned to tom_sketchi
+tom_sketchi collected 40 from pot
+tom_sketchi: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ollikahn23 (big blind) folded before Flop
+Seat 2: tom_sketchi (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #186265696518: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/11 0:10:23 CET [2018/05/10 18:10:23 ET]
+Table '2301905465 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1545 in chips) 
+Seat 2: tom_sketchi (1455 in chips) 
+ollikahn23: posts small blind 10
+tom_sketchi: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jh Qc]
+ollikahn23: raises 35 to 55
+tom_sketchi: calls 35
+*** FLOP *** [8s Kd 3s]
+tom_sketchi: checks 
+ollikahn23: checks 
+*** TURN *** [8s Kd 3s] [Ad]
+tom_sketchi: bets 65
+ollikahn23: raises 90 to 155
+tom_sketchi: folds 
+Uncalled bet (90) returned to ollikahn23
+ollikahn23 collected 240 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [8s Kd 3s Ad]
+Seat 1: ollikahn23 (button) (small blind) collected (240)
+Seat 2: tom_sketchi (big blind) folded on the Turn
+
+
+
+PokerStars Hand #186265733851: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/11 0:11:17 CET [2018/05/10 18:11:17 ET]
+Table '2301905465 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1665 in chips) 
+Seat 2: tom_sketchi (1335 in chips) 
+tom_sketchi: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2c Ac]
+tom_sketchi: raises 51 to 81
+ollikahn23: calls 51
+*** FLOP *** [7d As 6s]
+ollikahn23: checks 
+tom_sketchi: bets 96
+ollikahn23: calls 96
+*** TURN *** [7d As 6s] [6d]
+ollikahn23: checks 
+tom_sketchi: bets 209
+ollikahn23: calls 209
+*** RIVER *** [7d As 6s 6d] [8d]
+ollikahn23: checks 
+tom_sketchi: checks 
+*** SHOW DOWN ***
+ollikahn23: shows [2c Ac] (two pair, Aces and Sixes)
+tom_sketchi: mucks hand 
+ollikahn23 collected 772 from pot
+*** SUMMARY ***
+Total pot 772 | Rake 0 
+Board [7d As 6s 6d 8d]
+Seat 1: ollikahn23 (big blind) showed [2c Ac] and won (772) with two pair, Aces and Sixes
+Seat 2: tom_sketchi (button) (small blind) mucked [Kh 9d]
+
+
+
+PokerStars Hand #186265750889: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/11 0:11:42 CET [2018/05/10 18:11:42 ET]
+Table '2301905465 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (2051 in chips) 
+Seat 2: tom_sketchi (949 in chips) 
+ollikahn23: posts small blind 15
+tom_sketchi: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [As 8h]
+ollikahn23: raises 30 to 60
+tom_sketchi: calls 30
+*** FLOP *** [9d 8c Kd]
+tom_sketchi: bets 47
+ollikahn23: raises 68 to 115
+tom_sketchi: calls 68
+*** TURN *** [9d 8c Kd] [Jc]
+tom_sketchi: checks 
+ollikahn23: checks 
+*** RIVER *** [9d 8c Kd Jc] [3c]
+tom_sketchi: bets 207
+ollikahn23: folds 
+Uncalled bet (207) returned to tom_sketchi
+tom_sketchi collected 350 from pot
+tom_sketchi: doesn't show hand 
+*** SUMMARY ***
+Total pot 350 | Rake 0 
+Board [9d 8c Kd Jc 3c]
+Seat 1: ollikahn23 (button) (small blind) folded on the River
+Seat 2: tom_sketchi (big blind) collected (350)
+
+
+
+PokerStars Hand #186265790349: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/11 0:12:39 CET [2018/05/10 18:12:39 ET]
+Table '2301905465 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1876 in chips) 
+Seat 2: tom_sketchi (1124 in chips) 
+tom_sketchi: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3d 9h]
+tom_sketchi: folds 
+Uncalled bet (15) returned to ollikahn23
+ollikahn23 collected 30 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: ollikahn23 (big blind) collected (30)
+Seat 2: tom_sketchi (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #186265800845: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/11 0:12:54 CET [2018/05/10 18:12:54 ET]
+Table '2301905465 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1891 in chips) 
+Seat 2: tom_sketchi (1109 in chips) 
+ollikahn23: posts small blind 15
+tom_sketchi: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kd Ks]
+ollikahn23: raises 30 to 60
+tom_sketchi: calls 30
+*** FLOP *** [5s 8h 3c]
+tom_sketchi: checks 
+ollikahn23: checks 
+*** TURN *** [5s 8h 3c] [4s]
+tom_sketchi: checks 
+ollikahn23: bets 85
+tom_sketchi: raises 171 to 256
+ollikahn23: calls 171
+*** RIVER *** [5s 8h 3c 4s] [Qh]
+tom_sketchi: bets 373
+ollikahn23: calls 373
+*** SHOW DOWN ***
+tom_sketchi: shows [2c Ad] (a straight, Ace to Five)
+ollikahn23: mucks hand 
+tom_sketchi collected 1378 from pot
+*** SUMMARY ***
+Total pot 1378 | Rake 0 
+Board [5s 8h 3c 4s Qh]
+Seat 1: ollikahn23 (button) (small blind) mucked [Kd Ks]
+Seat 2: tom_sketchi (big blind) showed [2c Ad] and won (1378) with a straight, Ace to Five
+
+
+
+PokerStars Hand #186265826469: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/11 0:13:32 CET [2018/05/10 18:13:32 ET]
+Table '2301905465 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1202 in chips) 
+Seat 2: tom_sketchi (1798 in chips) 
+tom_sketchi: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kd Ac]
+tom_sketchi: folds 
+Uncalled bet (15) returned to ollikahn23
+ollikahn23 collected 30 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: ollikahn23 (big blind) collected (30)
+Seat 2: tom_sketchi (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #186265835073: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/11 0:13:45 CET [2018/05/10 18:13:45 ET]
+Table '2301905465 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1217 in chips) 
+Seat 2: tom_sketchi (1783 in chips) 
+ollikahn23: posts small blind 15
+tom_sketchi: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3s 4s]
+ollikahn23: folds 
+Uncalled bet (15) returned to tom_sketchi
+tom_sketchi collected 30 from pot
+tom_sketchi: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) folded before Flop
+Seat 2: tom_sketchi (big blind) collected (30)
+
+
+
+PokerStars Hand #186265839584: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/11 0:13:51 CET [2018/05/10 18:13:51 ET]
+Table '2301905465 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1202 in chips) 
+Seat 2: tom_sketchi (1798 in chips) 
+tom_sketchi: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9s 8s]
+tom_sketchi: raises 60 to 90
+ollikahn23: calls 60
+*** FLOP *** [Jc Jh 7d]
+ollikahn23: checks 
+tom_sketchi: bets 70
+ollikahn23: folds 
+Uncalled bet (70) returned to tom_sketchi
+tom_sketchi collected 180 from pot
+tom_sketchi: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Jc Jh 7d]
+Seat 1: ollikahn23 (big blind) folded on the Flop
+Seat 2: tom_sketchi (button) (small blind) collected (180)
+
+
+
+PokerStars Hand #186265867549: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/11 0:14:32 CET [2018/05/10 18:14:32 ET]
+Table '2301905465 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1112 in chips) 
+Seat 2: tom_sketchi (1888 in chips) 
+ollikahn23: posts small blind 15
+tom_sketchi: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6s 7d]
+ollikahn23: folds 
+Uncalled bet (15) returned to tom_sketchi
+tom_sketchi collected 30 from pot
+tom_sketchi: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) folded before Flop
+Seat 2: tom_sketchi (big blind) collected (30)
+
+
+
+PokerStars Hand #186265871328: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/11 0:14:38 CET [2018/05/10 18:14:38 ET]
+Table '2301905465 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1097 in chips) 
+Seat 2: tom_sketchi (1903 in chips) 
+tom_sketchi: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ks 3c]
+tom_sketchi: raises 51 to 81
+ollikahn23: folds 
+Uncalled bet (51) returned to tom_sketchi
+tom_sketchi collected 60 from pot
+tom_sketchi: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: ollikahn23 (big blind) folded before Flop
+Seat 2: tom_sketchi (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #186265887249: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/11 0:15:01 CET [2018/05/10 18:15:01 ET]
+Table '2301905465 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1067 in chips) 
+Seat 2: tom_sketchi (1933 in chips) 
+ollikahn23: posts small blind 15
+tom_sketchi: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kh 3h]
+ollikahn23: raises 32 to 62
+tom_sketchi: folds 
+Uncalled bet (32) returned to ollikahn23
+ollikahn23 collected 60 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) collected (60)
+Seat 2: tom_sketchi (big blind) folded before Flop
+
+
+
+PokerStars Hand #186265894754: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/11 0:15:13 CET [2018/05/10 18:15:13 ET]
+Table '2301905465 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1097 in chips) 
+Seat 2: tom_sketchi (1903 in chips) 
+tom_sketchi: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qd 2c]
+tom_sketchi: folds 
+Uncalled bet (15) returned to ollikahn23
+ollikahn23 collected 30 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: ollikahn23 (big blind) collected (30)
+Seat 2: tom_sketchi (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #186265898531: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/11 0:15:19 CET [2018/05/10 18:15:19 ET]
+Table '2301905465 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1112 in chips) 
+Seat 2: tom_sketchi (1888 in chips) 
+ollikahn23: posts small blind 15
+tom_sketchi: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3c 9h]
+ollikahn23: folds 
+Uncalled bet (15) returned to tom_sketchi
+tom_sketchi collected 30 from pot
+tom_sketchi: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) folded before Flop
+Seat 2: tom_sketchi (big blind) collected (30)
+
+
+
+PokerStars Hand #186265902279: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/11 0:15:24 CET [2018/05/10 18:15:24 ET]
+Table '2301905465 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1097 in chips) 
+Seat 2: tom_sketchi (1903 in chips) 
+tom_sketchi: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jc 7h]
+tom_sketchi: folds 
+Uncalled bet (15) returned to ollikahn23
+ollikahn23 collected 30 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: ollikahn23 (big blind) collected (30)
+Seat 2: tom_sketchi (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #186265908264: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/11 0:15:33 CET [2018/05/10 18:15:33 ET]
+Table '2301905465 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1112 in chips) 
+Seat 2: tom_sketchi (1888 in chips) 
+ollikahn23: posts small blind 15
+tom_sketchi: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5h 9d]
+ollikahn23: folds 
+Uncalled bet (15) returned to tom_sketchi
+tom_sketchi collected 30 from pot
+tom_sketchi: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) folded before Flop
+Seat 2: tom_sketchi (big blind) collected (30)
+
+
+
+PokerStars Hand #186265916308: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/11 0:15:45 CET [2018/05/10 18:15:45 ET]
+Table '2301905465 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1097 in chips) 
+Seat 2: tom_sketchi (1903 in chips) 
+tom_sketchi: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qc 7d]
+tom_sketchi: raises 42 to 72
+ollikahn23: folds 
+Uncalled bet (42) returned to tom_sketchi
+tom_sketchi collected 60 from pot
+tom_sketchi: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: ollikahn23 (big blind) folded before Flop
+Seat 2: tom_sketchi (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #186265925866: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/11 0:15:59 CET [2018/05/10 18:15:59 ET]
+Table '2301905465 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1067 in chips) 
+Seat 2: tom_sketchi (1933 in chips) 
+ollikahn23: posts small blind 15
+tom_sketchi: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9c 2d]
+ollikahn23: folds 
+Uncalled bet (15) returned to tom_sketchi
+tom_sketchi collected 30 from pot
+tom_sketchi: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) folded before Flop
+Seat 2: tom_sketchi (big blind) collected (30)
+
+
+
+PokerStars Hand #186265932521: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/11 0:16:09 CET [2018/05/10 18:16:09 ET]
+Table '2301905465 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1052 in chips) 
+Seat 2: tom_sketchi (1948 in chips) 
+tom_sketchi: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5d 2d]
+tom_sketchi: folds 
+Uncalled bet (15) returned to ollikahn23
+ollikahn23 collected 30 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: ollikahn23 (big blind) collected (30)
+Seat 2: tom_sketchi (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #186265937928: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/11 0:16:17 CET [2018/05/10 18:16:17 ET]
+Table '2301905465 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1067 in chips) 
+Seat 2: tom_sketchi (1933 in chips) 
+ollikahn23: posts small blind 15
+tom_sketchi: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3c Ad]
+ollikahn23: raises 32 to 62
+tom_sketchi: calls 32
+*** FLOP *** [Qs 7c 5d]
+tom_sketchi: checks 
+ollikahn23: bets 65
+tom_sketchi: calls 65
+*** TURN *** [Qs 7c 5d] [6c]
+tom_sketchi: checks 
+ollikahn23: checks 
+*** RIVER *** [Qs 7c 5d 6c] [2h]
+tom_sketchi: bets 99
+ollikahn23: calls 99
+*** SHOW DOWN ***
+tom_sketchi: shows [8c 8s] (a pair of Eights)
+ollikahn23: mucks hand 
+tom_sketchi collected 452 from pot
+*** SUMMARY ***
+Total pot 452 | Rake 0 
+Board [Qs 7c 5d 6c 2h]
+Seat 1: ollikahn23 (button) (small blind) mucked [3c Ad]
+Seat 2: tom_sketchi (big blind) showed [8c 8s] and won (452) with a pair of Eights
+
+
+
+PokerStars Hand #186265956459: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/05/11 0:16:45 CET [2018/05/10 18:16:45 ET]
+Table '2301905465 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (841 in chips) 
+Seat 2: tom_sketchi (2159 in chips) 
+tom_sketchi: posts small blind 20
+ollikahn23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jc 2d]
+tom_sketchi: folds 
+Uncalled bet (20) returned to ollikahn23
+ollikahn23 collected 40 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ollikahn23 (big blind) collected (40)
+Seat 2: tom_sketchi (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #186265960352: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/05/11 0:16:51 CET [2018/05/10 18:16:51 ET]
+Table '2301905465 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (861 in chips) 
+Seat 2: tom_sketchi (2139 in chips) 
+ollikahn23: posts small blind 20
+tom_sketchi: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [As 6c]
+ollikahn23: raises 42 to 82
+tom_sketchi: folds 
+Uncalled bet (42) returned to ollikahn23
+ollikahn23 collected 80 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) collected (80)
+Seat 2: tom_sketchi (big blind) folded before Flop
+
+
+
+PokerStars Hand #186265968357: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/05/11 0:17:03 CET [2018/05/10 18:17:03 ET]
+Table '2301905465 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (901 in chips) 
+Seat 2: tom_sketchi (2099 in chips) 
+tom_sketchi: posts small blind 20
+ollikahn23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ad Js]
+tom_sketchi: raises 68 to 108
+ollikahn23: calls 68
+*** FLOP *** [As Qd 8c]
+ollikahn23: checks 
+tom_sketchi: checks 
+*** TURN *** [As Qd 8c] [9s]
+ollikahn23: bets 111
+tom_sketchi: folds 
+Uncalled bet (111) returned to ollikahn23
+ollikahn23 collected 216 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 216 | Rake 0 
+Board [As Qd 8c 9s]
+Seat 1: ollikahn23 (big blind) collected (216)
+Seat 2: tom_sketchi (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #186265984195: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/05/11 0:17:26 CET [2018/05/10 18:17:26 ET]
+Table '2301905465 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1009 in chips) 
+Seat 2: tom_sketchi (1991 in chips) 
+ollikahn23: posts small blind 20
+tom_sketchi: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ah 8h]
+ollikahn23: raises 41 to 81
+tom_sketchi: calls 41
+*** FLOP *** [6c 6h Qd]
+tom_sketchi: checks 
+ollikahn23: checks 
+*** TURN *** [6c 6h Qd] [Kd]
+tom_sketchi: checks 
+ollikahn23: bets 88
+tom_sketchi: folds 
+Uncalled bet (88) returned to ollikahn23
+ollikahn23 collected 162 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 162 | Rake 0 
+Board [6c 6h Qd Kd]
+Seat 1: ollikahn23 (button) (small blind) collected (162)
+Seat 2: tom_sketchi (big blind) folded on the Turn
+
+
+
+PokerStars Hand #186266007127: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/05/11 0:18:01 CET [2018/05/10 18:18:01 ET]
+Table '2301905465 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1090 in chips) 
+Seat 2: tom_sketchi (1910 in chips) 
+tom_sketchi: posts small blind 20
+ollikahn23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7s 4s]
+tom_sketchi: raises 68 to 108
+ollikahn23: folds 
+Uncalled bet (68) returned to tom_sketchi
+tom_sketchi collected 80 from pot
+tom_sketchi: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: ollikahn23 (big blind) folded before Flop
+Seat 2: tom_sketchi (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #186266012396: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/05/11 0:18:09 CET [2018/05/10 18:18:09 ET]
+Table '2301905465 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1050 in chips) 
+Seat 2: tom_sketchi (1950 in chips) 
+ollikahn23: posts small blind 20
+tom_sketchi: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4h 7d]
+ollikahn23: folds 
+Uncalled bet (20) returned to tom_sketchi
+tom_sketchi collected 40 from pot
+tom_sketchi: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) folded before Flop
+Seat 2: tom_sketchi (big blind) collected (40)
+
+
+
+PokerStars Hand #186266016106: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/05/11 0:18:14 CET [2018/05/10 18:18:14 ET]
+Table '2301905465 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1030 in chips) 
+Seat 2: tom_sketchi (1970 in chips) 
+tom_sketchi: posts small blind 20
+ollikahn23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3h Tc]
+tom_sketchi: raises 40 to 80
+ollikahn23: folds 
+Uncalled bet (40) returned to tom_sketchi
+tom_sketchi collected 80 from pot
+tom_sketchi: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: ollikahn23 (big blind) folded before Flop
+Seat 2: tom_sketchi (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #186266020722: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/05/11 0:18:21 CET [2018/05/10 18:18:21 ET]
+Table '2301905465 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (990 in chips) 
+Seat 2: tom_sketchi (2010 in chips) 
+ollikahn23: posts small blind 20
+tom_sketchi: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qh 2h]
+ollikahn23: raises 42 to 82
+tom_sketchi: calls 42
+*** FLOP *** [4d 9d 8s]
+tom_sketchi: checks 
+ollikahn23: checks 
+*** TURN *** [4d 9d 8s] [9c]
+tom_sketchi: checks 
+ollikahn23: checks 
+*** RIVER *** [4d 9d 8s 9c] [Qc]
+tom_sketchi: checks 
+ollikahn23: bets 99
+tom_sketchi: calls 99
+*** SHOW DOWN ***
+ollikahn23: shows [Qh 2h] (two pair, Queens and Nines)
+tom_sketchi: mucks hand 
+ollikahn23 collected 362 from pot
+*** SUMMARY ***
+Total pot 362 | Rake 0 
+Board [4d 9d 8s 9c Qc]
+Seat 1: ollikahn23 (button) (small blind) showed [Qh 2h] and won (362) with two pair, Queens and Nines
+Seat 2: tom_sketchi (big blind) mucked [4c Jc]
+
+
+
+PokerStars Hand #186266042249: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/05/11 0:18:54 CET [2018/05/10 18:18:54 ET]
+Table '2301905465 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1171 in chips) 
+Seat 2: tom_sketchi (1829 in chips) 
+tom_sketchi: posts small blind 20
+ollikahn23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3c Jd]
+tom_sketchi: folds [6h]
+Uncalled bet (20) returned to ollikahn23
+ollikahn23 collected 40 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ollikahn23 (big blind) collected (40)
+Seat 2: tom_sketchi (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #186266050075: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/05/11 0:19:05 CET [2018/05/10 18:19:05 ET]
+Table '2301905465 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1191 in chips) 
+Seat 2: tom_sketchi (1809 in chips) 
+ollikahn23: posts small blind 20
+tom_sketchi: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jh 2c]
+ollikahn23: folds 
+Uncalled bet (20) returned to tom_sketchi
+tom_sketchi collected 40 from pot
+tom_sketchi: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) folded before Flop
+Seat 2: tom_sketchi (big blind) collected (40)
+
+
+
+PokerStars Hand #186266055678: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/05/11 0:19:13 CET [2018/05/10 18:19:13 ET]
+Table '2301905465 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1171 in chips) 
+Seat 2: tom_sketchi (1829 in chips) 
+tom_sketchi: posts small blind 20
+ollikahn23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8s Qc]
+tom_sketchi: folds 
+Uncalled bet (20) returned to ollikahn23
+ollikahn23 collected 40 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ollikahn23 (big blind) collected (40)
+Seat 2: tom_sketchi (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #186266060288: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/05/11 0:19:21 CET [2018/05/10 18:19:21 ET]
+Table '2301905465 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1191 in chips) 
+Seat 2: tom_sketchi (1809 in chips) 
+ollikahn23: posts small blind 20
+tom_sketchi: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ah 4s]
+ollikahn23: raises 44 to 84
+tom_sketchi: calls 44
+*** FLOP *** [2s 4h Qd]
+tom_sketchi: checks 
+ollikahn23: bets 89
+tom_sketchi: folds 
+Uncalled bet (89) returned to ollikahn23
+ollikahn23 collected 168 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 168 | Rake 0 
+Board [2s 4h Qd]
+Seat 1: ollikahn23 (button) (small blind) collected (168)
+Seat 2: tom_sketchi (big blind) folded on the Flop
+
+
+
+PokerStars Hand #186266074443: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/05/11 0:19:42 CET [2018/05/10 18:19:42 ET]
+Table '2301905465 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1275 in chips) 
+Seat 2: tom_sketchi (1725 in chips) 
+tom_sketchi: posts small blind 20
+ollikahn23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8s As]
+tom_sketchi: folds 
+Uncalled bet (20) returned to ollikahn23
+ollikahn23 collected 40 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ollikahn23 (big blind) collected (40)
+Seat 2: tom_sketchi (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #186266080721: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/05/11 0:19:51 CET [2018/05/10 18:19:51 ET]
+Table '2301905465 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1295 in chips) 
+Seat 2: tom_sketchi (1705 in chips) 
+ollikahn23: posts small blind 20
+tom_sketchi: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5h 3h]
+ollikahn23: folds 
+Uncalled bet (20) returned to tom_sketchi
+tom_sketchi collected 40 from pot
+tom_sketchi: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) folded before Flop
+Seat 2: tom_sketchi (big blind) collected (40)
+
+
+
+PokerStars Hand #186266085468: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/05/11 0:19:58 CET [2018/05/10 18:19:58 ET]
+Table '2301905465 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1275 in chips) 
+Seat 2: tom_sketchi (1725 in chips) 
+tom_sketchi: posts small blind 20
+ollikahn23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Th 6h]
+tom_sketchi: folds 
+Uncalled bet (20) returned to ollikahn23
+ollikahn23 collected 40 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ollikahn23 (big blind) collected (40)
+Seat 2: tom_sketchi (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #186266091160: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/05/11 0:20:07 CET [2018/05/10 18:20:07 ET]
+Table '2301905465 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1295 in chips) 
+Seat 2: tom_sketchi (1705 in chips) 
+ollikahn23: posts small blind 20
+tom_sketchi: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5s Td]
+ollikahn23: folds 
+Uncalled bet (20) returned to tom_sketchi
+tom_sketchi collected 40 from pot
+tom_sketchi: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) folded before Flop
+Seat 2: tom_sketchi (big blind) collected (40)
+
+
+
+PokerStars Hand #186266094757: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/05/11 0:20:13 CET [2018/05/10 18:20:13 ET]
+Table '2301905465 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1275 in chips) 
+Seat 2: tom_sketchi (1725 in chips) 
+tom_sketchi: posts small blind 20
+ollikahn23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ts 4c]
+tom_sketchi: raises 68 to 108
+ollikahn23: folds 
+Uncalled bet (68) returned to tom_sketchi
+tom_sketchi collected 80 from pot
+tom_sketchi: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: ollikahn23 (big blind) folded before Flop
+Seat 2: tom_sketchi (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #186266103196: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/05/11 0:20:25 CET [2018/05/10 18:20:25 ET]
+Table '2301905465 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1235 in chips) 
+Seat 2: tom_sketchi (1765 in chips) 
+ollikahn23: posts small blind 20
+tom_sketchi: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Td 3h]
+ollikahn23: folds 
+Uncalled bet (20) returned to tom_sketchi
+tom_sketchi collected 40 from pot
+tom_sketchi: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) folded before Flop
+Seat 2: tom_sketchi (big blind) collected (40)
+
+
+
+PokerStars Hand #186266106515: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/05/11 0:20:30 CET [2018/05/10 18:20:30 ET]
+Table '2301905465 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1215 in chips) 
+Seat 2: tom_sketchi (1785 in chips) 
+tom_sketchi: posts small blind 20
+ollikahn23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jc 7h]
+tom_sketchi: raises 40 to 80
+ollikahn23: folds 
+Uncalled bet (40) returned to tom_sketchi
+tom_sketchi collected 80 from pot
+tom_sketchi: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: ollikahn23 (big blind) folded before Flop
+Seat 2: tom_sketchi (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #186266117238: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/05/11 0:20:47 CET [2018/05/10 18:20:47 ET]
+Table '2301905465 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1175 in chips) 
+Seat 2: tom_sketchi (1825 in chips) 
+ollikahn23: posts small blind 20
+tom_sketchi: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3s As]
+ollikahn23: raises 43 to 83
+tom_sketchi: folds 
+Uncalled bet (43) returned to ollikahn23
+ollikahn23 collected 80 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) collected (80)
+Seat 2: tom_sketchi (big blind) folded before Flop
+
+
+
+PokerStars Hand #186266127770: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/05/11 0:21:03 CET [2018/05/10 18:21:03 ET]
+Table '2301905465 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1215 in chips) 
+Seat 2: tom_sketchi (1785 in chips) 
+tom_sketchi: posts small blind 20
+ollikahn23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8s 2s]
+tom_sketchi: folds 
+Uncalled bet (20) returned to ollikahn23
+ollikahn23 collected 40 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ollikahn23 (big blind) collected (40)
+Seat 2: tom_sketchi (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #186266133179: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/05/11 0:21:11 CET [2018/05/10 18:21:11 ET]
+Table '2301905465 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1235 in chips) 
+Seat 2: tom_sketchi (1765 in chips) 
+ollikahn23: posts small blind 20
+tom_sketchi: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2h 3c]
+ollikahn23: folds 
+Uncalled bet (20) returned to tom_sketchi
+tom_sketchi collected 40 from pot
+tom_sketchi: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) folded before Flop
+Seat 2: tom_sketchi (big blind) collected (40)
+
+
+
+PokerStars Hand #186266138014: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/05/11 0:21:18 CET [2018/05/10 18:21:18 ET]
+Table '2301905465 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1215 in chips) 
+Seat 2: tom_sketchi (1785 in chips) 
+tom_sketchi: posts small blind 20
+ollikahn23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4d 8d]
+tom_sketchi: folds 
+Uncalled bet (20) returned to ollikahn23
+ollikahn23 collected 40 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ollikahn23 (big blind) collected (40)
+Seat 2: tom_sketchi (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #186266147519: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/05/11 0:21:33 CET [2018/05/10 18:21:33 ET]
+Table '2301905465 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1235 in chips) 
+Seat 2: tom_sketchi (1765 in chips) 
+ollikahn23: posts small blind 20
+tom_sketchi: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ah 4s]
+ollikahn23: raises 43 to 83
+tom_sketchi: raises 166 to 249
+ollikahn23: folds 
+Uncalled bet (166) returned to tom_sketchi
+tom_sketchi collected 166 from pot
+tom_sketchi: doesn't show hand 
+*** SUMMARY ***
+Total pot 166 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) folded before Flop
+Seat 2: tom_sketchi (big blind) collected (166)
+
+
+
+PokerStars Hand #186266157059: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/05/11 0:21:47 CET [2018/05/10 18:21:47 ET]
+Table '2301905465 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1152 in chips) 
+Seat 2: tom_sketchi (1848 in chips) 
+tom_sketchi: posts small blind 20
+ollikahn23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7d Jc]
+tom_sketchi: folds 
+Uncalled bet (20) returned to ollikahn23
+ollikahn23 collected 40 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ollikahn23 (big blind) collected (40)
+Seat 2: tom_sketchi (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #186266160544: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/05/11 0:21:52 CET [2018/05/10 18:21:52 ET]
+Table '2301905465 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1172 in chips) 
+Seat 2: tom_sketchi (1828 in chips) 
+ollikahn23: posts small blind 20
+tom_sketchi: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qs 3c]
+ollikahn23: raises 43 to 83
+tom_sketchi: calls 43
+*** FLOP *** [2h As 8c]
+tom_sketchi: checks 
+ollikahn23: checks 
+*** TURN *** [2h As 8c] [6c]
+tom_sketchi: bets 65
+ollikahn23: raises 79 to 144
+tom_sketchi: calls 79
+*** RIVER *** [2h As 8c 6c] [Js]
+tom_sketchi: checks 
+ollikahn23: bets 322
+tom_sketchi: calls 322
+*** SHOW DOWN ***
+ollikahn23: shows [Qs 3c] (high card Ace)
+tom_sketchi: shows [Ac 7d] (a pair of Aces)
+tom_sketchi collected 1098 from pot
+*** SUMMARY ***
+Total pot 1098 | Rake 0 
+Board [2h As 8c 6c Js]
+Seat 1: ollikahn23 (button) (small blind) showed [Qs 3c] and lost with high card Ace
+Seat 2: tom_sketchi (big blind) showed [Ac 7d] and won (1098) with a pair of Aces
+
+
+
+PokerStars Hand #186266191264: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/05/11 0:22:39 CET [2018/05/10 18:22:39 ET]
+Table '2301905465 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (623 in chips) 
+Seat 2: tom_sketchi (2377 in chips) 
+tom_sketchi: posts small blind 25
+ollikahn23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qs 4s]
+tom_sketchi: folds 
+Uncalled bet (25) returned to ollikahn23
+ollikahn23 collected 50 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: ollikahn23 (big blind) collected (50)
+Seat 2: tom_sketchi (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #186266200445: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/05/11 0:22:53 CET [2018/05/10 18:22:53 ET]
+Table '2301905465 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (648 in chips) 
+Seat 2: tom_sketchi (2352 in chips) 
+ollikahn23: posts small blind 25
+tom_sketchi: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8s 7s]
+ollikahn23: folds 
+Uncalled bet (25) returned to tom_sketchi
+tom_sketchi collected 50 from pot
+tom_sketchi: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) folded before Flop
+Seat 2: tom_sketchi (big blind) collected (50)
+
+
+
+PokerStars Hand #186266206852: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/05/11 0:23:02 CET [2018/05/10 18:23:02 ET]
+Table '2301905465 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (623 in chips) 
+Seat 2: tom_sketchi (2377 in chips) 
+tom_sketchi: posts small blind 25
+ollikahn23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9c Qd]
+tom_sketchi: raises 85 to 135
+ollikahn23: folds 
+Uncalled bet (85) returned to tom_sketchi
+tom_sketchi collected 100 from pot
+tom_sketchi: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: ollikahn23 (big blind) folded before Flop
+Seat 2: tom_sketchi (button) (small blind) collected (100)
+
+
+
+PokerStars Hand #186266214381: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/05/11 0:23:14 CET [2018/05/10 18:23:14 ET]
+Table '2301905465 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (573 in chips) 
+Seat 2: tom_sketchi (2427 in chips) 
+ollikahn23: posts small blind 25
+tom_sketchi: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6d 4s]
+ollikahn23: folds 
+Uncalled bet (25) returned to tom_sketchi
+tom_sketchi collected 50 from pot
+tom_sketchi: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) folded before Flop
+Seat 2: tom_sketchi (big blind) collected (50)
+
+
+
+PokerStars Hand #186266220598: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/05/11 0:23:23 CET [2018/05/10 18:23:23 ET]
+Table '2301905465 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (548 in chips) 
+Seat 2: tom_sketchi (2452 in chips) 
+tom_sketchi: posts small blind 25
+ollikahn23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kc Ac]
+tom_sketchi: calls 25
+ollikahn23: raises 65 to 115
+tom_sketchi: calls 65
+*** FLOP *** [Qc Th Js]
+ollikahn23: bets 120
+tom_sketchi: calls 120
+*** TURN *** [Qc Th Js] [3c]
+ollikahn23: checks 
+tom_sketchi: bets 183
+ollikahn23: raises 130 to 313 and is all-in
+tom_sketchi: calls 130
+*** RIVER *** [Qc Th Js 3c] [6c]
+*** SHOW DOWN ***
+ollikahn23: shows [Kc Ac] (a flush, Ace high)
+tom_sketchi: shows [9c 8s] (a straight, Eight to Queen)
+ollikahn23 collected 1096 from pot
+*** SUMMARY ***
+Total pot 1096 | Rake 0 
+Board [Qc Th Js 3c 6c]
+Seat 1: ollikahn23 (big blind) showed [Kc Ac] and won (1096) with a flush, Ace high
+Seat 2: tom_sketchi (button) (small blind) showed [9c 8s] and lost with a straight, Eight to Queen
+
+
+
+PokerStars Hand #186266242168: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/05/11 0:23:56 CET [2018/05/10 18:23:56 ET]
+Table '2301905465 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1096 in chips) 
+Seat 2: tom_sketchi (1904 in chips) 
+ollikahn23: posts small blind 25
+tom_sketchi: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4c 8d]
+tom_sketchi said, "nh lol"
+ollikahn23: folds 
+Uncalled bet (25) returned to tom_sketchi
+tom_sketchi said, "cooler"
+tom_sketchi collected 50 from pot
+tom_sketchi: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) folded before Flop
+Seat 2: tom_sketchi (big blind) collected (50)
+
+
+
+PokerStars Hand #186266245876: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/05/11 0:24:02 CET [2018/05/10 18:24:02 ET]
+Table '2301905465 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1071 in chips) 
+Seat 2: tom_sketchi (1929 in chips) 
+tom_sketchi: posts small blind 25
+ollikahn23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qs 4h]
+tom_sketchi: folds 
+Uncalled bet (25) returned to ollikahn23
+ollikahn23 collected 50 from pot
+ollikahn23: doesn't show hand 
+ollikahn23 said, "oh yes, sick 1"
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: ollikahn23 (big blind) collected (50)
+Seat 2: tom_sketchi (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #186266249694: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/05/11 0:24:08 CET [2018/05/10 18:24:08 ET]
+Table '2301905465 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1096 in chips) 
+Seat 2: tom_sketchi (1904 in chips) 
+ollikahn23: posts small blind 25
+tom_sketchi: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3h 4c]
+ollikahn23: folds 
+Uncalled bet (25) returned to tom_sketchi
+tom_sketchi collected 50 from pot
+tom_sketchi: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) folded before Flop
+Seat 2: tom_sketchi (big blind) collected (50)
+
+
+
+PokerStars Hand #186266254636: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/05/11 0:24:15 CET [2018/05/10 18:24:15 ET]
+Table '2301905465 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1071 in chips) 
+Seat 2: tom_sketchi (1929 in chips) 
+tom_sketchi: posts small blind 25
+ollikahn23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qd Ah]
+tom_sketchi: folds 
+Uncalled bet (25) returned to ollikahn23
+ollikahn23 collected 50 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: ollikahn23 (big blind) collected (50)
+Seat 2: tom_sketchi (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #186266258442: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/05/11 0:24:21 CET [2018/05/10 18:24:21 ET]
+Table '2301905465 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1096 in chips) 
+Seat 2: tom_sketchi (1904 in chips) 
+ollikahn23: posts small blind 25
+tom_sketchi: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jh 9c]
+ollikahn23: raises 51 to 101
+tom_sketchi: calls 51
+*** FLOP *** [7c Kc 3h]
+tom_sketchi: checks 
+ollikahn23: checks 
+*** TURN *** [7c Kc 3h] [5d]
+tom_sketchi: checks 
+ollikahn23: bets 105
+tom_sketchi: folds 
+Uncalled bet (105) returned to ollikahn23
+ollikahn23 collected 202 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 202 | Rake 0 
+Board [7c Kc 3h 5d]
+Seat 1: ollikahn23 (button) (small blind) collected (202)
+Seat 2: tom_sketchi (big blind) folded on the Turn
+
+
+
+PokerStars Hand #186266283139: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/05/11 0:24:59 CET [2018/05/10 18:24:59 ET]
+Table '2301905465 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1197 in chips) 
+Seat 2: tom_sketchi (1803 in chips) 
+tom_sketchi: posts small blind 25
+ollikahn23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jd 4c]
+tom_sketchi: folds 
+Uncalled bet (25) returned to ollikahn23
+ollikahn23 collected 50 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: ollikahn23 (big blind) collected (50)
+Seat 2: tom_sketchi (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #186266289970: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/05/11 0:25:09 CET [2018/05/10 18:25:09 ET]
+Table '2301905465 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1222 in chips) 
+Seat 2: tom_sketchi (1778 in chips) 
+ollikahn23: posts small blind 25
+tom_sketchi: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3c 8s]
+ollikahn23: folds 
+Uncalled bet (25) returned to tom_sketchi
+tom_sketchi collected 50 from pot
+tom_sketchi: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) folded before Flop
+Seat 2: tom_sketchi (big blind) collected (50)
+
+
+
+PokerStars Hand #186266295300: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/05/11 0:25:17 CET [2018/05/10 18:25:17 ET]
+Table '2301905465 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1197 in chips) 
+Seat 2: tom_sketchi (1803 in chips) 
+tom_sketchi: posts small blind 25
+ollikahn23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2c Qd]
+tom_sketchi: raises 70 to 120
+ollikahn23: folds 
+Uncalled bet (70) returned to tom_sketchi
+tom_sketchi collected 100 from pot
+tom_sketchi: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: ollikahn23 (big blind) folded before Flop
+Seat 2: tom_sketchi (button) (small blind) collected (100)
+
+
+
+PokerStars Hand #186266304827: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/05/11 0:25:32 CET [2018/05/10 18:25:32 ET]
+Table '2301905465 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1147 in chips) 
+Seat 2: tom_sketchi (1853 in chips) 
+ollikahn23: posts small blind 25
+tom_sketchi: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kc 5d]
+ollikahn23: raises 51 to 101
+tom_sketchi: folds 
+Uncalled bet (51) returned to ollikahn23
+ollikahn23 collected 100 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) collected (100)
+Seat 2: tom_sketchi (big blind) folded before Flop
+
+
+
+PokerStars Hand #186266314678: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/05/11 0:25:47 CET [2018/05/10 18:25:47 ET]
+Table '2301905465 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1197 in chips) 
+Seat 2: tom_sketchi (1803 in chips) 
+tom_sketchi: posts small blind 25
+ollikahn23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kd 5s]
+tom_sketchi: folds 
+Uncalled bet (25) returned to ollikahn23
+ollikahn23 collected 50 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: ollikahn23 (big blind) collected (50)
+Seat 2: tom_sketchi (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #186266317956: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/05/11 0:25:52 CET [2018/05/10 18:25:52 ET]
+Table '2301905465 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1222 in chips) 
+Seat 2: tom_sketchi (1778 in chips) 
+ollikahn23: posts small blind 25
+tom_sketchi: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kc 5d]
+ollikahn23: raises 61 to 111
+tom_sketchi: folds 
+Uncalled bet (61) returned to ollikahn23
+ollikahn23 collected 100 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) collected (100)
+Seat 2: tom_sketchi (big blind) folded before Flop
+
+
+
+PokerStars Hand #186266324184: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/05/11 0:26:02 CET [2018/05/10 18:26:02 ET]
+Table '2301905465 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1272 in chips) 
+Seat 2: tom_sketchi (1728 in chips) 
+tom_sketchi: posts small blind 25
+ollikahn23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8c Tc]
+tom_sketchi: raises 100 to 150
+ollikahn23: calls 100
+*** FLOP *** [9h 7d 6c]
+ollikahn23: checks 
+tom_sketchi: bets 177
+ollikahn23: calls 177
+*** TURN *** [9h 7d 6c] [4s]
+ollikahn23: checks 
+tom_sketchi: bets 386
+ollikahn23: calls 386
+*** RIVER *** [9h 7d 6c 4s] [Jh]
+ollikahn23: bets 559 and is all-in
+tom_sketchi: calls 559
+*** SHOW DOWN ***
+ollikahn23: shows [8c Tc] (a straight, Seven to Jack)
+tom_sketchi: shows [7c 7h] (three of a kind, Sevens)
+ollikahn23 collected 2544 from pot
+*** SUMMARY ***
+Total pot 2544 | Rake 0 
+Board [9h 7d 6c 4s Jh]
+Seat 1: ollikahn23 (big blind) showed [8c Tc] and won (2544) with a straight, Seven to Jack
+Seat 2: tom_sketchi (button) (small blind) showed [7c 7h] and lost with three of a kind, Sevens
+
+
+
+PokerStars Hand #186266353890: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/05/11 0:26:48 CET [2018/05/10 18:26:48 ET]
+Table '2301905465 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (2544 in chips) 
+Seat 2: tom_sketchi (456 in chips) 
+ollikahn23: posts small blind 25
+tom_sketchi: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8s 6h]
+tom_sketchi said, "hahahah"
+tom_sketchi said, "nh"
+ollikahn23 said, "again.. sick 1"
+tom_sketchi said, "some right hands lol"
+ollikahn23 said, "but thx"
+tom_sketchi said, "haha"
+ollikahn23: folds 
+Uncalled bet (25) returned to tom_sketchi
+tom_sketchi collected 50 from pot
+tom_sketchi: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) folded before Flop
+Seat 2: tom_sketchi (big blind) collected (50)
+
+
+
+PokerStars Hand #186266367414: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/05/11 0:27:08 CET [2018/05/10 18:27:08 ET]
+Table '2301905465 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (2519 in chips) 
+Seat 2: tom_sketchi (481 in chips) 
+tom_sketchi: posts small blind 25
+ollikahn23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [As 8s]
+tom_sketchi: folds 
+Uncalled bet (25) returned to ollikahn23
+ollikahn23 collected 50 from pot
+ollikahn23: doesn't show hand 
+ollikahn23 said, "yeah timing is everything in HU"
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: ollikahn23 (big blind) collected (50)
+Seat 2: tom_sketchi (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #186266370808: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/05/11 0:27:14 CET [2018/05/10 18:27:14 ET]
+Table '2301905465 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (2544 in chips) 
+Seat 2: tom_sketchi (456 in chips) 
+ollikahn23: posts small blind 25
+tom_sketchi: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3c 9c]
+ollikahn23: folds 
+Uncalled bet (25) returned to tom_sketchi
+tom_sketchi said, "ye agrred"
+tom_sketchi collected 50 from pot
+tom_sketchi: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) folded before Flop
+Seat 2: tom_sketchi (big blind) collected (50)
+
+
+
+PokerStars Hand #186266376457: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/05/11 0:27:22 CET [2018/05/10 18:27:22 ET]
+Table '2301905465 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (2519 in chips) 
+Seat 2: tom_sketchi (481 in chips) 
+tom_sketchi: posts small blind 25
+ollikahn23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5h Kh]
+tom_sketchi said, "agreed"
+tom_sketchi: raises 85 to 135
+ollikahn23: folds 
+Uncalled bet (85) returned to tom_sketchi
+tom_sketchi collected 100 from pot
+tom_sketchi: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: ollikahn23 (big blind) folded before Flop
+Seat 2: tom_sketchi (button) (small blind) collected (100)
+
+
+
+PokerStars Hand #186266384637: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/05/11 0:27:35 CET [2018/05/10 18:27:35 ET]
+Table '2301905465 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (2469 in chips) 
+Seat 2: tom_sketchi (531 in chips) 
+ollikahn23: posts small blind 25
+tom_sketchi: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qh 4d]
+ollikahn23: raises 61 to 111
+tom_sketchi: calls 61
+*** FLOP *** [2s 6c 9h]
+tom_sketchi: checks 
+ollikahn23: checks 
+*** TURN *** [2s 6c 9h] [8s]
+tom_sketchi: bets 50
+ollikahn23: folds 
+Uncalled bet (50) returned to tom_sketchi
+tom_sketchi collected 222 from pot
+tom_sketchi: doesn't show hand 
+*** SUMMARY ***
+Total pot 222 | Rake 0 
+Board [2s 6c 9h 8s]
+Seat 1: ollikahn23 (button) (small blind) folded on the Turn
+Seat 2: tom_sketchi (big blind) collected (222)
+
+
+
+PokerStars Hand #186266410216: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/05/11 0:28:14 CET [2018/05/10 18:28:14 ET]
+Table '2301905465 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (2358 in chips) 
+Seat 2: tom_sketchi (642 in chips) 
+tom_sketchi: posts small blind 25
+ollikahn23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ac Kh]
+tom_sketchi: folds 
+Uncalled bet (25) returned to ollikahn23
+ollikahn23 collected 50 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: ollikahn23 (big blind) collected (50)
+Seat 2: tom_sketchi (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #186266419560: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/05/11 0:28:29 CET [2018/05/10 18:28:29 ET]
+Table '2301905465 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (2383 in chips) 
+Seat 2: tom_sketchi (617 in chips) 
+ollikahn23: posts small blind 25
+tom_sketchi: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4s Kc]
+ollikahn23: raises 61 to 111
+tom_sketchi: calls 61
+*** FLOP *** [8c Ts As]
+tom_sketchi: checks 
+ollikahn23: bets 123
+tom_sketchi: folds 
+Uncalled bet (123) returned to ollikahn23
+ollikahn23 collected 222 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 222 | Rake 0 
+Board [8c Ts As]
+Seat 1: ollikahn23 (button) (small blind) collected (222)
+Seat 2: tom_sketchi (big blind) folded on the Flop
+
+
+
+PokerStars Hand #186266434187: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level V (30/60) - 2018/05/11 0:28:52 CET [2018/05/10 18:28:52 ET]
+Table '2301905465 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (2494 in chips) 
+Seat 2: tom_sketchi (506 in chips) 
+tom_sketchi: posts small blind 30
+ollikahn23: posts big blind 60
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qd 7d]
+tom_sketchi: raises 102 to 162
+ollikahn23: folds 
+Uncalled bet (102) returned to tom_sketchi
+tom_sketchi collected 120 from pot
+tom_sketchi: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: ollikahn23 (big blind) folded before Flop
+Seat 2: tom_sketchi (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #186266440034: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level V (30/60) - 2018/05/11 0:29:00 CET [2018/05/10 18:29:00 ET]
+Table '2301905465 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (2434 in chips) 
+Seat 2: tom_sketchi (566 in chips) 
+ollikahn23: posts small blind 30
+tom_sketchi: posts big blind 60
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ad Ac]
+ollikahn23: raises 63 to 123
+tom_sketchi: folds 
+Uncalled bet (63) returned to ollikahn23
+ollikahn23 collected 120 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) collected (120)
+Seat 2: tom_sketchi (big blind) folded before Flop
+
+
+
+PokerStars Hand #186266447873: Tournament #2301905465, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level V (30/60) - 2018/05/11 0:29:13 CET [2018/05/10 18:29:13 ET]
+Table '2301905465 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (2494 in chips) 
+Seat 2: tom_sketchi (506 in chips) 
+tom_sketchi: posts small blind 30
+ollikahn23: posts big blind 60
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6s As]
+tom_sketchi: calls 30
+ollikahn23: raises 152 to 212
+tom_sketchi: calls 152
+*** FLOP *** [4h Ks 6c]
+ollikahn23: bets 212
+tom_sketchi said, "i cba so her we go lol"
+tom_sketchi: raises 82 to 294 and is all-in
+ollikahn23: calls 82
+*** TURN *** [4h Ks 6c] [8c]
+*** RIVER *** [4h Ks 6c 8c] [2d]
+*** SHOW DOWN ***
+ollikahn23: shows [6s As] (a pair of Sixes)
+tom_sketchi: shows [Qh 2h] (a pair of Deuces)
+ollikahn23 collected 1012 from pot
+tom_sketchi finished the tournament in 2nd place
+ollikahn23 wins the tournament and receives $2.76 - congratulations!
+ollikahn23 said, "gg"
+*** SUMMARY ***
+Total pot 1012 | Rake 0 
+Board [4h Ks 6c 8c 2d]
+Seat 1: ollikahn23 (big blind) showed [6s As] and won (1012) with a pair of Sixes
+Seat 2: tom_sketchi (button) (small blind) showed [Qh 2h] and lost with a pair of Deuces
+
+
+

@@ -1,0 +1,1139 @@
+﻿PokerStars Hand #186779890939: Tournament #2313237123, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/23 21:37:56 CET [2018/05/23 15:37:56 ET]
+Table '2313237123 1' 2-max Seat #1 is the button
+Seat 1: Leka Taim (1500 in chips) 
+Seat 2: ollikahn23 (1500 in chips) 
+Leka Taim: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3h Qh]
+Leka Taim: folds 
+Uncalled bet (10) returned to ollikahn23
+ollikahn23 collected 20 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Leka Taim (button) (small blind) folded before Flop
+Seat 2: ollikahn23 (big blind) collected (20)
+
+
+
+PokerStars Hand #186779896223: Tournament #2313237123, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/23 21:38:03 CET [2018/05/23 15:38:03 ET]
+Table '2313237123 1' 2-max Seat #2 is the button
+Seat 1: Leka Taim (1490 in chips) 
+Seat 2: ollikahn23 (1510 in chips) 
+ollikahn23: posts small blind 10
+Leka Taim: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3s Jd]
+ollikahn23 said, "sick semi bluff :/"
+ollikahn23: raises 25 to 45
+Leka Taim: calls 25
+*** FLOP *** [9s Ad Qs]
+Leka Taim: checks 
+ollikahn23: bets 55
+Leka Taim: calls 55
+*** TURN *** [9s Ad Qs] [9c]
+Leka Taim: checks 
+ollikahn23: checks 
+*** RIVER *** [9s Ad Qs 9c] [Tc]
+Leka Taim: checks 
+ollikahn23: checks 
+*** SHOW DOWN ***
+Leka Taim: shows [Qd Jc] (two pair, Queens and Nines)
+ollikahn23: mucks hand 
+Leka Taim collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [9s Ad Qs 9c Tc]
+Seat 1: Leka Taim (big blind) showed [Qd Jc] and won (200) with two pair, Queens and Nines
+Seat 2: ollikahn23 (button) (small blind) mucked [3s Jd]
+
+
+
+PokerStars Hand #186779922499: Tournament #2313237123, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/23 21:38:37 CET [2018/05/23 15:38:37 ET]
+Table '2313237123 1' 2-max Seat #1 is the button
+Seat 1: Leka Taim (1590 in chips) 
+Seat 2: ollikahn23 (1410 in chips) 
+Leka Taim: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [As 7h]
+Leka Taim: raises 24 to 44
+ollikahn23: calls 24
+*** FLOP *** [Qh 8d 3c]
+ollikahn23: checks 
+Leka Taim: bets 48
+ollikahn23: calls 48
+*** TURN *** [Qh 8d 3c] [4c]
+ollikahn23: checks 
+Leka Taim: checks 
+*** RIVER *** [Qh 8d 3c 4c] [Ks]
+ollikahn23: checks 
+Leka Taim: checks 
+*** SHOW DOWN ***
+ollikahn23: shows [As 7h] (high card Ace)
+Leka Taim: mucks hand 
+ollikahn23 collected 184 from pot
+*** SUMMARY ***
+Total pot 184 | Rake 0 
+Board [Qh 8d 3c 4c Ks]
+Seat 1: Leka Taim (button) (small blind) mucked [Jd Td]
+Seat 2: ollikahn23 (big blind) showed [As 7h] and won (184) with high card Ace
+
+
+
+PokerStars Hand #186779946762: Tournament #2313237123, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/23 21:39:09 CET [2018/05/23 15:39:09 ET]
+Table '2313237123 1' 2-max Seat #2 is the button
+Seat 1: Leka Taim (1498 in chips) 
+Seat 2: ollikahn23 (1502 in chips) 
+ollikahn23: posts small blind 10
+Leka Taim: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9h 4d]
+ollikahn23: folds 
+Uncalled bet (10) returned to Leka Taim
+Leka Taim collected 20 from pot
+Leka Taim: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Leka Taim (big blind) collected (20)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #186779952614: Tournament #2313237123, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/23 21:39:17 CET [2018/05/23 15:39:17 ET]
+Table '2313237123 1' 2-max Seat #1 is the button
+Seat 1: Leka Taim (1508 in chips) 
+Seat 2: ollikahn23 (1492 in chips) 
+Leka Taim: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5h 6h]
+Leka Taim: folds 
+Uncalled bet (10) returned to ollikahn23
+ollikahn23 collected 20 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Leka Taim (button) (small blind) folded before Flop
+Seat 2: ollikahn23 (big blind) collected (20)
+
+
+
+PokerStars Hand #186779958645: Tournament #2313237123, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/23 21:39:24 CET [2018/05/23 15:39:24 ET]
+Table '2313237123 1' 2-max Seat #2 is the button
+Seat 1: Leka Taim (1498 in chips) 
+Seat 2: ollikahn23 (1502 in chips) 
+ollikahn23: posts small blind 10
+Leka Taim: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3s Ts]
+ollikahn23: raises 25 to 45
+Leka Taim: raises 95 to 140
+ollikahn23: folds 
+Uncalled bet (95) returned to Leka Taim
+Leka Taim collected 90 from pot
+Leka Taim: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Seat 1: Leka Taim (big blind) collected (90)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #186779968790: Tournament #2313237123, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/23 21:39:38 CET [2018/05/23 15:39:38 ET]
+Table '2313237123 1' 2-max Seat #1 is the button
+Seat 1: Leka Taim (1543 in chips) 
+Seat 2: ollikahn23 (1457 in chips) 
+Leka Taim: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qs 9c]
+Leka Taim: raises 23 to 43
+ollikahn23: calls 23
+*** FLOP *** [Ad Js Td]
+ollikahn23: checks 
+Leka Taim: bets 34
+ollikahn23: raises 43 to 77
+Leka Taim: calls 43
+*** TURN *** [Ad Js Td] [3d]
+ollikahn23: checks 
+Leka Taim: checks 
+*** RIVER *** [Ad Js Td 3d] [Kh]
+ollikahn23: bets 177
+Leka Taim: folds 
+Uncalled bet (177) returned to ollikahn23
+ollikahn23 collected 240 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Ad Js Td 3d Kh]
+Seat 1: Leka Taim (button) (small blind) folded on the River
+Seat 2: ollikahn23 (big blind) collected (240)
+
+
+
+PokerStars Hand #186779997890: Tournament #2313237123, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/23 21:40:16 CET [2018/05/23 15:40:16 ET]
+Table '2313237123 1' 2-max Seat #2 is the button
+Seat 1: Leka Taim (1423 in chips) 
+Seat 2: ollikahn23 (1577 in chips) 
+ollikahn23: posts small blind 10
+Leka Taim: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kh 2c]
+ollikahn23: raises 25 to 45
+Leka Taim: calls 25
+*** FLOP *** [8h Ad 5d]
+Leka Taim: checks 
+ollikahn23: checks 
+*** TURN *** [8h Ad 5d] [7h]
+Leka Taim: checks 
+ollikahn23: bets 55
+Leka Taim: calls 55
+*** RIVER *** [8h Ad 5d 7h] [6c]
+Leka Taim: checks 
+ollikahn23: checks 
+*** SHOW DOWN ***
+Leka Taim: shows [8s Jh] (a pair of Eights)
+ollikahn23 has timed out
+ollikahn23: mucks hand 
+Leka Taim collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [8h Ad 5d 7h 6c]
+Seat 1: Leka Taim (big blind) showed [8s Jh] and won (200) with a pair of Eights
+Seat 2: ollikahn23 (button) (small blind) mucked [Kh 2c]
+
+
+
+PokerStars Hand #186780022652: Tournament #2313237123, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/23 21:40:48 CET [2018/05/23 15:40:48 ET]
+Table '2313237123 1' 2-max Seat #1 is the button
+Seat 1: Leka Taim (1523 in chips) 
+Seat 2: ollikahn23 (1477 in chips) 
+Leka Taim: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8h 8c]
+Leka Taim: raises 24 to 44
+ollikahn23: raises 89 to 133
+Leka Taim: folds 
+Uncalled bet (89) returned to ollikahn23
+ollikahn23 collected 88 from pot
+*** SUMMARY ***
+Total pot 88 | Rake 0 
+Seat 1: Leka Taim (button) (small blind) folded before Flop
+Seat 2: ollikahn23 (big blind) collected (88)
+
+
+
+PokerStars Hand #186780034717: Tournament #2313237123, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/23 21:41:04 CET [2018/05/23 15:41:04 ET]
+Table '2313237123 1' 2-max Seat #2 is the button
+Seat 1: Leka Taim (1479 in chips) 
+Seat 2: ollikahn23 (1521 in chips) 
+ollikahn23: posts small blind 10
+Leka Taim: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ks 5d]
+ollikahn23: raises 25 to 45
+Leka Taim: calls 25
+*** FLOP *** [6h 2d 7s]
+Leka Taim: checks 
+ollikahn23: checks 
+*** TURN *** [6h 2d 7s] [Jc]
+Leka Taim: checks 
+ollikahn23: bets 55
+Leka Taim: calls 55
+*** RIVER *** [6h 2d 7s Jc] [Jh]
+Leka Taim: checks 
+ollikahn23: checks 
+*** SHOW DOWN ***
+Leka Taim: shows [Kc 6s] (two pair, Jacks and Sixes)
+ollikahn23: mucks hand 
+Leka Taim collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [6h 2d 7s Jc Jh]
+Seat 1: Leka Taim (big blind) showed [Kc 6s] and won (200) with two pair, Jacks and Sixes
+Seat 2: ollikahn23 (button) (small blind) mucked [Ks 5d]
+
+
+
+PokerStars Hand #186780066117: Tournament #2313237123, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/23 21:41:46 CET [2018/05/23 15:41:46 ET]
+Table '2313237123 1' 2-max Seat #1 is the button
+Seat 1: Leka Taim (1579 in chips) 
+Seat 2: ollikahn23 (1421 in chips) 
+Leka Taim: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Tc Js]
+Leka Taim: raises 24 to 44
+ollikahn23: calls 24
+*** FLOP *** [4d 8s Qh]
+ollikahn23: checks 
+Leka Taim: bets 48
+ollikahn23: calls 48
+*** TURN *** [4d 8s Qh] [6c]
+ollikahn23: checks 
+Leka Taim: checks 
+*** RIVER *** [4d 8s Qh 6c] [5c]
+ollikahn23: bets 120
+Leka Taim: calls 120
+*** SHOW DOWN ***
+ollikahn23: shows [Tc Js] (high card Queen)
+Leka Taim: shows [8c Ad] (a pair of Eights)
+Leka Taim collected 424 from pot
+*** SUMMARY ***
+Total pot 424 | Rake 0 
+Board [4d 8s Qh 6c 5c]
+Seat 1: Leka Taim (button) (small blind) showed [8c Ad] and won (424) with a pair of Eights
+Seat 2: ollikahn23 (big blind) showed [Tc Js] and lost with high card Queen
+
+
+
+PokerStars Hand #186780092527: Tournament #2313237123, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/23 21:42:21 CET [2018/05/23 15:42:21 ET]
+Table '2313237123 1' 2-max Seat #2 is the button
+Seat 1: Leka Taim (1791 in chips) 
+Seat 2: ollikahn23 (1209 in chips) 
+ollikahn23: posts small blind 10
+Leka Taim: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [As 8d]
+ollikahn23: raises 25 to 45
+Leka Taim: calls 25
+*** FLOP *** [3h 5c 9h]
+Leka Taim: checks 
+ollikahn23: bets 55
+Leka Taim: folds 
+Uncalled bet (55) returned to ollikahn23
+ollikahn23 collected 90 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [3h 5c 9h]
+Seat 1: Leka Taim (big blind) folded on the Flop
+Seat 2: ollikahn23 (button) (small blind) collected (90)
+
+
+
+PokerStars Hand #186780110617: Tournament #2313237123, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/23 21:42:45 CET [2018/05/23 15:42:45 ET]
+Table '2313237123 1' 2-max Seat #1 is the button
+Seat 1: Leka Taim (1746 in chips) 
+Seat 2: ollikahn23 (1254 in chips) 
+Leka Taim: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jd 8h]
+Leka Taim: raises 24 to 44
+ollikahn23: folds 
+Uncalled bet (24) returned to Leka Taim
+Leka Taim collected 40 from pot
+Leka Taim: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Leka Taim (button) (small blind) collected (40)
+Seat 2: ollikahn23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #186780117882: Tournament #2313237123, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/23 21:42:54 CET [2018/05/23 15:42:54 ET]
+Table '2313237123 1' 2-max Seat #2 is the button
+Seat 1: Leka Taim (1766 in chips) 
+Seat 2: ollikahn23 (1234 in chips) 
+ollikahn23: posts small blind 10
+Leka Taim: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4d 3s]
+ollikahn23: folds 
+Uncalled bet (10) returned to Leka Taim
+Leka Taim collected 20 from pot
+Leka Taim: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Leka Taim (big blind) collected (20)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #186780122213: Tournament #2313237123, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/23 21:43:00 CET [2018/05/23 15:43:00 ET]
+Table '2313237123 1' 2-max Seat #1 is the button
+Seat 1: Leka Taim (1776 in chips) 
+Seat 2: ollikahn23 (1224 in chips) 
+Leka Taim: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6d Qd]
+Leka Taim: raises 24 to 44
+ollikahn23: folds 
+Uncalled bet (24) returned to Leka Taim
+Leka Taim collected 40 from pot
+Leka Taim: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Leka Taim (button) (small blind) collected (40)
+Seat 2: ollikahn23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #186780127734: Tournament #2313237123, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/23 21:43:07 CET [2018/05/23 15:43:07 ET]
+Table '2313237123 1' 2-max Seat #2 is the button
+Seat 1: Leka Taim (1796 in chips) 
+Seat 2: ollikahn23 (1204 in chips) 
+ollikahn23: posts small blind 10
+Leka Taim: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8c 3h]
+ollikahn23: folds 
+Uncalled bet (10) returned to Leka Taim
+Leka Taim collected 20 from pot
+Leka Taim: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Leka Taim (big blind) collected (20)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #186780131923: Tournament #2313237123, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/23 21:43:13 CET [2018/05/23 15:43:13 ET]
+Table '2313237123 1' 2-max Seat #1 is the button
+Seat 1: Leka Taim (1806 in chips) 
+Seat 2: ollikahn23 (1194 in chips) 
+Leka Taim: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7d Ac]
+Leka Taim: raises 24 to 44
+ollikahn23: raises 89 to 133
+Leka Taim: raises 1673 to 1806 and is all-in
+ollikahn23: folds 
+Uncalled bet (1673) returned to Leka Taim
+Leka Taim collected 266 from pot
+Leka Taim: doesn't show hand 
+*** SUMMARY ***
+Total pot 266 | Rake 0 
+Seat 1: Leka Taim (button) (small blind) collected (266)
+Seat 2: ollikahn23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #186780148140: Tournament #2313237123, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/23 21:43:34 CET [2018/05/23 15:43:34 ET]
+Table '2313237123 1' 2-max Seat #2 is the button
+Seat 1: Leka Taim (1939 in chips) 
+Seat 2: ollikahn23 (1061 in chips) 
+ollikahn23: posts small blind 10
+Leka Taim: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7h 9h]
+ollikahn23: raises 25 to 45
+Leka Taim: calls 25
+*** FLOP *** [Ks Ac Th]
+Leka Taim: checks 
+ollikahn23: checks 
+*** TURN *** [Ks Ac Th] [6s]
+Leka Taim: checks 
+ollikahn23: checks 
+*** RIVER *** [Ks Ac Th 6s] [2d]
+Leka Taim: bets 50
+ollikahn23: raises 94 to 144
+Leka Taim: calls 94
+*** SHOW DOWN ***
+ollikahn23: shows [7h 9h] (high card Ace)
+Leka Taim: shows [Ah 2s] (two pair, Aces and Deuces)
+Leka Taim collected 378 from pot
+*** SUMMARY ***
+Total pot 378 | Rake 0 
+Board [Ks Ac Th 6s 2d]
+Seat 1: Leka Taim (big blind) showed [Ah 2s] and won (378) with two pair, Aces and Deuces
+Seat 2: ollikahn23 (button) (small blind) showed [7h 9h] and lost with high card Ace
+
+
+
+PokerStars Hand #186780169674: Tournament #2313237123, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/23 21:44:02 CET [2018/05/23 15:44:02 ET]
+Table '2313237123 1' 2-max Seat #1 is the button
+Seat 1: Leka Taim (2128 in chips) 
+Seat 2: ollikahn23 (872 in chips) 
+Leka Taim: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jh Ts]
+Leka Taim: raises 34 to 64
+ollikahn23: calls 34
+*** FLOP *** [3c Js 6d]
+ollikahn23: checks 
+Leka Taim: bets 70
+ollikahn23: calls 70
+*** TURN *** [3c Js 6d] [Ad]
+ollikahn23: checks 
+Leka Taim: checks 
+*** RIVER *** [3c Js 6d Ad] [6s]
+ollikahn23: checks 
+Leka Taim: checks 
+*** SHOW DOWN ***
+ollikahn23: shows [Jh Ts] (two pair, Jacks and Sixes)
+Leka Taim: mucks hand 
+ollikahn23 collected 268 from pot
+*** SUMMARY ***
+Total pot 268 | Rake 0 
+Board [3c Js 6d Ad 6s]
+Seat 1: Leka Taim (button) (small blind) mucked [Ks 2s]
+Seat 2: ollikahn23 (big blind) showed [Jh Ts] and won (268) with two pair, Jacks and Sixes
+
+
+
+PokerStars Hand #186780191002: Tournament #2313237123, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/23 21:44:30 CET [2018/05/23 15:44:30 ET]
+Table '2313237123 1' 2-max Seat #2 is the button
+Seat 1: Leka Taim (1994 in chips) 
+Seat 2: ollikahn23 (1006 in chips) 
+ollikahn23: posts small blind 15
+Leka Taim: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3h Ac]
+ollikahn23: raises 36 to 66
+Leka Taim: folds 
+Uncalled bet (36) returned to ollikahn23
+ollikahn23 collected 60 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Leka Taim (big blind) folded before Flop
+Seat 2: ollikahn23 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #186780199850: Tournament #2313237123, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/23 21:44:42 CET [2018/05/23 15:44:42 ET]
+Table '2313237123 1' 2-max Seat #1 is the button
+Seat 1: Leka Taim (1964 in chips) 
+Seat 2: ollikahn23 (1036 in chips) 
+Leka Taim: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2c 6h]
+Leka Taim: raises 45 to 75
+ollikahn23: folds 
+Uncalled bet (45) returned to Leka Taim
+Leka Taim collected 60 from pot
+Leka Taim: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Leka Taim (button) (small blind) collected (60)
+Seat 2: ollikahn23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #186780205501: Tournament #2313237123, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/23 21:44:49 CET [2018/05/23 15:44:49 ET]
+Table '2313237123 1' 2-max Seat #2 is the button
+Seat 1: Leka Taim (1994 in chips) 
+Seat 2: ollikahn23 (1006 in chips) 
+ollikahn23: posts small blind 15
+Leka Taim: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [As Td]
+ollikahn23: raises 36 to 66
+Leka Taim: calls 36
+*** FLOP *** [9d 9c Kh]
+Leka Taim: checks 
+ollikahn23: bets 77
+Leka Taim: calls 77
+*** TURN *** [9d 9c Kh] [6h]
+Leka Taim: checks 
+ollikahn23: checks 
+*** RIVER *** [9d 9c Kh 6h] [Ks]
+Leka Taim: checks 
+ollikahn23: checks 
+*** SHOW DOWN ***
+Leka Taim: shows [5c Kc] (a full house, Kings full of Nines)
+ollikahn23: mucks hand 
+Leka Taim collected 286 from pot
+*** SUMMARY ***
+Total pot 286 | Rake 0 
+Board [9d 9c Kh 6h Ks]
+Seat 1: Leka Taim (big blind) showed [5c Kc] and won (286) with a full house, Kings full of Nines
+Seat 2: ollikahn23 (button) (small blind) mucked [As Td]
+
+
+
+PokerStars Hand #186780224023: Tournament #2313237123, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/23 21:45:14 CET [2018/05/23 15:45:14 ET]
+Table '2313237123 1' 2-max Seat #1 is the button
+Seat 1: Leka Taim (2137 in chips) 
+Seat 2: ollikahn23 (863 in chips) 
+Leka Taim: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6h 3s]
+Leka Taim: raises 45 to 75
+ollikahn23: folds 
+Uncalled bet (45) returned to Leka Taim
+Leka Taim collected 60 from pot
+Leka Taim: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Leka Taim (button) (small blind) collected (60)
+Seat 2: ollikahn23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #186780231716: Tournament #2313237123, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/23 21:45:24 CET [2018/05/23 15:45:24 ET]
+Table '2313237123 1' 2-max Seat #2 is the button
+Seat 1: Leka Taim (2167 in chips) 
+Seat 2: ollikahn23 (833 in chips) 
+ollikahn23: posts small blind 15
+Leka Taim: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ah Qd]
+ollikahn23: raises 36 to 66
+Leka Taim: folds 
+Uncalled bet (36) returned to ollikahn23
+ollikahn23 collected 60 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Leka Taim (big blind) folded before Flop
+Seat 2: ollikahn23 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #186780238127: Tournament #2313237123, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/23 21:45:32 CET [2018/05/23 15:45:32 ET]
+Table '2313237123 1' 2-max Seat #1 is the button
+Seat 1: Leka Taim (2137 in chips) 
+Seat 2: ollikahn23 (863 in chips) 
+Leka Taim: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4s As]
+Leka Taim: folds 
+Uncalled bet (15) returned to ollikahn23
+ollikahn23 collected 30 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Leka Taim (button) (small blind) folded before Flop
+Seat 2: ollikahn23 (big blind) collected (30)
+
+
+
+PokerStars Hand #186780242607: Tournament #2313237123, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/23 21:45:38 CET [2018/05/23 15:45:38 ET]
+Table '2313237123 1' 2-max Seat #2 is the button
+Seat 1: Leka Taim (2122 in chips) 
+Seat 2: ollikahn23 (878 in chips) 
+ollikahn23: posts small blind 15
+Leka Taim: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ad 7d]
+ollikahn23: raises 36 to 66
+Leka Taim: calls 36
+*** FLOP *** [Js 6c 4d]
+Leka Taim: checks 
+ollikahn23: bets 66
+Leka Taim: raises 129 to 195
+ollikahn23: folds 
+Uncalled bet (129) returned to Leka Taim
+Leka Taim collected 264 from pot
+Leka Taim: doesn't show hand 
+*** SUMMARY ***
+Total pot 264 | Rake 0 
+Board [Js 6c 4d]
+Seat 1: Leka Taim (big blind) collected (264)
+Seat 2: ollikahn23 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #186780265499: Tournament #2313237123, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/23 21:46:08 CET [2018/05/23 15:46:08 ET]
+Table '2313237123 1' 2-max Seat #1 is the button
+Seat 1: Leka Taim (2254 in chips) 
+Seat 2: ollikahn23 (746 in chips) 
+Leka Taim: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qc 3s]
+Leka Taim: raises 34 to 64
+ollikahn23: folds 
+Uncalled bet (34) returned to Leka Taim
+Leka Taim collected 60 from pot
+Leka Taim: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Leka Taim (button) (small blind) collected (60)
+Seat 2: ollikahn23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #186780271797: Tournament #2313237123, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/23 21:46:16 CET [2018/05/23 15:46:16 ET]
+Table '2313237123 1' 2-max Seat #2 is the button
+Seat 1: Leka Taim (2284 in chips) 
+Seat 2: ollikahn23 (716 in chips) 
+ollikahn23: posts small blind 15
+Leka Taim: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3s 9h]
+ollikahn23: folds 
+Uncalled bet (15) returned to Leka Taim
+Leka Taim collected 30 from pot
+Leka Taim: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Leka Taim (big blind) collected (30)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #186780275845: Tournament #2313237123, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/23 21:46:21 CET [2018/05/23 15:46:21 ET]
+Table '2313237123 1' 2-max Seat #1 is the button
+Seat 1: Leka Taim (2299 in chips) 
+Seat 2: ollikahn23 (701 in chips) 
+Leka Taim: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6h 7s]
+Leka Taim: raises 34 to 64
+ollikahn23: folds 
+Uncalled bet (34) returned to Leka Taim
+Leka Taim collected 60 from pot
+Leka Taim: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Leka Taim (button) (small blind) collected (60)
+Seat 2: ollikahn23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #186780282666: Tournament #2313237123, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/23 21:46:30 CET [2018/05/23 15:46:30 ET]
+Table '2313237123 1' 2-max Seat #2 is the button
+Seat 1: Leka Taim (2329 in chips) 
+Seat 2: ollikahn23 (671 in chips) 
+ollikahn23: posts small blind 15
+Leka Taim: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9d 2h]
+ollikahn23: folds 
+Uncalled bet (15) returned to Leka Taim
+Leka Taim collected 30 from pot
+Leka Taim: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Leka Taim (big blind) collected (30)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #186780286991: Tournament #2313237123, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/23 21:46:36 CET [2018/05/23 15:46:36 ET]
+Table '2313237123 1' 2-max Seat #1 is the button
+Seat 1: Leka Taim (2344 in chips) 
+Seat 2: ollikahn23 (656 in chips) 
+Leka Taim: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3c Tc]
+Leka Taim: folds 
+Uncalled bet (15) returned to ollikahn23
+ollikahn23 collected 30 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Leka Taim (button) (small blind) folded before Flop
+Seat 2: ollikahn23 (big blind) collected (30)
+
+
+
+PokerStars Hand #186780293365: Tournament #2313237123, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/23 21:46:44 CET [2018/05/23 15:46:44 ET]
+Table '2313237123 1' 2-max Seat #2 is the button
+Seat 1: Leka Taim (2329 in chips) 
+Seat 2: ollikahn23 (671 in chips) 
+ollikahn23: posts small blind 15
+Leka Taim: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6d 6c]
+ollikahn23: raises 47 to 77
+Leka Taim: calls 47
+*** FLOP *** [2s As 4d]
+Leka Taim: checks 
+ollikahn23: bets 77
+Leka Taim: calls 77
+*** TURN *** [2s As 4d] [9c]
+Leka Taim: checks 
+ollikahn23: checks 
+*** RIVER *** [2s As 4d 9c] [Kh]
+Leka Taim: checks 
+ollikahn23: checks 
+*** SHOW DOWN ***
+Leka Taim: shows [6s 5s] (high card Ace)
+ollikahn23: shows [6d 6c] (a pair of Sixes)
+ollikahn23 collected 308 from pot
+*** SUMMARY ***
+Total pot 308 | Rake 0 
+Board [2s As 4d 9c Kh]
+Seat 1: Leka Taim (big blind) showed [6s 5s] and lost with high card Ace
+Seat 2: ollikahn23 (button) (small blind) showed [6d 6c] and won (308) with a pair of Sixes
+
+
+
+PokerStars Hand #186780314718: Tournament #2313237123, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/23 21:47:12 CET [2018/05/23 15:47:12 ET]
+Table '2313237123 1' 2-max Seat #1 is the button
+Seat 1: Leka Taim (2175 in chips) 
+Seat 2: ollikahn23 (825 in chips) 
+Leka Taim: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kc Qs]
+Leka Taim: folds 
+Uncalled bet (15) returned to ollikahn23
+ollikahn23 collected 30 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Leka Taim (button) (small blind) folded before Flop
+Seat 2: ollikahn23 (big blind) collected (30)
+
+
+
+PokerStars Hand #186780321149: Tournament #2313237123, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/23 21:47:21 CET [2018/05/23 15:47:21 ET]
+Table '2313237123 1' 2-max Seat #2 is the button
+Seat 1: Leka Taim (2160 in chips) 
+Seat 2: ollikahn23 (840 in chips) 
+ollikahn23: posts small blind 15
+Leka Taim: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4s 2c]
+ollikahn23: folds 
+Uncalled bet (15) returned to Leka Taim
+Leka Taim collected 30 from pot
+Leka Taim: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Leka Taim (big blind) collected (30)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #186780326730: Tournament #2313237123, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/23 21:47:28 CET [2018/05/23 15:47:28 ET]
+Table '2313237123 1' 2-max Seat #1 is the button
+Seat 1: Leka Taim (2175 in chips) 
+Seat 2: ollikahn23 (825 in chips) 
+Leka Taim: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5s Kd]
+Leka Taim: folds 
+Uncalled bet (15) returned to ollikahn23
+ollikahn23 collected 30 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Leka Taim (button) (small blind) folded before Flop
+Seat 2: ollikahn23 (big blind) collected (30)
+
+
+
+PokerStars Hand #186780331802: Tournament #2313237123, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/23 21:47:35 CET [2018/05/23 15:47:35 ET]
+Table '2313237123 1' 2-max Seat #2 is the button
+Seat 1: Leka Taim (2160 in chips) 
+Seat 2: ollikahn23 (840 in chips) 
+ollikahn23: posts small blind 15
+Leka Taim: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3c Jh]
+ollikahn23: raises 36 to 66
+Leka Taim: raises 129 to 195
+ollikahn23: folds 
+Uncalled bet (129) returned to Leka Taim
+Leka Taim collected 132 from pot
+Leka Taim: doesn't show hand 
+*** SUMMARY ***
+Total pot 132 | Rake 0 
+Seat 1: Leka Taim (big blind) collected (132)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #186780345435: Tournament #2313237123, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/23 21:47:53 CET [2018/05/23 15:47:53 ET]
+Table '2313237123 1' 2-max Seat #1 is the button
+Seat 1: Leka Taim (2226 in chips) 
+Seat 2: ollikahn23 (774 in chips) 
+Leka Taim: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3d 6c]
+Leka Taim: folds 
+Uncalled bet (15) returned to ollikahn23
+ollikahn23 collected 30 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Leka Taim (button) (small blind) folded before Flop
+Seat 2: ollikahn23 (big blind) collected (30)
+
+
+
+PokerStars Hand #186780349500: Tournament #2313237123, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/23 21:47:58 CET [2018/05/23 15:47:58 ET]
+Table '2313237123 1' 2-max Seat #2 is the button
+Seat 1: Leka Taim (2211 in chips) 
+Seat 2: ollikahn23 (789 in chips) 
+ollikahn23: posts small blind 15
+Leka Taim: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Th 6s]
+ollikahn23: folds 
+Uncalled bet (15) returned to Leka Taim
+Leka Taim collected 30 from pot
+Leka Taim: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Leka Taim (big blind) collected (30)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #186780353555: Tournament #2313237123, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/23 21:48:03 CET [2018/05/23 15:48:03 ET]
+Table '2313237123 1' 2-max Seat #1 is the button
+Seat 1: Leka Taim (2226 in chips) 
+Seat 2: ollikahn23 (774 in chips) 
+Leka Taim: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jd 6s]
+Leka Taim: raises 34 to 64
+ollikahn23: folds 
+Uncalled bet (34) returned to Leka Taim
+Leka Taim collected 60 from pot
+Leka Taim: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Leka Taim (button) (small blind) collected (60)
+Seat 2: ollikahn23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #186780362495: Tournament #2313237123, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/23 21:48:15 CET [2018/05/23 15:48:15 ET]
+Table '2313237123 1' 2-max Seat #2 is the button
+Seat 1: Leka Taim (2256 in chips) 
+Seat 2: ollikahn23 (744 in chips) 
+ollikahn23: posts small blind 15
+Leka Taim: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9c Ac]
+ollikahn23: raises 36 to 66
+Leka Taim: calls 36
+*** FLOP *** [8h 5c 4h]
+Leka Taim: checks 
+ollikahn23: bets 88
+Leka Taim: calls 88
+*** TURN *** [8h 5c 4h] [Qc]
+Leka Taim: checks 
+ollikahn23: bets 202
+Leka Taim: folds 
+Uncalled bet (202) returned to ollikahn23
+ollikahn23 collected 308 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 308 | Rake 0 
+Board [8h 5c 4h Qc]
+Seat 1: Leka Taim (big blind) folded on the Turn
+Seat 2: ollikahn23 (button) (small blind) collected (308)
+
+
+
+PokerStars Hand #186780381326: Tournament #2313237123, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/23 21:48:40 CET [2018/05/23 15:48:40 ET]
+Table '2313237123 1' 2-max Seat #1 is the button
+Seat 1: Leka Taim (2102 in chips) 
+Seat 2: ollikahn23 (898 in chips) 
+Leka Taim: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2d Kh]
+Leka Taim: raises 34 to 64
+ollikahn23: calls 34
+*** FLOP *** [6s 3h 7d]
+ollikahn23: checks 
+Leka Taim: checks 
+*** TURN *** [6s 3h 7d] [9c]
+ollikahn23: checks 
+Leka Taim: bets 60
+ollikahn23: folds 
+Uncalled bet (60) returned to Leka Taim
+Leka Taim collected 128 from pot
+Leka Taim: doesn't show hand 
+*** SUMMARY ***
+Total pot 128 | Rake 0 
+Board [6s 3h 7d 9c]
+Seat 1: Leka Taim (button) (small blind) collected (128)
+Seat 2: ollikahn23 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #186780395611: Tournament #2313237123, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/23 21:48:58 CET [2018/05/23 15:48:58 ET]
+Table '2313237123 1' 2-max Seat #2 is the button
+Seat 1: Leka Taim (2166 in chips) 
+Seat 2: ollikahn23 (834 in chips) 
+ollikahn23: posts small blind 15
+Leka Taim: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3c 3d]
+ollikahn23: raises 36 to 66
+Leka Taim: calls 36
+*** FLOP *** [9h Th 7s]
+Leka Taim: checks 
+ollikahn23: checks 
+*** TURN *** [9h Th 7s] [9s]
+Leka Taim: bets 73
+ollikahn23: calls 73
+*** RIVER *** [9h Th 7s 9s] [7d]
+Leka Taim: bets 153
+ollikahn23: folds 
+Uncalled bet (153) returned to Leka Taim
+Leka Taim collected 278 from pot
+Leka Taim: doesn't show hand 
+*** SUMMARY ***
+Total pot 278 | Rake 0 
+Board [9h Th 7s 9s 7d]
+Seat 1: Leka Taim (big blind) collected (278)
+Seat 2: ollikahn23 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #186780412460: Tournament #2313237123, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/23 21:49:21 CET [2018/05/23 15:49:21 ET]
+Table '2313237123 1' 2-max Seat #1 is the button
+Seat 1: Leka Taim (2305 in chips) 
+Seat 2: ollikahn23 (695 in chips) 
+Leka Taim: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3d Qd]
+Leka Taim: folds 
+Uncalled bet (15) returned to ollikahn23
+ollikahn23 collected 30 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Leka Taim (button) (small blind) folded before Flop
+Seat 2: ollikahn23 (big blind) collected (30)
+
+
+
+PokerStars Hand #186780416595: Tournament #2313237123, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/23 21:49:26 CET [2018/05/23 15:49:26 ET]
+Table '2313237123 1' 2-max Seat #2 is the button
+Seat 1: Leka Taim (2290 in chips) 
+Seat 2: ollikahn23 (710 in chips) 
+ollikahn23: posts small blind 15
+Leka Taim: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2c 3h]
+ollikahn23: folds 
+Uncalled bet (15) returned to Leka Taim
+Leka Taim collected 30 from pot
+Leka Taim: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Leka Taim (big blind) collected (30)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #186780420677: Tournament #2313237123, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/23 21:49:32 CET [2018/05/23 15:49:32 ET]
+Table '2313237123 1' 2-max Seat #1 is the button
+Seat 1: Leka Taim (2305 in chips) 
+Seat 2: ollikahn23 (695 in chips) 
+Leka Taim: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ad 7d]
+Leka Taim: raises 34 to 64
+ollikahn23: raises 134 to 198
+Leka Taim: folds 
+Uncalled bet (134) returned to ollikahn23
+ollikahn23 collected 128 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 128 | Rake 0 
+Seat 1: Leka Taim (button) (small blind) folded before Flop
+Seat 2: ollikahn23 (big blind) collected (128)
+
+
+
+PokerStars Hand #186780429451: Tournament #2313237123, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/23 21:49:43 CET [2018/05/23 15:49:43 ET]
+Table '2313237123 1' 2-max Seat #2 is the button
+Seat 1: Leka Taim (2241 in chips) 
+Seat 2: ollikahn23 (759 in chips) 
+ollikahn23: posts small blind 15
+Leka Taim: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7s 7d]
+ollikahn23: raises 36 to 66
+Leka Taim: folds 
+Uncalled bet (36) returned to ollikahn23
+ollikahn23 collected 60 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Leka Taim (big blind) folded before Flop
+Seat 2: ollikahn23 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #186780436895: Tournament #2313237123, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/23 21:49:53 CET [2018/05/23 15:49:53 ET]
+Table '2313237123 1' 2-max Seat #1 is the button
+Seat 1: Leka Taim (2211 in chips) 
+Seat 2: ollikahn23 (789 in chips) 
+Leka Taim: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7c 2d]
+Leka Taim: raises 34 to 64
+ollikahn23: folds 
+Uncalled bet (34) returned to Leka Taim
+Leka Taim collected 60 from pot
+Leka Taim: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Leka Taim (button) (small blind) collected (60)
+Seat 2: ollikahn23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #186780444081: Tournament #2313237123, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/05/23 21:50:02 CET [2018/05/23 15:50:02 ET]
+Table '2313237123 1' 2-max Seat #2 is the button
+Seat 1: Leka Taim (2241 in chips) 
+Seat 2: ollikahn23 (759 in chips) 
+ollikahn23: posts small blind 20
+Leka Taim: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jd Qc]
+ollikahn23: raises 48 to 88
+Leka Taim: folds 
+Uncalled bet (48) returned to ollikahn23
+ollikahn23 collected 80 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Leka Taim (big blind) folded before Flop
+Seat 2: ollikahn23 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #186780450159: Tournament #2313237123, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/05/23 21:50:11 CET [2018/05/23 15:50:11 ET]
+Table '2313237123 1' 2-max Seat #1 is the button
+Seat 1: Leka Taim (2201 in chips) 
+Seat 2: ollikahn23 (799 in chips) 
+Leka Taim: posts small blind 20
+ollikahn23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9h 9c]
+Leka Taim: raises 46 to 86
+ollikahn23: raises 148 to 234
+Leka Taim: raises 1967 to 2201 and is all-in
+ollikahn23: calls 565 and is all-in
+Uncalled bet (1402) returned to Leka Taim
+*** FLOP *** [3s 3d 5d]
+*** TURN *** [3s 3d 5d] [Qs]
+*** RIVER *** [3s 3d 5d Qs] [7h]
+*** SHOW DOWN ***
+ollikahn23: shows [9h 9c] (two pair, Nines and Threes)
+Leka Taim: shows [Ks Kd] (two pair, Kings and Threes)
+Leka Taim collected 1598 from pot
+ollikahn23 finished the tournament in 2nd place
+Leka Taim wins the tournament and receives $2.76 - congratulations!
+*** SUMMARY ***
+Total pot 1598 | Rake 0 
+Board [3s 3d 5d Qs 7h]
+Seat 1: Leka Taim (button) (small blind) showed [Ks Kd] and won (1598) with two pair, Kings and Threes
+Seat 2: ollikahn23 (big blind) showed [9h 9c] and lost with two pair, Nines and Threes
+
+
+

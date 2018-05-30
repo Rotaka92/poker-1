@@ -1,0 +1,206 @@
+﻿PokerStars Hand #186781766423: Tournament #2313270781, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/23 22:20:06 CET [2018/05/23 16:20:06 ET]
+Table '2313270781 1' 2-max Seat #1 is the button
+Seat 1: ThalesNaNas (1500 in chips) 
+Seat 2: ollikahn23 (1500 in chips) 
+ThalesNaNas: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7h Ks]
+ThalesNaNas: folds 
+Uncalled bet (10) returned to ollikahn23
+ollikahn23 collected 20 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: ThalesNaNas (button) (small blind) folded before Flop
+Seat 2: ollikahn23 (big blind) collected (20)
+
+
+
+PokerStars Hand #186781770404: Tournament #2313270781, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/23 22:20:12 CET [2018/05/23 16:20:12 ET]
+Table '2313270781 1' 2-max Seat #2 is the button
+Seat 1: ThalesNaNas (1490 in chips) 
+Seat 2: ollikahn23 (1510 in chips) 
+ollikahn23: posts small blind 10
+ThalesNaNas: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5h 2h]
+ollikahn23: folds 
+Uncalled bet (10) returned to ThalesNaNas
+ThalesNaNas collected 20 from pot
+ThalesNaNas: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: ThalesNaNas (big blind) collected (20)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #186781775064: Tournament #2313270781, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/23 22:20:18 CET [2018/05/23 16:20:18 ET]
+Table '2313270781 1' 2-max Seat #1 is the button
+Seat 1: ThalesNaNas (1500 in chips) 
+Seat 2: ollikahn23 (1500 in chips) 
+ThalesNaNas: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Td Qh]
+ThalesNaNas: raises 40 to 60
+ollikahn23: calls 40
+*** FLOP *** [7h Ac Th]
+ollikahn23: checks 
+ThalesNaNas: bets 80
+ollikahn23: calls 80
+*** TURN *** [7h Ac Th] [9s]
+ollikahn23: checks 
+ThalesNaNas: checks 
+*** RIVER *** [7h Ac Th 9s] [Ah]
+ollikahn23: checks 
+ThalesNaNas: checks 
+*** SHOW DOWN ***
+ollikahn23: shows [Td Qh] (two pair, Aces and Tens)
+ThalesNaNas: mucks hand 
+ollikahn23 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Board [7h Ac Th 9s Ah]
+Seat 1: ThalesNaNas (button) (small blind) mucked [6d 9h]
+Seat 2: ollikahn23 (big blind) showed [Td Qh] and won (280) with two pair, Aces and Tens
+
+
+
+PokerStars Hand #186781802428: Tournament #2313270781, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/23 22:20:55 CET [2018/05/23 16:20:55 ET]
+Table '2313270781 1' 2-max Seat #2 is the button
+Seat 1: ThalesNaNas (1360 in chips) 
+Seat 2: ollikahn23 (1640 in chips) 
+ollikahn23: posts small blind 10
+ThalesNaNas: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [As Th]
+ollikahn23: raises 25 to 45
+ThalesNaNas: raises 165 to 210
+ollikahn23: calls 165
+*** FLOP *** [Qs 4h 2h]
+ThalesNaNas: checks 
+ollikahn23: checks 
+*** TURN *** [Qs 4h 2h] [8h]
+ThalesNaNas: bets 200
+ollikahn23: calls 200
+*** RIVER *** [Qs 4h 2h 8h] [Ah]
+ThalesNaNas: checks 
+ollikahn23: bets 320
+ThalesNaNas: calls 320
+*** SHOW DOWN ***
+ollikahn23: shows [As Th] (a flush, Ace high)
+ThalesNaNas: mucks hand 
+ollikahn23 collected 1460 from pot
+*** SUMMARY ***
+Total pot 1460 | Rake 0 
+Board [Qs 4h 2h 8h Ah]
+Seat 1: ThalesNaNas (big blind) mucked [Kc Qc]
+Seat 2: ollikahn23 (button) (small blind) showed [As Th] and won (1460) with a flush, Ace high
+
+
+
+PokerStars Hand #186781851691: Tournament #2313270781, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/23 22:21:52 CET [2018/05/23 16:21:52 ET]
+Table '2313270781 1' 2-max Seat #1 is the button
+Seat 1: ThalesNaNas (630 in chips) 
+Seat 2: ollikahn23 (2370 in chips) 
+ThalesNaNas: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4s Kc]
+ThalesNaNas: raises 610 to 630 and is all-in
+ollikahn23: folds 
+Uncalled bet (610) returned to ThalesNaNas
+ThalesNaNas collected 40 from pot
+ThalesNaNas: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ThalesNaNas (button) (small blind) collected (40)
+Seat 2: ollikahn23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #186781861432: Tournament #2313270781, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/23 22:22:04 CET [2018/05/23 16:22:04 ET]
+Table '2313270781 1' 2-max Seat #2 is the button
+Seat 1: ThalesNaNas (650 in chips) 
+Seat 2: ollikahn23 (2350 in chips) 
+ollikahn23: posts small blind 10
+ThalesNaNas: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3h Ah]
+ollikahn23: raises 24 to 44
+ThalesNaNas: calls 24
+*** FLOP *** [Ad 9s Qc]
+ThalesNaNas: checks 
+ollikahn23: bets 66
+ThalesNaNas: folds 
+Uncalled bet (66) returned to ollikahn23
+ollikahn23 collected 88 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 88 | Rake 0 
+Board [Ad 9s Qc]
+Seat 1: ThalesNaNas (big blind) folded on the Flop
+Seat 2: ollikahn23 (button) (small blind) collected (88)
+
+
+
+PokerStars Hand #186781880807: Tournament #2313270781, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/23 22:22:30 CET [2018/05/23 16:22:30 ET]
+Table '2313270781 1' 2-max Seat #1 is the button
+Seat 1: ThalesNaNas (606 in chips) 
+Seat 2: ollikahn23 (2394 in chips) 
+ThalesNaNas: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Td Jd]
+ThalesNaNas: raises 20 to 40
+ollikahn23: calls 20
+*** FLOP *** [Js Jc Jh]
+ollikahn23: checks 
+ThalesNaNas: checks 
+*** TURN *** [Js Jc Jh] [3c]
+ollikahn23: bets 45
+ThalesNaNas: calls 45
+*** RIVER *** [Js Jc Jh 3c] [9d]
+ollikahn23: bets 144
+ThalesNaNas: folds 
+Uncalled bet (144) returned to ollikahn23
+ollikahn23 collected 170 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 170 | Rake 0 
+Board [Js Jc Jh 3c 9d]
+Seat 1: ThalesNaNas (button) (small blind) folded on the River
+Seat 2: ollikahn23 (big blind) collected (170)
+
+
+
+PokerStars Hand #186781904036: Tournament #2313270781, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/23 22:23:01 CET [2018/05/23 16:23:01 ET]
+Table '2313270781 1' 2-max Seat #2 is the button
+Seat 1: ThalesNaNas (521 in chips) 
+Seat 2: ollikahn23 (2479 in chips) 
+ollikahn23: posts small blind 10
+ThalesNaNas: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jc Qh]
+ollikahn23: raises 24 to 44
+ThalesNaNas: raises 477 to 521 and is all-in
+ollikahn23: calls 477
+*** FLOP *** [2h 3d 6d]
+*** TURN *** [2h 3d 6d] [Ac]
+*** RIVER *** [2h 3d 6d Ac] [7s]
+*** SHOW DOWN ***
+ThalesNaNas: shows [8c Qc] (high card Ace)
+ollikahn23: shows [Jc Qh] (high card Ace - Queen+Jack kicker)
+ollikahn23 collected 1042 from pot
+ThalesNaNas finished the tournament in 2nd place
+ollikahn23 wins the tournament and receives $2.76 - congratulations!
+*** SUMMARY ***
+Total pot 1042 | Rake 0 
+Board [2h 3d 6d Ac 7s]
+Seat 1: ThalesNaNas (big blind) showed [8c Qc] and lost with high card Ace
+Seat 2: ollikahn23 (button) (small blind) showed [Jc Qh] and won (1042) with high card Ace
+
+
+

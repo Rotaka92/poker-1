@@ -206,9 +206,10 @@ class PokerStarsHandHistory(hh._SplittableHandHistoryMixin, hh._BaseHandHistory)
 
     def _parse_players(self):
         self.players = self._init_seats(self.max_players)
-        #players = _init_seats(max_players)
+        #players = _init_seats(2)
         for line in self._splitted[2:]:
-            match = self._seat_re.match(line)
+            lineStr = line.strip()
+            match = self._seat_re.match(lineStr)
             # we reached the end of the players section
             if not match:
                 break
@@ -273,6 +274,7 @@ class PokerStarsHandHistory(hh._SplittableHandHistoryMixin, hh._BaseHandHistory)
 
     def _parse_pot(self):
         potline = self._splitted[self._sections[-1] + 2]
+        potline = potline.strip()
         match = self._pot_re.match(potline)
         self.total_pot = int(match.group(1))
 

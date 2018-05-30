@@ -1,0 +1,767 @@
+﻿PokerStars Hand #184037147829: Tournament #2253375197, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/03/18 15:40:17 ET
+Table '2253375197 4' 9-max Seat #1 is the button
+Seat 1: epukas (1500 in chips) 
+Seat 2: LFeitosa69 (1500 in chips) 
+Seat 3: adimog (1500 in chips) 
+Seat 4: dino751957 (1500 in chips) 
+Seat 7: Fefu77 (1500 in chips) 
+Seat 8: ollikahn23 (1500 in chips) 
+Seat 9: duki12 (1500 in chips) 
+epukas: posts the ante 3
+LFeitosa69: posts the ante 3
+adimog: posts the ante 3
+dino751957: posts the ante 3
+Fefu77: posts the ante 3
+ollikahn23: posts the ante 3
+duki12: posts the ante 3
+LFeitosa69: posts small blind 10
+adimog: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4s Jc]
+dino751957 has timed out
+dino751957: folds 
+dino751957 is sitting out
+Fefu77: folds 
+ollikahn23: folds 
+duki12: folds 
+epukas: raises 20 to 40
+LFeitosa69: folds 
+adimog: calls 20
+*** FLOP *** [2s 8s 2d]
+adimog: checks 
+epukas: checks 
+*** TURN *** [2s 8s 2d] [7c]
+adimog: bets 120
+epukas: folds 
+Uncalled bet (120) returned to adimog
+adimog collected 111 from pot
+adimog: doesn't show hand 
+*** SUMMARY ***
+Total pot 111 | Rake 0 
+Board [2s 8s 2d 7c]
+Seat 1: epukas (button) folded on the Turn
+Seat 2: LFeitosa69 (small blind) folded before Flop
+Seat 3: adimog (big blind) collected (111)
+Seat 4: dino751957 folded before Flop (didn't bet)
+Seat 7: Fefu77 folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: duki12 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184037214871: Tournament #2253375197, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/03/18 15:41:25 ET
+Table '2253375197 4' 9-max Seat #2 is the button
+Seat 1: epukas (1457 in chips) 
+Seat 2: LFeitosa69 (1487 in chips) 
+Seat 3: adimog (1568 in chips) 
+Seat 4: dino751957 (1497 in chips) is sitting out
+Seat 5: Gioiatpkmj (1500 in chips) 
+Seat 7: Fefu77 (1497 in chips) 
+Seat 8: ollikahn23 (1497 in chips) 
+Seat 9: duki12 (1497 in chips) 
+epukas: posts the ante 3
+LFeitosa69: posts the ante 3
+adimog: posts the ante 3
+dino751957: posts the ante 3
+Gioiatpkmj: posts the ante 3
+Fefu77: posts the ante 3
+ollikahn23: posts the ante 3
+duki12: posts the ante 3
+adimog: posts small blind 10
+dino751957: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2s 3h]
+dino751957 has returned
+Gioiatpkmj: folds 
+Fefu77: folds 
+ollikahn23: folds 
+duki12: folds 
+epukas: folds 
+LFeitosa69: folds 
+adimog: calls 10
+dino751957: checks 
+*** FLOP *** [5s Ts 4s]
+adimog: checks 
+dino751957: bets 40
+adimog: calls 40
+*** TURN *** [5s Ts 4s] [8h]
+adimog: checks 
+dino751957: bets 100
+adimog: folds 
+Uncalled bet (100) returned to dino751957
+dino751957 collected 144 from pot
+dino751957: doesn't show hand 
+*** SUMMARY ***
+Total pot 144 | Rake 0 
+Board [5s Ts 4s 8h]
+Seat 1: epukas folded before Flop (didn't bet)
+Seat 2: LFeitosa69 (button) folded before Flop (didn't bet)
+Seat 3: adimog (small blind) folded on the Turn
+Seat 4: dino751957 (big blind) collected (144)
+Seat 5: Gioiatpkmj folded before Flop (didn't bet)
+Seat 7: Fefu77 folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: duki12 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184037264648: Tournament #2253375197, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/03/18 15:42:15 ET
+Table '2253375197 4' 9-max Seat #3 is the button
+Seat 1: epukas (1454 in chips) 
+Seat 2: LFeitosa69 (1484 in chips) 
+Seat 3: adimog (1505 in chips) 
+Seat 4: dino751957 (1578 in chips) 
+Seat 5: Gioiatpkmj (1497 in chips) 
+Seat 7: Fefu77 (1494 in chips) 
+Seat 8: ollikahn23 (1494 in chips) 
+Seat 9: duki12 (1494 in chips) 
+epukas: posts the ante 3
+LFeitosa69: posts the ante 3
+adimog: posts the ante 3
+dino751957: posts the ante 3
+Gioiatpkmj: posts the ante 3
+Fefu77: posts the ante 3
+ollikahn23: posts the ante 3
+duki12: posts the ante 3
+dino751957: posts small blind 10
+Gioiatpkmj: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6c Ac]
+Fefu77: folds 
+ollikahn23: raises 40 to 60
+duki12: folds 
+epukas: calls 60
+LFeitosa69: folds 
+adimog: folds 
+dino751957: calls 50
+Gioiatpkmj: folds 
+*** FLOP *** [8d Qc 2d]
+dino751957: bets 60
+ollikahn23: calls 60
+epukas: folds 
+*** TURN *** [8d Qc 2d] [Ks]
+dino751957: bets 60
+ollikahn23: raises 160 to 220
+dino751957: calls 160
+*** RIVER *** [8d Qc 2d Ks] [Kh]
+dino751957: checks 
+ollikahn23: checks 
+*** SHOW DOWN ***
+dino751957: shows [As Qs] (two pair, Kings and Queens)
+ollikahn23: mucks hand 
+dino751957 collected 784 from pot
+*** SUMMARY ***
+Total pot 784 | Rake 0 
+Board [8d Qc 2d Ks Kh]
+Seat 1: epukas folded on the Flop
+Seat 2: LFeitosa69 folded before Flop (didn't bet)
+Seat 3: adimog (button) folded before Flop (didn't bet)
+Seat 4: dino751957 (small blind) showed [As Qs] and won (784) with two pair, Kings and Queens
+Seat 5: Gioiatpkmj (big blind) folded before Flop
+Seat 7: Fefu77 folded before Flop (didn't bet)
+Seat 8: ollikahn23 mucked [6c Ac]
+Seat 9: duki12 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184037390958: Tournament #2253375197, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/03/18 15:44:21 ET
+Table '2253375197 4' 9-max Seat #4 is the button
+Seat 1: epukas (1391 in chips) 
+Seat 2: LFeitosa69 (1481 in chips) 
+Seat 3: adimog (1502 in chips) 
+Seat 4: dino751957 (2019 in chips) 
+Seat 5: Gioiatpkmj (1474 in chips) 
+Seat 6: maccen67 (1500 in chips) 
+Seat 7: Fefu77 (1491 in chips) 
+Seat 8: ollikahn23 (1151 in chips) 
+Seat 9: duki12 (1491 in chips) 
+epukas: posts the ante 3
+LFeitosa69: posts the ante 3
+adimog: posts the ante 3
+dino751957: posts the ante 3
+Gioiatpkmj: posts the ante 3
+maccen67: posts the ante 3
+Fefu77: posts the ante 3
+ollikahn23: posts the ante 3
+duki12: posts the ante 3
+Gioiatpkmj: posts small blind 10
+maccen67: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8d 9h]
+Fefu77: folds 
+ollikahn23: folds 
+duki12: folds 
+epukas: raises 20 to 40
+LFeitosa69: folds 
+adimog: folds 
+dino751957: calls 40
+Gioiatpkmj: folds 
+maccen67: folds 
+*** FLOP *** [Td 3c 4c]
+epukas: checks 
+dino751957: checks 
+*** TURN *** [Td 3c 4c] [4h]
+epukas: checks 
+dino751957: checks 
+*** RIVER *** [Td 3c 4c 4h] [Kd]
+epukas: checks 
+dino751957: checks 
+*** SHOW DOWN ***
+epukas: shows [7d Qc] (a pair of Fours)
+dino751957: mucks hand 
+epukas collected 137 from pot
+*** SUMMARY ***
+Total pot 137 | Rake 0 
+Board [Td 3c 4c 4h Kd]
+Seat 1: epukas showed [7d Qc] and won (137) with a pair of Fours
+Seat 2: LFeitosa69 folded before Flop (didn't bet)
+Seat 3: adimog folded before Flop (didn't bet)
+Seat 4: dino751957 (button) mucked [Js 9c]
+Seat 5: Gioiatpkmj (small blind) folded before Flop
+Seat 6: maccen67 (big blind) folded before Flop
+Seat 7: Fefu77 folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: duki12 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184037448607: Tournament #2253375197, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/03/18 15:45:19 ET
+Table '2253375197 4' 9-max Seat #5 is the button
+Seat 1: epukas (1485 in chips) 
+Seat 2: LFeitosa69 (1478 in chips) 
+Seat 3: adimog (1499 in chips) 
+Seat 4: dino751957 (1976 in chips) 
+Seat 5: Gioiatpkmj (1461 in chips) 
+Seat 6: maccen67 (1477 in chips) 
+Seat 7: Fefu77 (1488 in chips) 
+Seat 8: ollikahn23 (1148 in chips) 
+Seat 9: duki12 (1488 in chips) 
+epukas: posts the ante 3
+LFeitosa69: posts the ante 3
+adimog: posts the ante 3
+dino751957: posts the ante 3
+Gioiatpkmj: posts the ante 3
+maccen67: posts the ante 3
+Fefu77: posts the ante 3
+ollikahn23: posts the ante 3
+duki12: posts the ante 3
+maccen67: posts small blind 10
+Fefu77: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6c 3d]
+ollikahn23: folds 
+duki12: calls 20
+epukas: raises 20 to 40
+LFeitosa69: folds 
+adimog: calls 40
+dino751957: calls 40
+Gioiatpkmj: raises 200 to 240
+maccen67: folds 
+Fefu77: raises 1245 to 1485 and is all-in
+duki12: folds 
+epukas: folds 
+adimog: folds 
+dino751957: folds 
+Gioiatpkmj: folds [As]
+Uncalled bet (1245) returned to Fefu77
+Fefu77 collected 657 from pot
+*** SUMMARY ***
+Total pot 657 | Rake 0 
+Seat 1: epukas folded before Flop
+Seat 2: LFeitosa69 folded before Flop (didn't bet)
+Seat 3: adimog folded before Flop
+Seat 4: dino751957 folded before Flop
+Seat 5: Gioiatpkmj (button) folded before Flop
+Seat 6: maccen67 (small blind) folded before Flop
+Seat 7: Fefu77 (big blind) collected (657)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: duki12 folded before Flop
+
+
+
+PokerStars Hand #184037514093: Tournament #2253375197, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/03/18 15:46:25 ET
+Table '2253375197 4' 9-max Seat #6 is the button
+Seat 2: LFeitosa69 (1475 in chips) 
+Seat 3: adimog (1456 in chips) 
+Seat 4: dino751957 (1933 in chips) 
+Seat 5: Gioiatpkmj (1218 in chips) 
+Seat 6: maccen67 (1464 in chips) 
+Seat 7: Fefu77 (1902 in chips) 
+Seat 8: ollikahn23 (1145 in chips) 
+Seat 9: duki12 (1465 in chips) 
+LFeitosa69: posts the ante 3
+adimog: posts the ante 3
+dino751957: posts the ante 3
+Gioiatpkmj: posts the ante 3
+maccen67: posts the ante 3
+Fefu77: posts the ante 3
+ollikahn23: posts the ante 3
+duki12: posts the ante 3
+Fefu77: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jc 8h]
+duki12: folds 
+LFeitosa69: folds 
+adimog: folds 
+dino751957: calls 20
+Gioiatpkmj: folds 
+maccen67: folds 
+Fefu77: raises 80 to 100
+ollikahn23: folds 
+dino751957: calls 80
+*** FLOP *** [7h 6d 7c]
+Fefu77: bets 150
+dino751957: folds 
+Uncalled bet (150) returned to Fefu77
+Fefu77 collected 244 from pot
+*** SUMMARY ***
+Total pot 244 | Rake 0 
+Board [7h 6d 7c]
+Seat 2: LFeitosa69 folded before Flop (didn't bet)
+Seat 3: adimog folded before Flop (didn't bet)
+Seat 4: dino751957 folded on the Flop
+Seat 5: Gioiatpkmj folded before Flop (didn't bet)
+Seat 6: maccen67 (button) folded before Flop (didn't bet)
+Seat 7: Fefu77 (small blind) collected (244)
+Seat 8: ollikahn23 (big blind) folded before Flop
+Seat 9: duki12 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184037576697: Tournament #2253375197, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/03/18 15:47:29 ET
+Table '2253375197 4' 9-max Seat #7 is the button
+Seat 2: LFeitosa69 (1472 in chips) 
+Seat 3: adimog (1453 in chips) 
+Seat 4: dino751957 (1830 in chips) 
+Seat 5: Gioiatpkmj (1215 in chips) 
+Seat 6: maccen67 (1461 in chips) 
+Seat 7: Fefu77 (2043 in chips) 
+Seat 8: ollikahn23 (1122 in chips) 
+Seat 9: duki12 (1462 in chips) 
+LFeitosa69: posts the ante 3
+adimog: posts the ante 3
+dino751957: posts the ante 3
+Gioiatpkmj: posts the ante 3
+maccen67: posts the ante 3
+Fefu77: posts the ante 3
+ollikahn23: posts the ante 3
+duki12: posts the ante 3
+ollikahn23: posts small blind 10
+duki12: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5s 2s]
+LFeitosa69: raises 40 to 60
+adimog: folds 
+dino751957: calls 60
+Gioiatpkmj: folds 
+maccen67: calls 60
+Fefu77: folds 
+ollikahn23: calls 50
+duki12: calls 40
+*** FLOP *** [Kh 4d 9d]
+ollikahn23: checks 
+duki12: checks 
+LFeitosa69: checks 
+dino751957: checks 
+maccen67: checks 
+*** TURN *** [Kh 4d 9d] [Jd]
+ollikahn23: checks 
+duki12: checks 
+LFeitosa69: bets 107
+dino751957: folds 
+maccen67: folds 
+ollikahn23: folds 
+duki12: folds 
+Uncalled bet (107) returned to LFeitosa69
+LFeitosa69 collected 324 from pot
+*** SUMMARY ***
+Total pot 324 | Rake 0 
+Board [Kh 4d 9d Jd]
+Seat 2: LFeitosa69 collected (324)
+Seat 3: adimog folded before Flop (didn't bet)
+Seat 4: dino751957 folded on the Turn
+Seat 5: Gioiatpkmj folded before Flop (didn't bet)
+Seat 6: maccen67 folded on the Turn
+Seat 7: Fefu77 (button) folded before Flop (didn't bet)
+Seat 8: ollikahn23 (small blind) folded on the Turn
+Seat 9: duki12 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #184037668362: Tournament #2253375197, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/03/18 15:49:02 ET
+Table '2253375197 4' 9-max Seat #8 is the button
+Seat 1: jannikvslg (1500 in chips) 
+Seat 2: LFeitosa69 (1733 in chips) 
+Seat 3: adimog (1450 in chips) 
+Seat 5: Gioiatpkmj (1212 in chips) 
+Seat 6: maccen67 (1398 in chips) 
+Seat 7: Fefu77 (2040 in chips) 
+Seat 8: ollikahn23 (1059 in chips) 
+Seat 9: duki12 (1399 in chips) 
+jannikvslg: posts the ante 3
+LFeitosa69: posts the ante 3
+adimog: posts the ante 3
+Gioiatpkmj: posts the ante 3
+maccen67: posts the ante 3
+Fefu77: posts the ante 3
+ollikahn23: posts the ante 3
+duki12: posts the ante 3
+duki12: posts small blind 10
+jannikvslg: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jh 3s]
+LFeitosa69: folds 
+adimog: raises 20 to 40
+Gioiatpkmj: folds 
+maccen67: calls 40
+Fefu77: folds 
+ollikahn23: folds 
+duki12: folds 
+jannikvslg: calls 20
+*** FLOP *** [Jc Js Td]
+jannikvslg: checks 
+adimog: bets 160
+maccen67: calls 160
+jannikvslg: folds 
+*** TURN *** [Jc Js Td] [Kh]
+adimog: checks 
+maccen67: bets 474
+adimog: folds 
+Uncalled bet (474) returned to maccen67
+maccen67 collected 474 from pot
+*** SUMMARY ***
+Total pot 474 | Rake 0 
+Board [Jc Js Td Kh]
+Seat 1: jannikvslg (big blind) folded on the Flop
+Seat 2: LFeitosa69 folded before Flop (didn't bet)
+Seat 3: adimog folded on the Turn
+Seat 5: Gioiatpkmj folded before Flop (didn't bet)
+Seat 6: maccen67 collected (474)
+Seat 7: Fefu77 folded before Flop (didn't bet)
+Seat 8: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 9: duki12 (small blind) folded before Flop
+
+
+
+PokerStars Hand #184037709626: Tournament #2253375197, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/03/18 15:49:44 ET
+Table '2253375197 4' 9-max Seat #9 is the button
+Seat 1: jannikvslg (1457 in chips) 
+Seat 2: LFeitosa69 (1730 in chips) 
+Seat 3: adimog (1247 in chips) 
+Seat 5: Gioiatpkmj (1209 in chips) 
+Seat 6: maccen67 (1669 in chips) 
+Seat 7: Fefu77 (2037 in chips) 
+Seat 8: ollikahn23 (1056 in chips) 
+Seat 9: duki12 (1386 in chips) 
+jannikvslg: posts the ante 3
+LFeitosa69: posts the ante 3
+adimog: posts the ante 3
+Gioiatpkmj: posts the ante 3
+maccen67: posts the ante 3
+Fefu77: posts the ante 3
+ollikahn23: posts the ante 3
+duki12: posts the ante 3
+jannikvslg: posts small blind 10
+LFeitosa69: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4h 6h]
+adimog: calls 20
+Gioiatpkmj: folds 
+maccen67: folds 
+Fefu77: folds 
+ollikahn23: calls 20
+duki12: folds 
+jannikvslg: folds 
+LFeitosa69: checks 
+*** FLOP *** [Jd 6s 5d]
+LFeitosa69: bets 63
+adimog: raises 117 to 180
+ollikahn23: folds 
+LFeitosa69: raises 304 to 484
+adimog: raises 740 to 1224 and is all-in
+LFeitosa69: calls 740
+*** TURN *** [Jd 6s 5d] [Ts]
+*** RIVER *** [Jd 6s 5d Ts] [Kh]
+*** SHOW DOWN ***
+LFeitosa69: shows [Jh 6c] (two pair, Jacks and Sixes)
+adimog: shows [Ad 7d] (high card Ace)
+LFeitosa69 collected 2542 from pot
+adimog finished the tournament
+*** SUMMARY ***
+Total pot 2542 | Rake 0 
+Board [Jd 6s 5d Ts Kh]
+Seat 1: jannikvslg (small blind) folded before Flop
+Seat 2: LFeitosa69 (big blind) showed [Jh 6c] and won (2542) with two pair, Jacks and Sixes
+Seat 3: adimog showed [Ad 7d] and lost with high card Ace
+Seat 5: Gioiatpkmj folded before Flop (didn't bet)
+Seat 6: maccen67 folded before Flop (didn't bet)
+Seat 7: Fefu77 folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded on the Flop
+Seat 9: duki12 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184037761056: Tournament #2253375197, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/03/18 15:50:36 ET
+Table '2253375197 4' 9-max Seat #1 is the button
+Seat 1: jannikvslg (1444 in chips) 
+Seat 2: LFeitosa69 (3025 in chips) 
+Seat 4: loginsergo (1500 in chips) 
+Seat 5: Gioiatpkmj (1206 in chips) 
+Seat 6: maccen67 (1666 in chips) 
+Seat 7: Fefu77 (2034 in chips) 
+Seat 8: ollikahn23 (1033 in chips) 
+Seat 9: duki12 (1383 in chips) 
+jannikvslg: posts the ante 3
+LFeitosa69: posts the ante 3
+loginsergo: posts the ante 3
+Gioiatpkmj: posts the ante 3
+maccen67: posts the ante 3
+Fefu77: posts the ante 3
+ollikahn23: posts the ante 3
+duki12: posts the ante 3
+LFeitosa69: posts small blind 10
+loginsergo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kc 5h]
+Gioiatpkmj: folds 
+maccen67: calls 20
+Fefu77: folds 
+ollikahn23: folds 
+duki12: folds 
+jannikvslg: folds 
+LFeitosa69: folds 
+loginsergo: checks 
+*** FLOP *** [Jd Jc 7s]
+loginsergo: checks 
+maccen67: checks 
+*** TURN *** [Jd Jc 7s] [4c]
+loginsergo: checks 
+maccen67: bets 40
+loginsergo: folds 
+Uncalled bet (40) returned to maccen67
+maccen67 collected 74 from pot
+*** SUMMARY ***
+Total pot 74 | Rake 0 
+Board [Jd Jc 7s 4c]
+Seat 1: jannikvslg (button) folded before Flop (didn't bet)
+Seat 2: LFeitosa69 (small blind) folded before Flop
+Seat 4: loginsergo (big blind) folded on the Turn
+Seat 5: Gioiatpkmj folded before Flop (didn't bet)
+Seat 6: maccen67 collected (74)
+Seat 7: Fefu77 folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: duki12 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184037835864: Tournament #2253375197, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/03/18 15:51:53 ET
+Table '2253375197 4' 9-max Seat #2 is the button
+Seat 1: jannikvslg (1441 in chips) 
+Seat 2: LFeitosa69 (3012 in chips) 
+Seat 3: tragodias7 (1500 in chips) out of hand (moved from another table into small blind)
+Seat 4: loginsergo (1477 in chips) 
+Seat 5: Gioiatpkmj (1203 in chips) 
+Seat 6: maccen67 (1717 in chips) 
+Seat 7: Fefu77 (2031 in chips) 
+Seat 8: ollikahn23 (1030 in chips) 
+Seat 9: duki12 (1380 in chips) 
+tragodias7 will be allowed to play after the button
+jannikvslg: posts the ante 3
+LFeitosa69: posts the ante 3
+loginsergo: posts the ante 3
+Gioiatpkmj: posts the ante 3
+maccen67: posts the ante 3
+Fefu77: posts the ante 3
+ollikahn23: posts the ante 3
+duki12: posts the ante 3
+loginsergo: posts small blind 10
+Gioiatpkmj: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Th Js]
+maccen67: folds 
+Fefu77: folds 
+ollikahn23: folds 
+duki12: folds 
+jannikvslg: raises 74 to 94
+LFeitosa69: folds 
+loginsergo: folds 
+Gioiatpkmj: calls 74
+*** FLOP *** [4c 5h Qh]
+Gioiatpkmj: checks 
+jannikvslg: bets 222
+Gioiatpkmj: folds 
+Uncalled bet (222) returned to jannikvslg
+jannikvslg collected 222 from pot
+jannikvslg: doesn't show hand 
+*** SUMMARY ***
+Total pot 222 | Rake 0 
+Board [4c 5h Qh]
+Seat 1: jannikvslg collected (222)
+Seat 2: LFeitosa69 (button) folded before Flop (didn't bet)
+Seat 4: loginsergo (small blind) folded before Flop
+Seat 5: Gioiatpkmj (big blind) folded on the Flop
+Seat 6: maccen67 folded before Flop (didn't bet)
+Seat 7: Fefu77 folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: duki12 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184037901887: Tournament #2253375197, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/03/18 15:53:00 ET
+Table '2253375197 4' 9-max Seat #4 is the button
+Seat 1: jannikvslg (1566 in chips) 
+Seat 2: LFeitosa69 (3009 in chips) 
+Seat 3: tragodias7 (1500 in chips) 
+Seat 4: loginsergo (1464 in chips) 
+Seat 5: Gioiatpkmj (1106 in chips) 
+Seat 7: Fefu77 (2028 in chips) 
+Seat 8: ollikahn23 (1027 in chips) 
+Seat 9: duki12 (1377 in chips) 
+jannikvslg: posts the ante 3
+LFeitosa69: posts the ante 3
+tragodias7: posts the ante 3
+loginsergo: posts the ante 3
+Gioiatpkmj: posts the ante 3
+Fefu77: posts the ante 3
+ollikahn23: posts the ante 3
+duki12: posts the ante 3
+Gioiatpkmj: posts small blind 10
+Fefu77: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jh 5d]
+ollikahn23: folds 
+duki12: folds 
+jannikvslg: raises 40 to 60
+LFeitosa69: folds 
+tragodias7: folds 
+loginsergo: folds 
+Gioiatpkmj: folds 
+Fefu77: folds 
+Uncalled bet (40) returned to jannikvslg
+jannikvslg collected 74 from pot
+jannikvslg: doesn't show hand 
+*** SUMMARY ***
+Total pot 74 | Rake 0 
+Seat 1: jannikvslg collected (74)
+Seat 2: LFeitosa69 folded before Flop (didn't bet)
+Seat 3: tragodias7 folded before Flop (didn't bet)
+Seat 4: loginsergo (button) folded before Flop (didn't bet)
+Seat 5: Gioiatpkmj (small blind) folded before Flop
+Seat 7: Fefu77 (big blind) folded before Flop
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: duki12 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184037944184: Tournament #2253375197, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/03/18 15:53:44 ET
+Table '2253375197 4' 9-max Seat #5 is the button
+Seat 1: jannikvslg (1617 in chips) 
+Seat 2: LFeitosa69 (3006 in chips) 
+Seat 3: tragodias7 (1497 in chips) 
+Seat 4: loginsergo (1461 in chips) 
+Seat 5: Gioiatpkmj (1093 in chips) 
+Seat 7: Fefu77 (2005 in chips) 
+Seat 8: ollikahn23 (1024 in chips) 
+Seat 9: duki12 (1374 in chips) 
+jannikvslg: posts the ante 3
+LFeitosa69: posts the ante 3
+tragodias7: posts the ante 3
+loginsergo: posts the ante 3
+Gioiatpkmj: posts the ante 3
+Fefu77: posts the ante 3
+ollikahn23: posts the ante 3
+duki12: posts the ante 3
+Fefu77: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6h 4d]
+duki12: calls 20
+jannikvslg: folds 
+LFeitosa69: raises 60 to 80
+tragodias7: folds 
+loginsergo: folds 
+Gioiatpkmj: folds 
+Fefu77: folds 
+ollikahn23: folds 
+duki12: calls 60
+*** FLOP *** [3d 8c 3h]
+duki12: checks 
+LFeitosa69: bets 71
+duki12: raises 71 to 142
+LFeitosa69: calls 71
+*** TURN *** [3d 8c 3h] [Qh]
+duki12: bets 498
+LFeitosa69: folds 
+Uncalled bet (498) returned to duki12
+duki12 collected 498 from pot
+*** SUMMARY ***
+Total pot 498 | Rake 0 
+Board [3d 8c 3h Qh]
+Seat 1: jannikvslg folded before Flop (didn't bet)
+Seat 2: LFeitosa69 folded on the Turn
+Seat 3: tragodias7 folded before Flop (didn't bet)
+Seat 4: loginsergo folded before Flop (didn't bet)
+Seat 5: Gioiatpkmj (button) folded before Flop (didn't bet)
+Seat 7: Fefu77 (small blind) folded before Flop
+Seat 8: ollikahn23 (big blind) folded before Flop
+Seat 9: duki12 collected (498)
+
+
+
+PokerStars Hand #184038020471: Tournament #2253375197, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/03/18 15:54:54 ET
+Table '2253375197 4' 9-max Seat #7 is the button
+Seat 1: jannikvslg (1614 in chips) 
+Seat 2: LFeitosa69 (2781 in chips) 
+Seat 3: tragodias7 (1494 in chips) 
+Seat 4: loginsergo (1458 in chips) 
+Seat 5: Gioiatpkmj (1090 in chips) 
+Seat 7: Fefu77 (1992 in chips) 
+Seat 8: ollikahn23 (1001 in chips) 
+Seat 9: duki12 (1647 in chips) 
+jannikvslg: posts the ante 3
+LFeitosa69: posts the ante 3
+tragodias7: posts the ante 3
+loginsergo: posts the ante 3
+Gioiatpkmj: posts the ante 3
+Fefu77: posts the ante 3
+ollikahn23: posts the ante 3
+duki12: posts the ante 3
+ollikahn23: posts small blind 10
+duki12: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7h As]
+jannikvslg: folds 
+LFeitosa69: folds 
+tragodias7: folds 
+loginsergo: folds 
+Gioiatpkmj: folds 
+Fefu77: folds 
+ollikahn23: raises 60 to 80
+duki12: calls 60
+*** FLOP *** [6s 5c Ad]
+ollikahn23: bets 120
+duki12: raises 424 to 544
+ollikahn23: raises 374 to 918 and is all-in
+duki12: calls 374
+*** TURN *** [6s 5c Ad] [6d]
+*** RIVER *** [6s 5c Ad 6d] [5s]
+*** SHOW DOWN ***
+ollikahn23: shows [7h As] (two pair, Aces and Sixes)
+duki12: shows [Ah 9d] (two pair, Aces and Sixes - Nine kicker)
+duki12 collected 2020 from pot
+ollikahn23 finished the tournament
+*** SUMMARY ***
+Total pot 2020 | Rake 0 
+Board [6s 5c Ad 6d 5s]
+Seat 1: jannikvslg folded before Flop (didn't bet)
+Seat 2: LFeitosa69 folded before Flop (didn't bet)
+Seat 3: tragodias7 folded before Flop (didn't bet)
+Seat 4: loginsergo folded before Flop (didn't bet)
+Seat 5: Gioiatpkmj folded before Flop (didn't bet)
+Seat 7: Fefu77 (button) folded before Flop (didn't bet)
+Seat 8: ollikahn23 (small blind) showed [7h As] and lost with two pair, Aces and Sixes
+Seat 9: duki12 (big blind) showed [Ah 9d] and won (2020) with two pair, Aces and Sixes
+
+
+

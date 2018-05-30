@@ -1,0 +1,2680 @@
+﻿PokerStars Hand #184036342002: Tournament #2253368313, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/03/18 15:26:52 ET
+Table '2253368313 3' 9-max Seat #1 is the button
+Seat 1: davdav23 (1500 in chips) 
+Seat 2: VAIO-Fer (1500 in chips) 
+Seat 3: tommasi_BR (1500 in chips) 
+Seat 4: epukas (1500 in chips) 
+Seat 6: haleyjones (1500 in chips) 
+Seat 7: flokinho86 (1500 in chips) 
+Seat 8: ollikahn23 (1500 in chips) 
+Seat 9: ragnarstars7 (1500 in chips) 
+davdav23: posts the ante 3
+VAIO-Fer: posts the ante 3
+tommasi_BR: posts the ante 3
+epukas: posts the ante 3
+haleyjones: posts the ante 3
+flokinho86: posts the ante 3
+ollikahn23: posts the ante 3
+ragnarstars7: posts the ante 3
+VAIO-Fer: posts small blind 10
+tommasi_BR: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4d 8c]
+epukas: folds 
+haleyjones: folds 
+flokinho86: raises 30 to 50
+ollikahn23: folds 
+ragnarstars7: folds 
+davdav23: folds 
+VAIO-Fer: folds 
+tommasi_BR: calls 30
+*** FLOP *** [Qh 9d Ah]
+tommasi_BR: checks 
+flokinho86: checks 
+*** TURN *** [Qh 9d Ah] [Qc]
+tommasi_BR: bets 100
+flokinho86: folds 
+Uncalled bet (100) returned to tommasi_BR
+tommasi_BR collected 134 from pot
+tommasi_BR: doesn't show hand 
+*** SUMMARY ***
+Total pot 134 | Rake 0 
+Board [Qh 9d Ah Qc]
+Seat 1: davdav23 (button) folded before Flop (didn't bet)
+Seat 2: VAIO-Fer (small blind) folded before Flop
+Seat 3: tommasi_BR (big blind) collected (134)
+Seat 4: epukas folded before Flop (didn't bet)
+Seat 6: haleyjones folded before Flop (didn't bet)
+Seat 7: flokinho86 folded on the Turn
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: ragnarstars7 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184036395012: Tournament #2253368313, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/03/18 15:27:46 ET
+Table '2253368313 3' 9-max Seat #2 is the button
+Seat 1: davdav23 (1497 in chips) 
+Seat 2: VAIO-Fer (1487 in chips) 
+Seat 3: tommasi_BR (1581 in chips) 
+Seat 4: epukas (1497 in chips) 
+Seat 5: mafia_godfather (1500 in chips) 
+Seat 6: haleyjones (1497 in chips) 
+Seat 7: flokinho86 (1447 in chips) 
+Seat 8: ollikahn23 (1497 in chips) 
+Seat 9: ragnarstars7 (1497 in chips) 
+davdav23: posts the ante 3
+VAIO-Fer: posts the ante 3
+tommasi_BR: posts the ante 3
+epukas: posts the ante 3
+mafia_godfather: posts the ante 3
+haleyjones: posts the ante 3
+flokinho86: posts the ante 3
+ollikahn23: posts the ante 3
+ragnarstars7: posts the ante 3
+tommasi_BR: posts small blind 10
+epukas: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qh 6d]
+mafia_godfather: raises 20 to 40
+haleyjones: raises 120 to 160
+flokinho86: folds 
+ollikahn23: folds 
+ragnarstars7: folds 
+davdav23: folds 
+VAIO-Fer: folds 
+tommasi_BR: folds 
+epukas: calls 140
+mafia_godfather: calls 120
+*** FLOP *** [2d 6s 9h]
+epukas: checks 
+mafia_godfather: bets 120
+haleyjones: raises 394 to 514
+epukas: calls 514
+mafia_godfather: folds 
+*** TURN *** [2d 6s 9h] [Jd]
+epukas: checks 
+haleyjones: bets 820 and is all-in
+epukas: calls 820 and is all-in
+*** RIVER *** [2d 6s 9h Jd] [9s]
+*** SHOW DOWN ***
+epukas: shows [7c 7d] (two pair, Nines and Sevens)
+haleyjones: shows [Kh Kd] (two pair, Kings and Nines)
+haleyjones collected 3305 from pot
+epukas finished the tournament
+*** SUMMARY ***
+Total pot 3305 | Rake 0 
+Board [2d 6s 9h Jd 9s]
+Seat 1: davdav23 folded before Flop (didn't bet)
+Seat 2: VAIO-Fer (button) folded before Flop (didn't bet)
+Seat 3: tommasi_BR (small blind) folded before Flop
+Seat 4: epukas (big blind) showed [7c 7d] and lost with two pair, Nines and Sevens
+Seat 5: mafia_godfather folded on the Flop
+Seat 6: haleyjones showed [Kh Kd] and won (3305) with two pair, Kings and Nines
+Seat 7: flokinho86 folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: ragnarstars7 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184036458138: Tournament #2253368313, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/03/18 15:28:48 ET
+Table '2253368313 3' 9-max Seat #3 is the button
+Seat 1: davdav23 (1494 in chips) 
+Seat 2: VAIO-Fer (1484 in chips) 
+Seat 3: tommasi_BR (1568 in chips) 
+Seat 5: mafia_godfather (1217 in chips) 
+Seat 6: haleyjones (3305 in chips) 
+Seat 7: flokinho86 (1444 in chips) 
+Seat 8: ollikahn23 (1494 in chips) 
+Seat 9: ragnarstars7 (1494 in chips) 
+davdav23: posts the ante 3
+VAIO-Fer: posts the ante 3
+tommasi_BR: posts the ante 3
+mafia_godfather: posts the ante 3
+haleyjones: posts the ante 3
+flokinho86: posts the ante 3
+ollikahn23: posts the ante 3
+ragnarstars7: posts the ante 3
+mafia_godfather: posts small blind 10
+haleyjones: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6d 4c]
+flokinho86: folds 
+ollikahn23: folds 
+ragnarstars7: raises 40 to 60
+davdav23: folds 
+VAIO-Fer: raises 75 to 135
+tommasi_BR: folds 
+mafia_godfather: folds 
+haleyjones: folds 
+ragnarstars7: calls 75
+*** FLOP *** [2c 4d 9s]
+ragnarstars7: checks 
+VAIO-Fer: bets 123
+ragnarstars7: folds 
+Uncalled bet (123) returned to VAIO-Fer
+VAIO-Fer collected 324 from pot
+VAIO-Fer: doesn't show hand 
+*** SUMMARY ***
+Total pot 324 | Rake 0 
+Board [2c 4d 9s]
+Seat 1: davdav23 folded before Flop (didn't bet)
+Seat 2: VAIO-Fer collected (324)
+Seat 3: tommasi_BR (button) folded before Flop (didn't bet)
+Seat 5: mafia_godfather (small blind) folded before Flop
+Seat 6: haleyjones (big blind) folded before Flop
+Seat 7: flokinho86 folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: ragnarstars7 folded on the Flop
+
+
+
+PokerStars Hand #184036506757: Tournament #2253368313, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/03/18 15:29:37 ET
+Table '2253368313 3' 9-max Seat #5 is the button
+Seat 1: davdav23 (1491 in chips) 
+Seat 2: VAIO-Fer (1670 in chips) 
+Seat 3: tommasi_BR (1565 in chips) 
+Seat 4: Dragonu664 (1500 in chips) 
+Seat 5: mafia_godfather (1204 in chips) 
+Seat 6: haleyjones (3282 in chips) 
+Seat 7: flokinho86 (1441 in chips) 
+Seat 8: ollikahn23 (1491 in chips) 
+Seat 9: ragnarstars7 (1356 in chips) 
+davdav23: posts the ante 3
+VAIO-Fer: posts the ante 3
+tommasi_BR: posts the ante 3
+Dragonu664: posts the ante 3
+mafia_godfather: posts the ante 3
+haleyjones: posts the ante 3
+flokinho86: posts the ante 3
+ollikahn23: posts the ante 3
+ragnarstars7: posts the ante 3
+haleyjones: posts small blind 10
+flokinho86: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7c 9d]
+ollikahn23: folds 
+ragnarstars7: raises 40 to 60
+davdav23: folds 
+VAIO-Fer: folds 
+tommasi_BR: folds 
+Dragonu664: raises 40 to 100
+mafia_godfather: folds 
+haleyjones: folds 
+flokinho86: folds 
+ragnarstars7: calls 40
+*** FLOP *** [Qh Ad Kd]
+ragnarstars7: checks 
+Dragonu664: bets 120
+ragnarstars7: folds 
+Uncalled bet (120) returned to Dragonu664
+Dragonu664 collected 257 from pot
+Dragonu664: doesn't show hand 
+*** SUMMARY ***
+Total pot 257 | Rake 0 
+Board [Qh Ad Kd]
+Seat 1: davdav23 folded before Flop (didn't bet)
+Seat 2: VAIO-Fer folded before Flop (didn't bet)
+Seat 3: tommasi_BR folded before Flop (didn't bet)
+Seat 4: Dragonu664 collected (257)
+Seat 5: mafia_godfather (button) folded before Flop (didn't bet)
+Seat 6: haleyjones (small blind) folded before Flop
+Seat 7: flokinho86 (big blind) folded before Flop
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: ragnarstars7 folded on the Flop
+
+
+
+PokerStars Hand #184036571450: Tournament #2253368313, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/03/18 15:30:42 ET
+Table '2253368313 3' 9-max Seat #6 is the button
+Seat 2: VAIO-Fer (1667 in chips) 
+Seat 3: tommasi_BR (1562 in chips) 
+Seat 4: Dragonu664 (1654 in chips) 
+Seat 5: mafia_godfather (1201 in chips) 
+Seat 6: haleyjones (3269 in chips) 
+Seat 7: flokinho86 (1418 in chips) 
+Seat 8: ollikahn23 (1488 in chips) 
+Seat 9: ragnarstars7 (1253 in chips) 
+VAIO-Fer: posts the ante 3
+tommasi_BR: posts the ante 3
+Dragonu664: posts the ante 3
+mafia_godfather: posts the ante 3
+haleyjones: posts the ante 3
+flokinho86: posts the ante 3
+ollikahn23: posts the ante 3
+ragnarstars7: posts the ante 3
+flokinho86: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8s 2s]
+ragnarstars7: calls 20
+VAIO-Fer: folds 
+tommasi_BR: folds 
+Dragonu664: raises 20 to 40
+mafia_godfather: calls 40
+haleyjones: folds 
+flokinho86: folds 
+ollikahn23: calls 20
+ragnarstars7: calls 20
+*** FLOP *** [Kd Ks Ad]
+ollikahn23: checks 
+ragnarstars7: checks 
+Dragonu664: bets 100
+mafia_godfather: folds 
+ollikahn23: folds 
+ragnarstars7: calls 100
+*** TURN *** [Kd Ks Ad] [Jd]
+ragnarstars7: checks 
+Dragonu664: bets 200
+ragnarstars7: calls 200
+*** RIVER *** [Kd Ks Ad Jd] [7h]
+ragnarstars7: bets 420
+Dragonu664: folds 
+Uncalled bet (420) returned to ragnarstars7
+ragnarstars7 collected 794 from pot
+*** SUMMARY ***
+Total pot 794 | Rake 0 
+Board [Kd Ks Ad Jd 7h]
+Seat 2: VAIO-Fer folded before Flop (didn't bet)
+Seat 3: tommasi_BR folded before Flop (didn't bet)
+Seat 4: Dragonu664 folded on the River
+Seat 5: mafia_godfather folded on the Flop
+Seat 6: haleyjones (button) folded before Flop (didn't bet)
+Seat 7: flokinho86 (small blind) folded before Flop
+Seat 8: ollikahn23 (big blind) folded on the Flop
+Seat 9: ragnarstars7 collected (794)
+
+
+
+PokerStars Hand #184036660686: Tournament #2253368313, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/03/18 15:32:12 ET
+Table '2253368313 3' 9-max Seat #7 is the button
+Seat 2: VAIO-Fer (1664 in chips) 
+Seat 3: tommasi_BR (1559 in chips) 
+Seat 4: Dragonu664 (1311 in chips) 
+Seat 5: mafia_godfather (1158 in chips) 
+Seat 6: haleyjones (3266 in chips) 
+Seat 7: flokinho86 (1405 in chips) 
+Seat 8: ollikahn23 (1445 in chips) 
+Seat 9: ragnarstars7 (1704 in chips) 
+VAIO-Fer: posts the ante 3
+tommasi_BR: posts the ante 3
+Dragonu664: posts the ante 3
+mafia_godfather: posts the ante 3
+haleyjones: posts the ante 3
+flokinho86: posts the ante 3
+ollikahn23: posts the ante 3
+ragnarstars7: posts the ante 3
+ollikahn23: posts small blind 10
+ragnarstars7: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2c 2d]
+VAIO-Fer: folds 
+tommasi_BR: folds 
+Dragonu664: raises 20 to 40
+mafia_godfather: calls 40
+haleyjones: folds 
+flokinho86: folds 
+ollikahn23: calls 30
+ragnarstars7: calls 20
+*** FLOP *** [Ts Qh 5h]
+ollikahn23: checks 
+ragnarstars7: checks 
+Dragonu664: bets 100
+mafia_godfather: calls 100
+ollikahn23: folds 
+ragnarstars7: calls 100
+*** TURN *** [Ts Qh 5h] [Kc]
+ragnarstars7: checks 
+Dragonu664: bets 240
+mafia_godfather: calls 240
+ragnarstars7: folds 
+*** RIVER *** [Ts Qh 5h Kc] [As]
+Dragonu664: bets 928 and is all-in
+mafia_godfather: calls 775 and is all-in
+Uncalled bet (153) returned to Dragonu664
+*** SHOW DOWN ***
+Dragonu664: shows [Jc Th] (a straight, Ten to Ace)
+mafia_godfather: shows [Jh Kd] (a straight, Ten to Ace)
+Dragonu664 collected 1257 from pot
+mafia_godfather collected 1257 from pot
+*** SUMMARY ***
+Total pot 2514 | Rake 0 
+Board [Ts Qh 5h Kc As]
+Seat 2: VAIO-Fer folded before Flop (didn't bet)
+Seat 3: tommasi_BR folded before Flop (didn't bet)
+Seat 4: Dragonu664 showed [Jc Th] and won (1257) with a straight, Ten to Ace
+Seat 5: mafia_godfather showed [Jh Kd] and won (1257) with a straight, Ten to Ace
+Seat 6: haleyjones folded before Flop (didn't bet)
+Seat 7: flokinho86 (button) folded before Flop (didn't bet)
+Seat 8: ollikahn23 (small blind) folded on the Flop
+Seat 9: ragnarstars7 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #184036767690: Tournament #2253368313, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/03/18 15:33:58 ET
+Table '2253368313 3' 9-max Seat #8 is the button
+Seat 1: BRMK1ng (1500 in chips) 
+Seat 2: VAIO-Fer (1661 in chips) 
+Seat 3: tommasi_BR (1556 in chips) 
+Seat 4: Dragonu664 (1410 in chips) 
+Seat 5: mafia_godfather (1257 in chips) 
+Seat 6: haleyjones (3263 in chips) 
+Seat 7: flokinho86 (1402 in chips) 
+Seat 8: ollikahn23 (1402 in chips) 
+Seat 9: ragnarstars7 (1561 in chips) 
+BRMK1ng: posts the ante 3
+VAIO-Fer: posts the ante 3
+tommasi_BR: posts the ante 3
+Dragonu664: posts the ante 3
+mafia_godfather: posts the ante 3
+haleyjones: posts the ante 3
+flokinho86: posts the ante 3
+ollikahn23: posts the ante 3
+ragnarstars7: posts the ante 3
+ragnarstars7: posts small blind 10
+BRMK1ng: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9s Tc]
+VAIO-Fer: folds 
+tommasi_BR: folds 
+Dragonu664: folds 
+mafia_godfather: raises 40 to 60
+haleyjones: folds 
+flokinho86: folds 
+ollikahn23: folds 
+ragnarstars7: raises 140 to 200
+BRMK1ng: folds 
+mafia_godfather: calls 140
+*** FLOP *** [9d Kh Qs]
+ragnarstars7: bets 160
+mafia_godfather: raises 240 to 400
+ragnarstars7: raises 260 to 660
+mafia_godfather: raises 260 to 920
+ragnarstars7: raises 438 to 1358 and is all-in
+mafia_godfather: calls 134 and is all-in
+Uncalled bet (304) returned to ragnarstars7
+*** TURN *** [9d Kh Qs] [As]
+*** RIVER *** [9d Kh Qs As] [3s]
+*** SHOW DOWN ***
+ragnarstars7: shows [9c 9h] (three of a kind, Nines)
+mafia_godfather: shows [Qd Ah] (two pair, Aces and Queens)
+ragnarstars7 collected 2555 from pot
+mafia_godfather finished the tournament
+*** SUMMARY ***
+Total pot 2555 | Rake 0 
+Board [9d Kh Qs As 3s]
+Seat 1: BRMK1ng (big blind) folded before Flop
+Seat 2: VAIO-Fer folded before Flop (didn't bet)
+Seat 3: tommasi_BR folded before Flop (didn't bet)
+Seat 4: Dragonu664 folded before Flop (didn't bet)
+Seat 5: mafia_godfather showed [Qd Ah] and lost with two pair, Aces and Queens
+Seat 6: haleyjones folded before Flop (didn't bet)
+Seat 7: flokinho86 folded before Flop (didn't bet)
+Seat 8: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 9: ragnarstars7 (small blind) showed [9c 9h] and won (2555) with three of a kind, Nines
+
+
+
+PokerStars Hand #184036852754: Tournament #2253368313, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/03/18 15:35:23 ET
+Table '2253368313 3' 9-max Seat #9 is the button
+Seat 1: BRMK1ng (1477 in chips) 
+Seat 2: VAIO-Fer (1658 in chips) 
+Seat 3: tommasi_BR (1553 in chips) 
+Seat 4: Dragonu664 (1407 in chips) 
+Seat 6: haleyjones (3260 in chips) 
+Seat 7: flokinho86 (1399 in chips) 
+Seat 8: ollikahn23 (1399 in chips) 
+Seat 9: ragnarstars7 (2859 in chips) 
+BRMK1ng: posts the ante 3
+VAIO-Fer: posts the ante 3
+tommasi_BR: posts the ante 3
+Dragonu664: posts the ante 3
+haleyjones: posts the ante 3
+flokinho86: posts the ante 3
+ollikahn23: posts the ante 3
+ragnarstars7: posts the ante 3
+BRMK1ng: posts small blind 10
+VAIO-Fer: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Js 2c]
+tommasi_BR: raises 40 to 60
+Dragonu664: folds 
+haleyjones: folds 
+flokinho86: folds 
+ollikahn23: folds 
+ragnarstars7: calls 60
+BRMK1ng: folds 
+VAIO-Fer: folds 
+*** FLOP *** [Qd Th Ts]
+tommasi_BR: checks 
+ragnarstars7: bets 60
+tommasi_BR: raises 120 to 180
+ragnarstars7: calls 120
+*** TURN *** [Qd Th Ts] [4d]
+tommasi_BR: bets 368
+ragnarstars7: folds 
+Uncalled bet (368) returned to tommasi_BR
+tommasi_BR collected 534 from pot
+tommasi_BR: doesn't show hand 
+*** SUMMARY ***
+Total pot 534 | Rake 0 
+Board [Qd Th Ts 4d]
+Seat 1: BRMK1ng (small blind) folded before Flop
+Seat 2: VAIO-Fer (big blind) folded before Flop
+Seat 3: tommasi_BR collected (534)
+Seat 4: Dragonu664 folded before Flop (didn't bet)
+Seat 6: haleyjones folded before Flop (didn't bet)
+Seat 7: flokinho86 folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: ragnarstars7 (button) folded on the Turn
+
+
+
+PokerStars Hand #184036912668: Tournament #2253368313, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/03/18 15:36:23 ET
+Table '2253368313 3' 9-max Seat #1 is the button
+Seat 1: BRMK1ng (1464 in chips) 
+Seat 2: VAIO-Fer (1635 in chips) 
+Seat 3: tommasi_BR (1844 in chips) 
+Seat 4: Dragonu664 (1404 in chips) 
+Seat 6: haleyjones (3257 in chips) 
+Seat 7: flokinho86 (1396 in chips) 
+Seat 8: ollikahn23 (1396 in chips) 
+Seat 9: ragnarstars7 (2616 in chips) 
+BRMK1ng: posts the ante 3
+VAIO-Fer: posts the ante 3
+tommasi_BR: posts the ante 3
+Dragonu664: posts the ante 3
+haleyjones: posts the ante 3
+flokinho86: posts the ante 3
+ollikahn23: posts the ante 3
+ragnarstars7: posts the ante 3
+VAIO-Fer: posts small blind 10
+tommasi_BR: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qc 2c]
+Dragonu664: raises 20 to 40
+haleyjones: folds 
+flokinho86: folds 
+ollikahn23: folds 
+ragnarstars7: calls 40
+BRMK1ng: folds 
+VAIO-Fer: folds 
+tommasi_BR: calls 20
+*** FLOP *** [7d Th 3d]
+tommasi_BR: checks 
+Dragonu664: bets 20
+ragnarstars7: calls 20
+tommasi_BR: raises 140 to 160
+Dragonu664: folds 
+ragnarstars7: folds 
+Uncalled bet (140) returned to tommasi_BR
+tommasi_BR collected 214 from pot
+tommasi_BR: doesn't show hand 
+*** SUMMARY ***
+Total pot 214 | Rake 0 
+Board [7d Th 3d]
+Seat 1: BRMK1ng (button) folded before Flop (didn't bet)
+Seat 2: VAIO-Fer (small blind) folded before Flop
+Seat 3: tommasi_BR (big blind) collected (214)
+Seat 4: Dragonu664 folded on the Flop
+Seat 6: haleyjones folded before Flop (didn't bet)
+Seat 7: flokinho86 folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: ragnarstars7 folded on the Flop
+
+
+
+PokerStars Hand #184036968267: Tournament #2253368313, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/03/18 15:37:18 ET
+Table '2253368313 3' 9-max Seat #2 is the button
+Seat 1: BRMK1ng (1461 in chips) 
+Seat 2: VAIO-Fer (1622 in chips) 
+Seat 3: tommasi_BR (1995 in chips) 
+Seat 4: Dragonu664 (1341 in chips) 
+Seat 6: haleyjones (3254 in chips) 
+Seat 7: flokinho86 (1393 in chips) 
+Seat 8: ollikahn23 (1393 in chips) 
+Seat 9: ragnarstars7 (2553 in chips) 
+BRMK1ng: posts the ante 3
+VAIO-Fer: posts the ante 3
+tommasi_BR: posts the ante 3
+Dragonu664: posts the ante 3
+haleyjones: posts the ante 3
+flokinho86: posts the ante 3
+ollikahn23: posts the ante 3
+ragnarstars7: posts the ante 3
+tommasi_BR: posts small blind 10
+Dragonu664: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qs 2s]
+haleyjones: folds 
+flokinho86: folds 
+ollikahn23: folds 
+ragnarstars7: folds 
+BRMK1ng: folds 
+VAIO-Fer: folds 
+tommasi_BR: folds 
+Uncalled bet (10) returned to Dragonu664
+Dragonu664 collected 44 from pot
+Dragonu664: doesn't show hand 
+*** SUMMARY ***
+Total pot 44 | Rake 0 
+Seat 1: BRMK1ng folded before Flop (didn't bet)
+Seat 2: VAIO-Fer (button) folded before Flop (didn't bet)
+Seat 3: tommasi_BR (small blind) folded before Flop
+Seat 4: Dragonu664 (big blind) collected (44)
+Seat 6: haleyjones folded before Flop (didn't bet)
+Seat 7: flokinho86 folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: ragnarstars7 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184036994796: Tournament #2253368313, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/03/18 15:37:45 ET
+Table '2253368313 3' 9-max Seat #3 is the button
+Seat 1: BRMK1ng (1458 in chips) 
+Seat 2: VAIO-Fer (1619 in chips) 
+Seat 3: tommasi_BR (1982 in chips) 
+Seat 4: Dragonu664 (1372 in chips) 
+Seat 6: haleyjones (3251 in chips) 
+Seat 7: flokinho86 (1390 in chips) 
+Seat 8: ollikahn23 (1390 in chips) 
+Seat 9: ragnarstars7 (2550 in chips) 
+BRMK1ng: posts the ante 3
+VAIO-Fer: posts the ante 3
+tommasi_BR: posts the ante 3
+Dragonu664: posts the ante 3
+haleyjones: posts the ante 3
+flokinho86: posts the ante 3
+ollikahn23: posts the ante 3
+ragnarstars7: posts the ante 3
+Dragonu664: posts small blind 10
+haleyjones: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kc 7s]
+flokinho86: folds 
+ollikahn23: folds 
+ragnarstars7: raises 40 to 60
+BRMK1ng: folds 
+VAIO-Fer: folds 
+tommasi_BR: calls 60
+Dragonu664: folds 
+haleyjones: folds 
+*** FLOP *** [9s Jd Jc]
+ragnarstars7: bets 60
+tommasi_BR: calls 60
+*** TURN *** [9s Jd Jc] [Js]
+ragnarstars7: bets 120
+tommasi_BR: calls 120
+*** RIVER *** [9s Jd Jc Js] [3d]
+ragnarstars7: checks 
+tommasi_BR: checks 
+*** SHOW DOWN ***
+ragnarstars7: shows [As 3c] (a full house, Jacks full of Threes)
+tommasi_BR: mucks hand 
+ragnarstars7 collected 534 from pot
+*** SUMMARY ***
+Total pot 534 | Rake 0 
+Board [9s Jd Jc Js 3d]
+Seat 1: BRMK1ng folded before Flop (didn't bet)
+Seat 2: VAIO-Fer folded before Flop (didn't bet)
+Seat 3: tommasi_BR (button) mucked [Ad Tc]
+Seat 4: Dragonu664 (small blind) folded before Flop
+Seat 6: haleyjones (big blind) folded before Flop
+Seat 7: flokinho86 folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: ragnarstars7 showed [As 3c] and won (534) with a full house, Jacks full of Threes
+
+
+
+PokerStars Hand #184037060544: Tournament #2253368313, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/03/18 15:38:50 ET
+Table '2253368313 3' 9-max Seat #4 is the button
+Seat 1: BRMK1ng (1455 in chips) 
+Seat 2: VAIO-Fer (1616 in chips) 
+Seat 3: tommasi_BR (1739 in chips) 
+Seat 4: Dragonu664 (1359 in chips) 
+Seat 5: kamijaa (1500 in chips) out of hand (moved from another table into small blind)
+Seat 6: haleyjones (3228 in chips) 
+Seat 7: flokinho86 (1387 in chips) 
+Seat 8: ollikahn23 (1387 in chips) 
+Seat 9: ragnarstars7 (2841 in chips) 
+kamijaa will be allowed to play after the button
+BRMK1ng: posts the ante 3
+VAIO-Fer: posts the ante 3
+tommasi_BR: posts the ante 3
+Dragonu664: posts the ante 3
+haleyjones: posts the ante 3
+flokinho86: posts the ante 3
+ollikahn23: posts the ante 3
+ragnarstars7: posts the ante 3
+haleyjones: posts small blind 10
+flokinho86: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ts Qd]
+ollikahn23: folds 
+ragnarstars7: raises 40 to 60
+BRMK1ng: folds 
+VAIO-Fer: folds 
+tommasi_BR: folds 
+Dragonu664: folds 
+haleyjones: folds 
+flokinho86: folds 
+Uncalled bet (40) returned to ragnarstars7
+ragnarstars7 collected 74 from pot
+*** SUMMARY ***
+Total pot 74 | Rake 0 
+Seat 1: BRMK1ng folded before Flop (didn't bet)
+Seat 2: VAIO-Fer folded before Flop (didn't bet)
+Seat 3: tommasi_BR folded before Flop (didn't bet)
+Seat 4: Dragonu664 (button) folded before Flop (didn't bet)
+Seat 6: haleyjones (small blind) folded before Flop
+Seat 7: flokinho86 (big blind) folded before Flop
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: ragnarstars7 collected (74)
+
+
+
+PokerStars Hand #184037092991: Tournament #2253368313, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/03/18 15:39:23 ET
+Table '2253368313 3' 9-max Seat #6 is the button
+Seat 1: BRMK1ng (1452 in chips) 
+Seat 2: VAIO-Fer (1613 in chips) 
+Seat 3: tommasi_BR (1736 in chips) 
+Seat 4: Dragonu664 (1356 in chips) 
+Seat 5: kamijaa (1500 in chips) 
+Seat 6: haleyjones (3215 in chips) 
+Seat 7: flokinho86 (1364 in chips) 
+Seat 8: ollikahn23 (1384 in chips) 
+Seat 9: ragnarstars7 (2892 in chips) 
+BRMK1ng: posts the ante 3
+VAIO-Fer: posts the ante 3
+tommasi_BR: posts the ante 3
+Dragonu664: posts the ante 3
+kamijaa: posts the ante 3
+haleyjones: posts the ante 3
+flokinho86: posts the ante 3
+ollikahn23: posts the ante 3
+ragnarstars7: posts the ante 3
+flokinho86: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ks 5s]
+ragnarstars7: calls 20
+BRMK1ng: folds 
+VAIO-Fer: folds 
+tommasi_BR: raises 80 to 100
+Dragonu664: folds 
+kamijaa: folds 
+haleyjones: folds 
+flokinho86: folds 
+ollikahn23: folds 
+ragnarstars7: raises 200 to 300
+tommasi_BR: calls 200
+*** FLOP *** [Kd 3d 7c]
+ragnarstars7: bets 100
+tommasi_BR: raises 380 to 480
+ragnarstars7: raises 480 to 960
+tommasi_BR: raises 473 to 1433 and is all-in
+Dragonu664 is disconnected 
+ragnarstars7: calls 473
+*** TURN *** [Kd 3d 7c] [4h]
+*** RIVER *** [Kd 3d 7c 4h] [4s]
+*** SHOW DOWN ***
+ragnarstars7: shows [Ad Ah] (two pair, Aces and Fours)
+tommasi_BR: shows [9d 7d] (two pair, Sevens and Fours)
+ragnarstars7 collected 3523 from pot
+tommasi_BR finished the tournament
+*** SUMMARY ***
+Total pot 3523 | Rake 0 
+Board [Kd 3d 7c 4h 4s]
+Seat 1: BRMK1ng folded before Flop (didn't bet)
+Seat 2: VAIO-Fer folded before Flop (didn't bet)
+Seat 3: tommasi_BR showed [9d 7d] and lost with two pair, Sevens and Fours
+Seat 4: Dragonu664 folded before Flop (didn't bet)
+Seat 5: kamijaa folded before Flop (didn't bet)
+Seat 6: haleyjones (button) folded before Flop (didn't bet)
+Seat 7: flokinho86 (small blind) folded before Flop
+Seat 8: ollikahn23 (big blind) folded before Flop
+Seat 9: ragnarstars7 showed [Ad Ah] and won (3523) with two pair, Aces and Fours
+
+
+
+PokerStars Hand #184037170776: Tournament #2253368313, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/03/18 15:40:40 ET
+Table '2253368313 3' 9-max Seat #7 is the button
+Seat 1: BRMK1ng (1449 in chips) 
+Seat 2: VAIO-Fer (1610 in chips) 
+Seat 4: Dragonu664 (1353 in chips) 
+Seat 5: kamijaa (1497 in chips) 
+Seat 6: haleyjones (3212 in chips) 
+Seat 7: flokinho86 (1351 in chips) 
+Seat 8: ollikahn23 (1361 in chips) 
+Seat 9: ragnarstars7 (4679 in chips) 
+BRMK1ng: posts the ante 3
+VAIO-Fer: posts the ante 3
+Dragonu664: posts the ante 3
+kamijaa: posts the ante 3
+haleyjones: posts the ante 3
+flokinho86: posts the ante 3
+ollikahn23: posts the ante 3
+ragnarstars7: posts the ante 3
+ollikahn23: posts small blind 10
+ragnarstars7: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4h Qc]
+BRMK1ng: folds 
+VAIO-Fer: folds 
+Dragonu664 is connected 
+Dragonu664: folds 
+kamijaa: folds 
+haleyjones: folds 
+flokinho86: folds 
+ollikahn23: folds 
+Uncalled bet (10) returned to ragnarstars7
+ragnarstars7 collected 44 from pot
+*** SUMMARY ***
+Total pot 44 | Rake 0 
+Seat 1: BRMK1ng folded before Flop (didn't bet)
+Seat 2: VAIO-Fer folded before Flop (didn't bet)
+Seat 4: Dragonu664 folded before Flop (didn't bet)
+Seat 5: kamijaa folded before Flop (didn't bet)
+Seat 6: haleyjones folded before Flop (didn't bet)
+Seat 7: flokinho86 (button) folded before Flop (didn't bet)
+Seat 8: ollikahn23 (small blind) folded before Flop
+Seat 9: ragnarstars7 (big blind) collected (44)
+
+
+
+PokerStars Hand #184037209289: Tournament #2253368313, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/03/18 15:41:19 ET
+Table '2253368313 3' 9-max Seat #8 is the button
+Seat 1: BRMK1ng (1446 in chips) 
+Seat 2: VAIO-Fer (1607 in chips) 
+Seat 4: Dragonu664 (1350 in chips) 
+Seat 5: kamijaa (1494 in chips) 
+Seat 6: haleyjones (3209 in chips) 
+Seat 7: flokinho86 (1348 in chips) 
+Seat 8: ollikahn23 (1348 in chips) 
+Seat 9: ragnarstars7 (4710 in chips) 
+BRMK1ng: posts the ante 3
+VAIO-Fer: posts the ante 3
+Dragonu664: posts the ante 3
+kamijaa: posts the ante 3
+haleyjones: posts the ante 3
+flokinho86: posts the ante 3
+ollikahn23: posts the ante 3
+ragnarstars7: posts the ante 3
+ragnarstars7: posts small blind 10
+BRMK1ng: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6d 2s]
+VAIO-Fer: folds 
+Dragonu664: raises 20 to 40
+kamijaa: folds 
+haleyjones: folds 
+flokinho86: calls 40
+ollikahn23: folds 
+ragnarstars7: calls 30
+BRMK1ng: folds 
+*** FLOP *** [7h Jc 8d]
+ragnarstars7: checks 
+Dragonu664: bets 20
+flokinho86: raises 106 to 126
+ragnarstars7: folds 
+Dragonu664: raises 106 to 232
+flokinho86: calls 106
+*** TURN *** [7h Jc 8d] [8c]
+Dragonu664: bets 320
+flokinho86: calls 320
+*** RIVER *** [7h Jc 8d 8c] [Kc]
+Dragonu664: bets 755 and is all-in
+flokinho86: calls 753 and is all-in
+Uncalled bet (2) returned to Dragonu664
+*** SHOW DOWN ***
+Dragonu664: shows [Ks Jd] (two pair, Kings and Jacks)
+flokinho86: shows [Js As] (two pair, Jacks and Eights)
+Dragonu664 collected 2774 from pot
+flokinho86 finished the tournament
+*** SUMMARY ***
+Total pot 2774 | Rake 0 
+Board [7h Jc 8d 8c Kc]
+Seat 1: BRMK1ng (big blind) folded before Flop
+Seat 2: VAIO-Fer folded before Flop (didn't bet)
+Seat 4: Dragonu664 showed [Ks Jd] and won (2774) with two pair, Kings and Jacks
+Seat 5: kamijaa folded before Flop (didn't bet)
+Seat 6: haleyjones folded before Flop (didn't bet)
+Seat 7: flokinho86 showed [Js As] and lost with two pair, Jacks and Eights
+Seat 8: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 9: ragnarstars7 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #184037266339: Tournament #2253368313, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/18 15:42:16 ET
+Table '2253368313 3' 9-max Seat #9 is the button
+Seat 1: BRMK1ng (1423 in chips) 
+Seat 2: VAIO-Fer (1604 in chips) 
+Seat 4: Dragonu664 (2776 in chips) 
+Seat 5: kamijaa (1491 in chips) 
+Seat 6: haleyjones (3206 in chips) 
+Seat 8: ollikahn23 (1345 in chips) 
+Seat 9: ragnarstars7 (4667 in chips) 
+BRMK1ng: posts the ante 4
+VAIO-Fer: posts the ante 4
+Dragonu664: posts the ante 4
+kamijaa: posts the ante 4
+haleyjones: posts the ante 4
+ollikahn23: posts the ante 4
+ragnarstars7: posts the ante 4
+BRMK1ng: posts small blind 15
+VAIO-Fer: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5s 8h]
+Dragonu664: folds 
+kamijaa: folds 
+haleyjones: folds 
+ollikahn23: folds 
+ragnarstars7: folds 
+BRMK1ng: folds 
+Uncalled bet (15) returned to VAIO-Fer
+VAIO-Fer collected 58 from pot
+VAIO-Fer: doesn't show hand 
+*** SUMMARY ***
+Total pot 58 | Rake 0 
+Seat 1: BRMK1ng (small blind) folded before Flop
+Seat 2: VAIO-Fer (big blind) collected (58)
+Seat 4: Dragonu664 folded before Flop (didn't bet)
+Seat 5: kamijaa folded before Flop (didn't bet)
+Seat 6: haleyjones folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: ragnarstars7 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184037294293: Tournament #2253368313, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/18 15:42:44 ET
+Table '2253368313 3' 9-max Seat #1 is the button
+Seat 1: BRMK1ng (1404 in chips) 
+Seat 2: VAIO-Fer (1643 in chips) 
+Seat 3: The KatanaGr (1500 in chips) 
+Seat 4: Dragonu664 (2772 in chips) 
+Seat 5: kamijaa (1487 in chips) 
+Seat 6: haleyjones (3202 in chips) 
+Seat 8: ollikahn23 (1341 in chips) 
+Seat 9: ragnarstars7 (4663 in chips) 
+BRMK1ng: posts the ante 4
+VAIO-Fer: posts the ante 4
+The KatanaGr: posts the ante 4
+Dragonu664: posts the ante 4
+kamijaa: posts the ante 4
+haleyjones: posts the ante 4
+ollikahn23: posts the ante 4
+ragnarstars7: posts the ante 4
+VAIO-Fer: posts small blind 15
+The KatanaGr: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6d 5c]
+Dragonu664: calls 30
+kamijaa: folds 
+haleyjones: folds 
+ollikahn23: folds 
+ragnarstars7: folds 
+BRMK1ng: folds 
+VAIO-Fer: calls 15
+The KatanaGr: checks 
+*** FLOP *** [9c Td Jd]
+VAIO-Fer: checks 
+The KatanaGr: checks 
+Dragonu664: bets 30
+VAIO-Fer: calls 30
+The KatanaGr: folds 
+*** TURN *** [9c Td Jd] [9h]
+VAIO-Fer: bets 82
+Dragonu664: calls 82
+*** RIVER *** [9c Td Jd 9h] [8d]
+VAIO-Fer: checks 
+Dragonu664: bets 180
+VAIO-Fer: folds 
+Uncalled bet (180) returned to Dragonu664
+Dragonu664 collected 346 from pot
+Dragonu664: doesn't show hand 
+*** SUMMARY ***
+Total pot 346 | Rake 0 
+Board [9c Td Jd 9h 8d]
+Seat 1: BRMK1ng (button) folded before Flop (didn't bet)
+Seat 2: VAIO-Fer (small blind) folded on the River
+Seat 3: The KatanaGr (big blind) folded on the Flop
+Seat 4: Dragonu664 collected (346)
+Seat 5: kamijaa folded before Flop (didn't bet)
+Seat 6: haleyjones folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: ragnarstars7 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184037374670: Tournament #2253368313, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/18 15:44:05 ET
+Table '2253368313 3' 9-max Seat #2 is the button
+Seat 1: BRMK1ng (1400 in chips) 
+Seat 2: VAIO-Fer (1497 in chips) 
+Seat 3: The KatanaGr (1466 in chips) 
+Seat 4: Dragonu664 (2972 in chips) 
+Seat 5: kamijaa (1483 in chips) 
+Seat 6: haleyjones (3198 in chips) 
+Seat 8: ollikahn23 (1337 in chips) 
+Seat 9: ragnarstars7 (4659 in chips) 
+BRMK1ng: posts the ante 4
+VAIO-Fer: posts the ante 4
+The KatanaGr: posts the ante 4
+Dragonu664: posts the ante 4
+kamijaa: posts the ante 4
+haleyjones: posts the ante 4
+ollikahn23: posts the ante 4
+ragnarstars7: posts the ante 4
+The KatanaGr: posts small blind 15
+Dragonu664: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ad Jc]
+kamijaa: folds 
+haleyjones: folds 
+ollikahn23: raises 60 to 90
+ragnarstars7: folds 
+BRMK1ng: folds 
+VAIO-Fer: folds 
+The KatanaGr: folds 
+Dragonu664: calls 60
+*** FLOP *** [4h 7s Qd]
+Dragonu664: bets 120
+ollikahn23: calls 120
+*** TURN *** [4h 7s Qd] [9c]
+Dragonu664: bets 240
+ollikahn23: folds 
+Uncalled bet (240) returned to Dragonu664
+Dragonu664 collected 467 from pot
+Dragonu664: doesn't show hand 
+*** SUMMARY ***
+Total pot 467 | Rake 0 
+Board [4h 7s Qd 9c]
+Seat 1: BRMK1ng folded before Flop (didn't bet)
+Seat 2: VAIO-Fer (button) folded before Flop (didn't bet)
+Seat 3: The KatanaGr (small blind) folded before Flop
+Seat 4: Dragonu664 (big blind) collected (467)
+Seat 5: kamijaa folded before Flop (didn't bet)
+Seat 6: haleyjones folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded on the Turn
+Seat 9: ragnarstars7 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184037421954: Tournament #2253368313, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/18 15:44:52 ET
+Table '2253368313 3' 9-max Seat #3 is the button
+Seat 1: BRMK1ng (1396 in chips) 
+Seat 2: VAIO-Fer (1493 in chips) 
+Seat 3: The KatanaGr (1447 in chips) 
+Seat 4: Dragonu664 (3225 in chips) 
+Seat 5: kamijaa (1479 in chips) 
+Seat 6: haleyjones (3194 in chips) 
+Seat 8: ollikahn23 (1123 in chips) 
+Seat 9: ragnarstars7 (4655 in chips) 
+BRMK1ng: posts the ante 4
+VAIO-Fer: posts the ante 4
+The KatanaGr: posts the ante 4
+Dragonu664: posts the ante 4
+kamijaa: posts the ante 4
+haleyjones: posts the ante 4
+ollikahn23: posts the ante 4
+ragnarstars7: posts the ante 4
+Dragonu664: posts small blind 15
+kamijaa: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2d 9d]
+haleyjones: folds 
+ollikahn23: folds 
+ragnarstars7: raises 30 to 60
+BRMK1ng: folds 
+VAIO-Fer: folds 
+The KatanaGr: calls 60
+Dragonu664: calls 45
+kamijaa: calls 30
+*** FLOP *** [Td 9h Qh]
+Dragonu664: checks 
+kamijaa: checks 
+ragnarstars7: bets 90
+The KatanaGr: calls 90
+Dragonu664: folds 
+kamijaa: calls 90
+*** TURN *** [Td 9h Qh] [Tc]
+kamijaa: checks 
+ragnarstars7: bets 120
+The KatanaGr: folds 
+kamijaa: calls 120
+*** RIVER *** [Td 9h Qh Tc] [9c]
+kamijaa: checks 
+ragnarstars7: checks 
+*** SHOW DOWN ***
+kamijaa: shows [Jh 3h] (two pair, Tens and Nines)
+ragnarstars7: shows [Qc 4c] (two pair, Queens and Tens)
+ragnarstars7 collected 782 from pot
+*** SUMMARY ***
+Total pot 782 | Rake 0 
+Board [Td 9h Qh Tc 9c]
+Seat 1: BRMK1ng folded before Flop (didn't bet)
+Seat 2: VAIO-Fer folded before Flop (didn't bet)
+Seat 3: The KatanaGr (button) folded on the Turn
+Seat 4: Dragonu664 (small blind) folded on the Flop
+Seat 5: kamijaa (big blind) showed [Jh 3h] and lost with two pair, Tens and Nines
+Seat 6: haleyjones folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: ragnarstars7 showed [Qc 4c] and won (782) with two pair, Queens and Tens
+
+
+
+PokerStars Hand #184037492580: Tournament #2253368313, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/18 15:46:04 ET
+Table '2253368313 3' 9-max Seat #4 is the button
+Seat 1: BRMK1ng (1392 in chips) 
+Seat 2: VAIO-Fer (1489 in chips) 
+Seat 3: The KatanaGr (1293 in chips) 
+Seat 4: Dragonu664 (3161 in chips) 
+Seat 5: kamijaa (1205 in chips) 
+Seat 6: haleyjones (3190 in chips) 
+Seat 8: ollikahn23 (1119 in chips) 
+Seat 9: ragnarstars7 (5163 in chips) 
+BRMK1ng: posts the ante 4
+VAIO-Fer: posts the ante 4
+The KatanaGr: posts the ante 4
+Dragonu664: posts the ante 4
+kamijaa: posts the ante 4
+haleyjones: posts the ante 4
+ollikahn23: posts the ante 4
+ragnarstars7: posts the ante 4
+kamijaa: posts small blind 15
+haleyjones: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8c 9c]
+ollikahn23: folds 
+ragnarstars7: raises 60 to 90
+BRMK1ng: folds 
+VAIO-Fer: folds 
+The KatanaGr: folds 
+Dragonu664: calls 90
+kamijaa: folds 
+haleyjones: folds 
+*** FLOP *** [Qh Th 7h]
+ragnarstars7: bets 90
+Dragonu664: calls 90
+*** TURN *** [Qh Th 7h] [Ah]
+ragnarstars7: checks 
+Dragonu664: bets 210
+ragnarstars7: folds [Ac]
+Uncalled bet (210) returned to Dragonu664
+Dragonu664 collected 437 from pot
+Dragonu664: doesn't show hand 
+*** SUMMARY ***
+Total pot 437 | Rake 0 
+Board [Qh Th 7h Ah]
+Seat 1: BRMK1ng folded before Flop (didn't bet)
+Seat 2: VAIO-Fer folded before Flop (didn't bet)
+Seat 3: The KatanaGr folded before Flop (didn't bet)
+Seat 4: Dragonu664 (button) collected (437)
+Seat 5: kamijaa (small blind) folded before Flop
+Seat 6: haleyjones (big blind) folded before Flop
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: ragnarstars7 folded on the Turn
+
+
+
+PokerStars Hand #184037547297: Tournament #2253368313, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/18 15:46:59 ET
+Table '2253368313 3' 9-max Seat #5 is the button
+Seat 1: BRMK1ng (1388 in chips) 
+Seat 2: VAIO-Fer (1485 in chips) 
+Seat 3: The KatanaGr (1289 in chips) 
+Seat 4: Dragonu664 (3414 in chips) 
+Seat 5: kamijaa (1186 in chips) 
+Seat 6: haleyjones (3156 in chips) 
+Seat 8: ollikahn23 (1115 in chips) 
+Seat 9: ragnarstars7 (4979 in chips) 
+BRMK1ng: posts the ante 4
+VAIO-Fer: posts the ante 4
+The KatanaGr: posts the ante 4
+Dragonu664: posts the ante 4
+kamijaa: posts the ante 4
+haleyjones: posts the ante 4
+ollikahn23: posts the ante 4
+ragnarstars7: posts the ante 4
+haleyjones: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [As Jh]
+ragnarstars7: folds 
+BRMK1ng: folds 
+VAIO-Fer: folds 
+The KatanaGr: folds 
+Dragonu664: folds 
+kamijaa: folds 
+haleyjones: calls 15
+ollikahn23: raises 90 to 120
+haleyjones: folds 
+Uncalled bet (90) returned to ollikahn23
+ollikahn23 collected 92 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 92 | Rake 0 
+Seat 1: BRMK1ng folded before Flop (didn't bet)
+Seat 2: VAIO-Fer folded before Flop (didn't bet)
+Seat 3: The KatanaGr folded before Flop (didn't bet)
+Seat 4: Dragonu664 folded before Flop (didn't bet)
+Seat 5: kamijaa (button) folded before Flop (didn't bet)
+Seat 6: haleyjones (small blind) folded before Flop
+Seat 8: ollikahn23 (big blind) collected (92)
+Seat 9: ragnarstars7 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184037570470: Tournament #2253368313, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/18 15:47:22 ET
+Table '2253368313 3' 9-max Seat #6 is the button
+Seat 1: BRMK1ng (1384 in chips) 
+Seat 2: VAIO-Fer (1481 in chips) 
+Seat 3: The KatanaGr (1285 in chips) 
+Seat 4: Dragonu664 (3410 in chips) 
+Seat 5: kamijaa (1182 in chips) 
+Seat 6: haleyjones (3122 in chips) 
+Seat 8: ollikahn23 (1173 in chips) 
+Seat 9: ragnarstars7 (4975 in chips) 
+BRMK1ng: posts the ante 4
+VAIO-Fer: posts the ante 4
+The KatanaGr: posts the ante 4
+Dragonu664: posts the ante 4
+kamijaa: posts the ante 4
+haleyjones: posts the ante 4
+ollikahn23: posts the ante 4
+ragnarstars7: posts the ante 4
+ollikahn23: posts small blind 15
+ragnarstars7: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9s 5c]
+BRMK1ng: folds 
+VAIO-Fer: raises 45 to 75
+The KatanaGr: folds 
+Dragonu664: calls 75
+kamijaa: folds 
+haleyjones: folds 
+ollikahn23: folds 
+ragnarstars7: folds 
+*** FLOP *** [4c 6c 3d]
+VAIO-Fer: checks 
+Dragonu664: bets 120
+VAIO-Fer: raises 177 to 297
+Dragonu664: calls 177
+*** TURN *** [4c 6c 3d] [2h]
+VAIO-Fer: bets 312
+Dragonu664: calls 312
+*** RIVER *** [4c 6c 3d 2h] [Qc]
+VAIO-Fer: bets 793 and is all-in
+Dragonu664: folds 
+Uncalled bet (793) returned to VAIO-Fer
+VAIO-Fer collected 1445 from pot
+VAIO-Fer: doesn't show hand 
+*** SUMMARY ***
+Total pot 1445 | Rake 0 
+Board [4c 6c 3d 2h Qc]
+Seat 1: BRMK1ng folded before Flop (didn't bet)
+Seat 2: VAIO-Fer collected (1445)
+Seat 3: The KatanaGr folded before Flop (didn't bet)
+Seat 4: Dragonu664 folded on the River
+Seat 5: kamijaa folded before Flop (didn't bet)
+Seat 6: haleyjones (button) folded before Flop (didn't bet)
+Seat 8: ollikahn23 (small blind) folded before Flop
+Seat 9: ragnarstars7 (big blind) folded before Flop
+
+
+
+PokerStars Hand #184037647377: Tournament #2253368313, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/18 15:48:40 ET
+Table '2253368313 3' 9-max Seat #8 is the button
+Seat 1: BRMK1ng (1380 in chips) 
+Seat 2: VAIO-Fer (2238 in chips) 
+Seat 3: The KatanaGr (1281 in chips) 
+Seat 4: Dragonu664 (2722 in chips) 
+Seat 5: kamijaa (1178 in chips) 
+Seat 6: haleyjones (3118 in chips) 
+Seat 7: NineBe (1500 in chips) 
+Seat 8: ollikahn23 (1154 in chips) 
+Seat 9: ragnarstars7 (4941 in chips) 
+BRMK1ng: posts the ante 4
+VAIO-Fer: posts the ante 4
+The KatanaGr: posts the ante 4
+Dragonu664: posts the ante 4
+kamijaa: posts the ante 4
+haleyjones: posts the ante 4
+NineBe: posts the ante 4
+ollikahn23: posts the ante 4
+ragnarstars7: posts the ante 4
+ragnarstars7: posts small blind 15
+BRMK1ng: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ah 3h]
+VAIO-Fer: folds 
+The KatanaGr: raises 60 to 90
+Dragonu664: calls 90
+kamijaa: folds 
+haleyjones: folds 
+NineBe: folds 
+ollikahn23: calls 90
+ragnarstars7: folds 
+BRMK1ng: folds 
+*** FLOP *** [5s 8s Js]
+The KatanaGr: bets 165
+Dragonu664: folds 
+ollikahn23: folds 
+Uncalled bet (165) returned to The KatanaGr
+The KatanaGr collected 351 from pot
+*** SUMMARY ***
+Total pot 351 | Rake 0 
+Board [5s 8s Js]
+Seat 1: BRMK1ng (big blind) folded before Flop
+Seat 2: VAIO-Fer folded before Flop (didn't bet)
+Seat 3: The KatanaGr collected (351)
+Seat 4: Dragonu664 folded on the Flop
+Seat 5: kamijaa folded before Flop (didn't bet)
+Seat 6: haleyjones folded before Flop (didn't bet)
+Seat 7: NineBe folded before Flop (didn't bet)
+Seat 8: ollikahn23 (button) folded on the Flop
+Seat 9: ragnarstars7 (small blind) folded before Flop
+
+
+
+PokerStars Hand #184037700516: Tournament #2253368313, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/18 15:49:35 ET
+Table '2253368313 3' 9-max Seat #9 is the button
+Seat 1: BRMK1ng (1346 in chips) 
+Seat 2: VAIO-Fer (2234 in chips) 
+Seat 3: The KatanaGr (1538 in chips) 
+Seat 4: Dragonu664 (2628 in chips) 
+Seat 5: kamijaa (1174 in chips) 
+Seat 6: haleyjones (3114 in chips) 
+Seat 7: NineBe (1496 in chips) 
+Seat 8: ollikahn23 (1060 in chips) 
+Seat 9: ragnarstars7 (4922 in chips) 
+BRMK1ng: posts the ante 4
+VAIO-Fer: posts the ante 4
+The KatanaGr: posts the ante 4
+Dragonu664: posts the ante 4
+kamijaa: posts the ante 4
+haleyjones: posts the ante 4
+NineBe: posts the ante 4
+ollikahn23: posts the ante 4
+ragnarstars7: posts the ante 4
+BRMK1ng: posts small blind 15
+VAIO-Fer: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5d Jh]
+The KatanaGr: raises 60 to 90
+Dragonu664: folds 
+kamijaa: folds 
+haleyjones: folds 
+NineBe: folds 
+ollikahn23: folds 
+ragnarstars7: folds 
+BRMK1ng: folds 
+VAIO-Fer: folds 
+Uncalled bet (60) returned to The KatanaGr
+The KatanaGr collected 111 from pot
+*** SUMMARY ***
+Total pot 111 | Rake 0 
+Seat 1: BRMK1ng (small blind) folded before Flop
+Seat 2: VAIO-Fer (big blind) folded before Flop
+Seat 3: The KatanaGr collected (111)
+Seat 4: Dragonu664 folded before Flop (didn't bet)
+Seat 5: kamijaa folded before Flop (didn't bet)
+Seat 6: haleyjones folded before Flop (didn't bet)
+Seat 7: NineBe folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: ragnarstars7 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184037737290: Tournament #2253368313, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/18 15:50:12 ET
+Table '2253368313 3' 9-max Seat #1 is the button
+Seat 1: BRMK1ng (1327 in chips) 
+Seat 2: VAIO-Fer (2200 in chips) 
+Seat 3: The KatanaGr (1615 in chips) 
+Seat 4: Dragonu664 (2624 in chips) 
+Seat 5: kamijaa (1170 in chips) 
+Seat 6: haleyjones (3110 in chips) 
+Seat 7: NineBe (1492 in chips) 
+Seat 8: ollikahn23 (1056 in chips) 
+Seat 9: ragnarstars7 (4918 in chips) 
+BRMK1ng: posts the ante 4
+VAIO-Fer: posts the ante 4
+The KatanaGr: posts the ante 4
+Dragonu664: posts the ante 4
+kamijaa: posts the ante 4
+haleyjones: posts the ante 4
+NineBe: posts the ante 4
+ollikahn23: posts the ante 4
+ragnarstars7: posts the ante 4
+VAIO-Fer: posts small blind 15
+The KatanaGr: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4d 5c]
+Dragonu664: raises 30 to 60
+kamijaa: folds 
+haleyjones: folds 
+NineBe: folds 
+ollikahn23: folds 
+ragnarstars7: folds 
+BRMK1ng: folds 
+VAIO-Fer: calls 45
+The KatanaGr: folds 
+*** FLOP *** [2s Jh 2c]
+VAIO-Fer: bets 71
+Dragonu664: calls 71
+*** TURN *** [2s Jh 2c] [9c]
+VAIO-Fer: bets 148
+Dragonu664: raises 148 to 296
+VAIO-Fer: calls 148
+*** RIVER *** [2s Jh 2c 9c] [Jc]
+VAIO-Fer: checks 
+Dragonu664: bets 2193 and is all-in
+VAIO-Fer: folds 
+Uncalled bet (2193) returned to Dragonu664
+Dragonu664 collected 920 from pot
+Dragonu664: doesn't show hand 
+*** SUMMARY ***
+Total pot 920 | Rake 0 
+Board [2s Jh 2c 9c Jc]
+Seat 1: BRMK1ng (button) folded before Flop (didn't bet)
+Seat 2: VAIO-Fer (small blind) folded on the River
+Seat 3: The KatanaGr (big blind) folded before Flop
+Seat 4: Dragonu664 collected (920)
+Seat 5: kamijaa folded before Flop (didn't bet)
+Seat 6: haleyjones folded before Flop (didn't bet)
+Seat 7: NineBe folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: ragnarstars7 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184037793276: Tournament #2253368313, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/18 15:51:10 ET
+Table '2253368313 3' 9-max Seat #2 is the button
+Seat 1: BRMK1ng (1323 in chips) 
+Seat 2: VAIO-Fer (1769 in chips) 
+Seat 3: The KatanaGr (1581 in chips) 
+Seat 4: Dragonu664 (3113 in chips) 
+Seat 5: kamijaa (1166 in chips) 
+Seat 6: haleyjones (3106 in chips) 
+Seat 7: NineBe (1488 in chips) 
+Seat 8: ollikahn23 (1052 in chips) 
+Seat 9: ragnarstars7 (4914 in chips) 
+BRMK1ng: posts the ante 4
+VAIO-Fer: posts the ante 4
+The KatanaGr: posts the ante 4
+Dragonu664: posts the ante 4
+kamijaa: posts the ante 4
+haleyjones: posts the ante 4
+NineBe: posts the ante 4
+ollikahn23: posts the ante 4
+ragnarstars7: posts the ante 4
+The KatanaGr: posts small blind 15
+Dragonu664: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2h 5d]
+kamijaa: folds 
+haleyjones: folds 
+NineBe: folds 
+ollikahn23: folds 
+ragnarstars7: folds 
+BRMK1ng: folds 
+VAIO-Fer: folds 
+The KatanaGr: folds 
+Uncalled bet (15) returned to Dragonu664
+Dragonu664 collected 66 from pot
+Dragonu664: doesn't show hand 
+*** SUMMARY ***
+Total pot 66 | Rake 0 
+Seat 1: BRMK1ng folded before Flop (didn't bet)
+Seat 2: VAIO-Fer (button) folded before Flop (didn't bet)
+Seat 3: The KatanaGr (small blind) folded before Flop
+Seat 4: Dragonu664 (big blind) collected (66)
+Seat 5: kamijaa folded before Flop (didn't bet)
+Seat 6: haleyjones folded before Flop (didn't bet)
+Seat 7: NineBe folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: ragnarstars7 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184037818466: Tournament #2253368313, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/18 15:51:35 ET
+Table '2253368313 3' 9-max Seat #3 is the button
+Seat 1: BRMK1ng (1319 in chips) 
+Seat 2: VAIO-Fer (1765 in chips) 
+Seat 3: The KatanaGr (1562 in chips) 
+Seat 4: Dragonu664 (3160 in chips) 
+Seat 5: kamijaa (1162 in chips) 
+Seat 6: haleyjones (3102 in chips) 
+Seat 8: ollikahn23 (1048 in chips) 
+Seat 9: ragnarstars7 (4910 in chips) 
+BRMK1ng: posts the ante 4
+VAIO-Fer: posts the ante 4
+The KatanaGr: posts the ante 4
+Dragonu664: posts the ante 4
+kamijaa: posts the ante 4
+haleyjones: posts the ante 4
+ollikahn23: posts the ante 4
+ragnarstars7: posts the ante 4
+Dragonu664: posts small blind 15
+kamijaa: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [As 9d]
+haleyjones: folds 
+ollikahn23: raises 60 to 90
+ragnarstars7: folds 
+BRMK1ng: folds 
+VAIO-Fer: folds 
+The KatanaGr: calls 90
+Dragonu664: folds 
+kamijaa: folds 
+*** FLOP *** [5s 2d Kc]
+ollikahn23: bets 90
+The KatanaGr: calls 90
+*** TURN *** [5s 2d Kc] [3c]
+ollikahn23: checks 
+The KatanaGr: bets 270
+ollikahn23: folds 
+Uncalled bet (270) returned to The KatanaGr
+The KatanaGr collected 437 from pot
+*** SUMMARY ***
+Total pot 437 | Rake 0 
+Board [5s 2d Kc 3c]
+Seat 1: BRMK1ng folded before Flop (didn't bet)
+Seat 2: VAIO-Fer folded before Flop (didn't bet)
+Seat 3: The KatanaGr (button) collected (437)
+Seat 4: Dragonu664 (small blind) folded before Flop
+Seat 5: kamijaa (big blind) folded before Flop
+Seat 6: haleyjones folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded on the Turn
+Seat 9: ragnarstars7 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184037899757: Tournament #2253368313, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/18 15:52:58 ET
+Table '2253368313 3' 9-max Seat #4 is the button
+Seat 1: BRMK1ng (1315 in chips) 
+Seat 2: VAIO-Fer (1761 in chips) 
+Seat 3: The KatanaGr (1815 in chips) 
+Seat 4: Dragonu664 (3141 in chips) 
+Seat 5: kamijaa (1128 in chips) 
+Seat 6: haleyjones (3098 in chips) 
+Seat 8: ollikahn23 (864 in chips) 
+Seat 9: ragnarstars7 (4906 in chips) 
+BRMK1ng: posts the ante 4
+VAIO-Fer: posts the ante 4
+The KatanaGr: posts the ante 4
+Dragonu664: posts the ante 4
+kamijaa: posts the ante 4
+haleyjones: posts the ante 4
+ollikahn23: posts the ante 4
+ragnarstars7: posts the ante 4
+kamijaa: posts small blind 15
+haleyjones: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6c 8s]
+ollikahn23: folds 
+ragnarstars7: folds 
+BRMK1ng: folds 
+VAIO-Fer: folds 
+The KatanaGr: folds 
+Dragonu664: folds 
+kamijaa: raises 60 to 90
+haleyjones: calls 60
+*** FLOP *** [Kc Kd Ks]
+kamijaa: bets 30
+haleyjones: folds 
+Uncalled bet (30) returned to kamijaa
+kamijaa collected 212 from pot
+kamijaa: doesn't show hand 
+*** SUMMARY ***
+Total pot 212 | Rake 0 
+Board [Kc Kd Ks]
+Seat 1: BRMK1ng folded before Flop (didn't bet)
+Seat 2: VAIO-Fer folded before Flop (didn't bet)
+Seat 3: The KatanaGr folded before Flop (didn't bet)
+Seat 4: Dragonu664 (button) folded before Flop (didn't bet)
+Seat 5: kamijaa (small blind) collected (212)
+Seat 6: haleyjones (big blind) folded on the Flop
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: ragnarstars7 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184037936166: Tournament #2253368313, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/18 15:53:36 ET
+Table '2253368313 3' 9-max Seat #5 is the button
+Seat 1: BRMK1ng (1311 in chips) 
+Seat 2: VAIO-Fer (1757 in chips) 
+Seat 3: The KatanaGr (1811 in chips) 
+Seat 4: Dragonu664 (3137 in chips) 
+Seat 5: kamijaa (1246 in chips) 
+Seat 6: haleyjones (3004 in chips) 
+Seat 8: ollikahn23 (860 in chips) 
+Seat 9: ragnarstars7 (4902 in chips) 
+BRMK1ng: posts the ante 4
+VAIO-Fer: posts the ante 4
+The KatanaGr: posts the ante 4
+Dragonu664: posts the ante 4
+kamijaa: posts the ante 4
+haleyjones: posts the ante 4
+ollikahn23: posts the ante 4
+ragnarstars7: posts the ante 4
+haleyjones: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5s 2h]
+ragnarstars7: folds 
+BRMK1ng: folds 
+VAIO-Fer: folds 
+The KatanaGr: folds 
+Dragonu664: raises 30 to 60
+kamijaa: folds 
+haleyjones: folds 
+ollikahn23: folds 
+Uncalled bet (30) returned to Dragonu664
+Dragonu664 collected 107 from pot
+Dragonu664: doesn't show hand 
+*** SUMMARY ***
+Total pot 107 | Rake 0 
+Seat 1: BRMK1ng folded before Flop (didn't bet)
+Seat 2: VAIO-Fer folded before Flop (didn't bet)
+Seat 3: The KatanaGr folded before Flop (didn't bet)
+Seat 4: Dragonu664 collected (107)
+Seat 5: kamijaa (button) folded before Flop (didn't bet)
+Seat 6: haleyjones (small blind) folded before Flop
+Seat 8: ollikahn23 (big blind) folded before Flop
+Seat 9: ragnarstars7 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184037985934: Tournament #2253368313, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/18 15:54:27 ET
+Table '2253368313 3' 9-max Seat #6 is the button
+Seat 1: BRMK1ng (1307 in chips) 
+Seat 2: VAIO-Fer (1753 in chips) 
+Seat 3: The KatanaGr (1807 in chips) 
+Seat 4: Dragonu664 (3210 in chips) 
+Seat 5: kamijaa (1242 in chips) 
+Seat 6: haleyjones (2985 in chips) 
+Seat 8: ollikahn23 (826 in chips) 
+Seat 9: ragnarstars7 (4898 in chips) 
+BRMK1ng: posts the ante 4
+VAIO-Fer: posts the ante 4
+The KatanaGr: posts the ante 4
+Dragonu664: posts the ante 4
+kamijaa: posts the ante 4
+haleyjones: posts the ante 4
+ollikahn23: posts the ante 4
+ragnarstars7: posts the ante 4
+ollikahn23: posts small blind 15
+ragnarstars7: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9s 2c]
+BRMK1ng: folds 
+VAIO-Fer: folds 
+The KatanaGr: raises 60 to 90
+Dragonu664: folds 
+kamijaa: folds 
+haleyjones: raises 180 to 270
+ollikahn23: folds 
+ragnarstars7: folds 
+The KatanaGr: calls 180
+*** FLOP *** [3h 4s 7h]
+The KatanaGr: checks 
+haleyjones: bets 321
+The KatanaGr: calls 321
+*** TURN *** [3h 4s 7h] [8d]
+The KatanaGr: checks 
+haleyjones: checks 
+*** RIVER *** [3h 4s 7h 8d] [Qh]
+The KatanaGr: checks 
+haleyjones: checks 
+*** SHOW DOWN ***
+The KatanaGr: shows [9h 9d] (a pair of Nines)
+haleyjones: mucks hand 
+The KatanaGr collected 1259 from pot
+*** SUMMARY ***
+Total pot 1259 | Rake 0 
+Board [3h 4s 7h 8d Qh]
+Seat 1: BRMK1ng folded before Flop (didn't bet)
+Seat 2: VAIO-Fer folded before Flop (didn't bet)
+Seat 3: The KatanaGr showed [9h 9d] and won (1259) with a pair of Nines
+Seat 4: Dragonu664 folded before Flop (didn't bet)
+Seat 5: kamijaa folded before Flop (didn't bet)
+Seat 6: haleyjones (button) mucked [Ad 7d]
+Seat 8: ollikahn23 (small blind) folded before Flop
+Seat 9: ragnarstars7 (big blind) folded before Flop
+
+
+
+PokerStars Hand #184038301110: Tournament #2253368313, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/18 16:01:19 ET
+Table '2253368313 3' 9-max Seat #8 is the button
+Seat 1: BRMK1ng (1303 in chips) 
+Seat 2: VAIO-Fer (1749 in chips) 
+Seat 3: The KatanaGr (2471 in chips) 
+Seat 4: Dragonu664 (3206 in chips) 
+Seat 5: kamijaa (1238 in chips) 
+Seat 6: haleyjones (2390 in chips) 
+Seat 7: Geovanignn (1500 in chips) 
+Seat 8: ollikahn23 (807 in chips) 
+Seat 9: ragnarstars7 (4864 in chips) 
+BRMK1ng: posts the ante 4
+VAIO-Fer: posts the ante 4
+The KatanaGr: posts the ante 4
+Dragonu664: posts the ante 4
+kamijaa: posts the ante 4
+haleyjones: posts the ante 4
+Geovanignn: posts the ante 4
+ollikahn23: posts the ante 4
+ragnarstars7: posts the ante 4
+ragnarstars7: posts small blind 15
+BRMK1ng: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ah 2d]
+VAIO-Fer: folds 
+The KatanaGr: raises 60 to 90
+Dragonu664: folds 
+kamijaa: folds 
+haleyjones: folds 
+Geovanignn: calls 90
+ollikahn23: folds 
+ragnarstars7: calls 75
+BRMK1ng: folds 
+*** FLOP *** [3c 2s Kh]
+ragnarstars7: checks 
+The KatanaGr: bets 146
+Geovanignn: folds 
+ragnarstars7: folds 
+Uncalled bet (146) returned to The KatanaGr
+The KatanaGr collected 336 from pot
+*** SUMMARY ***
+Total pot 336 | Rake 0 
+Board [3c 2s Kh]
+Seat 1: BRMK1ng (big blind) folded before Flop
+Seat 2: VAIO-Fer folded before Flop (didn't bet)
+Seat 3: The KatanaGr collected (336)
+Seat 4: Dragonu664 folded before Flop (didn't bet)
+Seat 5: kamijaa folded before Flop (didn't bet)
+Seat 6: haleyjones folded before Flop (didn't bet)
+Seat 7: Geovanignn folded on the Flop
+Seat 8: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 9: ragnarstars7 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #184038349691: Tournament #2253368313, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/18 16:02:13 ET
+Table '2253368313 3' 9-max Seat #9 is the button
+Seat 1: BRMK1ng (1269 in chips) 
+Seat 2: VAIO-Fer (1745 in chips) 
+Seat 3: The KatanaGr (2713 in chips) 
+Seat 4: Dragonu664 (3202 in chips) 
+Seat 5: kamijaa (1234 in chips) 
+Seat 6: haleyjones (2386 in chips) 
+Seat 7: Geovanignn (1406 in chips) 
+Seat 8: ollikahn23 (803 in chips) 
+Seat 9: ragnarstars7 (4770 in chips) 
+BRMK1ng: posts the ante 4
+VAIO-Fer: posts the ante 4
+The KatanaGr: posts the ante 4
+Dragonu664: posts the ante 4
+kamijaa: posts the ante 4
+haleyjones: posts the ante 4
+Geovanignn: posts the ante 4
+ollikahn23: posts the ante 4
+ragnarstars7: posts the ante 4
+BRMK1ng: posts small blind 15
+VAIO-Fer: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7c Ad]
+The KatanaGr: folds 
+Dragonu664: folds 
+kamijaa: folds 
+haleyjones: folds 
+Geovanignn: folds 
+ollikahn23: raises 60 to 90
+ragnarstars7: folds 
+BRMK1ng: folds 
+VAIO-Fer: folds 
+Uncalled bet (60) returned to ollikahn23
+ollikahn23 collected 111 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 111 | Rake 0 
+Seat 1: BRMK1ng (small blind) folded before Flop
+Seat 2: VAIO-Fer (big blind) folded before Flop
+Seat 3: The KatanaGr folded before Flop (didn't bet)
+Seat 4: Dragonu664 folded before Flop (didn't bet)
+Seat 5: kamijaa folded before Flop (didn't bet)
+Seat 6: haleyjones folded before Flop (didn't bet)
+Seat 7: Geovanignn folded before Flop (didn't bet)
+Seat 8: ollikahn23 collected (111)
+Seat 9: ragnarstars7 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184038389227: Tournament #2253368313, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/18 16:02:56 ET
+Table '2253368313 3' 9-max Seat #1 is the button
+Seat 1: BRMK1ng (1250 in chips) 
+Seat 2: VAIO-Fer (1711 in chips) 
+Seat 3: The KatanaGr (2709 in chips) 
+Seat 4: Dragonu664 (3198 in chips) 
+Seat 5: kamijaa (1230 in chips) 
+Seat 6: haleyjones (2382 in chips) 
+Seat 7: Geovanignn (1402 in chips) 
+Seat 8: ollikahn23 (880 in chips) 
+Seat 9: ragnarstars7 (4766 in chips) 
+BRMK1ng: posts the ante 4
+VAIO-Fer: posts the ante 4
+The KatanaGr: posts the ante 4
+Dragonu664: posts the ante 4
+kamijaa: posts the ante 4
+haleyjones: posts the ante 4
+Geovanignn: posts the ante 4
+ollikahn23: posts the ante 4
+ragnarstars7: posts the ante 4
+VAIO-Fer: posts small blind 15
+The KatanaGr: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5c Ks]
+Dragonu664: folds 
+kamijaa: folds 
+haleyjones: raises 60 to 90
+Geovanignn: folds 
+ollikahn23: folds 
+ragnarstars7: folds 
+BRMK1ng: folds 
+VAIO-Fer: folds 
+The KatanaGr: folds 
+Uncalled bet (60) returned to haleyjones
+haleyjones collected 111 from pot
+*** SUMMARY ***
+Total pot 111 | Rake 0 
+Seat 1: BRMK1ng (button) folded before Flop (didn't bet)
+Seat 2: VAIO-Fer (small blind) folded before Flop
+Seat 3: The KatanaGr (big blind) folded before Flop
+Seat 4: Dragonu664 folded before Flop (didn't bet)
+Seat 5: kamijaa folded before Flop (didn't bet)
+Seat 6: haleyjones collected (111)
+Seat 7: Geovanignn folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: ragnarstars7 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184038422858: Tournament #2253368313, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/03/18 16:03:30 ET
+Table '2253368313 3' 9-max Seat #2 is the button
+Seat 1: BRMK1ng (1246 in chips) 
+Seat 2: VAIO-Fer (1692 in chips) 
+Seat 3: The KatanaGr (2675 in chips) 
+Seat 5: kamijaa (1226 in chips) 
+Seat 6: haleyjones (2459 in chips) 
+Seat 7: Geovanignn (1398 in chips) 
+Seat 8: ollikahn23 (876 in chips) 
+Seat 9: ragnarstars7 (4762 in chips) 
+BRMK1ng: posts the ante 6
+VAIO-Fer: posts the ante 6
+The KatanaGr: posts the ante 6
+kamijaa: posts the ante 6
+haleyjones: posts the ante 6
+Geovanignn: posts the ante 6
+ollikahn23: posts the ante 6
+ragnarstars7: posts the ante 6
+The KatanaGr: posts small blind 25
+kamijaa: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3s Ks]
+haleyjones: folds 
+Geovanignn: raises 50 to 100
+ollikahn23: folds 
+ragnarstars7: calls 100
+BRMK1ng: folds 
+VAIO-Fer: folds 
+The KatanaGr: folds 
+kamijaa: folds 
+*** FLOP *** [8s 7h Qc]
+Geovanignn: bets 107
+ragnarstars7: calls 107
+*** TURN *** [8s 7h Qc] [5s]
+Geovanignn: bets 300
+ragnarstars7: calls 300
+*** RIVER *** [8s 7h Qc 5s] [3h]
+Geovanignn: checks 
+ragnarstars7: bets 500
+Geovanignn: folds 
+Uncalled bet (500) returned to ragnarstars7
+ragnarstars7 collected 1137 from pot
+*** SUMMARY ***
+Total pot 1137 | Rake 0 
+Board [8s 7h Qc 5s 3h]
+Seat 1: BRMK1ng folded before Flop (didn't bet)
+Seat 2: VAIO-Fer (button) folded before Flop (didn't bet)
+Seat 3: The KatanaGr (small blind) folded before Flop
+Seat 5: kamijaa (big blind) folded before Flop
+Seat 6: haleyjones folded before Flop (didn't bet)
+Seat 7: Geovanignn folded on the River
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: ragnarstars7 collected (1137)
+
+
+
+PokerStars Hand #184038504199: Tournament #2253368313, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/03/18 16:04:53 ET
+Table '2253368313 3' 9-max Seat #3 is the button
+Seat 1: BRMK1ng (1240 in chips) 
+Seat 2: VAIO-Fer (1686 in chips) 
+Seat 3: The KatanaGr (2644 in chips) 
+Seat 5: kamijaa (1170 in chips) 
+Seat 6: haleyjones (2453 in chips) 
+Seat 7: Geovanignn (885 in chips) 
+Seat 8: ollikahn23 (870 in chips) 
+Seat 9: ragnarstars7 (5386 in chips) 
+BRMK1ng: posts the ante 6
+VAIO-Fer: posts the ante 6
+The KatanaGr: posts the ante 6
+kamijaa: posts the ante 6
+haleyjones: posts the ante 6
+Geovanignn: posts the ante 6
+ollikahn23: posts the ante 6
+ragnarstars7: posts the ante 6
+kamijaa: posts small blind 25
+haleyjones: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3s Kd]
+Geovanignn: folds 
+ollikahn23: folds 
+ragnarstars7: folds 
+BRMK1ng: folds 
+VAIO-Fer: folds 
+The KatanaGr: folds 
+kamijaa: calls 25
+haleyjones: checks 
+*** FLOP *** [6h 9h 4h]
+kamijaa: bets 50
+haleyjones: folds 
+Uncalled bet (50) returned to kamijaa
+kamijaa collected 148 from pot
+kamijaa: doesn't show hand 
+*** SUMMARY ***
+Total pot 148 | Rake 0 
+Board [6h 9h 4h]
+Seat 1: BRMK1ng folded before Flop (didn't bet)
+Seat 2: VAIO-Fer folded before Flop (didn't bet)
+Seat 3: The KatanaGr (button) folded before Flop (didn't bet)
+Seat 5: kamijaa (small blind) collected (148)
+Seat 6: haleyjones (big blind) folded on the Flop
+Seat 7: Geovanignn folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: ragnarstars7 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184038572376: Tournament #2253368313, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/03/18 16:06:02 ET
+Table '2253368313 3' 9-max Seat #5 is the button
+Seat 1: BRMK1ng (1234 in chips) 
+Seat 2: VAIO-Fer (1680 in chips) 
+Seat 3: The KatanaGr (2638 in chips) 
+Seat 5: kamijaa (1262 in chips) 
+Seat 6: haleyjones (2397 in chips) 
+Seat 7: Geovanignn (879 in chips) 
+Seat 8: ollikahn23 (864 in chips) 
+Seat 9: ragnarstars7 (5380 in chips) 
+BRMK1ng: posts the ante 6
+VAIO-Fer: posts the ante 6
+The KatanaGr: posts the ante 6
+kamijaa: posts the ante 6
+haleyjones: posts the ante 6
+Geovanignn: posts the ante 6
+ollikahn23: posts the ante 6
+ragnarstars7: posts the ante 6
+haleyjones: posts small blind 25
+Geovanignn: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Th 5c]
+ollikahn23: folds 
+ragnarstars7: raises 105 to 155
+BRMK1ng: folds 
+VAIO-Fer: folds 
+The KatanaGr: folds 
+kamijaa: folds 
+haleyjones: folds 
+Geovanignn: folds 
+Uncalled bet (105) returned to ragnarstars7
+ragnarstars7 collected 173 from pot
+*** SUMMARY ***
+Total pot 173 | Rake 0 
+Seat 1: BRMK1ng folded before Flop (didn't bet)
+Seat 2: VAIO-Fer folded before Flop (didn't bet)
+Seat 3: The KatanaGr folded before Flop (didn't bet)
+Seat 5: kamijaa (button) folded before Flop (didn't bet)
+Seat 6: haleyjones (small blind) folded before Flop
+Seat 7: Geovanignn (big blind) folded before Flop
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: ragnarstars7 collected (173)
+
+
+
+PokerStars Hand #184038600190: Tournament #2253368313, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/03/18 16:06:29 ET
+Table '2253368313 3' 9-max Seat #6 is the button
+Seat 1: BRMK1ng (1228 in chips) 
+Seat 2: VAIO-Fer (1674 in chips) 
+Seat 3: The KatanaGr (2632 in chips) 
+Seat 5: kamijaa (1256 in chips) 
+Seat 6: haleyjones (2366 in chips) 
+Seat 7: Geovanignn (823 in chips) 
+Seat 8: ollikahn23 (858 in chips) 
+Seat 9: ragnarstars7 (5497 in chips) 
+BRMK1ng: posts the ante 6
+VAIO-Fer: posts the ante 6
+The KatanaGr: posts the ante 6
+kamijaa: posts the ante 6
+haleyjones: posts the ante 6
+Geovanignn: posts the ante 6
+ollikahn23: posts the ante 6
+ragnarstars7: posts the ante 6
+Geovanignn: posts small blind 25
+ollikahn23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3c 8h]
+ragnarstars7: raises 150 to 200
+BRMK1ng: folds 
+VAIO-Fer: folds 
+The KatanaGr: folds 
+kamijaa: folds 
+haleyjones: folds 
+Geovanignn: folds 
+ollikahn23: folds 
+Uncalled bet (150) returned to ragnarstars7
+ragnarstars7 collected 173 from pot
+*** SUMMARY ***
+Total pot 173 | Rake 0 
+Seat 1: BRMK1ng folded before Flop (didn't bet)
+Seat 2: VAIO-Fer folded before Flop (didn't bet)
+Seat 3: The KatanaGr folded before Flop (didn't bet)
+Seat 5: kamijaa folded before Flop (didn't bet)
+Seat 6: haleyjones (button) folded before Flop (didn't bet)
+Seat 7: Geovanignn (small blind) folded before Flop
+Seat 8: ollikahn23 (big blind) folded before Flop
+Seat 9: ragnarstars7 collected (173)
+
+
+
+PokerStars Hand #184038639896: Tournament #2253368313, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/03/18 16:07:09 ET
+Table '2253368313 3' 9-max Seat #7 is the button
+Seat 1: BRMK1ng (1222 in chips) 
+Seat 2: VAIO-Fer (1668 in chips) 
+Seat 3: The KatanaGr (2626 in chips) 
+Seat 4: ElPutre (1500 in chips) 
+Seat 5: kamijaa (1250 in chips) 
+Seat 6: haleyjones (2360 in chips) 
+Seat 7: Geovanignn (792 in chips) 
+Seat 8: ollikahn23 (802 in chips) 
+Seat 9: ragnarstars7 (5614 in chips) 
+BRMK1ng: posts the ante 6
+VAIO-Fer: posts the ante 6
+The KatanaGr: posts the ante 6
+ElPutre: posts the ante 6
+kamijaa: posts the ante 6
+haleyjones: posts the ante 6
+Geovanignn: posts the ante 6
+ollikahn23: posts the ante 6
+ragnarstars7: posts the ante 6
+ollikahn23: posts small blind 25
+ragnarstars7: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6s 3h]
+BRMK1ng: folds 
+VAIO-Fer: folds 
+The KatanaGr: folds 
+ElPutre: calls 50
+kamijaa: folds 
+haleyjones: folds 
+Geovanignn: folds 
+ollikahn23: folds 
+ragnarstars7: checks 
+*** FLOP *** [5h Th 5c]
+ragnarstars7: checks 
+ElPutre: checks 
+*** TURN *** [5h Th 5c] [4h]
+ragnarstars7: checks 
+ElPutre: checks 
+*** RIVER *** [5h Th 5c 4h] [5d]
+ragnarstars7: checks 
+ElPutre: checks 
+*** SHOW DOWN ***
+ragnarstars7: shows [2c 8s] (three of a kind, Fives)
+ElPutre: shows [6c Ad] (three of a kind, Fives - Ace kicker)
+ElPutre collected 179 from pot
+*** SUMMARY ***
+Total pot 179 | Rake 0 
+Board [5h Th 5c 4h 5d]
+Seat 1: BRMK1ng folded before Flop (didn't bet)
+Seat 2: VAIO-Fer folded before Flop (didn't bet)
+Seat 3: The KatanaGr folded before Flop (didn't bet)
+Seat 4: ElPutre showed [6c Ad] and won (179) with three of a kind, Fives
+Seat 5: kamijaa folded before Flop (didn't bet)
+Seat 6: haleyjones folded before Flop (didn't bet)
+Seat 7: Geovanignn (button) folded before Flop (didn't bet)
+Seat 8: ollikahn23 (small blind) folded before Flop
+Seat 9: ragnarstars7 (big blind) showed [2c 8s] and lost with three of a kind, Fives
+
+
+
+PokerStars Hand #184038704742: Tournament #2253368313, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/03/18 16:08:15 ET
+Table '2253368313 3' 9-max Seat #8 is the button
+Seat 1: BRMK1ng (1216 in chips) 
+Seat 2: VAIO-Fer (1662 in chips) 
+Seat 3: The KatanaGr (2620 in chips) 
+Seat 5: kamijaa (1244 in chips) 
+Seat 6: haleyjones (2354 in chips) 
+Seat 7: Geovanignn (786 in chips) 
+Seat 8: ollikahn23 (771 in chips) 
+Seat 9: ragnarstars7 (5558 in chips) 
+BRMK1ng: posts the ante 6
+VAIO-Fer: posts the ante 6
+The KatanaGr: posts the ante 6
+kamijaa: posts the ante 6
+haleyjones: posts the ante 6
+Geovanignn: posts the ante 6
+ollikahn23: posts the ante 6
+ragnarstars7: posts the ante 6
+ragnarstars7: posts small blind 25
+BRMK1ng: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7d 4s]
+VAIO-Fer: folds 
+The KatanaGr: folds 
+kamijaa: folds 
+haleyjones: folds 
+Geovanignn: folds 
+ollikahn23: raises 50 to 100
+ragnarstars7: calls 75
+BRMK1ng: raises 1110 to 1210 and is all-in
+ollikahn23: folds 
+ragnarstars7: folds 
+Uncalled bet (1110) returned to BRMK1ng
+BRMK1ng collected 348 from pot
+BRMK1ng: doesn't show hand 
+*** SUMMARY ***
+Total pot 348 | Rake 0 
+Seat 1: BRMK1ng (big blind) collected (348)
+Seat 2: VAIO-Fer folded before Flop (didn't bet)
+Seat 3: The KatanaGr folded before Flop (didn't bet)
+Seat 5: kamijaa folded before Flop (didn't bet)
+Seat 6: haleyjones folded before Flop (didn't bet)
+Seat 7: Geovanignn folded before Flop (didn't bet)
+Seat 8: ollikahn23 (button) folded before Flop
+Seat 9: ragnarstars7 (small blind) folded before Flop
+
+
+
+PokerStars Hand #184038762194: Tournament #2253368313, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/03/18 16:09:13 ET
+Table '2253368313 3' 9-max Seat #9 is the button
+Seat 1: BRMK1ng (1458 in chips) 
+Seat 2: VAIO-Fer (1656 in chips) 
+Seat 3: The KatanaGr (2614 in chips) 
+Seat 5: kamijaa (1238 in chips) 
+Seat 6: haleyjones (2348 in chips) 
+Seat 7: Geovanignn (780 in chips) 
+Seat 8: ollikahn23 (665 in chips) 
+Seat 9: ragnarstars7 (5452 in chips) 
+BRMK1ng: posts the ante 6
+VAIO-Fer: posts the ante 6
+The KatanaGr: posts the ante 6
+kamijaa: posts the ante 6
+haleyjones: posts the ante 6
+Geovanignn: posts the ante 6
+ollikahn23: posts the ante 6
+ragnarstars7: posts the ante 6
+BRMK1ng: posts small blind 25
+VAIO-Fer: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2c Ts]
+The KatanaGr: folds 
+kamijaa: folds 
+haleyjones: raises 100 to 150
+Geovanignn: raises 624 to 774 and is all-in
+ollikahn23: folds 
+ragnarstars7: folds 
+BRMK1ng: folds 
+VAIO-Fer: raises 876 to 1650 and is all-in
+haleyjones: folds 
+Uncalled bet (876) returned to VAIO-Fer
+*** FLOP *** [8s 6h Td]
+*** TURN *** [8s 6h Td] [4d]
+*** RIVER *** [8s 6h Td 4d] [2d]
+*** SHOW DOWN ***
+VAIO-Fer: shows [Jc Jd] (a pair of Jacks)
+Geovanignn: shows [Jh Ah] (high card Ace)
+VAIO-Fer collected 1771 from pot
+Geovanignn finished the tournament
+*** SUMMARY ***
+Total pot 1771 | Rake 0 
+Board [8s 6h Td 4d 2d]
+Seat 1: BRMK1ng (small blind) folded before Flop
+Seat 2: VAIO-Fer (big blind) showed [Jc Jd] and won (1771) with a pair of Jacks
+Seat 3: The KatanaGr folded before Flop (didn't bet)
+Seat 5: kamijaa folded before Flop (didn't bet)
+Seat 6: haleyjones folded before Flop
+Seat 7: Geovanignn showed [Jh Ah] and lost with high card Ace
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: ragnarstars7 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184038810626: Tournament #2253368313, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/03/18 16:10:01 ET
+Table '2253368313 3' 9-max Seat #1 is the button
+Seat 1: BRMK1ng (1427 in chips) 
+Seat 2: VAIO-Fer (2647 in chips) 
+Seat 3: The KatanaGr (2608 in chips) 
+Seat 5: kamijaa (1232 in chips) 
+Seat 6: haleyjones (2192 in chips) 
+Seat 8: ollikahn23 (659 in chips) 
+Seat 9: ragnarstars7 (5446 in chips) 
+BRMK1ng: posts the ante 6
+VAIO-Fer: posts the ante 6
+The KatanaGr: posts the ante 6
+kamijaa: posts the ante 6
+haleyjones: posts the ante 6
+ollikahn23: posts the ante 6
+ragnarstars7: posts the ante 6
+VAIO-Fer: posts small blind 25
+The KatanaGr: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5s 7s]
+kamijaa: folds 
+haleyjones: raises 100 to 150
+ollikahn23: folds 
+ragnarstars7: folds 
+BRMK1ng: folds 
+VAIO-Fer: folds 
+The KatanaGr: folds 
+Uncalled bet (100) returned to haleyjones
+haleyjones collected 167 from pot
+*** SUMMARY ***
+Total pot 167 | Rake 0 
+Seat 1: BRMK1ng (button) folded before Flop (didn't bet)
+Seat 2: VAIO-Fer (small blind) folded before Flop
+Seat 3: The KatanaGr (big blind) folded before Flop
+Seat 5: kamijaa folded before Flop (didn't bet)
+Seat 6: haleyjones collected (167)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: ragnarstars7 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184038836782: Tournament #2253368313, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/03/18 16:10:27 ET
+Table '2253368313 3' 9-max Seat #2 is the button
+Seat 1: BRMK1ng (1421 in chips) 
+Seat 2: VAIO-Fer (2616 in chips) 
+Seat 3: The KatanaGr (2552 in chips) 
+Seat 4: Wizard13k (1752 in chips) 
+Seat 5: kamijaa (1226 in chips) 
+Seat 6: haleyjones (2303 in chips) 
+Seat 7: b0rnew0lf (1984 in chips) 
+Seat 8: ollikahn23 (653 in chips) 
+Seat 9: ragnarstars7 (5440 in chips) 
+BRMK1ng: posts the ante 6
+VAIO-Fer: posts the ante 6
+The KatanaGr: posts the ante 6
+Wizard13k: posts the ante 6
+kamijaa: posts the ante 6
+haleyjones: posts the ante 6
+b0rnew0lf: posts the ante 6
+ollikahn23: posts the ante 6
+ragnarstars7: posts the ante 6
+The KatanaGr: posts small blind 25
+Wizard13k: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7d 3d]
+kamijaa: folds 
+haleyjones: folds 
+b0rnew0lf: folds 
+ollikahn23: folds 
+ragnarstars7: raises 100 to 150
+BRMK1ng: folds 
+VAIO-Fer: folds 
+The KatanaGr: folds 
+Wizard13k: folds 
+Uncalled bet (100) returned to ragnarstars7
+ragnarstars7 collected 179 from pot
+*** SUMMARY ***
+Total pot 179 | Rake 0 
+Seat 1: BRMK1ng folded before Flop (didn't bet)
+Seat 2: VAIO-Fer (button) folded before Flop (didn't bet)
+Seat 3: The KatanaGr (small blind) folded before Flop
+Seat 4: Wizard13k (big blind) folded before Flop
+Seat 5: kamijaa folded before Flop (didn't bet)
+Seat 6: haleyjones folded before Flop (didn't bet)
+Seat 7: b0rnew0lf folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: ragnarstars7 collected (179)
+
+
+
+PokerStars Hand #184038867880: Tournament #2253368313, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/03/18 16:10:59 ET
+Table '2253368313 3' 9-max Seat #3 is the button
+Seat 1: BRMK1ng (1415 in chips) 
+Seat 2: VAIO-Fer (2610 in chips) 
+Seat 3: The KatanaGr (2521 in chips) 
+Seat 4: Wizard13k (1696 in chips) 
+Seat 5: kamijaa (1220 in chips) 
+Seat 6: haleyjones (2297 in chips) 
+Seat 7: b0rnew0lf (1978 in chips) 
+Seat 8: ollikahn23 (647 in chips) 
+Seat 9: ragnarstars7 (5563 in chips) 
+BRMK1ng: posts the ante 6
+VAIO-Fer: posts the ante 6
+The KatanaGr: posts the ante 6
+Wizard13k: posts the ante 6
+kamijaa: posts the ante 6
+haleyjones: posts the ante 6
+b0rnew0lf: posts the ante 6
+ollikahn23: posts the ante 6
+ragnarstars7: posts the ante 6
+Wizard13k: posts small blind 25
+kamijaa: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qc 8c]
+haleyjones: folds 
+b0rnew0lf: folds 
+ollikahn23: folds 
+ragnarstars7: folds 
+BRMK1ng: folds 
+VAIO-Fer: folds 
+The KatanaGr: folds 
+Wizard13k: raises 75 to 125
+kamijaa: calls 75
+*** FLOP *** [3h Ks 5s]
+Wizard13k: bets 152
+kamijaa: folds 
+Uncalled bet (152) returned to Wizard13k
+Wizard13k collected 304 from pot
+*** SUMMARY ***
+Total pot 304 | Rake 0 
+Board [3h Ks 5s]
+Seat 1: BRMK1ng folded before Flop (didn't bet)
+Seat 2: VAIO-Fer folded before Flop (didn't bet)
+Seat 3: The KatanaGr (button) folded before Flop (didn't bet)
+Seat 4: Wizard13k (small blind) collected (304)
+Seat 5: kamijaa (big blind) folded on the Flop
+Seat 6: haleyjones folded before Flop (didn't bet)
+Seat 7: b0rnew0lf folded before Flop (didn't bet)
+Seat 8: ollikahn23 folded before Flop (didn't bet)
+Seat 9: ragnarstars7 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184038922960: Tournament #2253368313, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/03/18 16:11:54 ET
+Table '2253368313 11' 9-max Seat #1 is the button
+Seat 1: michelpc2392 (1476 in chips) 
+Seat 2: Wizard13k (1869 in chips) 
+Seat 3: The KatanaGr (2515 in chips) 
+Seat 4: VAIO-Fer (2604 in chips) 
+Seat 5: BRMK1ng (1409 in chips) 
+Seat 6: ragnarstars7 (5557 in chips) 
+Seat 7: ollikahn23 (641 in chips) 
+Seat 8: b0rnew0lf (1972 in chips) 
+Seat 9: haleyjones (2291 in chips) 
+michelpc2392: posts the ante 6
+Wizard13k: posts the ante 6
+The KatanaGr: posts the ante 6
+VAIO-Fer: posts the ante 6
+BRMK1ng: posts the ante 6
+ragnarstars7: posts the ante 6
+ollikahn23: posts the ante 6
+b0rnew0lf: posts the ante 6
+haleyjones: posts the ante 6
+Wizard13k: posts small blind 25
+The KatanaGr: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ks Qc]
+VAIO-Fer is connected 
+VAIO-Fer: raises 53 to 103
+BRMK1ng: folds 
+ragnarstars7: calls 103
+ollikahn23: folds 
+b0rnew0lf: folds 
+haleyjones: folds 
+michelpc2392: folds 
+Wizard13k: folds 
+The KatanaGr: calls 53
+*** FLOP *** [Tc Qs 4d]
+The KatanaGr: checks 
+VAIO-Fer: bets 175
+ragnarstars7: folds 
+The KatanaGr: folds 
+Uncalled bet (175) returned to VAIO-Fer
+VAIO-Fer collected 388 from pot
+VAIO-Fer: doesn't show hand 
+*** SUMMARY ***
+Total pot 388 | Rake 0 
+Board [Tc Qs 4d]
+Seat 1: michelpc2392 (button) folded before Flop (didn't bet)
+Seat 2: Wizard13k (small blind) folded before Flop
+Seat 3: The KatanaGr (big blind) folded on the Flop
+Seat 4: VAIO-Fer collected (388)
+Seat 5: BRMK1ng folded before Flop (didn't bet)
+Seat 6: ragnarstars7 folded on the Flop
+Seat 7: ollikahn23 folded before Flop (didn't bet)
+Seat 8: b0rnew0lf folded before Flop (didn't bet)
+Seat 9: haleyjones folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184038999480: Tournament #2253368313, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/03/18 16:13:11 ET
+Table '2253368313 11' 9-max Seat #2 is the button
+Seat 1: michelpc2392 (1470 in chips) 
+Seat 2: Wizard13k (1838 in chips) 
+Seat 3: The KatanaGr (2406 in chips) 
+Seat 4: VAIO-Fer (2883 in chips) 
+Seat 5: BRMK1ng (1403 in chips) 
+Seat 6: ragnarstars7 (5448 in chips) 
+Seat 7: ollikahn23 (635 in chips) 
+Seat 8: b0rnew0lf (1966 in chips) 
+Seat 9: haleyjones (2285 in chips) 
+michelpc2392: posts the ante 6
+Wizard13k: posts the ante 6
+The KatanaGr: posts the ante 6
+VAIO-Fer: posts the ante 6
+BRMK1ng: posts the ante 6
+ragnarstars7: posts the ante 6
+ollikahn23: posts the ante 6
+b0rnew0lf: posts the ante 6
+haleyjones: posts the ante 6
+The KatanaGr: posts small blind 25
+VAIO-Fer: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kh 4d]
+BRMK1ng: folds 
+ragnarstars7: folds 
+ollikahn23: folds 
+b0rnew0lf: folds 
+haleyjones: folds 
+michelpc2392: folds 
+Wizard13k: raises 75 to 125
+The KatanaGr: folds 
+VAIO-Fer: folds 
+Uncalled bet (75) returned to Wizard13k
+Wizard13k collected 179 from pot
+Wizard13k: doesn't show hand 
+*** SUMMARY ***
+Total pot 179 | Rake 0 
+Seat 1: michelpc2392 folded before Flop (didn't bet)
+Seat 2: Wizard13k (button) collected (179)
+Seat 3: The KatanaGr (small blind) folded before Flop
+Seat 4: VAIO-Fer (big blind) folded before Flop
+Seat 5: BRMK1ng folded before Flop (didn't bet)
+Seat 6: ragnarstars7 folded before Flop (didn't bet)
+Seat 7: ollikahn23 folded before Flop (didn't bet)
+Seat 8: b0rnew0lf folded before Flop (didn't bet)
+Seat 9: haleyjones folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184039032424: Tournament #2253368313, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/03/18 16:13:44 ET
+Table '2253368313 11' 9-max Seat #3 is the button
+Seat 1: michelpc2392 (1464 in chips) 
+Seat 2: Wizard13k (1961 in chips) 
+Seat 3: The KatanaGr (2375 in chips) 
+Seat 4: VAIO-Fer (2827 in chips) 
+Seat 5: BRMK1ng (1397 in chips) 
+Seat 6: ragnarstars7 (5442 in chips) 
+Seat 7: ollikahn23 (629 in chips) 
+Seat 8: b0rnew0lf (1960 in chips) 
+Seat 9: haleyjones (2279 in chips) 
+michelpc2392: posts the ante 6
+Wizard13k: posts the ante 6
+The KatanaGr: posts the ante 6
+VAIO-Fer: posts the ante 6
+BRMK1ng: posts the ante 6
+ragnarstars7: posts the ante 6
+ollikahn23: posts the ante 6
+b0rnew0lf: posts the ante 6
+haleyjones: posts the ante 6
+VAIO-Fer: posts small blind 25
+BRMK1ng: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5c 2h]
+ragnarstars7: raises 50 to 100
+ollikahn23: folds 
+b0rnew0lf: folds 
+haleyjones: folds 
+michelpc2392: folds 
+Wizard13k: folds 
+The KatanaGr: folds 
+VAIO-Fer: folds 
+BRMK1ng: calls 50
+*** FLOP *** [2c 6c 5h]
+BRMK1ng: checks 
+ragnarstars7: bets 150
+BRMK1ng: folds 
+Uncalled bet (150) returned to ragnarstars7
+ragnarstars7 collected 279 from pot
+*** SUMMARY ***
+Total pot 279 | Rake 0 
+Board [2c 6c 5h]
+Seat 1: michelpc2392 folded before Flop (didn't bet)
+Seat 2: Wizard13k folded before Flop (didn't bet)
+Seat 3: The KatanaGr (button) folded before Flop (didn't bet)
+Seat 4: VAIO-Fer (small blind) folded before Flop
+Seat 5: BRMK1ng (big blind) folded on the Flop
+Seat 6: ragnarstars7 collected (279)
+Seat 7: ollikahn23 folded before Flop (didn't bet)
+Seat 8: b0rnew0lf folded before Flop (didn't bet)
+Seat 9: haleyjones folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184039109613: Tournament #2253368313, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/03/18 16:15:03 ET
+Table '2253368313 11' 9-max Seat #4 is the button
+Seat 1: michelpc2392 (1458 in chips) 
+Seat 2: Wizard13k (1955 in chips) 
+Seat 3: The KatanaGr (2369 in chips) 
+Seat 4: VAIO-Fer (2796 in chips) 
+Seat 5: BRMK1ng (1291 in chips) 
+Seat 6: ragnarstars7 (5615 in chips) 
+Seat 7: ollikahn23 (623 in chips) 
+Seat 8: b0rnew0lf (1954 in chips) 
+Seat 9: haleyjones (2273 in chips) 
+michelpc2392: posts the ante 6
+Wizard13k: posts the ante 6
+The KatanaGr: posts the ante 6
+VAIO-Fer: posts the ante 6
+BRMK1ng: posts the ante 6
+ragnarstars7: posts the ante 6
+ollikahn23: posts the ante 6
+b0rnew0lf: posts the ante 6
+haleyjones: posts the ante 6
+BRMK1ng: posts small blind 25
+ragnarstars7: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8d Ts]
+ollikahn23: folds 
+b0rnew0lf: folds 
+haleyjones: raises 100 to 150
+michelpc2392: raises 250 to 400
+Wizard13k: folds 
+The KatanaGr: folds 
+VAIO-Fer: folds 
+BRMK1ng: folds 
+ragnarstars7: folds 
+haleyjones: folds 
+Uncalled bet (250) returned to michelpc2392
+michelpc2392 collected 429 from pot
+michelpc2392: doesn't show hand 
+*** SUMMARY ***
+Total pot 429 | Rake 0 
+Seat 1: michelpc2392 collected (429)
+Seat 2: Wizard13k folded before Flop (didn't bet)
+Seat 3: The KatanaGr folded before Flop (didn't bet)
+Seat 4: VAIO-Fer (button) folded before Flop (didn't bet)
+Seat 5: BRMK1ng (small blind) folded before Flop
+Seat 6: ragnarstars7 (big blind) folded before Flop
+Seat 7: ollikahn23 folded before Flop (didn't bet)
+Seat 8: b0rnew0lf folded before Flop (didn't bet)
+Seat 9: haleyjones folded before Flop
+
+
+
+PokerStars Hand #184039170717: Tournament #2253368313, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/03/18 16:16:04 ET
+Table '2253368313 11' 9-max Seat #5 is the button
+Seat 1: michelpc2392 (1731 in chips) 
+Seat 2: Wizard13k (1949 in chips) 
+Seat 3: The KatanaGr (2363 in chips) 
+Seat 4: VAIO-Fer (2790 in chips) 
+Seat 5: BRMK1ng (1260 in chips) 
+Seat 6: ragnarstars7 (5559 in chips) 
+Seat 7: ollikahn23 (617 in chips) 
+Seat 8: b0rnew0lf (1948 in chips) 
+Seat 9: haleyjones (2117 in chips) 
+michelpc2392: posts the ante 6
+Wizard13k: posts the ante 6
+The KatanaGr: posts the ante 6
+VAIO-Fer: posts the ante 6
+BRMK1ng: posts the ante 6
+ragnarstars7: posts the ante 6
+ollikahn23: posts the ante 6
+b0rnew0lf: posts the ante 6
+haleyjones: posts the ante 6
+ragnarstars7: posts small blind 25
+ollikahn23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kh Ts]
+b0rnew0lf: folds 
+haleyjones: folds 
+michelpc2392: raises 100 to 150
+Wizard13k: folds 
+The KatanaGr: folds 
+VAIO-Fer: folds 
+BRMK1ng: folds 
+ragnarstars7: folds 
+ollikahn23: folds 
+Uncalled bet (100) returned to michelpc2392
+michelpc2392 collected 179 from pot
+michelpc2392: doesn't show hand 
+*** SUMMARY ***
+Total pot 179 | Rake 0 
+Seat 1: michelpc2392 collected (179)
+Seat 2: Wizard13k folded before Flop (didn't bet)
+Seat 3: The KatanaGr folded before Flop (didn't bet)
+Seat 4: VAIO-Fer folded before Flop (didn't bet)
+Seat 5: BRMK1ng (button) folded before Flop (didn't bet)
+Seat 6: ragnarstars7 (small blind) folded before Flop
+Seat 7: ollikahn23 (big blind) folded before Flop
+Seat 8: b0rnew0lf folded before Flop (didn't bet)
+Seat 9: haleyjones folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184039209229: Tournament #2253368313, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/03/18 16:16:43 ET
+Table '2253368313 11' 9-max Seat #6 is the button
+Seat 1: michelpc2392 (1854 in chips) 
+Seat 2: Wizard13k (1943 in chips) 
+Seat 3: The KatanaGr (2357 in chips) 
+Seat 4: VAIO-Fer (2784 in chips) 
+Seat 5: BRMK1ng (1254 in chips) 
+Seat 6: ragnarstars7 (5528 in chips) 
+Seat 7: ollikahn23 (561 in chips) 
+Seat 8: b0rnew0lf (1942 in chips) 
+Seat 9: haleyjones (2111 in chips) 
+michelpc2392: posts the ante 6
+Wizard13k: posts the ante 6
+The KatanaGr: posts the ante 6
+VAIO-Fer: posts the ante 6
+BRMK1ng: posts the ante 6
+ragnarstars7: posts the ante 6
+ollikahn23: posts the ante 6
+b0rnew0lf: posts the ante 6
+haleyjones: posts the ante 6
+ollikahn23: posts small blind 25
+b0rnew0lf: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6h 4h]
+haleyjones: folds 
+michelpc2392: folds 
+Wizard13k: folds 
+The KatanaGr: folds 
+VAIO-Fer: folds 
+BRMK1ng: folds 
+ragnarstars7: raises 100 to 150
+ollikahn23: folds 
+b0rnew0lf: calls 100
+*** FLOP *** [9d Ah 7h]
+b0rnew0lf: checks 
+ragnarstars7: bets 150
+b0rnew0lf: calls 150
+*** TURN *** [9d Ah 7h] [As]
+b0rnew0lf: checks 
+ragnarstars7: checks 
+*** RIVER *** [9d Ah 7h As] [Ks]
+b0rnew0lf: bets 350
+ragnarstars7: calls 350
+*** SHOW DOWN ***
+b0rnew0lf: shows [5s Ac] (three of a kind, Aces)
+ragnarstars7: mucks hand 
+b0rnew0lf collected 1379 from pot
+*** SUMMARY ***
+Total pot 1379 | Rake 0 
+Board [9d Ah 7h As Ks]
+Seat 1: michelpc2392 folded before Flop (didn't bet)
+Seat 2: Wizard13k folded before Flop (didn't bet)
+Seat 3: The KatanaGr folded before Flop (didn't bet)
+Seat 4: VAIO-Fer folded before Flop (didn't bet)
+Seat 5: BRMK1ng folded before Flop (didn't bet)
+Seat 6: ragnarstars7 (button) mucked [Kc 6c]
+Seat 7: ollikahn23 (small blind) folded before Flop
+Seat 8: b0rnew0lf (big blind) showed [5s Ac] and won (1379) with three of a kind, Aces
+Seat 9: haleyjones folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184039264658: Tournament #2253368313, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/03/18 16:17:40 ET
+Table '2253368313 11' 9-max Seat #7 is the button
+Seat 1: michelpc2392 (1848 in chips) 
+Seat 2: Wizard13k (1937 in chips) 
+Seat 3: The KatanaGr (2351 in chips) 
+Seat 4: VAIO-Fer (2778 in chips) 
+Seat 5: BRMK1ng (1248 in chips) 
+Seat 6: ragnarstars7 (4872 in chips) 
+Seat 7: ollikahn23 (530 in chips) 
+Seat 8: b0rnew0lf (2665 in chips) 
+Seat 9: haleyjones (2105 in chips) 
+michelpc2392: posts the ante 6
+Wizard13k: posts the ante 6
+The KatanaGr: posts the ante 6
+VAIO-Fer: posts the ante 6
+BRMK1ng: posts the ante 6
+ragnarstars7: posts the ante 6
+ollikahn23: posts the ante 6
+b0rnew0lf: posts the ante 6
+haleyjones: posts the ante 6
+b0rnew0lf: posts small blind 25
+haleyjones: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Tc 9c]
+michelpc2392: folds 
+Wizard13k: folds 
+The KatanaGr: folds 
+VAIO-Fer: folds 
+BRMK1ng: folds 
+ragnarstars7: folds 
+ollikahn23: raises 474 to 524 and is all-in
+b0rnew0lf: folds 
+haleyjones: calls 474
+*** FLOP *** [6c Qh Ts]
+*** TURN *** [6c Qh Ts] [8h]
+*** RIVER *** [6c Qh Ts 8h] [9h]
+*** SHOW DOWN ***
+haleyjones: shows [9d 9s] (three of a kind, Nines)
+ollikahn23: shows [Tc 9c] (two pair, Tens and Nines)
+haleyjones collected 1127 from pot
+ollikahn23 finished the tournament in 76th place
+*** SUMMARY ***
+Total pot 1127 | Rake 0 
+Board [6c Qh Ts 8h 9h]
+Seat 1: michelpc2392 folded before Flop (didn't bet)
+Seat 2: Wizard13k folded before Flop (didn't bet)
+Seat 3: The KatanaGr folded before Flop (didn't bet)
+Seat 4: VAIO-Fer folded before Flop (didn't bet)
+Seat 5: BRMK1ng folded before Flop (didn't bet)
+Seat 6: ragnarstars7 folded before Flop (didn't bet)
+Seat 7: ollikahn23 (button) showed [Tc 9c] and lost with two pair, Tens and Nines
+Seat 8: b0rnew0lf (small blind) folded before Flop
+Seat 9: haleyjones (big blind) showed [9d 9s] and won (1127) with three of a kind, Nines
+
+
+

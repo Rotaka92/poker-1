@@ -1,0 +1,3466 @@
+﻿PokerStars Hand #185510377983: Tournament #2282606654, $13.37+$1.63 USD Hold'em No Limit - Level I (15/30) - 2018/04/21 17:06:37 ET
+Table '2282606654 31' 9-max Seat #6 is the button
+Seat 1: doobsan (4421 in chips) 
+Seat 2: AAldo (2969 in chips) 
+Seat 3: morocanu (1561 in chips) 
+Seat 4: resurse (3474 in chips) 
+Seat 5: ollikahn23 (3000 in chips) 
+Seat 6: vJakey (2661 in chips) 
+Seat 7: CYBER_BOS228 (2954 in chips) 
+Seat 9: gniewna777 (2984 in chips) 
+doobsan: posts the ante 4
+AAldo: posts the ante 4
+morocanu: posts the ante 4
+resurse: posts the ante 4
+ollikahn23: posts the ante 4
+vJakey: posts the ante 4
+CYBER_BOS228: posts the ante 4
+gniewna777: posts the ante 4
+CYBER_BOS228: posts small blind 15
+gniewna777: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7h 4h]
+doobsan: raises 60 to 90
+AAldo: folds 
+morocanu: folds 
+resurse: folds 
+ollikahn23: calls 90
+vJakey: folds 
+CYBER_BOS228: folds 
+gniewna777: folds 
+*** FLOP *** [Tc Qd 8s]
+doobsan: bets 129
+ollikahn23: folds 
+Uncalled bet (129) returned to doobsan
+doobsan collected 257 from pot
+doobsan: doesn't show hand 
+*** SUMMARY ***
+Total pot 257 | Rake 0 
+Board [Tc Qd 8s]
+Seat 1: doobsan collected (257)
+Seat 2: AAldo folded before Flop (didn't bet)
+Seat 3: morocanu folded before Flop (didn't bet)
+Seat 4: resurse folded before Flop (didn't bet)
+Seat 5: ollikahn23 folded on the Flop
+Seat 6: vJakey (button) folded before Flop (didn't bet)
+Seat 7: CYBER_BOS228 (small blind) folded before Flop
+Seat 9: gniewna777 (big blind) folded before Flop
+
+
+
+PokerStars Hand #185510414626: Tournament #2282606654, $13.37+$1.63 USD Hold'em No Limit - Level I (15/30) - 2018/04/21 17:07:26 ET
+Table '2282606654 31' 9-max Seat #7 is the button
+Seat 1: doobsan (4584 in chips) 
+Seat 2: AAldo (2965 in chips) 
+Seat 3: morocanu (1557 in chips) 
+Seat 4: resurse (3470 in chips) 
+Seat 5: ollikahn23 (2906 in chips) 
+Seat 6: vJakey (2657 in chips) 
+Seat 7: CYBER_BOS228 (2935 in chips) 
+Seat 8: ZaKoshitze (3000 in chips) out of hand (moved from another table into small blind)
+Seat 9: gniewna777 (2950 in chips) 
+ZaKoshitze will be allowed to play after the button
+doobsan: posts the ante 4
+AAldo: posts the ante 4
+morocanu: posts the ante 4
+resurse: posts the ante 4
+ollikahn23: posts the ante 4
+vJakey: posts the ante 4
+CYBER_BOS228: posts the ante 4
+gniewna777: posts the ante 4
+gniewna777: posts small blind 15
+doobsan: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kh Td]
+AAldo: calls 30
+morocanu: folds 
+resurse: folds 
+ollikahn23: raises 85 to 115
+vJakey: folds 
+CYBER_BOS228: folds 
+gniewna777: folds 
+doobsan: folds 
+AAldo: calls 85
+*** FLOP *** [9s Ts 7d]
+AAldo: checks 
+ollikahn23: bets 210
+AAldo: folds [3s 3h]
+Uncalled bet (210) returned to ollikahn23
+ollikahn23 collected 307 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 307 | Rake 0 
+Board [9s Ts 7d]
+Seat 1: doobsan (big blind) folded before Flop
+Seat 2: AAldo folded on the Flop
+Seat 3: morocanu folded before Flop (didn't bet)
+Seat 4: resurse folded before Flop (didn't bet)
+Seat 5: ollikahn23 collected (307)
+Seat 6: vJakey folded before Flop (didn't bet)
+Seat 7: CYBER_BOS228 (button) folded before Flop (didn't bet)
+Seat 9: gniewna777 (small blind) folded before Flop
+
+
+
+PokerStars Hand #185510450936: Tournament #2282606654, $13.37+$1.63 USD Hold'em No Limit - Level I (15/30) - 2018/04/21 17:08:15 ET
+Table '2282606654 31' 9-max Seat #9 is the button
+Seat 1: doobsan (4550 in chips) 
+Seat 2: AAldo (2846 in chips) 
+Seat 3: morocanu (1553 in chips) 
+Seat 4: resurse (3466 in chips) 
+Seat 5: ollikahn23 (3094 in chips) 
+Seat 6: vJakey (2653 in chips) 
+Seat 7: CYBER_BOS228 (2931 in chips) 
+Seat 8: ZaKoshitze (3000 in chips) 
+Seat 9: gniewna777 (2931 in chips) 
+doobsan: posts the ante 4
+AAldo: posts the ante 4
+morocanu: posts the ante 4
+resurse: posts the ante 4
+ollikahn23: posts the ante 4
+vJakey: posts the ante 4
+CYBER_BOS228: posts the ante 4
+ZaKoshitze: posts the ante 4
+gniewna777: posts the ante 4
+doobsan: posts small blind 15
+AAldo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jc 9h]
+morocanu: calls 30
+resurse: folds 
+ollikahn23: folds 
+vJakey: folds 
+CYBER_BOS228: folds 
+ZaKoshitze: folds 
+gniewna777: folds 
+doobsan: calls 15
+AAldo: checks 
+*** FLOP *** [Ts Kh 4s]
+doobsan: checks 
+AAldo: bets 30
+morocanu: calls 30
+doobsan: calls 30
+*** TURN *** [Ts Kh 4s] [Tc]
+doobsan: checks 
+AAldo: checks 
+morocanu: checks 
+*** RIVER *** [Ts Kh 4s Tc] [Jd]
+doobsan: bets 390
+AAldo: folds 
+morocanu: folds 
+Uncalled bet (390) returned to doobsan
+doobsan collected 216 from pot
+doobsan: doesn't show hand 
+*** SUMMARY ***
+Total pot 216 | Rake 0 
+Board [Ts Kh 4s Tc Jd]
+Seat 1: doobsan (small blind) collected (216)
+Seat 2: AAldo (big blind) folded on the River
+Seat 3: morocanu folded on the River
+Seat 4: resurse folded before Flop (didn't bet)
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: vJakey folded before Flop (didn't bet)
+Seat 7: CYBER_BOS228 folded before Flop (didn't bet)
+Seat 8: ZaKoshitze folded before Flop (didn't bet)
+Seat 9: gniewna777 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185510496510: Tournament #2282606654, $13.37+$1.63 USD Hold'em No Limit - Level I (15/30) - 2018/04/21 17:09:16 ET
+Table '2282606654 31' 9-max Seat #1 is the button
+Seat 1: doobsan (4702 in chips) 
+Seat 2: AAldo (2782 in chips) 
+Seat 4: resurse (3462 in chips) 
+Seat 5: ollikahn23 (3090 in chips) 
+Seat 6: vJakey (2649 in chips) 
+Seat 7: CYBER_BOS228 (2927 in chips) 
+Seat 8: ZaKoshitze (2996 in chips) 
+Seat 9: gniewna777 (2927 in chips) 
+doobsan: posts the ante 4
+AAldo: posts the ante 4
+resurse: posts the ante 4
+ollikahn23: posts the ante 4
+vJakey: posts the ante 4
+CYBER_BOS228: posts the ante 4
+ZaKoshitze: posts the ante 4
+gniewna777: posts the ante 4
+AAldo: posts small blind 15
+resurse: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Tc 7s]
+ollikahn23: folds 
+vJakey: folds 
+CYBER_BOS228: raises 60 to 90
+ZaKoshitze: folds 
+gniewna777: folds 
+doobsan: calls 90
+AAldo: folds 
+resurse: folds 
+*** FLOP *** [Qh 8h Qc]
+CYBER_BOS228: bets 120
+doobsan: calls 120
+*** TURN *** [Qh 8h Qc] [Kd]
+CYBER_BOS228: bets 270
+doobsan: folds 
+Uncalled bet (270) returned to CYBER_BOS228
+CYBER_BOS228 collected 497 from pot
+*** SUMMARY ***
+Total pot 497 | Rake 0 
+Board [Qh 8h Qc Kd]
+Seat 1: doobsan (button) folded on the Turn
+Seat 2: AAldo (small blind) folded before Flop
+Seat 4: resurse (big blind) folded before Flop
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: vJakey folded before Flop (didn't bet)
+Seat 7: CYBER_BOS228 collected (497)
+Seat 8: ZaKoshitze folded before Flop (didn't bet)
+Seat 9: gniewna777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185510540651: Tournament #2282606654, $13.37+$1.63 USD Hold'em No Limit - Level I (15/30) - 2018/04/21 17:10:15 ET
+Table '2282606654 31' 9-max Seat #2 is the button
+Seat 1: doobsan (4488 in chips) 
+Seat 2: AAldo (2763 in chips) 
+Seat 3: AntisocialBeer (3000 in chips) out of hand (moved from another table into small blind)
+Seat 4: resurse (3428 in chips) 
+Seat 5: ollikahn23 (3086 in chips) 
+Seat 6: vJakey (2645 in chips) 
+Seat 7: CYBER_BOS228 (3210 in chips) 
+Seat 8: ZaKoshitze (2992 in chips) 
+Seat 9: gniewna777 (2923 in chips) 
+AntisocialBeer will be allowed to play after the button
+doobsan: posts the ante 4
+AAldo: posts the ante 4
+resurse: posts the ante 4
+ollikahn23: posts the ante 4
+vJakey: posts the ante 4
+CYBER_BOS228: posts the ante 4
+ZaKoshitze: posts the ante 4
+gniewna777: posts the ante 4
+resurse: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6c 6s]
+vJakey: folds 
+CYBER_BOS228: folds 
+ZaKoshitze: folds 
+gniewna777: folds 
+doobsan: raises 30 to 60
+AAldo: folds 
+resurse: calls 45
+ollikahn23: calls 30
+*** FLOP *** [8h 4s 4c]
+resurse: checks 
+ollikahn23: checks 
+doobsan: bets 106
+resurse: folds 
+ollikahn23: calls 106
+*** TURN *** [8h 4s 4c] [Qd]
+ollikahn23: bets 145
+doobsan: calls 145
+*** RIVER *** [8h 4s 4c Qd] [5s]
+ollikahn23: checks 
+doobsan: checks 
+*** SHOW DOWN ***
+ollikahn23: shows [6c 6s] (two pair, Sixes and Fours)
+doobsan: shows [Ac 8d] (two pair, Eights and Fours)
+doobsan collected 714 from pot
+*** SUMMARY ***
+Total pot 714 | Rake 0 
+Board [8h 4s 4c Qd 5s]
+Seat 1: doobsan showed [Ac 8d] and won (714) with two pair, Eights and Fours
+Seat 2: AAldo (button) folded before Flop (didn't bet)
+Seat 4: resurse (small blind) folded on the Flop
+Seat 5: ollikahn23 (big blind) showed [6c 6s] and lost with two pair, Sixes and Fours
+Seat 6: vJakey folded before Flop (didn't bet)
+Seat 7: CYBER_BOS228 folded before Flop (didn't bet)
+Seat 8: ZaKoshitze folded before Flop (didn't bet)
+Seat 9: gniewna777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185510600033: Tournament #2282606654, $13.37+$1.63 USD Hold'em No Limit - Level I (15/30) - 2018/04/21 17:11:36 ET
+Table '2282606654 31' 9-max Seat #4 is the button
+Seat 1: doobsan (4887 in chips) 
+Seat 2: AAldo (2759 in chips) 
+Seat 3: AntisocialBeer (3000 in chips) 
+Seat 4: resurse (3364 in chips) 
+Seat 5: ollikahn23 (2771 in chips) 
+Seat 6: vJakey (2641 in chips) 
+Seat 7: CYBER_BOS228 (3206 in chips) 
+Seat 8: ZaKoshitze (2988 in chips) 
+Seat 9: gniewna777 (2919 in chips) 
+doobsan: posts the ante 4
+AAldo: posts the ante 4
+AntisocialBeer: posts the ante 4
+resurse: posts the ante 4
+ollikahn23: posts the ante 4
+vJakey: posts the ante 4
+CYBER_BOS228: posts the ante 4
+ZaKoshitze: posts the ante 4
+gniewna777: posts the ante 4
+ollikahn23: posts small blind 15
+vJakey: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ac 3c]
+CYBER_BOS228: folds 
+ZaKoshitze: folds 
+gniewna777: folds 
+doobsan: folds 
+AAldo: folds 
+AntisocialBeer: folds 
+resurse: raises 60 to 90
+ollikahn23: raises 60 to 150
+vJakey: folds 
+resurse: raises 300 to 450
+ollikahn23: folds 
+Uncalled bet (300) returned to resurse
+resurse collected 366 from pot
+resurse: doesn't show hand 
+*** SUMMARY ***
+Total pot 366 | Rake 0 
+Seat 1: doobsan folded before Flop (didn't bet)
+Seat 2: AAldo folded before Flop (didn't bet)
+Seat 3: AntisocialBeer folded before Flop (didn't bet)
+Seat 4: resurse (button) collected (366)
+Seat 5: ollikahn23 (small blind) folded before Flop
+Seat 6: vJakey (big blind) folded before Flop
+Seat 7: CYBER_BOS228 folded before Flop (didn't bet)
+Seat 8: ZaKoshitze folded before Flop (didn't bet)
+Seat 9: gniewna777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185510652823: Tournament #2282606654, $13.37+$1.63 USD Hold'em No Limit - Level II (20/40) - 2018/04/21 17:12:48 ET
+Table '2282606654 31' 9-max Seat #5 is the button
+Seat 1: doobsan (4883 in chips) 
+Seat 2: AAldo (2755 in chips) 
+Seat 3: AntisocialBeer (2996 in chips) 
+Seat 4: resurse (3576 in chips) 
+Seat 5: ollikahn23 (2617 in chips) 
+Seat 6: vJakey (2607 in chips) 
+Seat 7: CYBER_BOS228 (3202 in chips) 
+Seat 8: ZaKoshitze (2984 in chips) 
+Seat 9: gniewna777 (2915 in chips) 
+doobsan: posts the ante 5
+AAldo: posts the ante 5
+AntisocialBeer: posts the ante 5
+resurse: posts the ante 5
+ollikahn23: posts the ante 5
+vJakey: posts the ante 5
+CYBER_BOS228: posts the ante 5
+ZaKoshitze: posts the ante 5
+gniewna777: posts the ante 5
+vJakey: posts small blind 20
+CYBER_BOS228: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jc Qc]
+ZaKoshitze: raises 40 to 80
+gniewna777: folds 
+doobsan: folds 
+AAldo: folds 
+AntisocialBeer: folds 
+resurse: folds 
+ollikahn23: calls 80
+vJakey: calls 60
+CYBER_BOS228: calls 40
+*** FLOP *** [8s Qh Kd]
+vJakey: checks 
+CYBER_BOS228: checks 
+ZaKoshitze: checks 
+ollikahn23: bets 125
+vJakey: calls 125
+CYBER_BOS228: folds 
+ZaKoshitze: folds 
+*** TURN *** [8s Qh Kd] [3h]
+vJakey: checks 
+ollikahn23: checks 
+*** RIVER *** [8s Qh Kd 3h] [Jh]
+vJakey: bets 504
+ollikahn23: calls 504
+*** SHOW DOWN ***
+vJakey: shows [9s Ts] (a straight, Nine to King)
+ollikahn23: mucks hand 
+vJakey collected 1623 from pot
+*** SUMMARY ***
+Total pot 1623 | Rake 0 
+Board [8s Qh Kd 3h Jh]
+Seat 1: doobsan folded before Flop (didn't bet)
+Seat 2: AAldo folded before Flop (didn't bet)
+Seat 3: AntisocialBeer folded before Flop (didn't bet)
+Seat 4: resurse folded before Flop (didn't bet)
+Seat 5: ollikahn23 (button) mucked [Jc Qc]
+Seat 6: vJakey (small blind) showed [9s Ts] and won (1623) with a straight, Nine to King
+Seat 7: CYBER_BOS228 (big blind) folded on the Flop
+Seat 8: ZaKoshitze folded on the Flop
+Seat 9: gniewna777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185510718599: Tournament #2282606654, $13.37+$1.63 USD Hold'em No Limit - Level II (20/40) - 2018/04/21 17:14:17 ET
+Table '2282606654 31' 9-max Seat #6 is the button
+Seat 1: doobsan (4878 in chips) 
+Seat 2: AAldo (2750 in chips) 
+Seat 3: AntisocialBeer (2991 in chips) 
+Seat 4: resurse (3571 in chips) 
+Seat 5: ollikahn23 (1903 in chips) 
+Seat 6: vJakey (3516 in chips) 
+Seat 7: CYBER_BOS228 (3117 in chips) 
+Seat 8: ZaKoshitze (2899 in chips) 
+Seat 9: gniewna777 (2910 in chips) 
+doobsan: posts the ante 5
+AAldo: posts the ante 5
+AntisocialBeer: posts the ante 5
+resurse: posts the ante 5
+ollikahn23: posts the ante 5
+vJakey: posts the ante 5
+CYBER_BOS228: posts the ante 5
+ZaKoshitze: posts the ante 5
+gniewna777: posts the ante 5
+CYBER_BOS228: posts small blind 20
+ZaKoshitze: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2d Jh]
+gniewna777: folds 
+doobsan: folds 
+ollikahn23 said, "nh"
+AAldo: folds 
+AntisocialBeer: folds 
+resurse: folds 
+ollikahn23: folds 
+vJakey: folds 
+CYBER_BOS228: calls 20
+ZaKoshitze: checks 
+*** FLOP *** [Ac 5h Js]
+CYBER_BOS228: checks 
+ZaKoshitze: checks 
+*** TURN *** [Ac 5h Js] [9h]
+CYBER_BOS228: checks 
+ZaKoshitze: checks 
+*** RIVER *** [Ac 5h Js 9h] [7s]
+CYBER_BOS228: checks 
+ZaKoshitze: bets 120
+CYBER_BOS228: folds 
+Uncalled bet (120) returned to ZaKoshitze
+ZaKoshitze collected 125 from pot
+ZaKoshitze: doesn't show hand 
+*** SUMMARY ***
+Total pot 125 | Rake 0 
+Board [Ac 5h Js 9h 7s]
+Seat 1: doobsan folded before Flop (didn't bet)
+Seat 2: AAldo folded before Flop (didn't bet)
+Seat 3: AntisocialBeer folded before Flop (didn't bet)
+Seat 4: resurse folded before Flop (didn't bet)
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: vJakey (button) folded before Flop (didn't bet)
+Seat 7: CYBER_BOS228 (small blind) folded on the River
+Seat 8: ZaKoshitze (big blind) collected (125)
+Seat 9: gniewna777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185510781145: Tournament #2282606654, $13.37+$1.63 USD Hold'em No Limit - Level II (20/40) - 2018/04/21 17:15:42 ET
+Table '2282606654 31' 9-max Seat #7 is the button
+Seat 1: doobsan (4873 in chips) 
+Seat 2: AAldo (2745 in chips) 
+Seat 3: AntisocialBeer (2986 in chips) 
+Seat 4: resurse (3566 in chips) 
+Seat 5: ollikahn23 (1898 in chips) 
+Seat 6: vJakey (3511 in chips) 
+Seat 7: CYBER_BOS228 (3072 in chips) 
+Seat 8: ZaKoshitze (2979 in chips) 
+Seat 9: gniewna777 (2905 in chips) 
+doobsan: posts the ante 5
+AAldo: posts the ante 5
+AntisocialBeer: posts the ante 5
+resurse: posts the ante 5
+ollikahn23: posts the ante 5
+vJakey: posts the ante 5
+CYBER_BOS228: posts the ante 5
+ZaKoshitze: posts the ante 5
+gniewna777: posts the ante 5
+ZaKoshitze: posts small blind 20
+gniewna777: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ah 5h]
+doobsan: folds 
+AAldo: folds 
+AntisocialBeer: folds 
+resurse: raises 80 to 120
+ollikahn23: folds 
+vJakey: folds 
+CYBER_BOS228: folds 
+ZaKoshitze: folds 
+gniewna777: folds 
+Uncalled bet (80) returned to resurse
+resurse collected 145 from pot
+resurse: doesn't show hand 
+*** SUMMARY ***
+Total pot 145 | Rake 0 
+Seat 1: doobsan folded before Flop (didn't bet)
+Seat 2: AAldo folded before Flop (didn't bet)
+Seat 3: AntisocialBeer folded before Flop (didn't bet)
+Seat 4: resurse collected (145)
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: vJakey folded before Flop (didn't bet)
+Seat 7: CYBER_BOS228 (button) folded before Flop (didn't bet)
+Seat 8: ZaKoshitze (small blind) folded before Flop
+Seat 9: gniewna777 (big blind) folded before Flop
+
+
+
+PokerStars Hand #185510797753: Tournament #2282606654, $13.37+$1.63 USD Hold'em No Limit - Level II (20/40) - 2018/04/21 17:16:04 ET
+Table '2282606654 31' 9-max Seat #8 is the button
+Seat 2: AAldo (2740 in chips) 
+Seat 3: AntisocialBeer (2981 in chips) 
+Seat 4: resurse (3666 in chips) 
+Seat 5: ollikahn23 (1893 in chips) 
+Seat 6: vJakey (3506 in chips) 
+Seat 7: CYBER_BOS228 (3067 in chips) 
+Seat 8: ZaKoshitze (2954 in chips) 
+Seat 9: gniewna777 (2860 in chips) 
+AAldo: posts the ante 5
+AntisocialBeer: posts the ante 5
+resurse: posts the ante 5
+ollikahn23: posts the ante 5
+vJakey: posts the ante 5
+CYBER_BOS228: posts the ante 5
+ZaKoshitze: posts the ante 5
+gniewna777: posts the ante 5
+gniewna777: posts small blind 20
+AAldo: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ad 9h]
+AntisocialBeer: raises 80 to 120
+resurse: folds 
+ollikahn23: folds 
+vJakey: calls 120
+CYBER_BOS228: folds 
+ZaKoshitze: folds 
+gniewna777: calls 100
+AAldo: folds 
+*** FLOP *** [3c Qs 9d]
+gniewna777: checks 
+AntisocialBeer: checks 
+vJakey: checks 
+*** TURN *** [3c Qs 9d] [Tc]
+gniewna777: checks 
+AntisocialBeer: checks 
+vJakey: checks 
+*** RIVER *** [3c Qs 9d Tc] [Qh]
+gniewna777: bets 40
+AntisocialBeer: folds 
+vJakey: calls 40
+*** SHOW DOWN ***
+gniewna777: shows [4d 4h] (two pair, Queens and Fours)
+vJakey: mucks hand 
+gniewna777 collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | Rake 0 
+Board [3c Qs 9d Tc Qh]
+Seat 2: AAldo (big blind) folded before Flop
+Seat 3: AntisocialBeer folded on the River
+Seat 4: resurse folded before Flop (didn't bet)
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: vJakey mucked [Ah 3h]
+Seat 7: CYBER_BOS228 folded before Flop (didn't bet)
+Seat 8: ZaKoshitze (button) folded before Flop (didn't bet)
+Seat 9: gniewna777 (small blind) showed [4d 4h] and won (520) with two pair, Queens and Fours
+
+
+
+PokerStars Hand #185510855404: Tournament #2282606654, $13.37+$1.63 USD Hold'em No Limit - Level II (20/40) - 2018/04/21 17:17:23 ET
+Table '2282606654 31' 9-max Seat #9 is the button
+Seat 1: Identity AK (3000 in chips) out of hand (moved from another table into small blind)
+Seat 2: AAldo (2695 in chips) 
+Seat 4: resurse (3661 in chips) 
+Seat 5: ollikahn23 (1888 in chips) 
+Seat 6: vJakey (3341 in chips) 
+Seat 7: CYBER_BOS228 (3062 in chips) 
+Seat 8: ZaKoshitze (2949 in chips) 
+Seat 9: gniewna777 (3215 in chips) 
+Identity AK will be allowed to play after the button
+AAldo: posts the ante 5
+resurse: posts the ante 5
+ollikahn23: posts the ante 5
+vJakey: posts the ante 5
+CYBER_BOS228: posts the ante 5
+ZaKoshitze: posts the ante 5
+gniewna777: posts the ante 5
+AAldo: posts small blind 20
+resurse: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9h 8c]
+ollikahn23: folds 
+vJakey: folds 
+CYBER_BOS228: folds 
+ZaKoshitze: folds 
+gniewna777: raises 96 to 136
+AAldo: folds 
+resurse: calls 96
+*** FLOP *** [As 5h Ad]
+resurse: checks 
+gniewna777: bets 92
+resurse: folds 
+Uncalled bet (92) returned to gniewna777
+gniewna777 collected 327 from pot
+*** SUMMARY ***
+Total pot 327 | Rake 0 
+Board [As 5h Ad]
+Seat 2: AAldo (small blind) folded before Flop
+Seat 4: resurse (big blind) folded on the Flop
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: vJakey folded before Flop (didn't bet)
+Seat 7: CYBER_BOS228 folded before Flop (didn't bet)
+Seat 8: ZaKoshitze folded before Flop (didn't bet)
+Seat 9: gniewna777 (button) collected (327)
+
+
+
+PokerStars Hand #185510892408: Tournament #2282606654, $13.37+$1.63 USD Hold'em No Limit - Level II (20/40) - 2018/04/21 17:18:13 ET
+Table '2282606654 31' 9-max Seat #2 is the button
+Seat 1: Identity AK (3000 in chips) 
+Seat 2: AAldo (2670 in chips) 
+Seat 4: resurse (3520 in chips) 
+Seat 5: ollikahn23 (1883 in chips) 
+Seat 6: vJakey (3336 in chips) 
+Seat 7: CYBER_BOS228 (3057 in chips) 
+Seat 8: ZaKoshitze (2944 in chips) 
+Seat 9: gniewna777 (3401 in chips) 
+Identity AK: posts the ante 5
+AAldo: posts the ante 5
+resurse: posts the ante 5
+ollikahn23: posts the ante 5
+vJakey: posts the ante 5
+CYBER_BOS228: posts the ante 5
+ZaKoshitze: posts the ante 5
+gniewna777: posts the ante 5
+resurse: posts small blind 20
+ollikahn23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ac 2h]
+vJakey: folds 
+CYBER_BOS228: folds 
+ZaKoshitze: folds 
+gniewna777: folds 
+Identity AK: folds 
+AAldo: raises 60 to 100
+resurse: folds 
+ollikahn23: calls 60
+*** FLOP *** [As 9s Ks]
+ollikahn23: checks 
+AAldo: bets 120
+ollikahn23: calls 120
+*** TURN *** [As 9s Ks] [4c]
+ollikahn23: checks 
+AAldo: bets 120
+ollikahn23: raises 160 to 280
+AAldo: calls 160
+*** RIVER *** [As 9s Ks 4c] [9c]
+ollikahn23: bets 440
+AAldo: calls 440
+*** SHOW DOWN ***
+ollikahn23: shows [Ac 2h] (two pair, Aces and Nines)
+AAldo: mucks hand 
+ollikahn23 collected 1940 from pot
+*** SUMMARY ***
+Total pot 1940 | Rake 0 
+Board [As 9s Ks 4c 9c]
+Seat 1: Identity AK folded before Flop (didn't bet)
+Seat 2: AAldo (button) mucked [Jc Kh]
+Seat 4: resurse (small blind) folded before Flop
+Seat 5: ollikahn23 (big blind) showed [Ac 2h] and won (1940) with two pair, Aces and Nines
+Seat 6: vJakey folded before Flop (didn't bet)
+Seat 7: CYBER_BOS228 folded before Flop (didn't bet)
+Seat 8: ZaKoshitze folded before Flop (didn't bet)
+Seat 9: gniewna777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185510973289: Tournament #2282606654, $13.37+$1.63 USD Hold'em No Limit - Level II (20/40) - 2018/04/21 17:20:04 ET
+Table '2282606654 31' 9-max Seat #4 is the button
+Seat 1: Identity AK (2995 in chips) 
+Seat 2: AAldo (1725 in chips) 
+Seat 3: cocoojones (3000 in chips) 
+Seat 4: resurse (3495 in chips) 
+Seat 5: ollikahn23 (2878 in chips) 
+Seat 6: vJakey (3331 in chips) 
+Seat 7: CYBER_BOS228 (3052 in chips) 
+Seat 8: ZaKoshitze (2939 in chips) 
+Seat 9: gniewna777 (3396 in chips) 
+Identity AK: posts the ante 5
+AAldo: posts the ante 5
+cocoojones: posts the ante 5
+resurse: posts the ante 5
+ollikahn23: posts the ante 5
+vJakey: posts the ante 5
+CYBER_BOS228: posts the ante 5
+ZaKoshitze: posts the ante 5
+gniewna777: posts the ante 5
+ollikahn23: posts small blind 20
+vJakey: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kd 7s]
+AAldo said, "of,course.."
+CYBER_BOS228: folds 
+ZaKoshitze: folds 
+gniewna777: folds 
+Identity AK: raises 60 to 100
+AAldo: folds 
+cocoojones: folds 
+resurse: folds 
+ollikahn23: folds 
+vJakey: folds 
+Uncalled bet (60) returned to Identity AK
+Identity AK collected 145 from pot
+*** SUMMARY ***
+Total pot 145 | Rake 0 
+Seat 1: Identity AK collected (145)
+Seat 2: AAldo folded before Flop (didn't bet)
+Seat 3: cocoojones folded before Flop (didn't bet)
+Seat 4: resurse (button) folded before Flop (didn't bet)
+Seat 5: ollikahn23 (small blind) folded before Flop
+Seat 6: vJakey (big blind) folded before Flop
+Seat 7: CYBER_BOS228 folded before Flop (didn't bet)
+Seat 8: ZaKoshitze folded before Flop (didn't bet)
+Seat 9: gniewna777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185511005567: Tournament #2282606654, $13.37+$1.63 USD Hold'em No Limit - Level II (20/40) - 2018/04/21 17:20:48 ET
+Table '2282606654 31' 9-max Seat #5 is the button
+Seat 1: Identity AK (3095 in chips) 
+Seat 2: AAldo (1720 in chips) 
+Seat 3: cocoojones (2995 in chips) 
+Seat 4: resurse (3490 in chips) 
+Seat 5: ollikahn23 (2853 in chips) 
+Seat 6: vJakey (3286 in chips) 
+Seat 7: CYBER_BOS228 (3047 in chips) 
+Seat 8: ZaKoshitze (2934 in chips) 
+Seat 9: gniewna777 (3391 in chips) 
+Identity AK: posts the ante 5
+AAldo: posts the ante 5
+cocoojones: posts the ante 5
+resurse: posts the ante 5
+ollikahn23: posts the ante 5
+vJakey: posts the ante 5
+CYBER_BOS228: posts the ante 5
+ZaKoshitze: posts the ante 5
+gniewna777: posts the ante 5
+vJakey: posts small blind 20
+CYBER_BOS228: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6c Ah]
+ZaKoshitze: folds 
+gniewna777: folds 
+Identity AK: raises 60 to 100
+AAldo: folds 
+cocoojones: raises 220 to 320
+resurse: folds 
+ollikahn23: folds 
+vJakey: folds 
+CYBER_BOS228: folds 
+Identity AK: folds 
+Uncalled bet (220) returned to cocoojones
+cocoojones collected 305 from pot
+cocoojones: doesn't show hand 
+*** SUMMARY ***
+Total pot 305 | Rake 0 
+Seat 1: Identity AK folded before Flop
+Seat 2: AAldo folded before Flop (didn't bet)
+Seat 3: cocoojones collected (305)
+Seat 4: resurse folded before Flop (didn't bet)
+Seat 5: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 6: vJakey (small blind) folded before Flop
+Seat 7: CYBER_BOS228 (big blind) folded before Flop
+Seat 8: ZaKoshitze folded before Flop (didn't bet)
+Seat 9: gniewna777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185511029185: Tournament #2282606654, $13.37+$1.63 USD Hold'em No Limit - Level II (20/40) - 2018/04/21 17:21:20 ET
+Table '2282606654 31' 9-max Seat #6 is the button
+Seat 1: Identity AK (2990 in chips) 
+Seat 2: AAldo (1715 in chips) 
+Seat 3: cocoojones (3195 in chips) 
+Seat 4: resurse (3485 in chips) 
+Seat 5: ollikahn23 (2848 in chips) 
+Seat 6: vJakey (3261 in chips) 
+Seat 7: CYBER_BOS228 (3002 in chips) 
+Seat 8: ZaKoshitze (2929 in chips) 
+Seat 9: gniewna777 (3386 in chips) 
+Identity AK: posts the ante 5
+AAldo: posts the ante 5
+cocoojones: posts the ante 5
+resurse: posts the ante 5
+ollikahn23: posts the ante 5
+vJakey: posts the ante 5
+CYBER_BOS228: posts the ante 5
+ZaKoshitze: posts the ante 5
+gniewna777: posts the ante 5
+CYBER_BOS228: posts small blind 20
+ZaKoshitze: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qd 4c]
+gniewna777: folds 
+Identity AK: folds 
+AAldo: folds 
+cocoojones: folds 
+resurse: folds 
+ollikahn23: folds 
+vJakey: folds 
+CYBER_BOS228: folds 
+Uncalled bet (20) returned to ZaKoshitze
+ZaKoshitze collected 85 from pot
+ZaKoshitze: doesn't show hand 
+*** SUMMARY ***
+Total pot 85 | Rake 0 
+Seat 1: Identity AK folded before Flop (didn't bet)
+Seat 2: AAldo folded before Flop (didn't bet)
+Seat 3: cocoojones folded before Flop (didn't bet)
+Seat 4: resurse folded before Flop (didn't bet)
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: vJakey (button) folded before Flop (didn't bet)
+Seat 7: CYBER_BOS228 (small blind) folded before Flop
+Seat 8: ZaKoshitze (big blind) collected (85)
+Seat 9: gniewna777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185511053683: Tournament #2282606654, $13.37+$1.63 USD Hold'em No Limit - Level II (20/40) - 2018/04/21 17:21:54 ET
+Table '2282606654 31' 9-max Seat #7 is the button
+Seat 1: Identity AK (2985 in chips) 
+Seat 2: AAldo (1710 in chips) 
+Seat 3: cocoojones (3190 in chips) 
+Seat 4: resurse (3480 in chips) 
+Seat 5: ollikahn23 (2843 in chips) 
+Seat 6: vJakey (3256 in chips) 
+Seat 7: CYBER_BOS228 (2977 in chips) 
+Seat 8: ZaKoshitze (2989 in chips) 
+Seat 9: gniewna777 (3381 in chips) 
+Identity AK: posts the ante 5
+AAldo: posts the ante 5
+cocoojones: posts the ante 5
+resurse: posts the ante 5
+ollikahn23: posts the ante 5
+vJakey: posts the ante 5
+CYBER_BOS228: posts the ante 5
+ZaKoshitze: posts the ante 5
+gniewna777: posts the ante 5
+ZaKoshitze: posts small blind 20
+gniewna777: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kd 7h]
+Identity AK: folds 
+AAldo: folds 
+cocoojones: folds 
+resurse: raises 80 to 120
+ollikahn23: folds 
+vJakey: folds 
+CYBER_BOS228: folds 
+ZaKoshitze: calls 100
+gniewna777: calls 80
+*** FLOP *** [Qh 6d Js]
+ZaKoshitze: checks 
+gniewna777: checks 
+resurse: checks 
+*** TURN *** [Qh 6d Js] [Ah]
+ZaKoshitze: checks 
+gniewna777: checks 
+resurse: bets 165
+ZaKoshitze: folds 
+gniewna777: calls 165
+*** RIVER *** [Qh 6d Js Ah] [Tc]
+gniewna777: checks 
+resurse: bets 367
+gniewna777: folds 
+Uncalled bet (367) returned to resurse
+resurse collected 735 from pot
+resurse: doesn't show hand 
+*** SUMMARY ***
+Total pot 735 | Rake 0 
+Board [Qh 6d Js Ah Tc]
+Seat 1: Identity AK folded before Flop (didn't bet)
+Seat 2: AAldo folded before Flop (didn't bet)
+Seat 3: cocoojones folded before Flop (didn't bet)
+Seat 4: resurse collected (735)
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: vJakey folded before Flop (didn't bet)
+Seat 7: CYBER_BOS228 (button) folded before Flop (didn't bet)
+Seat 8: ZaKoshitze (small blind) folded on the Turn
+Seat 9: gniewna777 (big blind) folded on the River
+
+
+
+PokerStars Hand #185511148557: Tournament #2282606654, $13.37+$1.63 USD Hold'em No Limit - Level III (25/50) - 2018/04/21 17:24:00 ET
+Table '2282606654 31' 9-max Seat #8 is the button
+Seat 1: Identity AK (2980 in chips) 
+Seat 2: AAldo (1705 in chips) 
+Seat 3: cocoojones (3185 in chips) 
+Seat 4: resurse (3925 in chips) 
+Seat 5: ollikahn23 (2838 in chips) 
+Seat 6: vJakey (3251 in chips) 
+Seat 7: CYBER_BOS228 (2972 in chips) 
+Seat 8: ZaKoshitze (2864 in chips) 
+Seat 9: gniewna777 (3091 in chips) 
+Identity AK: posts the ante 6
+AAldo: posts the ante 6
+cocoojones: posts the ante 6
+resurse: posts the ante 6
+ollikahn23: posts the ante 6
+vJakey: posts the ante 6
+CYBER_BOS228: posts the ante 6
+ZaKoshitze: posts the ante 6
+gniewna777: posts the ante 6
+gniewna777: posts small blind 25
+Identity AK: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2s Jd]
+AAldo: calls 50
+cocoojones: folds 
+resurse: folds 
+ollikahn23: folds 
+vJakey: folds 
+CYBER_BOS228: folds 
+ZaKoshitze: folds 
+gniewna777: calls 25
+Identity AK: checks 
+*** FLOP *** [Qc Th Tc]
+gniewna777: checks 
+Identity AK: checks 
+AAldo: checks 
+*** TURN *** [Qc Th Tc] [Ts]
+gniewna777: checks 
+Identity AK: checks 
+AAldo: bets 100
+gniewna777: folds 
+Identity AK: folds 
+Uncalled bet (100) returned to AAldo
+AAldo collected 204 from pot
+*** SUMMARY ***
+Total pot 204 | Rake 0 
+Board [Qc Th Tc Ts]
+Seat 1: Identity AK (big blind) folded on the Turn
+Seat 2: AAldo collected (204)
+Seat 3: cocoojones folded before Flop (didn't bet)
+Seat 4: resurse folded before Flop (didn't bet)
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: vJakey folded before Flop (didn't bet)
+Seat 7: CYBER_BOS228 folded before Flop (didn't bet)
+Seat 8: ZaKoshitze (button) folded before Flop (didn't bet)
+Seat 9: gniewna777 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #185511186642: Tournament #2282606654, $13.37+$1.63 USD Hold'em No Limit - Level III (25/50) - 2018/04/21 17:24:53 ET
+Table '2282606654 31' 9-max Seat #9 is the button
+Seat 1: Identity AK (2924 in chips) 
+Seat 2: AAldo (1853 in chips) 
+Seat 3: cocoojones (3179 in chips) 
+Seat 4: resurse (3919 in chips) 
+Seat 5: ollikahn23 (2832 in chips) 
+Seat 6: vJakey (3245 in chips) 
+Seat 7: CYBER_BOS228 (2966 in chips) 
+Seat 8: ZaKoshitze (2858 in chips) 
+Seat 9: gniewna777 (3035 in chips) 
+Identity AK: posts the ante 6
+AAldo: posts the ante 6
+cocoojones: posts the ante 6
+resurse: posts the ante 6
+ollikahn23: posts the ante 6
+vJakey: posts the ante 6
+CYBER_BOS228: posts the ante 6
+ZaKoshitze: posts the ante 6
+gniewna777: posts the ante 6
+Identity AK: posts small blind 25
+AAldo: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ah 4h]
+cocoojones: raises 150 to 200
+resurse: folds 
+ollikahn23: folds 
+vJakey: folds 
+CYBER_BOS228: folds 
+ZaKoshitze: folds 
+gniewna777: folds 
+Identity AK: folds 
+AAldo: folds 
+Uncalled bet (150) returned to cocoojones
+cocoojones collected 179 from pot
+cocoojones: doesn't show hand 
+*** SUMMARY ***
+Total pot 179 | Rake 0 
+Seat 1: Identity AK (small blind) folded before Flop
+Seat 2: AAldo (big blind) folded before Flop
+Seat 3: cocoojones collected (179)
+Seat 4: resurse folded before Flop (didn't bet)
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: vJakey folded before Flop (didn't bet)
+Seat 7: CYBER_BOS228 folded before Flop (didn't bet)
+Seat 8: ZaKoshitze folded before Flop (didn't bet)
+Seat 9: gniewna777 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185511202716: Tournament #2282606654, $13.37+$1.63 USD Hold'em No Limit - Level III (25/50) - 2018/04/21 17:25:15 ET
+Table '2282606654 31' 9-max Seat #1 is the button
+Seat 1: Identity AK (2893 in chips) 
+Seat 2: AAldo (1797 in chips) 
+Seat 3: cocoojones (3302 in chips) 
+Seat 4: resurse (3913 in chips) 
+Seat 5: ollikahn23 (2826 in chips) 
+Seat 6: vJakey (3239 in chips) 
+Seat 7: CYBER_BOS228 (2960 in chips) 
+Seat 8: ZaKoshitze (2852 in chips) 
+Seat 9: gniewna777 (3029 in chips) 
+Identity AK: posts the ante 6
+AAldo: posts the ante 6
+cocoojones: posts the ante 6
+resurse: posts the ante 6
+ollikahn23: posts the ante 6
+vJakey: posts the ante 6
+CYBER_BOS228: posts the ante 6
+ZaKoshitze: posts the ante 6
+gniewna777: posts the ante 6
+AAldo: posts small blind 25
+cocoojones: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jh Kh]
+resurse: folds 
+ollikahn23: raises 60 to 110
+vJakey: folds 
+CYBER_BOS228: folds 
+ZaKoshitze: folds 
+gniewna777: calls 110
+Identity AK: calls 110
+AAldo: folds 
+cocoojones: calls 60
+*** FLOP *** [2c 8d 6c]
+cocoojones: checks 
+ollikahn23: checks 
+gniewna777: bets 200
+Identity AK: folds 
+cocoojones: calls 200
+ollikahn23: folds 
+*** TURN *** [2c 8d 6c] [5s]
+cocoojones: checks 
+gniewna777: bets 340
+cocoojones: calls 340
+*** RIVER *** [2c 8d 6c 5s] [3d]
+cocoojones: bets 1071
+gniewna777: calls 1071
+*** SHOW DOWN ***
+cocoojones: shows [8c 4c] (a straight, Deuce to Six)
+gniewna777: mucks hand 
+cocoojones collected 3741 from pot
+*** SUMMARY ***
+Total pot 3741 | Rake 0 
+Board [2c 8d 6c 5s 3d]
+Seat 1: Identity AK (button) folded on the Flop
+Seat 2: AAldo (small blind) folded before Flop
+Seat 3: cocoojones (big blind) showed [8c 4c] and won (3741) with a straight, Deuce to Six
+Seat 4: resurse folded before Flop (didn't bet)
+Seat 5: ollikahn23 folded on the Flop
+Seat 6: vJakey folded before Flop (didn't bet)
+Seat 7: CYBER_BOS228 folded before Flop (didn't bet)
+Seat 8: ZaKoshitze folded before Flop (didn't bet)
+Seat 9: gniewna777 mucked [6h 6s]
+
+
+
+PokerStars Hand #185511279338: Tournament #2282606654, $13.37+$1.63 USD Hold'em No Limit - Level III (25/50) - 2018/04/21 17:27:01 ET
+Table '2282606654 31' 9-max Seat #2 is the button
+Seat 1: Identity AK (2777 in chips) 
+Seat 2: AAldo (1766 in chips) 
+Seat 3: cocoojones (5316 in chips) 
+Seat 4: resurse (3907 in chips) 
+Seat 5: ollikahn23 (2710 in chips) 
+Seat 6: vJakey (3233 in chips) 
+Seat 7: CYBER_BOS228 (2954 in chips) 
+Seat 8: ZaKoshitze (2846 in chips) 
+Seat 9: gniewna777 (1302 in chips) 
+Identity AK: posts the ante 6
+AAldo: posts the ante 6
+cocoojones: posts the ante 6
+resurse: posts the ante 6
+ollikahn23: posts the ante 6
+vJakey: posts the ante 6
+CYBER_BOS228: posts the ante 6
+ZaKoshitze: posts the ante 6
+gniewna777: posts the ante 6
+cocoojones: posts small blind 25
+resurse: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ks 8h]
+ollikahn23: folds 
+vJakey: folds 
+CYBER_BOS228: folds 
+ZaKoshitze: folds 
+gniewna777: folds 
+Identity AK: folds 
+AAldo: folds 
+cocoojones: calls 25
+resurse: checks 
+*** FLOP *** [4s Jc 4c]
+cocoojones: checks 
+resurse: checks 
+*** TURN *** [4s Jc 4c] [3d]
+cocoojones: checks 
+resurse: checks 
+*** RIVER *** [4s Jc 4c 3d] [5s]
+cocoojones: checks 
+resurse: checks 
+*** SHOW DOWN ***
+cocoojones: shows [9s 7h] (a pair of Fours)
+resurse: shows [7d 9h] (a pair of Fours)
+cocoojones collected 77 from pot
+resurse collected 77 from pot
+*** SUMMARY ***
+Total pot 154 | Rake 0 
+Board [4s Jc 4c 3d 5s]
+Seat 1: Identity AK folded before Flop (didn't bet)
+Seat 2: AAldo (button) folded before Flop (didn't bet)
+Seat 3: cocoojones (small blind) showed [9s 7h] and won (77) with a pair of Fours
+Seat 4: resurse (big blind) showed [7d 9h] and won (77) with a pair of Fours
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: vJakey folded before Flop (didn't bet)
+Seat 7: CYBER_BOS228 folded before Flop (didn't bet)
+Seat 8: ZaKoshitze folded before Flop (didn't bet)
+Seat 9: gniewna777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185511307871: Tournament #2282606654, $13.37+$1.63 USD Hold'em No Limit - Level III (25/50) - 2018/04/21 17:27:41 ET
+Table '2282606654 31' 9-max Seat #3 is the button
+Seat 1: Identity AK (2771 in chips) 
+Seat 2: AAldo (1760 in chips) 
+Seat 3: cocoojones (5337 in chips) 
+Seat 4: resurse (3928 in chips) 
+Seat 5: ollikahn23 (2704 in chips) 
+Seat 6: vJakey (3227 in chips) 
+Seat 7: CYBER_BOS228 (2948 in chips) 
+Seat 8: ZaKoshitze (2840 in chips) 
+Seat 9: gniewna777 (1296 in chips) 
+Identity AK: posts the ante 6
+AAldo: posts the ante 6
+cocoojones: posts the ante 6
+resurse: posts the ante 6
+ollikahn23: posts the ante 6
+vJakey: posts the ante 6
+CYBER_BOS228: posts the ante 6
+ZaKoshitze: posts the ante 6
+gniewna777: posts the ante 6
+resurse: posts small blind 25
+ollikahn23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6c 6h]
+vJakey: folds 
+CYBER_BOS228: raises 100 to 150
+ZaKoshitze: folds 
+gniewna777: folds 
+Identity AK: folds 
+AAldo: folds 
+cocoojones: folds 
+resurse: folds 
+ollikahn23: calls 100
+*** FLOP *** [Qc 9d 9s]
+ollikahn23: checks 
+CYBER_BOS228: bets 200
+ollikahn23: folds 
+Uncalled bet (200) returned to CYBER_BOS228
+CYBER_BOS228 collected 379 from pot
+*** SUMMARY ***
+Total pot 379 | Rake 0 
+Board [Qc 9d 9s]
+Seat 1: Identity AK folded before Flop (didn't bet)
+Seat 2: AAldo folded before Flop (didn't bet)
+Seat 3: cocoojones (button) folded before Flop (didn't bet)
+Seat 4: resurse (small blind) folded before Flop
+Seat 5: ollikahn23 (big blind) folded on the Flop
+Seat 6: vJakey folded before Flop (didn't bet)
+Seat 7: CYBER_BOS228 collected (379)
+Seat 8: ZaKoshitze folded before Flop (didn't bet)
+Seat 9: gniewna777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185511358289: Tournament #2282606654, $13.37+$1.63 USD Hold'em No Limit - Level III (25/50) - 2018/04/21 17:28:51 ET
+Table '2282606654 31' 9-max Seat #4 is the button
+Seat 1: Identity AK (2765 in chips) 
+Seat 2: AAldo (1754 in chips) 
+Seat 3: cocoojones (5331 in chips) 
+Seat 4: resurse (3897 in chips) 
+Seat 5: ollikahn23 (2548 in chips) 
+Seat 6: vJakey (3221 in chips) 
+Seat 7: CYBER_BOS228 (3171 in chips) 
+Seat 8: ZaKoshitze (2834 in chips) 
+Seat 9: gniewna777 (1290 in chips) 
+Identity AK: posts the ante 6
+AAldo: posts the ante 6
+cocoojones: posts the ante 6
+resurse: posts the ante 6
+ollikahn23: posts the ante 6
+vJakey: posts the ante 6
+CYBER_BOS228: posts the ante 6
+ZaKoshitze: posts the ante 6
+gniewna777: posts the ante 6
+ollikahn23: posts small blind 25
+vJakey: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7h 3d]
+CYBER_BOS228: folds 
+ZaKoshitze: raises 98 to 148
+gniewna777: folds 
+Identity AK: folds 
+AAldo: folds 
+cocoojones: calls 148
+resurse: folds 
+ollikahn23: folds 
+vJakey: calls 98
+*** FLOP *** [4h 3h 8s]
+vJakey: bets 298
+ZaKoshitze: folds 
+cocoojones: folds 
+Uncalled bet (298) returned to vJakey
+vJakey collected 523 from pot
+vJakey: doesn't show hand 
+*** SUMMARY ***
+Total pot 523 | Rake 0 
+Board [4h 3h 8s]
+Seat 1: Identity AK folded before Flop (didn't bet)
+Seat 2: AAldo folded before Flop (didn't bet)
+Seat 3: cocoojones folded on the Flop
+Seat 4: resurse (button) folded before Flop (didn't bet)
+Seat 5: ollikahn23 (small blind) folded before Flop
+Seat 6: vJakey (big blind) collected (523)
+Seat 7: CYBER_BOS228 folded before Flop (didn't bet)
+Seat 8: ZaKoshitze folded on the Flop
+Seat 9: gniewna777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185511410130: Tournament #2282606654, $13.37+$1.63 USD Hold'em No Limit - Level III (25/50) - 2018/04/21 17:30:04 ET
+Table '2282606654 31' 9-max Seat #5 is the button
+Seat 1: Identity AK (2759 in chips) 
+Seat 2: AAldo (1748 in chips) 
+Seat 3: cocoojones (5177 in chips) 
+Seat 4: resurse (3891 in chips) 
+Seat 5: ollikahn23 (2517 in chips) 
+Seat 6: vJakey (3590 in chips) 
+Seat 7: CYBER_BOS228 (3165 in chips) 
+Seat 8: ZaKoshitze (2680 in chips) 
+Seat 9: gniewna777 (1284 in chips) 
+Identity AK: posts the ante 6
+AAldo: posts the ante 6
+cocoojones: posts the ante 6
+resurse: posts the ante 6
+ollikahn23: posts the ante 6
+vJakey: posts the ante 6
+CYBER_BOS228: posts the ante 6
+ZaKoshitze: posts the ante 6
+gniewna777: posts the ante 6
+vJakey: posts small blind 25
+CYBER_BOS228: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kd 6d]
+ZaKoshitze: folds 
+gniewna777: raises 67 to 117
+Identity AK: folds 
+AAldo: folds 
+cocoojones: folds 
+resurse: calls 117
+ollikahn23: folds 
+vJakey: folds 
+CYBER_BOS228: calls 67
+*** FLOP *** [2h 3h 5c]
+CYBER_BOS228: checks 
+gniewna777: bets 120
+resurse: calls 120
+CYBER_BOS228: calls 120
+*** TURN *** [2h 3h 5c] [2c]
+CYBER_BOS228: checks 
+gniewna777: bets 292
+resurse: folds 
+CYBER_BOS228: folds 
+Uncalled bet (292) returned to gniewna777
+gniewna777 collected 790 from pot
+*** SUMMARY ***
+Total pot 790 | Rake 0 
+Board [2h 3h 5c 2c]
+Seat 1: Identity AK folded before Flop (didn't bet)
+Seat 2: AAldo folded before Flop (didn't bet)
+Seat 3: cocoojones folded before Flop (didn't bet)
+Seat 4: resurse folded on the Turn
+Seat 5: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 6: vJakey (small blind) folded before Flop
+Seat 7: CYBER_BOS228 (big blind) folded on the Turn
+Seat 8: ZaKoshitze folded before Flop (didn't bet)
+Seat 9: gniewna777 collected (790)
+
+
+
+PokerStars Hand #185511493717: Tournament #2282606654, $13.37+$1.63 USD Hold'em No Limit - Level III (25/50) - 2018/04/21 17:32:01 ET
+Table '2282606654 31' 9-max Seat #6 is the button
+Seat 1: Identity AK (2753 in chips) 
+Seat 2: AAldo (1742 in chips) 
+Seat 3: cocoojones (5171 in chips) 
+Seat 4: resurse (3648 in chips) 
+Seat 5: ollikahn23 (2511 in chips) 
+Seat 6: vJakey (3559 in chips) 
+Seat 7: CYBER_BOS228 (2922 in chips) 
+Seat 8: ZaKoshitze (2674 in chips) 
+Seat 9: gniewna777 (1831 in chips) 
+Identity AK: posts the ante 6
+AAldo: posts the ante 6
+cocoojones: posts the ante 6
+resurse: posts the ante 6
+ollikahn23: posts the ante 6
+vJakey: posts the ante 6
+CYBER_BOS228: posts the ante 6
+ZaKoshitze: posts the ante 6
+gniewna777: posts the ante 6
+CYBER_BOS228: posts small blind 25
+ZaKoshitze: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jd 6s]
+gniewna777: folds 
+Identity AK: raises 60 to 110
+AAldo: calls 110
+cocoojones: folds 
+resurse: raises 310 to 420
+ollikahn23: folds 
+vJakey has timed out
+vJakey: folds 
+vJakey is sitting out
+CYBER_BOS228: folds 
+ZaKoshitze: folds 
+Identity AK: folds 
+AAldo: calls 310
+*** FLOP *** [Th 9d Td]
+AAldo: checks 
+resurse: checks 
+*** TURN *** [Th 9d Td] [Ts]
+AAldo: bets 1316 and is all-in
+resurse: folds 
+Uncalled bet (1316) returned to AAldo
+AAldo collected 1079 from pot
+*** SUMMARY ***
+Total pot 1079 | Rake 0 
+Board [Th 9d Td Ts]
+Seat 1: Identity AK folded before Flop
+Seat 2: AAldo collected (1079)
+Seat 3: cocoojones folded before Flop (didn't bet)
+Seat 4: resurse folded on the Turn
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: vJakey (button) folded before Flop (didn't bet)
+Seat 7: CYBER_BOS228 (small blind) folded before Flop
+Seat 8: ZaKoshitze (big blind) folded before Flop
+Seat 9: gniewna777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185511592625: Tournament #2282606654, $13.37+$1.63 USD Hold'em No Limit - Level IV (30/60) - 2018/04/21 17:34:20 ET
+Table '2282606654 31' 9-max Seat #7 is the button
+Seat 1: Identity AK (2637 in chips) 
+Seat 2: AAldo (2395 in chips) 
+Seat 3: cocoojones (5165 in chips) 
+Seat 4: resurse (3222 in chips) 
+Seat 5: ollikahn23 (2505 in chips) 
+Seat 6: vJakey (3553 in chips) is sitting out
+Seat 7: CYBER_BOS228 (2891 in chips) 
+Seat 8: ZaKoshitze (2618 in chips) 
+Seat 9: gniewna777 (1825 in chips) 
+Identity AK: posts the ante 7
+AAldo: posts the ante 7
+cocoojones: posts the ante 7
+resurse: posts the ante 7
+ollikahn23: posts the ante 7
+vJakey: posts the ante 7
+CYBER_BOS228: posts the ante 7
+ZaKoshitze: posts the ante 7
+gniewna777: posts the ante 7
+ZaKoshitze: posts small blind 30
+gniewna777: posts big blind 60
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2c 5s]
+Identity AK: folds 
+AAldo: folds 
+cocoojones: folds 
+resurse: folds 
+ollikahn23: raises 65 to 125
+vJakey: folds 
+CYBER_BOS228: folds 
+ZaKoshitze: calls 95
+gniewna777: calls 65
+*** FLOP *** [Jc 9h Ad]
+ZaKoshitze: checks 
+gniewna777: checks 
+ollikahn23: bets 185
+ZaKoshitze: calls 185
+vJakey has returned
+gniewna777: folds 
+*** TURN *** [Jc 9h Ad] [3d]
+ZaKoshitze: checks 
+ollikahn23: checks 
+*** RIVER *** [Jc 9h Ad 3d] [Ah]
+ZaKoshitze: bets 504
+ollikahn23: folds 
+Uncalled bet (504) returned to ZaKoshitze
+ZaKoshitze collected 808 from pot
+ZaKoshitze: doesn't show hand 
+*** SUMMARY ***
+Total pot 808 | Rake 0 
+Board [Jc 9h Ad 3d Ah]
+Seat 1: Identity AK folded before Flop (didn't bet)
+Seat 2: AAldo folded before Flop (didn't bet)
+Seat 3: cocoojones folded before Flop (didn't bet)
+Seat 4: resurse folded before Flop (didn't bet)
+Seat 5: ollikahn23 folded on the River
+Seat 6: vJakey folded before Flop (didn't bet)
+Seat 7: CYBER_BOS228 (button) folded before Flop (didn't bet)
+Seat 8: ZaKoshitze (small blind) collected (808)
+Seat 9: gniewna777 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #185511684926: Tournament #2282606654, $13.37+$1.63 USD Hold'em No Limit - Level IV (30/60) - 2018/04/21 17:36:20 ET
+Table '2282606654 31' 9-max Seat #8 is the button
+Seat 1: Identity AK (2630 in chips) 
+Seat 2: AAldo (2388 in chips) 
+Seat 3: cocoojones (5158 in chips) 
+Seat 4: resurse (3215 in chips) 
+Seat 5: ollikahn23 (2188 in chips) 
+Seat 6: vJakey (3546 in chips) 
+Seat 7: CYBER_BOS228 (2884 in chips) 
+Seat 8: ZaKoshitze (3109 in chips) 
+Seat 9: gniewna777 (1693 in chips) 
+Identity AK: posts the ante 7
+AAldo: posts the ante 7
+cocoojones: posts the ante 7
+resurse: posts the ante 7
+ollikahn23: posts the ante 7
+vJakey: posts the ante 7
+CYBER_BOS228: posts the ante 7
+ZaKoshitze: posts the ante 7
+gniewna777: posts the ante 7
+gniewna777: posts small blind 30
+Identity AK: posts big blind 60
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ks Qc]
+AAldo: folds 
+cocoojones: folds 
+resurse: folds 
+ollikahn23: raises 65 to 125
+vJakey: folds 
+CYBER_BOS228: folds 
+ZaKoshitze: folds 
+gniewna777: folds 
+Identity AK: folds 
+Uncalled bet (65) returned to ollikahn23
+ollikahn23 collected 213 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 213 | Rake 0 
+Seat 1: Identity AK (big blind) folded before Flop
+Seat 2: AAldo folded before Flop (didn't bet)
+Seat 3: cocoojones folded before Flop (didn't bet)
+Seat 4: resurse folded before Flop (didn't bet)
+Seat 5: ollikahn23 collected (213)
+Seat 6: vJakey folded before Flop (didn't bet)
+Seat 7: CYBER_BOS228 folded before Flop (didn't bet)
+Seat 8: ZaKoshitze (button) folded before Flop (didn't bet)
+Seat 9: gniewna777 (small blind) folded before Flop
+
+
+
+PokerStars Hand #185511720249: Tournament #2282606654, $13.37+$1.63 USD Hold'em No Limit - Level IV (30/60) - 2018/04/21 17:37:09 ET
+Table '2282606654 31' 9-max Seat #9 is the button
+Seat 1: Identity AK (2563 in chips) 
+Seat 2: AAldo (2381 in chips) 
+Seat 3: cocoojones (5151 in chips) 
+Seat 4: resurse (3208 in chips) 
+Seat 5: ollikahn23 (2334 in chips) 
+Seat 6: vJakey (3539 in chips) 
+Seat 7: CYBER_BOS228 (2877 in chips) 
+Seat 8: ZaKoshitze (3102 in chips) 
+Seat 9: gniewna777 (1656 in chips) 
+Identity AK: posts the ante 7
+AAldo: posts the ante 7
+cocoojones: posts the ante 7
+resurse: posts the ante 7
+ollikahn23: posts the ante 7
+vJakey: posts the ante 7
+CYBER_BOS228: posts the ante 7
+ZaKoshitze: posts the ante 7
+gniewna777: posts the ante 7
+Identity AK: posts small blind 30
+AAldo: posts big blind 60
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4s Kh]
+cocoojones: folds 
+resurse: calls 60
+ollikahn23: folds 
+vJakey: raises 90 to 150
+CYBER_BOS228: folds 
+ZaKoshitze: folds 
+gniewna777: folds 
+Identity AK: calls 120
+AAldo: calls 90
+resurse: calls 90
+*** FLOP *** [2c 5s Qd]
+Identity AK: checks 
+AAldo: checks 
+resurse: checks 
+vJakey: checks 
+*** TURN *** [2c 5s Qd] [3s]
+Identity AK: checks 
+AAldo: bets 120
+resurse: calls 120
+vJakey: calls 120
+Identity AK: calls 120
+*** RIVER *** [2c 5s Qd 3s] [Ah]
+Identity AK: checks 
+AAldo: checks 
+resurse: checks 
+vJakey: checks 
+*** SHOW DOWN ***
+Identity AK: shows [5c 7c] (a pair of Fives)
+AAldo: shows [8d Qs] (a pair of Queens)
+resurse: shows [Qh Tc] (a pair of Queens - Ace+Ten kicker)
+vJakey: mucks hand 
+resurse collected 1143 from pot
+*** SUMMARY ***
+Total pot 1143 | Rake 0 
+Board [2c 5s Qd 3s Ah]
+Seat 1: Identity AK (small blind) showed [5c 7c] and lost with a pair of Fives
+Seat 2: AAldo (big blind) showed [8d Qs] and lost with a pair of Queens
+Seat 3: cocoojones folded before Flop (didn't bet)
+Seat 4: resurse showed [Qh Tc] and won (1143) with a pair of Queens
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: vJakey mucked [Jd Jh]
+Seat 7: CYBER_BOS228 folded before Flop (didn't bet)
+Seat 8: ZaKoshitze folded before Flop (didn't bet)
+Seat 9: gniewna777 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185511798275: Tournament #2282606654, $13.37+$1.63 USD Hold'em No Limit - Level IV (30/60) - 2018/04/21 17:39:00 ET
+Table '2282606654 31' 9-max Seat #1 is the button
+Seat 1: Identity AK (2286 in chips) 
+Seat 2: AAldo (2104 in chips) 
+Seat 3: cocoojones (5144 in chips) 
+Seat 4: resurse (4074 in chips) 
+Seat 5: ollikahn23 (2327 in chips) 
+Seat 6: vJakey (3262 in chips) 
+Seat 7: CYBER_BOS228 (2870 in chips) 
+Seat 8: ZaKoshitze (3095 in chips) 
+Seat 9: gniewna777 (1649 in chips) 
+Identity AK: posts the ante 7
+AAldo: posts the ante 7
+cocoojones: posts the ante 7
+resurse: posts the ante 7
+ollikahn23: posts the ante 7
+vJakey: posts the ante 7
+CYBER_BOS228: posts the ante 7
+ZaKoshitze: posts the ante 7
+gniewna777: posts the ante 7
+AAldo: posts small blind 30
+cocoojones: posts big blind 60
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2d 2c]
+resurse: folds 
+ollikahn23: raises 65 to 125
+vJakey: calls 125
+CYBER_BOS228: folds 
+ZaKoshitze: folds 
+gniewna777: folds 
+Identity AK: folds 
+AAldo: folds 
+cocoojones: calls 65
+*** FLOP *** [5d 6d Qh]
+cocoojones: checks 
+ollikahn23: bets 180
+vJakey: calls 180
+cocoojones: folds 
+*** TURN *** [5d 6d Qh] [8s]
+ollikahn23: checks 
+vJakey: checks 
+*** RIVER *** [5d 6d Qh 8s] [Jd]
+ollikahn23: checks 
+vJakey: checks 
+*** SHOW DOWN ***
+ollikahn23: shows [2d 2c] (a pair of Deuces)
+vJakey: shows [9s 9c] (a pair of Nines)
+vJakey collected 828 from pot
+*** SUMMARY ***
+Total pot 828 | Rake 0 
+Board [5d 6d Qh 8s Jd]
+Seat 1: Identity AK (button) folded before Flop (didn't bet)
+Seat 2: AAldo (small blind) folded before Flop
+Seat 3: cocoojones (big blind) folded on the Flop
+Seat 4: resurse folded before Flop (didn't bet)
+Seat 5: ollikahn23 showed [2d 2c] and lost with a pair of Deuces
+Seat 6: vJakey showed [9s 9c] and won (828) with a pair of Nines
+Seat 7: CYBER_BOS228 folded before Flop (didn't bet)
+Seat 8: ZaKoshitze folded before Flop (didn't bet)
+Seat 9: gniewna777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185511842881: Tournament #2282606654, $13.37+$1.63 USD Hold'em No Limit - Level IV (30/60) - 2018/04/21 17:40:03 ET
+Table '2282606654 31' 9-max Seat #2 is the button
+Seat 1: Identity AK (2279 in chips) 
+Seat 2: AAldo (2067 in chips) 
+Seat 3: cocoojones (5012 in chips) 
+Seat 4: resurse (4067 in chips) 
+Seat 5: ollikahn23 (2015 in chips) 
+Seat 6: vJakey (3778 in chips) 
+Seat 7: CYBER_BOS228 (2863 in chips) 
+Seat 8: ZaKoshitze (3088 in chips) 
+Seat 9: gniewna777 (1642 in chips) 
+Identity AK: posts the ante 7
+AAldo: posts the ante 7
+cocoojones: posts the ante 7
+resurse: posts the ante 7
+ollikahn23: posts the ante 7
+vJakey: posts the ante 7
+CYBER_BOS228: posts the ante 7
+ZaKoshitze: posts the ante 7
+gniewna777: posts the ante 7
+cocoojones: posts small blind 30
+resurse: posts big blind 60
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3h Kc]
+ollikahn23: folds 
+vJakey: folds 
+CYBER_BOS228: folds 
+ZaKoshitze: raises 120 to 180
+gniewna777: folds 
+Identity AK: folds 
+AAldo: calls 180
+cocoojones: calls 150
+resurse: calls 120
+*** FLOP *** [3c 9h 6s]
+cocoojones: checks 
+resurse: bets 360
+ZaKoshitze: folds 
+AAldo: folds 
+cocoojones: folds 
+Uncalled bet (360) returned to resurse
+resurse collected 783 from pot
+resurse: doesn't show hand 
+*** SUMMARY ***
+Total pot 783 | Rake 0 
+Board [3c 9h 6s]
+Seat 1: Identity AK folded before Flop (didn't bet)
+Seat 2: AAldo (button) folded on the Flop
+Seat 3: cocoojones (small blind) folded on the Flop
+Seat 4: resurse (big blind) collected (783)
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: vJakey folded before Flop (didn't bet)
+Seat 7: CYBER_BOS228 folded before Flop (didn't bet)
+Seat 8: ZaKoshitze folded on the Flop
+Seat 9: gniewna777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185511891146: Tournament #2282606654, $13.37+$1.63 USD Hold'em No Limit - Level IV (30/60) - 2018/04/21 17:41:13 ET
+Table '2282606654 31' 9-max Seat #3 is the button
+Seat 1: Identity AK (2272 in chips) 
+Seat 2: AAldo (1880 in chips) 
+Seat 3: cocoojones (4825 in chips) 
+Seat 4: resurse (4663 in chips) 
+Seat 5: ollikahn23 (2008 in chips) 
+Seat 6: vJakey (3771 in chips) 
+Seat 7: CYBER_BOS228 (2856 in chips) 
+Seat 8: ZaKoshitze (2901 in chips) 
+Seat 9: gniewna777 (1635 in chips) 
+Identity AK: posts the ante 7
+AAldo: posts the ante 7
+cocoojones: posts the ante 7
+resurse: posts the ante 7
+ollikahn23: posts the ante 7
+vJakey: posts the ante 7
+CYBER_BOS228: posts the ante 7
+ZaKoshitze: posts the ante 7
+gniewna777: posts the ante 7
+resurse: posts small blind 30
+ollikahn23: posts big blind 60
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7d 7c]
+vJakey: folds 
+CYBER_BOS228: folds 
+ZaKoshitze: folds 
+gniewna777: folds 
+Identity AK: folds 
+AAldo: raises 90 to 150
+cocoojones: folds 
+resurse: calls 120
+ollikahn23: calls 90
+*** FLOP *** [9d 2c 9s]
+resurse: checks 
+ollikahn23: bets 180
+AAldo: raises 240 to 420
+resurse: folds 
+ollikahn23: folds 
+Uncalled bet (240) returned to AAldo
+AAldo collected 873 from pot
+*** SUMMARY ***
+Total pot 873 | Rake 0 
+Board [9d 2c 9s]
+Seat 1: Identity AK folded before Flop (didn't bet)
+Seat 2: AAldo collected (873)
+Seat 3: cocoojones (button) folded before Flop (didn't bet)
+Seat 4: resurse (small blind) folded on the Flop
+Seat 5: ollikahn23 (big blind) folded on the Flop
+Seat 6: vJakey folded before Flop (didn't bet)
+Seat 7: CYBER_BOS228 folded before Flop (didn't bet)
+Seat 8: ZaKoshitze folded before Flop (didn't bet)
+Seat 9: gniewna777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185511959882: Tournament #2282606654, $13.37+$1.63 USD Hold'em No Limit - Level V (40/80) - 2018/04/21 17:42:52 ET
+Table '2282606654 31' 9-max Seat #4 is the button
+Seat 1: Identity AK (2265 in chips) 
+Seat 2: AAldo (2416 in chips) 
+Seat 3: cocoojones (4818 in chips) 
+Seat 4: resurse (4506 in chips) 
+Seat 5: ollikahn23 (1671 in chips) 
+Seat 6: vJakey (3764 in chips) 
+Seat 7: CYBER_BOS228 (2849 in chips) 
+Seat 8: ZaKoshitze (2894 in chips) 
+Seat 9: gniewna777 (1628 in chips) 
+Identity AK: posts the ante 10
+AAldo: posts the ante 10
+cocoojones: posts the ante 10
+resurse: posts the ante 10
+ollikahn23: posts the ante 10
+vJakey: posts the ante 10
+CYBER_BOS228: posts the ante 10
+ZaKoshitze: posts the ante 10
+gniewna777: posts the ante 10
+ollikahn23: posts small blind 40
+vJakey: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Th 3c]
+CYBER_BOS228: folds 
+ZaKoshitze: folds 
+gniewna777: folds 
+Identity AK: raises 96 to 176
+AAldo: calls 176
+cocoojones: folds 
+resurse: folds 
+ollikahn23: folds 
+vJakey: calls 96
+*** FLOP *** [7s Kd 9h]
+vJakey: checks 
+Identity AK: bets 320
+AAldo: folds 
+vJakey has timed out
+vJakey: folds 
+Uncalled bet (320) returned to Identity AK
+vJakey is sitting out
+vJakey has returned
+Identity AK collected 658 from pot
+*** SUMMARY ***
+Total pot 658 | Rake 0 
+Board [7s Kd 9h]
+Seat 1: Identity AK collected (658)
+Seat 2: AAldo folded on the Flop
+Seat 3: cocoojones folded before Flop (didn't bet)
+Seat 4: resurse (button) folded before Flop (didn't bet)
+Seat 5: ollikahn23 (small blind) folded before Flop
+Seat 6: vJakey (big blind) folded on the Flop
+Seat 7: CYBER_BOS228 folded before Flop (didn't bet)
+Seat 8: ZaKoshitze folded before Flop (didn't bet)
+Seat 9: gniewna777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185512012546: Tournament #2282606654, $13.37+$1.63 USD Hold'em No Limit - Level V (40/80) - 2018/04/21 17:44:09 ET
+Table '2282606654 31' 9-max Seat #5 is the button
+Seat 1: Identity AK (2737 in chips) 
+Seat 2: AAldo (2230 in chips) 
+Seat 3: cocoojones (4808 in chips) 
+Seat 4: resurse (4496 in chips) 
+Seat 5: ollikahn23 (1621 in chips) 
+Seat 6: vJakey (3578 in chips) 
+Seat 7: CYBER_BOS228 (2839 in chips) 
+Seat 8: ZaKoshitze (2884 in chips) 
+Seat 9: gniewna777 (1618 in chips) 
+Identity AK: posts the ante 10
+AAldo: posts the ante 10
+cocoojones: posts the ante 10
+resurse: posts the ante 10
+ollikahn23: posts the ante 10
+vJakey: posts the ante 10
+CYBER_BOS228: posts the ante 10
+ZaKoshitze: posts the ante 10
+gniewna777: posts the ante 10
+vJakey: posts small blind 40
+CYBER_BOS228: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7c 2h]
+ZaKoshitze: folds 
+gniewna777: folds 
+Identity AK: folds 
+AAldo: raises 120 to 200
+cocoojones: folds 
+resurse: folds 
+ollikahn23: folds 
+vJakey has timed out
+vJakey: folds 
+vJakey is sitting out
+vJakey has returned
+CYBER_BOS228: calls 120
+*** FLOP *** [5s Ah Qd]
+CYBER_BOS228: checks 
+AAldo: bets 240
+CYBER_BOS228: calls 240
+*** TURN *** [5s Ah Qd] [4h]
+CYBER_BOS228: checks 
+AAldo: bets 400
+CYBER_BOS228: calls 400
+*** RIVER *** [5s Ah Qd 4h] [Jd]
+CYBER_BOS228: checks 
+AAldo: bets 815
+CYBER_BOS228: calls 815
+*** SHOW DOWN ***
+AAldo: shows [4s 4c] (three of a kind, Fours)
+CYBER_BOS228: mucks hand 
+AAldo collected 3440 from pot
+*** SUMMARY ***
+Total pot 3440 | Rake 0 
+Board [5s Ah Qd 4h Jd]
+Seat 1: Identity AK folded before Flop (didn't bet)
+Seat 2: AAldo showed [4s 4c] and won (3440) with three of a kind, Fours
+Seat 3: cocoojones folded before Flop (didn't bet)
+Seat 4: resurse folded before Flop (didn't bet)
+Seat 5: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 6: vJakey (small blind) folded before Flop
+Seat 7: CYBER_BOS228 (big blind) mucked [8h Ad]
+Seat 8: ZaKoshitze folded before Flop (didn't bet)
+Seat 9: gniewna777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185512093309: Tournament #2282606654, $13.37+$1.63 USD Hold'em No Limit - Level V (40/80) - 2018/04/21 17:46:06 ET
+Table '2282606654 31' 9-max Seat #6 is the button
+Seat 1: Identity AK (2727 in chips) 
+Seat 2: AAldo (4005 in chips) 
+Seat 3: cocoojones (4798 in chips) 
+Seat 4: resurse (4486 in chips) 
+Seat 5: ollikahn23 (1611 in chips) 
+Seat 6: vJakey (3528 in chips) 
+Seat 7: CYBER_BOS228 (1174 in chips) 
+Seat 8: ZaKoshitze (2874 in chips) 
+Seat 9: gniewna777 (1608 in chips) 
+Identity AK: posts the ante 10
+AAldo: posts the ante 10
+cocoojones: posts the ante 10
+resurse: posts the ante 10
+ollikahn23: posts the ante 10
+vJakey: posts the ante 10
+CYBER_BOS228: posts the ante 10
+ZaKoshitze: posts the ante 10
+gniewna777: posts the ante 10
+CYBER_BOS228: posts small blind 40
+ZaKoshitze: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qh 3d]
+gniewna777: folds 
+Identity AK: folds 
+AAldo: folds 
+cocoojones: folds 
+resurse: folds 
+ollikahn23: raises 85 to 165
+vJakey: folds 
+CYBER_BOS228: folds 
+ZaKoshitze: folds 
+Uncalled bet (85) returned to ollikahn23
+ollikahn23 collected 290 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 290 | Rake 0 
+Seat 1: Identity AK folded before Flop (didn't bet)
+Seat 2: AAldo folded before Flop (didn't bet)
+Seat 3: cocoojones folded before Flop (didn't bet)
+Seat 4: resurse folded before Flop (didn't bet)
+Seat 5: ollikahn23 collected (290)
+Seat 6: vJakey (button) folded before Flop (didn't bet)
+Seat 7: CYBER_BOS228 (small blind) folded before Flop
+Seat 8: ZaKoshitze (big blind) folded before Flop
+Seat 9: gniewna777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185512126888: Tournament #2282606654, $13.37+$1.63 USD Hold'em No Limit - Level V (40/80) - 2018/04/21 17:46:55 ET
+Table '2282606654 31' 9-max Seat #7 is the button
+Seat 1: Identity AK (2717 in chips) 
+Seat 2: AAldo (3995 in chips) 
+Seat 3: cocoojones (4788 in chips) 
+Seat 4: resurse (4476 in chips) 
+Seat 5: ollikahn23 (1811 in chips) 
+Seat 6: vJakey (3518 in chips) 
+Seat 7: CYBER_BOS228 (1124 in chips) 
+Seat 8: ZaKoshitze (2784 in chips) 
+Seat 9: gniewna777 (1598 in chips) 
+Identity AK: posts the ante 10
+AAldo: posts the ante 10
+cocoojones: posts the ante 10
+resurse: posts the ante 10
+ollikahn23: posts the ante 10
+vJakey: posts the ante 10
+CYBER_BOS228: posts the ante 10
+ZaKoshitze: posts the ante 10
+gniewna777: posts the ante 10
+ZaKoshitze: posts small blind 40
+gniewna777: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ac 6c]
+Identity AK: raises 96 to 176
+AAldo: folds 
+cocoojones: folds 
+resurse has timed out while disconnected
+resurse: folds 
+resurse is sitting out
+ollikahn23: folds 
+vJakey: folds 
+CYBER_BOS228: folds 
+ZaKoshitze: folds 
+gniewna777: folds 
+Uncalled bet (96) returned to Identity AK
+Identity AK collected 290 from pot
+*** SUMMARY ***
+Total pot 290 | Rake 0 
+Seat 1: Identity AK collected (290)
+Seat 2: AAldo folded before Flop (didn't bet)
+Seat 3: cocoojones folded before Flop (didn't bet)
+Seat 4: resurse folded before Flop (didn't bet)
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: vJakey folded before Flop (didn't bet)
+Seat 7: CYBER_BOS228 (button) folded before Flop (didn't bet)
+Seat 8: ZaKoshitze (small blind) folded before Flop
+Seat 9: gniewna777 (big blind) folded before Flop
+
+
+
+PokerStars Hand #185512153840: Tournament #2282606654, $13.37+$1.63 USD Hold'em No Limit - Level V (40/80) - 2018/04/21 17:47:34 ET
+Table '2282606654 31' 9-max Seat #8 is the button
+Seat 1: Identity AK (2917 in chips) 
+Seat 2: AAldo (3985 in chips) 
+Seat 3: cocoojones (4778 in chips) 
+Seat 4: resurse (4466 in chips) is sitting out
+Seat 5: ollikahn23 (1801 in chips) 
+Seat 6: vJakey (3508 in chips) 
+Seat 7: CYBER_BOS228 (1114 in chips) 
+Seat 8: ZaKoshitze (2734 in chips) 
+Seat 9: gniewna777 (1508 in chips) 
+Identity AK: posts the ante 10
+AAldo: posts the ante 10
+cocoojones: posts the ante 10
+resurse: posts the ante 10
+ollikahn23: posts the ante 10
+vJakey: posts the ante 10
+CYBER_BOS228: posts the ante 10
+ZaKoshitze: posts the ante 10
+gniewna777: posts the ante 10
+gniewna777: posts small blind 40
+Identity AK: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ac 7s]
+AAldo has timed out while disconnected
+AAldo: folds 
+AAldo is sitting out
+AAldo has returned
+resurse has returned
+cocoojones: folds 
+resurse: folds 
+ollikahn23: raises 85 to 165
+vJakey: folds 
+CYBER_BOS228: folds 
+ZaKoshitze: folds 
+gniewna777: folds 
+Identity AK: calls 85
+*** FLOP *** [Kc As 3h]
+Identity AK: checks 
+ollikahn23: bets 180
+Identity AK: calls 180
+*** TURN *** [Kc As 3h] [Js]
+Identity AK: checks 
+ollikahn23: checks 
+*** RIVER *** [Kc As 3h Js] [Jd]
+Identity AK: checks 
+ollikahn23: bets 489
+Identity AK: calls 489
+*** SHOW DOWN ***
+ollikahn23: shows [Ac 7s] (two pair, Aces and Jacks)
+Identity AK: mucks hand 
+ollikahn23 collected 1798 from pot
+*** SUMMARY ***
+Total pot 1798 | Rake 0 
+Board [Kc As 3h Js Jd]
+Seat 1: Identity AK (big blind) mucked [8c Kd]
+Seat 2: AAldo folded before Flop (didn't bet)
+Seat 3: cocoojones folded before Flop (didn't bet)
+Seat 4: resurse folded before Flop (didn't bet)
+Seat 5: ollikahn23 showed [Ac 7s] and won (1798) with two pair, Aces and Jacks
+Seat 6: vJakey folded before Flop (didn't bet)
+Seat 7: CYBER_BOS228 folded before Flop (didn't bet)
+Seat 8: ZaKoshitze (button) folded before Flop (didn't bet)
+Seat 9: gniewna777 (small blind) folded before Flop
+
+
+
+PokerStars Hand #185512255004: Tournament #2282606654, $13.37+$1.63 USD Hold'em No Limit - Level V (40/80) - 2018/04/21 17:50:02 ET
+Table '2282606654 31' 9-max Seat #9 is the button
+Seat 1: Identity AK (2073 in chips) 
+Seat 2: AAldo (3975 in chips) 
+Seat 3: cocoojones (4768 in chips) 
+Seat 4: resurse (4456 in chips) 
+Seat 5: ollikahn23 (2755 in chips) 
+Seat 6: vJakey (3498 in chips) 
+Seat 7: CYBER_BOS228 (1104 in chips) 
+Seat 8: ZaKoshitze (2724 in chips) 
+Seat 9: gniewna777 (1458 in chips) 
+Identity AK: posts the ante 10
+AAldo: posts the ante 10
+cocoojones: posts the ante 10
+resurse: posts the ante 10
+ollikahn23: posts the ante 10
+vJakey: posts the ante 10
+CYBER_BOS228: posts the ante 10
+ZaKoshitze: posts the ante 10
+gniewna777: posts the ante 10
+Identity AK: posts small blind 40
+AAldo: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jh 3s]
+cocoojones: raises 96 to 176
+resurse: folds 
+ollikahn23: folds 
+vJakey: folds 
+CYBER_BOS228: raises 918 to 1094 and is all-in
+ZaKoshitze: folds 
+gniewna777: folds 
+Identity AK: folds 
+AAldo: folds 
+cocoojones: folds 
+Uncalled bet (918) returned to CYBER_BOS228
+CYBER_BOS228 collected 562 from pot
+*** SUMMARY ***
+Total pot 562 | Rake 0 
+Seat 1: Identity AK (small blind) folded before Flop
+Seat 2: AAldo (big blind) folded before Flop
+Seat 3: cocoojones folded before Flop
+Seat 4: resurse folded before Flop (didn't bet)
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: vJakey folded before Flop (didn't bet)
+Seat 7: CYBER_BOS228 collected (562)
+Seat 8: ZaKoshitze folded before Flop (didn't bet)
+Seat 9: gniewna777 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185512287550: Tournament #2282606654, $13.37+$1.63 USD Hold'em No Limit - Level V (40/80) - 2018/04/21 17:50:49 ET
+Table '2282606654 31' 9-max Seat #1 is the button
+Seat 1: Identity AK (2023 in chips) 
+Seat 2: AAldo (3885 in chips) 
+Seat 3: cocoojones (4582 in chips) 
+Seat 4: resurse (4446 in chips) 
+Seat 5: ollikahn23 (2745 in chips) 
+Seat 6: vJakey (3488 in chips) 
+Seat 7: CYBER_BOS228 (1480 in chips) 
+Seat 8: ZaKoshitze (2714 in chips) 
+Seat 9: gniewna777 (1448 in chips) 
+Identity AK: posts the ante 10
+AAldo: posts the ante 10
+cocoojones: posts the ante 10
+resurse: posts the ante 10
+ollikahn23: posts the ante 10
+vJakey: posts the ante 10
+CYBER_BOS228: posts the ante 10
+ZaKoshitze: posts the ante 10
+gniewna777: posts the ante 10
+AAldo: posts small blind 40
+cocoojones: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3h 9s]
+resurse: folds 
+ollikahn23: folds 
+vJakey: folds 
+CYBER_BOS228: folds 
+ZaKoshitze: folds 
+gniewna777: folds 
+Identity AK: folds 
+AAldo: calls 40
+cocoojones: raises 160 to 240
+AAldo: folds 
+Uncalled bet (160) returned to cocoojones
+cocoojones collected 250 from pot
+cocoojones: doesn't show hand 
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Seat 1: Identity AK (button) folded before Flop (didn't bet)
+Seat 2: AAldo (small blind) folded before Flop
+Seat 3: cocoojones (big blind) collected (250)
+Seat 4: resurse folded before Flop (didn't bet)
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: vJakey folded before Flop (didn't bet)
+Seat 7: CYBER_BOS228 folded before Flop (didn't bet)
+Seat 8: ZaKoshitze folded before Flop (didn't bet)
+Seat 9: gniewna777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185512313522: Tournament #2282606654, $13.37+$1.63 USD Hold'em No Limit - Level V (40/80) - 2018/04/21 17:51:28 ET
+Table '2282606654 31' 9-max Seat #2 is the button
+Seat 1: Identity AK (2013 in chips) 
+Seat 2: AAldo (3795 in chips) 
+Seat 3: cocoojones (4742 in chips) 
+Seat 4: resurse (4436 in chips) 
+Seat 5: ollikahn23 (2735 in chips) 
+Seat 6: vJakey (3478 in chips) 
+Seat 7: CYBER_BOS228 (1470 in chips) 
+Seat 8: ZaKoshitze (2704 in chips) 
+Seat 9: gniewna777 (1438 in chips) 
+Identity AK: posts the ante 10
+AAldo: posts the ante 10
+cocoojones: posts the ante 10
+resurse: posts the ante 10
+ollikahn23: posts the ante 10
+vJakey: posts the ante 10
+CYBER_BOS228: posts the ante 10
+ZaKoshitze: posts the ante 10
+gniewna777: posts the ante 10
+cocoojones: posts small blind 40
+resurse: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kh 7c]
+ollikahn23: folds 
+vJakey: folds 
+CYBER_BOS228: folds 
+ZaKoshitze: folds 
+gniewna777: folds 
+Identity AK: folds 
+AAldo: folds 
+cocoojones: folds 
+Uncalled bet (40) returned to resurse
+resurse collected 170 from pot
+resurse: doesn't show hand 
+*** SUMMARY ***
+Total pot 170 | Rake 0 
+Seat 1: Identity AK folded before Flop (didn't bet)
+Seat 2: AAldo (button) folded before Flop (didn't bet)
+Seat 3: cocoojones (small blind) folded before Flop
+Seat 4: resurse (big blind) collected (170)
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: vJakey folded before Flop (didn't bet)
+Seat 7: CYBER_BOS228 folded before Flop (didn't bet)
+Seat 8: ZaKoshitze folded before Flop (didn't bet)
+Seat 9: gniewna777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185512327461: Tournament #2282606654, $13.37+$1.63 USD Hold'em No Limit - Level V (40/80) - 2018/04/21 17:51:48 ET
+Table '2282606654 31' 9-max Seat #3 is the button
+Seat 1: Identity AK (2003 in chips) 
+Seat 2: AAldo (3785 in chips) 
+Seat 3: cocoojones (4692 in chips) 
+Seat 4: resurse (4556 in chips) 
+Seat 5: ollikahn23 (2725 in chips) 
+Seat 6: vJakey (3468 in chips) 
+Seat 7: CYBER_BOS228 (1460 in chips) 
+Seat 8: ZaKoshitze (2694 in chips) 
+Seat 9: gniewna777 (1428 in chips) 
+Identity AK: posts the ante 10
+AAldo: posts the ante 10
+cocoojones: posts the ante 10
+resurse: posts the ante 10
+ollikahn23: posts the ante 10
+vJakey: posts the ante 10
+CYBER_BOS228: posts the ante 10
+ZaKoshitze: posts the ante 10
+gniewna777: posts the ante 10
+resurse: posts small blind 40
+ollikahn23: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5d 4d]
+vJakey: folds 
+CYBER_BOS228: folds 
+ZaKoshitze: folds 
+gniewna777: folds 
+Identity AK: raises 96 to 176
+AAldo: folds 
+cocoojones: folds 
+resurse: folds 
+ollikahn23: calls 96
+*** FLOP *** [7d Jc 6s]
+ollikahn23: checks 
+Identity AK: bets 240
+ollikahn23: calls 240
+*** TURN *** [7d Jc 6s] [5s]
+ollikahn23: checks 
+Identity AK: checks 
+*** RIVER *** [7d Jc 6s 5s] [8c]
+AAldo is disconnected 
+ollikahn23: bets 400
+Identity AK: raises 1177 to 1577 and is all-in
+ollikahn23: calls 1177
+*** SHOW DOWN ***
+Identity AK: shows [9d 9c] (a straight, Five to Nine)
+ollikahn23: shows [5d 4d] (a straight, Four to Eight)
+Identity AK collected 4116 from pot
+*** SUMMARY ***
+Total pot 4116 | Rake 0 
+Board [7d Jc 6s 5s 8c]
+Seat 1: Identity AK showed [9d 9c] and won (4116) with a straight, Five to Nine
+Seat 2: AAldo folded before Flop (didn't bet)
+Seat 3: cocoojones (button) folded before Flop (didn't bet)
+Seat 4: resurse (small blind) folded before Flop
+Seat 5: ollikahn23 (big blind) showed [5d 4d] and lost with a straight, Four to Eight
+Seat 6: vJakey folded before Flop (didn't bet)
+Seat 7: CYBER_BOS228 folded before Flop (didn't bet)
+Seat 8: ZaKoshitze folded before Flop (didn't bet)
+Seat 9: gniewna777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185512443687: Tournament #2282606654, $13.37+$1.63 USD Hold'em No Limit - Level VI (50/100) - 2018/04/21 17:54:40 ET
+Table '2282606654 31' 9-max Seat #4 is the button
+Seat 1: Identity AK (4116 in chips) 
+Seat 2: AAldo (3775 in chips) 
+Seat 3: cocoojones (4682 in chips) 
+Seat 4: resurse (4506 in chips) 
+Seat 5: ollikahn23 (722 in chips) 
+Seat 6: vJakey (3458 in chips) 
+Seat 7: CYBER_BOS228 (1450 in chips) 
+Seat 8: ZaKoshitze (2684 in chips) 
+Seat 9: gniewna777 (1418 in chips) 
+Identity AK: posts the ante 12
+AAldo: posts the ante 12
+cocoojones: posts the ante 12
+resurse: posts the ante 12
+ollikahn23: posts the ante 12
+vJakey: posts the ante 12
+CYBER_BOS228: posts the ante 12
+ZaKoshitze: posts the ante 12
+gniewna777: posts the ante 12
+ollikahn23: posts small blind 50
+vJakey: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6d 7d]
+CYBER_BOS228: folds 
+ZaKoshitze: raises 235 to 335
+gniewna777: folds 
+Identity AK: folds 
+AAldo: folds 
+cocoojones: folds 
+resurse: folds 
+ollikahn23: folds 
+vJakey: folds 
+Uncalled bet (235) returned to ZaKoshitze
+ZaKoshitze collected 358 from pot
+ZaKoshitze: doesn't show hand 
+*** SUMMARY ***
+Total pot 358 | Rake 0 
+Seat 1: Identity AK folded before Flop (didn't bet)
+Seat 2: AAldo folded before Flop (didn't bet)
+Seat 3: cocoojones folded before Flop (didn't bet)
+Seat 4: resurse (button) folded before Flop (didn't bet)
+Seat 5: ollikahn23 (small blind) folded before Flop
+Seat 6: vJakey (big blind) folded before Flop
+Seat 7: CYBER_BOS228 folded before Flop (didn't bet)
+Seat 8: ZaKoshitze collected (358)
+Seat 9: gniewna777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185512675456: Tournament #2282606654, $13.37+$1.63 USD Hold'em No Limit - Level VI (50/100) - 2018/04/21 18:01:35 ET
+Table '2282606654 31' 9-max Seat #5 is the button
+Seat 1: Identity AK (4104 in chips) 
+Seat 2: romanslv1987 (3000 in chips) 
+Seat 3: cocoojones (4670 in chips) 
+Seat 4: resurse (4494 in chips) 
+Seat 5: ollikahn23 (660 in chips) 
+Seat 6: vJakey (3346 in chips) 
+Seat 7: CYBER_BOS228 (1438 in chips) 
+Seat 8: ZaKoshitze (2930 in chips) 
+Seat 9: gniewna777 (1406 in chips) 
+Identity AK: posts the ante 12
+romanslv1987: posts the ante 12
+cocoojones: posts the ante 12
+resurse: posts the ante 12
+ollikahn23: posts the ante 12
+vJakey: posts the ante 12
+CYBER_BOS228: posts the ante 12
+ZaKoshitze: posts the ante 12
+gniewna777: posts the ante 12
+vJakey: posts small blind 50
+CYBER_BOS228: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jc Qs]
+ZaKoshitze: folds 
+gniewna777: folds 
+Identity AK: folds 
+romanslv1987 has timed out
+romanslv1987: folds 
+romanslv1987 is sitting out
+cocoojones: folds 
+resurse: raises 134 to 234
+ollikahn23: folds 
+vJakey: folds 
+CYBER_BOS228: calls 134
+*** FLOP *** [3c Kc Td]
+CYBER_BOS228: checks 
+resurse: checks 
+*** TURN *** [3c Kc Td] [5d]
+CYBER_BOS228: checks 
+resurse: checks 
+*** RIVER *** [3c Kc Td 5d] [Ts]
+romanslv1987 has returned
+CYBER_BOS228: bets 300
+resurse: calls 300
+*** SHOW DOWN ***
+CYBER_BOS228: shows [6c 6d] (two pair, Tens and Sixes)
+resurse: shows [8s 8d] (two pair, Tens and Eights)
+resurse collected 1226 from pot
+*** SUMMARY ***
+Total pot 1226 | Rake 0 
+Board [3c Kc Td 5d Ts]
+Seat 1: Identity AK folded before Flop (didn't bet)
+Seat 2: romanslv1987 folded before Flop (didn't bet)
+Seat 3: cocoojones folded before Flop (didn't bet)
+Seat 4: resurse showed [8s 8d] and won (1226) with two pair, Tens and Eights
+Seat 5: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 6: vJakey (small blind) folded before Flop
+Seat 7: CYBER_BOS228 (big blind) showed [6c 6d] and lost with two pair, Tens and Sixes
+Seat 8: ZaKoshitze folded before Flop (didn't bet)
+Seat 9: gniewna777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185512774051: Tournament #2282606654, $13.37+$1.63 USD Hold'em No Limit - Level VI (50/100) - 2018/04/21 18:04:04 ET
+Table '2282606654 31' 9-max Seat #6 is the button
+Seat 1: Identity AK (4092 in chips) 
+Seat 2: romanslv1987 (2988 in chips) 
+Seat 3: cocoojones (4658 in chips) 
+Seat 4: resurse (5174 in chips) 
+Seat 5: ollikahn23 (648 in chips) 
+Seat 6: vJakey (3284 in chips) 
+Seat 7: CYBER_BOS228 (892 in chips) 
+Seat 8: ZaKoshitze (2918 in chips) 
+Seat 9: gniewna777 (1394 in chips) 
+Identity AK: posts the ante 12
+romanslv1987: posts the ante 12
+cocoojones: posts the ante 12
+resurse: posts the ante 12
+ollikahn23: posts the ante 12
+vJakey: posts the ante 12
+CYBER_BOS228: posts the ante 12
+ZaKoshitze: posts the ante 12
+gniewna777: posts the ante 12
+CYBER_BOS228: posts small blind 50
+ZaKoshitze: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ah 8c]
+gniewna777: folds 
+Identity AK: folds 
+romanslv1987: raises 100 to 200
+cocoojones: folds 
+resurse: folds 
+ollikahn23: raises 436 to 636 and is all-in
+vJakey: calls 636
+CYBER_BOS228: folds 
+ZaKoshitze: folds 
+romanslv1987: calls 436
+*** FLOP *** [8s 3d 9c]
+romanslv1987: checks 
+vJakey: checks 
+*** TURN *** [8s 3d 9c] [Js]
+romanslv1987: checks 
+vJakey: bets 715
+romanslv1987: calls 715
+*** RIVER *** [8s 3d 9c Js] [2d]
+romanslv1987: checks 
+vJakey: checks 
+*** SHOW DOWN ***
+romanslv1987: shows [6c 7c] (high card Jack)
+vJakey: shows [Qd Kd] (high card King)
+vJakey collected 1430 from side pot
+ollikahn23: shows [Ah 8c] (a pair of Eights)
+ollikahn23 collected 2166 from main pot
+*** SUMMARY ***
+Total pot 3596 Main pot 2166. Side pot 1430. | Rake 0 
+Board [8s 3d 9c Js 2d]
+Seat 1: Identity AK folded before Flop (didn't bet)
+Seat 2: romanslv1987 showed [6c 7c] and lost with high card Jack
+Seat 3: cocoojones folded before Flop (didn't bet)
+Seat 4: resurse folded before Flop (didn't bet)
+Seat 5: ollikahn23 showed [Ah 8c] and won (2166) with a pair of Eights
+Seat 6: vJakey (button) showed [Qd Kd] and won (1430) with high card King
+Seat 7: CYBER_BOS228 (small blind) folded before Flop
+Seat 8: ZaKoshitze (big blind) folded before Flop
+Seat 9: gniewna777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185512825560: Tournament #2282606654, $13.37+$1.63 USD Hold'em No Limit - Level VI (50/100) - 2018/04/21 18:05:21 ET
+Table '2282606654 31' 9-max Seat #7 is the button
+Seat 1: Identity AK (4080 in chips) 
+Seat 2: romanslv1987 (1625 in chips) 
+Seat 3: cocoojones (4646 in chips) 
+Seat 4: resurse (5162 in chips) 
+Seat 5: ollikahn23 (2166 in chips) 
+Seat 6: vJakey (3351 in chips) 
+Seat 7: CYBER_BOS228 (830 in chips) 
+Seat 8: ZaKoshitze (2806 in chips) 
+Seat 9: gniewna777 (1382 in chips) 
+Identity AK: posts the ante 12
+romanslv1987: posts the ante 12
+cocoojones: posts the ante 12
+resurse: posts the ante 12
+ollikahn23: posts the ante 12
+vJakey: posts the ante 12
+CYBER_BOS228: posts the ante 12
+ZaKoshitze: posts the ante 12
+gniewna777: posts the ante 12
+ZaKoshitze: posts small blind 50
+gniewna777: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8h 2s]
+Identity AK: raises 120 to 220
+romanslv1987: folds 
+cocoojones: folds 
+resurse: folds 
+ollikahn23: folds 
+vJakey: calls 220
+CYBER_BOS228: folds 
+ZaKoshitze: folds 
+gniewna777: folds 
+*** FLOP *** [6h 2h Kh]
+Identity AK: checks 
+vJakey: bets 230
+Identity AK: folds 
+Uncalled bet (230) returned to vJakey
+vJakey collected 698 from pot
+vJakey: doesn't show hand 
+*** SUMMARY ***
+Total pot 698 | Rake 0 
+Board [6h 2h Kh]
+Seat 1: Identity AK folded on the Flop
+Seat 2: romanslv1987 folded before Flop (didn't bet)
+Seat 3: cocoojones folded before Flop (didn't bet)
+Seat 4: resurse folded before Flop (didn't bet)
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: vJakey collected (698)
+Seat 7: CYBER_BOS228 (button) folded before Flop (didn't bet)
+Seat 8: ZaKoshitze (small blind) folded before Flop
+Seat 9: gniewna777 (big blind) folded before Flop
+
+
+
+PokerStars Hand #185512867848: Tournament #2282606654, $13.37+$1.63 USD Hold'em No Limit - Level VI (50/100) - 2018/04/21 18:06:25 ET
+Table '2282606654 31' 9-max Seat #8 is the button
+Seat 1: Identity AK (3848 in chips) 
+Seat 2: romanslv1987 (1613 in chips) 
+Seat 3: cocoojones (4634 in chips) 
+Seat 4: resurse (5150 in chips) 
+Seat 5: ollikahn23 (2154 in chips) 
+Seat 6: vJakey (3817 in chips) 
+Seat 7: CYBER_BOS228 (818 in chips) 
+Seat 8: ZaKoshitze (2744 in chips) 
+Seat 9: gniewna777 (1270 in chips) 
+Identity AK: posts the ante 12
+romanslv1987: posts the ante 12
+cocoojones: posts the ante 12
+resurse: posts the ante 12
+ollikahn23: posts the ante 12
+vJakey: posts the ante 12
+CYBER_BOS228: posts the ante 12
+ZaKoshitze: posts the ante 12
+gniewna777: posts the ante 12
+gniewna777: posts small blind 50
+Identity AK: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2s Qs]
+romanslv1987: calls 100
+cocoojones: folds 
+resurse: folds 
+ollikahn23: folds 
+vJakey: folds 
+CYBER_BOS228: raises 706 to 806 and is all-in
+ZaKoshitze: folds 
+gniewna777: folds 
+Identity AK: folds 
+romanslv1987: calls 706
+*** FLOP *** [7s 3d 7c]
+*** TURN *** [7s 3d 7c] [Qd]
+*** RIVER *** [7s 3d 7c Qd] [4c]
+*** SHOW DOWN ***
+romanslv1987: shows [Kh Td] (a pair of Sevens)
+CYBER_BOS228: shows [As 8s] (a pair of Sevens - Ace kicker)
+CYBER_BOS228 collected 1870 from pot
+*** SUMMARY ***
+Total pot 1870 | Rake 0 
+Board [7s 3d 7c Qd 4c]
+Seat 1: Identity AK (big blind) folded before Flop
+Seat 2: romanslv1987 showed [Kh Td] and lost with a pair of Sevens
+Seat 3: cocoojones folded before Flop (didn't bet)
+Seat 4: resurse folded before Flop (didn't bet)
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: vJakey folded before Flop (didn't bet)
+Seat 7: CYBER_BOS228 showed [As 8s] and won (1870) with a pair of Sevens
+Seat 8: ZaKoshitze (button) folded before Flop (didn't bet)
+Seat 9: gniewna777 (small blind) folded before Flop
+
+
+
+PokerStars Hand #185512898799: Tournament #2282606654, $13.37+$1.63 USD Hold'em No Limit - Level VI (50/100) - 2018/04/21 18:07:12 ET
+Table '2282606654 31' 9-max Seat #9 is the button
+Seat 1: Identity AK (3736 in chips) 
+Seat 2: romanslv1987 (795 in chips) 
+Seat 3: cocoojones (4622 in chips) 
+Seat 4: resurse (5138 in chips) 
+Seat 5: ollikahn23 (2142 in chips) 
+Seat 6: vJakey (3805 in chips) 
+Seat 7: CYBER_BOS228 (1870 in chips) 
+Seat 8: ZaKoshitze (2732 in chips) 
+Seat 9: gniewna777 (1208 in chips) 
+Identity AK: posts the ante 12
+romanslv1987: posts the ante 12
+cocoojones: posts the ante 12
+resurse: posts the ante 12
+ollikahn23: posts the ante 12
+vJakey: posts the ante 12
+CYBER_BOS228: posts the ante 12
+ZaKoshitze: posts the ante 12
+gniewna777: posts the ante 12
+Identity AK: posts small blind 50
+romanslv1987: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7c Th]
+cocoojones: folds 
+resurse: folds 
+ollikahn23: folds 
+vJakey: folds 
+CYBER_BOS228: folds 
+ZaKoshitze: raises 2620 to 2720 and is all-in
+gniewna777: folds 
+Identity AK: folds 
+romanslv1987: calls 683 and is all-in
+Uncalled bet (1937) returned to ZaKoshitze
+*** FLOP *** [Qc 8c 5c]
+*** TURN *** [Qc 8c 5c] [Ks]
+*** RIVER *** [Qc 8c 5c Ks] [5d]
+*** SHOW DOWN ***
+romanslv1987: shows [Kh 8h] (two pair, Kings and Eights)
+ZaKoshitze: shows [Ac Qd] (two pair, Queens and Fives)
+romanslv1987 collected 1724 from pot
+*** SUMMARY ***
+Total pot 1724 | Rake 0 
+Board [Qc 8c 5c Ks 5d]
+Seat 1: Identity AK (small blind) folded before Flop
+Seat 2: romanslv1987 (big blind) showed [Kh 8h] and won (1724) with two pair, Kings and Eights
+Seat 3: cocoojones folded before Flop (didn't bet)
+Seat 4: resurse folded before Flop (didn't bet)
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: vJakey folded before Flop (didn't bet)
+Seat 7: CYBER_BOS228 folded before Flop (didn't bet)
+Seat 8: ZaKoshitze showed [Ac Qd] and lost with two pair, Queens and Fives
+Seat 9: gniewna777 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185512920201: Tournament #2282606654, $13.37+$1.63 USD Hold'em No Limit - Level VI (50/100) - 2018/04/21 18:07:45 ET
+Table '2282606654 31' 9-max Seat #1 is the button
+Seat 1: Identity AK (3674 in chips) 
+Seat 2: romanslv1987 (1724 in chips) 
+Seat 3: cocoojones (4610 in chips) 
+Seat 4: resurse (5126 in chips) 
+Seat 5: ollikahn23 (2130 in chips) 
+Seat 6: vJakey (3793 in chips) 
+Seat 7: CYBER_BOS228 (1858 in chips) 
+Seat 8: ZaKoshitze (1937 in chips) 
+Seat 9: gniewna777 (1196 in chips) 
+Identity AK: posts the ante 12
+romanslv1987: posts the ante 12
+cocoojones: posts the ante 12
+resurse: posts the ante 12
+ollikahn23: posts the ante 12
+vJakey: posts the ante 12
+CYBER_BOS228: posts the ante 12
+ZaKoshitze: posts the ante 12
+gniewna777: posts the ante 12
+romanslv1987: posts small blind 50
+cocoojones: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ts 2h]
+resurse: folds 
+ollikahn23: folds 
+vJakey: raises 150 to 250
+CYBER_BOS228: folds 
+ZaKoshitze said, "idiot"
+ZaKoshitze: folds 
+gniewna777: folds 
+Identity AK: calls 250
+romanslv1987: raises 1462 to 1712 and is all-in
+cocoojones: folds 
+vJakey: raises 2069 to 3781 and is all-in
+Identity AK: folds 
+Uncalled bet (2069) returned to vJakey
+*** FLOP *** [Qs 8s 2c]
+*** TURN *** [Qs 8s 2c] [Kc]
+*** RIVER *** [Qs 8s 2c Kc] [9d]
+*** SHOW DOWN ***
+romanslv1987: shows [Ad Qc] (a pair of Queens)
+vJakey: shows [3d 3h] (a pair of Threes)
+romanslv1987 collected 3882 from pot
+*** SUMMARY ***
+Total pot 3882 | Rake 0 
+Board [Qs 8s 2c Kc 9d]
+Seat 1: Identity AK (button) folded before Flop
+Seat 2: romanslv1987 (small blind) showed [Ad Qc] and won (3882) with a pair of Queens
+Seat 3: cocoojones (big blind) folded before Flop
+Seat 4: resurse folded before Flop (didn't bet)
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: vJakey showed [3d 3h] and lost with a pair of Threes
+Seat 7: CYBER_BOS228 folded before Flop (didn't bet)
+Seat 8: ZaKoshitze folded before Flop (didn't bet)
+Seat 9: gniewna777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185512950119: Tournament #2282606654, $13.37+$1.63 USD Hold'em No Limit - Level VI (50/100) - 2018/04/21 18:08:31 ET
+Table '2282606654 31' 9-max Seat #2 is the button
+Seat 1: Identity AK (3412 in chips) 
+Seat 2: romanslv1987 (3882 in chips) 
+Seat 3: cocoojones (4498 in chips) 
+Seat 4: resurse (5114 in chips) 
+Seat 5: ollikahn23 (2118 in chips) 
+Seat 6: vJakey (2069 in chips) 
+Seat 7: CYBER_BOS228 (1846 in chips) 
+Seat 8: ZaKoshitze (1925 in chips) 
+Seat 9: gniewna777 (1184 in chips) 
+Identity AK: posts the ante 12
+romanslv1987: posts the ante 12
+cocoojones: posts the ante 12
+resurse: posts the ante 12
+ollikahn23: posts the ante 12
+vJakey: posts the ante 12
+CYBER_BOS228: posts the ante 12
+ZaKoshitze: posts the ante 12
+gniewna777: posts the ante 12
+cocoojones: posts small blind 50
+resurse: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kd 4c]
+ollikahn23: folds 
+vJakey: folds 
+CYBER_BOS228: folds 
+ZaKoshitze: folds 
+gniewna777: folds 
+Identity AK: folds 
+romanslv1987: folds 
+cocoojones: raises 200 to 300
+resurse: raises 600 to 900
+cocoojones: calls 600
+*** FLOP *** [6d Qs 4s]
+cocoojones: checks 
+resurse: checks 
+*** TURN *** [6d Qs 4s] [Jd]
+cocoojones: checks 
+romanslv1987 said, "u menya 6 bb ostavalos K8s norm kol ))"
+resurse: bets 954
+cocoojones: calls 954
+*** RIVER *** [6d Qs 4s Jd] [Th]
+cocoojones: checks 
+resurse: bets 1400
+cocoojones: folds 
+Uncalled bet (1400) returned to resurse
+resurse collected 3816 from pot
+resurse: doesn't show hand 
+*** SUMMARY ***
+Total pot 3816 | Rake 0 
+Board [6d Qs 4s Jd Th]
+Seat 1: Identity AK folded before Flop (didn't bet)
+Seat 2: romanslv1987 (button) folded before Flop (didn't bet)
+Seat 3: cocoojones (small blind) folded on the River
+Seat 4: resurse (big blind) collected (3816)
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: vJakey folded before Flop (didn't bet)
+Seat 7: CYBER_BOS228 folded before Flop (didn't bet)
+Seat 8: ZaKoshitze folded before Flop (didn't bet)
+Seat 9: gniewna777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185513006355: Tournament #2282606654, $13.37+$1.63 USD Hold'em No Limit - Level VII (75/150) - 2018/04/21 18:09:59 ET
+Table '2282606654 31' 9-max Seat #3 is the button
+Seat 1: Identity AK (3400 in chips) 
+Seat 2: romanslv1987 (3870 in chips) 
+Seat 3: cocoojones (2632 in chips) 
+Seat 4: resurse (7064 in chips) 
+Seat 5: ollikahn23 (2106 in chips) 
+Seat 6: vJakey (2057 in chips) 
+Seat 7: CYBER_BOS228 (1834 in chips) 
+Seat 8: ZaKoshitze (1913 in chips) 
+Seat 9: gniewna777 (1172 in chips) 
+Identity AK: posts the ante 20
+romanslv1987: posts the ante 20
+cocoojones: posts the ante 20
+resurse: posts the ante 20
+ollikahn23: posts the ante 20
+vJakey: posts the ante 20
+CYBER_BOS228: posts the ante 20
+ZaKoshitze: posts the ante 20
+gniewna777: posts the ante 20
+resurse: posts small blind 75
+ollikahn23: posts big blind 150
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7h 3h]
+vJakey: folds 
+CYBER_BOS228: calls 150
+ZaKoshitze: folds 
+gniewna777: folds 
+Identity AK: calls 150
+romanslv1987: calls 150
+cocoojones: folds 
+resurse: calls 75
+ollikahn23: checks 
+*** FLOP *** [As 5h Jd]
+resurse: checks 
+ollikahn23: checks 
+CYBER_BOS228: checks 
+Identity AK: checks 
+romanslv1987: checks 
+*** TURN *** [As 5h Jd] [Js]
+resurse: bets 465
+ollikahn23: folds 
+CYBER_BOS228: folds 
+Identity AK: calls 465
+romanslv1987: calls 465
+*** RIVER *** [As 5h Jd Js] [3s]
+resurse: bets 1163
+Identity AK: folds 
+romanslv1987: calls 1163
+*** SHOW DOWN ***
+resurse: shows [Qs 5s] (a flush, Ace high)
+romanslv1987: mucks hand 
+resurse collected 4651 from pot
+*** SUMMARY ***
+Total pot 4651 | Rake 0 
+Board [As 5h Jd Js 3s]
+Seat 1: Identity AK folded on the River
+Seat 2: romanslv1987 mucked [Ts 8s]
+Seat 3: cocoojones (button) folded before Flop (didn't bet)
+Seat 4: resurse (small blind) showed [Qs 5s] and won (4651) with a flush, Ace high
+Seat 5: ollikahn23 (big blind) folded on the Turn
+Seat 6: vJakey folded before Flop (didn't bet)
+Seat 7: CYBER_BOS228 folded on the Turn
+Seat 8: ZaKoshitze folded before Flop (didn't bet)
+Seat 9: gniewna777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185513059358: Tournament #2282606654, $13.37+$1.63 USD Hold'em No Limit - Level VII (75/150) - 2018/04/21 18:11:18 ET
+Table '2282606654 31' 9-max Seat #4 is the button
+Seat 1: Identity AK (2765 in chips) 
+Seat 2: romanslv1987 (2072 in chips) 
+Seat 3: cocoojones (2612 in chips) 
+Seat 4: resurse (9917 in chips) 
+Seat 5: ollikahn23 (1936 in chips) 
+Seat 6: vJakey (2037 in chips) 
+Seat 7: CYBER_BOS228 (1664 in chips) 
+Seat 8: ZaKoshitze (1893 in chips) 
+Seat 9: gniewna777 (1152 in chips) 
+Identity AK: posts the ante 20
+romanslv1987: posts the ante 20
+cocoojones: posts the ante 20
+resurse: posts the ante 20
+ollikahn23: posts the ante 20
+vJakey: posts the ante 20
+CYBER_BOS228: posts the ante 20
+ZaKoshitze: posts the ante 20
+gniewna777: posts the ante 20
+ollikahn23: posts small blind 75
+vJakey: posts big blind 150
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4c 7c]
+CYBER_BOS228: folds 
+ZaKoshitze: folds 
+gniewna777: folds 
+Identity AK: raises 180 to 330
+romanslv1987: folds 
+cocoojones: folds 
+resurse: folds 
+ollikahn23: folds 
+vJakey: calls 180
+*** FLOP *** [Kh Tc Ts]
+vJakey: bets 302
+Identity AK: calls 302
+*** TURN *** [Kh Tc Ts] [8d]
+vJakey: checks 
+Identity AK: checks 
+*** RIVER *** [Kh Tc Ts 8d] [3c]
+vJakey: bets 1385 and is all-in
+Identity AK: folds 
+Uncalled bet (1385) returned to vJakey
+vJakey collected 1519 from pot
+vJakey: doesn't show hand 
+*** SUMMARY ***
+Total pot 1519 | Rake 0 
+Board [Kh Tc Ts 8d 3c]
+Seat 1: Identity AK folded on the River
+Seat 2: romanslv1987 folded before Flop (didn't bet)
+Seat 3: cocoojones folded before Flop (didn't bet)
+Seat 4: resurse (button) folded before Flop (didn't bet)
+Seat 5: ollikahn23 (small blind) folded before Flop
+Seat 6: vJakey (big blind) collected (1519)
+Seat 7: CYBER_BOS228 folded before Flop (didn't bet)
+Seat 8: ZaKoshitze folded before Flop (didn't bet)
+Seat 9: gniewna777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185513118685: Tournament #2282606654, $13.37+$1.63 USD Hold'em No Limit - Level VII (75/150) - 2018/04/21 18:12:51 ET
+Table '2282606654 31' 9-max Seat #5 is the button
+Seat 1: Identity AK (2113 in chips) 
+Seat 2: romanslv1987 (2052 in chips) 
+Seat 3: cocoojones (2592 in chips) 
+Seat 4: resurse (9897 in chips) 
+Seat 5: ollikahn23 (1841 in chips) 
+Seat 6: vJakey (2904 in chips) 
+Seat 7: CYBER_BOS228 (1644 in chips) 
+Seat 8: ZaKoshitze (1873 in chips) 
+Seat 9: gniewna777 (1132 in chips) 
+Identity AK: posts the ante 20
+romanslv1987: posts the ante 20
+cocoojones: posts the ante 20
+resurse: posts the ante 20
+ollikahn23: posts the ante 20
+vJakey: posts the ante 20
+CYBER_BOS228: posts the ante 20
+ZaKoshitze: posts the ante 20
+gniewna777: posts the ante 20
+vJakey: posts small blind 75
+CYBER_BOS228: posts big blind 150
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jc Jh]
+ZaKoshitze: folds 
+gniewna777: folds 
+Identity AK: folds 
+romanslv1987: folds 
+cocoojones: folds 
+resurse: folds 
+ollikahn23: raises 171 to 321
+vJakey: folds 
+CYBER_BOS228: calls 171
+*** FLOP *** [4c 6d 8h]
+CYBER_BOS228: checks 
+ollikahn23: bets 555
+CYBER_BOS228: folds 
+Uncalled bet (555) returned to ollikahn23
+ollikahn23 collected 897 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 897 | Rake 0 
+Board [4c 6d 8h]
+Seat 1: Identity AK folded before Flop (didn't bet)
+Seat 2: romanslv1987 folded before Flop (didn't bet)
+Seat 3: cocoojones folded before Flop (didn't bet)
+Seat 4: resurse folded before Flop (didn't bet)
+Seat 5: ollikahn23 (button) collected (897)
+Seat 6: vJakey (small blind) folded before Flop
+Seat 7: CYBER_BOS228 (big blind) folded on the Flop
+Seat 8: ZaKoshitze folded before Flop (didn't bet)
+Seat 9: gniewna777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185513165173: Tournament #2282606654, $13.37+$1.63 USD Hold'em No Limit - Level VII (75/150) - 2018/04/21 18:14:05 ET
+Table '2282606654 31' 9-max Seat #6 is the button
+Seat 1: Identity AK (2093 in chips) 
+Seat 2: romanslv1987 (2032 in chips) 
+Seat 3: cocoojones (2572 in chips) 
+Seat 4: resurse (9877 in chips) 
+Seat 5: ollikahn23 (2397 in chips) 
+Seat 6: vJakey (2809 in chips) 
+Seat 7: CYBER_BOS228 (1303 in chips) 
+Seat 8: ZaKoshitze (1853 in chips) 
+Seat 9: gniewna777 (1112 in chips) 
+Identity AK: posts the ante 20
+romanslv1987: posts the ante 20
+cocoojones: posts the ante 20
+resurse: posts the ante 20
+ollikahn23: posts the ante 20
+vJakey: posts the ante 20
+CYBER_BOS228: posts the ante 20
+ZaKoshitze: posts the ante 20
+gniewna777: posts the ante 20
+CYBER_BOS228: posts small blind 75
+ZaKoshitze: posts big blind 150
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2c 9s]
+gniewna777: folds 
+Identity AK: folds 
+romanslv1987: folds 
+cocoojones: raises 165 to 315
+resurse: folds 
+ollikahn23: folds 
+vJakey: folds 
+CYBER_BOS228: folds 
+ZaKoshitze: folds 
+Uncalled bet (165) returned to cocoojones
+cocoojones collected 555 from pot
+cocoojones: doesn't show hand 
+*** SUMMARY ***
+Total pot 555 | Rake 0 
+Seat 1: Identity AK folded before Flop (didn't bet)
+Seat 2: romanslv1987 folded before Flop (didn't bet)
+Seat 3: cocoojones collected (555)
+Seat 4: resurse folded before Flop (didn't bet)
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: vJakey (button) folded before Flop (didn't bet)
+Seat 7: CYBER_BOS228 (small blind) folded before Flop
+Seat 8: ZaKoshitze (big blind) folded before Flop
+Seat 9: gniewna777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185513189682: Tournament #2282606654, $13.37+$1.63 USD Hold'em No Limit - Level VII (75/150) - 2018/04/21 18:14:44 ET
+Table '2282606654 31' 9-max Seat #7 is the button
+Seat 1: Identity AK (2073 in chips) 
+Seat 2: romanslv1987 (2012 in chips) 
+Seat 3: cocoojones (2957 in chips) 
+Seat 4: resurse (9857 in chips) 
+Seat 5: ollikahn23 (2377 in chips) 
+Seat 6: vJakey (2789 in chips) 
+Seat 7: CYBER_BOS228 (1208 in chips) 
+Seat 8: ZaKoshitze (1683 in chips) 
+Seat 9: gniewna777 (1092 in chips) 
+Identity AK: posts the ante 20
+romanslv1987: posts the ante 20
+cocoojones: posts the ante 20
+resurse: posts the ante 20
+ollikahn23: posts the ante 20
+vJakey: posts the ante 20
+CYBER_BOS228: posts the ante 20
+ZaKoshitze: posts the ante 20
+gniewna777: posts the ante 20
+ZaKoshitze: posts small blind 75
+gniewna777: posts big blind 150
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ad 9c]
+Identity AK: raises 1903 to 2053 and is all-in
+romanslv1987: folds 
+cocoojones: folds 
+resurse: folds 
+ollikahn23: folds 
+vJakey: folds 
+CYBER_BOS228: folds 
+ZaKoshitze: folds 
+gniewna777: folds 
+Uncalled bet (1903) returned to Identity AK
+Identity AK collected 555 from pot
+*** SUMMARY ***
+Total pot 555 | Rake 0 
+Seat 1: Identity AK collected (555)
+Seat 2: romanslv1987 folded before Flop (didn't bet)
+Seat 3: cocoojones folded before Flop (didn't bet)
+Seat 4: resurse folded before Flop (didn't bet)
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: vJakey folded before Flop (didn't bet)
+Seat 7: CYBER_BOS228 (button) folded before Flop (didn't bet)
+Seat 8: ZaKoshitze (small blind) folded before Flop
+Seat 9: gniewna777 (big blind) folded before Flop
+
+
+
+PokerStars Hand #185513208553: Tournament #2282606654, $13.37+$1.63 USD Hold'em No Limit - Level VII (75/150) - 2018/04/21 18:15:13 ET
+Table '2282606654 31' 9-max Seat #8 is the button
+Seat 1: Identity AK (2458 in chips) 
+Seat 2: romanslv1987 (1992 in chips) 
+Seat 3: cocoojones (2937 in chips) 
+Seat 4: resurse (9837 in chips) 
+Seat 5: ollikahn23 (2357 in chips) 
+Seat 6: vJakey (2769 in chips) 
+Seat 7: CYBER_BOS228 (1188 in chips) 
+Seat 8: ZaKoshitze (1588 in chips) 
+Seat 9: gniewna777 (922 in chips) 
+Identity AK: posts the ante 20
+romanslv1987: posts the ante 20
+cocoojones: posts the ante 20
+resurse: posts the ante 20
+ollikahn23: posts the ante 20
+vJakey: posts the ante 20
+CYBER_BOS228: posts the ante 20
+ZaKoshitze: posts the ante 20
+gniewna777: posts the ante 20
+gniewna777: posts small blind 75
+Identity AK: posts big blind 150
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Tc Jc]
+romanslv1987: folds 
+cocoojones: folds 
+resurse: raises 201 to 351
+ollikahn23: folds 
+vJakey: folds 
+CYBER_BOS228: folds 
+ZaKoshitze: folds 
+gniewna777: folds 
+Identity AK: folds 
+Uncalled bet (201) returned to resurse
+resurse collected 555 from pot
+resurse: doesn't show hand 
+*** SUMMARY ***
+Total pot 555 | Rake 0 
+Seat 1: Identity AK (big blind) folded before Flop
+Seat 2: romanslv1987 folded before Flop (didn't bet)
+Seat 3: cocoojones folded before Flop (didn't bet)
+Seat 4: resurse collected (555)
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: vJakey folded before Flop (didn't bet)
+Seat 7: CYBER_BOS228 folded before Flop (didn't bet)
+Seat 8: ZaKoshitze (button) folded before Flop (didn't bet)
+Seat 9: gniewna777 (small blind) folded before Flop
+
+
+
+PokerStars Hand #185513227515: Tournament #2282606654, $13.37+$1.63 USD Hold'em No Limit - Level VII (75/150) - 2018/04/21 18:15:44 ET
+Table '2282606654 31' 9-max Seat #9 is the button
+Seat 1: Identity AK (2288 in chips) 
+Seat 2: romanslv1987 (1972 in chips) 
+Seat 3: cocoojones (2917 in chips) 
+Seat 4: resurse (10222 in chips) 
+Seat 5: ollikahn23 (2337 in chips) 
+Seat 6: vJakey (2749 in chips) 
+Seat 7: CYBER_BOS228 (1168 in chips) 
+Seat 8: ZaKoshitze (1568 in chips) 
+Seat 9: gniewna777 (827 in chips) 
+Identity AK: posts the ante 20
+romanslv1987: posts the ante 20
+cocoojones: posts the ante 20
+resurse: posts the ante 20
+ollikahn23: posts the ante 20
+vJakey: posts the ante 20
+CYBER_BOS228: posts the ante 20
+ZaKoshitze: posts the ante 20
+gniewna777: posts the ante 20
+Identity AK: posts small blind 75
+romanslv1987: posts big blind 150
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kd 3h]
+cocoojones: folds 
+resurse: folds 
+ollikahn23: folds 
+vJakey: folds 
+CYBER_BOS228: calls 150
+ZaKoshitze: folds 
+gniewna777: folds 
+Identity AK: folds 
+romanslv1987: checks 
+*** FLOP *** [7d 2c Th]
+romanslv1987: checks 
+CYBER_BOS228: checks 
+*** TURN *** [7d 2c Th] [5c]
+romanslv1987: checks 
+CYBER_BOS228: checks 
+*** RIVER *** [7d 2c Th 5c] [Jd]
+romanslv1987: checks 
+CYBER_BOS228: bets 300
+romanslv1987: folds 
+Uncalled bet (300) returned to CYBER_BOS228
+CYBER_BOS228 collected 555 from pot
+*** SUMMARY ***
+Total pot 555 | Rake 0 
+Board [7d 2c Th 5c Jd]
+Seat 1: Identity AK (small blind) folded before Flop
+Seat 2: romanslv1987 (big blind) folded on the River
+Seat 3: cocoojones folded before Flop (didn't bet)
+Seat 4: resurse folded before Flop (didn't bet)
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: vJakey folded before Flop (didn't bet)
+Seat 7: CYBER_BOS228 collected (555)
+Seat 8: ZaKoshitze folded before Flop (didn't bet)
+Seat 9: gniewna777 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185513266851: Tournament #2282606654, $13.37+$1.63 USD Hold'em No Limit - Level VII (75/150) - 2018/04/21 18:16:47 ET
+Table '2282606654 31' 9-max Seat #1 is the button
+Seat 1: Identity AK (2193 in chips) 
+Seat 2: romanslv1987 (1802 in chips) 
+Seat 3: cocoojones (2897 in chips) 
+Seat 4: resurse (10202 in chips) 
+Seat 5: ollikahn23 (2317 in chips) 
+Seat 6: vJakey (2729 in chips) 
+Seat 7: CYBER_BOS228 (1553 in chips) 
+Seat 8: ZaKoshitze (1548 in chips) 
+Seat 9: gniewna777 (807 in chips) 
+Identity AK: posts the ante 20
+romanslv1987: posts the ante 20
+cocoojones: posts the ante 20
+resurse: posts the ante 20
+ollikahn23: posts the ante 20
+vJakey: posts the ante 20
+CYBER_BOS228: posts the ante 20
+ZaKoshitze: posts the ante 20
+gniewna777: posts the ante 20
+romanslv1987: posts small blind 75
+cocoojones: posts big blind 150
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8d 2d]
+resurse: calls 150
+ollikahn23: folds 
+vJakey: folds 
+CYBER_BOS228: folds 
+ZaKoshitze: folds 
+gniewna777: folds 
+Identity AK: folds 
+romanslv1987: raises 1632 to 1782 and is all-in
+cocoojones: folds 
+resurse: folds 
+Uncalled bet (1632) returned to romanslv1987
+romanslv1987 collected 630 from pot
+romanslv1987: doesn't show hand 
+*** SUMMARY ***
+Total pot 630 | Rake 0 
+Seat 1: Identity AK (button) folded before Flop (didn't bet)
+Seat 2: romanslv1987 (small blind) collected (630)
+Seat 3: cocoojones (big blind) folded before Flop
+Seat 4: resurse folded before Flop
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: vJakey folded before Flop (didn't bet)
+Seat 7: CYBER_BOS228 folded before Flop (didn't bet)
+Seat 8: ZaKoshitze folded before Flop (didn't bet)
+Seat 9: gniewna777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185513280348: Tournament #2282606654, $13.37+$1.63 USD Hold'em No Limit - Level VII (75/150) - 2018/04/21 18:17:09 ET
+Table '2282606654 31' 9-max Seat #2 is the button
+Seat 1: Identity AK (2173 in chips) 
+Seat 2: romanslv1987 (2262 in chips) 
+Seat 3: cocoojones (2727 in chips) 
+Seat 4: resurse (10032 in chips) 
+Seat 5: ollikahn23 (2297 in chips) 
+Seat 6: vJakey (2709 in chips) 
+Seat 7: CYBER_BOS228 (1533 in chips) 
+Seat 8: ZaKoshitze (1528 in chips) 
+Seat 9: gniewna777 (787 in chips) 
+Identity AK: posts the ante 20
+romanslv1987: posts the ante 20
+cocoojones: posts the ante 20
+resurse: posts the ante 20
+ollikahn23: posts the ante 20
+vJakey: posts the ante 20
+CYBER_BOS228: posts the ante 20
+ZaKoshitze: posts the ante 20
+gniewna777: posts the ante 20
+cocoojones: posts small blind 75
+resurse: posts big blind 150
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7c 8d]
+ollikahn23: folds 
+vJakey: folds 
+CYBER_BOS228: raises 150 to 300
+ZaKoshitze: folds 
+gniewna777: folds 
+Identity AK: folds 
+romanslv1987: raises 1942 to 2242 and is all-in
+cocoojones: folds 
+resurse: folds 
+CYBER_BOS228: calls 1213 and is all-in
+Uncalled bet (729) returned to romanslv1987
+*** FLOP *** [9d Jd As]
+*** TURN *** [9d Jd As] [9s]
+*** RIVER *** [9d Jd As 9s] [Qc]
+*** SHOW DOWN ***
+CYBER_BOS228: shows [Kd Td] (a straight, Ten to Ace)
+romanslv1987: shows [Js Ad] (two pair, Aces and Jacks)
+CYBER_BOS228 collected 3431 from pot
+*** SUMMARY ***
+Total pot 3431 | Rake 0 
+Board [9d Jd As 9s Qc]
+Seat 1: Identity AK folded before Flop (didn't bet)
+Seat 2: romanslv1987 (button) showed [Js Ad] and lost with two pair, Aces and Jacks
+Seat 3: cocoojones (small blind) folded before Flop
+Seat 4: resurse (big blind) folded before Flop
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: vJakey folded before Flop (didn't bet)
+Seat 7: CYBER_BOS228 showed [Kd Td] and won (3431) with a straight, Ten to Ace
+Seat 8: ZaKoshitze folded before Flop (didn't bet)
+Seat 9: gniewna777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185513307319: Tournament #2282606654, $13.37+$1.63 USD Hold'em No Limit - Level VII (75/150) - 2018/04/21 18:17:52 ET
+Table '2282606654 31' 9-max Seat #3 is the button
+Seat 1: Identity AK (2153 in chips) 
+Seat 2: romanslv1987 (729 in chips) 
+Seat 3: cocoojones (2632 in chips) 
+Seat 4: resurse (9862 in chips) 
+Seat 5: ollikahn23 (2277 in chips) 
+Seat 6: vJakey (2689 in chips) 
+Seat 7: CYBER_BOS228 (3431 in chips) 
+Seat 8: ZaKoshitze (1508 in chips) 
+Seat 9: gniewna777 (767 in chips) 
+Identity AK: posts the ante 20
+romanslv1987: posts the ante 20
+cocoojones: posts the ante 20
+resurse: posts the ante 20
+ollikahn23: posts the ante 20
+vJakey: posts the ante 20
+CYBER_BOS228: posts the ante 20
+ZaKoshitze: posts the ante 20
+gniewna777: posts the ante 20
+resurse: posts small blind 75
+ollikahn23: posts big blind 150
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8h Tc]
+vJakey: folds 
+CYBER_BOS228: folds 
+ZaKoshitze: folds 
+gniewna777: folds 
+Identity AK: folds 
+romanslv1987: folds 
+cocoojones: folds 
+resurse: folds 
+Uncalled bet (75) returned to ollikahn23
+ollikahn23 collected 330 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 330 | Rake 0 
+Seat 1: Identity AK folded before Flop (didn't bet)
+Seat 2: romanslv1987 folded before Flop (didn't bet)
+Seat 3: cocoojones (button) folded before Flop (didn't bet)
+Seat 4: resurse (small blind) folded before Flop
+Seat 5: ollikahn23 (big blind) collected (330)
+Seat 6: vJakey folded before Flop (didn't bet)
+Seat 7: CYBER_BOS228 folded before Flop (didn't bet)
+Seat 8: ZaKoshitze folded before Flop (didn't bet)
+Seat 9: gniewna777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185513319289: Tournament #2282606654, $13.37+$1.63 USD Hold'em No Limit - Level VII (75/150) - 2018/04/21 18:18:11 ET
+Table '2282606654 31' 9-max Seat #4 is the button
+Seat 1: Identity AK (2133 in chips) 
+Seat 2: romanslv1987 (709 in chips) 
+Seat 3: cocoojones (2612 in chips) 
+Seat 4: resurse (9767 in chips) 
+Seat 5: ollikahn23 (2512 in chips) 
+Seat 6: vJakey (2669 in chips) 
+Seat 7: CYBER_BOS228 (3411 in chips) 
+Seat 8: ZaKoshitze (1488 in chips) 
+Seat 9: gniewna777 (747 in chips) 
+Identity AK: posts the ante 20
+romanslv1987: posts the ante 20
+cocoojones: posts the ante 20
+resurse: posts the ante 20
+ollikahn23: posts the ante 20
+vJakey: posts the ante 20
+CYBER_BOS228: posts the ante 20
+ZaKoshitze: posts the ante 20
+gniewna777: posts the ante 20
+ollikahn23: posts small blind 75
+vJakey: posts big blind 150
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5s Qh]
+CYBER_BOS228: raises 225 to 375
+ZaKoshitze: folds 
+gniewna777: folds 
+Identity AK: folds 
+romanslv1987: raises 314 to 689 and is all-in
+cocoojones: folds 
+resurse: folds 
+ollikahn23: folds 
+vJakey: folds 
+CYBER_BOS228: calls 314
+*** FLOP *** [4s 2s 5d]
+*** TURN *** [4s 2s 5d] [Ts]
+*** RIVER *** [4s 2s 5d Ts] [Kc]
+*** SHOW DOWN ***
+CYBER_BOS228: shows [Jh Ac] (high card Ace)
+romanslv1987: shows [8h 7h] (high card King)
+CYBER_BOS228 collected 1783 from pot
+romanslv1987 finished the tournament
+*** SUMMARY ***
+Total pot 1783 | Rake 0 
+Board [4s 2s 5d Ts Kc]
+Seat 1: Identity AK folded before Flop (didn't bet)
+Seat 2: romanslv1987 showed [8h 7h] and lost with high card King
+Seat 3: cocoojones folded before Flop (didn't bet)
+Seat 4: resurse (button) folded before Flop (didn't bet)
+Seat 5: ollikahn23 (small blind) folded before Flop
+Seat 6: vJakey (big blind) folded before Flop
+Seat 7: CYBER_BOS228 showed [Jh Ac] and won (1783) with high card Ace
+Seat 8: ZaKoshitze folded before Flop (didn't bet)
+Seat 9: gniewna777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185513355866: Tournament #2282606654, $13.37+$1.63 USD Hold'em No Limit - Level VIII (100/200) - 2018/04/21 18:19:09 ET
+Table '2282606654 31' 9-max Seat #5 is the button
+Seat 1: Identity AK (2113 in chips) 
+Seat 2: Ytris1990 (2421 in chips) 
+Seat 3: cocoojones (2592 in chips) 
+Seat 4: resurse (9747 in chips) 
+Seat 5: ollikahn23 (2417 in chips) 
+Seat 6: vJakey (2499 in chips) 
+Seat 7: CYBER_BOS228 (4485 in chips) 
+Seat 8: ZaKoshitze (1468 in chips) 
+Seat 9: gniewna777 (727 in chips) 
+Identity AK: posts the ante 25
+Ytris1990: posts the ante 25
+cocoojones: posts the ante 25
+resurse: posts the ante 25
+ollikahn23: posts the ante 25
+vJakey: posts the ante 25
+CYBER_BOS228: posts the ante 25
+ZaKoshitze: posts the ante 25
+gniewna777: posts the ante 25
+vJakey: posts small blind 100
+CYBER_BOS228: posts big blind 200
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2s Td]
+ZaKoshitze: raises 1243 to 1443 and is all-in
+gniewna777: folds 
+Identity AK: folds 
+Ytris1990: folds 
+cocoojones: folds 
+resurse: folds 
+ollikahn23: folds 
+vJakey: folds 
+CYBER_BOS228: folds 
+Uncalled bet (1243) returned to ZaKoshitze
+ZaKoshitze collected 725 from pot
+ZaKoshitze: doesn't show hand 
+*** SUMMARY ***
+Total pot 725 | Rake 0 
+Seat 1: Identity AK folded before Flop (didn't bet)
+Seat 2: Ytris1990 folded before Flop (didn't bet)
+Seat 3: cocoojones folded before Flop (didn't bet)
+Seat 4: resurse folded before Flop (didn't bet)
+Seat 5: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 6: vJakey (small blind) folded before Flop
+Seat 7: CYBER_BOS228 (big blind) folded before Flop
+Seat 8: ZaKoshitze collected (725)
+Seat 9: gniewna777 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185513377183: Tournament #2282606654, $13.37+$1.63 USD Hold'em No Limit - Level VIII (100/200) - 2018/04/21 18:19:43 ET
+Table '2282606654 31' 9-max Seat #6 is the button
+Seat 1: Identity AK (2088 in chips) 
+Seat 2: Ytris1990 (2396 in chips) 
+Seat 3: cocoojones (2567 in chips) 
+Seat 4: resurse (9722 in chips) 
+Seat 5: ollikahn23 (2392 in chips) 
+Seat 6: vJakey (2374 in chips) 
+Seat 7: CYBER_BOS228 (4260 in chips) 
+Seat 8: ZaKoshitze (1968 in chips) 
+Seat 9: gniewna777 (702 in chips) 
+Identity AK: posts the ante 25
+Ytris1990: posts the ante 25
+cocoojones: posts the ante 25
+resurse: posts the ante 25
+ollikahn23: posts the ante 25
+vJakey: posts the ante 25
+CYBER_BOS228: posts the ante 25
+ZaKoshitze: posts the ante 25
+gniewna777: posts the ante 25
+CYBER_BOS228: posts small blind 100
+ZaKoshitze: posts big blind 200
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2h 8d]
+gniewna777: raises 444 to 644
+Identity AK: folds 
+Ytris1990: folds 
+cocoojones: folds 
+resurse: folds 
+ollikahn23: folds 
+vJakey: folds 
+CYBER_BOS228: raises 444 to 1088
+ZaKoshitze: folds 
+gniewna777: calls 33 and is all-in
+Uncalled bet (411) returned to CYBER_BOS228
+*** FLOP *** [Ah Ts 4c]
+*** TURN *** [Ah Ts 4c] [8c]
+*** RIVER *** [Ah Ts 4c 8c] [5c]
+*** SHOW DOWN ***
+CYBER_BOS228: shows [Ac As] (three of a kind, Aces)
+gniewna777: shows [Kh 6c] (high card Ace)
+CYBER_BOS228 collected 1779 from pot
+gniewna777 finished the tournament
+*** SUMMARY ***
+Total pot 1779 | Rake 0 
+Board [Ah Ts 4c 8c 5c]
+Seat 1: Identity AK folded before Flop (didn't bet)
+Seat 2: Ytris1990 folded before Flop (didn't bet)
+Seat 3: cocoojones folded before Flop (didn't bet)
+Seat 4: resurse folded before Flop (didn't bet)
+Seat 5: ollikahn23 folded before Flop (didn't bet)
+Seat 6: vJakey (button) folded before Flop (didn't bet)
+Seat 7: CYBER_BOS228 (small blind) showed [Ac As] and won (1779) with three of a kind, Aces
+Seat 8: ZaKoshitze (big blind) folded before Flop
+Seat 9: gniewna777 showed [Kh 6c] and lost with high card Ace
+
+
+
+PokerStars Hand #185513415855: Tournament #2282606654, $13.37+$1.63 USD Hold'em No Limit - Level VIII (100/200) - 2018/04/21 18:20:45 ET
+Table '2282606654 31' 9-max Seat #7 is the button
+Seat 1: Identity AK (2063 in chips) 
+Seat 2: Ytris1990 (2371 in chips) 
+Seat 3: cocoojones (2542 in chips) 
+Seat 4: resurse (9697 in chips) 
+Seat 5: ollikahn23 (2367 in chips) 
+Seat 6: vJakey (2349 in chips) 
+Seat 7: CYBER_BOS228 (5337 in chips) 
+Seat 8: ZaKoshitze (1743 in chips) 
+Identity AK: posts the ante 25
+Ytris1990: posts the ante 25
+cocoojones: posts the ante 25
+resurse: posts the ante 25
+ollikahn23: posts the ante 25
+vJakey: posts the ante 25
+CYBER_BOS228: posts the ante 25
+ZaKoshitze: posts the ante 25
+ZaKoshitze: posts small blind 100
+Identity AK: posts big blind 200
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kd Kh]
+Ytris1990: raises 1900 to 2100
+cocoojones: folds 
+resurse: folds 
+ollikahn23: raises 242 to 2342 and is all-in
+vJakey: folds 
+CYBER_BOS228: folds 
+ZaKoshitze: folds 
+Identity AK: folds 
+Ytris1990: calls 242
+*** FLOP *** [9s Ts 6d]
+*** TURN *** [9s Ts 6d] [Qh]
+*** RIVER *** [9s Ts 6d Qh] [Kc]
+*** SHOW DOWN ***
+Ytris1990: shows [Jc Jh] (a straight, Nine to King)
+ollikahn23: shows [Kd Kh] (three of a kind, Kings)
+Ytris1990 collected 5184 from pot
+ollikahn23 finished the tournament
+*** SUMMARY ***
+Total pot 5184 | Rake 0 
+Board [9s Ts 6d Qh Kc]
+Seat 1: Identity AK (big blind) folded before Flop
+Seat 2: Ytris1990 showed [Jc Jh] and won (5184) with a straight, Nine to King
+Seat 3: cocoojones folded before Flop (didn't bet)
+Seat 4: resurse folded before Flop (didn't bet)
+Seat 5: ollikahn23 showed [Kd Kh] and lost with three of a kind, Kings
+Seat 6: vJakey folded before Flop (didn't bet)
+Seat 7: CYBER_BOS228 (button) folded before Flop (didn't bet)
+Seat 8: ZaKoshitze (small blind) folded before Flop
+
+
+
