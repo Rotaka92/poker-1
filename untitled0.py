@@ -721,8 +721,103 @@ hh.hero.combo
 
 ###################   space for the essential - THE HANDS #################
 
+
+
 HAND1 = """
-PokerStars Hand #183001414583:  Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 19:47:59 ET
+PokerStars Hand #167865096867: Tournament #1859440577, $3.40+$0.10 USD Hold'em No Limit - Level II (15/30) - 2013/10/04 19:53:27 CET [2013/10/04 13:53:27 ET]
+Table '1859440577 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (225 in chips)
+Seat 2: 44tom44 (775 in chips)
+ollikahn23: posts small blind 15
+44tom44: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2s Ac]
+ollikahn23: raises 195 to 225 and is all-in
+44tom44: calls 195
+*** FLOP *** [8d 7s Jc]
+*** TURN *** [8d 7s Jc] [Kc]
+*** RIVER *** [8d 7s Jc Kc] [Qs]
+*** SHOW DOWN ***
+44tom44: shows [Th Qd] (a pair of Queens)
+ollikahn23: shows [2s Ac] (high card Ace)
+44tom44 collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | Rake 0
+Board [8d 7s Jc Kc Qs]
+Seat 1: ollikahn23 (button) (small blind) showed [2s Ac] and lost with high card Ace
+Seat 2: 44tom44 (big blind) showed [Th Qd] and won (450) with a pair of Queens
+"""
+
+
+HAND1 = """
+PokerStars Hand #182153559719: Tournament #2211561885, $4.10+$0.40 USD Hold'em No Limit - Level VI (100/200) - 2013/10/04 19:53:27 CET [2013/10/04 13:53:27 ET]
+Table '2211561885 2' 9-max Seat #3 is the button
+Seat 1: Yolo19 (8680 in chips)
+Seat 2: neuiwirt28 (16091 in chips)
+Seat 3: waddenzicht (6695 in chips)
+Seat 4: RUBL72 (4599 in chips)
+Seat 5: Jahjge (5716 in chips)
+Seat 6: AlekseyK7777 (6670 in chips)
+Seat 7: RTS-Rob (6326 in chips)
+Seat 8: ollikahn23 (8786 in chips)
+Seat 9: ionelinho28 (2643 in chips)
+Yolo19: posts the ante 20
+neuiwirt28: posts the ante 20
+waddenzicht: posts the ante 20
+RUBL72: posts the ante 20
+Jahjge: posts the ante 20
+AlekseyK7777: posts the ante 20
+RTS-Rob: posts the ante 20
+ollikahn23: posts the ante 20
+ionelinho28: posts the ante 20
+RUBL72: posts small blind 100
+Jahjge: posts big blind 200
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6h 6s]
+AlekseyK7777: raises 200 to 400
+RTS-Rob: calls 400
+ollikahn23: calls 400
+ionelinho28: raises 2223 to 2623 and is all-in
+Yolo19: folds
+neuiwirt28: folds
+waddenzicht: folds
+RUBL72: folds
+Jahjge: folds
+AlekseyK7777: folds
+RTS-Rob: folds
+ollikahn23: calls 2223
+*** FLOP *** [4h Jh 8h]
+*** TURN *** [4h Jh 8h] [9c]
+*** RIVER *** [4h Jh 8h 9c] [6d]
+*** SHOW DOWN ***
+ollikahn23: shows [6h 6s] (three of a kind, Sixes)
+ionelinho28: shows [Jc Kc] (a pair of Jacks)
+ollikahn23 collected 6526 from pot
+ionelinho28 finished the tournament in 27th place
+*** SUMMARY ***
+Total pot 6526 | Rake 0
+Board [4h Jh 8h 9c 6d]
+Seat 1: Yolo19 folded before Flop (didn't bet)
+Seat 2: neuiwirt28 folded before Flop (didn't bet)
+Seat 3: waddenzicht (button) folded before Flop (didn't bet)
+Seat 4: RUBL72 (small blind) folded before Flop
+Seat 5: Jahjge (big blind) folded before Flop
+Seat 6: AlekseyK7777 folded before Flop
+Seat 7: RTS-Rob folded before Flop
+Seat 8: ollikahn23 showed [6h 6s] and won (6526) with three of a kind, Sixes
+Seat 9: ionelinho28 showed [Jc Kc] and lost with a pair of Jacks
+"""
+
+
+
+
+
+
+
+
+
+HAND1 = """
+PokerStars Hand #183001414583: Hold'em No Limit ($0.05/$0.10 USD) - 2018/02/24 19:47:59 ET
 Table 'Sarin' 9-max Seat #8 is the button
 Seat 1: ollikahn23 ($10 in chips) 
 Seat 2: your_drama1 ($18.73 in chips) 
@@ -825,116 +920,54 @@ Seat 7: RTS-Rob showed [Tc 9c] and lost with a pair of Eights
 Seat 8: ollikahn23 showed [7h 7s] and won (11837) with a full house, Sevens full of Eights"""
 
 
-HAND1 = """
-PokerStars Hand #182153559719: Tournament #2211561885, $4.10+$0.40 USD Hold'em No Limit - Level VI (100/200) - 2013/10/04 19:53:27 CET [2013/10/04 13:53:27 ET]
-Table '2211561885 2' 9-max Seat #3 is the button
-Seat 1: Yolo19 (8680 in chips)
-Seat 2: neuiwirt28 (16091 in chips)
-Seat 3: waddenzicht (6695 in chips)
-Seat 4: RUBL72 (4599 in chips)
-Seat 5: Jahjge (5716 in chips)
-Seat 6: AlekseyK7777 (6670 in chips)
-Seat 7: RTS-Rob (6326 in chips)
-Seat 8: ollikahn23 (8786 in chips)
-Seat 9: ionelinho28 (2643 in chips)
-Yolo19: posts the ante 20
-neuiwirt28: posts the ante 20
-waddenzicht: posts the ante 20
-RUBL72: posts the ante 20
-Jahjge: posts the ante 20
-AlekseyK7777: posts the ante 20
-RTS-Rob: posts the ante 20
-ollikahn23: posts the ante 20
-ionelinho28: posts the ante 20
-RUBL72: posts small blind 100
-Jahjge: posts big blind 200
-*** HOLE CARDS ***
-Dealt to ollikahn23 [6h 6s]
-AlekseyK7777: raises 200 to 400
-RTS-Rob: calls 400
-ollikahn23: calls 400
-ionelinho28: raises 2223 to 2623 and is all-in
-Yolo19: folds
-neuiwirt28: folds
-waddenzicht: folds
-RUBL72: folds
-Jahjge: folds
-AlekseyK7777: folds
-RTS-Rob: folds
-ollikahn23: calls 2223
-*** FLOP *** [4h Jh 8h]
-*** TURN *** [4h Jh 8h] [9c]
-*** RIVER *** [4h Jh 8h 9c] [6d]
-*** SHOW DOWN ***
-ollikahn23: shows [6h 6s] (three of a kind, Sixes)
-ionelinho28: shows [Jc Kc] (a pair of Jacks)
-ollikahn23 collected 6526 from pot
-ionelinho28 finished the tournament in 27th place
-*** SUMMARY ***
-Total pot 6526 | Rake 0
-Board [4h Jh 8h 9c 6d]
-Seat 1: Yolo19 folded before Flop (didn't bet)
-Seat 2: neuiwirt28 folded before Flop (didn't bet)
-Seat 3: waddenzicht (button) folded before Flop (didn't bet)
-Seat 4: RUBL72 (small blind) folded before Flop
-Seat 5: Jahjge (big blind) folded before Flop
-Seat 6: AlekseyK7777 folded before Flop
-Seat 7: RTS-Rob folded before Flop
-Seat 8: ollikahn23 showed [6h 6s] and won (6526) with three of a kind, Sixes
-Seat 9: ionelinho28 showed [Jc Kc] and lost with a pair of Jacks"""
+
 
 HAND1 = """
-PokerStars Hand #183649371977: Tournament #2244789271, $4.10+$0.40 USD Hold'em No Limit - Level IX (200/400) - 2018/03/10 11:29:54 ET
-Table '2244789271 8' 9-max Seat #5 is the button
-Seat 2: L'éternité (18498 in chips) 
-Seat 3: ollikahn23 (7440 in chips) 
-Seat 4: Jacobob_Jr (4513 in chips) 
-Seat 5: kidkid84 (7853 in chips) 
-Seat 6: MoAKs70 (4738 in chips) 
-Seat 8: Matt242 (18838 in chips) 
-Seat 9: Alt4y (12010 in chips) 
-L'éternité: posts the ante 50
-ollikahn23: posts the ante 50
-Jacobob_Jr: posts the ante 50
-kidkid84: posts the ante 50
-MoAKs70: posts the ante 50
-Matt242: posts the ante 50
-Alt4y: posts the ante 50
-MoAKs70: posts small blind 200
-Matt242: posts big blind 400
+PokerStars Hand #138364355489: Tournament #1280727192, $3.19+$0.31 USD Hold'em No Limit - Level VIII (150/300) - 2015/07/22 2:17:55 BRT [2015/07/22 1:17:55 ET]
+Table '1280727192 2' 9-max Seat #5 is the button
+Seat 3: py3k (2388 in chips)
+Seat 4: Sky_Shanks (3751 in chips)
+Seat 5: rockrock568 (2041 in chips)
+Seat 6: SiickTico (8831 in chips)
+Seat 7: SanSuhan (1890 in chips)
+Seat 8: allbluff78 (4615 in chips)
+Seat 9: shakuni8492 (5713 in chips)
+py3k: posts the ante 25
+Sky_Shanks: posts the ante 25
+rockrock568: posts the ante 25
+SiickTico: posts the ante 25
+SanSuhan: posts the ante 25
+allbluff78: posts the ante 25
+shakuni8492: posts the ante 25
+SiickTico: posts small blind 150
+SanSuhan: posts big blind 300
 *** HOLE CARDS ***
-Dealt to ollikahn23 [Qs Qc]
-Alt4y: folds 
-L'éternité: raises 500 to 900
-ollikahn23: calls 900
-Jacobob_Jr: folds 
-kidkid84: folds 
-MoAKs70: folds 
-Matt242: folds 
-*** FLOP *** [Ad Js Ks]
-L'éternité: bets 908
-ollikahn23: calls 908
-*** TURN *** [Ad Js Ks] [5s]
-L'éternité: bets 1507
-ollikahn23: raises 2093 to 3600
-L'éternité: calls 2093
-*** RIVER *** [Ad Js Ks 5s] [3c]
-L'éternité: bets 2000
-ollikahn23: calls 1982 and is all-in
-Uncalled bet (18) returned to L'éternité
+Dealt to py3k [Js 3s]
+allbluff78: folds
+shakuni8492: folds
+py3k: raises 2063 to 2363 and is all-in
+Sky_Shanks: raises 1363 to 3726 and is all-in
+rockrock568: folds
+SiickTico: folds
+SanSuhan: folds
+Uncalled bet (1363) returned to Sky_Shanks
+*** FLOP *** [Ts Td As]
+*** TURN *** [Ts Td As] [Jd]
+*** RIVER *** [Ts Td As Jd] [2c]
 *** SHOW DOWN ***
-L'éternité: shows [As 9s] (a flush, Ace high)
-ollikahn23: shows [Qs Qc] (a pair of Queens)
-L'éternité collected 15730 from pot
-ollikahn23 finished the tournament in 14th place and received $5.93.
+py3k: shows [Js 3s] (two pair, Jacks and Tens)
+Sky_Shanks: shows [Kc Qc] (a straight, Ten to Ace)
+Sky_Shanks collected 5351 from pot
+py3k finished the tournament in 14th place
 *** SUMMARY ***
-Total pot 15730 | Rake 0 
-Board [Ad Js Ks 5s 3c]
-Seat 2: L'éternité showed [As 9s] and won (15730) with a flush, Ace high
-Seat 3: ollikahn23 showed [Qs Qc] and lost with a pair of Queens
-Seat 4: Jacobob_Jr folded before Flop (didn't bet)
-Seat 5: kidkid84 (button) folded before Flop (didn't bet)
-Seat 6: MoAKs70 (small blind) folded before Flop
-Seat 8: Matt242 (big blind) folded before Flop
-Seat 9: Alt4y folded before Flop (didn't bet)"""
+Total pot 5351 | Rake 0
+Board [Ts Td As Jd 2c]
+Seat 3: py3k showed [Js 3s] and lost with two pair, Jacks and Tens
+Seat 4: Sky_Shanks showed [Kc Qc] and won (5351) with a straight, Ten to Ace
+Seat 5: rockrock568 (button) folded before Flop (didn't bet)
+Seat 6: SiickTico (small blind) folded before Flop
+Seat 7: SanSuhan (big blind) folded before Flop
+Seat 8: allbluff78 folded before Flop (didn't bet)
+Seat 9: shakuni8492 folded before Flop (didn't bet)
+"""
 
