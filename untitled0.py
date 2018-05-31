@@ -327,21 +327,20 @@ hand = [
 
 #calculating our equity preflop, regarding the count of players
 
-<<<<<<< HEAD
+
 
 p11 = 0                 #how often do we win
 p22 = 0                 #how often opponents win
 opp = NotOut            #how many opponents are still in the game in that moment, we have to make a decision
 playerHero_hand = hand  #our hand
 
-=======
+
 
 p11 = 0                 #how often do we win
 p22 = 0                 #how often opponents win
 opp = NotOut            #how many opponents are still in the game in that moment, we have to make a decision
 playerHero_hand = hand  #our hand
 
->>>>>>> 75629a37b8a9bc8359ee27446ce2b7dd957d00ee
 
 start_time = time.time()
 for i in range(20000):   
@@ -658,18 +657,7 @@ if any('raises' in v[j] for j in range(len(v[:i]))) and t != 2 and t != 1:
                 
                 if addr1-addWe < p.stack:
                     potOdds1 = float((addr1-addWe)/potSize3)
->>>>>>> 75629a37b8a9bc8359ee27446ce2b7dd957d00ee
 
-
-
-p11 = 0                 #how often do we win
-p22 = 0                 #how often opponents win
-opp = NotOut            #how many opponents are still in the game in that moment, we have to make a decision
-playerHero_hand = hand  #our hand
-
-<<<<<<< HEAD
-=======
-    
 
 
 
@@ -678,7 +666,15 @@ p22 = 0                 #how often opponents win
 opp = NotOut            #how many opponents are still in the game in that moment, we have to make a decision
 playerHero_hand = hand  #our hand
 
->>>>>>> 75629a37b8a9bc8359ee27446ce2b7dd957d00ee
+
+
+
+
+p11 = 0                 #how often do we win
+p22 = 0                 #how often opponents win
+opp = NotOut            #how many opponents are still in the game in that moment, we have to make a decision
+playerHero_hand = hand  #our hand
+
 
 start_time = time.time()
 for i in range(20000):   
@@ -856,6 +852,7 @@ from poker.room.pokerstars import PokerStarsHandHistory
 hh = PokerStarsHandHistory(HAND1)
 hh.parse()
 
+
 hh.max_players
 hh.players
 hh.button
@@ -885,9 +882,36 @@ hh.hero.combo
 
 
 
-<<<<<<< HEAD
 HAND1 = """
-PokerStars Hand #167865096867: Tournament #1859440577, $3.40+$0.10 USD Hold'em No Limit - Level II (15/30) - 2013/10/04 19:53:27 CET [2013/10/04 13:53:27 ET]
+PokerStars Hand #167865096867: Tournament #1859440577, $3.40+$0.10 USD Hold'em No Limit - Level I (15/30) - 2013/10/04 19:53:27 CET [2013/10/04 13:53:27 ET]
+Table '1859440577 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (225 in chips)
+Seat 2: 44tom44 (775 in chips)
+ollikahn23: posts small blind 15
+44tom44: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2s Ac]
+ollikahn23: raises 195 to 225 and is all-in
+44tom44: calls 195
+*** FLOP *** [8d 7s Jc]
+*** TURN *** [8d 7s Jc] [Kc]
+*** RIVER *** [8d 7s Jc Kc] [Qs]
+*** SHOW DOWN ***
+44tom44: shows [Th Qd] (a pair of Queens)
+ollikahn23: shows [2s Ac] (high card Ace)
+44tom44 collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | Rake 0
+Board [8d 7s Jc Kc Qs]
+Seat 1: ollikahn23 (button) (small blind) showed [2s Ac] and lost with high card Ace
+Seat 2: 44tom44 (big blind) showed [Th Qd] and won (450) with a pair of Queens"""
+
+
+
+
+
+HAND1 = """
+PokerStars Hand #167865096867: Tournament #1859440577, $3.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (15/30) - 2013/10/04 19:53:27 CET [2013/10/04 13:53:27 ET]
 Table '1859440577 1' 2-max Seat #1 is the button
 Seat 1: ollikahn23 (225 in chips)
 Seat 2: 44tom44 (775 in chips)
@@ -910,6 +934,9 @@ Board [8d 7s Jc Kc Qs]
 Seat 1: ollikahn23 (button) (small blind) showed [2s Ac] and lost with high card Ace
 Seat 2: 44tom44 (big blind) showed [Th Qd] and won (450) with a pair of Queens
 """
+
+
+
 
 
 HAND1 = """
@@ -970,6 +997,46 @@ Seat 7: RTS-Rob folded before Flop
 Seat 8: ollikahn23 showed [6h 6s] and won (6526) with three of a kind, Sixes
 Seat 9: ionelinho28 showed [Jc Kc] and lost with a pair of Jacks
 """
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
