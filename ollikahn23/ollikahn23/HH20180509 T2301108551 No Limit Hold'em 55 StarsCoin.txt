@@ -1,0 +1,431 @@
+﻿PokerStars Hand #186229320273: Tournament #2301108551, 55 SC Hold'em No Limit - Level I (25/50) - 2018/05/10 1:36:46 CET [2018/05/09 19:36:46 ET]
+Table '2301108551 1' 6-max Seat #1 is the button
+Seat 1: ollikahn23 (500 in chips) 
+Seat 2: Allleksiy3 (500 in chips) 
+Seat 3: pokerman_pot (500 in chips) 
+Seat 4: BerettaM92 (500 in chips) 
+Seat 5: robsonabdala (500 in chips) 
+Seat 6: FrodoBolseir (500 in chips) 
+ollikahn23: posts the ante 10
+Allleksiy3: posts the ante 10
+pokerman_pot: posts the ante 10
+BerettaM92: posts the ante 10
+robsonabdala: posts the ante 10
+FrodoBolseir: posts the ante 10
+Allleksiy3: posts small blind 25
+pokerman_pot: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3h Jh]
+BerettaM92: folds 
+robsonabdala: raises 50 to 100
+FrodoBolseir: calls 100
+ollikahn23: folds 
+Allleksiy3: calls 75
+pokerman_pot: calls 50
+*** FLOP *** [6h Kd Th]
+Allleksiy3: bets 390 and is all-in
+pokerman_pot: folds 
+robsonabdala: calls 390 and is all-in
+FrodoBolseir: folds 
+*** TURN *** [6h Kd Th] [7d]
+*** RIVER *** [6h Kd Th 7d] [Kh]
+*** SHOW DOWN ***
+Allleksiy3: shows [Kc 2s] (three of a kind, Kings)
+robsonabdala: shows [Ts Ks] (a full house, Kings full of Tens)
+robsonabdala collected 1240 from pot
+Allleksiy3 finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 1240 | Rake 0 
+Board [6h Kd Th 7d Kh]
+Seat 1: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 2: Allleksiy3 (small blind) showed [Kc 2s] and lost with three of a kind, Kings
+Seat 3: pokerman_pot (big blind) folded on the Flop
+Seat 4: BerettaM92 folded before Flop (didn't bet)
+Seat 5: robsonabdala showed [Ts Ks] and won (1240) with a full house, Kings full of Tens
+Seat 6: FrodoBolseir folded on the Flop
+
+
+
+PokerStars Hand #186229343317: Tournament #2301108551, 55 SC Hold'em No Limit - Level I (25/50) - 2018/05/10 1:37:33 CET [2018/05/09 19:37:33 ET]
+Table '2301108551 1' 6-max Seat #3 is the button
+Seat 1: ollikahn23 (490 in chips) 
+Seat 3: pokerman_pot (390 in chips) 
+Seat 4: BerettaM92 (490 in chips) 
+Seat 5: robsonabdala (1240 in chips) 
+Seat 6: FrodoBolseir (390 in chips) 
+ollikahn23: posts the ante 10
+pokerman_pot: posts the ante 10
+BerettaM92: posts the ante 10
+robsonabdala: posts the ante 10
+FrodoBolseir: posts the ante 10
+BerettaM92: posts small blind 25
+robsonabdala: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qc 6s]
+FrodoBolseir: folds 
+ollikahn23: folds 
+pokerman_pot: folds 
+BerettaM92: folds 
+Uncalled bet (25) returned to robsonabdala
+robsonabdala collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 3: pokerman_pot (button) folded before Flop (didn't bet)
+Seat 4: BerettaM92 (small blind) folded before Flop
+Seat 5: robsonabdala (big blind) collected (100)
+Seat 6: FrodoBolseir folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #186229346629: Tournament #2301108551, 55 SC Hold'em No Limit - Level I (25/50) - 2018/05/10 1:37:40 CET [2018/05/09 19:37:40 ET]
+Table '2301108551 1' 6-max Seat #4 is the button
+Seat 1: ollikahn23 (480 in chips) 
+Seat 3: pokerman_pot (380 in chips) 
+Seat 4: BerettaM92 (455 in chips) 
+Seat 5: robsonabdala (1305 in chips) 
+Seat 6: FrodoBolseir (380 in chips) 
+ollikahn23: posts the ante 10
+pokerman_pot: posts the ante 10
+BerettaM92: posts the ante 10
+robsonabdala: posts the ante 10
+FrodoBolseir: posts the ante 10
+robsonabdala: posts small blind 25
+FrodoBolseir: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Tc Kd]
+ollikahn23: raises 50 to 100
+pokerman_pot: raises 270 to 370 and is all-in
+BerettaM92: folds 
+robsonabdala: folds 
+FrodoBolseir: calls 320 and is all-in
+ollikahn23: folds 
+*** FLOP *** [3s 5h 3d]
+*** TURN *** [3s 5h 3d] [7c]
+*** RIVER *** [3s 5h 3d 7c] [5d]
+*** SHOW DOWN ***
+FrodoBolseir: shows [As Kh] (two pair, Fives and Threes)
+pokerman_pot: shows [Ah 9s] (two pair, Fives and Threes)
+FrodoBolseir collected 458 from pot
+pokerman_pot collected 457 from pot
+*** SUMMARY ***
+Total pot 915 | Rake 0 
+Board [3s 5h 3d 7c 5d]
+Seat 1: ollikahn23 folded before Flop
+Seat 3: pokerman_pot showed [Ah 9s] and won (457) with two pair, Fives and Threes
+Seat 4: BerettaM92 (button) folded before Flop (didn't bet)
+Seat 5: robsonabdala (small blind) folded before Flop
+Seat 6: FrodoBolseir (big blind) showed [As Kh] and won (458) with two pair, Fives and Threes
+
+
+
+PokerStars Hand #186229356752: Tournament #2301108551, 55 SC Hold'em No Limit - Level I (25/50) - 2018/05/10 1:38:00 CET [2018/05/09 19:38:00 ET]
+Table '2301108551 1' 6-max Seat #5 is the button
+Seat 1: ollikahn23 (370 in chips) 
+Seat 3: pokerman_pot (457 in chips) 
+Seat 4: BerettaM92 (445 in chips) 
+Seat 5: robsonabdala (1270 in chips) 
+Seat 6: FrodoBolseir (458 in chips) 
+ollikahn23: posts the ante 10
+pokerman_pot: posts the ante 10
+BerettaM92: posts the ante 10
+robsonabdala: posts the ante 10
+FrodoBolseir: posts the ante 10
+FrodoBolseir: posts small blind 25
+ollikahn23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qd Th]
+pokerman_pot: folds 
+BerettaM92: calls 50
+robsonabdala: folds 
+FrodoBolseir: raises 50 to 100
+ollikahn23: calls 50
+BerettaM92: calls 50
+*** FLOP *** [Tc Ac 8h]
+FrodoBolseir: bets 175
+ollikahn23: raises 85 to 260 and is all-in
+BerettaM92: calls 260
+FrodoBolseir: folds 
+*** TURN *** [Tc Ac 8h] [As]
+*** RIVER *** [Tc Ac 8h As] [Qs]
+*** SHOW DOWN ***
+ollikahn23: shows [Qd Th] (two pair, Aces and Queens)
+BerettaM92: shows [Qh Ts] (two pair, Aces and Queens)
+ollikahn23 collected 523 from pot
+BerettaM92 collected 522 from pot
+*** SUMMARY ***
+Total pot 1045 | Rake 0 
+Board [Tc Ac 8h As Qs]
+Seat 1: ollikahn23 (big blind) showed [Qd Th] and won (523) with two pair, Aces and Queens
+Seat 3: pokerman_pot folded before Flop (didn't bet)
+Seat 4: BerettaM92 showed [Qh Ts] and won (522) with two pair, Aces and Queens
+Seat 5: robsonabdala (button) folded before Flop (didn't bet)
+Seat 6: FrodoBolseir (small blind) folded on the Flop
+
+
+
+PokerStars Hand #186229369483: Tournament #2301108551, 55 SC Hold'em No Limit - Level I (25/50) - 2018/05/10 1:38:27 CET [2018/05/09 19:38:27 ET]
+Table '2301108551 1' 6-max Seat #6 is the button
+Seat 1: ollikahn23 (523 in chips) 
+Seat 3: pokerman_pot (447 in chips) 
+Seat 4: BerettaM92 (597 in chips) 
+Seat 5: robsonabdala (1260 in chips) 
+Seat 6: FrodoBolseir (173 in chips) 
+ollikahn23: posts the ante 10
+pokerman_pot: posts the ante 10
+BerettaM92: posts the ante 10
+robsonabdala: posts the ante 10
+FrodoBolseir: posts the ante 10
+ollikahn23: posts small blind 25
+pokerman_pot: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2s Th]
+BerettaM92: calls 50
+robsonabdala: folds 
+FrodoBolseir: folds 
+ollikahn23: folds 
+pokerman_pot: checks 
+*** FLOP *** [7s 8d Jd]
+pokerman_pot: checks 
+BerettaM92: bets 175
+pokerman_pot: folds 
+Uncalled bet (175) returned to BerettaM92
+BerettaM92 collected 175 from pot
+*** SUMMARY ***
+Total pot 175 | Rake 0 
+Board [7s 8d Jd]
+Seat 1: ollikahn23 (small blind) folded before Flop
+Seat 3: pokerman_pot (big blind) folded on the Flop
+Seat 4: BerettaM92 collected (175)
+Seat 5: robsonabdala folded before Flop (didn't bet)
+Seat 6: FrodoBolseir (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #186229383235: Tournament #2301108551, 55 SC Hold'em No Limit - Level I (25/50) - 2018/05/10 1:38:55 CET [2018/05/09 19:38:55 ET]
+Table '2301108551 1' 6-max Seat #1 is the button
+Seat 1: ollikahn23 (488 in chips) 
+Seat 3: pokerman_pot (387 in chips) 
+Seat 4: BerettaM92 (712 in chips) 
+Seat 5: robsonabdala (1250 in chips) 
+Seat 6: FrodoBolseir (163 in chips) 
+ollikahn23: posts the ante 10
+pokerman_pot: posts the ante 10
+BerettaM92: posts the ante 10
+robsonabdala: posts the ante 10
+FrodoBolseir: posts the ante 10
+pokerman_pot: posts small blind 25
+BerettaM92: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jc Jh]
+robsonabdala: raises 50 to 100
+FrodoBolseir: folds 
+ollikahn23: raises 378 to 478 and is all-in
+pokerman_pot: folds 
+BerettaM92: folds 
+robsonabdala: folds 
+Uncalled bet (378) returned to ollikahn23
+ollikahn23 collected 325 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 325 | Rake 0 
+Seat 1: ollikahn23 (button) collected (325)
+Seat 3: pokerman_pot (small blind) folded before Flop
+Seat 4: BerettaM92 (big blind) folded before Flop
+Seat 5: robsonabdala folded before Flop
+Seat 6: FrodoBolseir folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #186229395306: Tournament #2301108551, 55 SC Hold'em No Limit - Level I (25/50) - 2018/05/10 1:39:19 CET [2018/05/09 19:39:19 ET]
+Table '2301108551 1' 6-max Seat #3 is the button
+Seat 1: ollikahn23 (703 in chips) 
+Seat 3: pokerman_pot (352 in chips) 
+Seat 4: BerettaM92 (652 in chips) 
+Seat 5: robsonabdala (1140 in chips) 
+Seat 6: FrodoBolseir (153 in chips) 
+ollikahn23: posts the ante 10
+pokerman_pot: posts the ante 10
+BerettaM92: posts the ante 10
+robsonabdala: posts the ante 10
+FrodoBolseir: posts the ante 10
+BerettaM92: posts small blind 25
+robsonabdala: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3s Th]
+FrodoBolseir: raises 93 to 143 and is all-in
+ollikahn23: folds 
+pokerman_pot: folds 
+BerettaM92: calls 118
+robsonabdala: calls 93
+*** FLOP *** [8h Qd 9d]
+BerettaM92: bets 240
+robsonabdala: raises 747 to 987 and is all-in
+BerettaM92: calls 259 and is all-in
+Uncalled bet (488) returned to robsonabdala
+*** TURN *** [8h Qd 9d] [6h]
+*** RIVER *** [8h Qd 9d 6h] [2s]
+*** SHOW DOWN ***
+BerettaM92: shows [Td 8c] (a pair of Eights)
+robsonabdala: shows [9c Ad] (a pair of Nines)
+robsonabdala collected 998 from side pot
+FrodoBolseir: shows [3h 7s] (high card Queen)
+robsonabdala collected 479 from main pot
+BerettaM92 finished the tournament in 4th place
+FrodoBolseir finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 1477 Main pot 479. Side pot 998. | Rake 0 
+Board [8h Qd 9d 6h 2s]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 3: pokerman_pot (button) folded before Flop (didn't bet)
+Seat 4: BerettaM92 (small blind) showed [Td 8c] and lost with a pair of Eights
+Seat 5: robsonabdala (big blind) showed [9c Ad] and won (1477) with a pair of Nines
+Seat 6: FrodoBolseir showed [3h 7s] and lost with high card Queen
+
+
+
+PokerStars Hand #186229407225: Tournament #2301108551, 55 SC Hold'em No Limit - Level I (25/50) - 2018/05/10 1:39:44 CET [2018/05/09 19:39:44 ET]
+Table '2301108551 1' 6-max Seat #5 is the button
+Seat 1: ollikahn23 (693 in chips) 
+Seat 3: pokerman_pot (342 in chips) 
+Seat 5: robsonabdala (1965 in chips) 
+ollikahn23: posts the ante 10
+pokerman_pot: posts the ante 10
+robsonabdala: posts the ante 10
+ollikahn23: posts small blind 25
+pokerman_pot: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7h 4c]
+robsonabdala: folds 
+ollikahn23: folds 
+Uncalled bet (25) returned to pokerman_pot
+pokerman_pot collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: ollikahn23 (small blind) folded before Flop
+Seat 3: pokerman_pot (big blind) collected (80)
+Seat 5: robsonabdala (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #186229413259: Tournament #2301108551, 55 SC Hold'em No Limit - Level I (25/50) - 2018/05/10 1:39:56 CET [2018/05/09 19:39:56 ET]
+Table '2301108551 1' 6-max Seat #1 is the button
+Seat 1: ollikahn23 (658 in chips) 
+Seat 3: pokerman_pot (387 in chips) 
+Seat 5: robsonabdala (1955 in chips) 
+ollikahn23: posts the ante 10
+pokerman_pot: posts the ante 10
+robsonabdala: posts the ante 10
+pokerman_pot: posts small blind 25
+robsonabdala: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ts 4h]
+ollikahn23: folds 
+pokerman_pot: raises 327 to 377 and is all-in
+robsonabdala: folds 
+Uncalled bet (327) returned to pokerman_pot
+pokerman_pot collected 130 from pot
+*** SUMMARY ***
+Total pot 130 | Rake 0 
+Seat 1: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 3: pokerman_pot (small blind) collected (130)
+Seat 5: robsonabdala (big blind) folded before Flop
+
+
+
+PokerStars Hand #186229421087: Tournament #2301108551, 55 SC Hold'em No Limit - Level II (50/100) - 2018/05/10 1:40:12 CET [2018/05/09 19:40:12 ET]
+Table '2301108551 1' 6-max Seat #3 is the button
+Seat 1: ollikahn23 (648 in chips) 
+Seat 3: pokerman_pot (457 in chips) 
+Seat 5: robsonabdala (1895 in chips) 
+ollikahn23: posts the ante 20
+pokerman_pot: posts the ante 20
+robsonabdala: posts the ante 20
+robsonabdala: posts small blind 50
+ollikahn23: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8s 8d]
+pokerman_pot: raises 337 to 437 and is all-in
+robsonabdala: folds 
+ollikahn23: calls 337
+*** FLOP *** [As 5s Kc]
+*** TURN *** [As 5s Kc] [6d]
+*** RIVER *** [As 5s Kc 6d] [4h]
+*** SHOW DOWN ***
+ollikahn23: shows [8s 8d] (a pair of Eights)
+pokerman_pot: shows [Ad Qh] (a pair of Aces)
+pokerman_pot collected 984 from pot
+*** SUMMARY ***
+Total pot 984 | Rake 0 
+Board [As 5s Kc 6d 4h]
+Seat 1: ollikahn23 (big blind) showed [8s 8d] and lost with a pair of Eights
+Seat 3: pokerman_pot (button) showed [Ad Qh] and won (984) with a pair of Aces
+Seat 5: robsonabdala (small blind) folded before Flop
+
+
+
+PokerStars Hand #186229432636: Tournament #2301108551, 55 SC Hold'em No Limit - Level II (50/100) - 2018/05/10 1:40:36 CET [2018/05/09 19:40:36 ET]
+Table '2301108551 1' 6-max Seat #5 is the button
+Seat 1: ollikahn23 (191 in chips) 
+Seat 3: pokerman_pot (984 in chips) 
+Seat 5: robsonabdala (1825 in chips) 
+ollikahn23: posts the ante 20
+pokerman_pot: posts the ante 20
+robsonabdala: posts the ante 20
+ollikahn23: posts small blind 50
+pokerman_pot: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5c 8s]
+robsonabdala: folds 
+ollikahn23: raises 71 to 171 and is all-in
+pokerman_pot: calls 71
+*** FLOP *** [Jc 8d 8c]
+*** TURN *** [Jc 8d 8c] [5h]
+*** RIVER *** [Jc 8d 8c 5h] [3h]
+*** SHOW DOWN ***
+ollikahn23: shows [5c 8s] (a full house, Eights full of Fives)
+pokerman_pot: shows [3s 9d] (two pair, Eights and Threes)
+ollikahn23 collected 402 from pot
+*** SUMMARY ***
+Total pot 402 | Rake 0 
+Board [Jc 8d 8c 5h 3h]
+Seat 1: ollikahn23 (small blind) showed [5c 8s] and won (402) with a full house, Eights full of Fives
+Seat 3: pokerman_pot (big blind) showed [3s 9d] and lost with two pair, Eights and Threes
+Seat 5: robsonabdala (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #186229440805: Tournament #2301108551, 55 SC Hold'em No Limit - Level II (50/100) - 2018/05/10 1:40:53 CET [2018/05/09 19:40:53 ET]
+Table '2301108551 1' 6-max Seat #1 is the button
+Seat 1: ollikahn23 (402 in chips) 
+Seat 3: pokerman_pot (793 in chips) 
+Seat 5: robsonabdala (1805 in chips) 
+ollikahn23: posts the ante 20
+pokerman_pot: posts the ante 20
+robsonabdala: posts the ante 20
+pokerman_pot: posts small blind 50
+robsonabdala: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9c Qd]
+ollikahn23: raises 282 to 382 and is all-in
+pokerman_pot: raises 391 to 773 and is all-in
+robsonabdala: calls 673
+*** FLOP *** [2s Ac Ks]
+*** TURN *** [2s Ac Ks] [5s]
+*** RIVER *** [2s Ac Ks 5s] [8d]
+*** SHOW DOWN ***
+pokerman_pot: shows [Jh As] (a pair of Aces)
+robsonabdala: shows [9s 9h] (a pair of Nines)
+pokerman_pot collected 782 from side pot
+ollikahn23: shows [9c Qd] (high card Ace)
+pokerman_pot collected 1206 from main pot
+ollikahn23 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1988 Main pot 1206. Side pot 782. | Rake 0 
+Board [2s Ac Ks 5s 8d]
+Seat 1: ollikahn23 (button) showed [9c Qd] and lost with high card Ace
+Seat 3: pokerman_pot (small blind) showed [Jh As] and won (1988) with a pair of Aces
+Seat 5: robsonabdala (big blind) showed [9s 9h] and lost with a pair of Nines
+
+
+

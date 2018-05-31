@@ -1,0 +1,2322 @@
+﻿PokerStars Hand #183850885803: Tournament #2249303160, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/03/14 16:23:36 ET
+Table '2249303160 3' 9-max Seat #5 is the button
+Seat 1: ollikahn23 (1500 in chips) 
+Seat 2: Royalhead (2599 in chips) 
+Seat 3: llsawell (1377 in chips) 
+Seat 4: RayZMax (1267 in chips) 
+Seat 5: foma8955 (827 in chips) 
+Seat 6: Hamishtw (1442 in chips) 
+Seat 8: ThePradaPunk (1488 in chips) 
+Seat 9: RicardoForti (2239 in chips) 
+ollikahn23: posts the ante 3
+Royalhead: posts the ante 3
+llsawell: posts the ante 3
+RayZMax: posts the ante 3
+foma8955: posts the ante 3
+Hamishtw: posts the ante 3
+ThePradaPunk: posts the ante 3
+RicardoForti: posts the ante 3
+Hamishtw: posts small blind 10
+ThePradaPunk: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ks 2h]
+RicardoForti: folds 
+ollikahn23: folds 
+Royalhead: folds 
+llsawell: folds 
+RayZMax: folds 
+foma8955: raises 40 to 60
+Hamishtw: folds 
+ThePradaPunk: folds 
+Uncalled bet (40) returned to foma8955
+foma8955 collected 74 from pot
+foma8955: doesn't show hand 
+*** SUMMARY ***
+Total pot 74 | Rake 0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: Royalhead folded before Flop (didn't bet)
+Seat 3: llsawell folded before Flop (didn't bet)
+Seat 4: RayZMax folded before Flop (didn't bet)
+Seat 5: foma8955 (button) collected (74)
+Seat 6: Hamishtw (small blind) folded before Flop
+Seat 8: ThePradaPunk (big blind) folded before Flop
+Seat 9: RicardoForti folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183850910753: Tournament #2249303160, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/03/14 16:24:06 ET
+Table '2249303160 3' 9-max Seat #6 is the button
+Seat 1: ollikahn23 (1497 in chips) 
+Seat 2: Royalhead (2596 in chips) 
+Seat 4: RayZMax (1264 in chips) 
+Seat 5: foma8955 (878 in chips) 
+Seat 6: Hamishtw (1429 in chips) 
+Seat 8: ThePradaPunk (1465 in chips) 
+Seat 9: RicardoForti (2236 in chips) 
+ollikahn23: posts the ante 3
+Royalhead: posts the ante 3
+RayZMax: posts the ante 3
+foma8955: posts the ante 3
+Hamishtw: posts the ante 3
+ThePradaPunk: posts the ante 3
+RicardoForti: posts the ante 3
+ThePradaPunk: posts small blind 10
+RicardoForti: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jh 2d]
+ollikahn23: folds 
+Royalhead: folds 
+RayZMax: folds 
+foma8955: folds 
+Hamishtw: raises 40 to 60
+ThePradaPunk: raises 161 to 221
+RicardoForti: folds 
+Hamishtw: calls 161
+*** FLOP *** [5c 6c 2h]
+ThePradaPunk: bets 300
+Hamishtw: calls 300
+*** TURN *** [5c 6c 2h] [Ts]
+ThePradaPunk: bets 941 and is all-in
+Hamishtw: folds 
+Uncalled bet (941) returned to ThePradaPunk
+ThePradaPunk collected 1083 from pot
+ThePradaPunk: doesn't show hand 
+*** SUMMARY ***
+Total pot 1083 | Rake 0 
+Board [5c 6c 2h Ts]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: Royalhead folded before Flop (didn't bet)
+Seat 4: RayZMax folded before Flop (didn't bet)
+Seat 5: foma8955 folded before Flop (didn't bet)
+Seat 6: Hamishtw (button) folded on the Turn
+Seat 8: ThePradaPunk (small blind) collected (1083)
+Seat 9: RicardoForti (big blind) folded before Flop
+
+
+
+PokerStars Hand #183850975382: Tournament #2249303160, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/03/14 16:25:25 ET
+Table '2249303160 3' 9-max Seat #8 is the button
+Seat 1: ollikahn23 (1494 in chips) 
+Seat 2: Royalhead (2593 in chips) 
+Seat 3: TulioMB (1063 in chips) 
+Seat 4: RayZMax (1261 in chips) 
+Seat 5: foma8955 (875 in chips) 
+Seat 6: Hamishtw (905 in chips) 
+Seat 8: ThePradaPunk (2024 in chips) 
+Seat 9: RicardoForti (2213 in chips) 
+ollikahn23: posts the ante 3
+Royalhead: posts the ante 3
+TulioMB: posts the ante 3
+RayZMax: posts the ante 3
+foma8955: posts the ante 3
+Hamishtw: posts the ante 3
+ThePradaPunk: posts the ante 3
+RicardoForti: posts the ante 3
+RicardoForti: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ks 2d]
+Royalhead: raises 40 to 60
+TulioMB: folds 
+RayZMax: folds 
+foma8955: folds 
+Hamishtw: calls 60
+ThePradaPunk: folds 
+RicardoForti: folds 
+ollikahn23: folds 
+*** FLOP *** [8s Tc Kd]
+Royalhead: bets 90
+Hamishtw: folds 
+Uncalled bet (90) returned to Royalhead
+Royalhead collected 174 from pot
+*** SUMMARY ***
+Total pot 174 | Rake 0 
+Board [8s Tc Kd]
+Seat 1: ollikahn23 (big blind) folded before Flop
+Seat 2: Royalhead collected (174)
+Seat 3: TulioMB folded before Flop (didn't bet)
+Seat 4: RayZMax folded before Flop (didn't bet)
+Seat 5: foma8955 folded before Flop (didn't bet)
+Seat 6: Hamishtw folded on the Flop
+Seat 8: ThePradaPunk (button) folded before Flop (didn't bet)
+Seat 9: RicardoForti (small blind) folded before Flop
+
+
+
+PokerStars Hand #183851018439: Tournament #2249303160, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/03/14 16:26:18 ET
+Table '2249303160 3' 9-max Seat #9 is the button
+Seat 1: ollikahn23 (1471 in chips) 
+Seat 2: Royalhead (2704 in chips) 
+Seat 3: TulioMB (1060 in chips) 
+Seat 4: RayZMax (1258 in chips) 
+Seat 5: foma8955 (872 in chips) 
+Seat 6: Hamishtw (842 in chips) 
+Seat 7: razzedido (1500 in chips) 
+Seat 8: ThePradaPunk (2021 in chips) 
+Seat 9: RicardoForti (2200 in chips) 
+ollikahn23: posts the ante 3
+Royalhead: posts the ante 3
+TulioMB: posts the ante 3
+RayZMax: posts the ante 3
+foma8955: posts the ante 3
+Hamishtw: posts the ante 3
+razzedido: posts the ante 3
+ThePradaPunk: posts the ante 3
+RicardoForti: posts the ante 3
+ollikahn23: posts small blind 10
+Royalhead: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5s 8s]
+TulioMB: folds 
+RayZMax: folds 
+foma8955: folds 
+Hamishtw: folds 
+razzedido: folds 
+ThePradaPunk: folds 
+RicardoForti: folds 
+ollikahn23: folds 
+Uncalled bet (10) returned to Royalhead
+Royalhead collected 47 from pot
+*** SUMMARY ***
+Total pot 47 | Rake 0 
+Seat 1: ollikahn23 (small blind) folded before Flop
+Seat 2: Royalhead (big blind) collected (47)
+Seat 3: TulioMB folded before Flop (didn't bet)
+Seat 4: RayZMax folded before Flop (didn't bet)
+Seat 5: foma8955 folded before Flop (didn't bet)
+Seat 6: Hamishtw folded before Flop (didn't bet)
+Seat 7: razzedido folded before Flop (didn't bet)
+Seat 8: ThePradaPunk folded before Flop (didn't bet)
+Seat 9: RicardoForti (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183851057231: Tournament #2249303160, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/14 16:27:04 ET
+Table '2249303160 3' 9-max Seat #1 is the button
+Seat 1: ollikahn23 (1458 in chips) 
+Seat 2: Royalhead (2738 in chips) 
+Seat 3: TulioMB (1057 in chips) 
+Seat 4: RayZMax (1255 in chips) 
+Seat 6: Hamishtw (839 in chips) 
+Seat 7: razzedido (1497 in chips) 
+Seat 8: ThePradaPunk (2018 in chips) 
+Seat 9: RicardoForti (2197 in chips) 
+ollikahn23: posts the ante 4
+Royalhead: posts the ante 4
+TulioMB: posts the ante 4
+RayZMax: posts the ante 4
+Hamishtw: posts the ante 4
+razzedido: posts the ante 4
+ThePradaPunk: posts the ante 4
+RicardoForti: posts the ante 4
+Royalhead: posts small blind 15
+TulioMB: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5s 9h]
+RayZMax: folds 
+Hamishtw: folds 
+razzedido: raises 60 to 90
+ThePradaPunk: folds 
+RicardoForti: folds 
+ollikahn23: folds 
+Royalhead: folds 
+TulioMB: calls 60
+*** FLOP *** [Jc Qd 9c]
+TulioMB: bets 118
+razzedido: folds 
+Uncalled bet (118) returned to TulioMB
+TulioMB collected 227 from pot
+TulioMB: doesn't show hand 
+*** SUMMARY ***
+Total pot 227 | Rake 0 
+Board [Jc Qd 9c]
+Seat 1: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 2: Royalhead (small blind) folded before Flop
+Seat 3: TulioMB (big blind) collected (227)
+Seat 4: RayZMax folded before Flop (didn't bet)
+Seat 6: Hamishtw folded before Flop (didn't bet)
+Seat 7: razzedido folded on the Flop
+Seat 8: ThePradaPunk folded before Flop (didn't bet)
+Seat 9: RicardoForti folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183851108088: Tournament #2249303160, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/14 16:28:06 ET
+Table '2249303160 3' 9-max Seat #2 is the button
+Seat 1: ollikahn23 (1454 in chips) 
+Seat 2: Royalhead (2719 in chips) 
+Seat 3: TulioMB (1190 in chips) 
+Seat 4: RayZMax (1251 in chips) 
+Seat 6: Hamishtw (835 in chips) 
+Seat 7: razzedido (1403 in chips) 
+Seat 8: ThePradaPunk (2014 in chips) 
+Seat 9: RicardoForti (2193 in chips) 
+ollikahn23: posts the ante 4
+Royalhead: posts the ante 4
+TulioMB: posts the ante 4
+RayZMax: posts the ante 4
+Hamishtw: posts the ante 4
+razzedido: posts the ante 4
+ThePradaPunk: posts the ante 4
+RicardoForti: posts the ante 4
+TulioMB: posts small blind 15
+RayZMax: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Tc 6d]
+Hamishtw: raises 60 to 90
+razzedido: folds 
+ThePradaPunk: folds 
+RicardoForti: raises 180 to 270
+ollikahn23: folds 
+Royalhead: folds 
+TulioMB: folds 
+RayZMax: folds 
+Hamishtw: raises 561 to 831 and is all-in
+RicardoForti: calls 561
+*** FLOP *** [4c Jd 9h]
+*** TURN *** [4c Jd 9h] [5c]
+*** RIVER *** [4c Jd 9h 5c] [5h]
+*** SHOW DOWN ***
+Hamishtw: shows [8h 8c] (two pair, Eights and Fives)
+RicardoForti: shows [Ad Qs] (a pair of Fives)
+Hamishtw collected 1739 from pot
+*** SUMMARY ***
+Total pot 1739 | Rake 0 
+Board [4c Jd 9h 5c 5h]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: Royalhead (button) folded before Flop (didn't bet)
+Seat 3: TulioMB (small blind) folded before Flop
+Seat 4: RayZMax (big blind) folded before Flop
+Seat 6: Hamishtw showed [8h 8c] and won (1739) with two pair, Eights and Fives
+Seat 7: razzedido folded before Flop (didn't bet)
+Seat 8: ThePradaPunk folded before Flop (didn't bet)
+Seat 9: RicardoForti showed [Ad Qs] and lost with a pair of Fives
+
+
+
+PokerStars Hand #183851149265: Tournament #2249303160, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/14 16:28:57 ET
+Table '2249303160 3' 9-max Seat #3 is the button
+Seat 1: ollikahn23 (1450 in chips) 
+Seat 2: Royalhead (2715 in chips) 
+Seat 3: TulioMB (1171 in chips) 
+Seat 4: RayZMax (1217 in chips) 
+Seat 6: Hamishtw (1739 in chips) 
+Seat 7: razzedido (1399 in chips) 
+Seat 8: ThePradaPunk (2010 in chips) 
+Seat 9: RicardoForti (1358 in chips) 
+ollikahn23: posts the ante 4
+Royalhead: posts the ante 4
+TulioMB: posts the ante 4
+RayZMax: posts the ante 4
+Hamishtw: posts the ante 4
+razzedido: posts the ante 4
+ThePradaPunk: posts the ante 4
+RicardoForti: posts the ante 4
+RayZMax: posts small blind 15
+Hamishtw: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ks 9h]
+razzedido: folds 
+ThePradaPunk: folds 
+RicardoForti: folds 
+ollikahn23: folds 
+Royalhead: folds 
+TulioMB: raises 46 to 76
+RayZMax: folds 
+Hamishtw: folds 
+Uncalled bet (46) returned to TulioMB
+TulioMB collected 107 from pot
+TulioMB: doesn't show hand 
+*** SUMMARY ***
+Total pot 107 | Rake 0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: Royalhead folded before Flop (didn't bet)
+Seat 3: TulioMB (button) collected (107)
+Seat 4: RayZMax (small blind) folded before Flop
+Seat 6: Hamishtw (big blind) folded before Flop
+Seat 7: razzedido folded before Flop (didn't bet)
+Seat 8: ThePradaPunk folded before Flop (didn't bet)
+Seat 9: RicardoForti folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183851193894: Tournament #2249303160, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/14 16:29:50 ET
+Table '2249303160 3' 9-max Seat #4 is the button
+Seat 1: ollikahn23 (1446 in chips) 
+Seat 2: Royalhead (2711 in chips) 
+Seat 3: TulioMB (1244 in chips) 
+Seat 4: RayZMax (1198 in chips) 
+Seat 5: peitorama (1500 in chips) out of hand (moved from another table into small blind)
+Seat 6: Hamishtw (1705 in chips) 
+Seat 7: razzedido (1395 in chips) 
+Seat 8: ThePradaPunk (2006 in chips) 
+Seat 9: RicardoForti (1354 in chips) 
+peitorama will be allowed to play after the button
+ollikahn23: posts the ante 4
+Royalhead: posts the ante 4
+TulioMB: posts the ante 4
+RayZMax: posts the ante 4
+Hamishtw: posts the ante 4
+razzedido: posts the ante 4
+ThePradaPunk: posts the ante 4
+RicardoForti: posts the ante 4
+Hamishtw: posts small blind 15
+razzedido: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [As 6d]
+ThePradaPunk: folds 
+RicardoForti: folds 
+ollikahn23: folds 
+Royalhead: folds 
+TulioMB: folds 
+RayZMax: folds 
+Hamishtw: calls 15
+razzedido: checks 
+*** FLOP *** [7c 9h 4h]
+Hamishtw: checks 
+razzedido: checks 
+*** TURN *** [7c 9h 4h] [Ah]
+Hamishtw: bets 30
+razzedido: folds 
+Uncalled bet (30) returned to Hamishtw
+Hamishtw collected 92 from pot
+*** SUMMARY ***
+Total pot 92 | Rake 0 
+Board [7c 9h 4h Ah]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: Royalhead folded before Flop (didn't bet)
+Seat 3: TulioMB folded before Flop (didn't bet)
+Seat 4: RayZMax (button) folded before Flop (didn't bet)
+Seat 6: Hamishtw (small blind) collected (92)
+Seat 7: razzedido (big blind) folded on the Turn
+Seat 8: ThePradaPunk folded before Flop (didn't bet)
+Seat 9: RicardoForti folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183851236449: Tournament #2249303160, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/14 16:30:41 ET
+Table '2249303160 3' 9-max Seat #6 is the button
+Seat 1: ollikahn23 (1442 in chips) 
+Seat 2: Royalhead (2707 in chips) 
+Seat 3: TulioMB (1240 in chips) 
+Seat 4: RayZMax (1194 in chips) 
+Seat 5: peitorama (1500 in chips) 
+Seat 6: Hamishtw (1763 in chips) 
+Seat 7: razzedido (1361 in chips) 
+Seat 8: ThePradaPunk (2002 in chips) 
+Seat 9: RicardoForti (1350 in chips) 
+ollikahn23: posts the ante 4
+Royalhead: posts the ante 4
+TulioMB: posts the ante 4
+RayZMax: posts the ante 4
+peitorama: posts the ante 4
+Hamishtw: posts the ante 4
+razzedido: posts the ante 4
+ThePradaPunk: posts the ante 4
+RicardoForti: posts the ante 4
+razzedido: posts small blind 15
+ThePradaPunk: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7h 8s]
+RicardoForti: folds 
+ollikahn23: folds 
+Royalhead: folds 
+TulioMB: raises 46 to 76
+RayZMax: folds 
+peitorama: folds 
+Hamishtw: folds 
+Royalhead is disconnected 
+razzedido: folds 
+ThePradaPunk: calls 46
+*** FLOP *** [9c 6c Jc]
+ThePradaPunk: checks 
+TulioMB: bets 59
+ThePradaPunk: calls 59
+*** TURN *** [9c 6c Jc] [Td]
+ThePradaPunk: checks 
+TulioMB: checks 
+*** RIVER *** [9c 6c Jc Td] [Kd]
+ThePradaPunk: checks 
+TulioMB: checks 
+*** SHOW DOWN ***
+ThePradaPunk: shows [6d Ad] (a pair of Sixes)
+TulioMB: mucks hand 
+ThePradaPunk collected 321 from pot
+*** SUMMARY ***
+Total pot 321 | Rake 0 
+Board [9c 6c Jc Td Kd]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: Royalhead folded before Flop (didn't bet)
+Seat 3: TulioMB mucked [3d 3s]
+Seat 4: RayZMax folded before Flop (didn't bet)
+Seat 5: peitorama folded before Flop (didn't bet)
+Seat 6: Hamishtw (button) folded before Flop (didn't bet)
+Seat 7: razzedido (small blind) folded before Flop
+Seat 8: ThePradaPunk (big blind) showed [6d Ad] and won (321) with a pair of Sixes
+Seat 9: RicardoForti folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183851322456: Tournament #2249303160, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/14 16:32:25 ET
+Table '2249303160 3' 9-max Seat #7 is the button
+Seat 1: ollikahn23 (1438 in chips) 
+Seat 2: Royalhead (2703 in chips) 
+Seat 3: TulioMB (1101 in chips) 
+Seat 4: RayZMax (1190 in chips) 
+Seat 5: peitorama (1496 in chips) 
+Seat 6: Hamishtw (1759 in chips) 
+Seat 7: razzedido (1342 in chips) 
+Seat 8: ThePradaPunk (2184 in chips) 
+Seat 9: RicardoForti (1346 in chips) 
+ollikahn23: posts the ante 4
+Royalhead: posts the ante 4
+TulioMB: posts the ante 4
+RayZMax: posts the ante 4
+peitorama: posts the ante 4
+Hamishtw: posts the ante 4
+razzedido: posts the ante 4
+ThePradaPunk: posts the ante 4
+RicardoForti: posts the ante 4
+ThePradaPunk: posts small blind 15
+RicardoForti: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2d 5h]
+ollikahn23: folds 
+Royalhead: folds 
+TulioMB: folds 
+RayZMax: folds 
+peitorama: folds 
+Hamishtw: raises 60 to 90
+razzedido: folds 
+ThePradaPunk: folds 
+RicardoForti: folds 
+Uncalled bet (60) returned to Hamishtw
+Hamishtw collected 111 from pot
+*** SUMMARY ***
+Total pot 111 | Rake 0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: Royalhead folded before Flop (didn't bet)
+Seat 3: TulioMB folded before Flop (didn't bet)
+Seat 4: RayZMax folded before Flop (didn't bet)
+Seat 5: peitorama folded before Flop (didn't bet)
+Seat 6: Hamishtw collected (111)
+Seat 7: razzedido (button) folded before Flop (didn't bet)
+Seat 8: ThePradaPunk (small blind) folded before Flop
+Seat 9: RicardoForti (big blind) folded before Flop
+
+
+
+PokerStars Hand #183851349140: Tournament #2249303160, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/14 16:32:57 ET
+Table '2249303160 3' 9-max Seat #8 is the button
+Seat 1: ollikahn23 (1434 in chips) 
+Seat 2: Royalhead (2699 in chips) 
+Seat 3: TulioMB (1097 in chips) 
+Seat 4: RayZMax (1186 in chips) 
+Seat 5: peitorama (1492 in chips) 
+Seat 6: Hamishtw (1836 in chips) 
+Seat 7: razzedido (1338 in chips) 
+Seat 8: ThePradaPunk (2165 in chips) 
+Seat 9: RicardoForti (1312 in chips) 
+ollikahn23: posts the ante 4
+Royalhead: posts the ante 4
+TulioMB: posts the ante 4
+RayZMax: posts the ante 4
+peitorama: posts the ante 4
+Hamishtw: posts the ante 4
+razzedido: posts the ante 4
+ThePradaPunk: posts the ante 4
+RicardoForti: posts the ante 4
+RicardoForti: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8d Kc]
+Royalhead: raises 60 to 90
+TulioMB: folds 
+RayZMax: folds 
+peitorama: folds 
+Hamishtw: folds 
+razzedido: folds 
+ThePradaPunk: folds 
+RicardoForti: folds 
+ollikahn23: calls 60
+*** FLOP *** [4c 8h Ac]
+ollikahn23: checks 
+Royalhead: bets 120
+ollikahn23: folds 
+Uncalled bet (120) returned to Royalhead
+Royalhead collected 231 from pot
+*** SUMMARY ***
+Total pot 231 | Rake 0 
+Board [4c 8h Ac]
+Seat 1: ollikahn23 (big blind) folded on the Flop
+Seat 2: Royalhead collected (231)
+Seat 3: TulioMB folded before Flop (didn't bet)
+Seat 4: RayZMax folded before Flop (didn't bet)
+Seat 5: peitorama folded before Flop (didn't bet)
+Seat 6: Hamishtw folded before Flop (didn't bet)
+Seat 7: razzedido folded before Flop (didn't bet)
+Seat 8: ThePradaPunk (button) folded before Flop (didn't bet)
+Seat 9: RicardoForti (small blind) folded before Flop
+
+
+
+PokerStars Hand #183851402665: Tournament #2249303160, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/14 16:34:02 ET
+Table '2249303160 3' 9-max Seat #9 is the button
+Seat 1: ollikahn23 (1340 in chips) 
+Seat 2: Royalhead (2836 in chips) 
+Seat 3: TulioMB (1093 in chips) 
+Seat 4: RayZMax (1182 in chips) 
+Seat 5: peitorama (1488 in chips) 
+Seat 6: Hamishtw (1832 in chips) 
+Seat 7: razzedido (1334 in chips) 
+Seat 8: ThePradaPunk (2161 in chips) 
+Seat 9: RicardoForti (1293 in chips) 
+ollikahn23: posts the ante 4
+Royalhead: posts the ante 4
+TulioMB: posts the ante 4
+RayZMax: posts the ante 4
+peitorama: posts the ante 4
+Hamishtw: posts the ante 4
+razzedido: posts the ante 4
+ThePradaPunk: posts the ante 4
+RicardoForti: posts the ante 4
+ollikahn23: posts small blind 15
+Royalhead: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Th Ks]
+TulioMB: folds 
+RayZMax: raises 45 to 75
+peitorama: folds 
+Hamishtw: folds 
+razzedido: folds 
+ThePradaPunk: folds 
+RicardoForti: folds 
+ollikahn23: calls 60
+Royalhead: folds 
+*** FLOP *** [6d 8s 5s]
+ollikahn23: checks 
+RayZMax: bets 105
+ollikahn23: folds 
+Uncalled bet (105) returned to RayZMax
+RayZMax collected 216 from pot
+RayZMax: doesn't show hand 
+*** SUMMARY ***
+Total pot 216 | Rake 0 
+Board [6d 8s 5s]
+Seat 1: ollikahn23 (small blind) folded on the Flop
+Seat 2: Royalhead (big blind) folded before Flop
+Seat 3: TulioMB folded before Flop (didn't bet)
+Seat 4: RayZMax collected (216)
+Seat 5: peitorama folded before Flop (didn't bet)
+Seat 6: Hamishtw folded before Flop (didn't bet)
+Seat 7: razzedido folded before Flop (didn't bet)
+Seat 8: ThePradaPunk folded before Flop (didn't bet)
+Seat 9: RicardoForti (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183851471038: Tournament #2249303160, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/14 16:35:24 ET
+Table '2249303160 3' 9-max Seat #1 is the button
+Seat 1: ollikahn23 (1261 in chips) 
+Seat 2: Royalhead (2802 in chips) 
+Seat 3: TulioMB (1089 in chips) 
+Seat 4: RayZMax (1319 in chips) 
+Seat 5: peitorama (1484 in chips) 
+Seat 6: Hamishtw (1828 in chips) 
+Seat 7: razzedido (1330 in chips) 
+Seat 8: ThePradaPunk (2157 in chips) 
+Seat 9: RicardoForti (1289 in chips) 
+ollikahn23: posts the ante 4
+Royalhead: posts the ante 4
+TulioMB: posts the ante 4
+RayZMax: posts the ante 4
+peitorama: posts the ante 4
+Hamishtw: posts the ante 4
+razzedido: posts the ante 4
+ThePradaPunk: posts the ante 4
+RicardoForti: posts the ante 4
+Royalhead: posts small blind 15
+TulioMB: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7h 9h]
+RayZMax: folds 
+peitorama: folds 
+Hamishtw: folds 
+razzedido: folds 
+ThePradaPunk: folds 
+RicardoForti: folds 
+ollikahn23: raises 30 to 60
+Royalhead: folds 
+TulioMB: folds 
+Uncalled bet (30) returned to ollikahn23
+ollikahn23 collected 111 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 111 | Rake 0 
+Seat 1: ollikahn23 (button) collected (111)
+Seat 2: Royalhead (small blind) folded before Flop
+Seat 3: TulioMB (big blind) folded before Flop
+Seat 4: RayZMax folded before Flop (didn't bet)
+Seat 5: peitorama folded before Flop (didn't bet)
+Seat 6: Hamishtw folded before Flop (didn't bet)
+Seat 7: razzedido folded before Flop (didn't bet)
+Seat 8: ThePradaPunk folded before Flop (didn't bet)
+Seat 9: RicardoForti folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183851505507: Tournament #2249303160, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/14 16:36:06 ET
+Table '2249303160 3' 9-max Seat #2 is the button
+Seat 1: ollikahn23 (1338 in chips) 
+Seat 2: Royalhead (2783 in chips) 
+Seat 3: TulioMB (1055 in chips) 
+Seat 4: RayZMax (1315 in chips) 
+Seat 5: peitorama (1480 in chips) 
+Seat 6: Hamishtw (1824 in chips) 
+Seat 7: razzedido (1326 in chips) 
+Seat 8: ThePradaPunk (2153 in chips) 
+Seat 9: RicardoForti (1285 in chips) 
+ollikahn23: posts the ante 4
+Royalhead: posts the ante 4
+TulioMB: posts the ante 4
+RayZMax: posts the ante 4
+peitorama: posts the ante 4
+Hamishtw: posts the ante 4
+razzedido: posts the ante 4
+ThePradaPunk: posts the ante 4
+RicardoForti: posts the ante 4
+TulioMB: posts small blind 15
+RayZMax: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3c As]
+peitorama: raises 34 to 64
+Hamishtw: folds 
+razzedido: folds 
+ThePradaPunk: folds 
+RicardoForti: folds 
+ollikahn23: folds 
+Royalhead: folds 
+TulioMB: folds 
+RayZMax: folds 
+Uncalled bet (34) returned to peitorama
+peitorama collected 111 from pot
+peitorama: doesn't show hand 
+*** SUMMARY ***
+Total pot 111 | Rake 0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: Royalhead (button) folded before Flop (didn't bet)
+Seat 3: TulioMB (small blind) folded before Flop
+Seat 4: RayZMax (big blind) folded before Flop
+Seat 5: peitorama collected (111)
+Seat 6: Hamishtw folded before Flop (didn't bet)
+Seat 7: razzedido folded before Flop (didn't bet)
+Seat 8: ThePradaPunk folded before Flop (didn't bet)
+Seat 9: RicardoForti folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183851544892: Tournament #2249303160, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/14 16:36:53 ET
+Table '2249303160 3' 9-max Seat #3 is the button
+Seat 1: ollikahn23 (1334 in chips) 
+Seat 2: Royalhead (2779 in chips) 
+Seat 3: TulioMB (1036 in chips) 
+Seat 4: RayZMax (1281 in chips) 
+Seat 5: peitorama (1557 in chips) 
+Seat 6: Hamishtw (1820 in chips) 
+Seat 7: razzedido (1322 in chips) 
+Seat 8: ThePradaPunk (2149 in chips) 
+Seat 9: RicardoForti (1281 in chips) 
+ollikahn23: posts the ante 4
+Royalhead: posts the ante 4
+TulioMB: posts the ante 4
+RayZMax: posts the ante 4
+peitorama: posts the ante 4
+Hamishtw: posts the ante 4
+razzedido: posts the ante 4
+ThePradaPunk: posts the ante 4
+RicardoForti: posts the ante 4
+RayZMax: posts small blind 15
+peitorama: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4s 4h]
+Hamishtw: folds 
+razzedido: folds 
+ThePradaPunk: raises 45 to 75
+RicardoForti: folds 
+ollikahn23: calls 75
+Royalhead: calls 75
+TulioMB: folds 
+RayZMax: folds 
+peitorama: folds 
+*** FLOP *** [Td 5c 3s]
+ThePradaPunk: checks 
+ollikahn23: checks 
+Royalhead: bets 165
+ThePradaPunk: folds 
+ollikahn23: folds 
+Uncalled bet (165) returned to Royalhead
+Royalhead collected 306 from pot
+*** SUMMARY ***
+Total pot 306 | Rake 0 
+Board [Td 5c 3s]
+Seat 1: ollikahn23 folded on the Flop
+Seat 2: Royalhead collected (306)
+Seat 3: TulioMB (button) folded before Flop (didn't bet)
+Seat 4: RayZMax (small blind) folded before Flop
+Seat 5: peitorama (big blind) folded before Flop
+Seat 6: Hamishtw folded before Flop (didn't bet)
+Seat 7: razzedido folded before Flop (didn't bet)
+Seat 8: ThePradaPunk folded on the Flop
+Seat 9: RicardoForti folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183851603136: Tournament #2249303160, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/14 16:38:02 ET
+Table '2249303160 3' 9-max Seat #4 is the button
+Seat 1: ollikahn23 (1255 in chips) 
+Seat 2: Royalhead (3006 in chips) 
+Seat 3: TulioMB (1032 in chips) 
+Seat 4: RayZMax (1262 in chips) 
+Seat 5: peitorama (1523 in chips) 
+Seat 6: Hamishtw (1816 in chips) 
+Seat 7: razzedido (1318 in chips) 
+Seat 9: RicardoForti (1277 in chips) 
+ollikahn23: posts the ante 4
+Royalhead: posts the ante 4
+TulioMB: posts the ante 4
+RayZMax: posts the ante 4
+peitorama: posts the ante 4
+Hamishtw: posts the ante 4
+razzedido: posts the ante 4
+RicardoForti: posts the ante 4
+peitorama: posts small blind 15
+Hamishtw: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Js 8h]
+razzedido has timed out
+razzedido: folds 
+razzedido is sitting out
+RicardoForti: folds 
+ollikahn23: folds 
+Royalhead: raises 60 to 90
+TulioMB: folds 
+RayZMax: folds 
+peitorama: folds 
+Hamishtw: folds 
+Uncalled bet (60) returned to Royalhead
+Royalhead collected 107 from pot
+*** SUMMARY ***
+Total pot 107 | Rake 0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: Royalhead collected (107)
+Seat 3: TulioMB folded before Flop (didn't bet)
+Seat 4: RayZMax (button) folded before Flop (didn't bet)
+Seat 5: peitorama (small blind) folded before Flop
+Seat 6: Hamishtw (big blind) folded before Flop
+Seat 7: razzedido folded before Flop (didn't bet)
+Seat 9: RicardoForti folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183851659267: Tournament #2249303160, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/14 16:39:09 ET
+Table '2249303160 3' 9-max Seat #5 is the button
+Seat 1: ollikahn23 (1251 in chips) 
+Seat 2: Royalhead (3079 in chips) 
+Seat 3: TulioMB (1028 in chips) 
+Seat 4: RayZMax (1258 in chips) 
+Seat 5: peitorama (1504 in chips) 
+Seat 6: Hamishtw (1782 in chips) 
+Seat 7: razzedido (1314 in chips) is sitting out
+Seat 9: RicardoForti (1273 in chips) 
+ollikahn23: posts the ante 4
+Royalhead: posts the ante 4
+TulioMB: posts the ante 4
+RayZMax: posts the ante 4
+peitorama: posts the ante 4
+Hamishtw: posts the ante 4
+razzedido: posts the ante 4
+RicardoForti: posts the ante 4
+Hamishtw: posts small blind 15
+razzedido: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9h As]
+razzedido has returned
+RicardoForti: folds 
+ollikahn23: folds 
+Royalhead: folds 
+TulioMB: raises 46 to 76
+RayZMax: folds 
+peitorama: folds 
+Hamishtw: folds 
+razzedido: raises 74 to 150
+TulioMB: calls 74
+*** FLOP *** [7d 5c Jc]
+razzedido: bets 347
+TulioMB: folds 
+Uncalled bet (347) returned to razzedido
+razzedido collected 347 from pot
+razzedido: doesn't show hand 
+*** SUMMARY ***
+Total pot 347 | Rake 0 
+Board [7d 5c Jc]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: Royalhead folded before Flop (didn't bet)
+Seat 3: TulioMB folded on the Flop
+Seat 4: RayZMax folded before Flop (didn't bet)
+Seat 5: peitorama (button) folded before Flop (didn't bet)
+Seat 6: Hamishtw (small blind) folded before Flop
+Seat 7: razzedido (big blind) collected (347)
+Seat 9: RicardoForti folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183851717525: Tournament #2249303160, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/14 16:40:18 ET
+Table '2249303160 3' 9-max Seat #6 is the button
+Seat 1: ollikahn23 (1247 in chips) 
+Seat 2: Royalhead (3075 in chips) 
+Seat 3: TulioMB (874 in chips) 
+Seat 4: RayZMax (1254 in chips) 
+Seat 5: peitorama (1500 in chips) 
+Seat 6: Hamishtw (1763 in chips) 
+Seat 7: razzedido (1507 in chips) 
+Seat 8: xuxuroots (1500 in chips) 
+Seat 9: RicardoForti (1269 in chips) 
+ollikahn23: posts the ante 4
+Royalhead: posts the ante 4
+TulioMB: posts the ante 4
+RayZMax: posts the ante 4
+peitorama: posts the ante 4
+Hamishtw: posts the ante 4
+razzedido: posts the ante 4
+xuxuroots: posts the ante 4
+RicardoForti: posts the ante 4
+razzedido: posts small blind 15
+xuxuroots: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6s 9h]
+RicardoForti: raises 60 to 90
+ollikahn23: folds 
+Royalhead: folds 
+TulioMB: folds 
+RayZMax: folds 
+peitorama: folds 
+Hamishtw: folds 
+razzedido: folds 
+xuxuroots: calls 60
+*** FLOP *** [Tc As Kd]
+xuxuroots: checks 
+RicardoForti: bets 76
+xuxuroots: folds 
+Uncalled bet (76) returned to RicardoForti
+RicardoForti collected 231 from pot
+*** SUMMARY ***
+Total pot 231 | Rake 0 
+Board [Tc As Kd]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: Royalhead folded before Flop (didn't bet)
+Seat 3: TulioMB folded before Flop (didn't bet)
+Seat 4: RayZMax folded before Flop (didn't bet)
+Seat 5: peitorama folded before Flop (didn't bet)
+Seat 6: Hamishtw (button) folded before Flop (didn't bet)
+Seat 7: razzedido (small blind) folded before Flop
+Seat 8: xuxuroots (big blind) folded on the Flop
+Seat 9: RicardoForti collected (231)
+
+
+
+PokerStars Hand #183851765720: Tournament #2249303160, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/03/14 16:41:15 ET
+Table '2249303160 3' 9-max Seat #7 is the button
+Seat 1: ollikahn23 (1243 in chips) 
+Seat 2: Royalhead (3071 in chips) 
+Seat 3: TulioMB (870 in chips) 
+Seat 4: RayZMax (1250 in chips) 
+Seat 5: peitorama (1496 in chips) 
+Seat 6: Hamishtw (1759 in chips) 
+Seat 7: razzedido (1488 in chips) 
+Seat 8: xuxuroots (1406 in chips) 
+ollikahn23: posts the ante 4
+Royalhead: posts the ante 4
+TulioMB: posts the ante 4
+RayZMax: posts the ante 4
+peitorama: posts the ante 4
+Hamishtw: posts the ante 4
+razzedido: posts the ante 4
+xuxuroots: posts the ante 4
+xuxuroots: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5h 8h]
+Royalhead: folds 
+TulioMB: folds 
+RayZMax: folds 
+peitorama: folds 
+Hamishtw: folds 
+razzedido: folds 
+xuxuroots: folds 
+Uncalled bet (15) returned to ollikahn23
+ollikahn23 collected 62 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 62 | Rake 0 
+Seat 1: ollikahn23 (big blind) collected (62)
+Seat 2: Royalhead folded before Flop (didn't bet)
+Seat 3: TulioMB folded before Flop (didn't bet)
+Seat 4: RayZMax folded before Flop (didn't bet)
+Seat 5: peitorama folded before Flop (didn't bet)
+Seat 6: Hamishtw folded before Flop (didn't bet)
+Seat 7: razzedido (button) folded before Flop (didn't bet)
+Seat 8: xuxuroots (small blind) folded before Flop
+
+
+
+PokerStars Hand #183851797645: Tournament #2249303160, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/03/14 16:41:52 ET
+Table '2249303160 3' 9-max Seat #8 is the button
+Seat 1: ollikahn23 (1286 in chips) 
+Seat 3: TulioMB (866 in chips) 
+Seat 4: RayZMax (1246 in chips) 
+Seat 5: peitorama (1492 in chips) 
+Seat 6: Hamishtw (1755 in chips) 
+Seat 7: razzedido (1484 in chips) 
+Seat 8: xuxuroots (1387 in chips) 
+ollikahn23: posts the ante 6
+TulioMB: posts the ante 6
+RayZMax: posts the ante 6
+peitorama: posts the ante 6
+Hamishtw: posts the ante 6
+razzedido: posts the ante 6
+xuxuroots: posts the ante 6
+ollikahn23: posts small blind 25
+TulioMB: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2h 4d]
+RayZMax: folds 
+peitorama: folds 
+Hamishtw: folds 
+razzedido: folds 
+xuxuroots: folds 
+ollikahn23: folds 
+Uncalled bet (25) returned to TulioMB
+TulioMB collected 92 from pot
+TulioMB: doesn't show hand 
+*** SUMMARY ***
+Total pot 92 | Rake 0 
+Seat 1: ollikahn23 (small blind) folded before Flop
+Seat 3: TulioMB (big blind) collected (92)
+Seat 4: RayZMax folded before Flop (didn't bet)
+Seat 5: peitorama folded before Flop (didn't bet)
+Seat 6: Hamishtw folded before Flop (didn't bet)
+Seat 7: razzedido folded before Flop (didn't bet)
+Seat 8: xuxuroots (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183851809568: Tournament #2249303160, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/03/14 16:42:06 ET
+Table '2249303160 3' 9-max Seat #1 is the button
+Seat 1: ollikahn23 (1255 in chips) 
+Seat 3: TulioMB (927 in chips) 
+Seat 4: RayZMax (1240 in chips) 
+Seat 5: peitorama (1486 in chips) 
+Seat 6: Hamishtw (1749 in chips) 
+Seat 7: razzedido (1478 in chips) 
+Seat 8: xuxuroots (1381 in chips) 
+Seat 9: Emanuel-R$BR (1496 in chips) 
+ollikahn23: posts the ante 6
+TulioMB: posts the ante 6
+RayZMax: posts the ante 6
+peitorama: posts the ante 6
+Hamishtw: posts the ante 6
+razzedido: posts the ante 6
+xuxuroots: posts the ante 6
+Emanuel-R$BR: posts the ante 6
+TulioMB: posts small blind 25
+RayZMax: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5s Ad]
+peitorama: folds 
+Hamishtw: folds 
+razzedido: folds 
+xuxuroots: raises 50 to 100
+Emanuel-R$BR: calls 100
+ollikahn23: folds 
+TulioMB: folds 
+RayZMax: folds 
+*** FLOP *** [Jd 2s 8s]
+xuxuroots: bets 107
+Emanuel-R$BR: calls 107
+*** TURN *** [Jd 2s 8s] [5c]
+xuxuroots: bets 360
+Emanuel-R$BR: folds 
+Uncalled bet (360) returned to xuxuroots
+xuxuroots collected 537 from pot
+xuxuroots: doesn't show hand 
+*** SUMMARY ***
+Total pot 537 | Rake 0 
+Board [Jd 2s 8s 5c]
+Seat 1: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 3: TulioMB (small blind) folded before Flop
+Seat 4: RayZMax (big blind) folded before Flop
+Seat 5: peitorama folded before Flop (didn't bet)
+Seat 6: Hamishtw folded before Flop (didn't bet)
+Seat 7: razzedido folded before Flop (didn't bet)
+Seat 8: xuxuroots collected (537)
+Seat 9: Emanuel-R$BR folded on the Turn
+
+
+
+PokerStars Hand #183851857487: Tournament #2249303160, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/03/14 16:43:03 ET
+Table '2249303160 3' 9-max Seat #3 is the button
+Seat 1: ollikahn23 (1249 in chips) 
+Seat 3: TulioMB (896 in chips) 
+Seat 4: RayZMax (1184 in chips) 
+Seat 5: peitorama (1480 in chips) 
+Seat 6: Hamishtw (1743 in chips) 
+Seat 7: razzedido (1472 in chips) 
+Seat 8: xuxuroots (1705 in chips) 
+Seat 9: Emanuel-R$BR (1283 in chips) 
+ollikahn23: posts the ante 6
+TulioMB: posts the ante 6
+RayZMax: posts the ante 6
+peitorama: posts the ante 6
+Hamishtw: posts the ante 6
+razzedido: posts the ante 6
+xuxuroots: posts the ante 6
+Emanuel-R$BR: posts the ante 6
+RayZMax: posts small blind 25
+peitorama: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3h 6c]
+Hamishtw: raises 100 to 150
+razzedido: folds 
+xuxuroots: folds 
+Emanuel-R$BR: folds 
+ollikahn23: folds 
+TulioMB: folds 
+RayZMax: folds 
+peitorama: calls 100
+*** FLOP *** [Js 9c 5h]
+peitorama: checks 
+Hamishtw: bets 150
+peitorama: folds 
+Uncalled bet (150) returned to Hamishtw
+Hamishtw collected 373 from pot
+*** SUMMARY ***
+Total pot 373 | Rake 0 
+Board [Js 9c 5h]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 3: TulioMB (button) folded before Flop (didn't bet)
+Seat 4: RayZMax (small blind) folded before Flop
+Seat 5: peitorama (big blind) folded on the Flop
+Seat 6: Hamishtw collected (373)
+Seat 7: razzedido folded before Flop (didn't bet)
+Seat 8: xuxuroots folded before Flop (didn't bet)
+Seat 9: Emanuel-R$BR folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183851901555: Tournament #2249303160, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/03/14 16:43:54 ET
+Table '2249303160 3' 9-max Seat #4 is the button
+Seat 1: ollikahn23 (1243 in chips) 
+Seat 3: TulioMB (890 in chips) 
+Seat 4: RayZMax (1153 in chips) 
+Seat 5: peitorama (1324 in chips) 
+Seat 6: Hamishtw (1960 in chips) 
+Seat 7: razzedido (1466 in chips) 
+Seat 8: xuxuroots (1699 in chips) 
+Seat 9: Emanuel-R$BR (1277 in chips) 
+ollikahn23: posts the ante 6
+TulioMB: posts the ante 6
+RayZMax: posts the ante 6
+peitorama: posts the ante 6
+Hamishtw: posts the ante 6
+razzedido: posts the ante 6
+xuxuroots: posts the ante 6
+Emanuel-R$BR: posts the ante 6
+peitorama: posts small blind 25
+Hamishtw: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kc 2s]
+razzedido: folds 
+xuxuroots: folds 
+Emanuel-R$BR: folds 
+ollikahn23: folds 
+TulioMB: raises 77 to 127
+RayZMax: folds 
+peitorama: folds 
+Hamishtw: folds 
+Uncalled bet (77) returned to TulioMB
+TulioMB collected 173 from pot
+TulioMB: doesn't show hand 
+*** SUMMARY ***
+Total pot 173 | Rake 0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 3: TulioMB collected (173)
+Seat 4: RayZMax (button) folded before Flop (didn't bet)
+Seat 5: peitorama (small blind) folded before Flop
+Seat 6: Hamishtw (big blind) folded before Flop
+Seat 7: razzedido folded before Flop (didn't bet)
+Seat 8: xuxuroots folded before Flop (didn't bet)
+Seat 9: Emanuel-R$BR folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183851932538: Tournament #2249303160, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/03/14 16:44:30 ET
+Table '2249303160 3' 9-max Seat #5 is the button
+Seat 1: ollikahn23 (1237 in chips) 
+Seat 3: TulioMB (1007 in chips) 
+Seat 4: RayZMax (1147 in chips) 
+Seat 5: peitorama (1293 in chips) 
+Seat 6: Hamishtw (1904 in chips) 
+Seat 7: razzedido (1460 in chips) 
+Seat 8: xuxuroots (1693 in chips) 
+Seat 9: Emanuel-R$BR (1271 in chips) 
+ollikahn23: posts the ante 6
+TulioMB: posts the ante 6
+RayZMax: posts the ante 6
+peitorama: posts the ante 6
+Hamishtw: posts the ante 6
+razzedido: posts the ante 6
+xuxuroots: posts the ante 6
+Emanuel-R$BR: posts the ante 6
+Hamishtw: posts small blind 25
+razzedido: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qh 9d]
+xuxuroots: folds 
+Emanuel-R$BR: folds 
+ollikahn23: folds 
+TulioMB: folds 
+RayZMax: folds 
+peitorama: raises 57 to 107
+Hamishtw: folds 
+razzedido: folds 
+Uncalled bet (57) returned to peitorama
+peitorama collected 173 from pot
+peitorama: doesn't show hand 
+*** SUMMARY ***
+Total pot 173 | Rake 0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 3: TulioMB folded before Flop (didn't bet)
+Seat 4: RayZMax folded before Flop (didn't bet)
+Seat 5: peitorama (button) collected (173)
+Seat 6: Hamishtw (small blind) folded before Flop
+Seat 7: razzedido (big blind) folded before Flop
+Seat 8: xuxuroots folded before Flop (didn't bet)
+Seat 9: Emanuel-R$BR folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183851974196: Tournament #2249303160, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/03/14 16:45:19 ET
+Table '2249303160 3' 9-max Seat #6 is the button
+Seat 1: ollikahn23 (1231 in chips) 
+Seat 3: TulioMB (1001 in chips) 
+Seat 4: RayZMax (1141 in chips) 
+Seat 5: peitorama (1410 in chips) 
+Seat 6: Hamishtw (1873 in chips) 
+Seat 7: razzedido (1404 in chips) 
+Seat 8: xuxuroots (1687 in chips) 
+Seat 9: Emanuel-R$BR (1265 in chips) 
+ollikahn23: posts the ante 6
+TulioMB: posts the ante 6
+RayZMax: posts the ante 6
+peitorama: posts the ante 6
+Hamishtw: posts the ante 6
+razzedido: posts the ante 6
+xuxuroots: posts the ante 6
+Emanuel-R$BR: posts the ante 6
+razzedido: posts small blind 25
+xuxuroots: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qc 6s]
+Emanuel-R$BR: folds 
+ollikahn23: folds 
+TulioMB: folds 
+RayZMax: folds 
+peitorama: folds 
+Hamishtw: folds 
+razzedido has timed out
+razzedido: folds 
+Uncalled bet (25) returned to xuxuroots
+razzedido is sitting out
+xuxuroots collected 98 from pot
+xuxuroots: doesn't show hand 
+*** SUMMARY ***
+Total pot 98 | Rake 0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 3: TulioMB folded before Flop (didn't bet)
+Seat 4: RayZMax folded before Flop (didn't bet)
+Seat 5: peitorama folded before Flop (didn't bet)
+Seat 6: Hamishtw (button) folded before Flop (didn't bet)
+Seat 7: razzedido (small blind) folded before Flop
+Seat 8: xuxuroots (big blind) collected (98)
+Seat 9: Emanuel-R$BR folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183852004937: Tournament #2249303160, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/03/14 16:45:54 ET
+Table '2249303160 3' 9-max Seat #7 is the button
+Seat 1: ollikahn23 (1225 in chips) 
+Seat 2: Luquinha565 (1500 in chips) 
+Seat 3: TulioMB (995 in chips) 
+Seat 4: RayZMax (1135 in chips) 
+Seat 5: peitorama (1404 in chips) 
+Seat 6: Hamishtw (1867 in chips) 
+Seat 7: razzedido (1373 in chips) is sitting out
+Seat 8: xuxuroots (1754 in chips) 
+Seat 9: Emanuel-R$BR (1259 in chips) 
+ollikahn23: posts the ante 6
+Luquinha565: posts the ante 6
+TulioMB: posts the ante 6
+RayZMax: posts the ante 6
+peitorama: posts the ante 6
+Hamishtw: posts the ante 6
+razzedido: posts the ante 6
+xuxuroots: posts the ante 6
+Emanuel-R$BR: posts the ante 6
+xuxuroots: posts small blind 25
+Emanuel-R$BR: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8d Jh]
+ollikahn23: folds 
+Luquinha565: raises 60 to 110
+TulioMB: folds 
+RayZMax: folds 
+peitorama: folds 
+Hamishtw: calls 110
+razzedido: folds 
+xuxuroots: folds 
+Emanuel-R$BR: folds 
+*** FLOP *** [7d 4c 2s]
+Luquinha565: bets 133
+Hamishtw: calls 133
+*** TURN *** [7d 4c 2s] [As]
+Luquinha565: bets 308
+Hamishtw: calls 308
+*** RIVER *** [7d 4c 2s As] [7c]
+Luquinha565: bets 943 and is all-in
+Hamishtw: calls 943
+*** SHOW DOWN ***
+Luquinha565: shows [Jc 8c] (a pair of Sevens)
+Hamishtw: shows [Js Ad] (two pair, Aces and Sevens)
+Hamishtw collected 3117 from pot
+Luquinha565 finished the tournament
+*** SUMMARY ***
+Total pot 3117 | Rake 0 
+Board [7d 4c 2s As 7c]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: Luquinha565 showed [Jc 8c] and lost with a pair of Sevens
+Seat 3: TulioMB folded before Flop (didn't bet)
+Seat 4: RayZMax folded before Flop (didn't bet)
+Seat 5: peitorama folded before Flop (didn't bet)
+Seat 6: Hamishtw showed [Js Ad] and won (3117) with two pair, Aces and Sevens
+Seat 7: razzedido (button) folded before Flop (didn't bet)
+Seat 8: xuxuroots (small blind) folded before Flop
+Seat 9: Emanuel-R$BR (big blind) folded before Flop
+
+
+
+PokerStars Hand #183852076230: Tournament #2249303160, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/03/14 16:47:15 ET
+Table '2249303160 3' 9-max Seat #8 is the button
+Seat 1: ollikahn23 (1219 in chips) 
+Seat 3: TulioMB (989 in chips) 
+Seat 4: RayZMax (1129 in chips) 
+Seat 5: peitorama (1398 in chips) 
+Seat 6: Hamishtw (3484 in chips) 
+Seat 7: razzedido (1367 in chips) is sitting out
+Seat 8: xuxuroots (1723 in chips) 
+Seat 9: Emanuel-R$BR (1203 in chips) 
+ollikahn23: posts the ante 6
+TulioMB: posts the ante 6
+RayZMax: posts the ante 6
+peitorama: posts the ante 6
+Hamishtw: posts the ante 6
+razzedido: posts the ante 6
+xuxuroots: posts the ante 6
+Emanuel-R$BR: posts the ante 6
+Emanuel-R$BR: posts small blind 25
+ollikahn23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7h 9h]
+TulioMB: folds 
+RayZMax: folds 
+peitorama: folds 
+Hamishtw: folds 
+razzedido: folds 
+xuxuroots: raises 60 to 110
+Emanuel-R$BR: folds 
+ollikahn23: calls 60
+*** FLOP *** [8h 6c Jd]
+ollikahn23: checks 
+xuxuroots: bets 150
+ollikahn23: calls 150
+*** TURN *** [8h 6c Jd] [Ac]
+ollikahn23: bets 250
+xuxuroots: folds 
+Uncalled bet (250) returned to ollikahn23
+ollikahn23 collected 593 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 593 | Rake 0 
+Board [8h 6c Jd Ac]
+Seat 1: ollikahn23 (big blind) collected (593)
+Seat 3: TulioMB folded before Flop (didn't bet)
+Seat 4: RayZMax folded before Flop (didn't bet)
+Seat 5: peitorama folded before Flop (didn't bet)
+Seat 6: Hamishtw folded before Flop (didn't bet)
+Seat 7: razzedido folded before Flop (didn't bet)
+Seat 8: xuxuroots (button) folded on the Turn
+Seat 9: Emanuel-R$BR (small blind) folded before Flop
+
+
+
+PokerStars Hand #183852116327: Tournament #2249303160, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/03/14 16:48:01 ET
+Table '2249303160 3' 9-max Seat #9 is the button
+Seat 1: ollikahn23 (1546 in chips) 
+Seat 2: DommeVis (1500 in chips) 
+Seat 3: TulioMB (983 in chips) 
+Seat 4: RayZMax (1123 in chips) 
+Seat 5: peitorama (1392 in chips) 
+Seat 6: Hamishtw (3478 in chips) 
+Seat 7: razzedido (1361 in chips) is sitting out
+Seat 8: xuxuroots (1457 in chips) 
+Seat 9: Emanuel-R$BR (1172 in chips) 
+ollikahn23: posts the ante 6
+DommeVis: posts the ante 6
+TulioMB: posts the ante 6
+RayZMax: posts the ante 6
+peitorama: posts the ante 6
+Hamishtw: posts the ante 6
+razzedido: posts the ante 6
+xuxuroots: posts the ante 6
+Emanuel-R$BR: posts the ante 6
+ollikahn23: posts small blind 25
+DommeVis: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8s 4d]
+razzedido has returned
+TulioMB: folds 
+RayZMax: folds 
+peitorama: folds 
+Hamishtw: folds 
+razzedido: raises 50 to 100
+xuxuroots: folds 
+Emanuel-R$BR: raises 1066 to 1166 and is all-in
+ollikahn23: folds 
+DommeVis: raises 328 to 1494 and is all-in
+razzedido: folds 
+Uncalled bet (328) returned to DommeVis
+*** FLOP *** [5s 5d 7h]
+*** TURN *** [5s 5d 7h] [4h]
+*** RIVER *** [5s 5d 7h 4h] [2c]
+*** SHOW DOWN ***
+DommeVis: shows [Jd Jh] (two pair, Jacks and Fives)
+Emanuel-R$BR: shows [8c 8h] (two pair, Eights and Fives)
+DommeVis collected 2511 from pot
+Emanuel-R$BR finished the tournament
+*** SUMMARY ***
+Total pot 2511 | Rake 0 
+Board [5s 5d 7h 4h 2c]
+Seat 1: ollikahn23 (small blind) folded before Flop
+Seat 2: DommeVis (big blind) showed [Jd Jh] and won (2511) with two pair, Jacks and Fives
+Seat 3: TulioMB folded before Flop (didn't bet)
+Seat 4: RayZMax folded before Flop (didn't bet)
+Seat 5: peitorama folded before Flop (didn't bet)
+Seat 6: Hamishtw folded before Flop (didn't bet)
+Seat 7: razzedido folded before Flop
+Seat 8: xuxuroots folded before Flop (didn't bet)
+Seat 9: Emanuel-R$BR (button) showed [8c 8h] and lost with two pair, Eights and Fives
+
+
+
+PokerStars Hand #183852182635: Tournament #2249303160, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/03/14 16:49:16 ET
+Table '2249303160 3' 9-max Seat #1 is the button
+Seat 1: ollikahn23 (1515 in chips) 
+Seat 2: DommeVis (2839 in chips) 
+Seat 3: TulioMB (977 in chips) 
+Seat 4: RayZMax (1117 in chips) 
+Seat 5: peitorama (1386 in chips) 
+Seat 6: Hamishtw (3472 in chips) 
+Seat 7: razzedido (1255 in chips) 
+Seat 8: xuxuroots (1451 in chips) 
+ollikahn23: posts the ante 6
+DommeVis: posts the ante 6
+TulioMB: posts the ante 6
+RayZMax: posts the ante 6
+peitorama: posts the ante 6
+Hamishtw: posts the ante 6
+razzedido: posts the ante 6
+xuxuroots: posts the ante 6
+DommeVis: posts small blind 25
+TulioMB: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9c 7h]
+RayZMax: folds 
+peitorama: folds 
+Hamishtw: folds 
+razzedido: folds 
+xuxuroots: folds 
+ollikahn23: raises 50 to 100
+DommeVis: raises 250 to 350
+TulioMB: raises 621 to 971 and is all-in
+ollikahn23: folds 
+DommeVis: calls 621
+*** FLOP *** [Jh Td 2s]
+*** TURN *** [Jh Td 2s] [7d]
+*** RIVER *** [Jh Td 2s 7d] [Th]
+*** SHOW DOWN ***
+DommeVis: shows [Qd Qs] (two pair, Queens and Tens)
+TulioMB: shows [8s 8h] (two pair, Tens and Eights)
+DommeVis collected 2090 from pot
+TulioMB finished the tournament
+*** SUMMARY ***
+Total pot 2090 | Rake 0 
+Board [Jh Td 2s 7d Th]
+Seat 1: ollikahn23 (button) folded before Flop
+Seat 2: DommeVis (small blind) showed [Qd Qs] and won (2090) with two pair, Queens and Tens
+Seat 3: TulioMB (big blind) showed [8s 8h] and lost with two pair, Tens and Eights
+Seat 4: RayZMax folded before Flop (didn't bet)
+Seat 5: peitorama folded before Flop (didn't bet)
+Seat 6: Hamishtw folded before Flop (didn't bet)
+Seat 7: razzedido folded before Flop (didn't bet)
+Seat 8: xuxuroots folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183852236566: Tournament #2249303160, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/03/14 16:50:18 ET
+Table '2249303160 3' 9-max Seat #2 is the button
+Seat 1: ollikahn23 (1409 in chips) 
+Seat 2: DommeVis (3952 in chips) 
+Seat 5: peitorama (1380 in chips) 
+Seat 6: Hamishtw (3466 in chips) 
+Seat 7: razzedido (1249 in chips) 
+Seat 8: xuxuroots (1445 in chips) 
+Seat 9: Profisma (1500 in chips) 
+ollikahn23: posts the ante 6
+DommeVis: posts the ante 6
+peitorama: posts the ante 6
+Hamishtw: posts the ante 6
+razzedido: posts the ante 6
+xuxuroots: posts the ante 6
+Profisma: posts the ante 6
+peitorama: posts small blind 25
+Hamishtw: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4d 4s]
+razzedido: folds 
+xuxuroots: raises 60 to 110
+Profisma: folds 
+ollikahn23: calls 110
+DommeVis: folds 
+peitorama: folds 
+Hamishtw: folds 
+*** FLOP *** [Ts Qh 6h]
+xuxuroots: bets 150
+ollikahn23: folds 
+Uncalled bet (150) returned to xuxuroots
+xuxuroots collected 337 from pot
+xuxuroots: doesn't show hand 
+*** SUMMARY ***
+Total pot 337 | Rake 0 
+Board [Ts Qh 6h]
+Seat 1: ollikahn23 folded on the Flop
+Seat 2: DommeVis (button) folded before Flop (didn't bet)
+Seat 5: peitorama (small blind) folded before Flop
+Seat 6: Hamishtw (big blind) folded before Flop
+Seat 7: razzedido folded before Flop (didn't bet)
+Seat 8: xuxuroots collected (337)
+Seat 9: Profisma folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183852285571: Tournament #2249303160, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/03/14 16:51:14 ET
+Table '2249303160 3' 9-max Seat #5 is the button
+Seat 1: ollikahn23 (1293 in chips) 
+Seat 2: DommeVis (3946 in chips) 
+Seat 3: Sarbahcom (2193 in chips) 
+Seat 5: peitorama (1349 in chips) 
+Seat 6: Hamishtw (3410 in chips) 
+Seat 7: razzedido (1243 in chips) 
+Seat 8: xuxuroots (1666 in chips) 
+Seat 9: Profisma (1494 in chips) 
+ollikahn23: posts the ante 6
+DommeVis: posts the ante 6
+Sarbahcom: posts the ante 6
+peitorama: posts the ante 6
+Hamishtw: posts the ante 6
+razzedido: posts the ante 6
+xuxuroots: posts the ante 6
+Profisma: posts the ante 6
+Hamishtw: posts small blind 25
+razzedido: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jc Ah]
+xuxuroots: folds 
+Profisma: folds 
+ollikahn23: raises 50 to 100
+DommeVis: folds 
+Sarbahcom: folds 
+peitorama: folds 
+Hamishtw: folds 
+razzedido: folds 
+Uncalled bet (50) returned to ollikahn23
+ollikahn23 collected 173 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 173 | Rake 0 
+Seat 1: ollikahn23 collected (173)
+Seat 2: DommeVis folded before Flop (didn't bet)
+Seat 3: Sarbahcom folded before Flop (didn't bet)
+Seat 5: peitorama (button) folded before Flop (didn't bet)
+Seat 6: Hamishtw (small blind) folded before Flop
+Seat 7: razzedido (big blind) folded before Flop
+Seat 8: xuxuroots folded before Flop (didn't bet)
+Seat 9: Profisma folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183852319276: Tournament #2249303160, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/03/14 16:51:53 ET
+Table '2249303160 3' 9-max Seat #6 is the button
+Seat 1: ollikahn23 (1410 in chips) 
+Seat 2: DommeVis (3940 in chips) 
+Seat 3: Sarbahcom (2187 in chips) 
+Seat 5: peitorama (1343 in chips) 
+Seat 6: Hamishtw (3379 in chips) 
+Seat 7: razzedido (1187 in chips) 
+Seat 8: xuxuroots (1660 in chips) 
+Seat 9: Profisma (1488 in chips) 
+ollikahn23: posts the ante 6
+DommeVis: posts the ante 6
+Sarbahcom: posts the ante 6
+peitorama: posts the ante 6
+Hamishtw: posts the ante 6
+razzedido: posts the ante 6
+xuxuroots: posts the ante 6
+Profisma: posts the ante 6
+razzedido: posts small blind 25
+xuxuroots: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4d 9s]
+Profisma: folds 
+ollikahn23: folds 
+DommeVis: folds 
+Sarbahcom: folds 
+peitorama: folds 
+Hamishtw: raises 100 to 150
+razzedido: folds 
+xuxuroots: folds 
+Uncalled bet (100) returned to Hamishtw
+Hamishtw collected 173 from pot
+*** SUMMARY ***
+Total pot 173 | Rake 0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: DommeVis folded before Flop (didn't bet)
+Seat 3: Sarbahcom folded before Flop (didn't bet)
+Seat 5: peitorama folded before Flop (didn't bet)
+Seat 6: Hamishtw (button) collected (173)
+Seat 7: razzedido (small blind) folded before Flop
+Seat 8: xuxuroots (big blind) folded before Flop
+Seat 9: Profisma folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183852356916: Tournament #2249303160, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/03/14 16:52:37 ET
+Table '2249303160 3' 9-max Seat #7 is the button
+Seat 1: ollikahn23 (1404 in chips) 
+Seat 2: DommeVis (3934 in chips) 
+Seat 3: Sarbahcom (2181 in chips) 
+Seat 5: peitorama (1337 in chips) 
+Seat 6: Hamishtw (3496 in chips) 
+Seat 7: razzedido (1156 in chips) 
+Seat 8: xuxuroots (1604 in chips) 
+Seat 9: Profisma (1482 in chips) 
+ollikahn23: posts the ante 6
+DommeVis: posts the ante 6
+Sarbahcom: posts the ante 6
+peitorama: posts the ante 6
+Hamishtw: posts the ante 6
+razzedido: posts the ante 6
+xuxuroots: posts the ante 6
+Profisma: posts the ante 6
+xuxuroots: posts small blind 25
+Profisma: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2d Qh]
+ollikahn23: folds 
+DommeVis: raises 75 to 125
+Sarbahcom: folds 
+peitorama: folds 
+Hamishtw: folds 
+razzedido: folds 
+xuxuroots: folds 
+Profisma: folds 
+Uncalled bet (75) returned to DommeVis
+DommeVis collected 173 from pot
+DommeVis: doesn't show hand 
+*** SUMMARY ***
+Total pot 173 | Rake 0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: DommeVis collected (173)
+Seat 3: Sarbahcom folded before Flop (didn't bet)
+Seat 5: peitorama folded before Flop (didn't bet)
+Seat 6: Hamishtw folded before Flop (didn't bet)
+Seat 7: razzedido (button) folded before Flop (didn't bet)
+Seat 8: xuxuroots (small blind) folded before Flop
+Seat 9: Profisma (big blind) folded before Flop
+
+
+
+PokerStars Hand #183852406000: Tournament #2249303160, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/03/14 16:53:34 ET
+Table '2249303160 3' 9-max Seat #8 is the button
+Seat 1: ollikahn23 (1398 in chips) 
+Seat 2: DommeVis (4051 in chips) 
+Seat 3: Sarbahcom (2175 in chips) 
+Seat 5: peitorama (1331 in chips) 
+Seat 6: Hamishtw (3490 in chips) 
+Seat 7: razzedido (1150 in chips) 
+Seat 8: xuxuroots (1573 in chips) 
+Seat 9: Profisma (1426 in chips) 
+ollikahn23: posts the ante 6
+DommeVis: posts the ante 6
+Sarbahcom: posts the ante 6
+peitorama: posts the ante 6
+Hamishtw: posts the ante 6
+razzedido: posts the ante 6
+xuxuroots: posts the ante 6
+Profisma: posts the ante 6
+Profisma: posts small blind 25
+ollikahn23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6c 8s]
+DommeVis: raises 75 to 125
+Sarbahcom: folds 
+peitorama: folds 
+Hamishtw: folds 
+razzedido: folds 
+xuxuroots: calls 125
+Profisma: folds 
+ollikahn23: calls 75
+*** FLOP *** [9h 8h 4d]
+ollikahn23: checks 
+DommeVis: bets 134
+xuxuroots: calls 134
+ollikahn23: calls 134
+*** TURN *** [9h 8h 4d] [Kd]
+ollikahn23: checks 
+DommeVis: bets 450
+xuxuroots: folds 
+ollikahn23: folds 
+Uncalled bet (450) returned to DommeVis
+DommeVis collected 850 from pot
+DommeVis: doesn't show hand 
+*** SUMMARY ***
+Total pot 850 | Rake 0 
+Board [9h 8h 4d Kd]
+Seat 1: ollikahn23 (big blind) folded on the Turn
+Seat 2: DommeVis collected (850)
+Seat 3: Sarbahcom folded before Flop (didn't bet)
+Seat 5: peitorama folded before Flop (didn't bet)
+Seat 6: Hamishtw folded before Flop (didn't bet)
+Seat 7: razzedido folded before Flop (didn't bet)
+Seat 8: xuxuroots (button) folded on the Turn
+Seat 9: Profisma (small blind) folded before Flop
+
+
+
+PokerStars Hand #183852463608: Tournament #2249303160, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/03/14 16:54:41 ET
+Table '2249303160 3' 9-max Seat #9 is the button
+Seat 1: ollikahn23 (1133 in chips) 
+Seat 2: DommeVis (4636 in chips) 
+Seat 3: Sarbahcom (2169 in chips) 
+Seat 5: peitorama (1325 in chips) 
+Seat 6: Hamishtw (3484 in chips) 
+Seat 7: razzedido (1144 in chips) 
+Seat 8: xuxuroots (1308 in chips) 
+Seat 9: Profisma (1395 in chips) 
+ollikahn23: posts the ante 6
+DommeVis: posts the ante 6
+Sarbahcom: posts the ante 6
+peitorama: posts the ante 6
+Hamishtw: posts the ante 6
+razzedido: posts the ante 6
+xuxuroots: posts the ante 6
+Profisma: posts the ante 6
+ollikahn23: posts small blind 25
+DommeVis: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kd 5d]
+Sarbahcom: folds 
+peitorama: folds 
+Hamishtw: folds 
+razzedido: raises 50 to 100
+xuxuroots: folds 
+Profisma: calls 100
+ollikahn23: calls 75
+DommeVis: calls 50
+*** FLOP *** [4d Qd 3c]
+ollikahn23: checks 
+DommeVis: checks 
+razzedido: bets 100
+Profisma: folds 
+ollikahn23: calls 100
+DommeVis: raises 4430 to 4530 and is all-in
+razzedido: folds 
+ollikahn23: folds 
+Uncalled bet (4430) returned to DommeVis
+DommeVis collected 748 from pot
+DommeVis: doesn't show hand 
+*** SUMMARY ***
+Total pot 748 | Rake 0 
+Board [4d Qd 3c]
+Seat 1: ollikahn23 (small blind) folded on the Flop
+Seat 2: DommeVis (big blind) collected (748)
+Seat 3: Sarbahcom folded before Flop (didn't bet)
+Seat 5: peitorama folded before Flop (didn't bet)
+Seat 6: Hamishtw folded before Flop (didn't bet)
+Seat 7: razzedido folded on the Flop
+Seat 8: xuxuroots folded before Flop (didn't bet)
+Seat 9: Profisma (button) folded on the Flop
+
+
+
+PokerStars Hand #183852729304: Tournament #2249303160, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/03/14 17:00:59 ET
+Table '2249303160 3' 9-max Seat #1 is the button
+Seat 1: ollikahn23 (927 in chips) 
+Seat 2: DommeVis (5178 in chips) 
+Seat 3: Sarbahcom (2163 in chips) 
+Seat 4: qkryd (1500 in chips) 
+Seat 5: peitorama (1319 in chips) 
+Seat 6: Hamishtw (3478 in chips) 
+Seat 7: razzedido (938 in chips) 
+Seat 8: xuxuroots (1302 in chips) 
+Seat 9: Profisma (1289 in chips) 
+ollikahn23: posts the ante 6
+DommeVis: posts the ante 6
+Sarbahcom: posts the ante 6
+qkryd: posts the ante 6
+peitorama: posts the ante 6
+Hamishtw: posts the ante 6
+razzedido: posts the ante 6
+xuxuroots: posts the ante 6
+Profisma: posts the ante 6
+DommeVis: posts small blind 25
+Sarbahcom: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9d 8d]
+qkryd: calls 50
+peitorama: folds 
+Hamishtw: folds 
+razzedido: folds 
+xuxuroots: folds 
+Profisma: folds 
+ollikahn23: calls 50
+DommeVis: folds 
+Sarbahcom: checks 
+*** FLOP *** [4d Jh Tc]
+Sarbahcom: checks 
+qkryd: bets 100
+ollikahn23: raises 100 to 200
+Sarbahcom: folds 
+qkryd: calls 100
+*** TURN *** [4d Jh Tc] [Th]
+qkryd: bets 1244 and is all-in
+ollikahn23: folds 
+Uncalled bet (1244) returned to qkryd
+qkryd collected 629 from pot
+*** SUMMARY ***
+Total pot 629 | Rake 0 
+Board [4d Jh Tc Th]
+Seat 1: ollikahn23 (button) folded on the Turn
+Seat 2: DommeVis (small blind) folded before Flop
+Seat 3: Sarbahcom (big blind) folded on the Flop
+Seat 4: qkryd collected (629)
+Seat 5: peitorama folded before Flop (didn't bet)
+Seat 6: Hamishtw folded before Flop (didn't bet)
+Seat 7: razzedido folded before Flop (didn't bet)
+Seat 8: xuxuroots folded before Flop (didn't bet)
+Seat 9: Profisma folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183852827781: Tournament #2249303160, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/03/14 17:02:56 ET
+Table '2249303160 3' 9-max Seat #2 is the button
+Seat 1: ollikahn23 (671 in chips) 
+Seat 2: DommeVis (5147 in chips) 
+Seat 3: Sarbahcom (2107 in chips) 
+Seat 4: qkryd (1873 in chips) 
+Seat 5: peitorama (1313 in chips) 
+Seat 6: Hamishtw (3472 in chips) 
+Seat 7: razzedido (932 in chips) 
+Seat 8: xuxuroots (1296 in chips) 
+Seat 9: Profisma (1283 in chips) 
+ollikahn23: posts the ante 10
+DommeVis: posts the ante 10
+Sarbahcom: posts the ante 10
+qkryd: posts the ante 10
+peitorama: posts the ante 10
+Hamishtw: posts the ante 10
+razzedido: posts the ante 10
+xuxuroots: posts the ante 10
+Profisma: posts the ante 10
+Sarbahcom: posts small blind 50
+qkryd: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jh Ts]
+peitorama: raises 115 to 215
+Hamishtw: folds 
+razzedido: folds 
+xuxuroots: folds 
+Profisma: raises 315 to 530
+ollikahn23: folds 
+DommeVis: folds 
+Sarbahcom: folds 
+qkryd: folds 
+peitorama: raises 773 to 1303 and is all-in
+Profisma: calls 743 and is all-in
+Uncalled bet (30) returned to peitorama
+*** FLOP *** [Ah 8h 4d]
+*** TURN *** [Ah 8h 4d] [3s]
+*** RIVER *** [Ah 8h 4d 3s] [3c]
+*** SHOW DOWN ***
+peitorama: shows [Th As] (two pair, Aces and Threes)
+Profisma: shows [Qs Qc] (two pair, Queens and Threes)
+peitorama collected 2786 from pot
+Profisma finished the tournament in 92nd place
+*** SUMMARY ***
+Total pot 2786 | Rake 0 
+Board [Ah 8h 4d 3s 3c]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: DommeVis (button) folded before Flop (didn't bet)
+Seat 3: Sarbahcom (small blind) folded before Flop
+Seat 4: qkryd (big blind) folded before Flop
+Seat 5: peitorama showed [Th As] and won (2786) with two pair, Aces and Threes
+Seat 6: Hamishtw folded before Flop (didn't bet)
+Seat 7: razzedido folded before Flop (didn't bet)
+Seat 8: xuxuroots folded before Flop (didn't bet)
+Seat 9: Profisma showed [Qs Qc] and lost with two pair, Queens and Threes
+
+
+
+PokerStars Hand #183852892333: Tournament #2249303160, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/03/14 17:04:11 ET
+Table '2249303160 3' 9-max Seat #3 is the button
+Seat 1: ollikahn23 (661 in chips) 
+Seat 2: DommeVis (5137 in chips) 
+Seat 3: Sarbahcom (2047 in chips) 
+Seat 4: qkryd (1763 in chips) 
+Seat 5: peitorama (2816 in chips) 
+Seat 6: Hamishtw (3462 in chips) 
+Seat 7: razzedido (922 in chips) 
+Seat 8: xuxuroots (1286 in chips) 
+ollikahn23: posts the ante 10
+DommeVis: posts the ante 10
+Sarbahcom: posts the ante 10
+qkryd: posts the ante 10
+peitorama: posts the ante 10
+Hamishtw: posts the ante 10
+razzedido: posts the ante 10
+xuxuroots: posts the ante 10
+qkryd: posts small blind 50
+peitorama: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5h Qc]
+Hamishtw: calls 100
+razzedido: folds 
+xuxuroots: folds 
+ollikahn23: folds 
+DommeVis: folds 
+Sarbahcom: folds 
+qkryd: calls 50
+peitorama: checks 
+*** FLOP *** [6d 4c Js]
+qkryd: checks 
+peitorama: checks 
+Hamishtw: bets 300
+qkryd: calls 300
+peitorama: folds 
+*** TURN *** [6d 4c Js] [Qs]
+qkryd: checks 
+Hamishtw: bets 3052 and is all-in
+qkryd: folds 
+Uncalled bet (3052) returned to Hamishtw
+Hamishtw collected 980 from pot
+*** SUMMARY ***
+Total pot 980 | Rake 0 
+Board [6d 4c Js Qs]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: DommeVis folded before Flop (didn't bet)
+Seat 3: Sarbahcom (button) folded before Flop (didn't bet)
+Seat 4: qkryd (small blind) folded on the Turn
+Seat 5: peitorama (big blind) folded on the Flop
+Seat 6: Hamishtw collected (980)
+Seat 7: razzedido folded before Flop (didn't bet)
+Seat 8: xuxuroots folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183852975006: Tournament #2249303160, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/03/14 17:05:46 ET
+Table '2249303160 3' 9-max Seat #4 is the button
+Seat 1: ollikahn23 (651 in chips) 
+Seat 2: DommeVis (5127 in chips) 
+Seat 3: Sarbahcom (2037 in chips) 
+Seat 4: qkryd (1353 in chips) 
+Seat 5: peitorama (2706 in chips) 
+Seat 6: Hamishtw (4032 in chips) 
+Seat 7: razzedido (912 in chips) 
+Seat 8: xuxuroots (1276 in chips) 
+Seat 9: BCEOTEU, (1446 in chips) 
+ollikahn23: posts the ante 10
+DommeVis: posts the ante 10
+Sarbahcom: posts the ante 10
+qkryd: posts the ante 10
+peitorama: posts the ante 10
+Hamishtw: posts the ante 10
+razzedido: posts the ante 10
+xuxuroots: posts the ante 10
+BCEOTEU,: posts the ante 10
+peitorama: posts small blind 50
+Hamishtw: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jh 7d]
+razzedido: raises 802 to 902 and is all-in
+xuxuroots: folds 
+BCEOTEU,: folds 
+ollikahn23: folds 
+DommeVis: folds 
+Sarbahcom: raises 1125 to 2027 and is all-in
+qkryd: calls 1343 and is all-in
+peitorama: folds 
+Hamishtw: folds 
+Uncalled bet (684) returned to Sarbahcom
+*** FLOP *** [Qh 5c 6c]
+*** TURN *** [Qh 5c 6c] [3s]
+*** RIVER *** [Qh 5c 6c 3s] [4h]
+*** SHOW DOWN ***
+Sarbahcom: shows [Ad Qd] (a pair of Queens)
+qkryd: shows [7h 7s] (a straight, Three to Seven)
+qkryd collected 882 from side pot
+razzedido: shows [As Kd] (high card Ace)
+qkryd collected 2946 from main pot
+razzedido finished the tournament in 85th place
+*** SUMMARY ***
+Total pot 3828 Main pot 2946. Side pot 882. | Rake 0 
+Board [Qh 5c 6c 3s 4h]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: DommeVis folded before Flop (didn't bet)
+Seat 3: Sarbahcom showed [Ad Qd] and lost with a pair of Queens
+Seat 4: qkryd (button) showed [7h 7s] and won (3828) with a straight, Three to Seven
+Seat 5: peitorama (small blind) folded before Flop
+Seat 6: Hamishtw (big blind) folded before Flop
+Seat 7: razzedido showed [As Kd] and lost with high card Ace
+Seat 8: xuxuroots folded before Flop (didn't bet)
+Seat 9: BCEOTEU, folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183853033744: Tournament #2249303160, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/03/14 17:06:53 ET
+Table '2249303160 3' 9-max Seat #5 is the button
+Seat 1: ollikahn23 (641 in chips) 
+Seat 2: DommeVis (5117 in chips) 
+Seat 3: Sarbahcom (684 in chips) 
+Seat 4: qkryd (3828 in chips) 
+Seat 5: peitorama (2646 in chips) 
+Seat 6: Hamishtw (3922 in chips) 
+Seat 8: xuxuroots (1266 in chips) 
+Seat 9: BCEOTEU, (1436 in chips) 
+ollikahn23: posts the ante 10
+DommeVis: posts the ante 10
+Sarbahcom: posts the ante 10
+qkryd: posts the ante 10
+peitorama: posts the ante 10
+Hamishtw: posts the ante 10
+xuxuroots: posts the ante 10
+BCEOTEU,: posts the ante 10
+Hamishtw: posts small blind 50
+xuxuroots: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qh 5c]
+BCEOTEU,: folds 
+ollikahn23: folds 
+DommeVis: folds 
+Sarbahcom: raises 574 to 674 and is all-in
+qkryd: folds 
+peitorama: folds 
+Hamishtw: folds 
+xuxuroots: folds 
+Uncalled bet (574) returned to Sarbahcom
+Sarbahcom collected 330 from pot
+Sarbahcom: doesn't show hand 
+*** SUMMARY ***
+Total pot 330 | Rake 0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: DommeVis folded before Flop (didn't bet)
+Seat 3: Sarbahcom collected (330)
+Seat 4: qkryd folded before Flop (didn't bet)
+Seat 5: peitorama (button) folded before Flop (didn't bet)
+Seat 6: Hamishtw (small blind) folded before Flop
+Seat 8: xuxuroots (big blind) folded before Flop
+Seat 9: BCEOTEU, folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183853058856: Tournament #2249303160, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/03/14 17:07:22 ET
+Table '2249303160 3' 9-max Seat #6 is the button
+Seat 1: ollikahn23 (631 in chips) 
+Seat 2: DommeVis (5107 in chips) 
+Seat 3: Sarbahcom (904 in chips) 
+Seat 4: qkryd (3818 in chips) 
+Seat 5: peitorama (2636 in chips) 
+Seat 6: Hamishtw (3862 in chips) 
+Seat 8: xuxuroots (1156 in chips) 
+Seat 9: BCEOTEU, (1426 in chips) 
+ollikahn23: posts the ante 10
+DommeVis: posts the ante 10
+Sarbahcom: posts the ante 10
+qkryd: posts the ante 10
+peitorama: posts the ante 10
+Hamishtw: posts the ante 10
+xuxuroots: posts the ante 10
+BCEOTEU,: posts the ante 10
+xuxuroots: posts small blind 50
+BCEOTEU,: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5d 6d]
+ollikahn23: folds 
+DommeVis: raises 120 to 220
+Sarbahcom: folds 
+qkryd: calls 220
+peitorama: folds 
+Hamishtw: folds 
+xuxuroots: folds 
+BCEOTEU,: folds 
+*** FLOP *** [Kh 6c 3d]
+DommeVis: bets 201
+qkryd: folds 
+Uncalled bet (201) returned to DommeVis
+DommeVis collected 670 from pot
+DommeVis: doesn't show hand 
+*** SUMMARY ***
+Total pot 670 | Rake 0 
+Board [Kh 6c 3d]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: DommeVis collected (670)
+Seat 3: Sarbahcom folded before Flop (didn't bet)
+Seat 4: qkryd folded on the Flop
+Seat 5: peitorama folded before Flop (didn't bet)
+Seat 6: Hamishtw (button) folded before Flop (didn't bet)
+Seat 8: xuxuroots (small blind) folded before Flop
+Seat 9: BCEOTEU, (big blind) folded before Flop
+
+
+
+PokerStars Hand #183853127301: Tournament #2249303160, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/03/14 17:08:43 ET
+Table '2249303160 3' 9-max Seat #8 is the button
+Seat 1: ollikahn23 (621 in chips) 
+Seat 2: DommeVis (5547 in chips) 
+Seat 3: Sarbahcom (894 in chips) 
+Seat 4: qkryd (3588 in chips) 
+Seat 5: peitorama (2626 in chips) 
+Seat 6: Hamishtw (3852 in chips) 
+Seat 7: tigaio (4193 in chips) 
+Seat 8: xuxuroots (1096 in chips) 
+Seat 9: BCEOTEU, (1316 in chips) 
+ollikahn23: posts the ante 10
+DommeVis: posts the ante 10
+Sarbahcom: posts the ante 10
+qkryd: posts the ante 10
+peitorama: posts the ante 10
+Hamishtw: posts the ante 10
+tigaio: posts the ante 10
+xuxuroots: posts the ante 10
+BCEOTEU,: posts the ante 10
+BCEOTEU,: posts small blind 50
+ollikahn23: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jd 7d]
+DommeVis: folds 
+Sarbahcom: folds 
+qkryd: folds 
+peitorama: folds 
+Hamishtw: folds 
+tigaio: folds 
+xuxuroots: raises 986 to 1086 and is all-in
+BCEOTEU,: raises 220 to 1306 and is all-in
+ollikahn23: folds 
+Uncalled bet (220) returned to BCEOTEU,
+*** FLOP *** [Qc Kd 6s]
+*** TURN *** [Qc Kd 6s] [Ts]
+*** RIVER *** [Qc Kd 6s Ts] [9d]
+*** SHOW DOWN ***
+BCEOTEU,: shows [5c 5d] (a pair of Fives)
+xuxuroots: shows [Ad 8h] (high card Ace)
+BCEOTEU, collected 2362 from pot
+xuxuroots finished the tournament in 77th place
+*** SUMMARY ***
+Total pot 2362 | Rake 0 
+Board [Qc Kd 6s Ts 9d]
+Seat 1: ollikahn23 (big blind) folded before Flop
+Seat 2: DommeVis folded before Flop (didn't bet)
+Seat 3: Sarbahcom folded before Flop (didn't bet)
+Seat 4: qkryd folded before Flop (didn't bet)
+Seat 5: peitorama folded before Flop (didn't bet)
+Seat 6: Hamishtw folded before Flop (didn't bet)
+Seat 7: tigaio folded before Flop (didn't bet)
+Seat 8: xuxuroots (button) showed [Ad 8h] and lost with high card Ace
+Seat 9: BCEOTEU, (small blind) showed [5c 5d] and won (2362) with a pair of Fives
+
+
+
+PokerStars Hand #183853151226: Tournament #2249303160, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/03/14 17:09:11 ET
+Table '2249303160 3' 9-max Seat #9 is the button
+Seat 1: ollikahn23 (511 in chips) 
+Seat 2: DommeVis (5537 in chips) 
+Seat 3: Sarbahcom (884 in chips) 
+Seat 4: qkryd (3578 in chips) 
+Seat 5: peitorama (2616 in chips) 
+Seat 6: Hamishtw (3842 in chips) 
+Seat 7: tigaio (4183 in chips) 
+Seat 9: BCEOTEU, (2582 in chips) 
+ollikahn23: posts the ante 10
+DommeVis: posts the ante 10
+Sarbahcom: posts the ante 10
+qkryd: posts the ante 10
+peitorama: posts the ante 10
+Hamishtw: posts the ante 10
+tigaio: posts the ante 10
+BCEOTEU,: posts the ante 10
+ollikahn23: posts small blind 50
+DommeVis: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2d 3d]
+Sarbahcom: folds 
+qkryd: raises 100 to 200
+peitorama: folds 
+Hamishtw: calls 200
+tigaio: folds 
+BCEOTEU,: folds 
+ollikahn23: folds 
+DommeVis: calls 100
+*** FLOP *** [9h Th 9d]
+DommeVis: checks 
+qkryd: bets 200
+Hamishtw: calls 200
+DommeVis: calls 200
+*** TURN *** [9h Th 9d] [7c]
+DommeVis: checks 
+qkryd: bets 200
+Hamishtw: raises 1000 to 1200
+DommeVis: folds 
+qkryd: folds 
+Uncalled bet (1000) returned to Hamishtw
+Hamishtw collected 1730 from pot
+*** SUMMARY ***
+Total pot 1730 | Rake 0 
+Board [9h Th 9d 7c]
+Seat 1: ollikahn23 (small blind) folded before Flop
+Seat 2: DommeVis (big blind) folded on the Turn
+Seat 3: Sarbahcom folded before Flop (didn't bet)
+Seat 4: qkryd folded on the Turn
+Seat 5: peitorama folded before Flop (didn't bet)
+Seat 6: Hamishtw collected (1730)
+Seat 7: tigaio folded before Flop (didn't bet)
+Seat 9: BCEOTEU, (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183853222145: Tournament #2249303160, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/03/14 17:10:33 ET
+Table '2249303160 3' 9-max Seat #1 is the button
+Seat 1: ollikahn23 (451 in chips) 
+Seat 2: DommeVis (5127 in chips) 
+Seat 3: Sarbahcom (874 in chips) 
+Seat 4: qkryd (2968 in chips) 
+Seat 5: peitorama (2606 in chips) 
+Seat 6: Hamishtw (4962 in chips) 
+Seat 7: tigaio (4173 in chips) 
+Seat 9: BCEOTEU, (2572 in chips) 
+ollikahn23: posts the ante 10
+DommeVis: posts the ante 10
+Sarbahcom: posts the ante 10
+qkryd: posts the ante 10
+peitorama: posts the ante 10
+Hamishtw: posts the ante 10
+tigaio: posts the ante 10
+BCEOTEU,: posts the ante 10
+DommeVis: posts small blind 50
+Sarbahcom: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4c 9h]
+qkryd: raises 100 to 200
+peitorama: folds 
+Hamishtw: folds 
+tigaio: folds 
+BCEOTEU,: folds 
+ollikahn23: folds 
+DommeVis: folds 
+Sarbahcom: folds 
+Uncalled bet (100) returned to qkryd
+qkryd collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | Rake 0 
+Seat 1: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 2: DommeVis (small blind) folded before Flop
+Seat 3: Sarbahcom (big blind) folded before Flop
+Seat 4: qkryd collected (330)
+Seat 5: peitorama folded before Flop (didn't bet)
+Seat 6: Hamishtw folded before Flop (didn't bet)
+Seat 7: tigaio folded before Flop (didn't bet)
+Seat 9: BCEOTEU, folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183853243336: Tournament #2249303160, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/03/14 17:10:57 ET
+Table '2249303160 3' 9-max Seat #2 is the button
+Seat 1: ollikahn23 (441 in chips) 
+Seat 2: DommeVis (5067 in chips) 
+Seat 3: Sarbahcom (764 in chips) 
+Seat 4: qkryd (3188 in chips) 
+Seat 5: peitorama (2596 in chips) 
+Seat 6: Hamishtw (4952 in chips) 
+Seat 7: tigaio (4163 in chips) 
+Seat 9: BCEOTEU, (2562 in chips) 
+ollikahn23: posts the ante 10
+DommeVis: posts the ante 10
+Sarbahcom: posts the ante 10
+qkryd: posts the ante 10
+peitorama: posts the ante 10
+Hamishtw: posts the ante 10
+tigaio: posts the ante 10
+BCEOTEU,: posts the ante 10
+Sarbahcom: posts small blind 50
+qkryd: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qd Ah]
+peitorama: folds 
+Hamishtw: raises 200 to 300
+tigaio: folds 
+BCEOTEU,: folds 
+ollikahn23: raises 131 to 431 and is all-in
+DommeVis: folds 
+Sarbahcom: raises 323 to 754 and is all-in
+qkryd: folds 
+Hamishtw: calls 454
+*** FLOP *** [3h 2d Js]
+*** TURN *** [3h 2d Js] [6c]
+*** RIVER *** [3h 2d Js 6c] [Td]
+*** SHOW DOWN ***
+Sarbahcom: shows [Ts Tc] (three of a kind, Tens)
+Hamishtw: shows [Ad Qh] (high card Ace)
+Sarbahcom collected 646 from side pot
+ollikahn23: shows [Qd Ah] (high card Ace)
+Sarbahcom collected 1473 from main pot
+ollikahn23 finished the tournament in 71st place
+*** SUMMARY ***
+Total pot 2119 Main pot 1473. Side pot 646. | Rake 0 
+Board [3h 2d Js 6c Td]
+Seat 1: ollikahn23 showed [Qd Ah] and lost with high card Ace
+Seat 2: DommeVis (button) folded before Flop (didn't bet)
+Seat 3: Sarbahcom (small blind) showed [Ts Tc] and won (2119) with three of a kind, Tens
+Seat 4: qkryd (big blind) folded before Flop
+Seat 5: peitorama folded before Flop (didn't bet)
+Seat 6: Hamishtw showed [Ad Qh] and lost with high card Ace
+Seat 7: tigaio folded before Flop (didn't bet)
+Seat 9: BCEOTEU, folded before Flop (didn't bet)
+
+
+

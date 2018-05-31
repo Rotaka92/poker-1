@@ -1,0 +1,1337 @@
+﻿PokerStars Hand #184039836482:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/18 16:27:24 ET
+Table 'Aspidiske' 9-max Seat #8 is the button
+Seat 1: ollikahn23 ($3.93 in chips) 
+Seat 2: The Bucinator ($5.02 in chips) 
+Seat 4: patiurs ($4.51 in chips) 
+Seat 5: Liahim.rus ($7.03 in chips) 
+Seat 6: TheUkrStar ($5.25 in chips) 
+Seat 7: 5555AOA5555 ($2 in chips) 
+Seat 8: karasev13 ($4.72 in chips) 
+Seat 9: dimasya1990 ($2.27 in chips) 
+dimasya1990: posts small blind $0.02
+ollikahn23: posts big blind $0.05
+Maddin_C: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8s Td]
+The Bucinator: calls $0.05
+patiurs: folds 
+Liahim.rus: folds 
+TheUkrStar: folds 
+5555AOA5555: folds 
+karasev13: raises $0.10 to $0.15
+dimasya1990: folds 
+ollikahn23: folds 
+The Bucinator: calls $0.10
+*** FLOP *** [6d 2h Qc]
+The Bucinator: checks 
+karasev13: bets $0.35
+The Bucinator: calls $0.35
+*** TURN *** [6d 2h Qc] [4h]
+The Bucinator: checks 
+karasev13: checks 
+*** RIVER *** [6d 2h Qc 4h] [9h]
+The Bucinator: bets $1.03
+karasev13: folds 
+Uncalled bet ($1.03) returned to The Bucinator
+The Bucinator collected $1.03 from pot
+The Bucinator: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.07 | Rake $0.04 
+Board [6d 2h Qc 4h 9h]
+Seat 1: ollikahn23 (big blind) folded before Flop
+Seat 2: The Bucinator collected ($1.03)
+Seat 4: patiurs folded before Flop (didn't bet)
+Seat 5: Liahim.rus folded before Flop (didn't bet)
+Seat 6: TheUkrStar folded before Flop (didn't bet)
+Seat 7: 5555AOA5555 folded before Flop (didn't bet)
+Seat 8: karasev13 (button) folded on the River
+Seat 9: dimasya1990 (small blind) folded before Flop
+
+
+
+PokerStars Hand #184039903928:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/18 16:28:33 ET
+Table 'Aspidiske' 9-max Seat #9 is the button
+Seat 1: ollikahn23 ($3.88 in chips) 
+Seat 2: The Bucinator ($5.55 in chips) 
+Seat 4: patiurs ($4.51 in chips) 
+Seat 5: Liahim.rus ($7.03 in chips) 
+Seat 6: TheUkrStar ($5.25 in chips) 
+Seat 7: 5555AOA5555 ($2 in chips) 
+Seat 8: karasev13 ($4.22 in chips) 
+Seat 9: dimasya1990 ($2.25 in chips) 
+ollikahn23: posts small blind $0.02
+The Bucinator: posts big blind $0.05
+Maddin_C: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4c 8d]
+patiurs: raises $0.05 to $0.10
+Liahim.rus: folds 
+TheUkrStar: folds 
+5555AOA5555: folds 
+karasev13: folds 
+dimasya1990: folds 
+ollikahn23: folds 
+The Bucinator: folds 
+Uncalled bet ($0.05) returned to patiurs
+patiurs collected $0.12 from pot
+patiurs: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: ollikahn23 (small blind) folded before Flop
+Seat 2: The Bucinator (big blind) folded before Flop
+Seat 4: patiurs collected ($0.12)
+Seat 5: Liahim.rus folded before Flop (didn't bet)
+Seat 6: TheUkrStar folded before Flop (didn't bet)
+Seat 7: 5555AOA5555 folded before Flop (didn't bet)
+Seat 8: karasev13 folded before Flop (didn't bet)
+Seat 9: dimasya1990 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184039941365:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/18 16:29:11 ET
+Table 'Aspidiske' 9-max Seat #1 is the button
+Seat 1: ollikahn23 ($3.86 in chips) 
+Seat 2: The Bucinator ($5.50 in chips) 
+Seat 3: Maddin_C ($5 in chips) 
+Seat 4: patiurs ($4.58 in chips) 
+Seat 5: Liahim.rus ($7.03 in chips) 
+Seat 6: TheUkrStar ($5.25 in chips) 
+Seat 7: 5555AOA5555 ($2 in chips) 
+Seat 8: karasev13 ($4.22 in chips) 
+Seat 9: dimasya1990 ($2.25 in chips) 
+The Bucinator: posts small blind $0.02
+Maddin_C: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qc Ah]
+patiurs: folds 
+Liahim.rus: folds 
+TheUkrStar: folds 
+5555AOA5555: folds 
+karasev13: folds 
+dimasya1990: folds 
+ollikahn23: raises $0.05 to $0.10
+The Bucinator: calls $0.08
+Maddin_C: folds 
+*** FLOP *** [Tc 6d 9s]
+The Bucinator: checks 
+ollikahn23: bets $0.15
+The Bucinator: folds 
+Uncalled bet ($0.15) returned to ollikahn23
+ollikahn23 collected $0.24 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Tc 6d 9s]
+Seat 1: ollikahn23 (button) collected ($0.24)
+Seat 2: The Bucinator (small blind) folded on the Flop
+Seat 3: Maddin_C (big blind) folded before Flop
+Seat 4: patiurs folded before Flop (didn't bet)
+Seat 5: Liahim.rus folded before Flop (didn't bet)
+Seat 6: TheUkrStar folded before Flop (didn't bet)
+Seat 7: 5555AOA5555 folded before Flop (didn't bet)
+Seat 8: karasev13 folded before Flop (didn't bet)
+Seat 9: dimasya1990 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184040002340:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/18 16:30:14 ET
+Table 'Aspidiske' 9-max Seat #2 is the button
+Seat 1: ollikahn23 ($4 in chips) 
+Seat 2: The Bucinator ($5.40 in chips) 
+Seat 3: Maddin_C ($5 in chips) 
+Seat 4: patiurs ($4.58 in chips) 
+Seat 5: Liahim.rus ($7.03 in chips) 
+Seat 6: TheUkrStar ($5.25 in chips) 
+Seat 7: 5555AOA5555 ($2 in chips) 
+Seat 8: karasev13 ($4.22 in chips) 
+Seat 9: dimasya1990 ($2.25 in chips) 
+Maddin_C: posts small blind $0.02
+patiurs: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3s 3d]
+Liahim.rus: raises $0.15 to $0.20
+TheUkrStar: folds 
+5555AOA5555: folds 
+karasev13: folds 
+dimasya1990: folds 
+ollikahn23: calls $0.20
+The Bucinator: folds 
+Maddin_C: folds 
+patiurs: raises $0.62 to $0.82
+Liahim.rus: folds 
+ollikahn23: folds 
+Uncalled bet ($0.62) returned to patiurs
+patiurs collected $0.62 from pot
+patiurs: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.62 | Rake $0 
+Seat 1: ollikahn23 folded before Flop
+Seat 2: The Bucinator (button) folded before Flop (didn't bet)
+Seat 3: Maddin_C (small blind) folded before Flop
+Seat 4: patiurs (big blind) collected ($0.62)
+Seat 5: Liahim.rus folded before Flop
+Seat 6: TheUkrStar folded before Flop (didn't bet)
+Seat 7: 5555AOA5555 folded before Flop (didn't bet)
+Seat 8: karasev13 folded before Flop (didn't bet)
+Seat 9: dimasya1990 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184040041770:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/18 16:30:55 ET
+Table 'Aspidiske' 9-max Seat #3 is the button
+Seat 1: ollikahn23 ($3.80 in chips) 
+Seat 2: The Bucinator ($5.40 in chips) 
+Seat 3: Maddin_C ($5 in chips) 
+Seat 4: patiurs ($5 in chips) 
+Seat 5: Liahim.rus ($6.83 in chips) 
+Seat 6: TheUkrStar ($5.25 in chips) 
+Seat 7: 5555AOA5555 ($2 in chips) 
+Seat 8: karasev13 ($4.22 in chips) 
+Seat 9: dimasya1990 ($2.25 in chips) 
+patiurs: posts small blind $0.02
+Liahim.rus: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7d Td]
+TheUkrStar: folds 
+5555AOA5555: folds 
+karasev13: raises $0.05 to $0.10
+dimasya1990: folds 
+dimasya1990 leaves the table
+Gissbon joins the table at seat #9 
+ollikahn23: folds 
+The Bucinator: folds 
+Maddin_C: folds 
+patiurs: calls $0.08
+Liahim.rus: folds 
+*** FLOP *** [7c 9s 6h]
+patiurs: bets $0.10
+karasev13: calls $0.10
+*** TURN *** [7c 9s 6h] [6d]
+patiurs: bets $0.05
+karasev13: folds 
+Uncalled bet ($0.05) returned to patiurs
+patiurs collected $0.43 from pot
+patiurs: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [7c 9s 6h 6d]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: The Bucinator folded before Flop (didn't bet)
+Seat 3: Maddin_C (button) folded before Flop (didn't bet)
+Seat 4: patiurs (small blind) collected ($0.43)
+Seat 5: Liahim.rus (big blind) folded before Flop
+Seat 6: TheUkrStar folded before Flop (didn't bet)
+Seat 7: 5555AOA5555 folded before Flop (didn't bet)
+Seat 8: karasev13 folded on the Turn
+Seat 9: dimasya1990 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184040097090:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/18 16:31:52 ET
+Table 'Aspidiske' 9-max Seat #4 is the button
+Seat 1: ollikahn23 ($3.80 in chips) 
+Seat 2: The Bucinator ($5.40 in chips) 
+Seat 3: Maddin_C ($5 in chips) 
+Seat 4: patiurs ($5.23 in chips) 
+Seat 5: Liahim.rus ($6.78 in chips) 
+Seat 8: karasev13 ($4.02 in chips) 
+Liahim.rus: posts small blind $0.02
+TheUkrStar: is sitting out 
+TheUkrStar leaves the table
+5555AOA5555: is sitting out 
+karasev13: posts big blind $0.05
+Gissbon: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6d Jh]
+5555AOA5555 leaves the table
+ollikahn23: folds 
+The Bucinator: folds 
+Maddin_C: folds 
+patiurs: folds 
+Liahim.rus: folds 
+Uncalled bet ($0.03) returned to karasev13
+karasev13 collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: The Bucinator folded before Flop (didn't bet)
+Seat 3: Maddin_C folded before Flop (didn't bet)
+Seat 4: patiurs (button) folded before Flop (didn't bet)
+Seat 5: Liahim.rus (small blind) folded before Flop
+Seat 8: karasev13 (big blind) collected ($0.04)
+
+
+
+PokerStars Hand #184040112496:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/18 16:32:08 ET
+Table 'Aspidiske' 9-max Seat #5 is the button
+Seat 1: ollikahn23 ($3.80 in chips) 
+Seat 2: The Bucinator ($5.40 in chips) 
+Seat 3: Maddin_C ($5 in chips) 
+Seat 4: patiurs ($5.23 in chips) 
+Seat 5: Liahim.rus ($6.76 in chips) 
+Seat 8: karasev13 ($4.04 in chips) 
+Seat 9: Gissbon ($5 in chips) 
+karasev13: posts small blind $0.02
+Gissbon: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6s Jh]
+ollikahn23: folds 
+The Bucinator: folds 
+Maddin_C: folds 
+patiurs: calls $0.05
+Liahim.rus: folds 
+karasev13: folds 
+Gissbon: checks 
+*** FLOP *** [Ad Ac 2h]
+Gissbon: checks 
+patiurs: bets $0.05
+Gissbon: calls $0.05
+*** TURN *** [Ad Ac 2h] [3c]
+Gissbon: checks 
+patiurs: bets $0.05
+Gissbon: calls $0.05
+*** RIVER *** [Ad Ac 2h 3c] [Qs]
+Gissbon: bets $0.20
+patiurs: folds 
+Uncalled bet ($0.20) returned to Gissbon
+Gissbon collected $0.31 from pot
+Gissbon: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [Ad Ac 2h 3c Qs]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: The Bucinator folded before Flop (didn't bet)
+Seat 3: Maddin_C folded before Flop (didn't bet)
+Seat 4: patiurs folded on the River
+Seat 5: Liahim.rus (button) folded before Flop (didn't bet)
+Seat 8: karasev13 (small blind) folded before Flop
+Seat 9: Gissbon (big blind) collected ($0.31)
+
+
+
+PokerStars Hand #184040151910:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/18 16:32:49 ET
+Table 'Aspidiske' 9-max Seat #8 is the button
+Seat 1: ollikahn23 ($3.80 in chips) 
+Seat 2: The Bucinator ($5.40 in chips) 
+Seat 3: Maddin_C ($5 in chips) 
+Seat 4: patiurs ($5.08 in chips) 
+Seat 5: Liahim.rus ($6.76 in chips) 
+Seat 8: karasev13 ($4.02 in chips) 
+Seat 9: Gissbon ($5.16 in chips) 
+Gissbon: posts small blind $0.02
+ollikahn23: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5d 2s]
+The Bucinator: calls $0.05
+Maddin_C: raises $0.20 to $0.25
+patiurs: folds 
+Liahim.rus: folds 
+JBARROS41 joins the table at seat #7 
+karasev13: folds 
+Gissbon: folds 
+olliman301 joins the table at seat #6 
+ollikahn23: folds 
+The Bucinator: folds 
+Uncalled bet ($0.20) returned to Maddin_C
+Maddin_C collected $0.17 from pot
+Maddin_C: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0 
+Seat 1: ollikahn23 (big blind) folded before Flop
+Seat 2: The Bucinator folded before Flop
+Seat 3: Maddin_C collected ($0.17)
+Seat 4: patiurs folded before Flop (didn't bet)
+Seat 5: Liahim.rus folded before Flop (didn't bet)
+Seat 8: karasev13 (button) folded before Flop (didn't bet)
+Seat 9: Gissbon (small blind) folded before Flop
+
+
+
+PokerStars Hand #184040176436:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/18 16:33:14 ET
+Table 'Aspidiske' 9-max Seat #9 is the button
+Seat 1: ollikahn23 ($3.75 in chips) 
+Seat 2: The Bucinator ($5.35 in chips) 
+Seat 3: Maddin_C ($5.12 in chips) 
+Seat 4: patiurs ($5.08 in chips) 
+Seat 5: Liahim.rus ($6.76 in chips) 
+Seat 8: karasev13 ($4.02 in chips) 
+Seat 9: Gissbon ($5.14 in chips) 
+ollikahn23: posts small blind $0.02
+The Bucinator: posts big blind $0.05
+olliman301: sits out 
+JBARROS41: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7h 8s]
+Maddin_C: folds 
+patiurs: raises $0.05 to $0.10
+Liahim.rus: folds 
+karasev13: folds 
+Gissbon: folds 
+ollikahn23: folds 
+The Bucinator: folds 
+Uncalled bet ($0.05) returned to patiurs
+patiurs collected $0.12 from pot
+patiurs: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: ollikahn23 (small blind) folded before Flop
+Seat 2: The Bucinator (big blind) folded before Flop
+Seat 3: Maddin_C folded before Flop (didn't bet)
+Seat 4: patiurs collected ($0.12)
+Seat 5: Liahim.rus folded before Flop (didn't bet)
+Seat 8: karasev13 folded before Flop (didn't bet)
+Seat 9: Gissbon (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184040193476:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/18 16:33:32 ET
+Table 'Aspidiske' 9-max Seat #1 is the button
+Seat 1: ollikahn23 ($3.73 in chips) 
+Seat 2: The Bucinator ($5.30 in chips) 
+Seat 3: Maddin_C ($5.12 in chips) 
+Seat 4: patiurs ($5.15 in chips) 
+Seat 5: Liahim.rus ($6.76 in chips) 
+Seat 8: karasev13 ($4.02 in chips) 
+Seat 9: Gissbon ($5.14 in chips) 
+The Bucinator: posts small blind $0.02
+Maddin_C: posts big blind $0.05
+olliman301: sits out 
+JBARROS41: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8h Qc]
+patiurs: raises $0.05 to $0.10
+Liahim.rus: folds 
+karasev13: folds 
+Gissbon: folds 
+ollikahn23: folds 
+The Bucinator: folds 
+Maddin_C: calls $0.05
+*** FLOP *** [Qs 6h 7c]
+Maddin_C: checks 
+patiurs: bets $0.05
+Maddin_C: calls $0.05
+*** TURN *** [Qs 6h 7c] [5s]
+Maddin_C: checks 
+patiurs: checks 
+*** RIVER *** [Qs 6h 7c 5s] [Th]
+Maddin_C: checks 
+patiurs: checks 
+*** SHOW DOWN ***
+Maddin_C: shows [4s 4c] (a pair of Fours)
+patiurs: mucks hand 
+Maddin_C collected $0.31 from pot
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01 
+Board [Qs 6h 7c 5s Th]
+Seat 1: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 2: The Bucinator (small blind) folded before Flop
+Seat 3: Maddin_C (big blind) showed [4s 4c] and won ($0.31) with a pair of Fours
+Seat 4: patiurs mucked [Ad Jh]
+Seat 5: Liahim.rus folded before Flop (didn't bet)
+Seat 8: karasev13 folded before Flop (didn't bet)
+Seat 9: Gissbon folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184040226786:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/18 16:34:06 ET
+Table 'Aspidiske' 9-max Seat #2 is the button
+Seat 1: ollikahn23 ($3.73 in chips) 
+Seat 2: The Bucinator ($5.28 in chips) 
+Seat 3: Maddin_C ($5.28 in chips) 
+Seat 4: patiurs ($5 in chips) 
+Seat 5: Liahim.rus ($6.76 in chips) 
+Seat 8: karasev13 ($4.02 in chips) 
+Seat 9: Gissbon ($5.14 in chips) 
+Maddin_C: posts small blind $0.02
+patiurs: posts big blind $0.05
+olliman301: sits out 
+JBARROS41: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qd Jh]
+Liahim.rus: folds 
+karasev13: calls $0.05
+Gissbon: folds 
+ollikahn23: calls $0.05
+The Bucinator: raises $0.15 to $0.20
+Maddin_C: folds 
+patiurs: folds 
+karasev13: calls $0.15
+ollikahn23: folds 
+*** FLOP *** [Tc 8c Kc]
+karasev13: bets $0.50
+The Bucinator: calls $0.50
+*** TURN *** [Tc 8c Kc] [4c]
+karasev13: checks 
+The Bucinator: bets $0.55
+karasev13: calls $0.55
+*** RIVER *** [Tc 8c Kc 4c] [3h]
+karasev13: checks 
+The Bucinator: bets $0.95
+karasev13: calls $0.95
+*** SHOW DOWN ***
+The Bucinator: shows [Kd Ac] (a flush, Ace high)
+karasev13: mucks hand 
+The Bucinator collected $4.33 from pot
+*** SUMMARY ***
+Total pot $4.52 | Rake $0.19 
+Board [Tc 8c Kc 4c 3h]
+Seat 1: ollikahn23 folded before Flop
+Seat 2: The Bucinator (button) showed [Kd Ac] and won ($4.33) with a flush, Ace high
+Seat 3: Maddin_C (small blind) folded before Flop
+Seat 4: patiurs (big blind) folded before Flop
+Seat 5: Liahim.rus folded before Flop (didn't bet)
+Seat 8: karasev13 mucked [Ts Ks]
+Seat 9: Gissbon folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184040340200:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/18 16:36:01 ET
+Table 'Aspidiske' 9-max Seat #3 is the button
+Seat 1: ollikahn23 ($3.68 in chips) 
+Seat 2: The Bucinator ($7.41 in chips) 
+Seat 3: Maddin_C ($5.26 in chips) 
+Seat 4: patiurs ($4.95 in chips) 
+Seat 5: Liahim.rus ($6.76 in chips) 
+Seat 8: karasev13 ($1.82 in chips) 
+Seat 9: Gissbon ($5.14 in chips) 
+patiurs: posts small blind $0.02
+Liahim.rus: posts big blind $0.05
+olliman301: sits out 
+JBARROS41: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4h Th]
+karasev13: folds 
+Gissbon: folds 
+ollikahn23: folds 
+The Bucinator: raises $0.05 to $0.10
+Maddin_C: folds 
+patiurs: calls $0.08
+Liahim.rus: folds 
+*** FLOP *** [Tc Ts Ah]
+patiurs: checks 
+The Bucinator: bets $0.15
+patiurs: calls $0.15
+*** TURN *** [Tc Ts Ah] [7c]
+patiurs: checks 
+The Bucinator: checks 
+*** RIVER *** [Tc Ts Ah 7c] [Ad]
+patiurs: checks 
+The Bucinator: bets $0.27
+patiurs: calls $0.27
+*** SHOW DOWN ***
+The Bucinator: shows [Ac 7s] (a full house, Aces full of Tens)
+patiurs: mucks hand 
+The Bucinator collected $1.04 from pot
+*** SUMMARY ***
+Total pot $1.09 | Rake $0.05 
+Board [Tc Ts Ah 7c Ad]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: The Bucinator showed [Ac 7s] and won ($1.04) with a full house, Aces full of Tens
+Seat 3: Maddin_C (button) folded before Flop (didn't bet)
+Seat 4: patiurs (small blind) mucked [6s 6h]
+Seat 5: Liahim.rus (big blind) folded before Flop
+Seat 8: karasev13 folded before Flop (didn't bet)
+Seat 9: Gissbon folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184040383607:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/18 16:36:46 ET
+Table 'Aspidiske' 9-max Seat #4 is the button
+Seat 1: ollikahn23 ($3.68 in chips) 
+Seat 2: The Bucinator ($7.93 in chips) 
+Seat 3: Maddin_C ($5.26 in chips) 
+Seat 4: patiurs ($4.43 in chips) 
+Seat 5: Liahim.rus ($6.71 in chips) 
+Seat 6: olliman301 ($2 in chips) 
+Seat 8: karasev13 ($1.82 in chips) 
+Seat 9: Gissbon ($5.14 in chips) 
+Liahim.rus: posts small blind $0.02
+olliman301: posts big blind $0.05
+JBARROS41: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2d Kd]
+karasev13: calls $0.05
+Gissbon: folds 
+ollikahn23: folds 
+The Bucinator: folds 
+Maddin_C: folds 
+patiurs: calls $0.05
+Liahim.rus: folds 
+olliman301: checks 
+*** FLOP *** [8s 7c 8h]
+olliman301: checks 
+karasev13: bets $0.10
+patiurs: folds 
+olliman301: folds 
+Uncalled bet ($0.10) returned to karasev13
+karasev13 collected $0.16 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [8s 7c 8h]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: The Bucinator folded before Flop (didn't bet)
+Seat 3: Maddin_C folded before Flop (didn't bet)
+Seat 4: patiurs (button) folded on the Flop
+Seat 5: Liahim.rus (small blind) folded before Flop
+Seat 6: olliman301 (big blind) folded on the Flop
+Seat 8: karasev13 collected ($0.16)
+Seat 9: Gissbon folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184040419581:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/18 16:37:23 ET
+Table 'Aspidiske' 9-max Seat #5 is the button
+Seat 1: ollikahn23 ($3.68 in chips) 
+Seat 2: The Bucinator ($7.93 in chips) 
+Seat 3: Maddin_C ($5.26 in chips) 
+Seat 4: patiurs ($4.38 in chips) 
+Seat 5: Liahim.rus ($6.69 in chips) 
+Seat 6: olliman301 ($1.95 in chips) 
+Seat 7: JBARROS41 ($5 in chips) 
+Seat 8: karasev13 ($1.93 in chips) 
+Seat 9: Gissbon ($5.14 in chips) 
+olliman301: posts small blind $0.02
+JBARROS41: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3h Jh]
+karasev13: folds 
+Gissbon: folds 
+ollikahn23: folds 
+The Bucinator: folds 
+Maddin_C: folds 
+patiurs: raises $0.05 to $0.10
+Liahim.rus: folds 
+olliman301: folds 
+JBARROS41: folds 
+Uncalled bet ($0.05) returned to patiurs
+patiurs collected $0.12 from pot
+patiurs: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: The Bucinator folded before Flop (didn't bet)
+Seat 3: Maddin_C folded before Flop (didn't bet)
+Seat 4: patiurs collected ($0.12)
+Seat 5: Liahim.rus (button) folded before Flop (didn't bet)
+Seat 6: olliman301 (small blind) folded before Flop
+Seat 7: JBARROS41 (big blind) folded before Flop
+Seat 8: karasev13 folded before Flop (didn't bet)
+Seat 9: Gissbon folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184040452076:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/18 16:37:57 ET
+Table 'Aspidiske' 9-max Seat #6 is the button
+Seat 1: ollikahn23 ($3.68 in chips) 
+Seat 2: The Bucinator ($7.93 in chips) 
+Seat 3: Maddin_C ($5.26 in chips) 
+Seat 4: patiurs ($4.45 in chips) 
+Seat 5: Liahim.rus ($6.69 in chips) 
+Seat 6: olliman301 ($1.93 in chips) 
+Seat 7: JBARROS41 ($5 in chips) 
+Seat 9: Gissbon ($5.14 in chips) 
+JBARROS41: posts small blind $0.02
+karasev13 has timed out
+karasev13: is sitting out 
+Gissbon: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3h 9s]
+ollikahn23: folds 
+The Bucinator: folds 
+Maddin_C: folds 
+patiurs: raises $0.05 to $0.10
+Liahim.rus: folds 
+olliman301: folds 
+JBARROS41: folds 
+Gissbon: folds 
+Uncalled bet ($0.05) returned to patiurs
+patiurs collected $0.12 from pot
+patiurs: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: The Bucinator folded before Flop (didn't bet)
+Seat 3: Maddin_C folded before Flop (didn't bet)
+Seat 4: patiurs collected ($0.12)
+Seat 5: Liahim.rus folded before Flop (didn't bet)
+Seat 6: olliman301 (button) folded before Flop (didn't bet)
+Seat 7: JBARROS41 (small blind) folded before Flop
+Seat 9: Gissbon (big blind) folded before Flop
+
+
+
+PokerStars Hand #184040484591:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/18 16:38:31 ET
+Table 'Aspidiske' 9-max Seat #7 is the button
+Seat 1: ollikahn23 ($3.68 in chips) 
+Seat 2: The Bucinator ($7.93 in chips) 
+Seat 3: Maddin_C ($5.26 in chips) 
+Seat 4: patiurs ($4.52 in chips) 
+Seat 5: Liahim.rus ($6.69 in chips) 
+Seat 6: olliman301 ($1.93 in chips) 
+Seat 7: JBARROS41 ($5 in chips) 
+Seat 9: Gissbon ($5.09 in chips) 
+Gissbon: posts small blind $0.02
+ollikahn23: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2s 7s]
+The Bucinator: folds 
+Maddin_C: folds 
+patiurs: folds 
+Liahim.rus: folds 
+olliman301: folds 
+JBARROS41: folds 
+Gissbon: folds 
+Uncalled bet ($0.03) returned to ollikahn23
+ollikahn23 collected $0.04 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: ollikahn23 (big blind) collected ($0.04)
+Seat 2: The Bucinator folded before Flop (didn't bet)
+Seat 3: Maddin_C folded before Flop (didn't bet)
+Seat 4: patiurs folded before Flop (didn't bet)
+Seat 5: Liahim.rus folded before Flop (didn't bet)
+Seat 6: olliman301 folded before Flop (didn't bet)
+Seat 7: JBARROS41 (button) folded before Flop (didn't bet)
+Seat 9: Gissbon (small blind) folded before Flop
+
+
+
+PokerStars Hand #184040502047:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/18 16:38:49 ET
+Table 'Aspidiske' 9-max Seat #9 is the button
+Seat 1: ollikahn23 ($3.70 in chips) 
+Seat 2: The Bucinator ($7.93 in chips) 
+Seat 3: Maddin_C ($5.26 in chips) 
+Seat 4: patiurs ($4.52 in chips) 
+Seat 5: Liahim.rus ($6.69 in chips) 
+Seat 6: olliman301 ($1.93 in chips) 
+Seat 7: JBARROS41 ($5 in chips) 
+Seat 9: Gissbon ($5.07 in chips) 
+ollikahn23: posts small blind $0.02
+The Bucinator: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jd 7h]
+Maddin_C: folds 
+patiurs: folds 
+Liahim.rus: folds 
+olliman301: folds 
+JBARROS41: folds 
+Gissbon: raises $0.07 to $0.12
+ollikahn23: folds 
+The Bucinator: folds 
+Uncalled bet ($0.07) returned to Gissbon
+Gissbon collected $0.12 from pot
+Gissbon: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: ollikahn23 (small blind) folded before Flop
+Seat 2: The Bucinator (big blind) folded before Flop
+Seat 3: Maddin_C folded before Flop (didn't bet)
+Seat 4: patiurs folded before Flop (didn't bet)
+Seat 5: Liahim.rus folded before Flop (didn't bet)
+Seat 6: olliman301 folded before Flop (didn't bet)
+Seat 7: JBARROS41 folded before Flop (didn't bet)
+Seat 9: Gissbon (button) collected ($0.12)
+
+
+
+PokerStars Hand #184040519749:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/18 16:39:07 ET
+Table 'Aspidiske' 9-max Seat #1 is the button
+Seat 1: ollikahn23 ($3.68 in chips) 
+Seat 2: The Bucinator ($7.88 in chips) 
+Seat 3: Maddin_C ($5.26 in chips) 
+Seat 4: patiurs ($4.52 in chips) 
+Seat 5: Liahim.rus ($6.69 in chips) 
+Seat 6: olliman301 ($1.93 in chips) 
+Seat 7: JBARROS41 ($5 in chips) 
+Seat 9: Gissbon ($5.14 in chips) 
+The Bucinator: posts small blind $0.02
+Maddin_C: posts big blind $0.05
+karasev13: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Td As]
+patiurs: folds 
+Liahim.rus: folds 
+olliman301: folds 
+JBARROS41: folds 
+Gissbon: folds 
+ollikahn23: raises $0.10 to $0.15
+The Bucinator: folds 
+Maddin_C: folds 
+Uncalled bet ($0.10) returned to ollikahn23
+ollikahn23 collected $0.12 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: ollikahn23 (button) collected ($0.12)
+Seat 2: The Bucinator (small blind) folded before Flop
+Seat 3: Maddin_C (big blind) folded before Flop
+Seat 4: patiurs folded before Flop (didn't bet)
+Seat 5: Liahim.rus folded before Flop (didn't bet)
+Seat 6: olliman301 folded before Flop (didn't bet)
+Seat 7: JBARROS41 folded before Flop (didn't bet)
+Seat 9: Gissbon folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184040540744:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/18 16:39:29 ET
+Table 'Aspidiske' 9-max Seat #2 is the button
+Seat 1: ollikahn23 ($3.75 in chips) 
+Seat 2: The Bucinator ($7.86 in chips) 
+Seat 3: Maddin_C ($5.21 in chips) 
+Seat 4: patiurs ($4.52 in chips) 
+Seat 5: Liahim.rus ($6.69 in chips) 
+Seat 6: olliman301 ($1.93 in chips) 
+Seat 7: JBARROS41 ($5 in chips) 
+Seat 9: Gissbon ($5.14 in chips) 
+Maddin_C: posts small blind $0.02
+patiurs: posts big blind $0.05
+karasev13: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ad Ks]
+Liahim.rus: folds 
+olliman301: folds 
+JBARROS41: folds 
+Gissbon: folds 
+ollikahn23: raises $0.10 to $0.15
+The Bucinator: folds 
+Maddin_C: folds 
+patiurs: calls $0.10
+*** FLOP *** [Kh 3s Ts]
+patiurs: checks 
+ollikahn23: bets $0.15
+patiurs: calls $0.15
+*** TURN *** [Kh 3s Ts] [Jc]
+patiurs: checks 
+ollikahn23: bets $0.30
+patiurs: raises $1.19 to $1.49
+ollikahn23: folds 
+Uncalled bet ($1.19) returned to patiurs
+patiurs collected $1.17 from pot
+patiurs: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.22 | Rake $0.05 
+Board [Kh 3s Ts Jc]
+Seat 1: ollikahn23 folded on the Turn
+Seat 2: The Bucinator (button) folded before Flop (didn't bet)
+Seat 3: Maddin_C (small blind) folded before Flop
+Seat 4: patiurs (big blind) collected ($1.17)
+Seat 5: Liahim.rus folded before Flop (didn't bet)
+Seat 6: olliman301 folded before Flop (didn't bet)
+Seat 7: JBARROS41 folded before Flop (didn't bet)
+Seat 9: Gissbon folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184040591546:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/18 16:40:22 ET
+Table 'Aspidiske' 9-max Seat #3 is the button
+Seat 1: ollikahn23 ($3.15 in chips) 
+Seat 2: The Bucinator ($7.86 in chips) 
+Seat 3: Maddin_C ($5.19 in chips) 
+Seat 4: patiurs ($5.09 in chips) 
+Seat 5: Liahim.rus ($6.69 in chips) 
+Seat 6: olliman301 ($1.93 in chips) 
+Seat 7: JBARROS41 ($5 in chips) 
+Seat 9: Gissbon ($5.14 in chips) 
+patiurs: posts small blind $0.02
+Liahim.rus: posts big blind $0.05
+karasev13: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4c 7d]
+olliman301: folds 
+JBARROS41: folds 
+Gissbon: folds 
+ollikahn23: folds 
+The Bucinator: raises $0.10 to $0.15
+Maddin_C: folds 
+patiurs: calls $0.13
+Liahim.rus: folds 
+*** FLOP *** [4h Ts 4s]
+patiurs: bets $0.05
+The Bucinator: folds 
+Uncalled bet ($0.05) returned to patiurs
+patiurs collected $0.34 from pot
+patiurs: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [4h Ts 4s]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: The Bucinator folded on the Flop
+Seat 3: Maddin_C (button) folded before Flop (didn't bet)
+Seat 4: patiurs (small blind) collected ($0.34)
+Seat 5: Liahim.rus (big blind) folded before Flop
+Seat 6: olliman301 folded before Flop (didn't bet)
+Seat 7: JBARROS41 folded before Flop (didn't bet)
+Seat 9: Gissbon folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184040633729:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/18 16:41:06 ET
+Table 'Aspidiske' 9-max Seat #4 is the button
+Seat 1: ollikahn23 ($3.15 in chips) 
+Seat 2: The Bucinator ($7.71 in chips) 
+Seat 3: Maddin_C ($5.19 in chips) 
+Seat 4: patiurs ($5.28 in chips) 
+Seat 5: Liahim.rus ($6.64 in chips) 
+Seat 6: olliman301 ($1.93 in chips) 
+Seat 7: JBARROS41 ($5 in chips) 
+Seat 9: Gissbon ($5.14 in chips) 
+Liahim.rus: posts small blind $0.02
+olliman301: posts big blind $0.05
+karasev13: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4c 3c]
+JBARROS41: folds 
+Gissbon: folds 
+ollikahn23: folds 
+The Bucinator: folds 
+Maddin_C: folds 
+patiurs: folds 
+Liahim.rus: raises $0.10 to $0.15
+olliman301: folds 
+Uncalled bet ($0.10) returned to Liahim.rus
+Liahim.rus collected $0.10 from pot
+Liahim.rus: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: The Bucinator folded before Flop (didn't bet)
+Seat 3: Maddin_C folded before Flop (didn't bet)
+Seat 4: patiurs (button) folded before Flop (didn't bet)
+Seat 5: Liahim.rus (small blind) collected ($0.10)
+Seat 6: olliman301 (big blind) folded before Flop
+Seat 7: JBARROS41 folded before Flop (didn't bet)
+Seat 9: Gissbon folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184040661960:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/18 16:41:36 ET
+Table 'Aspidiske' 9-max Seat #5 is the button
+Seat 1: ollikahn23 ($3.15 in chips) 
+Seat 2: The Bucinator ($7.71 in chips) 
+Seat 3: Maddin_C ($5.19 in chips) 
+Seat 4: patiurs ($5.28 in chips) 
+Seat 5: Liahim.rus ($6.69 in chips) 
+Seat 6: olliman301 ($1.88 in chips) 
+Seat 7: JBARROS41 ($5 in chips) 
+Seat 9: Gissbon ($5.14 in chips) 
+olliman301: posts small blind $0.02
+JBARROS41: posts big blind $0.05
+karasev13: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3h As]
+Gissbon: folds 
+ollikahn23: folds 
+The Bucinator: folds 
+Maddin_C: folds 
+patiurs: folds 
+Liahim.rus: folds 
+olliman301: folds 
+Uncalled bet ($0.03) returned to JBARROS41
+JBARROS41 collected $0.04 from pot
+JBARROS41: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: The Bucinator folded before Flop (didn't bet)
+Seat 3: Maddin_C folded before Flop (didn't bet)
+Seat 4: patiurs folded before Flop (didn't bet)
+Seat 5: Liahim.rus (button) folded before Flop (didn't bet)
+Seat 6: olliman301 (small blind) folded before Flop
+Seat 7: JBARROS41 (big blind) collected ($0.04)
+Seat 9: Gissbon folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184040678863:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/18 16:41:53 ET
+Table 'Aspidiske' 9-max Seat #6 is the button
+Seat 1: ollikahn23 ($3.15 in chips) 
+Seat 2: The Bucinator ($7.71 in chips) 
+Seat 3: Maddin_C ($5.19 in chips) 
+Seat 4: patiurs ($5.28 in chips) 
+Seat 5: Liahim.rus ($6.69 in chips) 
+Seat 6: olliman301 ($1.86 in chips) 
+Seat 7: JBARROS41 ($5.02 in chips) 
+Seat 8: karasev13 ($1.93 in chips) 
+Seat 9: Gissbon ($5.14 in chips) 
+JBARROS41: posts small blind $0.02
+karasev13: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4d 9s]
+Gissbon: folds 
+ollikahn23: folds 
+The Bucinator: raises $0.05 to $0.10
+Maddin_C: folds 
+patiurs: calls $0.10
+Liahim.rus: raises $0.30 to $0.40
+olliman301: folds 
+JBARROS41: folds 
+karasev13: folds 
+The Bucinator: raises $0.90 to $1.30
+patiurs: calls $1.20
+Liahim.rus: folds 
+*** FLOP *** [Jd 6d 2d]
+The Bucinator: bets $0.75
+patiurs: raises $0.75 to $1.50
+The Bucinator: folds 
+Uncalled bet ($0.75) returned to patiurs
+patiurs collected $4.38 from pot
+patiurs: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.57 | Rake $0.19 
+Board [Jd 6d 2d]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: The Bucinator folded on the Flop
+Seat 3: Maddin_C folded before Flop (didn't bet)
+Seat 4: patiurs collected ($4.38)
+Seat 5: Liahim.rus folded before Flop
+Seat 6: olliman301 (button) folded before Flop (didn't bet)
+Seat 7: JBARROS41 (small blind) folded before Flop
+Seat 8: karasev13 (big blind) folded before Flop
+Seat 9: Gissbon folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184040737118:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/18 16:42:54 ET
+Table 'Aspidiske' 9-max Seat #7 is the button
+Seat 1: ollikahn23 ($3.15 in chips) 
+Seat 2: The Bucinator ($5.66 in chips) 
+Seat 3: Maddin_C ($5.19 in chips) 
+Seat 4: patiurs ($7.61 in chips) 
+Seat 5: Liahim.rus ($6.29 in chips) 
+Seat 6: olliman301 ($1.86 in chips) 
+Seat 7: JBARROS41 ($5 in chips) 
+Seat 8: karasev13 ($1.88 in chips) 
+Seat 9: Gissbon ($5.14 in chips) 
+karasev13: posts small blind $0.02
+Gissbon: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8c Qh]
+ollikahn23: folds 
+The Bucinator: folds 
+Maddin_C: raises $0.10 to $0.15
+patiurs: calls $0.15
+Liahim.rus: calls $0.15
+olliman301: folds 
+olliman301 leaves the table
+JBARROS41: raises $0.60 to $0.75
+karasev13: folds 
+Gissbon: folds 
+Maddin_C: folds 
+patiurs: calls $0.60
+Liahim.rus: folds 
+*** FLOP *** [Jc 9s 7d]
+bolonko138 joins the table at seat #6 
+patiurs: checks 
+JBARROS41: bets $1.34
+patiurs: folds 
+Uncalled bet ($1.34) returned to JBARROS41
+JBARROS41 collected $1.79 from pot
+JBARROS41: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.87 | Rake $0.08 
+Board [Jc 9s 7d]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: The Bucinator folded before Flop (didn't bet)
+Seat 3: Maddin_C folded before Flop
+Seat 4: patiurs folded on the Flop
+Seat 5: Liahim.rus folded before Flop
+Seat 6: olliman301 folded before Flop (didn't bet)
+Seat 7: JBARROS41 (button) collected ($1.79)
+Seat 8: karasev13 (small blind) folded before Flop
+Seat 9: Gissbon (big blind) folded before Flop
+
+
+
+PokerStars Hand #184040792573:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/18 16:43:53 ET
+Table 'Aspidiske' 9-max Seat #8 is the button
+Seat 1: ollikahn23 ($3.15 in chips) 
+Seat 2: The Bucinator ($5.66 in chips) 
+Seat 3: Maddin_C ($5.04 in chips) 
+Seat 4: patiurs ($6.86 in chips) 
+Seat 5: Liahim.rus ($6.14 in chips) 
+Seat 7: JBARROS41 ($6.04 in chips) 
+Seat 8: karasev13 ($1.86 in chips) 
+Seat 9: Gissbon ($5.09 in chips) 
+Gissbon: posts small blind $0.02
+ollikahn23: posts big blind $0.05
+bolonko138: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kh 5h]
+The Bucinator: folds 
+Maddin_C: folds 
+patiurs: folds 
+Liahim.rus: folds 
+JBARROS41: folds 
+karasev13: calls $0.05
+Gissbon: calls $0.03
+ollikahn23: checks 
+*** FLOP *** [9h 8c Jd]
+Gissbon: checks 
+ollikahn23: checks 
+karasev13: checks 
+*** TURN *** [9h 8c Jd] [9d]
+Gissbon: checks 
+ollikahn23: checks 
+karasev13: checks 
+*** RIVER *** [9h 8c Jd 9d] [6c]
+Gissbon: checks 
+ollikahn23: bets $0.10
+karasev13: calls $0.10
+Gissbon: folds 
+*** SHOW DOWN ***
+ollikahn23: shows [Kh 5h] (a pair of Nines)
+karasev13: shows [6d Qc] (two pair, Nines and Sixes)
+karasev13 collected $0.34 from pot
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [9h 8c Jd 9d 6c]
+Seat 1: ollikahn23 (big blind) showed [Kh 5h] and lost with a pair of Nines
+Seat 2: The Bucinator folded before Flop (didn't bet)
+Seat 3: Maddin_C folded before Flop (didn't bet)
+Seat 4: patiurs folded before Flop (didn't bet)
+Seat 5: Liahim.rus folded before Flop (didn't bet)
+Seat 7: JBARROS41 folded before Flop (didn't bet)
+Seat 8: karasev13 (button) showed [6d Qc] and won ($0.34) with two pair, Nines and Sixes
+Seat 9: Gissbon (small blind) folded on the River
+
+
+
+PokerStars Hand #184040846244:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/18 16:44:49 ET
+Table 'Aspidiske' 9-max Seat #9 is the button
+Seat 1: ollikahn23 ($3 in chips) 
+Seat 2: The Bucinator ($5.66 in chips) 
+Seat 3: Maddin_C ($5.04 in chips) 
+Seat 4: patiurs ($6.86 in chips) 
+Seat 5: Liahim.rus ($6.14 in chips) 
+Seat 7: JBARROS41 ($6.04 in chips) 
+Seat 8: karasev13 ($2.05 in chips) 
+Seat 9: Gissbon ($5.04 in chips) 
+ollikahn23: posts small blind $0.02
+The Bucinator: posts big blind $0.05
+bolonko138: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jd Kc]
+Maddin_C: folds 
+patiurs: folds 
+Liahim.rus: folds 
+JBARROS41: folds 
+karasev13: folds 
+Gissbon: folds 
+ollikahn23: raises $0.05 to $0.10
+The Bucinator: folds 
+Uncalled bet ($0.05) returned to ollikahn23
+ollikahn23 collected $0.10 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: ollikahn23 (small blind) collected ($0.10)
+Seat 2: The Bucinator (big blind) folded before Flop
+Seat 3: Maddin_C folded before Flop (didn't bet)
+Seat 4: patiurs folded before Flop (didn't bet)
+Seat 5: Liahim.rus folded before Flop (didn't bet)
+Seat 7: JBARROS41 folded before Flop (didn't bet)
+Seat 8: karasev13 folded before Flop (didn't bet)
+Seat 9: Gissbon (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184040863788:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/18 16:45:08 ET
+Table 'Aspidiske' 9-max Seat #1 is the button
+Seat 1: ollikahn23 ($3.05 in chips) 
+Seat 2: The Bucinator ($5.61 in chips) 
+Seat 3: Maddin_C ($5.04 in chips) 
+Seat 4: patiurs ($6.86 in chips) 
+Seat 5: Liahim.rus ($6.14 in chips) 
+Seat 7: JBARROS41 ($6.04 in chips) 
+Seat 8: karasev13 ($2.05 in chips) 
+Seat 9: Gissbon ($5.04 in chips) 
+The Bucinator: posts small blind $0.02
+Maddin_C: posts big blind $0.05
+bolonko138: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2c Qs]
+patiurs: folds 
+Liahim.rus: folds 
+JBARROS41: folds 
+karasev13: folds 
+Gissbon: raises $0.10 to $0.15
+ollikahn23: calls $0.15
+The Bucinator: folds 
+Maddin_C: calls $0.10
+*** FLOP *** [Js 7d 3s]
+Maddin_C: checks 
+Gissbon: bets $0.23
+ollikahn23: folds 
+Maddin_C: calls $0.23
+*** TURN *** [Js 7d 3s] [6d]
+Maddin_C: checks 
+Gissbon: checks 
+*** RIVER *** [Js 7d 3s 6d] [9h]
+Maddin_C: bets $0.45
+Gissbon: raises $2.24 to $2.69
+Maddin_C: folds 
+Uncalled bet ($2.24) returned to Gissbon
+Gissbon collected $1.75 from pot
+Gissbon: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.83 | Rake $0.08 
+Board [Js 7d 3s 6d 9h]
+Seat 1: ollikahn23 (button) folded on the Flop
+Seat 2: The Bucinator (small blind) folded before Flop
+Seat 3: Maddin_C (big blind) folded on the River
+Seat 4: patiurs folded before Flop (didn't bet)
+Seat 5: Liahim.rus folded before Flop (didn't bet)
+Seat 7: JBARROS41 folded before Flop (didn't bet)
+Seat 8: karasev13 folded before Flop (didn't bet)
+Seat 9: Gissbon collected ($1.75)
+
+
+
+PokerStars Hand #184040929842:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/18 16:46:15 ET
+Table 'Aspidiske' 9-max Seat #2 is the button
+Seat 1: ollikahn23 ($2.90 in chips) 
+Seat 2: The Bucinator ($5.59 in chips) 
+Seat 3: Maddin_C ($5 in chips) 
+Seat 4: patiurs ($6.86 in chips) 
+Seat 5: Liahim.rus ($6.14 in chips) 
+Seat 7: JBARROS41 ($6.04 in chips) 
+Seat 8: karasev13 ($2.05 in chips) 
+Seat 9: Gissbon ($5.96 in chips) 
+Maddin_C: posts small blind $0.02
+patiurs: posts big blind $0.05
+bolonko138: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ac 4c]
+Liahim.rus: folds 
+JBARROS41: folds 
+karasev13: folds 
+Gissbon: raises $0.10 to $0.15
+ollikahn23: calls $0.15
+The Bucinator has timed out
+The Bucinator: folds 
+Maddin_C: folds 
+patiurs: folds 
+*** FLOP *** [Ts Qd Ks]
+Gissbon: bets $0.19
+ollikahn23: raises $0.21 to $0.40
+Gissbon: calls $0.21
+*** TURN *** [Ts Qd Ks] [As]
+Gissbon: checks 
+ollikahn23: checks 
+*** RIVER *** [Ts Qd Ks As] [Qc]
+Gissbon: bets $5.41 and is all-in
+ollikahn23: folds 
+Uncalled bet ($5.41) returned to Gissbon
+Gissbon collected $1.12 from pot
+Gissbon: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.17 | Rake $0.05 
+Board [Ts Qd Ks As Qc]
+Seat 1: ollikahn23 folded on the River
+Seat 2: The Bucinator (button) folded before Flop (didn't bet)
+Seat 3: Maddin_C (small blind) folded before Flop
+Seat 4: patiurs (big blind) folded before Flop
+Seat 5: Liahim.rus folded before Flop (didn't bet)
+Seat 7: JBARROS41 folded before Flop (didn't bet)
+Seat 8: karasev13 folded before Flop (didn't bet)
+Seat 9: Gissbon collected ($1.12)
+
+
+
+PokerStars Hand #184041008156:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/18 16:47:30 ET
+Table 'Aspidiske' 9-max Seat #3 is the button
+Seat 1: ollikahn23 ($2.35 in chips) 
+Seat 3: Maddin_C ($5 in chips) 
+Seat 4: patiurs ($6.81 in chips) 
+Seat 5: Liahim.rus ($6.14 in chips) 
+Seat 7: JBARROS41 ($6.04 in chips) 
+Seat 8: karasev13 ($2.05 in chips) 
+Seat 9: Gissbon ($6.53 in chips) 
+patiurs: posts small blind $0.02
+Liahim.rus: posts big blind $0.05
+bolonko138: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5c Kc]
+JBARROS41: folds 
+karasev13: calls $0.05
+Gissbon: folds 
+ollikahn23: raises $0.15 to $0.20
+Maddin_C: folds 
+patiurs: folds 
+Liahim.rus: folds 
+karasev13: calls $0.15
+*** FLOP *** [Qh 3s 7s]
+karasev13: checks 
+ollikahn23: bets $0.20
+karasev13: calls $0.20
+*** TURN *** [Qh 3s 7s] [9h]
+karasev13: checks 
+ollikahn23: bets $0.55
+karasev13: calls $0.55
+*** RIVER *** [Qh 3s 7s 9h] [5h]
+karasev13: checks 
+ollikahn23: checks 
+*** SHOW DOWN ***
+karasev13: shows [Ts Th] (a pair of Tens)
+ollikahn23: mucks hand 
+karasev13 collected $1.89 from pot
+*** SUMMARY ***
+Total pot $1.97 | Rake $0.08 
+Board [Qh 3s 7s 9h 5h]
+Seat 1: ollikahn23 mucked [5c Kc]
+Seat 3: Maddin_C (button) folded before Flop (didn't bet)
+Seat 4: patiurs (small blind) folded before Flop
+Seat 5: Liahim.rus (big blind) folded before Flop
+Seat 7: JBARROS41 folded before Flop (didn't bet)
+Seat 8: karasev13 showed [Ts Th] and won ($1.89) with a pair of Tens
+Seat 9: Gissbon folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184041123740:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/18 16:49:29 ET
+Table 'Aspidiske' 9-max Seat #4 is the button
+Seat 1: ollikahn23 ($1.40 in chips) 
+Seat 3: Maddin_C ($5 in chips) 
+Seat 4: patiurs ($6.79 in chips) 
+Seat 5: Liahim.rus ($6.09 in chips) 
+Seat 6: bolonko138 ($5 in chips) 
+Seat 7: JBARROS41 ($6.04 in chips) 
+Seat 8: karasev13 ($2.99 in chips) 
+Seat 9: Gissbon ($6.53 in chips) 
+Liahim.rus: posts small blind $0.02
+bolonko138: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kc Kh]
+JBARROS41: folds 
+karasev13: folds 
+Gissbon: raises $0.10 to $0.15
+ollikahn23: raises $0.20 to $0.35
+Maddin_C: folds 
+patiurs: raises $0.92 to $1.27
+Liahim.rus: folds 
+bolonko138: folds 
+Gissbon: folds 
+ollikahn23: raises $0.13 to $1.40 and is all-in
+patiurs: calls $0.13
+*** FLOP *** [4c 2s Ts]
+*** TURN *** [4c 2s Ts] [9h]
+*** RIVER *** [4c 2s Ts 9h] [3h]
+*** SHOW DOWN ***
+ollikahn23: shows [Kc Kh] (a pair of Kings)
+patiurs: shows [Ac Ad] (a pair of Aces)
+patiurs collected $2.89 from pot
+*** SUMMARY ***
+Total pot $3.02 | Rake $0.13 
+Board [4c 2s Ts 9h 3h]
+Seat 1: ollikahn23 showed [Kc Kh] and lost with a pair of Kings
+Seat 3: Maddin_C folded before Flop (didn't bet)
+Seat 4: patiurs (button) showed [Ac Ad] and won ($2.89) with a pair of Aces
+Seat 5: Liahim.rus (small blind) folded before Flop
+Seat 6: bolonko138 (big blind) folded before Flop
+Seat 7: JBARROS41 folded before Flop (didn't bet)
+Seat 8: karasev13 folded before Flop (didn't bet)
+Seat 9: Gissbon folded before Flop
+
+
+

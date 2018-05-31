@@ -1,0 +1,306 @@
+﻿PokerStars Hand #186248016506: Tournament #2301552523, 37 SC Hold'em No Limit - Level I (25/50) - 2018/05/10 17:25:58 CET [2018/05/10 11:25:58 ET]
+Table '2301552523 1' 6-max Seat #1 is the button
+Seat 1: 88TOP10 (500 in chips) 
+Seat 2: ollikahn23 (500 in chips) 
+Seat 3: EDERMKT (500 in chips) 
+Seat 4: Danielacta (500 in chips) 
+Seat 5: HoangGiaLong (500 in chips) 
+Seat 6: Rasta5262 (500 in chips) 
+88TOP10: posts the ante 10
+ollikahn23: posts the ante 10
+EDERMKT: posts the ante 10
+Danielacta: posts the ante 10
+HoangGiaLong: posts the ante 10
+Rasta5262: posts the ante 10
+ollikahn23: posts small blind 25
+EDERMKT: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qc 8s]
+Danielacta: folds 
+HoangGiaLong: raises 250 to 300
+Rasta5262: raises 190 to 490 and is all-in
+88TOP10: calls 490 and is all-in
+ollikahn23: folds 
+EDERMKT: folds 
+HoangGiaLong: calls 190 and is all-in
+*** FLOP *** [2d 6d 9s]
+*** TURN *** [2d 6d 9s] [Ts]
+*** RIVER *** [2d 6d 9s Ts] [Qd]
+*** SHOW DOWN ***
+HoangGiaLong: shows [Ks As] (high card Ace)
+Rasta5262: shows [8c Jc] (a straight, Eight to Queen)
+88TOP10: shows [Qh 8h] (a pair of Queens)
+Rasta5262 collected 1605 from pot
+88TOP10 finished the tournament in 5th place
+HoangGiaLong finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 1605 | Rake 0 
+Board [2d 6d 9s Ts Qd]
+Seat 1: 88TOP10 (button) showed [Qh 8h] and lost with a pair of Queens
+Seat 2: ollikahn23 (small blind) folded before Flop
+Seat 3: EDERMKT (big blind) folded before Flop
+Seat 4: Danielacta folded before Flop (didn't bet)
+Seat 5: HoangGiaLong showed [Ks As] and lost with high card Ace
+Seat 6: Rasta5262 showed [8c Jc] and won (1605) with a straight, Eight to Queen
+
+
+
+PokerStars Hand #186248032522: Tournament #2301552523, 37 SC Hold'em No Limit - Level I (25/50) - 2018/05/10 17:26:25 CET [2018/05/10 11:26:25 ET]
+Table '2301552523 1' 6-max Seat #2 is the button
+Seat 2: ollikahn23 (465 in chips) 
+Seat 3: EDERMKT (440 in chips) 
+Seat 4: Danielacta (490 in chips) 
+Seat 6: Rasta5262 (1605 in chips) 
+ollikahn23: posts the ante 10
+EDERMKT: posts the ante 10
+Danielacta: posts the ante 10
+Rasta5262: posts the ante 10
+EDERMKT: posts small blind 25
+Danielacta: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6c 4s]
+Rasta5262: raises 1545 to 1595 and is all-in
+ollikahn23: folds 
+EDERMKT: calls 405 and is all-in
+Danielacta: calls 430 and is all-in
+Uncalled bet (1115) returned to Rasta5262
+*** FLOP *** [7h 9h 6h]
+*** TURN *** [7h 9h 6h] [Jc]
+*** RIVER *** [7h 9h 6h Jc] [Ks]
+*** SHOW DOWN ***
+Danielacta: shows [8h Th] (a straight flush, Six to Ten)
+Rasta5262: shows [8s Qh] (high card King)
+Danielacta collected 100 from side pot
+EDERMKT: shows [Kh Js] (two pair, Kings and Jacks)
+Danielacta collected 1330 from main pot
+EDERMKT finished the tournament in 4th place
+*** SUMMARY ***
+Total pot 1430 Main pot 1330. Side pot 100. | Rake 0 
+Board [7h 9h 6h Jc Ks]
+Seat 2: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 3: EDERMKT (small blind) showed [Kh Js] and lost with two pair, Kings and Jacks
+Seat 4: Danielacta (big blind) showed [8h Th] and won (1430) with a straight flush, Six to Ten
+Seat 6: Rasta5262 showed [8s Qh] and lost with high card King
+
+
+
+PokerStars Hand #186248043953: Tournament #2301552523, 37 SC Hold'em No Limit - Level I (25/50) - 2018/05/10 17:26:45 CET [2018/05/10 11:26:45 ET]
+Table '2301552523 1' 6-max Seat #4 is the button
+Seat 2: ollikahn23 (455 in chips) 
+Seat 4: Danielacta (1430 in chips) 
+Seat 6: Rasta5262 (1115 in chips) 
+ollikahn23: posts the ante 10
+Danielacta: posts the ante 10
+Rasta5262: posts the ante 10
+Rasta5262: posts small blind 25
+ollikahn23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8d 6h]
+Danielacta: raises 1370 to 1420 and is all-in
+Rasta5262: folds 
+ollikahn23: folds 
+Uncalled bet (1370) returned to Danielacta
+Danielacta collected 155 from pot
+Danielacta: doesn't show hand 
+*** SUMMARY ***
+Total pot 155 | Rake 0 
+Seat 2: ollikahn23 (big blind) folded before Flop
+Seat 4: Danielacta (button) collected (155)
+Seat 6: Rasta5262 (small blind) folded before Flop
+
+
+
+PokerStars Hand #186248051460: Tournament #2301552523, 37 SC Hold'em No Limit - Level I (25/50) - 2018/05/10 17:26:58 CET [2018/05/10 11:26:58 ET]
+Table '2301552523 1' 6-max Seat #6 is the button
+Seat 2: ollikahn23 (395 in chips) 
+Seat 4: Danielacta (1525 in chips) 
+Seat 6: Rasta5262 (1080 in chips) 
+ollikahn23: posts the ante 10
+Danielacta: posts the ante 10
+Rasta5262: posts the ante 10
+ollikahn23: posts small blind 25
+Danielacta: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2s Kc]
+Rasta5262: raises 1020 to 1070 and is all-in
+ollikahn23: folds 
+Danielacta: calls 1020
+*** FLOP *** [9c 4s 8h]
+*** TURN *** [9c 4s 8h] [2d]
+*** RIVER *** [9c 4s 8h 2d] [Qc]
+*** SHOW DOWN ***
+Danielacta: shows [5s As] (high card Ace)
+Rasta5262: shows [9d Jc] (a pair of Nines)
+Rasta5262 collected 2195 from pot
+*** SUMMARY ***
+Total pot 2195 | Rake 0 
+Board [9c 4s 8h 2d Qc]
+Seat 2: ollikahn23 (small blind) folded before Flop
+Seat 4: Danielacta (big blind) showed [5s As] and lost with high card Ace
+Seat 6: Rasta5262 (button) showed [9d Jc] and won (2195) with a pair of Nines
+
+
+
+PokerStars Hand #186248060856: Tournament #2301552523, 37 SC Hold'em No Limit - Level I (25/50) - 2018/05/10 17:27:14 CET [2018/05/10 11:27:14 ET]
+Table '2301552523 1' 6-max Seat #2 is the button
+Seat 2: ollikahn23 (360 in chips) 
+Seat 4: Danielacta (445 in chips) 
+Seat 6: Rasta5262 (2195 in chips) 
+ollikahn23: posts the ante 10
+Danielacta: posts the ante 10
+Rasta5262: posts the ante 10
+Danielacta: posts small blind 25
+Rasta5262: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4h 3c]
+ollikahn23: folds 
+Danielacta: raises 385 to 435 and is all-in
+Rasta5262: calls 385
+*** FLOP *** [9c 6d 2c]
+*** TURN *** [9c 6d 2c] [3h]
+*** RIVER *** [9c 6d 2c 3h] [Jh]
+*** SHOW DOWN ***
+Danielacta: shows [2h 5d] (a pair of Deuces)
+Rasta5262: shows [Ac Kd] (high card Ace)
+Danielacta collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Board [9c 6d 2c 3h Jh]
+Seat 2: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 4: Danielacta (small blind) showed [2h 5d] and won (900) with a pair of Deuces
+Seat 6: Rasta5262 (big blind) showed [Ac Kd] and lost with high card Ace
+
+
+
+PokerStars Hand #186248069647: Tournament #2301552523, 37 SC Hold'em No Limit - Level I (25/50) - 2018/05/10 17:27:28 CET [2018/05/10 11:27:28 ET]
+Table '2301552523 1' 6-max Seat #4 is the button
+Seat 2: ollikahn23 (350 in chips) 
+Seat 4: Danielacta (900 in chips) 
+Seat 6: Rasta5262 (1750 in chips) 
+ollikahn23: posts the ante 10
+Danielacta: posts the ante 10
+Rasta5262: posts the ante 10
+Rasta5262: posts small blind 25
+ollikahn23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6h 6c]
+Danielacta: raises 840 to 890 and is all-in
+Rasta5262: raises 840 to 1730
+ollikahn23: folds 
+Uncalled bet (840) returned to Rasta5262
+*** FLOP *** [Qd 2d 4s]
+*** TURN *** [Qd 2d 4s] [Jh]
+*** RIVER *** [Qd 2d 4s Jh] [3d]
+*** SHOW DOWN ***
+Rasta5262: shows [Qc 3c] (two pair, Queens and Threes)
+Danielacta: shows [Ks 7c] (high card King)
+Rasta5262 collected 1860 from pot
+Danielacta finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1860 | Rake 0 
+Board [Qd 2d 4s Jh 3d]
+Seat 2: ollikahn23 (big blind) folded before Flop
+Seat 4: Danielacta (button) showed [Ks 7c] and lost with high card King
+Seat 6: Rasta5262 (small blind) showed [Qc 3c] and won (1860) with two pair, Queens and Threes
+
+
+
+PokerStars Hand #186248082298: Tournament #2301552523, 37 SC Hold'em No Limit - Level I (25/50) - 2018/05/10 17:27:50 CET [2018/05/10 11:27:50 ET]
+Table '2301552523 1' 6-max Seat #6 is the button
+Seat 2: ollikahn23 (290 in chips) 
+Seat 6: Rasta5262 (2710 in chips) 
+ollikahn23: posts the ante 10
+Rasta5262: posts the ante 10
+Rasta5262: posts small blind 25
+ollikahn23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6c 7s]
+Rasta5262: raises 2650 to 2700 and is all-in
+ollikahn23: folds 
+Uncalled bet (2650) returned to Rasta5262
+Rasta5262 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: ollikahn23 (big blind) folded before Flop
+Seat 6: Rasta5262 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #186248085718: Tournament #2301552523, 37 SC Hold'em No Limit - Level I (25/50) - 2018/05/10 17:27:56 CET [2018/05/10 11:27:56 ET]
+Table '2301552523 1' 6-max Seat #2 is the button
+Seat 2: ollikahn23 (230 in chips) 
+Seat 6: Rasta5262 (2770 in chips) 
+ollikahn23: posts the ante 10
+Rasta5262: posts the ante 10
+ollikahn23: posts small blind 25
+Rasta5262: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jc Tc]
+ollikahn23: raises 170 to 220 and is all-in
+Rasta5262: calls 170
+*** FLOP *** [As Qd 8h]
+*** TURN *** [As Qd 8h] [Ts]
+*** RIVER *** [As Qd 8h Ts] [Td]
+*** SHOW DOWN ***
+Rasta5262: shows [Ac 7d] (two pair, Aces and Tens)
+ollikahn23: shows [Jc Tc] (three of a kind, Tens)
+ollikahn23 collected 460 from pot
+*** SUMMARY ***
+Total pot 460 | Rake 0 
+Board [As Qd 8h Ts Td]
+Seat 2: ollikahn23 (button) (small blind) showed [Jc Tc] and won (460) with three of a kind, Tens
+Seat 6: Rasta5262 (big blind) showed [Ac 7d] and lost with two pair, Aces and Tens
+
+
+
+PokerStars Hand #186248093196: Tournament #2301552523, 37 SC Hold'em No Limit - Level I (25/50) - 2018/05/10 17:28:08 CET [2018/05/10 11:28:08 ET]
+Table '2301552523 1' 6-max Seat #6 is the button
+Seat 2: ollikahn23 (460 in chips) 
+Seat 6: Rasta5262 (2540 in chips) 
+ollikahn23: posts the ante 10
+Rasta5262: posts the ante 10
+Rasta5262: posts small blind 25
+ollikahn23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6s 9s]
+Rasta5262: raises 2480 to 2530 and is all-in
+ollikahn23: folds 
+Uncalled bet (2480) returned to Rasta5262
+Rasta5262 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: ollikahn23 (big blind) folded before Flop
+Seat 6: Rasta5262 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #186248099171: Tournament #2301552523, 37 SC Hold'em No Limit - Level II (50/100) - 2018/05/10 17:28:18 CET [2018/05/10 11:28:18 ET]
+Table '2301552523 1' 6-max Seat #2 is the button
+Seat 2: ollikahn23 (400 in chips) 
+Seat 6: Rasta5262 (2600 in chips) 
+ollikahn23: posts the ante 20
+Rasta5262: posts the ante 20
+ollikahn23: posts small blind 50
+Rasta5262: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jd 4d]
+ollikahn23: raises 280 to 380 and is all-in
+Rasta5262: calls 280
+*** FLOP *** [4h 2d 4c]
+*** TURN *** [4h 2d 4c] [Th]
+*** RIVER *** [4h 2d 4c Th] [7h]
+*** SHOW DOWN ***
+Rasta5262: shows [Jh 6h] (a flush, Jack high)
+ollikahn23: shows [Jd 4d] (three of a kind, Fours)
+Rasta5262 collected 800 from pot
+ollikahn23 finished the tournament in 2nd place and received 2 Redemption Points.
+Rasta5262 wins the tournament - congratulations!
+Rasta5262 wins an entry to tournament #2297289073
+*** SUMMARY ***
+Total pot 800 | Rake 0 
+Board [4h 2d 4c Th 7h]
+Seat 2: ollikahn23 (button) (small blind) showed [Jd 4d] and lost with three of a kind, Fours
+Seat 6: Rasta5262 (big blind) showed [Jh 6h] and won (800) with a flush, Jack high
+
+
+

@@ -1,0 +1,3507 @@
+﻿PokerStars Hand #185308564874: Tournament #2280915719, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/04/16 14:41:36 ET
+Table '2280915719 6' 9-max Seat #1 is the button
+Seat 1: RMariano89 (1712 in chips) 
+Seat 2: gucci99 (1482 in chips) 
+Seat 3: Liamtamina (4677 in chips) 
+Seat 6: ollikahn23 (1500 in chips) 
+Seat 9: krisireka (1500 in chips) 
+RMariano89: posts the ante 3
+gucci99: posts the ante 3
+Liamtamina: posts the ante 3
+ollikahn23: posts the ante 3
+krisireka: posts the ante 3
+gucci99: posts small blind 10
+Liamtamina: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4d 8c]
+ollikahn23 is connected 
+ollikahn23: folds 
+krisireka: folds 
+RMariano89: folds 
+gucci99: calls 10
+Liamtamina: checks 
+*** FLOP *** [Kc 7d Jc]
+gucci99: bets 28
+Liamtamina: raises 28 to 56
+gucci99: folds 
+Uncalled bet (28) returned to Liamtamina
+Liamtamina collected 111 from pot
+Liamtamina: doesn't show hand 
+*** SUMMARY ***
+Total pot 111 | Rake 0 
+Board [Kc 7d Jc]
+Seat 1: RMariano89 (button) folded before Flop (didn't bet)
+Seat 2: gucci99 (small blind) folded on the Flop
+Seat 3: Liamtamina (big blind) collected (111)
+Seat 6: ollikahn23 folded before Flop (didn't bet)
+Seat 9: krisireka folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185308587540: Tournament #2280915719, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/04/16 14:42:05 ET
+Table '2280915719 6' 9-max Seat #2 is the button
+Seat 1: RMariano89 (1709 in chips) 
+Seat 2: gucci99 (1431 in chips) 
+Seat 3: Liamtamina (4737 in chips) 
+Seat 4: Lenda Flavio (1431 in chips) 
+Seat 5: YannickPoker1 (1604 in chips) 
+Seat 6: ollikahn23 (1497 in chips) 
+Seat 7: Dizinfektor (1174 in chips) 
+Seat 9: krisireka (1497 in chips) 
+RMariano89: posts the ante 3
+gucci99: posts the ante 3
+Liamtamina: posts the ante 3
+Lenda Flavio: posts the ante 3
+YannickPoker1: posts the ante 3
+ollikahn23: posts the ante 3
+Dizinfektor: posts the ante 3
+krisireka: posts the ante 3
+Liamtamina: posts small blind 10
+Lenda Flavio: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6s 4h]
+YannickPoker1: folds 
+ollikahn23: folds 
+Dizinfektor: folds 
+krisireka: folds 
+RMariano89: raises 40 to 60
+gucci99: calls 60
+Liamtamina: calls 50
+Lenda Flavio: calls 40
+*** FLOP *** [Th 7h 5d]
+Liamtamina: checks 
+Lenda Flavio: checks 
+RMariano89: checks 
+gucci99: bets 177
+Liamtamina: calls 177
+Lenda Flavio: calls 177
+RMariano89: folds 
+*** TURN *** [Th 7h 5d] [6d]
+Liamtamina: checks 
+Lenda Flavio: checks 
+gucci99: checks 
+*** RIVER *** [Th 7h 5d 6d] [Tc]
+Liamtamina: checks 
+Lenda Flavio: checks 
+gucci99: checks 
+*** SHOW DOWN ***
+Liamtamina: shows [7d 9c] (two pair, Tens and Sevens)
+Lenda Flavio: mucks hand 
+gucci99: shows [Ts Qc] (three of a kind, Tens)
+gucci99 collected 795 from pot
+*** SUMMARY ***
+Total pot 795 | Rake 0 
+Board [Th 7h 5d 6d Tc]
+Seat 1: RMariano89 folded on the Flop
+Seat 2: gucci99 (button) showed [Ts Qc] and won (795) with three of a kind, Tens
+Seat 3: Liamtamina (small blind) showed [7d 9c] and lost with two pair, Tens and Sevens
+Seat 4: Lenda Flavio (big blind) mucked [3h Ah]
+Seat 5: YannickPoker1 folded before Flop (didn't bet)
+Seat 6: ollikahn23 folded before Flop (didn't bet)
+Seat 7: Dizinfektor folded before Flop (didn't bet)
+Seat 9: krisireka folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185308679159: Tournament #2280915719, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/04/16 14:44:01 ET
+Table '2280915719 6' 9-max Seat #3 is the button
+Seat 1: RMariano89 (1646 in chips) 
+Seat 2: gucci99 (1986 in chips) 
+Seat 3: Liamtamina (4497 in chips) 
+Seat 4: Lenda Flavio (1191 in chips) 
+Seat 5: YannickPoker1 (1601 in chips) 
+Seat 6: ollikahn23 (1494 in chips) 
+Seat 7: Dizinfektor (1171 in chips) 
+Seat 8: spackattack78 (1500 in chips) 
+Seat 9: krisireka (1494 in chips) 
+RMariano89: posts the ante 3
+gucci99: posts the ante 3
+Liamtamina: posts the ante 3
+Lenda Flavio: posts the ante 3
+YannickPoker1: posts the ante 3
+ollikahn23: posts the ante 3
+Dizinfektor: posts the ante 3
+spackattack78: posts the ante 3
+krisireka: posts the ante 3
+Lenda Flavio: posts small blind 10
+YannickPoker1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8d 2c]
+ollikahn23: folds 
+Dizinfektor: folds 
+spackattack78: folds 
+krisireka: folds 
+RMariano89: folds 
+gucci99: raises 40 to 60
+Liamtamina: folds 
+Lenda Flavio: folds 
+YannickPoker1: folds 
+Uncalled bet (40) returned to gucci99
+gucci99 collected 77 from pot
+*** SUMMARY ***
+Total pot 77 | Rake 0 
+Seat 1: RMariano89 folded before Flop (didn't bet)
+Seat 2: gucci99 collected (77)
+Seat 3: Liamtamina (button) folded before Flop (didn't bet)
+Seat 4: Lenda Flavio (small blind) folded before Flop
+Seat 5: YannickPoker1 (big blind) folded before Flop
+Seat 6: ollikahn23 folded before Flop (didn't bet)
+Seat 7: Dizinfektor folded before Flop (didn't bet)
+Seat 8: spackattack78 folded before Flop (didn't bet)
+Seat 9: krisireka folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185308712156: Tournament #2280915719, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/04/16 14:44:43 ET
+Table '2280915719 7' 9-max Seat #1 is the button
+Seat 1: ollikahn23 (1491 in chips) 
+Seat 2: Mi Koseki (1329 in chips) 
+Seat 3: Alfonzo299 (2664 in chips) 
+Seat 4: ShadowRenegade (1751 in chips) 
+Seat 5: remco2412 (1628 in chips) 
+ollikahn23: posts the ante 3
+Mi Koseki: posts the ante 3
+Alfonzo299: posts the ante 3
+ShadowRenegade: posts the ante 3
+remco2412: posts the ante 3
+Mi Koseki: posts small blind 10
+Alfonzo299: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2d 7s]
+ShadowRenegade: folds 
+remco2412: folds 
+ollikahn23: folds 
+Mi Koseki: raises 60 to 80
+Alfonzo299: calls 60
+*** FLOP *** [Kh 9s Jd]
+Mi Koseki: bets 80
+Alfonzo299: calls 80
+*** TURN *** [Kh 9s Jd] [Kc]
+Mi Koseki: checks 
+Alfonzo299: checks 
+*** RIVER *** [Kh 9s Jd Kc] [Jc]
+Mi Koseki: checks 
+Alfonzo299: bets 168
+Mi Koseki: calls 168
+*** SHOW DOWN ***
+Alfonzo299: shows [8c 9h] (two pair, Kings and Jacks)
+Mi Koseki: shows [Qh Jh] (a full house, Jacks full of Kings)
+Mi Koseki collected 671 from pot
+*** SUMMARY ***
+Total pot 671 | Rake 0 
+Board [Kh 9s Jd Kc Jc]
+Seat 1: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 2: Mi Koseki (small blind) showed [Qh Jh] and won (671) with a full house, Jacks full of Kings
+Seat 3: Alfonzo299 (big blind) showed [8c 9h] and lost with two pair, Kings and Jacks
+Seat 4: ShadowRenegade folded before Flop (didn't bet)
+Seat 5: remco2412 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185308784060: Tournament #2280915719, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/04/16 14:46:13 ET
+Table '2280915719 7' 9-max Seat #2 is the button
+Seat 1: ollikahn23 (1488 in chips) 
+Seat 2: Mi Koseki (1669 in chips) 
+Seat 3: Alfonzo299 (2333 in chips) 
+Seat 4: ShadowRenegade (1748 in chips) 
+Seat 5: remco2412 (1625 in chips) 
+Seat 6: delisle1283 (282 in chips) 
+Seat 7: BCEOTEU, (1500 in chips) 
+Seat 8: deadbogdan (1500 in chips) 
+Seat 9: Jahpa 13 (1500 in chips) 
+ollikahn23: posts the ante 3
+Mi Koseki: posts the ante 3
+Alfonzo299: posts the ante 3
+ShadowRenegade: posts the ante 3
+remco2412: posts the ante 3
+delisle1283: posts the ante 3
+BCEOTEU,: posts the ante 3
+deadbogdan: posts the ante 3
+Jahpa 13: posts the ante 3
+Alfonzo299: posts small blind 10
+ShadowRenegade: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7d 8d]
+remco2412: folds 
+delisle1283: folds 
+BCEOTEU,: folds 
+deadbogdan: folds 
+Jahpa 13: raises 40 to 60
+ollikahn23: calls 60
+Mi Koseki: folds 
+Alfonzo299: raises 100 to 160
+ShadowRenegade: folds 
+Jahpa 13: folds 
+ollikahn23: folds 
+Uncalled bet (100) returned to Alfonzo299
+Alfonzo299 collected 227 from pot
+*** SUMMARY ***
+Total pot 227 | Rake 0 
+Seat 1: ollikahn23 folded before Flop
+Seat 2: Mi Koseki (button) folded before Flop (didn't bet)
+Seat 3: Alfonzo299 (small blind) collected (227)
+Seat 4: ShadowRenegade (big blind) folded before Flop
+Seat 5: remco2412 folded before Flop (didn't bet)
+Seat 6: delisle1283 folded before Flop (didn't bet)
+Seat 7: BCEOTEU, folded before Flop (didn't bet)
+Seat 8: deadbogdan folded before Flop (didn't bet)
+Seat 9: Jahpa 13 folded before Flop
+
+
+
+PokerStars Hand #185308819998: Tournament #2280915719, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/04/16 14:46:58 ET
+Table '2280915719 7' 9-max Seat #3 is the button
+Seat 1: ollikahn23 (1425 in chips) 
+Seat 2: Mi Koseki (1666 in chips) 
+Seat 3: Alfonzo299 (2497 in chips) 
+Seat 4: ShadowRenegade (1725 in chips) 
+Seat 5: remco2412 (1622 in chips) 
+Seat 6: delisle1283 (279 in chips) 
+Seat 7: BCEOTEU, (1497 in chips) 
+Seat 8: deadbogdan (1497 in chips) 
+Seat 9: Jahpa 13 (1437 in chips) 
+ollikahn23: posts the ante 3
+Mi Koseki: posts the ante 3
+Alfonzo299: posts the ante 3
+ShadowRenegade: posts the ante 3
+remco2412: posts the ante 3
+delisle1283: posts the ante 3
+BCEOTEU,: posts the ante 3
+deadbogdan: posts the ante 3
+Jahpa 13: posts the ante 3
+ShadowRenegade: posts small blind 10
+remco2412: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [As 2c]
+delisle1283: raises 256 to 276 and is all-in
+BCEOTEU,: folds 
+deadbogdan: raises 256 to 532
+Jahpa 13: folds 
+ollikahn23: folds 
+Mi Koseki: folds 
+Alfonzo299: raises 1962 to 2494 and is all-in
+ShadowRenegade: folds 
+remco2412: folds 
+deadbogdan: calls 962 and is all-in
+Uncalled bet (1000) returned to Alfonzo299
+*** FLOP *** [5h 3s 8c]
+*** TURN *** [5h 3s 8c] [6h]
+*** RIVER *** [5h 3s 8c 6h] [3c]
+*** SHOW DOWN ***
+deadbogdan: shows [Qs Qc] (two pair, Queens and Threes)
+Alfonzo299: shows [Td Tc] (two pair, Tens and Threes)
+deadbogdan collected 2436 from side pot
+delisle1283: shows [3h Ah] (three of a kind, Threes)
+delisle1283 collected 885 from main pot
+*** SUMMARY ***
+Total pot 3321 Main pot 885. Side pot 2436. | Rake 0 
+Board [5h 3s 8c 6h 3c]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: Mi Koseki folded before Flop (didn't bet)
+Seat 3: Alfonzo299 (button) showed [Td Tc] and lost with two pair, Tens and Threes
+Seat 4: ShadowRenegade (small blind) folded before Flop
+Seat 5: remco2412 (big blind) folded before Flop
+Seat 6: delisle1283 showed [3h Ah] and won (885) with three of a kind, Threes
+Seat 7: BCEOTEU, folded before Flop (didn't bet)
+Seat 8: deadbogdan showed [Qs Qc] and won (2436) with two pair, Queens and Threes
+Seat 9: Jahpa 13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185308859292: Tournament #2280915719, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/04/16 14:47:47 ET
+Table '2280915719 7' 9-max Seat #4 is the button
+Seat 1: ollikahn23 (1422 in chips) 
+Seat 2: Mi Koseki (1663 in chips) 
+Seat 3: Alfonzo299 (1000 in chips) 
+Seat 4: ShadowRenegade (1712 in chips) 
+Seat 5: remco2412 (1599 in chips) 
+Seat 6: delisle1283 (885 in chips) 
+Seat 7: BCEOTEU, (1494 in chips) 
+Seat 8: deadbogdan (2436 in chips) 
+Seat 9: Jahpa 13 (1434 in chips) 
+ollikahn23: posts the ante 3
+Mi Koseki: posts the ante 3
+Alfonzo299: posts the ante 3
+ShadowRenegade: posts the ante 3
+remco2412: posts the ante 3
+delisle1283: posts the ante 3
+BCEOTEU,: posts the ante 3
+deadbogdan: posts the ante 3
+Jahpa 13: posts the ante 3
+remco2412: posts small blind 10
+delisle1283: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Td Tc]
+BCEOTEU,: folds 
+deadbogdan: folds 
+Jahpa 13: folds 
+ollikahn23: raises 60 to 80
+Mi Koseki: folds 
+Alfonzo299: folds 
+ShadowRenegade: folds 
+remco2412: calls 70
+delisle1283: calls 60
+*** FLOP *** [Qs Jd 8h]
+remco2412: bets 20
+delisle1283: folds 
+ollikahn23: calls 20
+*** TURN *** [Qs Jd 8h] [4s]
+remco2412: checks 
+ollikahn23: checks 
+*** RIVER *** [Qs Jd 8h 4s] [Ad]
+remco2412: bets 20
+ollikahn23: calls 20
+*** SHOW DOWN ***
+remco2412: shows [As Th] (a pair of Aces)
+ollikahn23: mucks hand 
+remco2412 collected 347 from pot
+*** SUMMARY ***
+Total pot 347 | Rake 0 
+Board [Qs Jd 8h 4s Ad]
+Seat 1: ollikahn23 mucked [Td Tc]
+Seat 2: Mi Koseki folded before Flop (didn't bet)
+Seat 3: Alfonzo299 folded before Flop (didn't bet)
+Seat 4: ShadowRenegade (button) folded before Flop (didn't bet)
+Seat 5: remco2412 (small blind) showed [As Th] and won (347) with a pair of Aces
+Seat 6: delisle1283 (big blind) folded on the Flop
+Seat 7: BCEOTEU, folded before Flop (didn't bet)
+Seat 8: deadbogdan folded before Flop (didn't bet)
+Seat 9: Jahpa 13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185308912918: Tournament #2280915719, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/04/16 14:48:46 ET
+Table '2280915719 7' 9-max Seat #5 is the button
+Seat 1: ollikahn23 (1299 in chips) 
+Seat 2: Mi Koseki (1660 in chips) 
+Seat 3: Alfonzo299 (997 in chips) 
+Seat 4: ShadowRenegade (1709 in chips) 
+Seat 5: remco2412 (1823 in chips) 
+Seat 6: delisle1283 (802 in chips) 
+Seat 7: BCEOTEU, (1491 in chips) 
+Seat 8: deadbogdan (2433 in chips) 
+Seat 9: Jahpa 13 (1431 in chips) 
+ollikahn23: posts the ante 3
+Mi Koseki: posts the ante 3
+Alfonzo299: posts the ante 3
+ShadowRenegade: posts the ante 3
+remco2412: posts the ante 3
+delisle1283: posts the ante 3
+BCEOTEU,: posts the ante 3
+deadbogdan: posts the ante 3
+Jahpa 13: posts the ante 3
+delisle1283: posts small blind 10
+BCEOTEU,: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2s 7d]
+deadbogdan: folds 
+Jahpa 13: folds 
+ollikahn23: folds 
+Mi Koseki: raises 60 to 80
+Alfonzo299: folds 
+ShadowRenegade: folds 
+remco2412: folds 
+delisle1283: folds 
+BCEOTEU,: calls 60
+*** FLOP *** [8d 3d Qs]
+BCEOTEU,: checks 
+Mi Koseki: checks 
+*** TURN *** [8d 3d Qs] [Ks]
+BCEOTEU,: checks 
+Mi Koseki: checks 
+*** RIVER *** [8d 3d Qs Ks] [Ad]
+BCEOTEU,: checks 
+Mi Koseki: checks 
+*** SHOW DOWN ***
+BCEOTEU,: shows [Ah 2h] (a pair of Aces)
+Mi Koseki: mucks hand 
+BCEOTEU, collected 197 from pot
+*** SUMMARY ***
+Total pot 197 | Rake 0 
+Board [8d 3d Qs Ks Ad]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: Mi Koseki mucked [Td Ts]
+Seat 3: Alfonzo299 folded before Flop (didn't bet)
+Seat 4: ShadowRenegade folded before Flop (didn't bet)
+Seat 5: remco2412 (button) folded before Flop (didn't bet)
+Seat 6: delisle1283 (small blind) folded before Flop
+Seat 7: BCEOTEU, (big blind) showed [Ah 2h] and won (197) with a pair of Aces
+Seat 8: deadbogdan folded before Flop (didn't bet)
+Seat 9: Jahpa 13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185308959495: Tournament #2280915719, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/04/16 14:49:44 ET
+Table '2280915719 7' 9-max Seat #6 is the button
+Seat 1: ollikahn23 (1296 in chips) 
+Seat 2: Mi Koseki (1577 in chips) 
+Seat 3: Alfonzo299 (994 in chips) 
+Seat 4: ShadowRenegade (1706 in chips) 
+Seat 5: remco2412 (1820 in chips) 
+Seat 6: delisle1283 (789 in chips) 
+Seat 7: BCEOTEU, (1605 in chips) 
+Seat 8: deadbogdan (2430 in chips) 
+Seat 9: Jahpa 13 (1428 in chips) 
+ollikahn23: posts the ante 3
+Mi Koseki: posts the ante 3
+Alfonzo299: posts the ante 3
+ShadowRenegade: posts the ante 3
+remco2412: posts the ante 3
+delisle1283: posts the ante 3
+BCEOTEU,: posts the ante 3
+deadbogdan: posts the ante 3
+Jahpa 13: posts the ante 3
+BCEOTEU,: posts small blind 10
+deadbogdan: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8d Qs]
+Jahpa 13: folds 
+ollikahn23: folds 
+Mi Koseki: folds 
+Alfonzo299: calls 20
+ShadowRenegade: folds 
+remco2412: folds 
+delisle1283: folds 
+BCEOTEU,: raises 70 to 90
+deadbogdan: folds 
+Alfonzo299: calls 70
+*** FLOP *** [7h Jh Td]
+BCEOTEU,: checks 
+Alfonzo299: checks 
+*** TURN *** [7h Jh Td] [Kd]
+BCEOTEU,: checks 
+Alfonzo299: checks 
+*** RIVER *** [7h Jh Td Kd] [Qd]
+BCEOTEU,: checks 
+Alfonzo299: bets 240
+BCEOTEU,: calls 240
+*** SHOW DOWN ***
+Alfonzo299: shows [Ad 6c] (a straight, Ten to Ace)
+BCEOTEU,: shows [Th As] (a straight, Ten to Ace)
+BCEOTEU, collected 354 from pot
+Alfonzo299 collected 353 from pot
+*** SUMMARY ***
+Total pot 707 | Rake 0 
+Board [7h Jh Td Kd Qd]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: Mi Koseki folded before Flop (didn't bet)
+Seat 3: Alfonzo299 showed [Ad 6c] and won (353) with a straight, Ten to Ace
+Seat 4: ShadowRenegade folded before Flop (didn't bet)
+Seat 5: remco2412 folded before Flop (didn't bet)
+Seat 6: delisle1283 (button) folded before Flop (didn't bet)
+Seat 7: BCEOTEU, (small blind) showed [Th As] and won (354) with a straight, Ten to Ace
+Seat 8: deadbogdan (big blind) folded before Flop
+Seat 9: Jahpa 13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185309003689: Tournament #2280915719, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/04/16 14:50:40 ET
+Table '2280915719 7' 9-max Seat #7 is the button
+Seat 1: ollikahn23 (1293 in chips) 
+Seat 2: Mi Koseki (1574 in chips) 
+Seat 4: ShadowRenegade (1703 in chips) 
+Seat 5: remco2412 (1817 in chips) 
+Seat 6: delisle1283 (786 in chips) 
+Seat 7: BCEOTEU, (1626 in chips) 
+Seat 8: deadbogdan (2407 in chips) 
+Seat 9: Jahpa 13 (1425 in chips) 
+ollikahn23: posts the ante 3
+Mi Koseki: posts the ante 3
+ShadowRenegade: posts the ante 3
+remco2412: posts the ante 3
+delisle1283: posts the ante 3
+BCEOTEU,: posts the ante 3
+deadbogdan: posts the ante 3
+Jahpa 13: posts the ante 3
+deadbogdan: posts small blind 10
+Jahpa 13: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qh 5d]
+ollikahn23: folds 
+Mi Koseki: folds 
+ShadowRenegade: folds 
+remco2412: folds 
+delisle1283: raises 40 to 60
+BCEOTEU,: folds 
+deadbogdan: raises 160 to 220
+Jahpa 13: folds 
+delisle1283: raises 563 to 783 and is all-in
+deadbogdan: calls 563
+*** FLOP *** [3s 5h 8s]
+*** TURN *** [3s 5h 8s] [Tc]
+*** RIVER *** [3s 5h 8s Tc] [3d]
+*** SHOW DOWN ***
+deadbogdan: shows [Jd Js] (two pair, Jacks and Threes)
+delisle1283: shows [As Kc] (a pair of Threes)
+deadbogdan collected 1610 from pot
+delisle1283 finished the tournament
+*** SUMMARY ***
+Total pot 1610 | Rake 0 
+Board [3s 5h 8s Tc 3d]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: Mi Koseki folded before Flop (didn't bet)
+Seat 4: ShadowRenegade folded before Flop (didn't bet)
+Seat 5: remco2412 folded before Flop (didn't bet)
+Seat 6: delisle1283 showed [As Kc] and lost with a pair of Threes
+Seat 7: BCEOTEU, (button) folded before Flop (didn't bet)
+Seat 8: deadbogdan (small blind) showed [Jd Js] and won (1610) with two pair, Jacks and Threes
+Seat 9: Jahpa 13 (big blind) folded before Flop
+
+
+
+PokerStars Hand #185309043388: Tournament #2280915719, $4.10+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/04/16 14:51:29 ET
+Table '2280915719 7' 9-max Seat #8 is the button
+Seat 1: ollikahn23 (1290 in chips) 
+Seat 2: Mi Koseki (1571 in chips) 
+Seat 4: ShadowRenegade (1700 in chips) 
+Seat 5: remco2412 (1814 in chips) 
+Seat 7: BCEOTEU, (1623 in chips) 
+Seat 8: deadbogdan (3231 in chips) 
+Seat 9: Jahpa 13 (1402 in chips) 
+ollikahn23: posts the ante 3
+Mi Koseki: posts the ante 3
+ShadowRenegade: posts the ante 3
+remco2412: posts the ante 3
+BCEOTEU,: posts the ante 3
+deadbogdan: posts the ante 3
+Jahpa 13: posts the ante 3
+Jahpa 13: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9d Qd]
+Mi Koseki: folds 
+ShadowRenegade: folds 
+remco2412: folds 
+BCEOTEU,: raises 40 to 60
+deadbogdan: folds 
+Jahpa 13: folds 
+ollikahn23: calls 40
+*** FLOP *** [6s 6h Kd]
+ollikahn23: checks 
+BCEOTEU,: bets 55
+ollikahn23: calls 55
+*** TURN *** [6s 6h Kd] [7d]
+ollikahn23: checks 
+BCEOTEU,: bets 90
+ollikahn23: calls 90
+*** RIVER *** [6s 6h Kd 7d] [Kc]
+ollikahn23: checks 
+BCEOTEU,: checks 
+*** SHOW DOWN ***
+ollikahn23: shows [9d Qd] (two pair, Kings and Sixes)
+BCEOTEU,: mucks hand 
+ollikahn23 collected 441 from pot
+*** SUMMARY ***
+Total pot 441 | Rake 0 
+Board [6s 6h Kd 7d Kc]
+Seat 1: ollikahn23 (big blind) showed [9d Qd] and won (441) with two pair, Kings and Sixes
+Seat 2: Mi Koseki folded before Flop (didn't bet)
+Seat 4: ShadowRenegade folded before Flop (didn't bet)
+Seat 5: remco2412 folded before Flop (didn't bet)
+Seat 7: BCEOTEU, mucked [Js Th]
+Seat 8: deadbogdan (button) folded before Flop (didn't bet)
+Seat 9: Jahpa 13 (small blind) folded before Flop
+
+
+
+PokerStars Hand #185309110704: Tournament #2280915719, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/04/16 14:52:54 ET
+Table '2280915719 7' 9-max Seat #9 is the button
+Seat 1: ollikahn23 (1523 in chips) 
+Seat 2: Mi Koseki (1568 in chips) 
+Seat 4: ShadowRenegade (1697 in chips) 
+Seat 5: remco2412 (1811 in chips) 
+Seat 6: haver77718 (1500 in chips) 
+Seat 7: BCEOTEU, (1415 in chips) 
+Seat 8: deadbogdan (3228 in chips) 
+Seat 9: Jahpa 13 (1389 in chips) 
+ollikahn23: posts the ante 4
+Mi Koseki: posts the ante 4
+ShadowRenegade: posts the ante 4
+remco2412: posts the ante 4
+haver77718: posts the ante 4
+BCEOTEU,: posts the ante 4
+deadbogdan: posts the ante 4
+Jahpa 13: posts the ante 4
+ollikahn23: posts small blind 15
+Mi Koseki: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Tc 6d]
+ShadowRenegade: folds 
+remco2412: raises 30 to 60
+haver77718: folds 
+BCEOTEU,: folds 
+deadbogdan: folds 
+Jahpa 13: calls 60
+ollikahn23: folds 
+Mi Koseki: calls 30
+*** FLOP *** [Ad 9s 9c]
+Mi Koseki: checks 
+remco2412: bets 30
+Jahpa 13: folds 
+Mi Koseki: folds 
+Uncalled bet (30) returned to remco2412
+remco2412 collected 227 from pot
+remco2412: doesn't show hand 
+*** SUMMARY ***
+Total pot 227 | Rake 0 
+Board [Ad 9s 9c]
+Seat 1: ollikahn23 (small blind) folded before Flop
+Seat 2: Mi Koseki (big blind) folded on the Flop
+Seat 4: ShadowRenegade folded before Flop (didn't bet)
+Seat 5: remco2412 collected (227)
+Seat 6: haver77718 folded before Flop (didn't bet)
+Seat 7: BCEOTEU, folded before Flop (didn't bet)
+Seat 8: deadbogdan folded before Flop (didn't bet)
+Seat 9: Jahpa 13 (button) folded on the Flop
+
+
+
+PokerStars Hand #185309153506: Tournament #2280915719, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/04/16 14:53:47 ET
+Table '2280915719 7' 9-max Seat #1 is the button
+Seat 1: ollikahn23 (1504 in chips) 
+Seat 2: Mi Koseki (1504 in chips) 
+Seat 4: ShadowRenegade (1693 in chips) 
+Seat 5: remco2412 (1974 in chips) 
+Seat 6: haver77718 (1496 in chips) 
+Seat 7: BCEOTEU, (1411 in chips) 
+Seat 8: deadbogdan (3224 in chips) 
+Seat 9: Jahpa 13 (1325 in chips) 
+ollikahn23: posts the ante 4
+Mi Koseki: posts the ante 4
+ShadowRenegade: posts the ante 4
+remco2412: posts the ante 4
+haver77718: posts the ante 4
+BCEOTEU,: posts the ante 4
+deadbogdan: posts the ante 4
+Jahpa 13: posts the ante 4
+Mi Koseki: posts small blind 15
+ShadowRenegade: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4h 6s]
+remco2412: folds 
+haver77718: folds 
+BCEOTEU,: folds 
+deadbogdan: folds 
+Jahpa 13: folds 
+ollikahn23: raises 30 to 60
+Mi Koseki: folds 
+ShadowRenegade: folds 
+Uncalled bet (30) returned to ollikahn23
+ollikahn23 collected 107 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 107 | Rake 0 
+Seat 1: ollikahn23 (button) collected (107)
+Seat 2: Mi Koseki (small blind) folded before Flop
+Seat 4: ShadowRenegade (big blind) folded before Flop
+Seat 5: remco2412 folded before Flop (didn't bet)
+Seat 6: haver77718 folded before Flop (didn't bet)
+Seat 7: BCEOTEU, folded before Flop (didn't bet)
+Seat 8: deadbogdan folded before Flop (didn't bet)
+Seat 9: Jahpa 13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185309172935: Tournament #2280915719, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/04/16 14:54:12 ET
+Table '2280915719 7' 9-max Seat #2 is the button
+Seat 1: ollikahn23 (1577 in chips) 
+Seat 2: Mi Koseki (1485 in chips) 
+Seat 4: ShadowRenegade (1659 in chips) 
+Seat 5: remco2412 (1970 in chips) 
+Seat 6: haver77718 (1492 in chips) 
+Seat 7: BCEOTEU, (1407 in chips) 
+Seat 8: deadbogdan (3220 in chips) 
+Seat 9: Jahpa 13 (1321 in chips) 
+ollikahn23: posts the ante 4
+Mi Koseki: posts the ante 4
+ShadowRenegade: posts the ante 4
+remco2412: posts the ante 4
+haver77718: posts the ante 4
+BCEOTEU,: posts the ante 4
+deadbogdan: posts the ante 4
+Jahpa 13: posts the ante 4
+ShadowRenegade: posts small blind 15
+remco2412: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7d 7h]
+haver77718: folds 
+BCEOTEU,: folds 
+deadbogdan: folds 
+Jahpa 13: folds 
+ollikahn23: raises 60 to 90
+Mi Koseki: folds 
+ShadowRenegade: folds 
+remco2412: folds 
+Uncalled bet (60) returned to ollikahn23
+ollikahn23 collected 107 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 107 | Rake 0 
+Seat 1: ollikahn23 collected (107)
+Seat 2: Mi Koseki (button) folded before Flop (didn't bet)
+Seat 4: ShadowRenegade (small blind) folded before Flop
+Seat 5: remco2412 (big blind) folded before Flop
+Seat 6: haver77718 folded before Flop (didn't bet)
+Seat 7: BCEOTEU, folded before Flop (didn't bet)
+Seat 8: deadbogdan folded before Flop (didn't bet)
+Seat 9: Jahpa 13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185309189427: Tournament #2280915719, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/04/16 14:54:32 ET
+Table '2280915719 7' 9-max Seat #4 is the button
+Seat 1: ollikahn23 (1650 in chips) 
+Seat 2: Mi Koseki (1481 in chips) 
+Seat 4: ShadowRenegade (1640 in chips) 
+Seat 5: remco2412 (1936 in chips) 
+Seat 6: haver77718 (1488 in chips) 
+Seat 7: BCEOTEU, (1403 in chips) 
+Seat 8: deadbogdan (3216 in chips) 
+Seat 9: Jahpa 13 (1317 in chips) 
+ollikahn23: posts the ante 4
+Mi Koseki: posts the ante 4
+ShadowRenegade: posts the ante 4
+remco2412: posts the ante 4
+haver77718: posts the ante 4
+BCEOTEU,: posts the ante 4
+deadbogdan: posts the ante 4
+Jahpa 13: posts the ante 4
+remco2412: posts small blind 15
+haver77718: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9h 6c]
+BCEOTEU,: folds 
+deadbogdan: folds 
+Jahpa 13: folds 
+ollikahn23: folds 
+Mi Koseki: folds 
+ShadowRenegade: folds 
+remco2412: folds 
+Uncalled bet (15) returned to haver77718
+haver77718 collected 62 from pot
+*** SUMMARY ***
+Total pot 62 | Rake 0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: Mi Koseki folded before Flop (didn't bet)
+Seat 4: ShadowRenegade (button) folded before Flop (didn't bet)
+Seat 5: remco2412 (small blind) folded before Flop
+Seat 6: haver77718 (big blind) collected (62)
+Seat 7: BCEOTEU, folded before Flop (didn't bet)
+Seat 8: deadbogdan folded before Flop (didn't bet)
+Seat 9: Jahpa 13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185309202446: Tournament #2280915719, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/04/16 14:54:49 ET
+Table '2280915719 7' 9-max Seat #5 is the button
+Seat 1: ollikahn23 (1646 in chips) 
+Seat 2: Mi Koseki (1477 in chips) 
+Seat 4: ShadowRenegade (1636 in chips) 
+Seat 5: remco2412 (1917 in chips) 
+Seat 6: haver77718 (1531 in chips) 
+Seat 7: BCEOTEU, (1399 in chips) 
+Seat 8: deadbogdan (3212 in chips) 
+Seat 9: Jahpa 13 (1313 in chips) 
+ollikahn23: posts the ante 4
+Mi Koseki: posts the ante 4
+ShadowRenegade: posts the ante 4
+remco2412: posts the ante 4
+haver77718: posts the ante 4
+BCEOTEU,: posts the ante 4
+deadbogdan: posts the ante 4
+Jahpa 13: posts the ante 4
+haver77718: posts small blind 15
+BCEOTEU,: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jd 3c]
+deadbogdan: folds 
+Jahpa 13: folds 
+ollikahn23: folds 
+Mi Koseki: folds 
+ShadowRenegade: folds 
+remco2412: folds 
+haver77718: raises 45 to 75
+BCEOTEU,: raises 135 to 210
+haver77718: folds 
+Uncalled bet (135) returned to BCEOTEU,
+BCEOTEU, collected 182 from pot
+BCEOTEU,: doesn't show hand 
+*** SUMMARY ***
+Total pot 182 | Rake 0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: Mi Koseki folded before Flop (didn't bet)
+Seat 4: ShadowRenegade folded before Flop (didn't bet)
+Seat 5: remco2412 (button) folded before Flop (didn't bet)
+Seat 6: haver77718 (small blind) folded before Flop
+Seat 7: BCEOTEU, (big blind) collected (182)
+Seat 8: deadbogdan folded before Flop (didn't bet)
+Seat 9: Jahpa 13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185309459168: Tournament #2280915719, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/04/16 15:01:21 ET
+Table '2280915719 7' 9-max Seat #7 is the button
+Seat 1: ollikahn23 (1642 in chips) 
+Seat 2: Mi Koseki (1473 in chips) 
+Seat 3: Jorne79 (1500 in chips) 
+Seat 4: ShadowRenegade (1632 in chips) 
+Seat 5: remco2412 (1913 in chips) 
+Seat 6: oihoN (1500 in chips) 
+Seat 7: BCEOTEU, (1502 in chips) 
+Seat 8: deadbogdan (3208 in chips) 
+Seat 9: Jahpa 13 (1309 in chips) 
+ollikahn23: posts the ante 4
+Mi Koseki: posts the ante 4
+Jorne79: posts the ante 4
+ShadowRenegade: posts the ante 4
+remco2412: posts the ante 4
+oihoN: posts the ante 4
+BCEOTEU,: posts the ante 4
+deadbogdan: posts the ante 4
+Jahpa 13: posts the ante 4
+deadbogdan: posts small blind 15
+Jahpa 13: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qd Kc]
+ollikahn23: folds 
+Mi Koseki: folds 
+Jorne79: raises 40 to 70
+ShadowRenegade: folds 
+remco2412: folds 
+oihoN: folds 
+BCEOTEU,: calls 70
+deadbogdan: folds 
+Jahpa 13: calls 40
+*** FLOP *** [Ac 9d 5s]
+Jahpa 13: checks 
+Jorne79: checks 
+BCEOTEU,: checks 
+*** TURN *** [Ac 9d 5s] [7d]
+Jahpa 13: checks 
+Jorne79: bets 150
+BCEOTEU,: folds 
+Jahpa 13: folds 
+Uncalled bet (150) returned to Jorne79
+Jorne79 collected 261 from pot
+Jorne79: doesn't show hand 
+*** SUMMARY ***
+Total pot 261 | Rake 0 
+Board [Ac 9d 5s 7d]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: Mi Koseki folded before Flop (didn't bet)
+Seat 3: Jorne79 collected (261)
+Seat 4: ShadowRenegade folded before Flop (didn't bet)
+Seat 5: remco2412 folded before Flop (didn't bet)
+Seat 6: oihoN folded before Flop (didn't bet)
+Seat 7: BCEOTEU, (button) folded on the Turn
+Seat 8: deadbogdan (small blind) folded before Flop
+Seat 9: Jahpa 13 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #185309531524: Tournament #2280915719, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/04/16 15:02:52 ET
+Table '2280915719 7' 9-max Seat #8 is the button
+Seat 1: ollikahn23 (1638 in chips) 
+Seat 2: Mi Koseki (1469 in chips) 
+Seat 3: Jorne79 (1687 in chips) 
+Seat 4: ShadowRenegade (1628 in chips) 
+Seat 5: remco2412 (1909 in chips) 
+Seat 6: oihoN (1496 in chips) 
+Seat 7: BCEOTEU, (1428 in chips) 
+Seat 8: deadbogdan (3189 in chips) 
+Seat 9: Jahpa 13 (1235 in chips) 
+ollikahn23: posts the ante 4
+Mi Koseki: posts the ante 4
+Jorne79: posts the ante 4
+ShadowRenegade: posts the ante 4
+remco2412: posts the ante 4
+oihoN: posts the ante 4
+BCEOTEU,: posts the ante 4
+deadbogdan: posts the ante 4
+Jahpa 13: posts the ante 4
+Jahpa 13: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jc Td]
+Mi Koseki: raises 30 to 60
+Jorne79: folds 
+ShadowRenegade: folds 
+remco2412: folds 
+oihoN: folds 
+BCEOTEU,: folds 
+deadbogdan: folds 
+Jahpa 13: folds 
+ollikahn23: calls 30
+*** FLOP *** [7h 3h As]
+ollikahn23: checks 
+Mi Koseki: bets 90
+ollikahn23: folds 
+Uncalled bet (90) returned to Mi Koseki
+Mi Koseki collected 171 from pot
+*** SUMMARY ***
+Total pot 171 | Rake 0 
+Board [7h 3h As]
+Seat 1: ollikahn23 (big blind) folded on the Flop
+Seat 2: Mi Koseki collected (171)
+Seat 3: Jorne79 folded before Flop (didn't bet)
+Seat 4: ShadowRenegade folded before Flop (didn't bet)
+Seat 5: remco2412 folded before Flop (didn't bet)
+Seat 6: oihoN folded before Flop (didn't bet)
+Seat 7: BCEOTEU, folded before Flop (didn't bet)
+Seat 8: deadbogdan (button) folded before Flop (didn't bet)
+Seat 9: Jahpa 13 (small blind) folded before Flop
+
+
+
+PokerStars Hand #185309564611: Tournament #2280915719, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/04/16 15:03:33 ET
+Table '2280915719 7' 9-max Seat #9 is the button
+Seat 1: ollikahn23 (1574 in chips) 
+Seat 3: Jorne79 (1683 in chips) 
+Seat 4: ShadowRenegade (1624 in chips) 
+Seat 5: remco2412 (1905 in chips) 
+Seat 6: oihoN (1492 in chips) 
+Seat 7: BCEOTEU, (1424 in chips) 
+Seat 8: deadbogdan (3185 in chips) 
+Seat 9: Jahpa 13 (1216 in chips) 
+ollikahn23: posts the ante 4
+Jorne79: posts the ante 4
+ShadowRenegade: posts the ante 4
+remco2412: posts the ante 4
+oihoN: posts the ante 4
+BCEOTEU,: posts the ante 4
+deadbogdan: posts the ante 4
+Jahpa 13: posts the ante 4
+ollikahn23: posts small blind 15
+Jorne79: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4h 2c]
+ShadowRenegade: folds 
+remco2412: raises 30 to 60
+oihoN: folds 
+BCEOTEU,: folds 
+deadbogdan: folds 
+Jahpa 13: folds 
+ollikahn23: folds 
+Jorne79: calls 30
+*** FLOP *** [Ks 9h 2h]
+Jorne79: checks 
+remco2412: bets 167
+Jorne79: folds 
+Uncalled bet (167) returned to remco2412
+remco2412 collected 167 from pot
+remco2412: doesn't show hand 
+*** SUMMARY ***
+Total pot 167 | Rake 0 
+Board [Ks 9h 2h]
+Seat 1: ollikahn23 (small blind) folded before Flop
+Seat 3: Jorne79 (big blind) folded on the Flop
+Seat 4: ShadowRenegade folded before Flop (didn't bet)
+Seat 5: remco2412 collected (167)
+Seat 6: oihoN folded before Flop (didn't bet)
+Seat 7: BCEOTEU, folded before Flop (didn't bet)
+Seat 8: deadbogdan folded before Flop (didn't bet)
+Seat 9: Jahpa 13 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185309599058: Tournament #2280915719, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/04/16 15:04:15 ET
+Table '2280915719 7' 9-max Seat #1 is the button
+Seat 1: ollikahn23 (1555 in chips) 
+Seat 3: Jorne79 (1619 in chips) 
+Seat 4: ShadowRenegade (1620 in chips) 
+Seat 5: remco2412 (2008 in chips) 
+Seat 6: oihoN (1488 in chips) 
+Seat 7: BCEOTEU, (1420 in chips) 
+Seat 8: deadbogdan (3181 in chips) 
+Seat 9: Jahpa 13 (1212 in chips) 
+ollikahn23: posts the ante 4
+Jorne79: posts the ante 4
+ShadowRenegade: posts the ante 4
+remco2412: posts the ante 4
+oihoN: posts the ante 4
+BCEOTEU,: posts the ante 4
+deadbogdan: posts the ante 4
+Jahpa 13: posts the ante 4
+Jorne79: posts small blind 15
+ShadowRenegade: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9d 7c]
+remco2412: folds 
+oihoN: folds 
+BCEOTEU,: folds 
+deadbogdan: raises 60 to 90
+Jahpa 13: folds 
+ollikahn23: folds 
+Jorne79: calls 75
+ShadowRenegade: folds 
+*** FLOP *** [Tc Jh 6h]
+Jorne79: checks 
+deadbogdan: bets 120
+Jorne79: calls 120
+*** TURN *** [Tc Jh 6h] [Kh]
+Jorne79: checks 
+deadbogdan: checks 
+*** RIVER *** [Tc Jh 6h Kh] [5h]
+Jorne79: checks 
+deadbogdan: checks 
+*** SHOW DOWN ***
+Jorne79: shows [Th Ac] (a flush, King high)
+deadbogdan: mucks hand 
+Jorne79 collected 482 from pot
+*** SUMMARY ***
+Total pot 482 | Rake 0 
+Board [Tc Jh 6h Kh 5h]
+Seat 1: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 3: Jorne79 (small blind) showed [Th Ac] and won (482) with a flush, King high
+Seat 4: ShadowRenegade (big blind) folded before Flop
+Seat 5: remco2412 folded before Flop (didn't bet)
+Seat 6: oihoN folded before Flop (didn't bet)
+Seat 7: BCEOTEU, folded before Flop (didn't bet)
+Seat 8: deadbogdan mucked [Ks As]
+Seat 9: Jahpa 13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185309652080: Tournament #2280915719, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/04/16 15:05:20 ET
+Table '2280915719 7' 9-max Seat #3 is the button
+Seat 1: ollikahn23 (1551 in chips) 
+Seat 3: Jorne79 (1887 in chips) 
+Seat 4: ShadowRenegade (1586 in chips) 
+Seat 5: remco2412 (2004 in chips) 
+Seat 6: oihoN (1484 in chips) 
+Seat 7: BCEOTEU, (1416 in chips) 
+Seat 8: deadbogdan (2967 in chips) 
+Seat 9: Jahpa 13 (1208 in chips) 
+ollikahn23: posts the ante 4
+Jorne79: posts the ante 4
+ShadowRenegade: posts the ante 4
+remco2412: posts the ante 4
+oihoN: posts the ante 4
+BCEOTEU,: posts the ante 4
+deadbogdan: posts the ante 4
+Jahpa 13: posts the ante 4
+ShadowRenegade: posts small blind 15
+remco2412: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5d As]
+oihoN: folds 
+BCEOTEU,: folds 
+deadbogdan: raises 60 to 90
+Jahpa 13: folds 
+ollikahn23: folds 
+Jorne79: folds 
+ShadowRenegade: folds 
+remco2412: folds 
+Uncalled bet (60) returned to deadbogdan
+deadbogdan collected 107 from pot
+*** SUMMARY ***
+Total pot 107 | Rake 0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 3: Jorne79 (button) folded before Flop (didn't bet)
+Seat 4: ShadowRenegade (small blind) folded before Flop
+Seat 5: remco2412 (big blind) folded before Flop
+Seat 6: oihoN folded before Flop (didn't bet)
+Seat 7: BCEOTEU, folded before Flop (didn't bet)
+Seat 8: deadbogdan collected (107)
+Seat 9: Jahpa 13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185309674476: Tournament #2280915719, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/04/16 15:05:47 ET
+Table '2280915719 7' 9-max Seat #4 is the button
+Seat 1: ollikahn23 (1547 in chips) 
+Seat 3: Jorne79 (1883 in chips) 
+Seat 4: ShadowRenegade (1567 in chips) 
+Seat 5: remco2412 (1970 in chips) 
+Seat 6: oihoN (1480 in chips) 
+Seat 7: BCEOTEU, (1412 in chips) 
+Seat 8: deadbogdan (3040 in chips) 
+Seat 9: Jahpa 13 (1204 in chips) 
+ollikahn23: posts the ante 4
+Jorne79: posts the ante 4
+ShadowRenegade: posts the ante 4
+remco2412: posts the ante 4
+oihoN: posts the ante 4
+BCEOTEU,: posts the ante 4
+deadbogdan: posts the ante 4
+Jahpa 13: posts the ante 4
+remco2412: posts small blind 15
+oihoN: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Td 2s]
+BCEOTEU,: folds 
+deadbogdan: folds 
+Jahpa 13: folds 
+ollikahn23: folds 
+Jorne79: raises 45 to 75
+ShadowRenegade: folds 
+remco2412: folds 
+oihoN: folds 
+Uncalled bet (45) returned to Jorne79
+Jorne79 collected 107 from pot
+Jorne79: doesn't show hand 
+*** SUMMARY ***
+Total pot 107 | Rake 0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 3: Jorne79 collected (107)
+Seat 4: ShadowRenegade (button) folded before Flop (didn't bet)
+Seat 5: remco2412 (small blind) folded before Flop
+Seat 6: oihoN (big blind) folded before Flop
+Seat 7: BCEOTEU, folded before Flop (didn't bet)
+Seat 8: deadbogdan folded before Flop (didn't bet)
+Seat 9: Jahpa 13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185309702634: Tournament #2280915719, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/04/16 15:06:21 ET
+Table '2280915719 7' 9-max Seat #5 is the button
+Seat 1: ollikahn23 (1543 in chips) 
+Seat 3: Jorne79 (1956 in chips) 
+Seat 4: ShadowRenegade (1563 in chips) 
+Seat 5: remco2412 (1951 in chips) 
+Seat 6: oihoN (1446 in chips) 
+Seat 7: BCEOTEU, (1408 in chips) 
+Seat 8: deadbogdan (3036 in chips) 
+Seat 9: Jahpa 13 (1200 in chips) 
+ollikahn23: posts the ante 4
+Jorne79: posts the ante 4
+ShadowRenegade: posts the ante 4
+remco2412: posts the ante 4
+oihoN: posts the ante 4
+BCEOTEU,: posts the ante 4
+deadbogdan: posts the ante 4
+Jahpa 13: posts the ante 4
+oihoN: posts small blind 15
+BCEOTEU,: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jd Qh]
+deadbogdan: raises 60 to 90
+Jahpa 13: folds 
+ollikahn23: folds 
+Jorne79: raises 198 to 288
+ShadowRenegade: folds 
+remco2412: folds 
+oihoN: folds 
+BCEOTEU,: folds 
+deadbogdan: folds 
+Uncalled bet (198) returned to Jorne79
+Jorne79 collected 257 from pot
+Jorne79: doesn't show hand 
+*** SUMMARY ***
+Total pot 257 | Rake 0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 3: Jorne79 collected (257)
+Seat 4: ShadowRenegade folded before Flop (didn't bet)
+Seat 5: remco2412 (button) folded before Flop (didn't bet)
+Seat 6: oihoN (small blind) folded before Flop
+Seat 7: BCEOTEU, (big blind) folded before Flop
+Seat 8: deadbogdan folded before Flop
+Seat 9: Jahpa 13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185309744848: Tournament #2280915719, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/04/16 15:07:13 ET
+Table '2280915719 7' 9-max Seat #6 is the button
+Seat 1: ollikahn23 (1539 in chips) 
+Seat 3: Jorne79 (2119 in chips) 
+Seat 4: ShadowRenegade (1559 in chips) 
+Seat 5: remco2412 (1947 in chips) 
+Seat 6: oihoN (1427 in chips) 
+Seat 7: BCEOTEU, (1374 in chips) 
+Seat 8: deadbogdan (2942 in chips) 
+Seat 9: Jahpa 13 (1196 in chips) 
+ollikahn23: posts the ante 4
+Jorne79: posts the ante 4
+ShadowRenegade: posts the ante 4
+remco2412: posts the ante 4
+oihoN: posts the ante 4
+BCEOTEU,: posts the ante 4
+deadbogdan: posts the ante 4
+Jahpa 13: posts the ante 4
+BCEOTEU,: posts small blind 15
+deadbogdan: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9c Ts]
+Jahpa 13: folds 
+ollikahn23: folds 
+Jorne79: folds 
+ShadowRenegade: folds 
+remco2412: folds 
+oihoN: folds 
+BCEOTEU,: raises 60 to 90
+deadbogdan: folds 
+Uncalled bet (60) returned to BCEOTEU,
+BCEOTEU, collected 92 from pot
+BCEOTEU,: doesn't show hand 
+*** SUMMARY ***
+Total pot 92 | Rake 0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 3: Jorne79 folded before Flop (didn't bet)
+Seat 4: ShadowRenegade folded before Flop (didn't bet)
+Seat 5: remco2412 folded before Flop (didn't bet)
+Seat 6: oihoN (button) folded before Flop (didn't bet)
+Seat 7: BCEOTEU, (small blind) collected (92)
+Seat 8: deadbogdan (big blind) folded before Flop
+Seat 9: Jahpa 13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185309761675: Tournament #2280915719, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/04/16 15:07:33 ET
+Table '2280915719 7' 9-max Seat #7 is the button
+Seat 1: ollikahn23 (1535 in chips) 
+Seat 3: Jorne79 (2115 in chips) 
+Seat 4: ShadowRenegade (1555 in chips) 
+Seat 5: remco2412 (1943 in chips) 
+Seat 6: oihoN (1423 in chips) 
+Seat 7: BCEOTEU, (1432 in chips) 
+Seat 8: deadbogdan (2908 in chips) 
+Seat 9: Jahpa 13 (1192 in chips) 
+ollikahn23: posts the ante 4
+Jorne79: posts the ante 4
+ShadowRenegade: posts the ante 4
+remco2412: posts the ante 4
+oihoN: posts the ante 4
+BCEOTEU,: posts the ante 4
+deadbogdan: posts the ante 4
+Jahpa 13: posts the ante 4
+deadbogdan: posts small blind 15
+Jahpa 13: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ts 9c]
+ollikahn23: folds 
+Jorne79: folds 
+ShadowRenegade: folds 
+remco2412: folds 
+oihoN: folds 
+BCEOTEU,: folds 
+deadbogdan: folds 
+Uncalled bet (15) returned to Jahpa 13
+Jahpa 13 collected 62 from pot
+Jahpa 13: doesn't show hand 
+*** SUMMARY ***
+Total pot 62 | Rake 0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 3: Jorne79 folded before Flop (didn't bet)
+Seat 4: ShadowRenegade folded before Flop (didn't bet)
+Seat 5: remco2412 folded before Flop (didn't bet)
+Seat 6: oihoN folded before Flop (didn't bet)
+Seat 7: BCEOTEU, (button) folded before Flop (didn't bet)
+Seat 8: deadbogdan (small blind) folded before Flop
+Seat 9: Jahpa 13 (big blind) collected (62)
+
+
+
+PokerStars Hand #185309782952: Tournament #2280915719, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/04/16 15:07:58 ET
+Table '2280915719 7' 9-max Seat #8 is the button
+Seat 1: ollikahn23 (1531 in chips) 
+Seat 2: Wileika (1500 in chips) 
+Seat 3: Jorne79 (2111 in chips) 
+Seat 4: ShadowRenegade (1551 in chips) 
+Seat 5: remco2412 (1939 in chips) 
+Seat 6: oihoN (1419 in chips) 
+Seat 7: BCEOTEU, (1428 in chips) 
+Seat 8: deadbogdan (2889 in chips) 
+Seat 9: Jahpa 13 (1235 in chips) 
+ollikahn23: posts the ante 4
+Wileika: posts the ante 4
+Jorne79: posts the ante 4
+ShadowRenegade: posts the ante 4
+remco2412: posts the ante 4
+oihoN: posts the ante 4
+BCEOTEU,: posts the ante 4
+deadbogdan: posts the ante 4
+Jahpa 13: posts the ante 4
+Jahpa 13: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5c 5h]
+Wileika: folds 
+Jorne79: calls 30
+ShadowRenegade: folds 
+remco2412: raises 141 to 171
+oihoN: folds 
+BCEOTEU,: folds 
+deadbogdan: folds 
+Jahpa 13: folds 
+ollikahn23: folds 
+Jorne79: raises 249 to 420
+remco2412: calls 249
+*** FLOP *** [9s 7c Qh]
+Jorne79: checks 
+remco2412: checks 
+*** TURN *** [9s 7c Qh] [Js]
+Jorne79: bets 461
+remco2412: folds 
+Uncalled bet (461) returned to Jorne79
+Jorne79 collected 921 from pot
+Jorne79: doesn't show hand 
+*** SUMMARY ***
+Total pot 921 | Rake 0 
+Board [9s 7c Qh Js]
+Seat 1: ollikahn23 (big blind) folded before Flop
+Seat 2: Wileika folded before Flop (didn't bet)
+Seat 3: Jorne79 collected (921)
+Seat 4: ShadowRenegade folded before Flop (didn't bet)
+Seat 5: remco2412 folded on the Turn
+Seat 6: oihoN folded before Flop (didn't bet)
+Seat 7: BCEOTEU, folded before Flop (didn't bet)
+Seat 8: deadbogdan (button) folded before Flop (didn't bet)
+Seat 9: Jahpa 13 (small blind) folded before Flop
+
+
+
+PokerStars Hand #185309841084: Tournament #2280915719, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/04/16 15:09:08 ET
+Table '2280915719 7' 9-max Seat #9 is the button
+Seat 1: ollikahn23 (1497 in chips) 
+Seat 2: Wileika (1496 in chips) 
+Seat 3: Jorne79 (2608 in chips) 
+Seat 4: ShadowRenegade (1547 in chips) 
+Seat 5: remco2412 (1515 in chips) 
+Seat 6: oihoN (1415 in chips) 
+Seat 7: BCEOTEU, (1424 in chips) 
+Seat 8: deadbogdan (2885 in chips) 
+Seat 9: Jahpa 13 (1216 in chips) 
+ollikahn23: posts the ante 4
+Wileika: posts the ante 4
+Jorne79: posts the ante 4
+ShadowRenegade: posts the ante 4
+remco2412: posts the ante 4
+oihoN: posts the ante 4
+BCEOTEU,: posts the ante 4
+deadbogdan: posts the ante 4
+Jahpa 13: posts the ante 4
+ollikahn23: posts small blind 15
+Wileika: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8c 5h]
+Jorne79: folds 
+ShadowRenegade: folds 
+remco2412: folds 
+oihoN: folds 
+BCEOTEU,: folds 
+deadbogdan: folds 
+Jahpa 13: folds 
+ollikahn23: folds 
+Uncalled bet (15) returned to Wileika
+Wileika collected 66 from pot
+*** SUMMARY ***
+Total pot 66 | Rake 0 
+Seat 1: ollikahn23 (small blind) folded before Flop
+Seat 2: Wileika (big blind) collected (66)
+Seat 3: Jorne79 folded before Flop (didn't bet)
+Seat 4: ShadowRenegade folded before Flop (didn't bet)
+Seat 5: remco2412 folded before Flop (didn't bet)
+Seat 6: oihoN folded before Flop (didn't bet)
+Seat 7: BCEOTEU, folded before Flop (didn't bet)
+Seat 8: deadbogdan folded before Flop (didn't bet)
+Seat 9: Jahpa 13 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185309858529: Tournament #2280915719, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/04/16 15:09:29 ET
+Table '2280915719 7' 9-max Seat #1 is the button
+Seat 1: ollikahn23 (1478 in chips) 
+Seat 2: Wileika (1543 in chips) 
+Seat 3: Jorne79 (2604 in chips) 
+Seat 4: ShadowRenegade (1543 in chips) 
+Seat 5: remco2412 (1511 in chips) 
+Seat 6: oihoN (1411 in chips) 
+Seat 7: BCEOTEU, (1420 in chips) 
+Seat 8: deadbogdan (2881 in chips) 
+Seat 9: Jahpa 13 (1212 in chips) 
+ollikahn23: posts the ante 4
+Wileika: posts the ante 4
+Jorne79: posts the ante 4
+ShadowRenegade: posts the ante 4
+remco2412: posts the ante 4
+oihoN: posts the ante 4
+BCEOTEU,: posts the ante 4
+deadbogdan: posts the ante 4
+Jahpa 13: posts the ante 4
+Wileika: posts small blind 15
+Jorne79: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6s Kc]
+ShadowRenegade: folds 
+remco2412: folds 
+oihoN: raises 60 to 90
+BCEOTEU,: folds 
+deadbogdan: folds 
+Jahpa 13: folds 
+ollikahn23: folds 
+Wileika: folds 
+Jorne79: folds 
+Uncalled bet (60) returned to oihoN
+oihoN collected 111 from pot
+oihoN: doesn't show hand 
+*** SUMMARY ***
+Total pot 111 | Rake 0 
+Seat 1: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 2: Wileika (small blind) folded before Flop
+Seat 3: Jorne79 (big blind) folded before Flop
+Seat 4: ShadowRenegade folded before Flop (didn't bet)
+Seat 5: remco2412 folded before Flop (didn't bet)
+Seat 6: oihoN collected (111)
+Seat 7: BCEOTEU, folded before Flop (didn't bet)
+Seat 8: deadbogdan folded before Flop (didn't bet)
+Seat 9: Jahpa 13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185309891569: Tournament #2280915719, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/04/16 15:10:09 ET
+Table '2280915719 7' 9-max Seat #2 is the button
+Seat 1: ollikahn23 (1474 in chips) 
+Seat 2: Wileika (1524 in chips) 
+Seat 3: Jorne79 (2570 in chips) 
+Seat 4: ShadowRenegade (1539 in chips) 
+Seat 5: remco2412 (1507 in chips) 
+Seat 6: oihoN (1488 in chips) 
+Seat 7: BCEOTEU, (1416 in chips) 
+Seat 8: deadbogdan (2877 in chips) 
+Seat 9: Jahpa 13 (1208 in chips) 
+ollikahn23: posts the ante 4
+Wileika: posts the ante 4
+Jorne79: posts the ante 4
+ShadowRenegade: posts the ante 4
+remco2412: posts the ante 4
+oihoN: posts the ante 4
+BCEOTEU,: posts the ante 4
+deadbogdan: posts the ante 4
+Jahpa 13: posts the ante 4
+Jorne79: posts small blind 15
+ShadowRenegade: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7d 3s]
+remco2412: folds 
+oihoN: folds 
+BCEOTEU,: folds 
+deadbogdan: raises 35 to 65
+Jahpa 13: folds 
+ollikahn23: folds 
+Wileika: folds 
+Jorne79: folds 
+ShadowRenegade: calls 35
+*** FLOP *** [4h Ks 9d]
+ShadowRenegade: checks 
+deadbogdan: checks 
+*** TURN *** [4h Ks 9d] [2s]
+ShadowRenegade: checks 
+deadbogdan: checks 
+*** RIVER *** [4h Ks 9d 2s] [Kh]
+ShadowRenegade: checks 
+deadbogdan: checks 
+*** SHOW DOWN ***
+ShadowRenegade: shows [7c 6h] (a pair of Kings)
+deadbogdan: shows [Ac Js] (a pair of Kings - Ace kicker)
+deadbogdan collected 181 from pot
+*** SUMMARY ***
+Total pot 181 | Rake 0 
+Board [4h Ks 9d 2s Kh]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: Wileika (button) folded before Flop (didn't bet)
+Seat 3: Jorne79 (small blind) folded before Flop
+Seat 4: ShadowRenegade (big blind) showed [7c 6h] and lost with a pair of Kings
+Seat 5: remco2412 folded before Flop (didn't bet)
+Seat 6: oihoN folded before Flop (didn't bet)
+Seat 7: BCEOTEU, folded before Flop (didn't bet)
+Seat 8: deadbogdan showed [Ac Js] and won (181) with a pair of Kings
+Seat 9: Jahpa 13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185309938759: Tournament #2280915719, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/04/16 15:11:06 ET
+Table '2280915719 7' 9-max Seat #4 is the button
+Seat 1: ollikahn23 (1470 in chips) 
+Seat 2: Wileika (1520 in chips) 
+Seat 4: ShadowRenegade (1470 in chips) 
+Seat 5: remco2412 (1503 in chips) 
+Seat 6: oihoN (1484 in chips) 
+Seat 7: BCEOTEU, (1412 in chips) 
+Seat 8: deadbogdan (2989 in chips) 
+Seat 9: Jahpa 13 (1204 in chips) 
+ollikahn23: posts the ante 4
+Wileika: posts the ante 4
+ShadowRenegade: posts the ante 4
+remco2412: posts the ante 4
+oihoN: posts the ante 4
+BCEOTEU,: posts the ante 4
+deadbogdan: posts the ante 4
+Jahpa 13: posts the ante 4
+remco2412: posts small blind 15
+oihoN: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5d Th]
+BCEOTEU,: folds 
+deadbogdan: raises 30 to 60
+Jahpa 13: folds 
+ollikahn23: folds 
+Wileika: folds 
+ShadowRenegade: folds 
+remco2412: calls 45
+oihoN: raises 180 to 240
+deadbogdan: folds 
+remco2412: calls 180
+*** FLOP *** [8c 4s Js]
+remco2412: checks 
+oihoN: checks 
+*** TURN *** [8c 4s Js] [4d]
+remco2412: bets 572
+oihoN: folds 
+Uncalled bet (572) returned to remco2412
+remco2412 collected 572 from pot
+remco2412: doesn't show hand 
+*** SUMMARY ***
+Total pot 572 | Rake 0 
+Board [8c 4s Js 4d]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: Wileika folded before Flop (didn't bet)
+Seat 4: ShadowRenegade (button) folded before Flop (didn't bet)
+Seat 5: remco2412 (small blind) collected (572)
+Seat 6: oihoN (big blind) folded on the Turn
+Seat 7: BCEOTEU, folded before Flop (didn't bet)
+Seat 8: deadbogdan folded before Flop
+Seat 9: Jahpa 13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185309990329: Tournament #2280915719, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/04/16 15:12:08 ET
+Table '2280915719 7' 9-max Seat #5 is the button
+Seat 1: ollikahn23 (1466 in chips) 
+Seat 2: Wileika (1516 in chips) 
+Seat 3: ebisaivane (1500 in chips) 
+Seat 4: ShadowRenegade (1466 in chips) 
+Seat 5: remco2412 (1831 in chips) 
+Seat 6: oihoN (1240 in chips) 
+Seat 7: BCEOTEU, (1408 in chips) 
+Seat 8: deadbogdan (2925 in chips) 
+Seat 9: Jahpa 13 (1200 in chips) 
+ollikahn23: posts the ante 4
+Wileika: posts the ante 4
+ebisaivane: posts the ante 4
+ShadowRenegade: posts the ante 4
+remco2412: posts the ante 4
+oihoN: posts the ante 4
+BCEOTEU,: posts the ante 4
+deadbogdan: posts the ante 4
+Jahpa 13: posts the ante 4
+oihoN: posts small blind 15
+BCEOTEU,: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4s 7d]
+deadbogdan: folds 
+Jahpa 13: folds 
+ollikahn23: folds 
+Wileika: folds 
+ebisaivane: folds 
+ShadowRenegade: folds 
+remco2412: folds 
+oihoN: raises 60 to 90
+BCEOTEU,: folds 
+Uncalled bet (60) returned to oihoN
+oihoN collected 96 from pot
+oihoN: doesn't show hand 
+*** SUMMARY ***
+Total pot 96 | Rake 0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: Wileika folded before Flop (didn't bet)
+Seat 3: ebisaivane folded before Flop (didn't bet)
+Seat 4: ShadowRenegade folded before Flop (didn't bet)
+Seat 5: remco2412 (button) folded before Flop (didn't bet)
+Seat 6: oihoN (small blind) collected (96)
+Seat 7: BCEOTEU, (big blind) folded before Flop
+Seat 8: deadbogdan folded before Flop (didn't bet)
+Seat 9: Jahpa 13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185310030368: Tournament #2280915719, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/04/16 15:12:56 ET
+Table '2280915719 7' 9-max Seat #6 is the button
+Seat 1: ollikahn23 (1462 in chips) 
+Seat 2: Wileika (1512 in chips) 
+Seat 3: ebisaivane (1496 in chips) 
+Seat 4: ShadowRenegade (1462 in chips) 
+Seat 5: remco2412 (1827 in chips) 
+Seat 6: oihoN (1302 in chips) 
+Seat 7: BCEOTEU, (1374 in chips) 
+Seat 8: deadbogdan (2921 in chips) 
+Seat 9: Jahpa 13 (1196 in chips) 
+ollikahn23: posts the ante 4
+Wileika: posts the ante 4
+ebisaivane: posts the ante 4
+ShadowRenegade: posts the ante 4
+remco2412: posts the ante 4
+oihoN: posts the ante 4
+BCEOTEU,: posts the ante 4
+deadbogdan: posts the ante 4
+Jahpa 13: posts the ante 4
+BCEOTEU,: posts small blind 15
+deadbogdan: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ah 6d]
+Jahpa 13: folds 
+ollikahn23: folds 
+Wileika: folds 
+ebisaivane: folds 
+ShadowRenegade: folds 
+remco2412: folds 
+oihoN: folds 
+BCEOTEU,: raises 60 to 90
+deadbogdan: folds 
+Uncalled bet (60) returned to BCEOTEU,
+BCEOTEU, collected 96 from pot
+BCEOTEU,: doesn't show hand 
+*** SUMMARY ***
+Total pot 96 | Rake 0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: Wileika folded before Flop (didn't bet)
+Seat 3: ebisaivane folded before Flop (didn't bet)
+Seat 4: ShadowRenegade folded before Flop (didn't bet)
+Seat 5: remco2412 folded before Flop (didn't bet)
+Seat 6: oihoN (button) folded before Flop (didn't bet)
+Seat 7: BCEOTEU, (small blind) collected (96)
+Seat 8: deadbogdan (big blind) folded before Flop
+Seat 9: Jahpa 13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185310057302: Tournament #2280915719, $4.10+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/04/16 15:13:28 ET
+Table '2280915719 7' 9-max Seat #7 is the button
+Seat 1: ollikahn23 (1458 in chips) 
+Seat 2: Wileika (1508 in chips) 
+Seat 3: ebisaivane (1492 in chips) 
+Seat 4: ShadowRenegade (1458 in chips) 
+Seat 5: remco2412 (1823 in chips) 
+Seat 6: oihoN (1298 in chips) 
+Seat 7: BCEOTEU, (1436 in chips) 
+Seat 8: deadbogdan (2887 in chips) 
+Seat 9: Jahpa 13 (1192 in chips) 
+ollikahn23: posts the ante 4
+Wileika: posts the ante 4
+ebisaivane: posts the ante 4
+ShadowRenegade: posts the ante 4
+remco2412: posts the ante 4
+oihoN: posts the ante 4
+BCEOTEU,: posts the ante 4
+deadbogdan: posts the ante 4
+Jahpa 13: posts the ante 4
+deadbogdan: posts small blind 15
+Jahpa 13: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Js 6s]
+ollikahn23: folds 
+Wileika: folds 
+ebisaivane: raises 30 to 60
+ShadowRenegade: folds 
+remco2412: folds 
+oihoN: folds 
+BCEOTEU,: raises 1372 to 1432 and is all-in
+deadbogdan: folds 
+Jahpa 13: folds 
+ebisaivane: folds 
+Uncalled bet (1372) returned to BCEOTEU,
+BCEOTEU, collected 201 from pot
+BCEOTEU,: doesn't show hand 
+*** SUMMARY ***
+Total pot 201 | Rake 0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: Wileika folded before Flop (didn't bet)
+Seat 3: ebisaivane folded before Flop
+Seat 4: ShadowRenegade folded before Flop (didn't bet)
+Seat 5: remco2412 folded before Flop (didn't bet)
+Seat 6: oihoN folded before Flop (didn't bet)
+Seat 7: BCEOTEU, (button) collected (201)
+Seat 8: deadbogdan (small blind) folded before Flop
+Seat 9: Jahpa 13 (big blind) folded before Flop
+
+
+
+PokerStars Hand #185310096545: Tournament #2280915719, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/04/16 15:14:15 ET
+Table '2280915719 7' 9-max Seat #8 is the button
+Seat 1: ollikahn23 (1454 in chips) 
+Seat 2: Wileika (1504 in chips) 
+Seat 3: ebisaivane (1428 in chips) 
+Seat 4: ShadowRenegade (1454 in chips) 
+Seat 5: remco2412 (1819 in chips) 
+Seat 6: oihoN (1294 in chips) 
+Seat 7: BCEOTEU, (1573 in chips) 
+Seat 8: deadbogdan (2868 in chips) 
+Seat 9: Jahpa 13 (1158 in chips) 
+ollikahn23: posts the ante 6
+Wileika: posts the ante 6
+ebisaivane: posts the ante 6
+ShadowRenegade: posts the ante 6
+remco2412: posts the ante 6
+oihoN: posts the ante 6
+BCEOTEU,: posts the ante 6
+deadbogdan: posts the ante 6
+Jahpa 13: posts the ante 6
+Jahpa 13: posts small blind 25
+ollikahn23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Tc As]
+Wileika: calls 50
+ebisaivane: folds 
+ShadowRenegade: folds 
+remco2412: folds 
+oihoN: folds 
+BCEOTEU,: folds 
+deadbogdan: folds 
+Jahpa 13: folds 
+ollikahn23: raises 50 to 100
+Wileika: calls 50
+*** FLOP *** [Ad 4h Js]
+ollikahn23: bets 150
+Wileika: folds 
+Uncalled bet (150) returned to ollikahn23
+ollikahn23 collected 279 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 279 | Rake 0 
+Board [Ad 4h Js]
+Seat 1: ollikahn23 (big blind) collected (279)
+Seat 2: Wileika folded on the Flop
+Seat 3: ebisaivane folded before Flop (didn't bet)
+Seat 4: ShadowRenegade folded before Flop (didn't bet)
+Seat 5: remco2412 folded before Flop (didn't bet)
+Seat 6: oihoN folded before Flop (didn't bet)
+Seat 7: BCEOTEU, folded before Flop (didn't bet)
+Seat 8: deadbogdan (button) folded before Flop (didn't bet)
+Seat 9: Jahpa 13 (small blind) folded before Flop
+
+
+
+PokerStars Hand #185310149509: Tournament #2280915719, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/04/16 15:15:19 ET
+Table '2280915719 7' 9-max Seat #9 is the button
+Seat 1: ollikahn23 (1627 in chips) 
+Seat 2: Wileika (1398 in chips) 
+Seat 3: ebisaivane (1422 in chips) 
+Seat 4: ShadowRenegade (1448 in chips) 
+Seat 5: remco2412 (1813 in chips) 
+Seat 6: oihoN (1288 in chips) 
+Seat 7: BCEOTEU, (1567 in chips) 
+Seat 8: deadbogdan (2862 in chips) 
+Seat 9: Jahpa 13 (1127 in chips) 
+ollikahn23: posts the ante 6
+Wileika: posts the ante 6
+ebisaivane: posts the ante 6
+ShadowRenegade: posts the ante 6
+remco2412: posts the ante 6
+oihoN: posts the ante 6
+BCEOTEU,: posts the ante 6
+deadbogdan: posts the ante 6
+Jahpa 13: posts the ante 6
+ollikahn23: posts small blind 25
+Wileika: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7d 4s]
+ebisaivane: raises 50 to 100
+ShadowRenegade: folds 
+remco2412: folds 
+oihoN: folds 
+BCEOTEU,: folds 
+deadbogdan: folds 
+Jahpa 13: folds 
+ollikahn23: folds 
+Wileika: raises 150 to 250
+ebisaivane: raises 1166 to 1416 and is all-in
+Wileika: calls 1142 and is all-in
+Uncalled bet (24) returned to ebisaivane
+*** FLOP *** [5d Kh Ac]
+*** TURN *** [5d Kh Ac] [2h]
+*** RIVER *** [5d Kh Ac 2h] [7c]
+*** SHOW DOWN ***
+Wileika: shows [Qd Ah] (a pair of Aces)
+ebisaivane: shows [Qc As] (a pair of Aces)
+Wileika collected 1432 from pot
+ebisaivane collected 1431 from pot
+*** SUMMARY ***
+Total pot 2863 | Rake 0 
+Board [5d Kh Ac 2h 7c]
+Seat 1: ollikahn23 (small blind) folded before Flop
+Seat 2: Wileika (big blind) showed [Qd Ah] and won (1432) with a pair of Aces
+Seat 3: ebisaivane showed [Qc As] and won (1431) with a pair of Aces
+Seat 4: ShadowRenegade folded before Flop (didn't bet)
+Seat 5: remco2412 folded before Flop (didn't bet)
+Seat 6: oihoN folded before Flop (didn't bet)
+Seat 7: BCEOTEU, folded before Flop (didn't bet)
+Seat 8: deadbogdan folded before Flop (didn't bet)
+Seat 9: Jahpa 13 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185310193338: Tournament #2280915719, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/04/16 15:16:11 ET
+Table '2280915719 7' 9-max Seat #1 is the button
+Seat 1: ollikahn23 (1596 in chips) 
+Seat 2: Wileika (1432 in chips) 
+Seat 3: ebisaivane (1455 in chips) 
+Seat 4: ShadowRenegade (1442 in chips) 
+Seat 5: remco2412 (1807 in chips) 
+Seat 6: oihoN (1282 in chips) 
+Seat 7: BCEOTEU, (1561 in chips) 
+Seat 8: deadbogdan (2856 in chips) 
+Seat 9: Jahpa 13 (1121 in chips) 
+ollikahn23: posts the ante 6
+Wileika: posts the ante 6
+ebisaivane: posts the ante 6
+ShadowRenegade: posts the ante 6
+remco2412: posts the ante 6
+oihoN: posts the ante 6
+BCEOTEU,: posts the ante 6
+deadbogdan: posts the ante 6
+Jahpa 13: posts the ante 6
+Wileika: posts small blind 25
+ebisaivane: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qs 6s]
+ShadowRenegade: folds 
+remco2412: folds 
+oihoN: folds 
+BCEOTEU,: raises 75 to 125
+deadbogdan: folds 
+Jahpa 13: folds 
+ollikahn23: folds 
+Wileika: calls 100
+ebisaivane: calls 75
+*** FLOP *** [Tc 6d 3d]
+Wileika: checks 
+ebisaivane: checks 
+BCEOTEU,: bets 150
+Wileika: calls 150
+ebisaivane: calls 150
+*** TURN *** [Tc 6d 3d] [Ac]
+Wileika: checks 
+ebisaivane: checks 
+BCEOTEU,: checks 
+*** RIVER *** [Tc 6d 3d Ac] [5h]
+Wileika: checks 
+ebisaivane: checks 
+BCEOTEU,: checks 
+*** SHOW DOWN ***
+Wileika: shows [9c 9s] (a pair of Nines)
+ebisaivane: mucks hand 
+BCEOTEU,: mucks hand 
+Wileika collected 879 from pot
+*** SUMMARY ***
+Total pot 879 | Rake 0 
+Board [Tc 6d 3d Ac 5h]
+Seat 1: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 2: Wileika (small blind) showed [9c 9s] and won (879) with a pair of Nines
+Seat 3: ebisaivane (big blind) mucked [Kd Jc]
+Seat 4: ShadowRenegade folded before Flop (didn't bet)
+Seat 5: remco2412 folded before Flop (didn't bet)
+Seat 6: oihoN folded before Flop (didn't bet)
+Seat 7: BCEOTEU, mucked [7d 7c]
+Seat 8: deadbogdan folded before Flop (didn't bet)
+Seat 9: Jahpa 13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185310266594: Tournament #2280915719, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/04/16 15:17:39 ET
+Table '2280915719 7' 9-max Seat #2 is the button
+Seat 1: ollikahn23 (1590 in chips) 
+Seat 2: Wileika (2030 in chips) 
+Seat 3: ebisaivane (1174 in chips) 
+Seat 4: ShadowRenegade (1436 in chips) 
+Seat 5: remco2412 (1801 in chips) 
+Seat 7: BCEOTEU, (1280 in chips) 
+Seat 8: deadbogdan (2850 in chips) 
+Seat 9: Jahpa 13 (1115 in chips) 
+ollikahn23: posts the ante 6
+Wileika: posts the ante 6
+ebisaivane: posts the ante 6
+ShadowRenegade: posts the ante 6
+remco2412: posts the ante 6
+BCEOTEU,: posts the ante 6
+deadbogdan: posts the ante 6
+Jahpa 13: posts the ante 6
+ebisaivane: posts small blind 25
+ShadowRenegade: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2c 5s]
+remco2412: raises 173 to 223
+BCEOTEU,: folds 
+deadbogdan: folds 
+Jahpa 13: folds 
+ollikahn23: folds 
+Wileika: calls 223
+ebisaivane: folds 
+ebisaivane is sitting out
+ShadowRenegade: folds 
+*** FLOP *** [As 5c Ac]
+ebisaivane has returned
+remco2412: checks 
+Wileika: checks 
+*** TURN *** [As 5c Ac] [8c]
+remco2412: checks 
+Wileika: bets 400
+remco2412: folds 
+Uncalled bet (400) returned to Wileika
+Wileika collected 569 from pot
+*** SUMMARY ***
+Total pot 569 | Rake 0 
+Board [As 5c Ac 8c]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: Wileika (button) collected (569)
+Seat 3: ebisaivane (small blind) folded before Flop
+Seat 4: ShadowRenegade (big blind) folded before Flop
+Seat 5: remco2412 folded on the Turn
+Seat 7: BCEOTEU, folded before Flop (didn't bet)
+Seat 8: deadbogdan folded before Flop (didn't bet)
+Seat 9: Jahpa 13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185310339261: Tournament #2280915719, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/04/16 15:19:06 ET
+Table '2280915719 7' 9-max Seat #3 is the button
+Seat 1: ollikahn23 (1584 in chips) 
+Seat 2: Wileika (2370 in chips) 
+Seat 3: ebisaivane (1143 in chips) 
+Seat 4: ShadowRenegade (1380 in chips) 
+Seat 5: remco2412 (1572 in chips) 
+Seat 7: BCEOTEU, (1274 in chips) 
+Seat 8: deadbogdan (2844 in chips) 
+Seat 9: Jahpa 13 (1109 in chips) 
+ollikahn23: posts the ante 6
+Wileika: posts the ante 6
+ebisaivane: posts the ante 6
+ShadowRenegade: posts the ante 6
+remco2412: posts the ante 6
+BCEOTEU,: posts the ante 6
+deadbogdan: posts the ante 6
+Jahpa 13: posts the ante 6
+ShadowRenegade: posts small blind 25
+remco2412: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5h 2s]
+BCEOTEU,: folds 
+deadbogdan: raises 70 to 120
+Jahpa 13: folds 
+ollikahn23: folds 
+Wileika: folds 
+ebisaivane: folds 
+ShadowRenegade: folds 
+remco2412: folds 
+Uncalled bet (70) returned to deadbogdan
+deadbogdan collected 173 from pot
+*** SUMMARY ***
+Total pot 173 | Rake 0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: Wileika folded before Flop (didn't bet)
+Seat 3: ebisaivane (button) folded before Flop (didn't bet)
+Seat 4: ShadowRenegade (small blind) folded before Flop
+Seat 5: remco2412 (big blind) folded before Flop
+Seat 7: BCEOTEU, folded before Flop (didn't bet)
+Seat 8: deadbogdan collected (173)
+Seat 9: Jahpa 13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185310361325: Tournament #2280915719, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/04/16 15:19:32 ET
+Table '2280915719 7' 9-max Seat #4 is the button
+Seat 1: ollikahn23 (1578 in chips) 
+Seat 2: Wileika (2364 in chips) 
+Seat 3: ebisaivane (1137 in chips) 
+Seat 4: ShadowRenegade (1349 in chips) 
+Seat 5: remco2412 (1516 in chips) 
+Seat 7: BCEOTEU, (1268 in chips) 
+Seat 8: deadbogdan (2961 in chips) 
+Seat 9: Jahpa 13 (1103 in chips) 
+ollikahn23: posts the ante 6
+Wileika: posts the ante 6
+ebisaivane: posts the ante 6
+ShadowRenegade: posts the ante 6
+remco2412: posts the ante 6
+BCEOTEU,: posts the ante 6
+deadbogdan: posts the ante 6
+Jahpa 13: posts the ante 6
+remco2412: posts small blind 25
+BCEOTEU,: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2c 6s]
+deadbogdan: folds 
+Jahpa 13: folds 
+ollikahn23: folds 
+Wileika: folds 
+ebisaivane: raises 50 to 100
+ShadowRenegade: folds 
+remco2412: raises 1410 to 1510 and is all-in
+BCEOTEU,: folds 
+ebisaivane: folds 
+Uncalled bet (1410) returned to remco2412
+remco2412 collected 298 from pot
+remco2412: doesn't show hand 
+*** SUMMARY ***
+Total pot 298 | Rake 0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: Wileika folded before Flop (didn't bet)
+Seat 3: ebisaivane folded before Flop
+Seat 4: ShadowRenegade (button) folded before Flop (didn't bet)
+Seat 5: remco2412 (small blind) collected (298)
+Seat 7: BCEOTEU, (big blind) folded before Flop
+Seat 8: deadbogdan folded before Flop (didn't bet)
+Seat 9: Jahpa 13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185310392013: Tournament #2280915719, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/04/16 15:20:09 ET
+Table '2280915719 7' 9-max Seat #5 is the button
+Seat 1: ollikahn23 (1572 in chips) 
+Seat 2: Wileika (2358 in chips) 
+Seat 3: ebisaivane (1031 in chips) 
+Seat 4: ShadowRenegade (1343 in chips) 
+Seat 5: remco2412 (1708 in chips) 
+Seat 7: BCEOTEU, (1212 in chips) 
+Seat 8: deadbogdan (2955 in chips) 
+Seat 9: Jahpa 13 (1097 in chips) 
+ollikahn23: posts the ante 6
+Wileika: posts the ante 6
+ebisaivane: posts the ante 6
+ShadowRenegade: posts the ante 6
+remco2412: posts the ante 6
+BCEOTEU,: posts the ante 6
+deadbogdan: posts the ante 6
+Jahpa 13: posts the ante 6
+BCEOTEU,: posts small blind 25
+deadbogdan: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6s 8c]
+Jahpa 13: folds 
+ollikahn23: folds 
+Wileika: raises 100 to 150
+ebisaivane: folds 
+ShadowRenegade: folds 
+remco2412: folds 
+BCEOTEU,: folds 
+deadbogdan: folds 
+Uncalled bet (100) returned to Wileika
+Wileika collected 173 from pot
+*** SUMMARY ***
+Total pot 173 | Rake 0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: Wileika collected (173)
+Seat 3: ebisaivane folded before Flop (didn't bet)
+Seat 4: ShadowRenegade folded before Flop (didn't bet)
+Seat 5: remco2412 (button) folded before Flop (didn't bet)
+Seat 7: BCEOTEU, (small blind) folded before Flop
+Seat 8: deadbogdan (big blind) folded before Flop
+Seat 9: Jahpa 13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185310414815: Tournament #2280915719, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/04/16 15:20:36 ET
+Table '2280915719 7' 9-max Seat #7 is the button
+Seat 1: ollikahn23 (1566 in chips) 
+Seat 2: Wileika (2475 in chips) 
+Seat 3: ebisaivane (1025 in chips) 
+Seat 4: ShadowRenegade (1337 in chips) 
+Seat 5: remco2412 (1702 in chips) 
+Seat 6: Embutramid (1500 in chips) 
+Seat 7: BCEOTEU, (1181 in chips) 
+Seat 8: deadbogdan (2899 in chips) 
+Seat 9: Jahpa 13 (1091 in chips) 
+ollikahn23: posts the ante 6
+Wileika: posts the ante 6
+ebisaivane: posts the ante 6
+ShadowRenegade: posts the ante 6
+remco2412: posts the ante 6
+Embutramid: posts the ante 6
+BCEOTEU,: posts the ante 6
+deadbogdan: posts the ante 6
+Jahpa 13: posts the ante 6
+deadbogdan: posts small blind 25
+Jahpa 13: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kd Js]
+ollikahn23: folds 
+Wileika: raises 100 to 150
+ebisaivane: folds 
+ShadowRenegade: folds 
+remco2412: folds 
+Embutramid: folds 
+BCEOTEU,: folds 
+deadbogdan: folds 
+Jahpa 13: folds 
+Uncalled bet (100) returned to Wileika
+Wileika collected 179 from pot
+*** SUMMARY ***
+Total pot 179 | Rake 0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: Wileika collected (179)
+Seat 3: ebisaivane folded before Flop (didn't bet)
+Seat 4: ShadowRenegade folded before Flop (didn't bet)
+Seat 5: remco2412 folded before Flop (didn't bet)
+Seat 6: Embutramid folded before Flop (didn't bet)
+Seat 7: BCEOTEU, (button) folded before Flop (didn't bet)
+Seat 8: deadbogdan (small blind) folded before Flop
+Seat 9: Jahpa 13 (big blind) folded before Flop
+
+
+
+PokerStars Hand #185310438664: Tournament #2280915719, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/04/16 15:21:04 ET
+Table '2280915719 7' 9-max Seat #8 is the button
+Seat 1: ollikahn23 (1560 in chips) 
+Seat 2: Wileika (2598 in chips) 
+Seat 3: ebisaivane (1019 in chips) 
+Seat 4: ShadowRenegade (1331 in chips) 
+Seat 5: remco2412 (1696 in chips) 
+Seat 6: Embutramid (1494 in chips) 
+Seat 7: BCEOTEU, (1175 in chips) 
+Seat 8: deadbogdan (2868 in chips) 
+Seat 9: Jahpa 13 (1035 in chips) 
+ollikahn23: posts the ante 6
+Wileika: posts the ante 6
+ebisaivane: posts the ante 6
+ShadowRenegade: posts the ante 6
+remco2412: posts the ante 6
+Embutramid: posts the ante 6
+BCEOTEU,: posts the ante 6
+deadbogdan: posts the ante 6
+Jahpa 13: posts the ante 6
+Jahpa 13: posts small blind 25
+ollikahn23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7c 6d]
+Wileika: folds 
+ebisaivane: folds 
+ShadowRenegade: raises 67 to 117
+remco2412: folds 
+Embutramid: folds 
+BCEOTEU,: folds 
+deadbogdan: folds 
+Jahpa 13: folds 
+ollikahn23: folds 
+Uncalled bet (67) returned to ShadowRenegade
+ShadowRenegade collected 179 from pot
+*** SUMMARY ***
+Total pot 179 | Rake 0 
+Seat 1: ollikahn23 (big blind) folded before Flop
+Seat 2: Wileika folded before Flop (didn't bet)
+Seat 3: ebisaivane folded before Flop (didn't bet)
+Seat 4: ShadowRenegade collected (179)
+Seat 5: remco2412 folded before Flop (didn't bet)
+Seat 6: Embutramid folded before Flop (didn't bet)
+Seat 7: BCEOTEU, folded before Flop (didn't bet)
+Seat 8: deadbogdan (button) folded before Flop (didn't bet)
+Seat 9: Jahpa 13 (small blind) folded before Flop
+
+
+
+PokerStars Hand #185310466461: Tournament #2280915719, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/04/16 15:21:38 ET
+Table '2280915719 7' 9-max Seat #9 is the button
+Seat 1: ollikahn23 (1504 in chips) 
+Seat 2: Wileika (2592 in chips) 
+Seat 3: ebisaivane (1013 in chips) 
+Seat 4: ShadowRenegade (1454 in chips) 
+Seat 5: remco2412 (1690 in chips) 
+Seat 6: Embutramid (1488 in chips) 
+Seat 7: BCEOTEU, (1169 in chips) 
+Seat 8: deadbogdan (2862 in chips) 
+Seat 9: Jahpa 13 (1004 in chips) 
+ollikahn23: posts the ante 6
+Wileika: posts the ante 6
+ebisaivane: posts the ante 6
+ShadowRenegade: posts the ante 6
+remco2412: posts the ante 6
+Embutramid: posts the ante 6
+BCEOTEU,: posts the ante 6
+deadbogdan: posts the ante 6
+Jahpa 13: posts the ante 6
+ollikahn23: posts small blind 25
+Wileika: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4s 2h]
+ebisaivane: folds 
+ShadowRenegade: folds 
+remco2412: raises 179 to 229
+Embutramid: folds 
+BCEOTEU,: folds 
+deadbogdan: folds 
+Jahpa 13: folds 
+ollikahn23: folds 
+Wileika: folds 
+Uncalled bet (179) returned to remco2412
+remco2412 collected 179 from pot
+remco2412: doesn't show hand 
+*** SUMMARY ***
+Total pot 179 | Rake 0 
+Seat 1: ollikahn23 (small blind) folded before Flop
+Seat 2: Wileika (big blind) folded before Flop
+Seat 3: ebisaivane folded before Flop (didn't bet)
+Seat 4: ShadowRenegade folded before Flop (didn't bet)
+Seat 5: remco2412 collected (179)
+Seat 6: Embutramid folded before Flop (didn't bet)
+Seat 7: BCEOTEU, folded before Flop (didn't bet)
+Seat 8: deadbogdan folded before Flop (didn't bet)
+Seat 9: Jahpa 13 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185310504045: Tournament #2280915719, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/04/16 15:22:23 ET
+Table '2280915719 7' 9-max Seat #1 is the button
+Seat 1: ollikahn23 (1473 in chips) 
+Seat 2: Wileika (2536 in chips) 
+Seat 3: ebisaivane (1007 in chips) 
+Seat 4: ShadowRenegade (1448 in chips) 
+Seat 5: remco2412 (1813 in chips) 
+Seat 6: Embutramid (1482 in chips) 
+Seat 7: BCEOTEU, (1163 in chips) 
+Seat 8: deadbogdan (2856 in chips) 
+Seat 9: Jahpa 13 (998 in chips) 
+ollikahn23: posts the ante 6
+Wileika: posts the ante 6
+ebisaivane: posts the ante 6
+ShadowRenegade: posts the ante 6
+remco2412: posts the ante 6
+Embutramid: posts the ante 6
+BCEOTEU,: posts the ante 6
+deadbogdan: posts the ante 6
+Jahpa 13: posts the ante 6
+Wileika: posts small blind 25
+ebisaivane: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4h 6h]
+ShadowRenegade: folds 
+remco2412: folds 
+Embutramid: folds 
+BCEOTEU,: folds 
+deadbogdan: folds 
+Jahpa 13: folds 
+ollikahn23: raises 50 to 100
+Wileika: folds 
+ebisaivane: raises 901 to 1001 and is all-in
+ollikahn23: folds 
+Uncalled bet (901) returned to ebisaivane
+ebisaivane collected 279 from pot
+ebisaivane: doesn't show hand 
+*** SUMMARY ***
+Total pot 279 | Rake 0 
+Seat 1: ollikahn23 (button) folded before Flop
+Seat 2: Wileika (small blind) folded before Flop
+Seat 3: ebisaivane (big blind) collected (279)
+Seat 4: ShadowRenegade folded before Flop (didn't bet)
+Seat 5: remco2412 folded before Flop (didn't bet)
+Seat 6: Embutramid folded before Flop (didn't bet)
+Seat 7: BCEOTEU, folded before Flop (didn't bet)
+Seat 8: deadbogdan folded before Flop (didn't bet)
+Seat 9: Jahpa 13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185310529926: Tournament #2280915719, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/04/16 15:22:54 ET
+Table '2280915719 7' 9-max Seat #2 is the button
+Seat 1: ollikahn23 (1367 in chips) 
+Seat 2: Wileika (2505 in chips) 
+Seat 3: ebisaivane (1180 in chips) 
+Seat 4: ShadowRenegade (1442 in chips) 
+Seat 5: remco2412 (1807 in chips) 
+Seat 6: Embutramid (1476 in chips) 
+Seat 7: BCEOTEU, (1157 in chips) 
+Seat 9: Jahpa 13 (992 in chips) 
+ollikahn23: posts the ante 6
+Wileika: posts the ante 6
+ebisaivane: posts the ante 6
+ShadowRenegade: posts the ante 6
+remco2412: posts the ante 6
+Embutramid: posts the ante 6
+BCEOTEU,: posts the ante 6
+Jahpa 13: posts the ante 6
+ebisaivane: posts small blind 25
+ShadowRenegade: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kh 3h]
+remco2412: folds 
+Embutramid: folds 
+BCEOTEU,: folds 
+Jahpa 13: raises 70 to 120
+BCEOTEU, is sitting out
+ollikahn23: folds 
+Wileika: folds 
+ebisaivane: calls 95
+BCEOTEU, has returned
+ShadowRenegade: calls 70
+*** FLOP *** [5d 2h 5c]
+ebisaivane: checks 
+ShadowRenegade: checks 
+Jahpa 13: bets 200
+ebisaivane: folds 
+ShadowRenegade: folds 
+Uncalled bet (200) returned to Jahpa 13
+Jahpa 13 collected 408 from pot
+Jahpa 13: doesn't show hand 
+*** SUMMARY ***
+Total pot 408 | Rake 0 
+Board [5d 2h 5c]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: Wileika (button) folded before Flop (didn't bet)
+Seat 3: ebisaivane (small blind) folded on the Flop
+Seat 4: ShadowRenegade (big blind) folded on the Flop
+Seat 5: remco2412 folded before Flop (didn't bet)
+Seat 6: Embutramid folded before Flop (didn't bet)
+Seat 7: BCEOTEU, folded before Flop (didn't bet)
+Seat 9: Jahpa 13 collected (408)
+
+
+
+PokerStars Hand #185310581281: Tournament #2280915719, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/04/16 15:23:55 ET
+Table '2280915719 7' 9-max Seat #3 is the button
+Seat 1: ollikahn23 (1361 in chips) 
+Seat 2: Wileika (2499 in chips) 
+Seat 3: ebisaivane (1054 in chips) 
+Seat 4: ShadowRenegade (1316 in chips) 
+Seat 5: remco2412 (1801 in chips) 
+Seat 6: Embutramid (1470 in chips) 
+Seat 7: BCEOTEU, (1151 in chips) 
+Seat 9: Jahpa 13 (1274 in chips) 
+ollikahn23: posts the ante 6
+Wileika: posts the ante 6
+ebisaivane: posts the ante 6
+ShadowRenegade: posts the ante 6
+remco2412: posts the ante 6
+Embutramid: posts the ante 6
+BCEOTEU,: posts the ante 6
+Jahpa 13: posts the ante 6
+ShadowRenegade: posts small blind 25
+remco2412: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ah Js]
+Jahpa 13 said, "jj"
+Embutramid: folds 
+BCEOTEU,: folds 
+Jahpa 13: folds 
+ollikahn23: raises 100 to 150
+Wileika: folds 
+ebisaivane: folds 
+ShadowRenegade: folds 
+remco2412: folds 
+Uncalled bet (100) returned to ollikahn23
+ollikahn23 collected 173 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 173 | Rake 0 
+Seat 1: ollikahn23 collected (173)
+Seat 2: Wileika folded before Flop (didn't bet)
+Seat 3: ebisaivane (button) folded before Flop (didn't bet)
+Seat 4: ShadowRenegade (small blind) folded before Flop
+Seat 5: remco2412 (big blind) folded before Flop
+Seat 6: Embutramid folded before Flop (didn't bet)
+Seat 7: BCEOTEU, folded before Flop (didn't bet)
+Seat 9: Jahpa 13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185310595282: Tournament #2280915719, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/04/16 15:24:12 ET
+Table '2280915719 7' 9-max Seat #4 is the button
+Seat 1: ollikahn23 (1478 in chips) 
+Seat 2: Wileika (2493 in chips) 
+Seat 3: ebisaivane (1048 in chips) 
+Seat 4: ShadowRenegade (1285 in chips) 
+Seat 5: remco2412 (1745 in chips) 
+Seat 6: Embutramid (1464 in chips) 
+Seat 7: BCEOTEU, (1145 in chips) 
+Seat 9: Jahpa 13 (1268 in chips) 
+ollikahn23: posts the ante 6
+Wileika: posts the ante 6
+ebisaivane: posts the ante 6
+ShadowRenegade: posts the ante 6
+remco2412: posts the ante 6
+Embutramid: posts the ante 6
+BCEOTEU,: posts the ante 6
+Jahpa 13: posts the ante 6
+remco2412: posts small blind 25
+Embutramid: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4d 5h]
+BCEOTEU,: folds 
+Jahpa 13: folds 
+ollikahn23: folds 
+Wileika: raises 150 to 200
+ebisaivane: folds 
+ShadowRenegade: folds 
+remco2412: folds 
+Embutramid: calls 150
+*** FLOP *** [4h Qc 2c]
+Embutramid: bets 156
+Wileika: folds 
+Uncalled bet (156) returned to Embutramid
+Embutramid collected 473 from pot
+*** SUMMARY ***
+Total pot 473 | Rake 0 
+Board [4h Qc 2c]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: Wileika folded on the Flop
+Seat 3: ebisaivane folded before Flop (didn't bet)
+Seat 4: ShadowRenegade (button) folded before Flop (didn't bet)
+Seat 5: remco2412 (small blind) folded before Flop
+Seat 6: Embutramid (big blind) collected (473)
+Seat 7: BCEOTEU, folded before Flop (didn't bet)
+Seat 9: Jahpa 13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185310630387: Tournament #2280915719, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/04/16 15:24:55 ET
+Table '2280915719 7' 9-max Seat #5 is the button
+Seat 1: ollikahn23 (1472 in chips) 
+Seat 2: Wileika (2287 in chips) 
+Seat 3: ebisaivane (1042 in chips) 
+Seat 4: ShadowRenegade (1279 in chips) 
+Seat 5: remco2412 (1714 in chips) 
+Seat 6: Embutramid (1731 in chips) 
+Seat 7: BCEOTEU, (1139 in chips) 
+Seat 9: Jahpa 13 (1262 in chips) 
+ollikahn23: posts the ante 6
+Wileika: posts the ante 6
+ebisaivane: posts the ante 6
+ShadowRenegade: posts the ante 6
+remco2412: posts the ante 6
+Embutramid: posts the ante 6
+BCEOTEU,: posts the ante 6
+Jahpa 13: posts the ante 6
+Embutramid: posts small blind 25
+BCEOTEU,: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [As Js]
+Jahpa 13: folds 
+ollikahn23: raises 100 to 150
+Wileika: folds 
+ebisaivane: folds 
+ShadowRenegade: folds 
+remco2412: calls 150
+Embutramid: folds 
+BCEOTEU,: folds 
+*** FLOP *** [4s 2c Td]
+BCEOTEU, is sitting out
+ollikahn23: bets 150
+remco2412: folds 
+Uncalled bet (150) returned to ollikahn23
+ollikahn23 collected 423 from pot
+BCEOTEU, has returned
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 423 | Rake 0 
+Board [4s 2c Td]
+Seat 1: ollikahn23 collected (423)
+Seat 2: Wileika folded before Flop (didn't bet)
+Seat 3: ebisaivane folded before Flop (didn't bet)
+Seat 4: ShadowRenegade folded before Flop (didn't bet)
+Seat 5: remco2412 (button) folded on the Flop
+Seat 6: Embutramid (small blind) folded before Flop
+Seat 7: BCEOTEU, (big blind) folded before Flop
+Seat 9: Jahpa 13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185310664920: Tournament #2280915719, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/04/16 15:25:36 ET
+Table '2280915719 7' 9-max Seat #6 is the button
+Seat 1: ollikahn23 (1739 in chips) 
+Seat 2: Wileika (2281 in chips) 
+Seat 3: ebisaivane (1036 in chips) 
+Seat 4: ShadowRenegade (1273 in chips) 
+Seat 5: remco2412 (1558 in chips) 
+Seat 6: Embutramid (1700 in chips) 
+Seat 7: BCEOTEU, (1083 in chips) 
+Seat 9: Jahpa 13 (1256 in chips) 
+ollikahn23: posts the ante 6
+Wileika: posts the ante 6
+ebisaivane: posts the ante 6
+ShadowRenegade: posts the ante 6
+remco2412: posts the ante 6
+Embutramid: posts the ante 6
+BCEOTEU,: posts the ante 6
+Jahpa 13: posts the ante 6
+BCEOTEU,: posts small blind 25
+Jahpa 13: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7s 3c]
+ollikahn23: folds 
+Wileika: folds 
+ebisaivane: raises 75 to 125
+ShadowRenegade: folds 
+remco2412: folds 
+Embutramid: folds 
+BCEOTEU,: folds 
+Jahpa 13: folds 
+Uncalled bet (75) returned to ebisaivane
+ebisaivane collected 173 from pot
+ebisaivane: doesn't show hand 
+*** SUMMARY ***
+Total pot 173 | Rake 0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: Wileika folded before Flop (didn't bet)
+Seat 3: ebisaivane collected (173)
+Seat 4: ShadowRenegade folded before Flop (didn't bet)
+Seat 5: remco2412 folded before Flop (didn't bet)
+Seat 6: Embutramid (button) folded before Flop (didn't bet)
+Seat 7: BCEOTEU, (small blind) folded before Flop
+Seat 9: Jahpa 13 (big blind) folded before Flop
+
+
+
+PokerStars Hand #185310692376: Tournament #2280915719, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/04/16 15:26:09 ET
+Table '2280915719 7' 9-max Seat #7 is the button
+Seat 1: ollikahn23 (1733 in chips) 
+Seat 2: Wileika (2275 in chips) 
+Seat 3: ebisaivane (1153 in chips) 
+Seat 4: ShadowRenegade (1267 in chips) 
+Seat 5: remco2412 (1552 in chips) 
+Seat 6: Embutramid (1694 in chips) 
+Seat 7: BCEOTEU, (1052 in chips) 
+Seat 8: Himera373 (4610 in chips) out of hand (moved from another table into small blind)
+Seat 9: Jahpa 13 (1200 in chips) 
+Himera373 will be allowed to play after the button
+ollikahn23: posts the ante 6
+Wileika: posts the ante 6
+ebisaivane: posts the ante 6
+ShadowRenegade: posts the ante 6
+remco2412: posts the ante 6
+Embutramid: posts the ante 6
+BCEOTEU,: posts the ante 6
+Jahpa 13: posts the ante 6
+Jahpa 13: posts small blind 25
+ollikahn23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ah 5s]
+Wileika: folds 
+ebisaivane: folds 
+ShadowRenegade: raises 67 to 117
+remco2412: folds 
+Embutramid: folds 
+BCEOTEU,: folds 
+Jahpa 13: folds 
+ollikahn23: folds 
+Uncalled bet (67) returned to ShadowRenegade
+ShadowRenegade collected 173 from pot
+*** SUMMARY ***
+Total pot 173 | Rake 0 
+Seat 1: ollikahn23 (big blind) folded before Flop
+Seat 2: Wileika folded before Flop (didn't bet)
+Seat 3: ebisaivane folded before Flop (didn't bet)
+Seat 4: ShadowRenegade collected (173)
+Seat 5: remco2412 folded before Flop (didn't bet)
+Seat 6: Embutramid folded before Flop (didn't bet)
+Seat 7: BCEOTEU, (button) folded before Flop (didn't bet)
+Seat 9: Jahpa 13 (small blind) folded before Flop
+
+
+
+PokerStars Hand #185310712670: Tournament #2280915719, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/04/16 15:26:34 ET
+Table '2280915719 7' 9-max Seat #9 is the button
+Seat 1: ollikahn23 (1677 in chips) 
+Seat 2: Wileika (2269 in chips) 
+Seat 3: ebisaivane (1147 in chips) 
+Seat 4: ShadowRenegade (1384 in chips) 
+Seat 5: remco2412 (1546 in chips) 
+Seat 6: Embutramid (1688 in chips) 
+Seat 7: BCEOTEU, (1046 in chips) 
+Seat 8: Himera373 (4610 in chips) 
+Seat 9: Jahpa 13 (1169 in chips) 
+ollikahn23: posts the ante 6
+Wileika: posts the ante 6
+ebisaivane: posts the ante 6
+ShadowRenegade: posts the ante 6
+remco2412: posts the ante 6
+Embutramid: posts the ante 6
+BCEOTEU,: posts the ante 6
+Himera373: posts the ante 6
+Jahpa 13: posts the ante 6
+ollikahn23: posts small blind 25
+Wileika: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [As 2h]
+ebisaivane: folds 
+ShadowRenegade: folds 
+remco2412: raises 179 to 229
+Embutramid: folds 
+BCEOTEU,: folds 
+Himera373: folds 
+Jahpa 13: folds 
+ollikahn23: folds 
+Wileika: folds 
+Uncalled bet (179) returned to remco2412
+remco2412 collected 179 from pot
+remco2412: doesn't show hand 
+*** SUMMARY ***
+Total pot 179 | Rake 0 
+Seat 1: ollikahn23 (small blind) folded before Flop
+Seat 2: Wileika (big blind) folded before Flop
+Seat 3: ebisaivane folded before Flop (didn't bet)
+Seat 4: ShadowRenegade folded before Flop (didn't bet)
+Seat 5: remco2412 collected (179)
+Seat 6: Embutramid folded before Flop (didn't bet)
+Seat 7: BCEOTEU, folded before Flop (didn't bet)
+Seat 8: Himera373 folded before Flop (didn't bet)
+Seat 9: Jahpa 13 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185310764594: Tournament #2280915719, $4.10+$0.40 USD Hold'em No Limit - Level III (25/50) - 2018/04/16 15:27:36 ET
+Table '2280915719 7' 9-max Seat #1 is the button
+Seat 1: ollikahn23 (1646 in chips) 
+Seat 2: Wileika (2213 in chips) 
+Seat 3: ebisaivane (1141 in chips) 
+Seat 4: ShadowRenegade (1378 in chips) 
+Seat 5: remco2412 (1669 in chips) 
+Seat 6: Embutramid (1682 in chips) 
+Seat 7: BCEOTEU, (1040 in chips) 
+Seat 8: Himera373 (4604 in chips) 
+Seat 9: Jahpa 13 (1163 in chips) 
+ollikahn23: posts the ante 6
+Wileika: posts the ante 6
+ebisaivane: posts the ante 6
+ShadowRenegade: posts the ante 6
+remco2412: posts the ante 6
+Embutramid: posts the ante 6
+BCEOTEU,: posts the ante 6
+Himera373: posts the ante 6
+Jahpa 13: posts the ante 6
+Wileika: posts small blind 25
+ebisaivane: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Td Jd]
+ShadowRenegade: folds 
+remco2412: folds 
+Embutramid: folds 
+BCEOTEU,: folds 
+Himera373: folds 
+Jahpa 13: raises 70 to 120
+ollikahn23: calls 120
+Wileika: folds 
+ebisaivane: calls 70
+*** FLOP *** [6s 9d Tc]
+ebisaivane: checks 
+Jahpa 13: bets 318
+ollikahn23: folds 
+ebisaivane: folds 
+Uncalled bet (318) returned to Jahpa 13
+Jahpa 13 collected 439 from pot
+Jahpa 13: doesn't show hand 
+*** SUMMARY ***
+Total pot 439 | Rake 0 
+Board [6s 9d Tc]
+Seat 1: ollikahn23 (button) folded on the Flop
+Seat 2: Wileika (small blind) folded before Flop
+Seat 3: ebisaivane (big blind) folded on the Flop
+Seat 4: ShadowRenegade folded before Flop (didn't bet)
+Seat 5: remco2412 folded before Flop (didn't bet)
+Seat 6: Embutramid folded before Flop (didn't bet)
+Seat 7: BCEOTEU, folded before Flop (didn't bet)
+Seat 8: Himera373 folded before Flop (didn't bet)
+Seat 9: Jahpa 13 collected (439)
+
+
+
+PokerStars Hand #185310842435: Tournament #2280915719, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/04/16 15:29:09 ET
+Table '2280915719 7' 9-max Seat #2 is the button
+Seat 1: ollikahn23 (1520 in chips) 
+Seat 2: Wileika (2182 in chips) 
+Seat 3: ebisaivane (1015 in chips) 
+Seat 4: ShadowRenegade (1372 in chips) 
+Seat 5: remco2412 (1663 in chips) 
+Seat 6: Embutramid (1676 in chips) 
+Seat 7: BCEOTEU, (1034 in chips) 
+Seat 8: Himera373 (4598 in chips) 
+Seat 9: Jahpa 13 (1476 in chips) 
+ollikahn23: posts the ante 10
+Wileika: posts the ante 10
+ebisaivane: posts the ante 10
+ShadowRenegade: posts the ante 10
+remco2412: posts the ante 10
+Embutramid: posts the ante 10
+BCEOTEU,: posts the ante 10
+Himera373: posts the ante 10
+Jahpa 13: posts the ante 10
+ebisaivane: posts small blind 50
+ShadowRenegade: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ts 6s]
+remco2412: folds 
+Embutramid: folds 
+BCEOTEU,: folds 
+Himera373: folds 
+Jahpa 13: folds 
+ollikahn23: folds 
+Wileika: raises 100 to 200
+ebisaivane: folds 
+ShadowRenegade: folds 
+Uncalled bet (100) returned to Wileika
+Wileika collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | Rake 0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: Wileika (button) collected (340)
+Seat 3: ebisaivane (small blind) folded before Flop
+Seat 4: ShadowRenegade (big blind) folded before Flop
+Seat 5: remco2412 folded before Flop (didn't bet)
+Seat 6: Embutramid folded before Flop (didn't bet)
+Seat 7: BCEOTEU, folded before Flop (didn't bet)
+Seat 8: Himera373 folded before Flop (didn't bet)
+Seat 9: Jahpa 13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185310875346: Tournament #2280915719, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/04/16 15:29:48 ET
+Table '2280915719 7' 9-max Seat #3 is the button
+Seat 1: ollikahn23 (1510 in chips) 
+Seat 2: Wileika (2412 in chips) 
+Seat 3: ebisaivane (955 in chips) 
+Seat 4: ShadowRenegade (1262 in chips) 
+Seat 5: remco2412 (1653 in chips) 
+Seat 6: Embutramid (1666 in chips) 
+Seat 7: BCEOTEU, (1024 in chips) 
+Seat 8: Himera373 (4588 in chips) 
+Seat 9: Jahpa 13 (1466 in chips) 
+ollikahn23: posts the ante 10
+Wileika: posts the ante 10
+ebisaivane: posts the ante 10
+ShadowRenegade: posts the ante 10
+remco2412: posts the ante 10
+Embutramid: posts the ante 10
+BCEOTEU,: posts the ante 10
+Himera373: posts the ante 10
+Jahpa 13: posts the ante 10
+ShadowRenegade: posts small blind 50
+remco2412: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Td 7s]
+Embutramid: folds 
+BCEOTEU,: folds 
+Himera373: folds 
+Jahpa 13: raises 120 to 220
+ollikahn23: folds 
+Wileika: folds 
+ebisaivane: folds 
+ShadowRenegade: folds 
+remco2412: folds 
+Uncalled bet (120) returned to Jahpa 13
+Jahpa 13 collected 340 from pot
+Jahpa 13: doesn't show hand 
+*** SUMMARY ***
+Total pot 340 | Rake 0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: Wileika folded before Flop (didn't bet)
+Seat 3: ebisaivane (button) folded before Flop (didn't bet)
+Seat 4: ShadowRenegade (small blind) folded before Flop
+Seat 5: remco2412 (big blind) folded before Flop
+Seat 6: Embutramid folded before Flop (didn't bet)
+Seat 7: BCEOTEU, folded before Flop (didn't bet)
+Seat 8: Himera373 folded before Flop (didn't bet)
+Seat 9: Jahpa 13 collected (340)
+
+
+
+PokerStars Hand #185310921447: Tournament #2280915719, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/04/16 15:30:44 ET
+Table '2280915719 7' 9-max Seat #4 is the button
+Seat 1: ollikahn23 (1500 in chips) 
+Seat 2: Wileika (2402 in chips) 
+Seat 3: ebisaivane (945 in chips) 
+Seat 4: ShadowRenegade (1202 in chips) 
+Seat 5: remco2412 (1543 in chips) 
+Seat 7: BCEOTEU, (1014 in chips) 
+Seat 8: Himera373 (4578 in chips) 
+Seat 9: Jahpa 13 (1696 in chips) 
+ollikahn23: posts the ante 10
+Wileika: posts the ante 10
+ebisaivane: posts the ante 10
+ShadowRenegade: posts the ante 10
+remco2412: posts the ante 10
+BCEOTEU,: posts the ante 10
+Himera373: posts the ante 10
+Jahpa 13: posts the ante 10
+remco2412: posts small blind 50
+BCEOTEU,: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8h Ks]
+Himera373: folds 
+Jahpa 13: folds 
+ollikahn23: folds 
+Wileika: folds 
+ebisaivane: raises 150 to 250
+ShadowRenegade: folds 
+remco2412: folds 
+BCEOTEU,: folds 
+Uncalled bet (150) returned to ebisaivane
+ebisaivane collected 330 from pot
+ebisaivane: doesn't show hand 
+*** SUMMARY ***
+Total pot 330 | Rake 0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: Wileika folded before Flop (didn't bet)
+Seat 3: ebisaivane collected (330)
+Seat 4: ShadowRenegade (button) folded before Flop (didn't bet)
+Seat 5: remco2412 (small blind) folded before Flop
+Seat 7: BCEOTEU, (big blind) folded before Flop
+Seat 8: Himera373 folded before Flop (didn't bet)
+Seat 9: Jahpa 13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185310957623: Tournament #2280915719, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/04/16 15:31:17 ET
+Table '2280915719 7' 9-max Seat #5 is the button
+Seat 1: ollikahn23 (1490 in chips) 
+Seat 2: Wileika (2392 in chips) 
+Seat 3: ebisaivane (1165 in chips) 
+Seat 4: ShadowRenegade (1192 in chips) 
+Seat 5: remco2412 (1483 in chips) 
+Seat 7: BCEOTEU, (904 in chips) 
+Seat 8: Himera373 (4568 in chips) 
+Seat 9: Jahpa 13 (1686 in chips) 
+ollikahn23: posts the ante 10
+Wileika: posts the ante 10
+ebisaivane: posts the ante 10
+ShadowRenegade: posts the ante 10
+remco2412: posts the ante 10
+BCEOTEU,: posts the ante 10
+Himera373: posts the ante 10
+Jahpa 13: posts the ante 10
+BCEOTEU,: posts small blind 50
+Himera373: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jd 6h]
+Jahpa 13: folds 
+ollikahn23: folds 
+Wileika: raises 100 to 200
+ebisaivane: folds 
+ShadowRenegade: folds 
+remco2412: folds 
+BCEOTEU,: folds 
+Himera373: folds 
+Uncalled bet (100) returned to Wileika
+Wileika collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | Rake 0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: Wileika collected (330)
+Seat 3: ebisaivane folded before Flop (didn't bet)
+Seat 4: ShadowRenegade folded before Flop (didn't bet)
+Seat 5: remco2412 (button) folded before Flop (didn't bet)
+Seat 7: BCEOTEU, (small blind) folded before Flop
+Seat 8: Himera373 (big blind) folded before Flop
+Seat 9: Jahpa 13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185310976975: Tournament #2280915719, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/04/16 15:31:40 ET
+Table '2280915719 7' 9-max Seat #7 is the button
+Seat 1: ollikahn23 (1480 in chips) 
+Seat 2: Wileika (2612 in chips) 
+Seat 3: ebisaivane (1155 in chips) 
+Seat 4: ShadowRenegade (1182 in chips) 
+Seat 5: remco2412 (1473 in chips) 
+Seat 7: BCEOTEU, (844 in chips) 
+Seat 8: Himera373 (4458 in chips) 
+Seat 9: Jahpa 13 (1676 in chips) 
+ollikahn23: posts the ante 10
+Wileika: posts the ante 10
+ebisaivane: posts the ante 10
+ShadowRenegade: posts the ante 10
+remco2412: posts the ante 10
+BCEOTEU,: posts the ante 10
+Himera373: posts the ante 10
+Jahpa 13: posts the ante 10
+Himera373: posts small blind 50
+Jahpa 13: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4h As]
+ollikahn23: folds 
+Wileika: folds 
+ebisaivane: folds 
+ShadowRenegade: folds 
+remco2412: folds 
+BCEOTEU,: raises 700 to 800
+Himera373: folds 
+Jahpa 13: folds 
+Uncalled bet (700) returned to BCEOTEU,
+BCEOTEU, collected 330 from pot
+BCEOTEU,: doesn't show hand 
+*** SUMMARY ***
+Total pot 330 | Rake 0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: Wileika folded before Flop (didn't bet)
+Seat 3: ebisaivane folded before Flop (didn't bet)
+Seat 4: ShadowRenegade folded before Flop (didn't bet)
+Seat 5: remco2412 folded before Flop (didn't bet)
+Seat 7: BCEOTEU, (button) collected (330)
+Seat 8: Himera373 (small blind) folded before Flop
+Seat 9: Jahpa 13 (big blind) folded before Flop
+
+
+
+PokerStars Hand #185311000274: Tournament #2280915719, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/04/16 15:32:08 ET
+Table '2280915719 7' 9-max Seat #8 is the button
+Seat 1: ollikahn23 (1470 in chips) 
+Seat 2: Wileika (2602 in chips) 
+Seat 3: ebisaivane (1145 in chips) 
+Seat 4: ShadowRenegade (1172 in chips) 
+Seat 5: remco2412 (1463 in chips) 
+Seat 6: corvoflores (832 in chips) 
+Seat 7: BCEOTEU, (1064 in chips) 
+Seat 8: Himera373 (4398 in chips) 
+Seat 9: Jahpa 13 (1566 in chips) 
+ollikahn23: posts the ante 10
+Wileika: posts the ante 10
+ebisaivane: posts the ante 10
+ShadowRenegade: posts the ante 10
+remco2412: posts the ante 10
+corvoflores: posts the ante 10
+BCEOTEU,: posts the ante 10
+Himera373: posts the ante 10
+Jahpa 13: posts the ante 10
+Jahpa 13: posts small blind 50
+ollikahn23: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Js 5d]
+Wileika: folds 
+ebisaivane: folds 
+ShadowRenegade: raises 1062 to 1162 and is all-in
+remco2412: raises 291 to 1453 and is all-in
+corvoflores: calls 822 and is all-in
+BCEOTEU,: folds 
+Himera373: folds 
+Jahpa 13: folds 
+ollikahn23: folds 
+Uncalled bet (291) returned to remco2412
+*** FLOP *** [Qc Jd 9d]
+*** TURN *** [Qc Jd 9d] [7s]
+*** RIVER *** [Qc Jd 9d 7s] [Jc]
+*** SHOW DOWN ***
+ShadowRenegade: shows [6c 6s] (two pair, Jacks and Sixes)
+remco2412: shows [Qs Ks] (two pair, Queens and Jacks)
+remco2412 collected 680 from side pot
+corvoflores: shows [Kd Kc] (two pair, Kings and Jacks)
+corvoflores collected 2706 from main pot
+ShadowRenegade finished the tournament in 63rd place
+*** SUMMARY ***
+Total pot 3386 Main pot 2706. Side pot 680. | Rake 0 
+Board [Qc Jd 9d 7s Jc]
+Seat 1: ollikahn23 (big blind) folded before Flop
+Seat 2: Wileika folded before Flop (didn't bet)
+Seat 3: ebisaivane folded before Flop (didn't bet)
+Seat 4: ShadowRenegade showed [6c 6s] and lost with two pair, Jacks and Sixes
+Seat 5: remco2412 showed [Qs Ks] and won (680) with two pair, Queens and Jacks
+Seat 6: corvoflores showed [Kd Kc] and won (2706) with two pair, Kings and Jacks
+Seat 7: BCEOTEU, folded before Flop (didn't bet)
+Seat 8: Himera373 (button) folded before Flop (didn't bet)
+Seat 9: Jahpa 13 (small blind) folded before Flop
+
+
+
+PokerStars Hand #185311038366: Tournament #2280915719, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/04/16 15:32:54 ET
+Table '2280915719 7' 9-max Seat #9 is the button
+Seat 1: ollikahn23 (1360 in chips) 
+Seat 2: Wileika (2592 in chips) 
+Seat 3: ebisaivane (1135 in chips) 
+Seat 5: remco2412 (971 in chips) 
+Seat 6: corvoflores (2706 in chips) 
+Seat 7: BCEOTEU, (1054 in chips) 
+Seat 8: Himera373 (4388 in chips) 
+Seat 9: Jahpa 13 (1506 in chips) 
+ollikahn23: posts the ante 10
+Wileika: posts the ante 10
+ebisaivane: posts the ante 10
+remco2412: posts the ante 10
+corvoflores: posts the ante 10
+BCEOTEU,: posts the ante 10
+Himera373: posts the ante 10
+Jahpa 13: posts the ante 10
+ollikahn23: posts small blind 50
+Wileika: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4s Th]
+ebisaivane: raises 100 to 200
+remco2412: folds 
+corvoflores: folds 
+BCEOTEU,: folds 
+Himera373: folds 
+Jahpa 13: raises 1296 to 1496 and is all-in
+ollikahn23: folds 
+Wileika: folds 
+ebisaivane: calls 925 and is all-in
+Uncalled bet (371) returned to Jahpa 13
+*** FLOP *** [3s Qs 9c]
+*** TURN *** [3s Qs 9c] [9h]
+*** RIVER *** [3s Qs 9c 9h] [Jh]
+*** SHOW DOWN ***
+ebisaivane: shows [Tc Kc] (a straight, Nine to King)
+Jahpa 13: shows [Ad Kd] (a pair of Nines)
+ebisaivane collected 2480 from pot
+*** SUMMARY ***
+Total pot 2480 | Rake 0 
+Board [3s Qs 9c 9h Jh]
+Seat 1: ollikahn23 (small blind) folded before Flop
+Seat 2: Wileika (big blind) folded before Flop
+Seat 3: ebisaivane showed [Tc Kc] and won (2480) with a straight, Nine to King
+Seat 5: remco2412 folded before Flop (didn't bet)
+Seat 6: corvoflores folded before Flop (didn't bet)
+Seat 7: BCEOTEU, folded before Flop (didn't bet)
+Seat 8: Himera373 folded before Flop (didn't bet)
+Seat 9: Jahpa 13 (button) showed [Ad Kd] and lost with a pair of Nines
+
+
+
+PokerStars Hand #185311069218: Tournament #2280915719, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/04/16 15:33:30 ET
+Table '2280915719 7' 9-max Seat #1 is the button
+Seat 1: ollikahn23 (1300 in chips) 
+Seat 2: Wileika (2482 in chips) 
+Seat 3: ebisaivane (2480 in chips) 
+Seat 5: remco2412 (961 in chips) 
+Seat 6: corvoflores (2696 in chips) 
+Seat 7: BCEOTEU, (1044 in chips) 
+Seat 8: Himera373 (4378 in chips) 
+Seat 9: Jahpa 13 (371 in chips) 
+ollikahn23: posts the ante 10
+Wileika: posts the ante 10
+ebisaivane: posts the ante 10
+remco2412: posts the ante 10
+corvoflores: posts the ante 10
+BCEOTEU,: posts the ante 10
+Himera373: posts the ante 10
+Jahpa 13: posts the ante 10
+Wileika: posts small blind 50
+ebisaivane: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8c 7h]
+remco2412: raises 851 to 951 and is all-in
+corvoflores: folds 
+BCEOTEU,: folds 
+Himera373: folds 
+Jahpa 13: folds 
+ollikahn23: folds 
+Wileika: folds 
+ebisaivane: folds 
+Uncalled bet (851) returned to remco2412
+Jahpa 13 said, "ooow mother fu cker!"
+remco2412 collected 330 from pot
+remco2412: doesn't show hand 
+*** SUMMARY ***
+Total pot 330 | Rake 0 
+Seat 1: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 2: Wileika (small blind) folded before Flop
+Seat 3: ebisaivane (big blind) folded before Flop
+Seat 5: remco2412 collected (330)
+Seat 6: corvoflores folded before Flop (didn't bet)
+Seat 7: BCEOTEU, folded before Flop (didn't bet)
+Seat 8: Himera373 folded before Flop (didn't bet)
+Seat 9: Jahpa 13 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185311087544: Tournament #2280915719, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/04/16 15:33:52 ET
+Table '2280915719 7' 9-max Seat #2 is the button
+Seat 1: ollikahn23 (1290 in chips) 
+Seat 2: Wileika (2422 in chips) 
+Seat 3: ebisaivane (2370 in chips) 
+Seat 5: remco2412 (1181 in chips) 
+Seat 6: corvoflores (2686 in chips) 
+Seat 7: BCEOTEU, (1034 in chips) 
+Seat 8: Himera373 (4368 in chips) 
+Seat 9: Jahpa 13 (361 in chips) 
+ollikahn23: posts the ante 10
+Wileika: posts the ante 10
+ebisaivane: posts the ante 10
+remco2412: posts the ante 10
+corvoflores: posts the ante 10
+BCEOTEU,: posts the ante 10
+Himera373: posts the ante 10
+Jahpa 13: posts the ante 10
+ebisaivane: posts small blind 50
+remco2412: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2d 9s]
+corvoflores: folds 
+BCEOTEU,: folds 
+Himera373: folds 
+Jahpa 13: raises 251 to 351 and is all-in
+ollikahn23: folds 
+Wileika: folds 
+ebisaivane: calls 301
+remco2412: calls 251
+*** FLOP *** [Qh 3c 3s]
+ebisaivane: bets 691
+remco2412: calls 691
+*** TURN *** [Qh 3c 3s] [2c]
+ebisaivane: bets 1318 and is all-in
+remco2412: calls 129 and is all-in
+Uncalled bet (1189) returned to ebisaivane
+*** RIVER *** [Qh 3c 3s 2c] [4d]
+*** SHOW DOWN ***
+ebisaivane: shows [Jh Qd] (two pair, Queens and Threes)
+remco2412: shows [3h Th] (three of a kind, Threes)
+remco2412 collected 1640 from side pot
+Jahpa 13: shows [4h 6d] (two pair, Fours and Threes)
+remco2412 collected 1133 from main pot
+Jahpa 13 finished the tournament in 59th place
+*** SUMMARY ***
+Total pot 2773 Main pot 1133. Side pot 1640. | Rake 0 
+Board [Qh 3c 3s 2c 4d]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: Wileika (button) folded before Flop (didn't bet)
+Seat 3: ebisaivane (small blind) showed [Jh Qd] and lost with two pair, Queens and Threes
+Seat 5: remco2412 (big blind) showed [3h Th] and won (2773) with three of a kind, Threes
+Seat 6: corvoflores folded before Flop (didn't bet)
+Seat 7: BCEOTEU, folded before Flop (didn't bet)
+Seat 8: Himera373 folded before Flop (didn't bet)
+Seat 9: Jahpa 13 showed [4h 6d] and lost with two pair, Fours and Threes
+
+
+
+PokerStars Hand #185311128422: Tournament #2280915719, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/04/16 15:34:41 ET
+Table '2280915719 7' 9-max Seat #3 is the button
+Seat 1: ollikahn23 (1280 in chips) 
+Seat 2: Wileika (2412 in chips) 
+Seat 3: ebisaivane (1189 in chips) 
+Seat 5: remco2412 (2773 in chips) 
+Seat 6: corvoflores (2676 in chips) 
+Seat 7: BCEOTEU, (1024 in chips) 
+Seat 8: Himera373 (4358 in chips) 
+ollikahn23: posts the ante 10
+Wileika: posts the ante 10
+ebisaivane: posts the ante 10
+remco2412: posts the ante 10
+corvoflores: posts the ante 10
+BCEOTEU,: posts the ante 10
+Himera373: posts the ante 10
+remco2412: posts small blind 50
+corvoflores: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2h Qd]
+BCEOTEU,: folds 
+Himera373: folds 
+ollikahn23: folds 
+Wileika: folds 
+ebisaivane: raises 1079 to 1179 and is all-in
+remco2412: folds 
+corvoflores: folds 
+Uncalled bet (1079) returned to ebisaivane
+ebisaivane collected 320 from pot
+ebisaivane: doesn't show hand 
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: Wileika folded before Flop (didn't bet)
+Seat 3: ebisaivane (button) collected (320)
+Seat 5: remco2412 (small blind) folded before Flop
+Seat 6: corvoflores (big blind) folded before Flop
+Seat 7: BCEOTEU, folded before Flop (didn't bet)
+Seat 8: Himera373 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185311147561: Tournament #2280915719, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/04/16 15:35:03 ET
+Table '2280915719 7' 9-max Seat #5 is the button
+Seat 1: ollikahn23 (1270 in chips) 
+Seat 2: Wileika (2402 in chips) 
+Seat 3: ebisaivane (1399 in chips) 
+Seat 5: remco2412 (2713 in chips) 
+Seat 6: corvoflores (2566 in chips) 
+Seat 7: BCEOTEU, (1014 in chips) 
+Seat 8: Himera373 (4348 in chips) 
+Seat 9: som__zz (5720 in chips) 
+ollikahn23: posts the ante 10
+Wileika: posts the ante 10
+ebisaivane: posts the ante 10
+remco2412: posts the ante 10
+corvoflores: posts the ante 10
+BCEOTEU,: posts the ante 10
+Himera373: posts the ante 10
+som__zz: posts the ante 10
+corvoflores: posts small blind 50
+BCEOTEU,: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ah 7c]
+Himera373: raises 104 to 204
+som__zz: folds 
+ollikahn23: folds 
+Wileika: folds 
+ebisaivane: folds 
+remco2412: folds 
+corvoflores: folds 
+BCEOTEU,: calls 104
+*** FLOP *** [3s 8h Tc]
+BCEOTEU,: checks 
+Himera373: bets 285
+BCEOTEU,: folds 
+Uncalled bet (285) returned to Himera373
+Himera373 collected 538 from pot
+Himera373: doesn't show hand 
+*** SUMMARY ***
+Total pot 538 | Rake 0 
+Board [3s 8h Tc]
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: Wileika folded before Flop (didn't bet)
+Seat 3: ebisaivane folded before Flop (didn't bet)
+Seat 5: remco2412 (button) folded before Flop (didn't bet)
+Seat 6: corvoflores (small blind) folded before Flop
+Seat 7: BCEOTEU, (big blind) folded on the Flop
+Seat 8: Himera373 collected (538)
+Seat 9: som__zz folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185311193058: Tournament #2280915719, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/04/16 15:35:57 ET
+Table '2280915719 7' 9-max Seat #6 is the button
+Seat 1: ollikahn23 (1260 in chips) 
+Seat 2: Wileika (2392 in chips) 
+Seat 3: ebisaivane (1389 in chips) 
+Seat 5: remco2412 (2703 in chips) 
+Seat 6: corvoflores (2506 in chips) 
+Seat 7: BCEOTEU, (800 in chips) 
+Seat 8: Himera373 (4672 in chips) 
+Seat 9: som__zz (5710 in chips) 
+ollikahn23: posts the ante 10
+Wileika: posts the ante 10
+ebisaivane: posts the ante 10
+remco2412: posts the ante 10
+corvoflores: posts the ante 10
+BCEOTEU,: posts the ante 10
+Himera373: posts the ante 10
+som__zz: posts the ante 10
+BCEOTEU,: posts small blind 50
+Himera373: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8c 2c]
+som__zz: folds 
+ollikahn23: folds 
+Wileika: folds 
+ebisaivane: folds 
+remco2412: folds 
+corvoflores: folds 
+BCEOTEU,: raises 690 to 790 and is all-in
+Himera373: folds 
+Uncalled bet (690) returned to BCEOTEU,
+BCEOTEU, collected 280 from pot
+BCEOTEU,: doesn't show hand 
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Seat 1: ollikahn23 folded before Flop (didn't bet)
+Seat 2: Wileika folded before Flop (didn't bet)
+Seat 3: ebisaivane folded before Flop (didn't bet)
+Seat 5: remco2412 folded before Flop (didn't bet)
+Seat 6: corvoflores (button) folded before Flop (didn't bet)
+Seat 7: BCEOTEU, (small blind) collected (280)
+Seat 8: Himera373 (big blind) folded before Flop
+Seat 9: som__zz folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185311230621: Tournament #2280915719, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/04/16 15:36:42 ET
+Table '2280915719 4' 9-max Seat #9 is the button
+Seat 1: mathieau89 (4574 in chips) 
+Seat 4: ollikahn23 (1250 in chips) 
+Seat 5: Embutramid (1446 in chips) 
+Seat 6: danipah (3658 in chips) 
+Seat 7: marcustbi (5396 in chips) 
+Seat 8: milâo (5372 in chips) 
+Seat 9: KASHPIK23 (3738 in chips) 
+mathieau89: posts the ante 10
+ollikahn23: posts the ante 10
+Embutramid: posts the ante 10
+danipah: posts the ante 10
+marcustbi: posts the ante 10
+milâo: posts the ante 10
+KASHPIK23: posts the ante 10
+mathieau89: posts small blind 50
+ollikahn23: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ah Kc]
+Embutramid: folds 
+danipah: folds 
+marcustbi: folds 
+milâo: folds 
+KASHPIK23: calls 100
+mathieau89: raises 250 to 350
+marcustbi said, "ty man"
+ollikahn23: calls 250
+marcustbi said, "perfect timing"
+KASHPIK23: folds 
+*** FLOP *** [8h 6d 2h]
+mathieau89: bets 435
+ollikahn23: raises 435 to 870
+mathieau89: folds 
+Uncalled bet (435) returned to ollikahn23
+ollikahn23 collected 1740 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 1740 | Rake 0 
+Board [8h 6d 2h]
+Seat 1: mathieau89 (small blind) folded on the Flop
+Seat 4: ollikahn23 (big blind) collected (1740)
+Seat 5: Embutramid folded before Flop (didn't bet)
+Seat 6: danipah folded before Flop (didn't bet)
+Seat 7: marcustbi folded before Flop (didn't bet)
+Seat 8: milâo folded before Flop (didn't bet)
+Seat 9: KASHPIK23 (button) folded before Flop
+
+
+
+PokerStars Hand #185311272847: Tournament #2280915719, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/04/16 15:37:32 ET
+Table '2280915719 4' 9-max Seat #1 is the button
+Seat 1: mathieau89 (3779 in chips) 
+Seat 2: danan758 (7301 in chips) out of hand (moved from another table into small blind)
+Seat 3: DALTON455 (4834 in chips) out of hand (moved from another table into small blind)
+Seat 4: ollikahn23 (2195 in chips) 
+Seat 5: Embutramid (1436 in chips) 
+Seat 6: danipah (3648 in chips) 
+Seat 7: marcustbi (5386 in chips) 
+Seat 8: milâo (5362 in chips) 
+Seat 9: KASHPIK23 (3628 in chips) 
+danan758 will be allowed to play after the button
+DALTON455 will be allowed to play after the button
+mathieau89: posts the ante 10
+ollikahn23: posts the ante 10
+Embutramid: posts the ante 10
+danipah: posts the ante 10
+marcustbi: posts the ante 10
+milâo: posts the ante 10
+KASHPIK23: posts the ante 10
+ollikahn23: posts small blind 50
+Embutramid: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ad 3c]
+danipah: folds 
+marcustbi: folds 
+milâo: raises 100 to 200
+KASHPIK23: folds 
+mathieau89: folds 
+ollikahn23: folds 
+Embutramid: folds 
+Uncalled bet (100) returned to milâo
+milâo collected 320 from pot
+milâo: doesn't show hand 
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Seat 1: mathieau89 (button) folded before Flop (didn't bet)
+Seat 4: ollikahn23 (small blind) folded before Flop
+Seat 5: Embutramid (big blind) folded before Flop
+Seat 6: danipah folded before Flop (didn't bet)
+Seat 7: marcustbi folded before Flop (didn't bet)
+Seat 8: milâo collected (320)
+Seat 9: KASHPIK23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185311293195: Tournament #2280915719, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/04/16 15:37:56 ET
+Table '2280915719 4' 9-max Seat #4 is the button
+Seat 1: mathieau89 (3769 in chips) 
+Seat 2: danan758 (7301 in chips) 
+Seat 3: DALTON455 (4834 in chips) 
+Seat 4: ollikahn23 (2135 in chips) 
+Seat 5: Embutramid (1326 in chips) 
+Seat 6: danipah (3638 in chips) 
+Seat 7: marcustbi (5376 in chips) 
+Seat 8: milâo (5572 in chips) 
+Seat 9: KASHPIK23 (3618 in chips) 
+mathieau89: posts the ante 10
+danan758: posts the ante 10
+DALTON455: posts the ante 10
+ollikahn23: posts the ante 10
+Embutramid: posts the ante 10
+danipah: posts the ante 10
+marcustbi: posts the ante 10
+milâo: posts the ante 10
+KASHPIK23: posts the ante 10
+Embutramid: posts small blind 50
+danipah: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6d Jd]
+marcustbi: folds 
+milâo: folds 
+KASHPIK23: folds 
+mathieau89: raises 120 to 220
+danan758: folds 
+DALTON455: folds 
+ollikahn23: folds 
+Embutramid: folds 
+danipah: calls 120
+*** FLOP *** [Ac 8d As]
+danipah: checks 
+mathieau89: checks 
+*** TURN *** [Ac 8d As] [Jc]
+danipah: checks 
+mathieau89: bets 387
+danipah: calls 387
+*** RIVER *** [Ac 8d As Jc] [7c]
+danipah: checks 
+mathieau89: bets 903
+danipah: folds 
+Uncalled bet (903) returned to mathieau89
+mathieau89 collected 1354 from pot
+mathieau89: doesn't show hand 
+*** SUMMARY ***
+Total pot 1354 | Rake 0 
+Board [Ac 8d As Jc 7c]
+Seat 1: mathieau89 collected (1354)
+Seat 2: danan758 folded before Flop (didn't bet)
+Seat 3: DALTON455 folded before Flop (didn't bet)
+Seat 4: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 5: Embutramid (small blind) folded before Flop
+Seat 6: danipah (big blind) folded on the River
+Seat 7: marcustbi folded before Flop (didn't bet)
+Seat 8: milâo folded before Flop (didn't bet)
+Seat 9: KASHPIK23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #185311331010: Tournament #2280915719, $4.10+$0.40 USD Hold'em No Limit - Level IV (50/100) - 2018/04/16 15:38:41 ET
+Table '2280915719 4' 9-max Seat #5 is the button
+Seat 1: mathieau89 (4506 in chips) 
+Seat 2: danan758 (7291 in chips) 
+Seat 3: DALTON455 (4824 in chips) 
+Seat 4: ollikahn23 (2125 in chips) 
+Seat 5: Embutramid (1266 in chips) 
+Seat 6: danipah (3021 in chips) 
+Seat 7: marcustbi (5366 in chips) 
+Seat 8: milâo (5562 in chips) 
+Seat 9: KASHPIK23 (3608 in chips) 
+mathieau89: posts the ante 10
+danan758: posts the ante 10
+DALTON455: posts the ante 10
+ollikahn23: posts the ante 10
+Embutramid: posts the ante 10
+danipah: posts the ante 10
+marcustbi: posts the ante 10
+milâo: posts the ante 10
+KASHPIK23: posts the ante 10
+danipah: posts small blind 50
+marcustbi: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jc Qs]
+milâo: calls 100
+KASHPIK23: folds 
+mathieau89: folds 
+danan758: folds 
+DALTON455: folds 
+ollikahn23: raises 215 to 315
+Embutramid: folds 
+danipah: calls 265
+marcustbi: folds 
+milâo: calls 215
+*** FLOP *** [5c Js 2h]
+danipah: checks 
+milâo: checks 
+ollikahn23: bets 420
+danipah: folds 
+milâo: calls 420
+*** TURN *** [5c Js 2h] [4d]
+milâo: checks 
+ollikahn23: bets 1380 and is all-in
+milâo: calls 1380
+*** RIVER *** [5c Js 2h 4d] [8c]
+*** SHOW DOWN ***
+milâo: shows [2c 2d] (three of a kind, Deuces)
+ollikahn23: shows [Jc Qs] (a pair of Jacks)
+milâo collected 4735 from pot
+ollikahn23 finished the tournament in 51st place
+*** SUMMARY ***
+Total pot 4735 | Rake 0 
+Board [5c Js 2h 4d 8c]
+Seat 1: mathieau89 folded before Flop (didn't bet)
+Seat 2: danan758 folded before Flop (didn't bet)
+Seat 3: DALTON455 folded before Flop (didn't bet)
+Seat 4: ollikahn23 showed [Jc Qs] and lost with a pair of Jacks
+Seat 5: Embutramid (button) folded before Flop (didn't bet)
+Seat 6: danipah (small blind) folded on the Flop
+Seat 7: marcustbi (big blind) folded before Flop
+Seat 8: milâo showed [2c 2d] and won (4735) with three of a kind, Deuces
+Seat 9: KASHPIK23 folded before Flop (didn't bet)
+
+
+

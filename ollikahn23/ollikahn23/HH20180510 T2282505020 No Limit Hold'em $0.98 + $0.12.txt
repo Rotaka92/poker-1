@@ -1,0 +1,118 @@
+﻿PokerStars Hand #186249767625: Tournament #2282505020, $0.98+$0.12 USD Hold'em No Limit - Level I (20/40) - 2018/05/10 18:15:01 CET [2018/05/10 12:15:01 ET]
+Table '2282505020 5' 9-max Seat #1 is the button
+Seat 1: meyong2012 (3000 in chips) 
+Seat 2: SoulBankroll (3000 in chips) 
+Seat 3: edible-cakes (3000 in chips) 
+Seat 4: ollikahn23 (3000 in chips) 
+Seat 5: vlpokerist (3000 in chips) 
+Seat 6: BetoCrawler (3000 in chips) 
+Seat 7: Schnickser12 (3000 in chips) 
+Seat 8: DreamSl4y3r (3000 in chips) 
+Seat 9: opacuritiba (3000 in chips) 
+meyong2012: posts the ante 5
+SoulBankroll: posts the ante 5
+edible-cakes: posts the ante 5
+ollikahn23: posts the ante 5
+vlpokerist: posts the ante 5
+BetoCrawler: posts the ante 5
+Schnickser12: posts the ante 5
+DreamSl4y3r: posts the ante 5
+opacuritiba: posts the ante 5
+SoulBankroll: posts small blind 20
+edible-cakes: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4h 9d]
+ollikahn23: folds 
+vlpokerist: folds 
+BetoCrawler: folds 
+Schnickser12: folds 
+DreamSl4y3r: folds 
+opacuritiba: calls 40
+meyong2012: folds 
+SoulBankroll: raises 100 to 140
+edible-cakes: folds 
+opacuritiba: calls 100
+*** FLOP *** [Ad 9c Jd]
+SoulBankroll: bets 160
+opacuritiba: folds 
+Uncalled bet (160) returned to SoulBankroll
+SoulBankroll collected 365 from pot
+SoulBankroll: doesn't show hand 
+*** SUMMARY ***
+Total pot 365 | Rake 0 
+Board [Ad 9c Jd]
+Seat 1: meyong2012 (button) folded before Flop (didn't bet)
+Seat 2: SoulBankroll (small blind) collected (365)
+Seat 3: edible-cakes (big blind) folded before Flop
+Seat 4: ollikahn23 folded before Flop (didn't bet)
+Seat 5: vlpokerist folded before Flop (didn't bet)
+Seat 6: BetoCrawler folded before Flop (didn't bet)
+Seat 7: Schnickser12 folded before Flop (didn't bet)
+Seat 8: DreamSl4y3r folded before Flop (didn't bet)
+Seat 9: opacuritiba folded on the Flop
+
+
+
+PokerStars Hand #186249799768: Tournament #2282505020, $0.98+$0.12 USD Hold'em No Limit - Level I (20/40) - 2018/05/10 18:15:50 CET [2018/05/10 12:15:50 ET]
+Table '2282505020 5' 9-max Seat #2 is the button
+Seat 1: meyong2012 (2995 in chips) 
+Seat 2: SoulBankroll (3220 in chips) 
+Seat 3: edible-cakes (2955 in chips) 
+Seat 4: ollikahn23 (2995 in chips) 
+Seat 5: vlpokerist (2995 in chips) 
+Seat 6: BetoCrawler (2995 in chips) 
+Seat 7: Schnickser12 (2995 in chips) 
+Seat 8: DreamSl4y3r (2995 in chips) 
+Seat 9: opacuritiba (2855 in chips) 
+meyong2012: posts the ante 5
+SoulBankroll: posts the ante 5
+edible-cakes: posts the ante 5
+ollikahn23: posts the ante 5
+vlpokerist: posts the ante 5
+BetoCrawler: posts the ante 5
+Schnickser12: posts the ante 5
+DreamSl4y3r: posts the ante 5
+opacuritiba: posts the ante 5
+edible-cakes: posts small blind 20
+ollikahn23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3d Th]
+vlpokerist: folds 
+BetoCrawler: folds 
+Schnickser12: folds 
+DreamSl4y3r: folds 
+opacuritiba: folds 
+meyong2012: folds 
+SoulBankroll: raises 60 to 100
+edible-cakes: calls 80
+ollikahn23: raises 345 to 445
+SoulBankroll: raises 2770 to 3215 and is all-in
+edible-cakes: calls 2850 and is all-in
+ollikahn23: calls 2545 and is all-in
+Uncalled bet (225) returned to SoulBankroll
+*** FLOP *** [Kd 2h 2c]
+*** TURN *** [Kd 2h 2c] [7s]
+*** RIVER *** [Kd 2h 2c 7s] [8c]
+*** SHOW DOWN ***
+ollikahn23: shows [3d Th] (a pair of Deuces)
+SoulBankroll: shows [Ad Ac] (two pair, Aces and Deuces)
+SoulBankroll collected 80 from side pot
+edible-cakes: shows [Td Ks] (two pair, Kings and Deuces)
+SoulBankroll collected 8895 from main pot
+ollikahn23 finished the tournament
+edible-cakes finished the tournament
+*** SUMMARY ***
+Total pot 8975 Main pot 8895. Side pot 80. | Rake 0 
+Board [Kd 2h 2c 7s 8c]
+Seat 1: meyong2012 folded before Flop (didn't bet)
+Seat 2: SoulBankroll (button) showed [Ad Ac] and won (8975) with two pair, Aces and Deuces
+Seat 3: edible-cakes (small blind) showed [Td Ks] and lost with two pair, Kings and Deuces
+Seat 4: ollikahn23 (big blind) showed [3d Th] and lost with a pair of Deuces
+Seat 5: vlpokerist folded before Flop (didn't bet)
+Seat 6: BetoCrawler folded before Flop (didn't bet)
+Seat 7: Schnickser12 folded before Flop (didn't bet)
+Seat 8: DreamSl4y3r folded before Flop (didn't bet)
+Seat 9: opacuritiba folded before Flop (didn't bet)
+
+
+

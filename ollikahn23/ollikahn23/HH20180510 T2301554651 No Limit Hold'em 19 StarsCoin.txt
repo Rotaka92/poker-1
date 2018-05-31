@@ -1,0 +1,543 @@
+﻿PokerStars Hand #186248169725: Tournament #2301554651, 19 SC Hold'em No Limit - Level I (25/50) - 2018/05/10 17:30:18 CET [2018/05/10 11:30:18 ET]
+Table '2301554651 1' 6-max Seat #1 is the button
+Seat 1: BNT&Nur (500 in chips) 
+Seat 2: kasapa633 (500 in chips) 
+Seat 3: enjoyin8 (500 in chips) 
+Seat 4: ollikahn23 (500 in chips) 
+Seat 5: MISSPTV (500 in chips) 
+Seat 6: simzsimz22 (500 in chips) 
+BNT&Nur: posts the ante 10
+kasapa633: posts the ante 10
+enjoyin8: posts the ante 10
+ollikahn23: posts the ante 10
+MISSPTV: posts the ante 10
+simzsimz22: posts the ante 10
+kasapa633: posts small blind 25
+enjoyin8: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [As 2s]
+ollikahn23: folds 
+MISSPTV: calls 50
+simzsimz22: raises 440 to 490 and is all-in
+BNT&Nur: folds 
+kasapa633: folds 
+enjoyin8: folds 
+MISSPTV: folds 
+Uncalled bet (440) returned to simzsimz22
+simzsimz22 collected 235 from pot
+*** SUMMARY ***
+Total pot 235 | Rake 0 
+Seat 1: BNT&Nur (button) folded before Flop (didn't bet)
+Seat 2: kasapa633 (small blind) folded before Flop
+Seat 3: enjoyin8 (big blind) folded before Flop
+Seat 4: ollikahn23 folded before Flop (didn't bet)
+Seat 5: MISSPTV folded before Flop
+Seat 6: simzsimz22 collected (235)
+
+
+
+PokerStars Hand #186248186435: Tournament #2301554651, 19 SC Hold'em No Limit - Level I (25/50) - 2018/05/10 17:30:46 CET [2018/05/10 11:30:46 ET]
+Table '2301554651 1' 6-max Seat #2 is the button
+Seat 1: BNT&Nur (490 in chips) 
+Seat 2: kasapa633 (465 in chips) 
+Seat 3: enjoyin8 (440 in chips) 
+Seat 4: ollikahn23 (490 in chips) 
+Seat 5: MISSPTV (440 in chips) 
+Seat 6: simzsimz22 (675 in chips) 
+BNT&Nur: posts the ante 10
+kasapa633: posts the ante 10
+enjoyin8: posts the ante 10
+ollikahn23: posts the ante 10
+MISSPTV: posts the ante 10
+simzsimz22: posts the ante 10
+enjoyin8: posts small blind 25
+ollikahn23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8d 7d]
+MISSPTV: folds 
+simzsimz22: folds 
+BNT&Nur: raises 430 to 480 and is all-in
+kasapa633: folds 
+enjoyin8: folds 
+ollikahn23: folds 
+Uncalled bet (430) returned to BNT&Nur
+BNT&Nur collected 185 from pot
+BNT&Nur: doesn't show hand 
+*** SUMMARY ***
+Total pot 185 | Rake 0 
+Seat 1: BNT&Nur collected (185)
+Seat 2: kasapa633 (button) folded before Flop (didn't bet)
+Seat 3: enjoyin8 (small blind) folded before Flop
+Seat 4: ollikahn23 (big blind) folded before Flop
+Seat 5: MISSPTV folded before Flop (didn't bet)
+Seat 6: simzsimz22 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #186248197643: Tournament #2301554651, 19 SC Hold'em No Limit - Level I (25/50) - 2018/05/10 17:31:05 CET [2018/05/10 11:31:05 ET]
+Table '2301554651 1' 6-max Seat #3 is the button
+Seat 1: BNT&Nur (615 in chips) 
+Seat 2: kasapa633 (455 in chips) 
+Seat 3: enjoyin8 (405 in chips) 
+Seat 4: ollikahn23 (430 in chips) 
+Seat 5: MISSPTV (430 in chips) 
+Seat 6: simzsimz22 (665 in chips) 
+BNT&Nur: posts the ante 10
+kasapa633: posts the ante 10
+enjoyin8: posts the ante 10
+ollikahn23: posts the ante 10
+MISSPTV: posts the ante 10
+simzsimz22: posts the ante 10
+ollikahn23: posts small blind 25
+MISSPTV: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4s 9d]
+simzsimz22: raises 605 to 655 and is all-in
+BNT&Nur: folds 
+kasapa633: folds 
+enjoyin8: folds 
+ollikahn23: folds 
+MISSPTV: folds 
+Uncalled bet (605) returned to simzsimz22
+simzsimz22 collected 185 from pot
+*** SUMMARY ***
+Total pot 185 | Rake 0 
+Seat 1: BNT&Nur folded before Flop (didn't bet)
+Seat 2: kasapa633 folded before Flop (didn't bet)
+Seat 3: enjoyin8 (button) folded before Flop (didn't bet)
+Seat 4: ollikahn23 (small blind) folded before Flop
+Seat 5: MISSPTV (big blind) folded before Flop
+Seat 6: simzsimz22 collected (185)
+
+
+
+PokerStars Hand #186248212558: Tournament #2301554651, 19 SC Hold'em No Limit - Level I (25/50) - 2018/05/10 17:31:31 CET [2018/05/10 11:31:31 ET]
+Table '2301554651 1' 6-max Seat #4 is the button
+Seat 1: BNT&Nur (605 in chips) 
+Seat 2: kasapa633 (445 in chips) 
+Seat 3: enjoyin8 (395 in chips) 
+Seat 4: ollikahn23 (395 in chips) 
+Seat 5: MISSPTV (370 in chips) 
+Seat 6: simzsimz22 (790 in chips) 
+BNT&Nur: posts the ante 10
+kasapa633: posts the ante 10
+enjoyin8: posts the ante 10
+ollikahn23: posts the ante 10
+MISSPTV: posts the ante 10
+simzsimz22: posts the ante 10
+MISSPTV: posts small blind 25
+simzsimz22: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9d Kc]
+BNT&Nur: raises 545 to 595 and is all-in
+kasapa633: folds 
+enjoyin8: folds 
+ollikahn23: folds 
+MISSPTV: folds 
+simzsimz22: folds 
+Uncalled bet (545) returned to BNT&Nur
+BNT&Nur collected 185 from pot
+BNT&Nur: doesn't show hand 
+*** SUMMARY ***
+Total pot 185 | Rake 0 
+Seat 1: BNT&Nur collected (185)
+Seat 2: kasapa633 folded before Flop (didn't bet)
+Seat 3: enjoyin8 folded before Flop (didn't bet)
+Seat 4: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 5: MISSPTV (small blind) folded before Flop
+Seat 6: simzsimz22 (big blind) folded before Flop
+
+
+
+PokerStars Hand #186248218973: Tournament #2301554651, 19 SC Hold'em No Limit - Level I (25/50) - 2018/05/10 17:31:41 CET [2018/05/10 11:31:41 ET]
+Table '2301554651 1' 6-max Seat #5 is the button
+Seat 1: BNT&Nur (730 in chips) 
+Seat 2: kasapa633 (435 in chips) 
+Seat 3: enjoyin8 (385 in chips) 
+Seat 4: ollikahn23 (385 in chips) 
+Seat 5: MISSPTV (335 in chips) 
+Seat 6: simzsimz22 (730 in chips) 
+BNT&Nur: posts the ante 10
+kasapa633: posts the ante 10
+enjoyin8: posts the ante 10
+ollikahn23: posts the ante 10
+MISSPTV: posts the ante 10
+simzsimz22: posts the ante 10
+simzsimz22: posts small blind 25
+BNT&Nur: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6h Ad]
+kasapa633: folds 
+enjoyin8: folds 
+ollikahn23: raises 325 to 375 and is all-in
+MISSPTV: folds 
+simzsimz22: folds 
+BNT&Nur: calls 325
+*** FLOP *** [5d 9h Qd]
+*** TURN *** [5d 9h Qd] [Qs]
+*** RIVER *** [5d 9h Qd Qs] [Ac]
+*** SHOW DOWN ***
+BNT&Nur: shows [3s 3d] (two pair, Queens and Threes)
+ollikahn23: shows [6h Ad] (two pair, Aces and Queens)
+ollikahn23 collected 835 from pot
+*** SUMMARY ***
+Total pot 835 | Rake 0 
+Board [5d 9h Qd Qs Ac]
+Seat 1: BNT&Nur (big blind) showed [3s 3d] and lost with two pair, Queens and Threes
+Seat 2: kasapa633 folded before Flop (didn't bet)
+Seat 3: enjoyin8 folded before Flop (didn't bet)
+Seat 4: ollikahn23 showed [6h Ad] and won (835) with two pair, Aces and Queens
+Seat 5: MISSPTV (button) folded before Flop (didn't bet)
+Seat 6: simzsimz22 (small blind) folded before Flop
+
+
+
+PokerStars Hand #186248233660: Tournament #2301554651, 19 SC Hold'em No Limit - Level I (25/50) - 2018/05/10 17:32:06 CET [2018/05/10 11:32:06 ET]
+Table '2301554651 1' 6-max Seat #6 is the button
+Seat 1: BNT&Nur (345 in chips) 
+Seat 2: kasapa633 (425 in chips) 
+Seat 3: enjoyin8 (375 in chips) 
+Seat 4: ollikahn23 (835 in chips) 
+Seat 5: MISSPTV (325 in chips) 
+Seat 6: simzsimz22 (695 in chips) 
+BNT&Nur: posts the ante 10
+kasapa633: posts the ante 10
+enjoyin8: posts the ante 10
+ollikahn23: posts the ante 10
+MISSPTV: posts the ante 10
+simzsimz22: posts the ante 10
+BNT&Nur: posts small blind 25
+kasapa633: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5h 3d]
+enjoyin8: raises 315 to 365 and is all-in
+ollikahn23: folds 
+MISSPTV: calls 315 and is all-in
+simzsimz22: folds 
+BNT&Nur: folds 
+kasapa633: calls 315
+*** FLOP *** [Qs 4c Th]
+*** TURN *** [Qs 4c Th] [Js]
+*** RIVER *** [Qs 4c Th Js] [2c]
+*** SHOW DOWN ***
+kasapa633: shows [Ad Ah] (a pair of Aces)
+enjoyin8: shows [9c Qc] (a pair of Queens)
+kasapa633 collected 100 from side pot
+MISSPTV: shows [Ac 6s] (high card Ace)
+kasapa633 collected 1030 from main pot
+enjoyin8 finished the tournament in 5th place
+MISSPTV finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 1130 Main pot 1030. Side pot 100. | Rake 0 
+Board [Qs 4c Th Js 2c]
+Seat 1: BNT&Nur (small blind) folded before Flop
+Seat 2: kasapa633 (big blind) showed [Ad Ah] and won (1130) with a pair of Aces
+Seat 3: enjoyin8 showed [9c Qc] and lost with a pair of Queens
+Seat 4: ollikahn23 folded before Flop (didn't bet)
+Seat 5: MISSPTV showed [Ac 6s] and lost with high card Ace
+Seat 6: simzsimz22 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #186248245606: Tournament #2301554651, 19 SC Hold'em No Limit - Level I (25/50) - 2018/05/10 17:32:26 CET [2018/05/10 11:32:26 ET]
+Table '2301554651 1' 6-max Seat #1 is the button
+Seat 1: BNT&Nur (310 in chips) 
+Seat 2: kasapa633 (1180 in chips) 
+Seat 4: ollikahn23 (825 in chips) 
+Seat 6: simzsimz22 (685 in chips) 
+BNT&Nur: posts the ante 10
+kasapa633: posts the ante 10
+ollikahn23: posts the ante 10
+simzsimz22: posts the ante 10
+kasapa633: posts small blind 25
+ollikahn23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5s Qc]
+simzsimz22: folds 
+BNT&Nur: raises 250 to 300 and is all-in
+kasapa633: folds 
+ollikahn23: folds 
+Uncalled bet (250) returned to BNT&Nur
+BNT&Nur collected 165 from pot
+BNT&Nur: doesn't show hand 
+*** SUMMARY ***
+Total pot 165 | Rake 0 
+Seat 1: BNT&Nur (button) collected (165)
+Seat 2: kasapa633 (small blind) folded before Flop
+Seat 4: ollikahn23 (big blind) folded before Flop
+Seat 6: simzsimz22 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #186248253770: Tournament #2301554651, 19 SC Hold'em No Limit - Level I (25/50) - 2018/05/10 17:32:40 CET [2018/05/10 11:32:40 ET]
+Table '2301554651 1' 6-max Seat #2 is the button
+Seat 1: BNT&Nur (415 in chips) 
+Seat 2: kasapa633 (1145 in chips) 
+Seat 4: ollikahn23 (765 in chips) 
+Seat 6: simzsimz22 (675 in chips) 
+BNT&Nur: posts the ante 10
+kasapa633: posts the ante 10
+ollikahn23: posts the ante 10
+simzsimz22: posts the ante 10
+ollikahn23: posts small blind 25
+simzsimz22: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2c 6d]
+BNT&Nur: raises 355 to 405 and is all-in
+kasapa633: folds 
+ollikahn23: folds 
+simzsimz22: calls 355
+*** FLOP *** [4c Jd 7c]
+*** TURN *** [4c Jd 7c] [4d]
+*** RIVER *** [4c Jd 7c 4d] [Ad]
+*** SHOW DOWN ***
+simzsimz22: shows [Tc Kc] (a pair of Fours)
+BNT&Nur: shows [7h 8d] (two pair, Sevens and Fours)
+BNT&Nur collected 875 from pot
+*** SUMMARY ***
+Total pot 875 | Rake 0 
+Board [4c Jd 7c 4d Ad]
+Seat 1: BNT&Nur showed [7h 8d] and won (875) with two pair, Sevens and Fours
+Seat 2: kasapa633 (button) folded before Flop (didn't bet)
+Seat 4: ollikahn23 (small blind) folded before Flop
+Seat 6: simzsimz22 (big blind) showed [Tc Kc] and lost with a pair of Fours
+
+
+
+PokerStars Hand #186248263793: Tournament #2301554651, 19 SC Hold'em No Limit - Level I (25/50) - 2018/05/10 17:32:57 CET [2018/05/10 11:32:57 ET]
+Table '2301554651 1' 6-max Seat #4 is the button
+Seat 1: BNT&Nur (875 in chips) 
+Seat 2: kasapa633 (1135 in chips) 
+Seat 4: ollikahn23 (730 in chips) 
+Seat 6: simzsimz22 (260 in chips) 
+BNT&Nur: posts the ante 10
+kasapa633: posts the ante 10
+ollikahn23: posts the ante 10
+simzsimz22: posts the ante 10
+simzsimz22: posts small blind 25
+BNT&Nur: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4c 7s]
+kasapa633: folds 
+ollikahn23: folds 
+simzsimz22: raises 200 to 250 and is all-in
+BNT&Nur: calls 200
+*** FLOP *** [9s 2s 4s]
+*** TURN *** [9s 2s 4s] [Jd]
+*** RIVER *** [9s 2s 4s Jd] [8h]
+*** SHOW DOWN ***
+simzsimz22: shows [As 3h] (high card Ace)
+BNT&Nur: shows [Qs 9h] (a pair of Nines)
+BNT&Nur collected 540 from pot
+simzsimz22 finished the tournament in 4th place
+*** SUMMARY ***
+Total pot 540 | Rake 0 
+Board [9s 2s 4s Jd 8h]
+Seat 1: BNT&Nur (big blind) showed [Qs 9h] and won (540) with a pair of Nines
+Seat 2: kasapa633 folded before Flop (didn't bet)
+Seat 4: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 6: simzsimz22 (small blind) showed [As 3h] and lost with high card Ace
+
+
+
+PokerStars Hand #186248283792: Tournament #2301554651, 19 SC Hold'em No Limit - Level II (50/100) - 2018/05/10 17:33:31 CET [2018/05/10 11:33:31 ET]
+Table '2301554651 1' 6-max Seat #1 is the button
+Seat 1: BNT&Nur (1155 in chips) 
+Seat 2: kasapa633 (1125 in chips) 
+Seat 4: ollikahn23 (720 in chips) 
+BNT&Nur: posts the ante 20
+kasapa633: posts the ante 20
+ollikahn23: posts the ante 20
+kasapa633: posts small blind 50
+ollikahn23: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [As Qs]
+BNT&Nur: folds 
+kasapa633: calls 50
+ollikahn23: raises 125 to 225
+kasapa633: calls 125
+*** FLOP *** [Ah Qc 4c]
+kasapa633: checks 
+ollikahn23: checks 
+*** TURN *** [Ah Qc 4c] [Jh]
+kasapa633: checks 
+ollikahn23: bets 250
+kasapa633: folds 
+Uncalled bet (250) returned to ollikahn23
+ollikahn23 collected 510 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 510 | Rake 0 
+Board [Ah Qc 4c Jh]
+Seat 1: BNT&Nur (button) folded before Flop (didn't bet)
+Seat 2: kasapa633 (small blind) folded on the Turn
+Seat 4: ollikahn23 (big blind) collected (510)
+
+
+
+PokerStars Hand #186248299820: Tournament #2301554651, 19 SC Hold'em No Limit - Level II (50/100) - 2018/05/10 17:33:58 CET [2018/05/10 11:33:58 ET]
+Table '2301554651 1' 6-max Seat #2 is the button
+Seat 1: BNT&Nur (1135 in chips) 
+Seat 2: kasapa633 (880 in chips) 
+Seat 4: ollikahn23 (985 in chips) 
+BNT&Nur: posts the ante 20
+kasapa633: posts the ante 20
+ollikahn23: posts the ante 20
+ollikahn23: posts small blind 50
+BNT&Nur: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5h 4s]
+kasapa633: raises 200 to 300
+ollikahn23: folds 
+BNT&Nur: calls 200
+*** FLOP *** [5d 6s Kh]
+BNT&Nur: bets 815 and is all-in
+kasapa633: folds 
+Uncalled bet (815) returned to BNT&Nur
+BNT&Nur collected 710 from pot
+BNT&Nur: doesn't show hand 
+*** SUMMARY ***
+Total pot 710 | Rake 0 
+Board [5d 6s Kh]
+Seat 1: BNT&Nur (big blind) collected (710)
+Seat 2: kasapa633 (button) folded on the Flop
+Seat 4: ollikahn23 (small blind) folded before Flop
+
+
+
+PokerStars Hand #186248309675: Tournament #2301554651, 19 SC Hold'em No Limit - Level II (50/100) - 2018/05/10 17:34:14 CET [2018/05/10 11:34:14 ET]
+Table '2301554651 1' 6-max Seat #4 is the button
+Seat 1: BNT&Nur (1525 in chips) 
+Seat 2: kasapa633 (560 in chips) 
+Seat 4: ollikahn23 (915 in chips) 
+BNT&Nur: posts the ante 20
+kasapa633: posts the ante 20
+ollikahn23: posts the ante 20
+BNT&Nur: posts small blind 50
+kasapa633: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9c Ah]
+ollikahn23: raises 100 to 200
+BNT&Nur: calls 150
+kasapa633: raises 340 to 540 and is all-in
+ollikahn23: raises 355 to 895 and is all-in
+BNT&Nur: folds [Ts 9s]
+Uncalled bet (355) returned to ollikahn23
+*** FLOP *** [6d 2c Qd]
+*** TURN *** [6d 2c Qd] [4s]
+*** RIVER *** [6d 2c Qd 4s] [As]
+*** SHOW DOWN ***
+kasapa633: shows [Kh Jh] (high card Ace)
+ollikahn23: shows [9c Ah] (a pair of Aces)
+ollikahn23 collected 1340 from pot
+kasapa633 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1340 | Rake 0 
+Board [6d 2c Qd 4s As]
+Seat 1: BNT&Nur (small blind) folded before Flop
+Seat 2: kasapa633 (big blind) showed [Kh Jh] and lost with high card Ace
+Seat 4: ollikahn23 (button) showed [9c Ah] and won (1340) with a pair of Aces
+
+
+
+PokerStars Hand #186248326054: Tournament #2301554651, 19 SC Hold'em No Limit - Level II (50/100) - 2018/05/10 17:34:42 CET [2018/05/10 11:34:42 ET]
+Table '2301554651 1' 6-max Seat #1 is the button
+Seat 1: BNT&Nur (1305 in chips) 
+Seat 4: ollikahn23 (1695 in chips) 
+BNT&Nur: posts the ante 20
+ollikahn23: posts the ante 20
+BNT&Nur: posts small blind 50
+ollikahn23: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6c Ah]
+BNT&Nur: folds 
+Uncalled bet (50) returned to ollikahn23
+ollikahn23 collected 140 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Seat 1: BNT&Nur (button) (small blind) folded before Flop
+Seat 4: ollikahn23 (big blind) collected (140)
+
+
+
+PokerStars Hand #186248329077: Tournament #2301554651, 19 SC Hold'em No Limit - Level II (50/100) - 2018/05/10 17:34:47 CET [2018/05/10 11:34:47 ET]
+Table '2301554651 1' 6-max Seat #4 is the button
+Seat 1: BNT&Nur (1235 in chips) 
+Seat 4: ollikahn23 (1765 in chips) 
+BNT&Nur: posts the ante 20
+ollikahn23: posts the ante 20
+ollikahn23: posts small blind 50
+BNT&Nur: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4h Js]
+ollikahn23: raises 100 to 200
+BNT&Nur: calls 100
+*** FLOP *** [Qh 4c Jd]
+BNT&Nur: checks 
+ollikahn23: bets 220
+BNT&Nur: folds 
+Uncalled bet (220) returned to ollikahn23
+ollikahn23 collected 440 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 440 | Rake 0 
+Board [Qh 4c Jd]
+Seat 1: BNT&Nur (big blind) folded on the Flop
+Seat 4: ollikahn23 (button) (small blind) collected (440)
+
+
+
+PokerStars Hand #186248338470: Tournament #2301554651, 19 SC Hold'em No Limit - Level II (50/100) - 2018/05/10 17:35:03 CET [2018/05/10 11:35:03 ET]
+Table '2301554651 1' 6-max Seat #1 is the button
+Seat 1: BNT&Nur (1015 in chips) 
+Seat 4: ollikahn23 (1985 in chips) 
+BNT&Nur: posts the ante 20
+ollikahn23: posts the ante 20
+BNT&Nur: posts small blind 50
+ollikahn23: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ts Js]
+BNT&Nur: raises 895 to 995 and is all-in
+ollikahn23: folds 
+Uncalled bet (895) returned to BNT&Nur
+BNT&Nur collected 240 from pot
+BNT&Nur: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Seat 1: BNT&Nur (button) (small blind) collected (240)
+Seat 4: ollikahn23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #186248343846: Tournament #2301554651, 19 SC Hold'em No Limit - Level II (50/100) - 2018/05/10 17:35:11 CET [2018/05/10 11:35:11 ET]
+Table '2301554651 1' 6-max Seat #4 is the button
+Seat 1: BNT&Nur (1135 in chips) 
+Seat 4: ollikahn23 (1865 in chips) 
+BNT&Nur: posts the ante 20
+ollikahn23: posts the ante 20
+ollikahn23: posts small blind 50
+BNT&Nur: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Js Ac]
+ollikahn23: raises 100 to 200
+BNT&Nur: raises 915 to 1115 and is all-in
+ollikahn23: calls 915
+*** FLOP *** [8h 4c 8s]
+*** TURN *** [8h 4c 8s] [2s]
+*** RIVER *** [8h 4c 8s 2s] [7h]
+*** SHOW DOWN ***
+BNT&Nur: shows [Ah 9d] (a pair of Eights)
+ollikahn23: shows [Js Ac] (a pair of Eights - Ace+Jack kicker)
+ollikahn23 collected 2270 from pot
+BNT&Nur finished the tournament in 2nd place and received 4 Redemption Points.
+ollikahn23 wins the tournament - congratulations!
+ollikahn23 wins an entry to tournament #2282505020
+*** SUMMARY ***
+Total pot 2270 | Rake 0 
+Board [8h 4c 8s 2s 7h]
+Seat 1: BNT&Nur (big blind) showed [Ah 9d] and lost with a pair of Eights
+Seat 4: ollikahn23 (button) (small blind) showed [Js Ac] and won (2270) with a pair of Eights
+
+
+

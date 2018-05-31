@@ -1,0 +1,1818 @@
+﻿PokerStars Hand #184039652849: Tournament #2243779117, $10+$1 USD Hold'em No Limit - Level III (25/50) - 2018/03/18 16:24:16 ET
+Table '2243779117 4' 8-max Seat #5 is the button
+Seat 1: lumo_Aut (2140 in chips) 
+Seat 2: hojetem (3424 in chips) 
+Seat 3: (p/r)okSerj (4614 in chips) 
+Seat 4: ollikahn23 (3000 in chips) 
+Seat 5: bigbotbets23 (3164 in chips) 
+Seat 6: Lexx124 (1805 in chips) 
+Seat 7: Servasx (3146 in chips) 
+Seat 8: VOIT51 (3044 in chips) 
+lumo_Aut: posts the ante 6
+hojetem: posts the ante 6
+(p/r)okSerj: posts the ante 6
+ollikahn23: posts the ante 6
+bigbotbets23: posts the ante 6
+Lexx124: posts the ante 6
+Servasx: posts the ante 6
+VOIT51: posts the ante 6
+Lexx124: posts small blind 25
+Servasx: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kd Qc]
+VOIT51: calls 50
+lumo_Aut: raises 75 to 125
+hojetem: raises 163 to 288
+(p/r)okSerj: folds 
+ollikahn23: folds 
+bigbotbets23: folds 
+Lexx124: folds 
+Servasx: folds 
+VOIT51: folds 
+lumo_Aut: calls 163
+*** FLOP *** [Jc Ad Qs]
+lumo_Aut: checks 
+hojetem: bets 345
+lumo_Aut: folds 
+Uncalled bet (345) returned to hojetem
+hojetem collected 749 from pot
+*** SUMMARY ***
+Total pot 749 | Rake 0 
+Board [Jc Ad Qs]
+Seat 1: lumo_Aut folded on the Flop
+Seat 2: hojetem collected (749)
+Seat 3: (p/r)okSerj folded before Flop (didn't bet)
+Seat 4: ollikahn23 folded before Flop (didn't bet)
+Seat 5: bigbotbets23 (button) folded before Flop (didn't bet)
+Seat 6: Lexx124 (small blind) folded before Flop
+Seat 7: Servasx (big blind) folded before Flop
+Seat 8: VOIT51 folded before Flop
+
+
+
+PokerStars Hand #184039725220: Tournament #2243779117, $10+$1 USD Hold'em No Limit - Level III (25/50) - 2018/03/18 16:25:30 ET
+Table '2243779117 4' 8-max Seat #6 is the button
+Seat 1: lumo_Aut (1846 in chips) 
+Seat 2: hojetem (3879 in chips) 
+Seat 3: (p/r)okSerj (4608 in chips) 
+Seat 4: ollikahn23 (2994 in chips) 
+Seat 5: bigbotbets23 (3158 in chips) 
+Seat 6: Lexx124 (1774 in chips) 
+Seat 7: Servasx (3090 in chips) 
+Seat 8: VOIT51 (2988 in chips) 
+lumo_Aut: posts the ante 6
+hojetem: posts the ante 6
+(p/r)okSerj: posts the ante 6
+ollikahn23: posts the ante 6
+bigbotbets23: posts the ante 6
+Lexx124: posts the ante 6
+Servasx: posts the ante 6
+VOIT51: posts the ante 6
+Servasx: posts small blind 25
+VOIT51: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6d 5h]
+lumo_Aut: raises 75 to 125
+hojetem: folds 
+(p/r)okSerj: folds 
+ollikahn23: folds 
+bigbotbets23 has timed out
+bigbotbets23: folds 
+bigbotbets23 is sitting out
+Lexx124: folds 
+Servasx: folds 
+VOIT51: calls 75
+*** FLOP *** [Js 9h Jd]
+VOIT51: bets 323
+lumo_Aut: raises 1392 to 1715 and is all-in
+bigbotbets23 has returned
+VOIT51: folds 
+Uncalled bet (1392) returned to lumo_Aut
+lumo_Aut collected 969 from pot
+lumo_Aut: doesn't show hand 
+*** SUMMARY ***
+Total pot 969 | Rake 0 
+Board [Js 9h Jd]
+Seat 1: lumo_Aut collected (969)
+Seat 2: hojetem folded before Flop (didn't bet)
+Seat 3: (p/r)okSerj folded before Flop (didn't bet)
+Seat 4: ollikahn23 folded before Flop (didn't bet)
+Seat 5: bigbotbets23 folded before Flop (didn't bet)
+Seat 6: Lexx124 (button) folded before Flop (didn't bet)
+Seat 7: Servasx (small blind) folded before Flop
+Seat 8: VOIT51 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #184039826427: Tournament #2243779117, $10+$1 USD Hold'em No Limit - Level III (25/50) - 2018/03/18 16:27:14 ET
+Table '2243779117 4' 8-max Seat #7 is the button
+Seat 1: lumo_Aut (2361 in chips) 
+Seat 2: hojetem (3873 in chips) 
+Seat 3: (p/r)okSerj (4602 in chips) 
+Seat 4: ollikahn23 (2988 in chips) 
+Seat 5: bigbotbets23 (3152 in chips) 
+Seat 6: Lexx124 (1768 in chips) 
+Seat 7: Servasx (3059 in chips) 
+Seat 8: VOIT51 (2534 in chips) 
+lumo_Aut: posts the ante 6
+hojetem: posts the ante 6
+(p/r)okSerj: posts the ante 6
+ollikahn23: posts the ante 6
+bigbotbets23: posts the ante 6
+Lexx124: posts the ante 6
+Servasx: posts the ante 6
+VOIT51: posts the ante 6
+VOIT51: posts small blind 25
+lumo_Aut: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Tc 9c]
+hojetem: raises 100 to 150
+(p/r)okSerj: folds 
+ollikahn23: folds 
+bigbotbets23 has timed out
+bigbotbets23: folds 
+bigbotbets23 is sitting out
+Lexx124: folds 
+Servasx: folds 
+VOIT51: raises 100 to 250
+lumo_Aut: calls 200
+hojetem: calls 100
+*** FLOP *** [Qs Js Jd]
+VOIT51: bets 798
+lumo_Aut: folds 
+hojetem: calls 798
+*** TURN *** [Qs Js Jd] [2h]
+VOIT51: bets 1480 and is all-in
+hojetem: folds 
+Uncalled bet (1480) returned to VOIT51
+VOIT51 collected 2394 from pot
+bigbotbets23 has returned
+*** SUMMARY ***
+Total pot 2394 | Rake 0 
+Board [Qs Js Jd 2h]
+Seat 1: lumo_Aut (big blind) folded on the Flop
+Seat 2: hojetem folded on the Turn
+Seat 3: (p/r)okSerj folded before Flop (didn't bet)
+Seat 4: ollikahn23 folded before Flop (didn't bet)
+Seat 5: bigbotbets23 folded before Flop (didn't bet)
+Seat 6: Lexx124 folded before Flop (didn't bet)
+Seat 7: Servasx (button) folded before Flop (didn't bet)
+Seat 8: VOIT51 (small blind) collected (2394)
+
+
+
+PokerStars Hand #184039894858: Tournament #2243779117, $10+$1 USD Hold'em No Limit - Level III (25/50) - 2018/03/18 16:28:24 ET
+Table '2243779117 4' 8-max Seat #8 is the button
+Seat 1: lumo_Aut (2105 in chips) 
+Seat 2: hojetem (2819 in chips) 
+Seat 3: (p/r)okSerj (4596 in chips) 
+Seat 4: ollikahn23 (2982 in chips) 
+Seat 5: bigbotbets23 (3146 in chips) 
+Seat 6: Lexx124 (1762 in chips) 
+Seat 7: Servasx (3053 in chips) 
+Seat 8: VOIT51 (3874 in chips) 
+lumo_Aut: posts the ante 6
+hojetem: posts the ante 6
+(p/r)okSerj: posts the ante 6
+ollikahn23: posts the ante 6
+bigbotbets23: posts the ante 6
+Lexx124: posts the ante 6
+Servasx: posts the ante 6
+VOIT51: posts the ante 6
+lumo_Aut: posts small blind 25
+hojetem: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8d 8h]
+(p/r)okSerj: folds 
+ollikahn23: raises 100 to 150
+bigbotbets23: folds 
+Lexx124: calls 150
+Servasx: folds 
+VOIT51: calls 150
+lumo_Aut: folds 
+hojetem: calls 100
+*** FLOP *** [Qd 8s 9d]
+hojetem: checks 
+ollikahn23: bets 450
+Lexx124: calls 450
+VOIT51: calls 450
+hojetem: folds 
+*** TURN *** [Qd 8s 9d] [8c]
+ollikahn23: bets 800
+Lexx124: calls 800
+VOIT51: calls 800
+*** RIVER *** [Qd 8s 9d 8c] [Tc]
+ollikahn23: bets 1576 and is all-in
+Lexx124: calls 356 and is all-in
+VOIT51: folds 
+Uncalled bet (1220) returned to ollikahn23
+*** SHOW DOWN ***
+ollikahn23: shows [8d 8h] (four of a kind, Eights)
+Lexx124: shows [Qs Kc] (two pair, Queens and Eights)
+ollikahn23 collected 5135 from pot
+Lexx124 finished the tournament
+*** SUMMARY ***
+Total pot 5135 | Rake 0 
+Board [Qd 8s 9d 8c Tc]
+Seat 1: lumo_Aut (small blind) folded before Flop
+Seat 2: hojetem (big blind) folded on the Flop
+Seat 3: (p/r)okSerj folded before Flop (didn't bet)
+Seat 4: ollikahn23 showed [8d 8h] and won (5135) with four of a kind, Eights
+Seat 5: bigbotbets23 folded before Flop (didn't bet)
+Seat 6: Lexx124 showed [Qs Kc] and lost with two pair, Queens and Eights
+Seat 7: Servasx folded before Flop (didn't bet)
+Seat 8: VOIT51 (button) folded on the River
+
+
+
+PokerStars Hand #184039995541: Tournament #2243779117, $10+$1 USD Hold'em No Limit - Level III (25/50) - 2018/03/18 16:30:07 ET
+Table '2243779117 4' 8-max Seat #1 is the button
+Seat 1: lumo_Aut (2074 in chips) 
+Seat 2: hojetem (2663 in chips) 
+Seat 3: (p/r)okSerj (4590 in chips) 
+Seat 4: ollikahn23 (6355 in chips) 
+Seat 5: bigbotbets23 (3140 in chips) 
+Seat 7: Servasx (3047 in chips) 
+Seat 8: VOIT51 (2468 in chips) 
+lumo_Aut: posts the ante 6
+hojetem: posts the ante 6
+(p/r)okSerj: posts the ante 6
+ollikahn23: posts the ante 6
+bigbotbets23: posts the ante 6
+Servasx: posts the ante 6
+VOIT51: posts the ante 6
+hojetem: posts small blind 25
+(p/r)okSerj: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Th 7h]
+ollikahn23: folds 
+bigbotbets23: raises 50 to 100
+Servasx: folds 
+VOIT51: folds 
+lumo_Aut: folds 
+hojetem: folds 
+(p/r)okSerj: calls 50
+*** FLOP *** [Js 8c Ah]
+(p/r)okSerj: checks 
+bigbotbets23: bets 150
+(p/r)okSerj: calls 150
+*** TURN *** [Js 8c Ah] [5s]
+(p/r)okSerj: checks 
+bigbotbets23: bets 550
+(p/r)okSerj: raises 550 to 1100
+bigbotbets23: folds 
+Uncalled bet (550) returned to (p/r)okSerj
+(p/r)okSerj collected 1667 from pot
+(p/r)okSerj: doesn't show hand 
+*** SUMMARY ***
+Total pot 1667 | Rake 0 
+Board [Js 8c Ah 5s]
+Seat 1: lumo_Aut (button) folded before Flop (didn't bet)
+Seat 2: hojetem (small blind) folded before Flop
+Seat 3: (p/r)okSerj (big blind) collected (1667)
+Seat 4: ollikahn23 folded before Flop (didn't bet)
+Seat 5: bigbotbets23 folded on the Turn
+Seat 7: Servasx folded before Flop (didn't bet)
+Seat 8: VOIT51 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184040098599: Tournament #2243779117, $10+$1 USD Hold'em No Limit - Level IV (30/60) - 2018/03/18 16:31:54 ET
+Table '2243779117 4' 8-max Seat #2 is the button
+Seat 1: lumo_Aut (2068 in chips) 
+Seat 2: hojetem (2632 in chips) 
+Seat 3: (p/r)okSerj (5451 in chips) 
+Seat 4: ollikahn23 (6349 in chips) 
+Seat 5: bigbotbets23 (2334 in chips) 
+Seat 6: MitoJoseph (3000 in chips) 
+Seat 7: Servasx (3041 in chips) 
+Seat 8: VOIT51 (2462 in chips) 
+lumo_Aut: posts the ante 7
+hojetem: posts the ante 7
+(p/r)okSerj: posts the ante 7
+ollikahn23: posts the ante 7
+bigbotbets23: posts the ante 7
+MitoJoseph: posts the ante 7
+Servasx: posts the ante 7
+VOIT51: posts the ante 7
+(p/r)okSerj: posts small blind 30
+ollikahn23: posts big blind 60
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4s 9s]
+bigbotbets23: folds 
+MitoJoseph: folds 
+Servasx: folds 
+VOIT51: folds 
+lumo_Aut: raises 72 to 132
+hojetem: folds 
+(p/r)okSerj: folds 
+ollikahn23: folds 
+Uncalled bet (72) returned to lumo_Aut
+lumo_Aut collected 206 from pot
+lumo_Aut: doesn't show hand 
+*** SUMMARY ***
+Total pot 206 | Rake 0 
+Seat 1: lumo_Aut collected (206)
+Seat 2: hojetem (button) folded before Flop (didn't bet)
+Seat 3: (p/r)okSerj (small blind) folded before Flop
+Seat 4: ollikahn23 (big blind) folded before Flop
+Seat 5: bigbotbets23 folded before Flop (didn't bet)
+Seat 6: MitoJoseph folded before Flop (didn't bet)
+Seat 7: Servasx folded before Flop (didn't bet)
+Seat 8: VOIT51 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184040153240: Tournament #2243779117, $10+$1 USD Hold'em No Limit - Level IV (30/60) - 2018/03/18 16:32:50 ET
+Table '2243779117 4' 8-max Seat #3 is the button
+Seat 1: lumo_Aut (2207 in chips) 
+Seat 2: hojetem (2625 in chips) 
+Seat 3: (p/r)okSerj (5414 in chips) 
+Seat 4: ollikahn23 (6282 in chips) 
+Seat 5: bigbotbets23 (2327 in chips) 
+Seat 6: MitoJoseph (2993 in chips) 
+Seat 7: Servasx (3034 in chips) 
+Seat 8: VOIT51 (2455 in chips) 
+lumo_Aut: posts the ante 7
+hojetem: posts the ante 7
+(p/r)okSerj: posts the ante 7
+ollikahn23: posts the ante 7
+bigbotbets23: posts the ante 7
+MitoJoseph: posts the ante 7
+Servasx: posts the ante 7
+VOIT51: posts the ante 7
+ollikahn23: posts small blind 30
+bigbotbets23: posts big blind 60
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jh 7s]
+MitoJoseph: folds 
+Servasx: raises 93 to 153
+VOIT51: folds 
+lumo_Aut: folds 
+hojetem: folds 
+(p/r)okSerj: folds 
+ollikahn23: folds 
+bigbotbets23: folds 
+Uncalled bet (93) returned to Servasx
+Servasx collected 206 from pot
+Servasx: doesn't show hand 
+*** SUMMARY ***
+Total pot 206 | Rake 0 
+Seat 1: lumo_Aut folded before Flop (didn't bet)
+Seat 2: hojetem folded before Flop (didn't bet)
+Seat 3: (p/r)okSerj (button) folded before Flop (didn't bet)
+Seat 4: ollikahn23 (small blind) folded before Flop
+Seat 5: bigbotbets23 (big blind) folded before Flop
+Seat 6: MitoJoseph folded before Flop (didn't bet)
+Seat 7: Servasx collected (206)
+Seat 8: VOIT51 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184040189113: Tournament #2243779117, $10+$1 USD Hold'em No Limit - Level IV (30/60) - 2018/03/18 16:33:27 ET
+Table '2243779117 4' 8-max Seat #4 is the button
+Seat 1: lumo_Aut (2200 in chips) 
+Seat 2: hojetem (2618 in chips) 
+Seat 3: (p/r)okSerj (5407 in chips) 
+Seat 4: ollikahn23 (6245 in chips) 
+Seat 5: bigbotbets23 (2260 in chips) 
+Seat 6: MitoJoseph (2986 in chips) 
+Seat 7: Servasx (3173 in chips) 
+Seat 8: VOIT51 (2448 in chips) 
+lumo_Aut: posts the ante 7
+hojetem: posts the ante 7
+(p/r)okSerj: posts the ante 7
+ollikahn23: posts the ante 7
+bigbotbets23: posts the ante 7
+MitoJoseph: posts the ante 7
+Servasx: posts the ante 7
+VOIT51: posts the ante 7
+bigbotbets23: posts small blind 30
+MitoJoseph: posts big blind 60
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2c 8d]
+Servasx: folds 
+VOIT51: folds 
+lumo_Aut: folds 
+hojetem: folds 
+(p/r)okSerj: raises 75 to 135
+ollikahn23: folds 
+bigbotbets23: folds 
+MitoJoseph: raises 2844 to 2979 and is all-in
+(p/r)okSerj: folds 
+Uncalled bet (2844) returned to MitoJoseph
+MitoJoseph collected 356 from pot
+MitoJoseph: doesn't show hand 
+*** SUMMARY ***
+Total pot 356 | Rake 0 
+Seat 1: lumo_Aut folded before Flop (didn't bet)
+Seat 2: hojetem folded before Flop (didn't bet)
+Seat 3: (p/r)okSerj folded before Flop
+Seat 4: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 5: bigbotbets23 (small blind) folded before Flop
+Seat 6: MitoJoseph (big blind) collected (356)
+Seat 7: Servasx folded before Flop (didn't bet)
+Seat 8: VOIT51 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184040250718: Tournament #2243779117, $10+$1 USD Hold'em No Limit - Level IV (30/60) - 2018/03/18 16:34:28 ET
+Table '2243779117 4' 8-max Seat #5 is the button
+Seat 1: lumo_Aut (2193 in chips) 
+Seat 2: hojetem (2611 in chips) 
+Seat 3: (p/r)okSerj (5265 in chips) 
+Seat 4: ollikahn23 (6238 in chips) 
+Seat 5: bigbotbets23 (2223 in chips) 
+Seat 6: MitoJoseph (3200 in chips) 
+Seat 7: Servasx (3166 in chips) 
+Seat 8: VOIT51 (2441 in chips) 
+lumo_Aut: posts the ante 7
+hojetem: posts the ante 7
+(p/r)okSerj: posts the ante 7
+ollikahn23: posts the ante 7
+bigbotbets23: posts the ante 7
+MitoJoseph: posts the ante 7
+Servasx: posts the ante 7
+VOIT51: posts the ante 7
+MitoJoseph: posts small blind 30
+Servasx: posts big blind 60
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5h 8c]
+VOIT51: raises 60 to 120
+lumo_Aut: folds 
+hojetem: folds 
+(p/r)okSerj: folds 
+ollikahn23: folds 
+bigbotbets23: folds 
+MitoJoseph: folds 
+Servasx: calls 60
+*** FLOP *** [5s Tc Ts]
+Servasx: checks 
+VOIT51: bets 326
+Servasx: folds 
+Uncalled bet (326) returned to VOIT51
+VOIT51 collected 326 from pot
+*** SUMMARY ***
+Total pot 326 | Rake 0 
+Board [5s Tc Ts]
+Seat 1: lumo_Aut folded before Flop (didn't bet)
+Seat 2: hojetem folded before Flop (didn't bet)
+Seat 3: (p/r)okSerj folded before Flop (didn't bet)
+Seat 4: ollikahn23 folded before Flop (didn't bet)
+Seat 5: bigbotbets23 (button) folded before Flop (didn't bet)
+Seat 6: MitoJoseph (small blind) folded before Flop
+Seat 7: Servasx (big blind) folded on the Flop
+Seat 8: VOIT51 collected (326)
+
+
+
+PokerStars Hand #184040308879: Tournament #2243779117, $10+$1 USD Hold'em No Limit - Level IV (30/60) - 2018/03/18 16:35:29 ET
+Table '2243779117 4' 8-max Seat #6 is the button
+Seat 1: lumo_Aut (2186 in chips) 
+Seat 2: hojetem (2604 in chips) 
+Seat 3: (p/r)okSerj (5258 in chips) 
+Seat 4: ollikahn23 (6231 in chips) 
+Seat 5: bigbotbets23 (2216 in chips) 
+Seat 6: MitoJoseph (3163 in chips) 
+Seat 7: Servasx (3039 in chips) 
+Seat 8: VOIT51 (2640 in chips) 
+lumo_Aut: posts the ante 7
+hojetem: posts the ante 7
+(p/r)okSerj: posts the ante 7
+ollikahn23: posts the ante 7
+bigbotbets23: posts the ante 7
+MitoJoseph: posts the ante 7
+Servasx: posts the ante 7
+VOIT51: posts the ante 7
+Servasx: posts small blind 30
+VOIT51: posts big blind 60
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7c 8h]
+lumo_Aut: folds 
+hojetem: folds 
+(p/r)okSerj: folds 
+ollikahn23: folds 
+bigbotbets23 has timed out
+bigbotbets23: folds 
+bigbotbets23 is sitting out
+bigbotbets23 has returned
+MitoJoseph: raises 60 to 120
+Servasx: folds 
+VOIT51: raises 326 to 446
+MitoJoseph: folds 
+Uncalled bet (326) returned to VOIT51
+VOIT51 collected 326 from pot
+*** SUMMARY ***
+Total pot 326 | Rake 0 
+Seat 1: lumo_Aut folded before Flop (didn't bet)
+Seat 2: hojetem folded before Flop (didn't bet)
+Seat 3: (p/r)okSerj folded before Flop (didn't bet)
+Seat 4: ollikahn23 folded before Flop (didn't bet)
+Seat 5: bigbotbets23 folded before Flop (didn't bet)
+Seat 6: MitoJoseph (button) folded before Flop
+Seat 7: Servasx (small blind) folded before Flop
+Seat 8: VOIT51 (big blind) collected (326)
+
+
+
+PokerStars Hand #184040374335: Tournament #2243779117, $10+$1 USD Hold'em No Limit - Level IV (30/60) - 2018/03/18 16:36:36 ET
+Table '2243779117 4' 8-max Seat #7 is the button
+Seat 1: lumo_Aut (2179 in chips) 
+Seat 2: hojetem (2597 in chips) 
+Seat 3: (p/r)okSerj (5251 in chips) 
+Seat 4: ollikahn23 (6224 in chips) 
+Seat 5: bigbotbets23 (2209 in chips) 
+Seat 6: MitoJoseph (3036 in chips) 
+Seat 7: Servasx (3002 in chips) 
+Seat 8: VOIT51 (2839 in chips) 
+lumo_Aut: posts the ante 7
+hojetem: posts the ante 7
+(p/r)okSerj: posts the ante 7
+ollikahn23: posts the ante 7
+bigbotbets23: posts the ante 7
+MitoJoseph: posts the ante 7
+Servasx: posts the ante 7
+VOIT51: posts the ante 7
+VOIT51: posts small blind 30
+lumo_Aut: posts big blind 60
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3h Ad]
+hojetem: folds 
+(p/r)okSerj: folds 
+ollikahn23: folds 
+bigbotbets23: raises 60 to 120
+MitoJoseph: folds 
+Servasx: calls 120
+VOIT51: calls 90
+lumo_Aut: folds 
+*** FLOP *** [7h 2d 3c]
+VOIT51: bets 476
+bigbotbets23: raises 1606 to 2082 and is all-in
+Servasx: folds 
+VOIT51: folds 
+Uncalled bet (1606) returned to bigbotbets23
+bigbotbets23 collected 1428 from pot
+bigbotbets23: doesn't show hand 
+*** SUMMARY ***
+Total pot 1428 | Rake 0 
+Board [7h 2d 3c]
+Seat 1: lumo_Aut (big blind) folded before Flop
+Seat 2: hojetem folded before Flop (didn't bet)
+Seat 3: (p/r)okSerj folded before Flop (didn't bet)
+Seat 4: ollikahn23 folded before Flop (didn't bet)
+Seat 5: bigbotbets23 collected (1428)
+Seat 6: MitoJoseph folded before Flop (didn't bet)
+Seat 7: Servasx (button) folded on the Flop
+Seat 8: VOIT51 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #184040437410: Tournament #2243779117, $10+$1 USD Hold'em No Limit - Level IV (30/60) - 2018/03/18 16:37:42 ET
+Table '2243779117 4' 8-max Seat #8 is the button
+Seat 2: hojetem (2590 in chips) 
+Seat 3: (p/r)okSerj (5244 in chips) 
+Seat 4: ollikahn23 (6217 in chips) 
+Seat 5: bigbotbets23 (3034 in chips) 
+Seat 6: MitoJoseph (3029 in chips) 
+Seat 7: Servasx (2875 in chips) 
+Seat 8: VOIT51 (2236 in chips) 
+hojetem: posts the ante 7
+(p/r)okSerj: posts the ante 7
+ollikahn23: posts the ante 7
+bigbotbets23: posts the ante 7
+MitoJoseph: posts the ante 7
+Servasx: posts the ante 7
+VOIT51: posts the ante 7
+hojetem: posts small blind 30
+(p/r)okSerj: posts big blind 60
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2s 3c]
+ollikahn23: folds 
+bigbotbets23: folds 
+MitoJoseph: folds 
+Servasx: folds 
+VOIT51: calls 60
+hojetem: calls 30
+(p/r)okSerj: checks 
+*** FLOP *** [Ts 4h 4d]
+hojetem: checks 
+(p/r)okSerj: checks 
+VOIT51: bets 180
+hojetem: calls 180
+(p/r)okSerj: folds 
+*** TURN *** [Ts 4h 4d] [9c]
+hojetem: checks 
+VOIT51: bets 240
+hojetem: calls 240
+*** RIVER *** [Ts 4h 4d 9c] [8d]
+hojetem: checks 
+VOIT51: bets 360
+hojetem: calls 360
+*** SHOW DOWN ***
+VOIT51: shows [8h 7c] (two pair, Eights and Fours)
+hojetem: shows [Th Kd] (two pair, Tens and Fours)
+hojetem collected 1789 from pot
+*** SUMMARY ***
+Total pot 1789 | Rake 0 
+Board [Ts 4h 4d 9c 8d]
+Seat 2: hojetem (small blind) showed [Th Kd] and won (1789) with two pair, Tens and Fours
+Seat 3: (p/r)okSerj (big blind) folded on the Flop
+Seat 4: ollikahn23 folded before Flop (didn't bet)
+Seat 5: bigbotbets23 folded before Flop (didn't bet)
+Seat 6: MitoJoseph folded before Flop (didn't bet)
+Seat 7: Servasx folded before Flop (didn't bet)
+Seat 8: VOIT51 (button) showed [8h 7c] and lost with two pair, Eights and Fours
+
+
+
+PokerStars Hand #184040532874: Tournament #2243779117, $10+$1 USD Hold'em No Limit - Level IV (30/60) - 2018/03/18 16:39:21 ET
+Table '2243779117 4' 8-max Seat #2 is the button
+Seat 2: hojetem (3532 in chips) 
+Seat 3: (p/r)okSerj (5177 in chips) 
+Seat 4: ollikahn23 (6210 in chips) 
+Seat 5: bigbotbets23 (3027 in chips) 
+Seat 6: MitoJoseph (3022 in chips) 
+Seat 7: Servasx (2868 in chips) 
+Seat 8: VOIT51 (1389 in chips) 
+hojetem: posts the ante 7
+(p/r)okSerj: posts the ante 7
+ollikahn23: posts the ante 7
+bigbotbets23: posts the ante 7
+MitoJoseph: posts the ante 7
+Servasx: posts the ante 7
+VOIT51: posts the ante 7
+(p/r)okSerj: posts small blind 30
+ollikahn23: posts big blind 60
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3c Kh]
+bigbotbets23: calls 60
+MitoJoseph: folds 
+Servasx: folds 
+VOIT51: folds 
+hojetem: folds 
+(p/r)okSerj: folds 
+ollikahn23: checks 
+*** FLOP *** [2h 5s 9c]
+ollikahn23: checks 
+bigbotbets23: bets 120
+ollikahn23: folds 
+Uncalled bet (120) returned to bigbotbets23
+bigbotbets23 collected 199 from pot
+bigbotbets23: doesn't show hand 
+*** SUMMARY ***
+Total pot 199 | Rake 0 
+Board [2h 5s 9c]
+Seat 2: hojetem (button) folded before Flop (didn't bet)
+Seat 3: (p/r)okSerj (small blind) folded before Flop
+Seat 4: ollikahn23 (big blind) folded on the Flop
+Seat 5: bigbotbets23 collected (199)
+Seat 6: MitoJoseph folded before Flop (didn't bet)
+Seat 7: Servasx folded before Flop (didn't bet)
+Seat 8: VOIT51 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184040568337: Tournament #2243779117, $10+$1 USD Hold'em No Limit - Level IV (30/60) - 2018/03/18 16:39:58 ET
+Table '2243779117 4' 8-max Seat #3 is the button
+Seat 1: Xeneize26 (3000 in chips) 
+Seat 2: hojetem (3525 in chips) 
+Seat 3: (p/r)okSerj (5140 in chips) 
+Seat 4: ollikahn23 (6143 in chips) 
+Seat 5: bigbotbets23 (3159 in chips) 
+Seat 6: MitoJoseph (3015 in chips) 
+Seat 7: Servasx (2861 in chips) 
+Seat 8: VOIT51 (1382 in chips) 
+Xeneize26: posts the ante 7
+hojetem: posts the ante 7
+(p/r)okSerj: posts the ante 7
+ollikahn23: posts the ante 7
+bigbotbets23: posts the ante 7
+MitoJoseph: posts the ante 7
+Servasx: posts the ante 7
+VOIT51: posts the ante 7
+ollikahn23: posts small blind 30
+bigbotbets23: posts big blind 60
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5h As]
+MitoJoseph: raises 90 to 150
+Servasx: folds 
+VOIT51: calls 150
+Xeneize26: folds 
+hojetem: folds 
+(p/r)okSerj: calls 150
+ollikahn23: folds 
+bigbotbets23: calls 90
+*** FLOP *** [2c Ks Ah]
+bigbotbets23: bets 60
+MitoJoseph: calls 60
+VOIT51: raises 866 to 926
+(p/r)okSerj: folds 
+bigbotbets23: raises 2076 to 3002 and is all-in
+MitoJoseph: folds 
+VOIT51: calls 299 and is all-in
+Uncalled bet (1777) returned to bigbotbets23
+*** TURN *** [2c Ks Ah] [Qd]
+*** RIVER *** [2c Ks Ah Qd] [Js]
+*** SHOW DOWN ***
+bigbotbets23: shows [7h Ad] (a pair of Aces)
+VOIT51: shows [Kd 8d] (a pair of Kings)
+bigbotbets23 collected 3196 from pot
+VOIT51 finished the tournament
+*** SUMMARY ***
+Total pot 3196 | Rake 0 
+Board [2c Ks Ah Qd Js]
+Seat 1: Xeneize26 folded before Flop (didn't bet)
+Seat 2: hojetem folded before Flop (didn't bet)
+Seat 3: (p/r)okSerj (button) folded on the Flop
+Seat 4: ollikahn23 (small blind) folded before Flop
+Seat 5: bigbotbets23 (big blind) showed [7h Ad] and won (3196) with a pair of Aces
+Seat 6: MitoJoseph folded on the Flop
+Seat 7: Servasx folded before Flop (didn't bet)
+Seat 8: VOIT51 showed [Kd 8d] and lost with a pair of Kings
+
+
+
+PokerStars Hand #184040646774: Tournament #2243779117, $10+$1 USD Hold'em No Limit - Level V (40/80) - 2018/03/18 16:41:20 ET
+Table '2243779117 4' 8-max Seat #4 is the button
+Seat 1: Xeneize26 (2993 in chips) 
+Seat 2: hojetem (3518 in chips) 
+Seat 3: (p/r)okSerj (4983 in chips) 
+Seat 4: ollikahn23 (6106 in chips) 
+Seat 5: bigbotbets23 (4973 in chips) 
+Seat 6: MitoJoseph (2798 in chips) 
+Seat 7: Servasx (2854 in chips) 
+Seat 8: teocrates (3000 in chips) 
+Xeneize26: posts the ante 10
+hojetem: posts the ante 10
+(p/r)okSerj: posts the ante 10
+ollikahn23: posts the ante 10
+bigbotbets23: posts the ante 10
+MitoJoseph: posts the ante 10
+Servasx: posts the ante 10
+teocrates: posts the ante 10
+bigbotbets23: posts small blind 40
+MitoJoseph: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qh 5d]
+Servasx: raises 124 to 204
+teocrates: folds 
+Xeneize26: folds 
+hojetem: folds 
+(p/r)okSerj: folds 
+ollikahn23: folds 
+bigbotbets23: calls 164
+MitoJoseph: calls 124
+*** FLOP *** [Ah 2d Ad]
+bigbotbets23: bets 80
+MitoJoseph: folds 
+Servasx: calls 80
+*** TURN *** [Ah 2d Ad] [4d]
+bigbotbets23: bets 80
+Servasx: raises 400 to 480
+bigbotbets23: raises 400 to 880
+Servasx: calls 400
+*** RIVER *** [Ah 2d Ad 4d] [6s]
+bigbotbets23: checks 
+Servasx: bets 1680 and is all-in
+bigbotbets23: calls 1680
+*** SHOW DOWN ***
+Servasx: shows [4s As] (a full house, Aces full of Fours)
+bigbotbets23: shows [2s 9s] (two pair, Aces and Deuces)
+Servasx collected 5972 from pot
+*** SUMMARY ***
+Total pot 5972 | Rake 0 
+Board [Ah 2d Ad 4d 6s]
+Seat 1: Xeneize26 folded before Flop (didn't bet)
+Seat 2: hojetem folded before Flop (didn't bet)
+Seat 3: (p/r)okSerj folded before Flop (didn't bet)
+Seat 4: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 5: bigbotbets23 (small blind) showed [2s 9s] and lost with two pair, Aces and Deuces
+Seat 6: MitoJoseph (big blind) folded on the Flop
+Seat 7: Servasx showed [4s As] and won (5972) with a full house, Aces full of Fours
+Seat 8: teocrates folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184040751270: Tournament #2243779117, $10+$1 USD Hold'em No Limit - Level V (40/80) - 2018/03/18 16:43:09 ET
+Table '2243779117 4' 8-max Seat #5 is the button
+Seat 1: Xeneize26 (2983 in chips) 
+Seat 2: hojetem (3508 in chips) 
+Seat 3: (p/r)okSerj (4973 in chips) 
+Seat 4: ollikahn23 (6096 in chips) 
+Seat 5: bigbotbets23 (2119 in chips) 
+Seat 6: MitoJoseph (2584 in chips) 
+Seat 7: Servasx (5972 in chips) 
+Seat 8: teocrates (2990 in chips) 
+Xeneize26: posts the ante 10
+hojetem: posts the ante 10
+(p/r)okSerj: posts the ante 10
+ollikahn23: posts the ante 10
+bigbotbets23: posts the ante 10
+MitoJoseph: posts the ante 10
+Servasx: posts the ante 10
+teocrates: posts the ante 10
+MitoJoseph: posts small blind 40
+Servasx: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8s 7d]
+teocrates: folds 
+Xeneize26: raises 80 to 160
+hojetem: folds 
+(p/r)okSerj: folds 
+ollikahn23: folds 
+bigbotbets23: calls 160
+MitoJoseph: folds 
+Servasx: folds 
+*** FLOP *** [Jh Kh 3d]
+Xeneize26: checks 
+bigbotbets23: bets 80
+Xeneize26: folds 
+Uncalled bet (80) returned to bigbotbets23
+bigbotbets23 collected 520 from pot
+bigbotbets23: doesn't show hand 
+*** SUMMARY ***
+Total pot 520 | Rake 0 
+Board [Jh Kh 3d]
+Seat 1: Xeneize26 folded on the Flop
+Seat 2: hojetem folded before Flop (didn't bet)
+Seat 3: (p/r)okSerj folded before Flop (didn't bet)
+Seat 4: ollikahn23 folded before Flop (didn't bet)
+Seat 5: bigbotbets23 (button) collected (520)
+Seat 6: MitoJoseph (small blind) folded before Flop
+Seat 7: Servasx (big blind) folded before Flop
+Seat 8: teocrates folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184040787445: Tournament #2243779117, $10+$1 USD Hold'em No Limit - Level V (40/80) - 2018/03/18 16:43:47 ET
+Table '2243779117 4' 8-max Seat #6 is the button
+Seat 1: Xeneize26 (2813 in chips) 
+Seat 2: hojetem (3498 in chips) 
+Seat 3: (p/r)okSerj (4963 in chips) 
+Seat 4: ollikahn23 (6086 in chips) 
+Seat 5: bigbotbets23 (2469 in chips) 
+Seat 6: MitoJoseph (2534 in chips) 
+Seat 7: Servasx (5882 in chips) 
+Seat 8: teocrates (2980 in chips) 
+Xeneize26: posts the ante 10
+hojetem: posts the ante 10
+(p/r)okSerj: posts the ante 10
+ollikahn23: posts the ante 10
+bigbotbets23: posts the ante 10
+MitoJoseph: posts the ante 10
+Servasx: posts the ante 10
+teocrates: posts the ante 10
+Servasx: posts small blind 40
+teocrates: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8c As]
+Xeneize26: folds 
+hojetem: raises 80 to 160
+(p/r)okSerj: folds 
+ollikahn23: folds 
+bigbotbets23: calls 160
+MitoJoseph: folds 
+Servasx: folds 
+teocrates: folds 
+*** FLOP *** [7h Jc Qh]
+hojetem: checks 
+bigbotbets23: bets 320
+hojetem: folds 
+Uncalled bet (320) returned to bigbotbets23
+bigbotbets23 collected 520 from pot
+bigbotbets23: doesn't show hand 
+*** SUMMARY ***
+Total pot 520 | Rake 0 
+Board [7h Jc Qh]
+Seat 1: Xeneize26 folded before Flop (didn't bet)
+Seat 2: hojetem folded on the Flop
+Seat 3: (p/r)okSerj folded before Flop (didn't bet)
+Seat 4: ollikahn23 folded before Flop (didn't bet)
+Seat 5: bigbotbets23 collected (520)
+Seat 6: MitoJoseph (button) folded before Flop (didn't bet)
+Seat 7: Servasx (small blind) folded before Flop
+Seat 8: teocrates (big blind) folded before Flop
+
+
+
+PokerStars Hand #184040839377: Tournament #2243779117, $10+$1 USD Hold'em No Limit - Level V (40/80) - 2018/03/18 16:44:42 ET
+Table '2243779117 4' 8-max Seat #7 is the button
+Seat 2: hojetem (3328 in chips) 
+Seat 3: (p/r)okSerj (4953 in chips) 
+Seat 4: ollikahn23 (6076 in chips) 
+Seat 5: bigbotbets23 (2819 in chips) 
+Seat 6: MitoJoseph (2524 in chips) 
+Seat 7: Servasx (5832 in chips) 
+Seat 8: teocrates (2890 in chips) 
+hojetem: posts the ante 10
+(p/r)okSerj: posts the ante 10
+ollikahn23: posts the ante 10
+bigbotbets23: posts the ante 10
+MitoJoseph: posts the ante 10
+Servasx: posts the ante 10
+teocrates: posts the ante 10
+teocrates: posts small blind 40
+hojetem: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3h 5s]
+(p/r)okSerj: folds 
+ollikahn23: folds 
+bigbotbets23: calls 80
+MitoJoseph: folds 
+Servasx: folds 
+teocrates: calls 40
+hojetem: checks 
+*** FLOP *** [3s Kd 7d]
+teocrates: checks 
+hojetem: checks 
+bigbotbets23: bets 80
+teocrates: folds 
+hojetem: folds 
+Uncalled bet (80) returned to bigbotbets23
+bigbotbets23 collected 310 from pot
+bigbotbets23: doesn't show hand 
+*** SUMMARY ***
+Total pot 310 | Rake 0 
+Board [3s Kd 7d]
+Seat 2: hojetem (big blind) folded on the Flop
+Seat 3: (p/r)okSerj folded before Flop (didn't bet)
+Seat 4: ollikahn23 folded before Flop (didn't bet)
+Seat 5: bigbotbets23 collected (310)
+Seat 6: MitoJoseph folded before Flop (didn't bet)
+Seat 7: Servasx (button) folded before Flop (didn't bet)
+Seat 8: teocrates (small blind) folded on the Flop
+
+
+
+PokerStars Hand #184040883668: Tournament #2243779117, $10+$1 USD Hold'em No Limit - Level V (40/80) - 2018/03/18 16:45:28 ET
+Table '2243779117 4' 8-max Seat #8 is the button
+Seat 1: Mat.huszcz (3000 in chips) out of hand (moved from another table into small blind)
+Seat 2: hojetem (3238 in chips) 
+Seat 3: (p/r)okSerj (4943 in chips) 
+Seat 4: ollikahn23 (6066 in chips) 
+Seat 5: bigbotbets23 (3039 in chips) 
+Seat 6: MitoJoseph (2514 in chips) 
+Seat 7: Servasx (5822 in chips) 
+Seat 8: teocrates (2800 in chips) 
+Mat.huszcz will be allowed to play after the button
+hojetem: posts the ante 10
+(p/r)okSerj: posts the ante 10
+ollikahn23: posts the ante 10
+bigbotbets23: posts the ante 10
+MitoJoseph: posts the ante 10
+Servasx: posts the ante 10
+teocrates: posts the ante 10
+hojetem: posts small blind 40
+(p/r)okSerj: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8c 4c]
+ollikahn23: folds 
+bigbotbets23: calls 80
+MitoJoseph: folds 
+Servasx: raises 240 to 320
+teocrates: folds 
+hojetem: folds 
+(p/r)okSerj: folds 
+bigbotbets23: calls 240
+*** FLOP *** [3h Qd 8s]
+bigbotbets23: checks 
+Servasx: bets 274
+bigbotbets23: calls 274
+*** TURN *** [3h Qd 8s] [4s]
+bigbotbets23: checks 
+Servasx: bets 425
+bigbotbets23: raises 425 to 850
+Servasx: calls 425
+*** RIVER *** [3h Qd 8s 4s] [9c]
+bigbotbets23 has timed out
+bigbotbets23: checks 
+Servasx: bets 4368 and is all-in
+bigbotbets23: calls 1585 and is all-in
+Uncalled bet (2783) returned to Servasx
+*** SHOW DOWN ***
+Servasx: shows [Qs Ah] (a pair of Queens)
+bigbotbets23: shows [8h 9d] (two pair, Nines and Eights)
+bigbotbets23 collected 6248 from pot
+*** SUMMARY ***
+Total pot 6248 | Rake 0 
+Board [3h Qd 8s 4s 9c]
+Seat 2: hojetem (small blind) folded before Flop
+Seat 3: (p/r)okSerj (big blind) folded before Flop
+Seat 4: ollikahn23 folded before Flop (didn't bet)
+Seat 5: bigbotbets23 showed [8h 9d] and won (6248) with two pair, Nines and Eights
+Seat 6: MitoJoseph folded before Flop (didn't bet)
+Seat 7: Servasx showed [Qs Ah] and lost with a pair of Queens
+Seat 8: teocrates (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184041010355: Tournament #2243779117, $10+$1 USD Hold'em No Limit - Level V (40/80) - 2018/03/18 16:47:33 ET
+Table '2243779117 4' 8-max Seat #2 is the button
+Seat 1: Mat.huszcz (3000 in chips) 
+Seat 2: hojetem (3188 in chips) 
+Seat 3: (p/r)okSerj (4853 in chips) 
+Seat 4: ollikahn23 (6056 in chips) 
+Seat 5: bigbotbets23 (6248 in chips) 
+Seat 6: MitoJoseph (2504 in chips) 
+Seat 7: Servasx (2783 in chips) 
+Seat 8: teocrates (2790 in chips) 
+Mat.huszcz: posts the ante 10
+hojetem: posts the ante 10
+(p/r)okSerj: posts the ante 10
+ollikahn23: posts the ante 10
+bigbotbets23: posts the ante 10
+MitoJoseph: posts the ante 10
+Servasx: posts the ante 10
+teocrates: posts the ante 10
+(p/r)okSerj: posts small blind 40
+ollikahn23: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8c 7h]
+bigbotbets23: folds 
+MitoJoseph: folds 
+Servasx: folds 
+teocrates: folds 
+Mat.huszcz: folds 
+hojetem: raises 88 to 168
+(p/r)okSerj: folds 
+ollikahn23: folds 
+Uncalled bet (88) returned to hojetem
+hojetem collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Seat 1: Mat.huszcz folded before Flop (didn't bet)
+Seat 2: hojetem (button) collected (280)
+Seat 3: (p/r)okSerj (small blind) folded before Flop
+Seat 4: ollikahn23 (big blind) folded before Flop
+Seat 5: bigbotbets23 folded before Flop (didn't bet)
+Seat 6: MitoJoseph folded before Flop (didn't bet)
+Seat 7: Servasx folded before Flop (didn't bet)
+Seat 8: teocrates folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184041057184: Tournament #2243779117, $10+$1 USD Hold'em No Limit - Level V (40/80) - 2018/03/18 16:48:21 ET
+Table '2243779117 4' 8-max Seat #3 is the button
+Seat 1: Mat.huszcz (2990 in chips) 
+Seat 2: hojetem (3378 in chips) 
+Seat 3: (p/r)okSerj (4803 in chips) 
+Seat 4: ollikahn23 (5966 in chips) 
+Seat 5: bigbotbets23 (6238 in chips) 
+Seat 6: MitoJoseph (2494 in chips) 
+Seat 7: Servasx (2773 in chips) 
+Seat 8: teocrates (2780 in chips) 
+Mat.huszcz: posts the ante 10
+hojetem: posts the ante 10
+(p/r)okSerj: posts the ante 10
+ollikahn23: posts the ante 10
+bigbotbets23: posts the ante 10
+MitoJoseph: posts the ante 10
+Servasx: posts the ante 10
+teocrates: posts the ante 10
+ollikahn23: posts small blind 40
+bigbotbets23: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8c 5d]
+MitoJoseph: folds 
+Servasx: folds 
+teocrates: folds 
+Mat.huszcz: folds 
+hojetem: raises 106 to 186
+(p/r)okSerj: folds 
+ollikahn23: folds 
+bigbotbets23: folds 
+Uncalled bet (106) returned to hojetem
+hojetem collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Seat 1: Mat.huszcz folded before Flop (didn't bet)
+Seat 2: hojetem collected (280)
+Seat 3: (p/r)okSerj (button) folded before Flop (didn't bet)
+Seat 4: ollikahn23 (small blind) folded before Flop
+Seat 5: bigbotbets23 (big blind) folded before Flop
+Seat 6: MitoJoseph folded before Flop (didn't bet)
+Seat 7: Servasx folded before Flop (didn't bet)
+Seat 8: teocrates folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184041086093: Tournament #2243779117, $10+$1 USD Hold'em No Limit - Level V (40/80) - 2018/03/18 16:48:51 ET
+Table '2243779117 4' 8-max Seat #4 is the button
+Seat 1: Mat.huszcz (2980 in chips) 
+Seat 2: hojetem (3568 in chips) 
+Seat 3: (p/r)okSerj (4793 in chips) 
+Seat 4: ollikahn23 (5916 in chips) 
+Seat 5: bigbotbets23 (6148 in chips) 
+Seat 6: MitoJoseph (2484 in chips) 
+Seat 7: Servasx (2763 in chips) 
+Seat 8: teocrates (2770 in chips) 
+Mat.huszcz: posts the ante 10
+hojetem: posts the ante 10
+(p/r)okSerj: posts the ante 10
+ollikahn23: posts the ante 10
+bigbotbets23: posts the ante 10
+MitoJoseph: posts the ante 10
+Servasx: posts the ante 10
+teocrates: posts the ante 10
+bigbotbets23: posts small blind 40
+MitoJoseph: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8s 3h]
+Servasx: folds 
+teocrates: folds 
+Mat.huszcz: folds 
+hojetem: raises 88 to 168
+(p/r)okSerj: folds 
+ollikahn23: folds 
+bigbotbets23: calls 128
+MitoJoseph: raises 432 to 600
+hojetem: folds 
+bigbotbets23: calls 432
+*** FLOP *** [9h Ks Ts]
+bigbotbets23 has timed out
+bigbotbets23: checks 
+MitoJoseph: bets 1874 and is all-in
+bigbotbets23: folds 
+Uncalled bet (1874) returned to MitoJoseph
+MitoJoseph collected 1448 from pot
+MitoJoseph: doesn't show hand 
+*** SUMMARY ***
+Total pot 1448 | Rake 0 
+Board [9h Ks Ts]
+Seat 1: Mat.huszcz folded before Flop (didn't bet)
+Seat 2: hojetem folded before Flop
+Seat 3: (p/r)okSerj folded before Flop (didn't bet)
+Seat 4: ollikahn23 (button) folded before Flop (didn't bet)
+Seat 5: bigbotbets23 (small blind) folded on the Flop
+Seat 6: MitoJoseph (big blind) collected (1448)
+Seat 7: Servasx folded before Flop (didn't bet)
+Seat 8: teocrates folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184041173752: Tournament #2243779117, $10+$1 USD Hold'em No Limit - Level V (40/80) - 2018/03/18 16:50:21 ET
+Table '2243779117 4' 8-max Seat #5 is the button
+Seat 1: Mat.huszcz (2970 in chips) 
+Seat 2: hojetem (3390 in chips) 
+Seat 3: (p/r)okSerj (4783 in chips) 
+Seat 4: ollikahn23 (5906 in chips) 
+Seat 5: bigbotbets23 (5538 in chips) 
+Seat 6: MitoJoseph (3322 in chips) 
+Seat 7: Servasx (2753 in chips) 
+Seat 8: teocrates (2760 in chips) 
+Mat.huszcz: posts the ante 10
+hojetem: posts the ante 10
+(p/r)okSerj: posts the ante 10
+ollikahn23: posts the ante 10
+bigbotbets23: posts the ante 10
+MitoJoseph: posts the ante 10
+Servasx: posts the ante 10
+teocrates: posts the ante 10
+MitoJoseph: posts small blind 40
+Servasx: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8h Ac]
+teocrates: folds 
+Mat.huszcz: folds 
+hojetem: folds 
+(p/r)okSerj: folds 
+ollikahn23: raises 105 to 185
+bigbotbets23 has timed out
+bigbotbets23: folds 
+bigbotbets23 is sitting out
+MitoJoseph: folds 
+Servasx: calls 105
+*** FLOP *** [Qc Jh 2h]
+Servasx: checks 
+bigbotbets23 has returned
+ollikahn23: bets 210
+Servasx: calls 210
+*** TURN *** [Qc Jh 2h] [Ah]
+Servasx: checks 
+ollikahn23: bets 540
+Servasx: folds 
+Uncalled bet (540) returned to ollikahn23
+ollikahn23 collected 910 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 910 | Rake 0 
+Board [Qc Jh 2h Ah]
+Seat 1: Mat.huszcz folded before Flop (didn't bet)
+Seat 2: hojetem folded before Flop (didn't bet)
+Seat 3: (p/r)okSerj folded before Flop (didn't bet)
+Seat 4: ollikahn23 collected (910)
+Seat 5: bigbotbets23 (button) folded before Flop (didn't bet)
+Seat 6: MitoJoseph (small blind) folded before Flop
+Seat 7: Servasx (big blind) folded on the Turn
+Seat 8: teocrates folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184041248358: Tournament #2243779117, $10+$1 USD Hold'em No Limit - Level VI (50/100) - 2018/03/18 16:51:39 ET
+Table '2243779117 4' 8-max Seat #6 is the button
+Seat 1: Mat.huszcz (2960 in chips) 
+Seat 2: hojetem (3380 in chips) 
+Seat 3: (p/r)okSerj (4773 in chips) 
+Seat 4: ollikahn23 (6411 in chips) 
+Seat 5: bigbotbets23 (5528 in chips) 
+Seat 6: MitoJoseph (3272 in chips) 
+Seat 7: Servasx (2348 in chips) 
+Seat 8: teocrates (2750 in chips) 
+Mat.huszcz: posts the ante 12
+hojetem: posts the ante 12
+(p/r)okSerj: posts the ante 12
+ollikahn23: posts the ante 12
+bigbotbets23: posts the ante 12
+MitoJoseph: posts the ante 12
+Servasx: posts the ante 12
+teocrates: posts the ante 12
+Servasx: posts small blind 50
+teocrates: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2c 6c]
+Mat.huszcz: folds 
+hojetem: folds 
+(p/r)okSerj: folds 
+ollikahn23: raises 110 to 210
+bigbotbets23: folds 
+MitoJoseph: folds 
+Servasx: raises 2126 to 2336 and is all-in
+teocrates: folds 
+ollikahn23: folds 
+Uncalled bet (2126) returned to Servasx
+Servasx collected 616 from pot
+Servasx: doesn't show hand 
+*** SUMMARY ***
+Total pot 616 | Rake 0 
+Seat 1: Mat.huszcz folded before Flop (didn't bet)
+Seat 2: hojetem folded before Flop (didn't bet)
+Seat 3: (p/r)okSerj folded before Flop (didn't bet)
+Seat 4: ollikahn23 folded before Flop
+Seat 5: bigbotbets23 folded before Flop (didn't bet)
+Seat 6: MitoJoseph (button) folded before Flop (didn't bet)
+Seat 7: Servasx (small blind) collected (616)
+Seat 8: teocrates (big blind) folded before Flop
+
+
+
+PokerStars Hand #184041292741: Tournament #2243779117, $10+$1 USD Hold'em No Limit - Level VI (50/100) - 2018/03/18 16:52:25 ET
+Table '2243779117 4' 8-max Seat #7 is the button
+Seat 1: Mat.huszcz (2948 in chips) 
+Seat 2: hojetem (3368 in chips) 
+Seat 3: (p/r)okSerj (4761 in chips) 
+Seat 4: ollikahn23 (6189 in chips) 
+Seat 5: bigbotbets23 (5516 in chips) 
+Seat 6: MitoJoseph (3260 in chips) 
+Seat 7: Servasx (2742 in chips) 
+Seat 8: teocrates (2638 in chips) 
+Mat.huszcz: posts the ante 12
+hojetem: posts the ante 12
+(p/r)okSerj: posts the ante 12
+ollikahn23: posts the ante 12
+bigbotbets23: posts the ante 12
+MitoJoseph: posts the ante 12
+Servasx: posts the ante 12
+teocrates: posts the ante 12
+teocrates: posts small blind 50
+Mat.huszcz: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7d 5d]
+hojetem: folds 
+(p/r)okSerj: folds 
+ollikahn23: folds 
+bigbotbets23: raises 100 to 200
+MitoJoseph: folds 
+Servasx: folds 
+teocrates: folds 
+Mat.huszcz: folds 
+Uncalled bet (100) returned to bigbotbets23
+bigbotbets23 collected 346 from pot
+bigbotbets23: doesn't show hand 
+*** SUMMARY ***
+Total pot 346 | Rake 0 
+Seat 1: Mat.huszcz (big blind) folded before Flop
+Seat 2: hojetem folded before Flop (didn't bet)
+Seat 3: (p/r)okSerj folded before Flop (didn't bet)
+Seat 4: ollikahn23 folded before Flop (didn't bet)
+Seat 5: bigbotbets23 collected (346)
+Seat 6: MitoJoseph folded before Flop (didn't bet)
+Seat 7: Servasx (button) folded before Flop (didn't bet)
+Seat 8: teocrates (small blind) folded before Flop
+
+
+
+PokerStars Hand #184041319275: Tournament #2243779117, $10+$1 USD Hold'em No Limit - Level VI (50/100) - 2018/03/18 16:52:52 ET
+Table '2243779117 4' 8-max Seat #8 is the button
+Seat 1: Mat.huszcz (2836 in chips) 
+Seat 2: hojetem (3356 in chips) 
+Seat 3: (p/r)okSerj (4749 in chips) 
+Seat 4: ollikahn23 (6177 in chips) 
+Seat 5: bigbotbets23 (5750 in chips) 
+Seat 6: MitoJoseph (3248 in chips) 
+Seat 7: Servasx (2730 in chips) 
+Seat 8: teocrates (2576 in chips) 
+Mat.huszcz: posts the ante 12
+hojetem: posts the ante 12
+(p/r)okSerj: posts the ante 12
+ollikahn23: posts the ante 12
+bigbotbets23: posts the ante 12
+MitoJoseph: posts the ante 12
+Servasx: posts the ante 12
+teocrates: posts the ante 12
+Mat.huszcz: posts small blind 50
+hojetem: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kc 9h]
+(p/r)okSerj: raises 125 to 225
+ollikahn23: folds 
+bigbotbets23: folds 
+MitoJoseph: folds 
+Servasx: folds 
+teocrates: folds 
+Mat.huszcz: folds 
+hojetem: folds 
+Uncalled bet (125) returned to (p/r)okSerj
+(p/r)okSerj collected 346 from pot
+(p/r)okSerj: doesn't show hand 
+*** SUMMARY ***
+Total pot 346 | Rake 0 
+Seat 1: Mat.huszcz (small blind) folded before Flop
+Seat 2: hojetem (big blind) folded before Flop
+Seat 3: (p/r)okSerj collected (346)
+Seat 4: ollikahn23 folded before Flop (didn't bet)
+Seat 5: bigbotbets23 folded before Flop (didn't bet)
+Seat 6: MitoJoseph folded before Flop (didn't bet)
+Seat 7: Servasx folded before Flop (didn't bet)
+Seat 8: teocrates (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184041363867: Tournament #2243779117, $10+$1 USD Hold'em No Limit - Level VI (50/100) - 2018/03/18 16:53:39 ET
+Table '2243779117 4' 8-max Seat #1 is the button
+Seat 1: Mat.huszcz (2774 in chips) 
+Seat 2: hojetem (3244 in chips) 
+Seat 3: (p/r)okSerj (4983 in chips) 
+Seat 4: ollikahn23 (6165 in chips) 
+Seat 5: bigbotbets23 (5738 in chips) 
+Seat 6: MitoJoseph (3236 in chips) 
+Seat 7: Servasx (2718 in chips) 
+Seat 8: teocrates (2564 in chips) 
+Mat.huszcz: posts the ante 12
+hojetem: posts the ante 12
+(p/r)okSerj: posts the ante 12
+ollikahn23: posts the ante 12
+bigbotbets23: posts the ante 12
+MitoJoseph: posts the ante 12
+Servasx: posts the ante 12
+teocrates: posts the ante 12
+hojetem: posts small blind 50
+(p/r)okSerj: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9d Kc]
+ollikahn23: folds 
+bigbotbets23: calls 100
+MitoJoseph: folds 
+Servasx: folds 
+teocrates: folds 
+Mat.huszcz: folds 
+hojetem: calls 50
+(p/r)okSerj: checks 
+*** FLOP *** [5d Ts 3s]
+hojetem: checks 
+(p/r)okSerj: checks 
+bigbotbets23: bets 200
+hojetem: folds 
+(p/r)okSerj: folds 
+Uncalled bet (200) returned to bigbotbets23
+bigbotbets23 collected 396 from pot
+bigbotbets23: doesn't show hand 
+*** SUMMARY ***
+Total pot 396 | Rake 0 
+Board [5d Ts 3s]
+Seat 1: Mat.huszcz (button) folded before Flop (didn't bet)
+Seat 2: hojetem (small blind) folded on the Flop
+Seat 3: (p/r)okSerj (big blind) folded on the Flop
+Seat 4: ollikahn23 folded before Flop (didn't bet)
+Seat 5: bigbotbets23 collected (396)
+Seat 6: MitoJoseph folded before Flop (didn't bet)
+Seat 7: Servasx folded before Flop (didn't bet)
+Seat 8: teocrates folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184041446905: Tournament #2243779117, $10+$1 USD Hold'em No Limit - Level VI (50/100) - 2018/03/18 16:55:06 ET
+Table '2243779117 4' 8-max Seat #2 is the button
+Seat 1: Mat.huszcz (2762 in chips) 
+Seat 2: hojetem (3132 in chips) 
+Seat 3: (p/r)okSerj (4871 in chips) 
+Seat 4: ollikahn23 (6153 in chips) 
+Seat 5: bigbotbets23 (6022 in chips) 
+Seat 6: MitoJoseph (3224 in chips) 
+Seat 7: Servasx (2706 in chips) 
+Seat 8: teocrates (2552 in chips) 
+Mat.huszcz: posts the ante 12
+hojetem: posts the ante 12
+(p/r)okSerj: posts the ante 12
+ollikahn23: posts the ante 12
+bigbotbets23: posts the ante 12
+MitoJoseph: posts the ante 12
+Servasx: posts the ante 12
+teocrates: posts the ante 12
+(p/r)okSerj: posts small blind 50
+ollikahn23: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8c 2h]
+bigbotbets23: folds 
+MitoJoseph: folds 
+Servasx: raises 117 to 217
+teocrates: folds 
+Mat.huszcz: folds 
+hojetem: calls 217
+(p/r)okSerj: folds 
+ollikahn23: folds 
+*** FLOP *** [7d 4c 4s]
+Servasx: checks 
+hojetem: bets 394
+Servasx: raises 2083 to 2477 and is all-in
+hojetem: folds 
+Uncalled bet (2083) returned to Servasx
+Servasx collected 1468 from pot
+Servasx: doesn't show hand 
+*** SUMMARY ***
+Total pot 1468 | Rake 0 
+Board [7d 4c 4s]
+Seat 1: Mat.huszcz folded before Flop (didn't bet)
+Seat 2: hojetem (button) folded on the Flop
+Seat 3: (p/r)okSerj (small blind) folded before Flop
+Seat 4: ollikahn23 (big blind) folded before Flop
+Seat 5: bigbotbets23 folded before Flop (didn't bet)
+Seat 6: MitoJoseph folded before Flop (didn't bet)
+Seat 7: Servasx collected (1468)
+Seat 8: teocrates folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184041758818: Tournament #2243779117, $10+$1 USD Hold'em No Limit - Level VI (50/100) - 2018/03/18 17:02:19 ET
+Table '2243779117 4' 8-max Seat #3 is the button
+Seat 1: Mat.huszcz (2750 in chips) 
+Seat 2: hojetem (2509 in chips) 
+Seat 3: (p/r)okSerj (4809 in chips) 
+Seat 4: ollikahn23 (6041 in chips) 
+Seat 5: bigbotbets23 (6010 in chips) 
+Seat 6: MitoJoseph (3212 in chips) 
+Seat 7: Servasx (3551 in chips) 
+Seat 8: teocrates (2540 in chips) 
+Mat.huszcz: posts the ante 12
+hojetem: posts the ante 12
+(p/r)okSerj: posts the ante 12
+ollikahn23: posts the ante 12
+bigbotbets23: posts the ante 12
+MitoJoseph: posts the ante 12
+Servasx: posts the ante 12
+teocrates: posts the ante 12
+ollikahn23: posts small blind 50
+bigbotbets23: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jd Qd]
+MitoJoseph: folds 
+Servasx: raises 117 to 217
+teocrates: folds 
+Mat.huszcz: folds 
+hojetem: folds 
+(p/r)okSerj: folds 
+ollikahn23: calls 167
+bigbotbets23: folds 
+*** FLOP *** [5d 6c Ah]
+ollikahn23: checks 
+Servasx: bets 208
+ollikahn23: folds 
+Uncalled bet (208) returned to Servasx
+Servasx collected 630 from pot
+Servasx: doesn't show hand 
+*** SUMMARY ***
+Total pot 630 | Rake 0 
+Board [5d 6c Ah]
+Seat 1: Mat.huszcz folded before Flop (didn't bet)
+Seat 2: hojetem folded before Flop (didn't bet)
+Seat 3: (p/r)okSerj (button) folded before Flop (didn't bet)
+Seat 4: ollikahn23 (small blind) folded on the Flop
+Seat 5: bigbotbets23 (big blind) folded before Flop
+Seat 6: MitoJoseph folded before Flop (didn't bet)
+Seat 7: Servasx collected (630)
+Seat 8: teocrates folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184041801882: Tournament #2243779117, $10+$1 USD Hold'em No Limit - Level VI (50/100) - 2018/03/18 17:03:05 ET
+Table '2243779117 4' 8-max Seat #4 is the button
+Seat 1: Mat.huszcz (2738 in chips) 
+Seat 2: hojetem (2497 in chips) 
+Seat 3: (p/r)okSerj (4797 in chips) 
+Seat 4: ollikahn23 (5812 in chips) 
+Seat 5: bigbotbets23 (5898 in chips) 
+Seat 6: MitoJoseph (3200 in chips) 
+Seat 7: Servasx (3952 in chips) 
+Seat 8: teocrates (2528 in chips) 
+Mat.huszcz: posts the ante 12
+hojetem: posts the ante 12
+(p/r)okSerj: posts the ante 12
+ollikahn23: posts the ante 12
+bigbotbets23: posts the ante 12
+MitoJoseph: posts the ante 12
+Servasx: posts the ante 12
+teocrates: posts the ante 12
+bigbotbets23: posts small blind 50
+MitoJoseph: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kd 5d]
+Servasx: folds 
+teocrates: folds 
+Mat.huszcz: folds 
+hojetem: folds 
+(p/r)okSerj: raises 100 to 200
+ollikahn23: calls 200
+bigbotbets23: calls 150
+MitoJoseph: calls 100
+*** FLOP *** [7s 4h 4d]
+bigbotbets23: checks 
+MitoJoseph: checks 
+(p/r)okSerj: bets 350
+ollikahn23: folds 
+bigbotbets23: calls 350
+MitoJoseph: folds 
+*** TURN *** [7s 4h 4d] [7h]
+bigbotbets23: checks 
+(p/r)okSerj: bets 800
+bigbotbets23: raises 1600 to 2400
+(p/r)okSerj: folds 
+Uncalled bet (1600) returned to bigbotbets23
+bigbotbets23 collected 3196 from pot
+bigbotbets23: doesn't show hand 
+*** SUMMARY ***
+Total pot 3196 | Rake 0 
+Board [7s 4h 4d 7h]
+Seat 1: Mat.huszcz folded before Flop (didn't bet)
+Seat 2: hojetem folded before Flop (didn't bet)
+Seat 3: (p/r)okSerj folded on the Turn
+Seat 4: ollikahn23 (button) folded on the Flop
+Seat 5: bigbotbets23 (small blind) collected (3196)
+Seat 6: MitoJoseph (big blind) folded on the Flop
+Seat 7: Servasx folded before Flop (didn't bet)
+Seat 8: teocrates folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184041907347: Tournament #2243779117, $10+$1 USD Hold'em No Limit - Level VI (50/100) - 2018/03/18 17:04:55 ET
+Table '2243779117 4' 8-max Seat #5 is the button
+Seat 1: Mat.huszcz (2726 in chips) 
+Seat 2: hojetem (2485 in chips) 
+Seat 3: (p/r)okSerj (3435 in chips) 
+Seat 4: ollikahn23 (5600 in chips) 
+Seat 5: bigbotbets23 (7732 in chips) 
+Seat 6: MitoJoseph (2988 in chips) 
+Seat 7: Servasx (3940 in chips) 
+Seat 8: teocrates (2516 in chips) 
+Mat.huszcz: posts the ante 12
+hojetem: posts the ante 12
+(p/r)okSerj: posts the ante 12
+ollikahn23: posts the ante 12
+bigbotbets23: posts the ante 12
+MitoJoseph: posts the ante 12
+Servasx: posts the ante 12
+teocrates: posts the ante 12
+MitoJoseph: posts small blind 50
+Servasx: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2s Js]
+teocrates: folds 
+Mat.huszcz: folds 
+hojetem: folds 
+(p/r)okSerj: folds 
+ollikahn23: raises 110 to 210
+bigbotbets23: calls 210
+MitoJoseph: folds 
+Servasx: folds 
+*** FLOP *** [Kh Ad 5d]
+ollikahn23: bets 250
+bigbotbets23: calls 250
+*** TURN *** [Kh Ad 5d] [5h]
+ollikahn23: bets 700
+bigbotbets23: calls 700
+*** RIVER *** [Kh Ad 5d 5h] [Ks]
+ollikahn23: bets 1800
+bigbotbets23: calls 1800
+*** SHOW DOWN ***
+ollikahn23: shows [2s Js] (two pair, Kings and Fives)
+bigbotbets23: shows [Tc 5c] (a full house, Fives full of Kings)
+bigbotbets23 collected 6166 from pot
+*** SUMMARY ***
+Total pot 6166 | Rake 0 
+Board [Kh Ad 5d 5h Ks]
+Seat 1: Mat.huszcz folded before Flop (didn't bet)
+Seat 2: hojetem folded before Flop (didn't bet)
+Seat 3: (p/r)okSerj folded before Flop (didn't bet)
+Seat 4: ollikahn23 showed [2s Js] and lost with two pair, Kings and Fives
+Seat 5: bigbotbets23 (button) showed [Tc 5c] and won (6166) with a full house, Fives full of Kings
+Seat 6: MitoJoseph (small blind) folded before Flop
+Seat 7: Servasx (big blind) folded before Flop
+Seat 8: teocrates folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184041988901: Tournament #2243779117, $10+$1 USD Hold'em No Limit - Level VI (50/100) - 2018/03/18 17:06:17 ET
+Table '2243779117 4' 8-max Seat #6 is the button
+Seat 1: Mat.huszcz (2714 in chips) 
+Seat 2: hojetem (2473 in chips) 
+Seat 3: (p/r)okSerj (3423 in chips) 
+Seat 4: ollikahn23 (2628 in chips) 
+Seat 5: bigbotbets23 (10926 in chips) 
+Seat 6: MitoJoseph (2926 in chips) 
+Seat 7: Servasx (3828 in chips) 
+Seat 8: teocrates (2504 in chips) 
+Mat.huszcz: posts the ante 12
+hojetem: posts the ante 12
+(p/r)okSerj: posts the ante 12
+ollikahn23: posts the ante 12
+bigbotbets23: posts the ante 12
+MitoJoseph: posts the ante 12
+Servasx: posts the ante 12
+teocrates: posts the ante 12
+Servasx: posts small blind 50
+teocrates: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2s Th]
+Mat.huszcz: folds 
+hojetem: folds 
+(p/r)okSerj: folds 
+ollikahn23: folds 
+bigbotbets23: folds 
+MitoJoseph: raises 100 to 200
+Servasx: folds 
+teocrates: calls 100
+*** FLOP *** [Tc 6d Kh]
+teocrates: checks 
+MitoJoseph: bets 246
+teocrates: raises 2046 to 2292 and is all-in
+MitoJoseph: calls 2046
+*** TURN *** [Tc 6d Kh] [Ah]
+*** RIVER *** [Tc 6d Kh Ah] [3h]
+*** SHOW DOWN ***
+teocrates: shows [9c 7s] (high card Ace)
+MitoJoseph: shows [Ks 8h] (a pair of Kings)
+teocrates is sitting out
+MitoJoseph collected 5130 from pot
+teocrates finished the tournament
+*** SUMMARY ***
+Total pot 5130 | Rake 0 
+Board [Tc 6d Kh Ah 3h]
+Seat 1: Mat.huszcz folded before Flop (didn't bet)
+Seat 2: hojetem folded before Flop (didn't bet)
+Seat 3: (p/r)okSerj folded before Flop (didn't bet)
+Seat 4: ollikahn23 folded before Flop (didn't bet)
+Seat 5: bigbotbets23 folded before Flop (didn't bet)
+Seat 6: MitoJoseph (button) showed [Ks 8h] and won (5130) with a pair of Kings
+Seat 7: Servasx (small blind) folded before Flop
+Seat 8: teocrates (big blind) showed [9c 7s] and lost with high card Ace
+
+
+
+PokerStars Hand #184042036403: Tournament #2243779117, $10+$1 USD Hold'em No Limit - Level VI (50/100) - 2018/03/18 17:07:05 ET
+Table '2243779117 4' 8-max Seat #7 is the button
+Seat 1: Mat.huszcz (2702 in chips) 
+Seat 2: hojetem (2461 in chips) 
+Seat 3: (p/r)okSerj (3411 in chips) 
+Seat 4: ollikahn23 (2616 in chips) 
+Seat 5: bigbotbets23 (10914 in chips) 
+Seat 6: MitoJoseph (5552 in chips) 
+Seat 7: Servasx (3766 in chips) 
+Mat.huszcz: posts the ante 12
+hojetem: posts the ante 12
+(p/r)okSerj: posts the ante 12
+ollikahn23: posts the ante 12
+bigbotbets23: posts the ante 12
+MitoJoseph: posts the ante 12
+Servasx: posts the ante 12
+Mat.huszcz: posts small blind 50
+hojetem: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3h 7s]
+(p/r)okSerj: folds 
+ollikahn23: folds 
+bigbotbets23: folds 
+MitoJoseph: folds 
+Servasx: raises 117 to 217
+Mat.huszcz: raises 2473 to 2690 and is all-in
+hojetem: folds 
+Servasx: folds 
+Uncalled bet (2473) returned to Mat.huszcz
+Mat.huszcz collected 618 from pot
+*** SUMMARY ***
+Total pot 618 | Rake 0 
+Seat 1: Mat.huszcz (small blind) collected (618)
+Seat 2: hojetem (big blind) folded before Flop
+Seat 3: (p/r)okSerj folded before Flop (didn't bet)
+Seat 4: ollikahn23 folded before Flop (didn't bet)
+Seat 5: bigbotbets23 folded before Flop (didn't bet)
+Seat 6: MitoJoseph folded before Flop (didn't bet)
+Seat 7: Servasx (button) folded before Flop
+
+
+
+PokerStars Hand #184042061099: Tournament #2243779117, $10+$1 USD Hold'em No Limit - Level VI (50/100) - 2018/03/18 17:07:30 ET
+Table '2243779117 4' 8-max Seat #1 is the button
+Seat 1: Mat.huszcz (3091 in chips) 
+Seat 2: hojetem (2349 in chips) 
+Seat 3: (p/r)okSerj (3399 in chips) 
+Seat 4: ollikahn23 (2604 in chips) 
+Seat 5: bigbotbets23 (10902 in chips) 
+Seat 6: MitoJoseph (5540 in chips) 
+Seat 7: Servasx (3537 in chips) 
+Mat.huszcz: posts the ante 12
+hojetem: posts the ante 12
+(p/r)okSerj: posts the ante 12
+ollikahn23: posts the ante 12
+bigbotbets23: posts the ante 12
+MitoJoseph: posts the ante 12
+Servasx: posts the ante 12
+hojetem: posts small blind 50
+(p/r)okSerj: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3s 9s]
+ollikahn23: folds 
+bigbotbets23: folds 
+MitoJoseph: folds 
+Servasx: folds 
+Mat.huszcz: raises 100 to 200
+hojetem: folds 
+(p/r)okSerj: raises 400 to 600
+Mat.huszcz: folds 
+Uncalled bet (400) returned to (p/r)okSerj
+(p/r)okSerj collected 534 from pot
+(p/r)okSerj: doesn't show hand 
+*** SUMMARY ***
+Total pot 534 | Rake 0 
+Seat 1: Mat.huszcz (button) folded before Flop
+Seat 2: hojetem (small blind) folded before Flop
+Seat 3: (p/r)okSerj (big blind) collected (534)
+Seat 4: ollikahn23 folded before Flop (didn't bet)
+Seat 5: bigbotbets23 folded before Flop (didn't bet)
+Seat 6: MitoJoseph folded before Flop (didn't bet)
+Seat 7: Servasx folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #184042104668: Tournament #2243779117, $10+$1 USD Hold'em No Limit - Level VII (60/120) - 2018/03/18 17:08:14 ET
+Table '2243779117 4' 8-max Seat #2 is the button
+Seat 1: Mat.huszcz (2879 in chips) 
+Seat 2: hojetem (2287 in chips) 
+Seat 3: (p/r)okSerj (3721 in chips) 
+Seat 4: ollikahn23 (2592 in chips) 
+Seat 5: bigbotbets23 (10890 in chips) 
+Seat 6: MitoJoseph (5528 in chips) 
+Seat 7: Servasx (3525 in chips) 
+Mat.huszcz: posts the ante 15
+hojetem: posts the ante 15
+(p/r)okSerj: posts the ante 15
+ollikahn23: posts the ante 15
+bigbotbets23: posts the ante 15
+MitoJoseph: posts the ante 15
+Servasx: posts the ante 15
+(p/r)okSerj: posts small blind 60
+ollikahn23: posts big blind 120
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8s 5s]
+bigbotbets23: raises 120 to 240
+MitoJoseph: folds 
+Servasx: folds 
+Mat.huszcz: folds 
+hojetem: folds 
+(p/r)okSerj: folds 
+ollikahn23: calls 120
+*** FLOP *** [6s 8d 9h]
+ollikahn23: checks 
+bigbotbets23: bets 360
+ollikahn23: calls 360
+*** TURN *** [6s 8d 9h] [9d]
+ollikahn23: checks 
+bigbotbets23: bets 720
+ollikahn23: raises 1257 to 1977 and is all-in
+bigbotbets23: calls 1257
+*** RIVER *** [6s 8d 9h 9d] [Tc]
+*** SHOW DOWN ***
+ollikahn23: shows [8s 5s] (two pair, Nines and Eights)
+bigbotbets23: shows [9c As] (three of a kind, Nines)
+bigbotbets23 collected 5319 from pot
+ollikahn23 finished the tournament
+*** SUMMARY ***
+Total pot 5319 | Rake 0 
+Board [6s 8d 9h 9d Tc]
+Seat 1: Mat.huszcz folded before Flop (didn't bet)
+Seat 2: hojetem (button) folded before Flop (didn't bet)
+Seat 3: (p/r)okSerj (small blind) folded before Flop
+Seat 4: ollikahn23 (big blind) showed [8s 5s] and lost with two pair, Nines and Eights
+Seat 5: bigbotbets23 showed [9c As] and won (5319) with three of a kind, Nines
+Seat 6: MitoJoseph folded before Flop (didn't bet)
+Seat 7: Servasx folded before Flop (didn't bet)
+
+
+

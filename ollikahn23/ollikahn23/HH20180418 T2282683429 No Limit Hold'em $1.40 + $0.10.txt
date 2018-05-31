@@ -1,0 +1,1266 @@
+﻿PokerStars Hand #185388208694: Tournament #2282683429, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/18 14:58:24 ET
+Table '2282683429 1' 2-max Seat #1 is the button
+Seat 1: Pand0rka (1500 in chips) 
+Seat 2: ollikahn23 (1500 in chips) 
+Pand0rka: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ac 4h]
+Pand0rka: calls 10
+ollikahn23: raises 40 to 60
+Pand0rka: folds 
+Uncalled bet (40) returned to ollikahn23
+ollikahn23 collected 40 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Pand0rka (button) (small blind) folded before Flop
+Seat 2: ollikahn23 (big blind) collected (40)
+
+
+
+PokerStars Hand #185388217020: Tournament #2282683429, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/18 14:58:38 ET
+Table '2282683429 1' 2-max Seat #2 is the button
+Seat 1: Pand0rka (1480 in chips) 
+Seat 2: ollikahn23 (1520 in chips) 
+ollikahn23: posts small blind 10
+Pand0rka: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7h 5c]
+ollikahn23: folds 
+Uncalled bet (10) returned to Pand0rka
+Pand0rka collected 20 from pot
+Pand0rka: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Pand0rka (big blind) collected (20)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185388220698: Tournament #2282683429, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/18 14:58:45 ET
+Table '2282683429 1' 2-max Seat #1 is the button
+Seat 1: Pand0rka (1490 in chips) 
+Seat 2: ollikahn23 (1510 in chips) 
+Pand0rka: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ts As]
+Pand0rka: raises 80 to 100
+ollikahn23: calls 80
+*** FLOP *** [2c 6h 9c]
+ollikahn23: checks 
+Pand0rka: checks 
+*** TURN *** [2c 6h 9c] [Jc]
+ollikahn23: checks 
+Pand0rka: checks 
+*** RIVER *** [2c 6h 9c Jc] [Jh]
+ollikahn23: checks 
+Pand0rka: checks 
+*** SHOW DOWN ***
+ollikahn23: shows [Ts As] (a pair of Jacks)
+Pand0rka: mucks hand 
+ollikahn23 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [2c 6h 9c Jc Jh]
+Seat 1: Pand0rka (button) (small blind) mucked [Ah 3h]
+Seat 2: ollikahn23 (big blind) showed [Ts As] and won (200) with a pair of Jacks
+
+
+
+PokerStars Hand #185388236916: Tournament #2282683429, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/18 14:59:13 ET
+Table '2282683429 1' 2-max Seat #2 is the button
+Seat 1: Pand0rka (1390 in chips) 
+Seat 2: ollikahn23 (1610 in chips) 
+ollikahn23: posts small blind 10
+Pand0rka: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2h 5h]
+ollikahn23: folds 
+Uncalled bet (10) returned to Pand0rka
+Pand0rka collected 20 from pot
+Pand0rka: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Pand0rka (big blind) collected (20)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185388241362: Tournament #2282683429, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/18 14:59:21 ET
+Table '2282683429 1' 2-max Seat #1 is the button
+Seat 1: Pand0rka (1400 in chips) 
+Seat 2: ollikahn23 (1600 in chips) 
+Pand0rka: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4s 6h]
+Pand0rka: raises 100 to 120
+ollikahn23: folds 
+Uncalled bet (100) returned to Pand0rka
+Pand0rka collected 40 from pot
+Pand0rka: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Pand0rka (button) (small blind) collected (40)
+Seat 2: ollikahn23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #185388247957: Tournament #2282683429, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/18 14:59:32 ET
+Table '2282683429 1' 2-max Seat #2 is the button
+Seat 1: Pand0rka (1420 in chips) 
+Seat 2: ollikahn23 (1580 in chips) 
+ollikahn23: posts small blind 10
+Pand0rka: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6s 8h]
+ollikahn23: folds 
+Uncalled bet (10) returned to Pand0rka
+Pand0rka collected 20 from pot
+Pand0rka: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Pand0rka (big blind) collected (20)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185388250874: Tournament #2282683429, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/18 14:59:38 ET
+Table '2282683429 1' 2-max Seat #1 is the button
+Seat 1: Pand0rka (1430 in chips) 
+Seat 2: ollikahn23 (1570 in chips) 
+Pand0rka: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2h 3s]
+Pand0rka: folds 
+Uncalled bet (10) returned to ollikahn23
+ollikahn23 collected 20 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Pand0rka (button) (small blind) folded before Flop
+Seat 2: ollikahn23 (big blind) collected (20)
+
+
+
+PokerStars Hand #185388255698: Tournament #2282683429, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/18 14:59:46 ET
+Table '2282683429 1' 2-max Seat #2 is the button
+Seat 1: Pand0rka (1420 in chips) 
+Seat 2: ollikahn23 (1580 in chips) 
+ollikahn23: posts small blind 10
+Pand0rka: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2c 8c]
+ollikahn23: folds 
+Uncalled bet (10) returned to Pand0rka
+Pand0rka collected 20 from pot
+Pand0rka: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Pand0rka (big blind) collected (20)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185388258725: Tournament #2282683429, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/18 14:59:51 ET
+Table '2282683429 1' 2-max Seat #1 is the button
+Seat 1: Pand0rka (1430 in chips) 
+Seat 2: ollikahn23 (1570 in chips) 
+Pand0rka: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9h Td]
+Pand0rka: raises 80 to 100
+ollikahn23: folds 
+Uncalled bet (80) returned to Pand0rka
+Pand0rka collected 40 from pot
+Pand0rka: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Pand0rka (button) (small blind) collected (40)
+Seat 2: ollikahn23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #185388262961: Tournament #2282683429, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/18 14:59:59 ET
+Table '2282683429 1' 2-max Seat #2 is the button
+Seat 1: Pand0rka (1450 in chips) 
+Seat 2: ollikahn23 (1550 in chips) 
+ollikahn23: posts small blind 10
+Pand0rka: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8d 7s]
+ollikahn23: folds 
+Uncalled bet (10) returned to Pand0rka
+Pand0rka collected 20 from pot
+Pand0rka: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Pand0rka (big blind) collected (20)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185388266828: Tournament #2282683429, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/18 15:00:05 ET
+Table '2282683429 1' 2-max Seat #1 is the button
+Seat 1: Pand0rka (1460 in chips) 
+Seat 2: ollikahn23 (1540 in chips) 
+Pand0rka: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8s 6h]
+Pand0rka: raises 100 to 120
+ollikahn23: folds 
+Uncalled bet (100) returned to Pand0rka
+Pand0rka collected 40 from pot
+Pand0rka: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Pand0rka (button) (small blind) collected (40)
+Seat 2: ollikahn23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #185388270985: Tournament #2282683429, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/18 15:00:12 ET
+Table '2282683429 1' 2-max Seat #2 is the button
+Seat 1: Pand0rka (1480 in chips) 
+Seat 2: ollikahn23 (1520 in chips) 
+ollikahn23: posts small blind 10
+Pand0rka: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6d As]
+ollikahn23: raises 40 to 60
+Pand0rka: calls 40
+*** FLOP *** [Jd 5h 6s]
+Pand0rka: checks 
+ollikahn23: bets 85
+Pand0rka: folds 
+Uncalled bet (85) returned to ollikahn23
+ollikahn23 collected 120 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Jd 5h 6s]
+Seat 1: Pand0rka (big blind) folded on the Flop
+Seat 2: ollikahn23 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #185388283924: Tournament #2282683429, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/18 15:00:34 ET
+Table '2282683429 1' 2-max Seat #1 is the button
+Seat 1: Pand0rka (1420 in chips) 
+Seat 2: ollikahn23 (1580 in chips) 
+Pand0rka: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qc Js]
+Pand0rka: raises 80 to 100
+ollikahn23: calls 80
+*** FLOP *** [Th As Kd]
+ollikahn23: checks 
+Pand0rka: checks 
+*** TURN *** [Th As Kd] [3h]
+ollikahn23: bets 135
+Pand0rka: calls 135
+*** RIVER *** [Th As Kd 3h] [4c]
+ollikahn23: bets 235
+Pand0rka: folds 
+Uncalled bet (235) returned to ollikahn23
+ollikahn23 collected 470 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 470 | Rake 0 
+Board [Th As Kd 3h 4c]
+Seat 1: Pand0rka (button) (small blind) folded on the River
+Seat 2: ollikahn23 (big blind) collected (470)
+
+
+
+PokerStars Hand #185388310220: Tournament #2282683429, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/18 15:01:15 ET
+Table '2282683429 1' 2-max Seat #2 is the button
+Seat 1: Pand0rka (1185 in chips) 
+Seat 2: ollikahn23 (1815 in chips) 
+ollikahn23: posts small blind 10
+Pand0rka: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6d 7d]
+ollikahn23: folds 
+Uncalled bet (10) returned to Pand0rka
+Pand0rka collected 20 from pot
+Pand0rka: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Pand0rka (big blind) collected (20)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185388314293: Tournament #2282683429, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/18 15:01:21 ET
+Table '2282683429 1' 2-max Seat #1 is the button
+Seat 1: Pand0rka (1195 in chips) 
+Seat 2: ollikahn23 (1805 in chips) 
+Pand0rka: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qd 3c]
+Pand0rka: folds 
+Uncalled bet (10) returned to ollikahn23
+ollikahn23 collected 20 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Pand0rka (button) (small blind) folded before Flop
+Seat 2: ollikahn23 (big blind) collected (20)
+
+
+
+PokerStars Hand #185388319033: Tournament #2282683429, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/18 15:01:29 ET
+Table '2282683429 1' 2-max Seat #2 is the button
+Seat 1: Pand0rka (1185 in chips) 
+Seat 2: ollikahn23 (1815 in chips) 
+ollikahn23: posts small blind 15
+Pand0rka: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ts Ah]
+ollikahn23: raises 30 to 60
+Pand0rka: raises 120 to 180
+ollikahn23: calls 120
+*** FLOP *** [5d 8c 3h]
+Pand0rka: checks 
+ollikahn23: checks 
+*** TURN *** [5d 8c 3h] [8s]
+Pand0rka: checks 
+ollikahn23: bets 130
+Pand0rka: calls 130
+*** RIVER *** [5d 8c 3h 8s] [Kh]
+Pand0rka: checks 
+ollikahn23: checks 
+*** SHOW DOWN ***
+Pand0rka: shows [Qh Jc] (a pair of Eights)
+ollikahn23: shows [Ts Ah] (a pair of Eights - Ace kicker)
+ollikahn23 collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | Rake 0 
+Board [5d 8c 3h 8s Kh]
+Seat 1: Pand0rka (big blind) showed [Qh Jc] and lost with a pair of Eights
+Seat 2: ollikahn23 (button) (small blind) showed [Ts Ah] and won (620) with a pair of Eights
+
+
+
+PokerStars Hand #185388341457: Tournament #2282683429, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/18 15:02:00 ET
+Table '2282683429 1' 2-max Seat #1 is the button
+Seat 1: Pand0rka (875 in chips) 
+Seat 2: ollikahn23 (2125 in chips) 
+Pand0rka: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Td 8c]
+Pand0rka: raises 120 to 150
+ollikahn23: folds 
+Uncalled bet (120) returned to Pand0rka
+Pand0rka collected 60 from pot
+Pand0rka: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Pand0rka (button) (small blind) collected (60)
+Seat 2: ollikahn23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #185388347796: Tournament #2282683429, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/18 15:02:09 ET
+Table '2282683429 1' 2-max Seat #2 is the button
+Seat 1: Pand0rka (905 in chips) 
+Seat 2: ollikahn23 (2095 in chips) 
+ollikahn23: posts small blind 15
+Pand0rka: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8s 6c]
+ollikahn23: folds 
+Uncalled bet (15) returned to Pand0rka
+Pand0rka collected 30 from pot
+Pand0rka: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Pand0rka (big blind) collected (30)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185388351833: Tournament #2282683429, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/18 15:02:14 ET
+Table '2282683429 1' 2-max Seat #1 is the button
+Seat 1: Pand0rka (920 in chips) 
+Seat 2: ollikahn23 (2080 in chips) 
+Pand0rka: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2d 6c]
+Pand0rka: raises 890 to 920 and is all-in
+ollikahn23: folds 
+Uncalled bet (890) returned to Pand0rka
+Pand0rka collected 60 from pot
+Pand0rka: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Pand0rka (button) (small blind) collected (60)
+Seat 2: ollikahn23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #185388357113: Tournament #2282683429, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/18 15:02:21 ET
+Table '2282683429 1' 2-max Seat #2 is the button
+Seat 1: Pand0rka (950 in chips) 
+Seat 2: ollikahn23 (2050 in chips) 
+ollikahn23: posts small blind 15
+Pand0rka: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7h Qh]
+ollikahn23: raises 30 to 60
+Pand0rka: folds 
+Uncalled bet (30) returned to ollikahn23
+ollikahn23 collected 60 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Pand0rka (big blind) folded before Flop
+Seat 2: ollikahn23 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #185388362897: Tournament #2282683429, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/18 15:02:30 ET
+Table '2282683429 1' 2-max Seat #1 is the button
+Seat 1: Pand0rka (920 in chips) 
+Seat 2: ollikahn23 (2080 in chips) 
+Pand0rka: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7h 7s]
+Pand0rka: folds 
+Uncalled bet (15) returned to ollikahn23
+ollikahn23 collected 30 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Pand0rka (button) (small blind) folded before Flop
+Seat 2: ollikahn23 (big blind) collected (30)
+
+
+
+PokerStars Hand #185388371577: Tournament #2282683429, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/18 15:02:35 ET
+Table '2282683429 1' 2-max Seat #2 is the button
+Seat 1: Pand0rka (905 in chips) 
+Seat 2: ollikahn23 (2095 in chips) 
+ollikahn23: posts small blind 15
+Pand0rka: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jh 7c]
+ollikahn23: folds 
+Uncalled bet (15) returned to Pand0rka
+Pand0rka collected 30 from pot
+Pand0rka: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Pand0rka (big blind) collected (30)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185388375647: Tournament #2282683429, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/18 15:02:41 ET
+Table '2282683429 1' 2-max Seat #1 is the button
+Seat 1: Pand0rka (920 in chips) 
+Seat 2: ollikahn23 (2080 in chips) 
+Pand0rka: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [As 5h]
+Pand0rka: calls 15
+ollikahn23: raises 60 to 90
+Pand0rka: calls 60
+*** FLOP *** [Tc 3s Jc]
+ollikahn23: bets 90
+Pand0rka: folds 
+Uncalled bet (90) returned to ollikahn23
+ollikahn23 collected 180 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Tc 3s Jc]
+Seat 1: Pand0rka (button) (small blind) folded on the Flop
+Seat 2: ollikahn23 (big blind) collected (180)
+
+
+
+PokerStars Hand #185388393331: Tournament #2282683429, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/18 15:03:06 ET
+Table '2282683429 1' 2-max Seat #2 is the button
+Seat 1: Pand0rka (830 in chips) 
+Seat 2: ollikahn23 (2170 in chips) 
+ollikahn23: posts small blind 15
+Pand0rka: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3h 4h]
+ollikahn23: folds 
+Uncalled bet (15) returned to Pand0rka
+Pand0rka collected 30 from pot
+Pand0rka: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Pand0rka (big blind) collected (30)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185388397968: Tournament #2282683429, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/18 15:03:12 ET
+Table '2282683429 1' 2-max Seat #1 is the button
+Seat 1: Pand0rka (845 in chips) 
+Seat 2: ollikahn23 (2155 in chips) 
+Pand0rka: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3c 2h]
+Pand0rka: raises 815 to 845 and is all-in
+ollikahn23: folds 
+Uncalled bet (815) returned to Pand0rka
+Pand0rka collected 60 from pot
+Pand0rka: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Pand0rka (button) (small blind) collected (60)
+Seat 2: ollikahn23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #185388403465: Tournament #2282683429, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/18 15:03:19 ET
+Table '2282683429 1' 2-max Seat #2 is the button
+Seat 1: Pand0rka (875 in chips) 
+Seat 2: ollikahn23 (2125 in chips) 
+ollikahn23: posts small blind 15
+Pand0rka: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9h Td]
+ollikahn23: folds 
+Uncalled bet (15) returned to Pand0rka
+Pand0rka collected 30 from pot
+Pand0rka: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Pand0rka (big blind) collected (30)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185388407273: Tournament #2282683429, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/18 15:03:24 ET
+Table '2282683429 1' 2-max Seat #1 is the button
+Seat 1: Pand0rka (890 in chips) 
+Seat 2: ollikahn23 (2110 in chips) 
+Pand0rka: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qd 2s]
+Pand0rka: raises 860 to 890 and is all-in
+ollikahn23: folds 
+Uncalled bet (860) returned to Pand0rka
+Pand0rka collected 60 from pot
+Pand0rka: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Pand0rka (button) (small blind) collected (60)
+Seat 2: ollikahn23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #185388417530: Tournament #2282683429, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/18 15:03:38 ET
+Table '2282683429 1' 2-max Seat #2 is the button
+Seat 1: Pand0rka (920 in chips) 
+Seat 2: ollikahn23 (2080 in chips) 
+ollikahn23: posts small blind 15
+Pand0rka: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4c Ac]
+ollikahn23: raises 30 to 60
+Pand0rka: calls 30
+*** FLOP *** [3h 3s Ks]
+Pand0rka: checks 
+ollikahn23: bets 65
+Pand0rka: folds 
+Uncalled bet (65) returned to ollikahn23
+ollikahn23 collected 120 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [3h 3s Ks]
+Seat 1: Pand0rka (big blind) folded on the Flop
+Seat 2: ollikahn23 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #185388429419: Tournament #2282683429, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/18 15:03:54 ET
+Table '2282683429 1' 2-max Seat #1 is the button
+Seat 1: Pand0rka (860 in chips) 
+Seat 2: ollikahn23 (2140 in chips) 
+Pand0rka: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4d 9d]
+Pand0rka: raises 830 to 860 and is all-in
+ollikahn23: folds 
+Uncalled bet (830) returned to Pand0rka
+Pand0rka collected 60 from pot
+Pand0rka: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Pand0rka (button) (small blind) collected (60)
+Seat 2: ollikahn23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #185388436338: Tournament #2282683429, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/18 15:04:04 ET
+Table '2282683429 1' 2-max Seat #2 is the button
+Seat 1: Pand0rka (890 in chips) 
+Seat 2: ollikahn23 (2110 in chips) 
+ollikahn23: posts small blind 15
+Pand0rka: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qc Ad]
+ollikahn23: raises 30 to 60
+Pand0rka: raises 830 to 890 and is all-in
+ollikahn23: calls 830
+*** FLOP *** [Kh 4d 7s]
+*** TURN *** [Kh 4d 7s] [6d]
+*** RIVER *** [Kh 4d 7s 6d] [Ts]
+*** SHOW DOWN ***
+Pand0rka: shows [8h Kc] (a pair of Kings)
+ollikahn23: shows [Qc Ad] (high card Ace)
+Pand0rka collected 1780 from pot
+*** SUMMARY ***
+Total pot 1780 | Rake 0 
+Board [Kh 4d 7s 6d Ts]
+Seat 1: Pand0rka (big blind) showed [8h Kc] and won (1780) with a pair of Kings
+Seat 2: ollikahn23 (button) (small blind) showed [Qc Ad] and lost with high card Ace
+
+
+
+PokerStars Hand #185388450286: Tournament #2282683429, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/18 15:04:22 ET
+Table '2282683429 1' 2-max Seat #1 is the button
+Seat 1: Pand0rka (1780 in chips) 
+Seat 2: ollikahn23 (1220 in chips) 
+Pand0rka: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ah 9d]
+Pand0rka: folds 
+Uncalled bet (15) returned to ollikahn23
+ollikahn23 collected 30 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Pand0rka (button) (small blind) folded before Flop
+Seat 2: ollikahn23 (big blind) collected (30)
+
+
+
+PokerStars Hand #185388457875: Tournament #2282683429, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/04/18 15:04:32 ET
+Table '2282683429 1' 2-max Seat #2 is the button
+Seat 1: Pand0rka (1765 in chips) 
+Seat 2: ollikahn23 (1235 in chips) 
+ollikahn23: posts small blind 20
+Pand0rka: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6d 2s]
+ollikahn23: folds 
+Uncalled bet (20) returned to Pand0rka
+Pand0rka collected 40 from pot
+Pand0rka: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Pand0rka (big blind) collected (40)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185388464357: Tournament #2282683429, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/04/18 15:04:41 ET
+Table '2282683429 1' 2-max Seat #1 is the button
+Seat 1: Pand0rka (1785 in chips) 
+Seat 2: ollikahn23 (1215 in chips) 
+Pand0rka: posts small blind 20
+ollikahn23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kc Kh]
+Pand0rka: calls 20
+ollikahn23: raises 80 to 120
+Pand0rka: calls 80
+*** FLOP *** [2h 5d 2d]
+ollikahn23: bets 120
+Pand0rka: folds 
+Uncalled bet (120) returned to ollikahn23
+ollikahn23 collected 240 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [2h 5d 2d]
+Seat 1: Pand0rka (button) (small blind) folded on the Flop
+Seat 2: ollikahn23 (big blind) collected (240)
+
+
+
+PokerStars Hand #185388483084: Tournament #2282683429, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/04/18 15:05:06 ET
+Table '2282683429 1' 2-max Seat #2 is the button
+Seat 1: Pand0rka (1665 in chips) 
+Seat 2: ollikahn23 (1335 in chips) 
+ollikahn23: posts small blind 20
+Pand0rka: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jd Kc]
+ollikahn23: raises 40 to 80
+Pand0rka: calls 40
+*** FLOP *** [2d 6h Qh]
+Pand0rka: bets 160
+ollikahn23: folds 
+Uncalled bet (160) returned to Pand0rka
+Pand0rka collected 160 from pot
+Pand0rka: doesn't show hand 
+Pand0rka said, "ty"
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [2d 6h Qh]
+Seat 1: Pand0rka (big blind) collected (160)
+Seat 2: ollikahn23 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #185388497693: Tournament #2282683429, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/04/18 15:05:26 ET
+Table '2282683429 1' 2-max Seat #1 is the button
+Seat 1: Pand0rka (1745 in chips) 
+Seat 2: ollikahn23 (1255 in chips) 
+Pand0rka: posts small blind 20
+ollikahn23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [As 9h]
+Pand0rka: folds 
+Uncalled bet (20) returned to ollikahn23
+ollikahn23 collected 40 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Pand0rka (button) (small blind) folded before Flop
+Seat 2: ollikahn23 (big blind) collected (40)
+
+
+
+PokerStars Hand #185388501594: Tournament #2282683429, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/04/18 15:05:31 ET
+Table '2282683429 1' 2-max Seat #2 is the button
+Seat 1: Pand0rka (1725 in chips) 
+Seat 2: ollikahn23 (1275 in chips) 
+ollikahn23: posts small blind 20
+Pand0rka: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6s 6h]
+ollikahn23: raises 40 to 80
+Pand0rka: folds 
+Uncalled bet (40) returned to ollikahn23
+ollikahn23 collected 80 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Pand0rka (big blind) folded before Flop
+Seat 2: ollikahn23 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #185388507270: Tournament #2282683429, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/04/18 15:05:38 ET
+Table '2282683429 1' 2-max Seat #1 is the button
+Seat 1: Pand0rka (1685 in chips) 
+Seat 2: ollikahn23 (1315 in chips) 
+Pand0rka: posts small blind 20
+ollikahn23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jc Ks]
+Pand0rka: folds 
+Uncalled bet (20) returned to ollikahn23
+ollikahn23 collected 40 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Pand0rka (button) (small blind) folded before Flop
+Seat 2: ollikahn23 (big blind) collected (40)
+
+
+
+PokerStars Hand #185388512084: Tournament #2282683429, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/04/18 15:05:45 ET
+Table '2282683429 1' 2-max Seat #2 is the button
+Seat 1: Pand0rka (1665 in chips) 
+Seat 2: ollikahn23 (1335 in chips) 
+ollikahn23: posts small blind 20
+Pand0rka: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5s 4d]
+ollikahn23: folds 
+Uncalled bet (20) returned to Pand0rka
+Pand0rka collected 40 from pot
+Pand0rka: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Pand0rka (big blind) collected (40)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185388519468: Tournament #2282683429, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/04/18 15:05:55 ET
+Table '2282683429 1' 2-max Seat #1 is the button
+Seat 1: Pand0rka (1685 in chips) 
+Seat 2: ollikahn23 (1315 in chips) 
+Pand0rka: posts small blind 20
+ollikahn23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6s 2s]
+Pand0rka: raises 120 to 160
+ollikahn23: folds 
+Uncalled bet (120) returned to Pand0rka
+Pand0rka collected 80 from pot
+Pand0rka: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Pand0rka (button) (small blind) collected (80)
+Seat 2: ollikahn23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #185388526458: Tournament #2282683429, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/04/18 15:06:04 ET
+Table '2282683429 1' 2-max Seat #2 is the button
+Seat 1: Pand0rka (1725 in chips) 
+Seat 2: ollikahn23 (1275 in chips) 
+ollikahn23: posts small blind 20
+Pand0rka: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jh 8d]
+ollikahn23: folds 
+Uncalled bet (20) returned to Pand0rka
+Pand0rka collected 40 from pot
+Pand0rka: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Pand0rka (big blind) collected (40)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185388530638: Tournament #2282683429, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/04/18 15:06:09 ET
+Table '2282683429 1' 2-max Seat #1 is the button
+Seat 1: Pand0rka (1745 in chips) 
+Seat 2: ollikahn23 (1255 in chips) 
+Pand0rka: posts small blind 20
+ollikahn23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4h Js]
+Pand0rka: raises 80 to 120
+ollikahn23: folds 
+Uncalled bet (80) returned to Pand0rka
+Pand0rka collected 80 from pot
+Pand0rka: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Pand0rka (button) (small blind) collected (80)
+Seat 2: ollikahn23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #185388538516: Tournament #2282683429, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/04/18 15:06:20 ET
+Table '2282683429 1' 2-max Seat #2 is the button
+Seat 1: Pand0rka (1785 in chips) 
+Seat 2: ollikahn23 (1215 in chips) 
+ollikahn23: posts small blind 20
+Pand0rka: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6s 7d]
+ollikahn23: folds 
+Uncalled bet (20) returned to Pand0rka
+Pand0rka collected 40 from pot
+Pand0rka: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Pand0rka (big blind) collected (40)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185388546962: Tournament #2282683429, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/04/18 15:06:31 ET
+Table '2282683429 1' 2-max Seat #1 is the button
+Seat 1: Pand0rka (1805 in chips) 
+Seat 2: ollikahn23 (1195 in chips) 
+Pand0rka: posts small blind 20
+ollikahn23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2h Ts]
+Pand0rka: raises 80 to 120
+ollikahn23: folds 
+Uncalled bet (80) returned to Pand0rka
+Pand0rka collected 80 from pot
+Pand0rka: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Pand0rka (button) (small blind) collected (80)
+Seat 2: ollikahn23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #185388554834: Tournament #2282683429, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/04/18 15:06:41 ET
+Table '2282683429 1' 2-max Seat #2 is the button
+Seat 1: Pand0rka (1845 in chips) 
+Seat 2: ollikahn23 (1155 in chips) 
+ollikahn23: posts small blind 20
+Pand0rka: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7h 4s]
+ollikahn23: folds 
+Uncalled bet (20) returned to Pand0rka
+Pand0rka collected 40 from pot
+Pand0rka: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Pand0rka (big blind) collected (40)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185388559783: Tournament #2282683429, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/04/18 15:06:48 ET
+Table '2282683429 1' 2-max Seat #1 is the button
+Seat 1: Pand0rka (1865 in chips) 
+Seat 2: ollikahn23 (1135 in chips) 
+Pand0rka: posts small blind 20
+ollikahn23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ah 3c]
+Pand0rka: folds 
+Uncalled bet (20) returned to ollikahn23
+ollikahn23 collected 40 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Pand0rka (button) (small blind) folded before Flop
+Seat 2: ollikahn23 (big blind) collected (40)
+
+
+
+PokerStars Hand #185388564346: Tournament #2282683429, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/04/18 15:06:54 ET
+Table '2282683429 1' 2-max Seat #2 is the button
+Seat 1: Pand0rka (1845 in chips) 
+Seat 2: ollikahn23 (1155 in chips) 
+ollikahn23: posts small blind 20
+Pand0rka: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2h Kc]
+ollikahn23: raises 40 to 80
+Pand0rka: calls 40
+*** FLOP *** [9d 3h 8s]
+Pand0rka: checks 
+ollikahn23: checks 
+*** TURN *** [9d 3h 8s] [Kd]
+Pand0rka: checks 
+ollikahn23: checks 
+*** RIVER *** [9d 3h 8s Kd] [4s]
+Pand0rka: bets 160
+ollikahn23: calls 160
+*** SHOW DOWN ***
+Pand0rka: shows [6c 2c] (high card King)
+ollikahn23: shows [2h Kc] (a pair of Kings)
+ollikahn23 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [9d 3h 8s Kd 4s]
+Seat 1: Pand0rka (big blind) showed [6c 2c] and lost with high card King
+Seat 2: ollikahn23 (button) (small blind) showed [2h Kc] and won (480) with a pair of Kings
+
+
+
+PokerStars Hand #185388581362: Tournament #2282683429, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/04/18 15:07:16 ET
+Table '2282683429 1' 2-max Seat #1 is the button
+Seat 1: Pand0rka (1605 in chips) 
+Seat 2: ollikahn23 (1395 in chips) 
+Pand0rka: posts small blind 20
+ollikahn23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jc 4d]
+Pand0rka: calls 20
+ollikahn23: checks 
+*** FLOP *** [2h Tc 2c]
+ollikahn23: checks 
+Pand0rka: checks 
+*** TURN *** [2h Tc 2c] [9h]
+ollikahn23: bets 50
+Pand0rka: calls 50
+*** RIVER *** [2h Tc 2c 9h] [Ac]
+ollikahn23: bets 135
+Pand0rka: calls 135
+*** SHOW DOWN ***
+ollikahn23: shows [Jc 4d] (a pair of Deuces)
+Pand0rka: shows [9d 8h] (two pair, Nines and Deuces)
+Pand0rka collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | Rake 0 
+Board [2h Tc 2c 9h Ac]
+Seat 1: Pand0rka (button) (small blind) showed [9d 8h] and won (450) with two pair, Nines and Deuces
+Seat 2: ollikahn23 (big blind) showed [Jc 4d] and lost with a pair of Deuces
+
+
+
+PokerStars Hand #185388608272: Tournament #2282683429, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/04/18 15:07:52 ET
+Table '2282683429 1' 2-max Seat #2 is the button
+Seat 1: Pand0rka (1830 in chips) 
+Seat 2: ollikahn23 (1170 in chips) 
+ollikahn23: posts small blind 25
+Pand0rka: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [As 6c]
+ollikahn23 said, "nh"
+ollikahn23: raises 50 to 100
+Pand0rka: calls 50
+*** FLOP *** [8c Tc 8h]
+Pand0rka: checks 
+ollikahn23: bets 110
+Pand0rka: calls 110
+*** TURN *** [8c Tc 8h] [Th]
+Pand0rka: checks 
+ollikahn23: checks 
+*** RIVER *** [8c Tc 8h Th] [2h]
+Pand0rka: checks 
+ollikahn23: bets 150
+Pand0rka: calls 150
+*** SHOW DOWN ***
+ollikahn23: shows [As 6c] (two pair, Tens and Eights)
+Pand0rka: mucks hand 
+ollikahn23 collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | Rake 0 
+Board [8c Tc 8h Th 2h]
+Seat 1: Pand0rka (big blind) mucked [Kd 9d]
+Seat 2: ollikahn23 (button) (small blind) showed [As 6c] and won (720) with two pair, Tens and Eights
+
+
+
+PokerStars Hand #185388634928: Tournament #2282683429, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/04/18 15:08:26 ET
+Table '2282683429 1' 2-max Seat #1 is the button
+Seat 1: Pand0rka (1470 in chips) 
+Seat 2: ollikahn23 (1530 in chips) 
+Pand0rka: posts small blind 25
+ollikahn23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6c 3h]
+Pand0rka: calls 25
+ollikahn23: checks 
+*** FLOP *** [6s 4s 7d]
+ollikahn23: checks 
+Pand0rka: checks 
+*** TURN *** [6s 4s 7d] [7c]
+ollikahn23: checks 
+Pand0rka: checks 
+*** RIVER *** [6s 4s 7d 7c] [8c]
+ollikahn23: bets 50
+Pand0rka: folds 
+Uncalled bet (50) returned to ollikahn23
+ollikahn23 collected 100 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [6s 4s 7d 7c 8c]
+Seat 1: Pand0rka (button) (small blind) folded on the River
+Seat 2: ollikahn23 (big blind) collected (100)
+
+
+
+PokerStars Hand #185388656835: Tournament #2282683429, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/04/18 15:08:55 ET
+Table '2282683429 1' 2-max Seat #2 is the button
+Seat 1: Pand0rka (1420 in chips) 
+Seat 2: ollikahn23 (1580 in chips) 
+ollikahn23: posts small blind 25
+Pand0rka: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qd 7d]
+ollikahn23: raises 50 to 100
+Pand0rka: raises 50 to 150
+ollikahn23: calls 50
+*** FLOP *** [Td Tc Jc]
+Pand0rka: checks 
+ollikahn23: checks 
+*** TURN *** [Td Tc Jc] [9h]
+Pand0rka: bets 300
+ollikahn23: folds 
+Uncalled bet (300) returned to Pand0rka
+Pand0rka collected 300 from pot
+Pand0rka: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [Td Tc Jc 9h]
+Seat 1: Pand0rka (big blind) collected (300)
+Seat 2: ollikahn23 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #185388681573: Tournament #2282683429, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/04/18 15:09:28 ET
+Table '2282683429 1' 2-max Seat #1 is the button
+Seat 1: Pand0rka (1570 in chips) 
+Seat 2: ollikahn23 (1430 in chips) 
+Pand0rka: posts small blind 25
+ollikahn23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kd 9d]
+Pand0rka: raises 50 to 100
+ollikahn23: calls 50
+*** FLOP *** [9h 9s Ks]
+ollikahn23: checks 
+Pand0rka: checks 
+*** TURN *** [9h 9s Ks] [6h]
+ollikahn23: bets 100
+Pand0rka: calls 100
+*** RIVER *** [9h 9s Ks 6h] [Js]
+ollikahn23: bets 250
+Pand0rka: calls 250
+*** SHOW DOWN ***
+ollikahn23: shows [Kd 9d] (a full house, Nines full of Kings)
+Pand0rka: mucks hand 
+ollikahn23 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Board [9h 9s Ks 6h Js]
+Seat 1: Pand0rka (button) (small blind) mucked [8c As]
+Seat 2: ollikahn23 (big blind) showed [Kd 9d] and won (900) with a full house, Nines full of Kings
+
+
+
+PokerStars Hand #185388709999: Tournament #2282683429, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/04/18 15:10:05 ET
+Table '2282683429 1' 2-max Seat #2 is the button
+Seat 1: Pand0rka (1120 in chips) 
+Seat 2: ollikahn23 (1880 in chips) 
+ollikahn23: posts small blind 25
+Pand0rka: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ts 2c]
+ollikahn23: folds 
+Uncalled bet (25) returned to Pand0rka
+Pand0rka collected 50 from pot
+Pand0rka: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Pand0rka (big blind) collected (50)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185388720162: Tournament #2282683429, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/04/18 15:10:19 ET
+Table '2282683429 1' 2-max Seat #1 is the button
+Seat 1: Pand0rka (1145 in chips) 
+Seat 2: ollikahn23 (1855 in chips) 
+Pand0rka: posts small blind 25
+ollikahn23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qc Td]
+Pand0rka: folds 
+Uncalled bet (25) returned to ollikahn23
+ollikahn23 collected 50 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Pand0rka (button) (small blind) folded before Flop
+Seat 2: ollikahn23 (big blind) collected (50)
+
+
+
+PokerStars Hand #185388724444: Tournament #2282683429, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/04/18 15:10:24 ET
+Table '2282683429 1' 2-max Seat #2 is the button
+Seat 1: Pand0rka (1120 in chips) 
+Seat 2: ollikahn23 (1880 in chips) 
+ollikahn23: posts small blind 25
+Pand0rka: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qc 4s]
+ollikahn23: folds 
+Uncalled bet (25) returned to Pand0rka
+Pand0rka collected 50 from pot
+Pand0rka: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Pand0rka (big blind) collected (50)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185388732836: Tournament #2282683429, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level V (30/60) - 2018/04/18 15:10:36 ET
+Table '2282683429 1' 2-max Seat #1 is the button
+Seat 1: Pand0rka (1145 in chips) 
+Seat 2: ollikahn23 (1855 in chips) 
+Pand0rka: posts small blind 30
+ollikahn23: posts big blind 60
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6s Tc]
+Pand0rka: raises 60 to 120
+ollikahn23: folds 
+Uncalled bet (60) returned to Pand0rka
+Pand0rka collected 120 from pot
+Pand0rka: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: Pand0rka (button) (small blind) collected (120)
+Seat 2: ollikahn23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #185388738324: Tournament #2282683429, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level V (30/60) - 2018/04/18 15:10:43 ET
+Table '2282683429 1' 2-max Seat #2 is the button
+Seat 1: Pand0rka (1205 in chips) 
+Seat 2: ollikahn23 (1795 in chips) 
+ollikahn23: posts small blind 30
+Pand0rka: posts big blind 60
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9c As]
+ollikahn23: raises 60 to 120
+Pand0rka: raises 60 to 180
+ollikahn23: calls 60
+*** FLOP *** [Ts Qs 7h]
+Pand0rka: checks 
+ollikahn23: checks 
+*** TURN *** [Ts Qs 7h] [9d]
+Pand0rka: bets 360
+ollikahn23: raises 1080 to 1440
+Pand0rka: calls 665 and is all-in
+Uncalled bet (415) returned to ollikahn23
+*** RIVER *** [Ts Qs 7h 9d] [4d]
+*** SHOW DOWN ***
+Pand0rka: shows [Jd Jc] (a pair of Jacks)
+ollikahn23: shows [9c As] (a pair of Nines)
+Pand0rka collected 2410 from pot
+*** SUMMARY ***
+Total pot 2410 | Rake 0 
+Board [Ts Qs 7h 9d 4d]
+Seat 1: Pand0rka (big blind) showed [Jd Jc] and won (2410) with a pair of Jacks
+Seat 2: ollikahn23 (button) (small blind) showed [9c As] and lost with a pair of Nines
+
+
+
+PokerStars Hand #185388773356: Tournament #2282683429, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level V (30/60) - 2018/04/18 15:11:29 ET
+Table '2282683429 1' 2-max Seat #1 is the button
+Seat 1: Pand0rka (2410 in chips) 
+Seat 2: ollikahn23 (590 in chips) 
+Pand0rka: posts small blind 30
+ollikahn23: posts big blind 60
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2h Ah]
+Pand0rka: raises 2350 to 2410 and is all-in
+ollikahn23: calls 530 and is all-in
+Uncalled bet (1820) returned to Pand0rka
+*** FLOP *** [9h 7s 4d]
+*** TURN *** [9h 7s 4d] [5s]
+*** RIVER *** [9h 7s 4d 5s] [7c]
+*** SHOW DOWN ***
+ollikahn23: shows [2h Ah] (a pair of Sevens)
+Pand0rka: shows [Js 7d] (three of a kind, Sevens)
+Pand0rka collected 1180 from pot
+ollikahn23 finished the tournament in 2nd place
+Pand0rka wins the tournament and receives $2.80 - congratulations!
+*** SUMMARY ***
+Total pot 1180 | Rake 0 
+Board [9h 7s 4d 5s 7c]
+Seat 1: Pand0rka (button) (small blind) showed [Js 7d] and won (1180) with three of a kind, Sevens
+Seat 2: ollikahn23 (big blind) showed [2h Ah] and lost with a pair of Sevens
+
+
+

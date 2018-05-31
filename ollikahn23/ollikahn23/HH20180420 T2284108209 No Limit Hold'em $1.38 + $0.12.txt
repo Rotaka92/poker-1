@@ -1,0 +1,343 @@
+﻿PokerStars Hand #185452621266: Tournament #2284108209, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/20 9:04:36 ET
+Table '2284108209 1' 2-max Seat #1 is the button
+Seat 1: JKawai (1500 in chips) 
+Seat 2: ollikahn23 (1500 in chips) 
+JKawai: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5c 2c]
+JKawai: raises 20 to 40
+ollikahn23: folds 
+Uncalled bet (20) returned to JKawai
+JKawai collected 40 from pot
+JKawai: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: JKawai (button) (small blind) collected (40)
+Seat 2: ollikahn23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #185452626669: Tournament #2284108209, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/20 9:04:48 ET
+Table '2284108209 1' 2-max Seat #2 is the button
+Seat 1: JKawai (1520 in chips) 
+Seat 2: ollikahn23 (1480 in chips) 
+ollikahn23: posts small blind 10
+JKawai: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9s Qs]
+ollikahn23: raises 20 to 40
+JKawai: raises 40 to 80
+ollikahn23: calls 40
+*** FLOP *** [As 4d 7s]
+JKawai: bets 80
+ollikahn23: calls 80
+*** TURN *** [As 4d 7s] [Ad]
+JKawai: bets 160
+ollikahn23: calls 160
+*** RIVER *** [As 4d 7s Ad] [6h]
+JKawai: checks 
+ollikahn23: bets 380
+JKawai: calls 380
+*** SHOW DOWN ***
+ollikahn23: shows [9s Qs] (a pair of Aces)
+JKawai: shows [Ts Kd] (a pair of Aces - King kicker)
+JKawai collected 1400 from pot
+*** SUMMARY ***
+Total pot 1400 | Rake 0 
+Board [As 4d 7s Ad 6h]
+Seat 1: JKawai (big blind) showed [Ts Kd] and won (1400) with a pair of Aces
+Seat 2: ollikahn23 (button) (small blind) showed [9s Qs] and lost with a pair of Aces
+
+
+
+PokerStars Hand #185452648652: Tournament #2284108209, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/20 9:05:35 ET
+Table '2284108209 1' 2-max Seat #1 is the button
+Seat 1: JKawai (2220 in chips) 
+Seat 2: ollikahn23 (780 in chips) 
+JKawai: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6h 9d]
+ollikahn23 said, "nc"
+JKawai: calls 10
+ollikahn23: checks 
+*** FLOP *** [4h Qs 5s]
+ollikahn23: checks 
+JKawai: bets 100
+ollikahn23: folds 
+Uncalled bet (100) returned to JKawai
+JKawai collected 40 from pot
+JKawai: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [4h Qs 5s]
+Seat 1: JKawai (button) (small blind) collected (40)
+Seat 2: ollikahn23 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #185452655665: Tournament #2284108209, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/20 9:05:50 ET
+Table '2284108209 1' 2-max Seat #2 is the button
+Seat 1: JKawai (2240 in chips) 
+Seat 2: ollikahn23 (760 in chips) 
+ollikahn23: posts small blind 10
+JKawai: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Th As]
+ollikahn23: raises 20 to 40
+JKawai: raises 80 to 120
+ollikahn23: calls 80
+*** FLOP *** [2d 6h 8c]
+JKawai: bets 120
+ollikahn23: folds 
+Uncalled bet (120) returned to JKawai
+JKawai collected 240 from pot
+JKawai: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [2d 6h 8c]
+Seat 1: JKawai (big blind) collected (240)
+Seat 2: ollikahn23 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #185452665245: Tournament #2284108209, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/20 9:06:11 ET
+Table '2284108209 1' 2-max Seat #1 is the button
+Seat 1: JKawai (2360 in chips) 
+Seat 2: ollikahn23 (640 in chips) 
+JKawai: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ac Kc]
+JKawai: folds 
+Uncalled bet (10) returned to ollikahn23
+ollikahn23 collected 20 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: JKawai (button) (small blind) folded before Flop
+Seat 2: ollikahn23 (big blind) collected (20)
+
+
+
+PokerStars Hand #185452668371: Tournament #2284108209, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/20 9:06:18 ET
+Table '2284108209 1' 2-max Seat #2 is the button
+Seat 1: JKawai (2350 in chips) 
+Seat 2: ollikahn23 (650 in chips) 
+ollikahn23: posts small blind 10
+JKawai: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ad Jc]
+ollikahn23: raises 20 to 40
+JKawai: calls 20
+*** FLOP *** [Kh 2c 5c]
+JKawai: checks 
+ollikahn23: bets 40
+JKawai: folds 
+Uncalled bet (40) returned to ollikahn23
+ollikahn23 collected 80 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Kh 2c 5c]
+Seat 1: JKawai (big blind) folded on the Flop
+Seat 2: ollikahn23 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #185452675459: Tournament #2284108209, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/20 9:06:34 ET
+Table '2284108209 1' 2-max Seat #1 is the button
+Seat 1: JKawai (2310 in chips) 
+Seat 2: ollikahn23 (690 in chips) 
+JKawai: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9c 7h]
+JKawai: raises 45 to 65
+ollikahn23: folds 
+Uncalled bet (45) returned to JKawai
+JKawai collected 40 from pot
+JKawai: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: JKawai (button) (small blind) collected (40)
+Seat 2: ollikahn23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #185452678718: Tournament #2284108209, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/20 9:06:41 ET
+Table '2284108209 1' 2-max Seat #2 is the button
+Seat 1: JKawai (2330 in chips) 
+Seat 2: ollikahn23 (670 in chips) 
+ollikahn23: posts small blind 10
+JKawai: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jh Jc]
+ollikahn23: raises 20 to 40
+JKawai: calls 20
+*** FLOP *** [Qh Kd 4h]
+JKawai: bets 40
+ollikahn23: calls 40
+*** TURN *** [Qh Kd 4h] [9d]
+JKawai: bets 80
+ollikahn23: calls 80
+*** RIVER *** [Qh Kd 4h 9d] [4d]
+JKawai: bets 320
+ollikahn23: folds 
+Uncalled bet (320) returned to JKawai
+JKawai collected 320 from pot
+JKawai: doesn't show hand 
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [Qh Kd 4h 9d 4d]
+Seat 1: JKawai (big blind) collected (320)
+Seat 2: ollikahn23 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #185452692276: Tournament #2284108209, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/20 9:07:10 ET
+Table '2284108209 1' 2-max Seat #1 is the button
+Seat 1: JKawai (2490 in chips) 
+Seat 2: ollikahn23 (510 in chips) 
+JKawai: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3c 6d]
+JKawai: raises 40 to 60
+ollikahn23: folds 
+Uncalled bet (40) returned to JKawai
+JKawai collected 40 from pot
+JKawai: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: JKawai (button) (small blind) collected (40)
+Seat 2: ollikahn23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #185452695661: Tournament #2284108209, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/20 9:07:17 ET
+Table '2284108209 1' 2-max Seat #2 is the button
+Seat 1: JKawai (2510 in chips) 
+Seat 2: ollikahn23 (490 in chips) 
+ollikahn23: posts small blind 10
+JKawai: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6s 7d]
+ollikahn23: folds 
+Uncalled bet (10) returned to JKawai
+JKawai collected 20 from pot
+JKawai: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: JKawai (big blind) collected (20)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185452697912: Tournament #2284108209, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/20 9:07:22 ET
+Table '2284108209 1' 2-max Seat #1 is the button
+Seat 1: JKawai (2520 in chips) 
+Seat 2: ollikahn23 (480 in chips) 
+JKawai: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jc 7d]
+JKawai: calls 10
+ollikahn23: checks 
+*** FLOP *** [Tc 6h 3h]
+ollikahn23: checks 
+JKawai: checks 
+*** TURN *** [Tc 6h 3h] [Jh]
+ollikahn23: bets 40
+JKawai: folds 
+Uncalled bet (40) returned to ollikahn23
+ollikahn23 collected 40 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Tc 6h 3h Jh]
+Seat 1: JKawai (button) (small blind) folded on the Turn
+Seat 2: ollikahn23 (big blind) collected (40)
+
+
+
+PokerStars Hand #185452705265: Tournament #2284108209, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/20 9:07:38 ET
+Table '2284108209 1' 2-max Seat #2 is the button
+Seat 1: JKawai (2500 in chips) 
+Seat 2: ollikahn23 (500 in chips) 
+ollikahn23: posts small blind 10
+JKawai: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2d 3c]
+ollikahn23: folds 
+Uncalled bet (10) returned to JKawai
+JKawai collected 20 from pot
+JKawai: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: JKawai (big blind) collected (20)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185452707582: Tournament #2284108209, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/20 9:07:43 ET
+Table '2284108209 1' 2-max Seat #1 is the button
+Seat 1: JKawai (2510 in chips) 
+Seat 2: ollikahn23 (490 in chips) 
+JKawai: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kc 5h]
+JKawai: raises 40 to 60
+ollikahn23: calls 40
+*** FLOP *** [8d Td 3c]
+ollikahn23: checks 
+JKawai: bets 120
+ollikahn23: folds 
+Uncalled bet (120) returned to JKawai
+JKawai collected 120 from pot
+JKawai: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [8d Td 3c]
+Seat 1: JKawai (button) (small blind) collected (120)
+Seat 2: ollikahn23 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #185452714993: Tournament #2284108209, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/20 9:07:59 ET
+Table '2284108209 1' 2-max Seat #2 is the button
+Seat 1: JKawai (2570 in chips) 
+Seat 2: ollikahn23 (430 in chips) 
+ollikahn23: posts small blind 10
+JKawai: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kd Kc]
+ollikahn23: raises 20 to 40
+JKawai: calls 20
+*** FLOP *** [3c 7c Jh]
+JKawai: checks 
+ollikahn23: bets 40
+JKawai: calls 40
+*** TURN *** [3c 7c Jh] [6h]
+JKawai: checks 
+ollikahn23: bets 120
+JKawai: raises 2370 to 2490 and is all-in
+ollikahn23: calls 230 and is all-in
+Uncalled bet (2140) returned to JKawai
+*** RIVER *** [3c 7c Jh 6h] [9d]
+*** SHOW DOWN ***
+JKawai: shows [7h 3s] (two pair, Sevens and Threes)
+ollikahn23: shows [Kd Kc] (a pair of Kings)
+JKawai collected 860 from pot
+ollikahn23 finished the tournament in 2nd place
+JKawai wins the tournament and receives $2.76 - congratulations!
+*** SUMMARY ***
+Total pot 860 | Rake 0 
+Board [3c 7c Jh 6h 9d]
+Seat 1: JKawai (big blind) showed [7h 3s] and won (860) with two pair, Sevens and Threes
+Seat 2: ollikahn23 (button) (small blind) showed [Kd Kc] and lost with a pair of Kings
+
+
+

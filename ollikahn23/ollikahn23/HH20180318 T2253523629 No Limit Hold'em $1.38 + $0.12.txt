@@ -1,0 +1,964 @@
+﻿PokerStars Hand #184044076227: Tournament #2253523629, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/03/18 17:42:29 ET
+Table '2253523629 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1500 in chips) 
+Seat 2: yes_man1984 (1500 in chips) 
+ollikahn23: posts small blind 10
+yes_man1984: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kh As]
+ollikahn23: raises 20 to 40
+yes_man1984: raises 70 to 110
+ollikahn23: raises 1390 to 1500 and is all-in
+yes_man1984: folds 
+Uncalled bet (1390) returned to ollikahn23
+ollikahn23 collected 220 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 220 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) collected (220)
+Seat 2: yes_man1984 (big blind) folded before Flop
+
+
+
+PokerStars Hand #184044086389: Tournament #2253523629, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/03/18 17:42:40 ET
+Table '2253523629 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1610 in chips) 
+Seat 2: yes_man1984 (1390 in chips) 
+yes_man1984: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jh Ks]
+yes_man1984: raises 20 to 40
+ollikahn23: calls 20
+*** FLOP *** [5h 4d 9c]
+ollikahn23: checks 
+yes_man1984: checks 
+*** TURN *** [5h 4d 9c] [8h]
+ollikahn23: checks 
+yes_man1984: bets 40
+ollikahn23: calls 40
+*** RIVER *** [5h 4d 9c 8h] [Js]
+ollikahn23: checks 
+yes_man1984: checks 
+*** SHOW DOWN ***
+ollikahn23: shows [Jh Ks] (a pair of Jacks)
+yes_man1984: mucks hand 
+ollikahn23 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [5h 4d 9c 8h Js]
+Seat 1: ollikahn23 (big blind) showed [Jh Ks] and won (160) with a pair of Jacks
+Seat 2: yes_man1984 (button) (small blind) mucked [8d Th]
+
+
+
+PokerStars Hand #184044101005: Tournament #2253523629, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/03/18 17:42:57 ET
+Table '2253523629 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1690 in chips) 
+Seat 2: yes_man1984 (1310 in chips) 
+ollikahn23: posts small blind 10
+yes_man1984: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kd Td]
+ollikahn23: raises 20 to 40
+yes_man1984: calls 20
+*** FLOP *** [2s 4d 4c]
+yes_man1984: checks 
+ollikahn23: bets 40
+yes_man1984: folds 
+Uncalled bet (40) returned to ollikahn23
+ollikahn23 collected 80 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [2s 4d 4c]
+Seat 1: ollikahn23 (button) (small blind) collected (80)
+Seat 2: yes_man1984 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #184044120354: Tournament #2253523629, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/03/18 17:43:18 ET
+Table '2253523629 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1730 in chips) 
+Seat 2: yes_man1984 (1270 in chips) 
+yes_man1984: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5s 3d]
+yes_man1984: folds 
+Uncalled bet (10) returned to ollikahn23
+ollikahn23 collected 20 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: ollikahn23 (big blind) collected (20)
+Seat 2: yes_man1984 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #184044124955: Tournament #2253523629, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/03/18 17:43:23 ET
+Table '2253523629 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1740 in chips) 
+Seat 2: yes_man1984 (1260 in chips) 
+ollikahn23: posts small blind 10
+yes_man1984: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4d 9d]
+ollikahn23: folds 
+Uncalled bet (10) returned to yes_man1984
+yes_man1984 collected 20 from pot
+yes_man1984: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) folded before Flop
+Seat 2: yes_man1984 (big blind) collected (20)
+
+
+
+PokerStars Hand #184044131810: Tournament #2253523629, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/03/18 17:43:31 ET
+Table '2253523629 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1730 in chips) 
+Seat 2: yes_man1984 (1270 in chips) 
+yes_man1984: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ts 7s]
+yes_man1984: raises 20 to 40
+ollikahn23: calls 20
+*** FLOP *** [5c Jd 7d]
+ollikahn23: checks 
+yes_man1984: bets 60
+ollikahn23: folds 
+Uncalled bet (60) returned to yes_man1984
+yes_man1984 collected 80 from pot
+yes_man1984: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [5c Jd 7d]
+Seat 1: ollikahn23 (big blind) folded on the Flop
+Seat 2: yes_man1984 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #184044172214: Tournament #2253523629, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/03/18 17:44:15 ET
+Table '2253523629 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1690 in chips) 
+Seat 2: yes_man1984 (1310 in chips) 
+ollikahn23: posts small blind 10
+yes_man1984: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4s Jd]
+ollikahn23: folds 
+Uncalled bet (10) returned to yes_man1984
+yes_man1984 collected 20 from pot
+yes_man1984: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) folded before Flop
+Seat 2: yes_man1984 (big blind) collected (20)
+
+
+
+PokerStars Hand #184044177736: Tournament #2253523629, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/03/18 17:44:22 ET
+Table '2253523629 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1680 in chips) 
+Seat 2: yes_man1984 (1320 in chips) 
+yes_man1984: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kc Js]
+yes_man1984: raises 20 to 40
+ollikahn23: calls 20
+*** FLOP *** [9s 9c Ad]
+ollikahn23: checks 
+yes_man1984: checks 
+*** TURN *** [9s 9c Ad] [Jh]
+ollikahn23: checks 
+yes_man1984: checks 
+*** RIVER *** [9s 9c Ad Jh] [6s]
+ollikahn23: bets 60
+yes_man1984: folds 
+Uncalled bet (60) returned to ollikahn23
+ollikahn23 collected 80 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [9s 9c Ad Jh 6s]
+Seat 1: ollikahn23 (big blind) collected (80)
+Seat 2: yes_man1984 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #184044196756: Tournament #2253523629, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/03/18 17:44:43 ET
+Table '2253523629 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1720 in chips) 
+Seat 2: yes_man1984 (1280 in chips) 
+ollikahn23: posts small blind 10
+yes_man1984: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8d Ah]
+ollikahn23: raises 20 to 40
+yes_man1984: calls 20
+*** FLOP *** [4d 8h Ac]
+yes_man1984: checks 
+ollikahn23: bets 60
+yes_man1984: folds 
+Uncalled bet (60) returned to ollikahn23
+ollikahn23 collected 80 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [4d 8h Ac]
+Seat 1: ollikahn23 (button) (small blind) collected (80)
+Seat 2: yes_man1984 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #184044213310: Tournament #2253523629, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/03/18 17:45:01 ET
+Table '2253523629 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1760 in chips) 
+Seat 2: yes_man1984 (1240 in chips) 
+yes_man1984: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qd 4h]
+yes_man1984: raises 20 to 40
+ollikahn23: folds 
+Uncalled bet (20) returned to yes_man1984
+yes_man1984 collected 40 from pot
+yes_man1984: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ollikahn23 (big blind) folded before Flop
+Seat 2: yes_man1984 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #184044218773: Tournament #2253523629, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/03/18 17:45:07 ET
+Table '2253523629 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1740 in chips) 
+Seat 2: yes_man1984 (1260 in chips) 
+ollikahn23: posts small blind 10
+yes_man1984: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ad 8s]
+ollikahn23: raises 20 to 40
+yes_man1984: folds 
+Uncalled bet (20) returned to ollikahn23
+ollikahn23 collected 40 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) collected (40)
+Seat 2: yes_man1984 (big blind) folded before Flop
+
+
+
+PokerStars Hand #184044226350: Tournament #2253523629, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/03/18 17:45:15 ET
+Table '2253523629 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1760 in chips) 
+Seat 2: yes_man1984 (1240 in chips) 
+yes_man1984: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9s 6s]
+yes_man1984: raises 20 to 40
+ollikahn23: calls 20
+*** FLOP *** [3s Ks 9d]
+ollikahn23: checks 
+yes_man1984: checks 
+*** TURN *** [3s Ks 9d] [9c]
+ollikahn23: checks 
+yes_man1984: checks 
+*** RIVER *** [3s Ks 9d 9c] [Td]
+ollikahn23: bets 60
+yes_man1984: folds 
+Uncalled bet (60) returned to ollikahn23
+ollikahn23 collected 80 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [3s Ks 9d 9c Td]
+Seat 1: ollikahn23 (big blind) collected (80)
+Seat 2: yes_man1984 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #184044247457: Tournament #2253523629, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/03/18 17:45:39 ET
+Table '2253523629 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1800 in chips) 
+Seat 2: yes_man1984 (1200 in chips) 
+ollikahn23: posts small blind 10
+yes_man1984: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5d 7h]
+ollikahn23: folds 
+Uncalled bet (10) returned to yes_man1984
+yes_man1984 collected 20 from pot
+yes_man1984: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) folded before Flop
+Seat 2: yes_man1984 (big blind) collected (20)
+
+
+
+PokerStars Hand #184044251960: Tournament #2253523629, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/03/18 17:45:44 ET
+Table '2253523629 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1790 in chips) 
+Seat 2: yes_man1984 (1210 in chips) 
+yes_man1984: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9c As]
+yes_man1984: raises 20 to 40
+ollikahn23: raises 20 to 60
+yes_man1984: calls 20
+*** FLOP *** [7h 6d Jc]
+ollikahn23: bets 80
+yes_man1984: raises 140 to 220
+ollikahn23: folds 
+Uncalled bet (140) returned to yes_man1984
+yes_man1984 collected 280 from pot
+yes_man1984: doesn't show hand 
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Board [7h 6d Jc]
+Seat 1: ollikahn23 (big blind) folded on the Flop
+Seat 2: yes_man1984 (button) (small blind) collected (280)
+
+
+
+PokerStars Hand #184044273356: Tournament #2253523629, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/03/18 17:46:08 ET
+Table '2253523629 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1650 in chips) 
+Seat 2: yes_man1984 (1350 in chips) 
+ollikahn23: posts small blind 10
+yes_man1984: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9c Th]
+ollikahn23: raises 20 to 40
+yes_man1984: calls 20
+*** FLOP *** [Kc 2h 5s]
+yes_man1984: checks 
+ollikahn23: bets 40
+yes_man1984: folds 
+Uncalled bet (40) returned to ollikahn23
+ollikahn23 collected 80 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Kc 2h 5s]
+Seat 1: ollikahn23 (button) (small blind) collected (80)
+Seat 2: yes_man1984 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #184044286314: Tournament #2253523629, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/03/18 17:46:22 ET
+Table '2253523629 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1690 in chips) 
+Seat 2: yes_man1984 (1310 in chips) 
+yes_man1984: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kh 8d]
+yes_man1984: raises 20 to 40
+ollikahn23: calls 20
+*** FLOP *** [3d 5s 8c]
+ollikahn23: checks 
+yes_man1984: checks 
+*** TURN *** [3d 5s 8c] [As]
+ollikahn23: checks 
+yes_man1984: bets 80
+ollikahn23: calls 80
+*** RIVER *** [3d 5s 8c As] [5c]
+ollikahn23: checks 
+yes_man1984: bets 240
+ollikahn23: folds 
+Uncalled bet (240) returned to yes_man1984
+yes_man1984 collected 240 from pot
+yes_man1984: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [3d 5s 8c As 5c]
+Seat 1: ollikahn23 (big blind) folded on the River
+Seat 2: yes_man1984 (button) (small blind) collected (240)
+
+
+
+PokerStars Hand #184044315494: Tournament #2253523629, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/03/18 17:46:55 ET
+Table '2253523629 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1570 in chips) 
+Seat 2: yes_man1984 (1430 in chips) 
+ollikahn23: posts small blind 10
+yes_man1984: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jh 6h]
+ollikahn23: raises 20 to 40
+yes_man1984: folds 
+Uncalled bet (20) returned to ollikahn23
+ollikahn23 collected 40 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) collected (40)
+Seat 2: yes_man1984 (big blind) folded before Flop
+
+
+
+PokerStars Hand #184044322445: Tournament #2253523629, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/03/18 17:47:03 ET
+Table '2253523629 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1590 in chips) 
+Seat 2: yes_man1984 (1410 in chips) 
+yes_man1984: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4h Tc]
+yes_man1984: folds 
+Uncalled bet (10) returned to ollikahn23
+ollikahn23 collected 20 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: ollikahn23 (big blind) collected (20)
+Seat 2: yes_man1984 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #184044327545: Tournament #2253523629, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/03/18 17:47:09 ET
+Table '2253523629 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1600 in chips) 
+Seat 2: yes_man1984 (1400 in chips) 
+ollikahn23: posts small blind 10
+yes_man1984: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7h Ts]
+ollikahn23: raises 20 to 40
+yes_man1984: folds 
+Uncalled bet (20) returned to ollikahn23
+ollikahn23 collected 40 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) collected (40)
+Seat 2: yes_man1984 (big blind) folded before Flop
+
+
+
+PokerStars Hand #184044334895: Tournament #2253523629, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/03/18 17:47:17 ET
+Table '2253523629 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1620 in chips) 
+Seat 2: yes_man1984 (1380 in chips) 
+yes_man1984: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2d Jc]
+yes_man1984: raises 20 to 40
+ollikahn23: folds 
+Uncalled bet (20) returned to yes_man1984
+yes_man1984 collected 40 from pot
+yes_man1984: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ollikahn23 (big blind) folded before Flop
+Seat 2: yes_man1984 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #184044340844: Tournament #2253523629, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/03/18 17:47:24 ET
+Table '2253523629 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1600 in chips) 
+Seat 2: yes_man1984 (1400 in chips) 
+ollikahn23: posts small blind 10
+yes_man1984: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3h 5h]
+ollikahn23: raises 20 to 40
+yes_man1984: calls 20
+*** FLOP *** [Qs 5c 2d]
+yes_man1984: checks 
+ollikahn23: bets 60
+yes_man1984: folds 
+Uncalled bet (60) returned to ollikahn23
+ollikahn23 collected 80 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Qs 5c 2d]
+Seat 1: ollikahn23 (button) (small blind) collected (80)
+Seat 2: yes_man1984 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #184044356740: Tournament #2253523629, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/03/18 17:47:42 ET
+Table '2253523629 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1640 in chips) 
+Seat 2: yes_man1984 (1360 in chips) 
+yes_man1984: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6h 6s]
+yes_man1984: raises 50 to 70
+ollikahn23: calls 50
+*** FLOP *** [Ah Ks Jh]
+ollikahn23: checks 
+yes_man1984: bets 70
+ollikahn23: folds 
+Uncalled bet (70) returned to yes_man1984
+yes_man1984 collected 140 from pot
+yes_man1984: doesn't show hand 
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Board [Ah Ks Jh]
+Seat 1: ollikahn23 (big blind) folded on the Flop
+Seat 2: yes_man1984 (button) (small blind) collected (140)
+
+
+
+PokerStars Hand #184044369959: Tournament #2253523629, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/03/18 17:47:57 ET
+Table '2253523629 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1570 in chips) 
+Seat 2: yes_man1984 (1430 in chips) 
+ollikahn23: posts small blind 10
+yes_man1984: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jc 9h]
+ollikahn23: raises 20 to 40
+yes_man1984: calls 20
+*** FLOP *** [9s 2c 3d]
+yes_man1984: checks 
+ollikahn23: bets 40
+yes_man1984: calls 40
+*** TURN *** [9s 2c 3d] [8h]
+yes_man1984: checks 
+ollikahn23: bets 100
+yes_man1984: folds 
+Uncalled bet (100) returned to ollikahn23
+ollikahn23 collected 160 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [9s 2c 3d 8h]
+Seat 1: ollikahn23 (button) (small blind) collected (160)
+Seat 2: yes_man1984 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #184044391141: Tournament #2253523629, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/03/18 17:48:20 ET
+Table '2253523629 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1650 in chips) 
+Seat 2: yes_man1984 (1350 in chips) 
+yes_man1984: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kc 2c]
+yes_man1984: folds 
+Uncalled bet (10) returned to ollikahn23
+ollikahn23 collected 20 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: ollikahn23 (big blind) collected (20)
+Seat 2: yes_man1984 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #184044396234: Tournament #2253523629, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/03/18 17:48:26 ET
+Table '2253523629 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1660 in chips) 
+Seat 2: yes_man1984 (1340 in chips) 
+ollikahn23: posts small blind 10
+yes_man1984: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5s 5c]
+ollikahn23: raises 20 to 40
+yes_man1984: folds 
+Uncalled bet (20) returned to ollikahn23
+ollikahn23 collected 40 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) collected (40)
+Seat 2: yes_man1984 (big blind) folded before Flop
+
+
+
+PokerStars Hand #184044405447: Tournament #2253523629, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/03/18 17:48:37 ET
+Table '2253523629 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1680 in chips) 
+Seat 2: yes_man1984 (1320 in chips) 
+yes_man1984: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Td 6s]
+yes_man1984: raises 60 to 90
+ollikahn23: folds 
+Uncalled bet (60) returned to yes_man1984
+yes_man1984 collected 60 from pot
+yes_man1984: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: ollikahn23 (big blind) folded before Flop
+Seat 2: yes_man1984 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #184044413000: Tournament #2253523629, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/03/18 17:48:45 ET
+Table '2253523629 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1650 in chips) 
+Seat 2: yes_man1984 (1350 in chips) 
+ollikahn23: posts small blind 15
+yes_man1984: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6c Kh]
+ollikahn23: raises 30 to 60
+yes_man1984: calls 30
+*** FLOP *** [Ah 8d 2s]
+yes_man1984: bets 60
+ollikahn23: folds 
+Uncalled bet (60) returned to yes_man1984
+yes_man1984 collected 120 from pot
+yes_man1984: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Ah 8d 2s]
+Seat 1: ollikahn23 (button) (small blind) folded on the Flop
+Seat 2: yes_man1984 (big blind) collected (120)
+
+
+
+PokerStars Hand #184044431158: Tournament #2253523629, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/03/18 17:49:06 ET
+Table '2253523629 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1590 in chips) 
+Seat 2: yes_man1984 (1410 in chips) 
+yes_man1984: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2c 7h]
+yes_man1984: folds 
+Uncalled bet (15) returned to ollikahn23
+ollikahn23 collected 30 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: ollikahn23 (big blind) collected (30)
+Seat 2: yes_man1984 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #184044435652: Tournament #2253523629, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/03/18 17:49:11 ET
+Table '2253523629 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1605 in chips) 
+Seat 2: yes_man1984 (1395 in chips) 
+ollikahn23: posts small blind 15
+yes_man1984: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9s 6s]
+ollikahn23: raises 30 to 60
+yes_man1984: folds 
+Uncalled bet (30) returned to ollikahn23
+ollikahn23 collected 60 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) collected (60)
+Seat 2: yes_man1984 (big blind) folded before Flop
+
+
+
+PokerStars Hand #184044440334: Tournament #2253523629, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/03/18 17:49:16 ET
+Table '2253523629 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1635 in chips) 
+Seat 2: yes_man1984 (1365 in chips) 
+yes_man1984: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2h 3c]
+yes_man1984: raises 30 to 60
+ollikahn23: folds 
+Uncalled bet (30) returned to yes_man1984
+yes_man1984 collected 60 from pot
+yes_man1984: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: ollikahn23 (big blind) folded before Flop
+Seat 2: yes_man1984 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #184044445704: Tournament #2253523629, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/03/18 17:49:22 ET
+Table '2253523629 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1605 in chips) 
+Seat 2: yes_man1984 (1395 in chips) 
+ollikahn23: posts small blind 15
+yes_man1984: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7h 6s]
+ollikahn23: folds 
+Uncalled bet (15) returned to yes_man1984
+yes_man1984 collected 30 from pot
+yes_man1984: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) folded before Flop
+Seat 2: yes_man1984 (big blind) collected (30)
+
+
+
+PokerStars Hand #184044454171: Tournament #2253523629, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/03/18 17:49:32 ET
+Table '2253523629 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1590 in chips) 
+Seat 2: yes_man1984 (1410 in chips) 
+yes_man1984: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5s Kh]
+yes_man1984: raises 75 to 105
+ollikahn23: folds 
+Uncalled bet (75) returned to yes_man1984
+yes_man1984 collected 60 from pot
+yes_man1984: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: ollikahn23 (big blind) folded before Flop
+Seat 2: yes_man1984 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #184044461101: Tournament #2253523629, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/03/18 17:49:40 ET
+Table '2253523629 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1560 in chips) 
+Seat 2: yes_man1984 (1440 in chips) 
+ollikahn23: posts small blind 15
+yes_man1984: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Tc 8d]
+ollikahn23: folds 
+Uncalled bet (15) returned to yes_man1984
+yes_man1984 collected 30 from pot
+yes_man1984: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) folded before Flop
+Seat 2: yes_man1984 (big blind) collected (30)
+
+
+
+PokerStars Hand #184044466073: Tournament #2253523629, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/03/18 17:49:45 ET
+Table '2253523629 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1545 in chips) 
+Seat 2: yes_man1984 (1455 in chips) 
+yes_man1984: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qc 5s]
+yes_man1984: raises 60 to 90
+ollikahn23: folds 
+Uncalled bet (60) returned to yes_man1984
+yes_man1984 collected 60 from pot
+yes_man1984: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: ollikahn23 (big blind) folded before Flop
+Seat 2: yes_man1984 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #184044477594: Tournament #2253523629, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/03/18 17:49:58 ET
+Table '2253523629 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1515 in chips) 
+Seat 2: yes_man1984 (1485 in chips) 
+ollikahn23: posts small blind 15
+yes_man1984: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6s Js]
+ollikahn23: raises 30 to 60
+yes_man1984: raises 45 to 105
+ollikahn23: calls 45
+*** FLOP *** [Qd 8c 8s]
+yes_man1984: checks 
+ollikahn23: checks 
+*** TURN *** [Qd 8c 8s] [Jh]
+yes_man1984: checks 
+ollikahn23: bets 90
+yes_man1984: calls 90
+*** RIVER *** [Qd 8c 8s Jh] [4d]
+yes_man1984: checks 
+ollikahn23: checks 
+*** SHOW DOWN ***
+yes_man1984: shows [As Th] (a pair of Eights)
+ollikahn23: shows [6s Js] (two pair, Jacks and Eights)
+ollikahn23 collected 390 from pot
+*** SUMMARY ***
+Total pot 390 | Rake 0 
+Board [Qd 8c 8s Jh 4d]
+Seat 1: ollikahn23 (button) (small blind) showed [6s Js] and won (390) with two pair, Jacks and Eights
+Seat 2: yes_man1984 (big blind) showed [As Th] and lost with a pair of Eights
+
+
+
+PokerStars Hand #184044513220: Tournament #2253523629, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/03/18 17:50:38 ET
+Table '2253523629 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1710 in chips) 
+Seat 2: yes_man1984 (1290 in chips) 
+yes_man1984: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2s Jd]
+yes_man1984: raises 30 to 60
+ollikahn23: folds 
+Uncalled bet (30) returned to yes_man1984
+yes_man1984 collected 60 from pot
+yes_man1984: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: ollikahn23 (big blind) folded before Flop
+Seat 2: yes_man1984 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #184044520765: Tournament #2253523629, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/03/18 17:50:47 ET
+Table '2253523629 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1680 in chips) 
+Seat 2: yes_man1984 (1320 in chips) 
+ollikahn23: posts small blind 15
+yes_man1984: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3s 2s]
+ollikahn23: folds 
+Uncalled bet (15) returned to yes_man1984
+yes_man1984 collected 30 from pot
+yes_man1984: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) folded before Flop
+Seat 2: yes_man1984 (big blind) collected (30)
+
+
+
+PokerStars Hand #184044528718: Tournament #2253523629, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/03/18 17:50:56 ET
+Table '2253523629 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1665 in chips) 
+Seat 2: yes_man1984 (1335 in chips) 
+yes_man1984: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6c 7h]
+yes_man1984: raises 30 to 60
+ollikahn23: folds 
+Uncalled bet (30) returned to yes_man1984
+yes_man1984 collected 60 from pot
+yes_man1984: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: ollikahn23 (big blind) folded before Flop
+Seat 2: yes_man1984 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #184044535115: Tournament #2253523629, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/03/18 17:51:03 ET
+Table '2253523629 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1635 in chips) 
+Seat 2: yes_man1984 (1365 in chips) 
+ollikahn23: posts small blind 15
+yes_man1984: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ac 2d]
+ollikahn23: raises 30 to 60
+yes_man1984: calls 30
+*** FLOP *** [8s 2h Jd]
+yes_man1984: checks 
+ollikahn23: bets 60
+yes_man1984: calls 60
+*** TURN *** [8s 2h Jd] [Qs]
+yes_man1984: bets 120
+ollikahn23: raises 150 to 270
+yes_man1984: calls 150
+*** RIVER *** [8s 2h Jd Qs] [Ts]
+yes_man1984: checks 
+ollikahn23: checks 
+*** SHOW DOWN ***
+yes_man1984: shows [Qd Th] (two pair, Queens and Tens)
+ollikahn23: mucks hand 
+yes_man1984 collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | Rake 0 
+Board [8s 2h Jd Qs Ts]
+Seat 1: ollikahn23 (button) (small blind) mucked [Ac 2d]
+Seat 2: yes_man1984 (big blind) showed [Qd Th] and won (780) with two pair, Queens and Tens
+
+
+
+PokerStars Hand #184044565204: Tournament #2253523629, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/03/18 17:51:37 ET
+Table '2253523629 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1245 in chips) 
+Seat 2: yes_man1984 (1755 in chips) 
+yes_man1984: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kh Qs]
+yes_man1984: folds 
+Uncalled bet (15) returned to ollikahn23
+ollikahn23 collected 30 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: ollikahn23 (big blind) collected (30)
+Seat 2: yes_man1984 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #184044570199: Tournament #2253523629, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/03/18 17:51:43 ET
+Table '2253523629 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1260 in chips) 
+Seat 2: yes_man1984 (1740 in chips) 
+ollikahn23: posts small blind 15
+yes_man1984: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Tc Qh]
+ollikahn23: raises 30 to 60
+yes_man1984: folds 
+Uncalled bet (30) returned to ollikahn23
+ollikahn23 collected 60 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) collected (60)
+Seat 2: yes_man1984 (big blind) folded before Flop
+
+
+
+PokerStars Hand #184044580446: Tournament #2253523629, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/03/18 17:51:55 ET
+Table '2253523629 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1290 in chips) 
+Seat 2: yes_man1984 (1710 in chips) 
+yes_man1984: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6d 5d]
+yes_man1984: raises 75 to 105
+ollikahn23: calls 75
+*** FLOP *** [5c Qd As]
+ollikahn23: checks 
+yes_man1984: bets 105
+ollikahn23: calls 105
+*** TURN *** [5c Qd As] [2d]
+ollikahn23: checks 
+yes_man1984: bets 240
+ollikahn23: raises 840 to 1080 and is all-in
+yes_man1984: calls 840
+*** RIVER *** [5c Qd As 2d] [3s]
+*** SHOW DOWN ***
+ollikahn23: shows [6d 5d] (a pair of Fives)
+yes_man1984: shows [Kh Ac] (a pair of Aces)
+yes_man1984 collected 2580 from pot
+ollikahn23 finished the tournament in 2nd place
+yes_man1984 wins the tournament and receives $2.76 - congratulations!
+*** SUMMARY ***
+Total pot 2580 | Rake 0 
+Board [5c Qd As 2d 3s]
+Seat 1: ollikahn23 (big blind) showed [6d 5d] and lost with a pair of Fives
+Seat 2: yes_man1984 (button) (small blind) showed [Kh Ac] and won (2580) with a pair of Aces
+
+
+

@@ -1,0 +1,2048 @@
+﻿PokerStars Hand #185451552007: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/20 8:22:13 ET
+Table '2284087185 1' 2-max Seat #1 is the button
+Seat 1: ryant 70 (1500 in chips) 
+Seat 2: ollikahn23 (1500 in chips) 
+ryant 70: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8c Ah]
+ryant 70: raises 40 to 60
+ollikahn23: calls 40
+*** FLOP *** [Qc Jd 7h]
+ollikahn23: checks 
+ryant 70: bets 40
+ollikahn23: folds 
+Uncalled bet (40) returned to ryant 70
+ryant 70 collected 120 from pot
+ryant 70: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Qc Jd 7h]
+Seat 1: ryant 70 (button) (small blind) collected (120)
+Seat 2: ollikahn23 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #185451557667: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/20 8:22:27 ET
+Table '2284087185 1' 2-max Seat #2 is the button
+Seat 1: ryant 70 (1560 in chips) 
+Seat 2: ollikahn23 (1440 in chips) 
+ollikahn23: posts small blind 10
+ryant 70: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9d 3s]
+ollikahn23: folds 
+Uncalled bet (10) returned to ryant 70
+ryant 70 collected 20 from pot
+ryant 70: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: ryant 70 (big blind) collected (20)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185451559712: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/20 8:22:32 ET
+Table '2284087185 1' 2-max Seat #1 is the button
+Seat 1: ryant 70 (1570 in chips) 
+Seat 2: ollikahn23 (1430 in chips) 
+ryant 70: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6d 6c]
+ryant 70: raises 40 to 60
+ollikahn23: calls 40
+*** FLOP *** [8s 3c 5s]
+ollikahn23: checks 
+ryant 70: bets 40
+ollikahn23: raises 60 to 100
+ryant 70: calls 60
+*** TURN *** [8s 3c 5s] [4h]
+ollikahn23: bets 180
+ryant 70: folds 
+Uncalled bet (180) returned to ollikahn23
+ollikahn23 collected 320 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [8s 3c 5s 4h]
+Seat 1: ryant 70 (button) (small blind) folded on the Turn
+Seat 2: ollikahn23 (big blind) collected (320)
+
+
+
+PokerStars Hand #185451567519: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/20 8:22:51 ET
+Table '2284087185 1' 2-max Seat #2 is the button
+Seat 1: ryant 70 (1410 in chips) 
+Seat 2: ollikahn23 (1590 in chips) 
+ollikahn23: posts small blind 10
+ryant 70: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7s 4d]
+ollikahn23: folds 
+Uncalled bet (10) returned to ryant 70
+ryant 70 collected 20 from pot
+ryant 70: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: ryant 70 (big blind) collected (20)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185451569664: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/20 8:22:55 ET
+Table '2284087185 1' 2-max Seat #1 is the button
+Seat 1: ryant 70 (1420 in chips) 
+Seat 2: ollikahn23 (1580 in chips) 
+ryant 70: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9h 4c]
+ryant 70: raises 40 to 60
+ollikahn23: folds 
+Uncalled bet (40) returned to ryant 70
+ryant 70 collected 40 from pot
+ryant 70: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ryant 70 (button) (small blind) collected (40)
+Seat 2: ollikahn23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #185451572122: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/20 8:23:01 ET
+Table '2284087185 1' 2-max Seat #2 is the button
+Seat 1: ryant 70 (1440 in chips) 
+Seat 2: ollikahn23 (1560 in chips) 
+ollikahn23: posts small blind 10
+ryant 70: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qh 7c]
+ollikahn23: raises 20 to 40
+ryant 70: calls 20
+*** FLOP *** [2s 6s 2h]
+ryant 70: checks 
+ollikahn23: bets 40
+ryant 70: folds 
+Uncalled bet (40) returned to ollikahn23
+ollikahn23 collected 80 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [2s 6s 2h]
+Seat 1: ryant 70 (big blind) folded on the Flop
+Seat 2: ollikahn23 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #185451576693: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/20 8:23:12 ET
+Table '2284087185 1' 2-max Seat #1 is the button
+Seat 1: ryant 70 (1400 in chips) 
+Seat 2: ollikahn23 (1600 in chips) 
+ryant 70: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ks Qc]
+ryant 70: folds 
+Uncalled bet (10) returned to ollikahn23
+ollikahn23 collected 20 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: ryant 70 (button) (small blind) folded before Flop
+Seat 2: ollikahn23 (big blind) collected (20)
+
+
+
+PokerStars Hand #185451578968: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/20 8:23:18 ET
+Table '2284087185 1' 2-max Seat #2 is the button
+Seat 1: ryant 70 (1390 in chips) 
+Seat 2: ollikahn23 (1610 in chips) 
+ollikahn23: posts small blind 10
+ryant 70: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7h 3h]
+ollikahn23: folds 
+Uncalled bet (10) returned to ryant 70
+ryant 70 collected 20 from pot
+ryant 70: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: ryant 70 (big blind) collected (20)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185451581079: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/20 8:23:23 ET
+Table '2284087185 1' 2-max Seat #1 is the button
+Seat 1: ryant 70 (1400 in chips) 
+Seat 2: ollikahn23 (1600 in chips) 
+ryant 70: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9s Kh]
+ryant 70: folds 
+Uncalled bet (10) returned to ollikahn23
+ollikahn23 collected 20 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: ryant 70 (button) (small blind) folded before Flop
+Seat 2: ollikahn23 (big blind) collected (20)
+
+
+
+PokerStars Hand #185451583326: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/20 8:23:28 ET
+Table '2284087185 1' 2-max Seat #2 is the button
+Seat 1: ryant 70 (1390 in chips) 
+Seat 2: ollikahn23 (1610 in chips) 
+ollikahn23: posts small blind 10
+ryant 70: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [As 5d]
+ollikahn23: raises 20 to 40
+ryant 70: calls 20
+*** FLOP *** [7d 2h Ac]
+ryant 70: checks 
+ollikahn23: checks 
+*** TURN *** [7d 2h Ac] [4c]
+ryant 70: bets 20
+ollikahn23: raises 40 to 60
+ryant 70: calls 40
+*** RIVER *** [7d 2h Ac 4c] [Qs]
+ryant 70: checks 
+ollikahn23: bets 100
+ryant 70: folds 
+Uncalled bet (100) returned to ollikahn23
+ollikahn23 collected 200 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [7d 2h Ac 4c Qs]
+Seat 1: ryant 70 (big blind) folded on the River
+Seat 2: ollikahn23 (button) (small blind) collected (200)
+
+
+
+PokerStars Hand #185451592255: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/20 8:23:50 ET
+Table '2284087185 1' 2-max Seat #1 is the button
+Seat 1: ryant 70 (1290 in chips) 
+Seat 2: ollikahn23 (1710 in chips) 
+ryant 70: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6h Td]
+ryant 70: folds 
+Uncalled bet (10) returned to ollikahn23
+ollikahn23 collected 20 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: ryant 70 (button) (small blind) folded before Flop
+Seat 2: ollikahn23 (big blind) collected (20)
+
+
+
+PokerStars Hand #185451594537: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/20 8:23:55 ET
+Table '2284087185 1' 2-max Seat #2 is the button
+Seat 1: ryant 70 (1280 in chips) 
+Seat 2: ollikahn23 (1720 in chips) 
+ollikahn23: posts small blind 10
+ryant 70: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ah 3h]
+ollikahn23: raises 20 to 40
+ryant 70: calls 20
+*** FLOP *** [7d As 5d]
+ryant 70: checks 
+ollikahn23: bets 40
+ryant 70: folds 
+Uncalled bet (40) returned to ollikahn23
+ollikahn23 collected 80 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [7d As 5d]
+Seat 1: ryant 70 (big blind) folded on the Flop
+Seat 2: ollikahn23 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #185451604216: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/20 8:24:19 ET
+Table '2284087185 1' 2-max Seat #1 is the button
+Seat 1: ryant 70 (1240 in chips) 
+Seat 2: ollikahn23 (1760 in chips) 
+ryant 70: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Td Kc]
+ryant 70: raises 40 to 60
+ollikahn23: calls 40
+*** FLOP *** [9s Ad Kd]
+ollikahn23: checks 
+ryant 70: bets 40
+ollikahn23: calls 40
+*** TURN *** [9s Ad Kd] [Th]
+ollikahn23: checks 
+ryant 70: bets 60
+ollikahn23: raises 80 to 140
+ryant 70: folds 
+Uncalled bet (80) returned to ollikahn23
+ollikahn23 collected 320 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [9s Ad Kd Th]
+Seat 1: ryant 70 (button) (small blind) folded on the Turn
+Seat 2: ollikahn23 (big blind) collected (320)
+
+
+
+PokerStars Hand #185451611699: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/20 8:24:36 ET
+Table '2284087185 1' 2-max Seat #2 is the button
+Seat 1: ryant 70 (1080 in chips) 
+Seat 2: ollikahn23 (1920 in chips) 
+ollikahn23: posts small blind 10
+ryant 70: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5c Qh]
+ollikahn23: folds 
+Uncalled bet (10) returned to ryant 70
+ryant 70 collected 20 from pot
+ryant 70: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: ryant 70 (big blind) collected (20)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185451613676: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/20 8:24:41 ET
+Table '2284087185 1' 2-max Seat #1 is the button
+Seat 1: ryant 70 (1090 in chips) 
+Seat 2: ollikahn23 (1910 in chips) 
+ryant 70: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jd Kc]
+ryant 70: folds 
+Uncalled bet (10) returned to ollikahn23
+ollikahn23 collected 20 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: ryant 70 (button) (small blind) folded before Flop
+Seat 2: ollikahn23 (big blind) collected (20)
+
+
+
+PokerStars Hand #185451616150: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/20 8:24:47 ET
+Table '2284087185 1' 2-max Seat #2 is the button
+Seat 1: ryant 70 (1080 in chips) 
+Seat 2: ollikahn23 (1920 in chips) 
+ollikahn23: posts small blind 10
+ryant 70: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ad Th]
+ollikahn23: raises 20 to 40
+ryant 70: calls 20
+*** FLOP *** [Qd Ac Kd]
+ryant 70: checks 
+ollikahn23: bets 40
+ryant 70: folds 
+Uncalled bet (40) returned to ollikahn23
+ollikahn23 collected 80 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Qd Ac Kd]
+Seat 1: ryant 70 (big blind) folded on the Flop
+Seat 2: ollikahn23 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #185451620801: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/20 8:24:58 ET
+Table '2284087185 1' 2-max Seat #1 is the button
+Seat 1: ryant 70 (1040 in chips) 
+Seat 2: ollikahn23 (1960 in chips) 
+ryant 70: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7s 7h]
+ryant 70: raises 40 to 60
+ollikahn23: calls 40
+*** FLOP *** [5h 6d Ah]
+ollikahn23: checks 
+ryant 70: bets 40
+ollikahn23: calls 40
+*** TURN *** [5h 6d Ah] [2h]
+ollikahn23: checks 
+ryant 70: checks 
+*** RIVER *** [5h 6d Ah 2h] [Jc]
+ollikahn23: checks 
+ryant 70: checks 
+*** SHOW DOWN ***
+ollikahn23: shows [7s 7h] (a pair of Sevens)
+ryant 70: mucks hand 
+ollikahn23 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [5h 6d Ah 2h Jc]
+Seat 1: ryant 70 (button) (small blind) mucked [8h Qd]
+Seat 2: ollikahn23 (big blind) showed [7s 7h] and won (200) with a pair of Sevens
+
+
+
+PokerStars Hand #185451628484: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/20 8:25:16 ET
+Table '2284087185 1' 2-max Seat #2 is the button
+Seat 1: ryant 70 (940 in chips) 
+Seat 2: ollikahn23 (2060 in chips) 
+ollikahn23: posts small blind 10
+ryant 70: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2c 8h]
+ollikahn23: folds 
+Uncalled bet (10) returned to ryant 70
+ryant 70 collected 20 from pot
+ryant 70: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: ryant 70 (big blind) collected (20)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185451630597: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/20 8:25:21 ET
+Table '2284087185 1' 2-max Seat #1 is the button
+Seat 1: ryant 70 (950 in chips) 
+Seat 2: ollikahn23 (2050 in chips) 
+ryant 70: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5h 6d]
+ryant 70: raises 40 to 60
+ollikahn23: folds 
+Uncalled bet (40) returned to ryant 70
+ryant 70 collected 40 from pot
+ryant 70: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ryant 70 (button) (small blind) collected (40)
+Seat 2: ollikahn23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #185451633468: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/20 8:25:28 ET
+Table '2284087185 1' 2-max Seat #2 is the button
+Seat 1: ryant 70 (970 in chips) 
+Seat 2: ollikahn23 (2030 in chips) 
+ollikahn23: posts small blind 10
+ryant 70: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5c 8s]
+ollikahn23: folds 
+Uncalled bet (10) returned to ryant 70
+ryant 70 collected 20 from pot
+ryant 70: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: ryant 70 (big blind) collected (20)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185451636420: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/20 8:25:35 ET
+Table '2284087185 1' 2-max Seat #1 is the button
+Seat 1: ryant 70 (980 in chips) 
+Seat 2: ollikahn23 (2020 in chips) 
+ryant 70: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qh 9c]
+ryant 70: folds 
+Uncalled bet (10) returned to ollikahn23
+ollikahn23 collected 20 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: ryant 70 (button) (small blind) folded before Flop
+Seat 2: ollikahn23 (big blind) collected (20)
+
+
+
+PokerStars Hand #185451638673: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/20 8:25:41 ET
+Table '2284087185 1' 2-max Seat #2 is the button
+Seat 1: ryant 70 (970 in chips) 
+Seat 2: ollikahn23 (2030 in chips) 
+ollikahn23: posts small blind 10
+ryant 70: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7h Qc]
+ollikahn23: raises 20 to 40
+ryant 70: calls 20
+*** FLOP *** [Jh 4h Kh]
+ryant 70: checks 
+ollikahn23: bets 40
+ryant 70: folds 
+Uncalled bet (40) returned to ollikahn23
+ollikahn23 collected 80 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Jh 4h Kh]
+Seat 1: ryant 70 (big blind) folded on the Flop
+Seat 2: ollikahn23 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #185451646160: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/20 8:25:59 ET
+Table '2284087185 1' 2-max Seat #1 is the button
+Seat 1: ryant 70 (930 in chips) 
+Seat 2: ollikahn23 (2070 in chips) 
+ryant 70: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6h 4c]
+ryant 70: raises 40 to 60
+ollikahn23: folds 
+Uncalled bet (40) returned to ryant 70
+ryant 70 collected 40 from pot
+ryant 70: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ryant 70 (button) (small blind) collected (40)
+Seat 2: ollikahn23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #185451648987: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/20 8:26:05 ET
+Table '2284087185 1' 2-max Seat #2 is the button
+Seat 1: ryant 70 (950 in chips) 
+Seat 2: ollikahn23 (2050 in chips) 
+ollikahn23: posts small blind 10
+ryant 70: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [As 9s]
+ollikahn23: raises 20 to 40
+ryant 70: calls 20
+*** FLOP *** [2h Ad Ac]
+ryant 70: checks 
+ollikahn23: bets 40
+ryant 70: folds 
+Uncalled bet (40) returned to ollikahn23
+ollikahn23 collected 80 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [2h Ad Ac]
+Seat 1: ryant 70 (big blind) folded on the Flop
+Seat 2: ollikahn23 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #185451654014: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/20 8:26:17 ET
+Table '2284087185 1' 2-max Seat #1 is the button
+Seat 1: ryant 70 (910 in chips) 
+Seat 2: ollikahn23 (2090 in chips) 
+ryant 70: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8h 2c]
+ryant 70: raises 40 to 60
+ollikahn23: folds 
+Uncalled bet (40) returned to ryant 70
+ryant 70 collected 40 from pot
+ryant 70: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ryant 70 (button) (small blind) collected (40)
+Seat 2: ollikahn23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #185451656870: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/20 8:26:24 ET
+Table '2284087185 1' 2-max Seat #2 is the button
+Seat 1: ryant 70 (930 in chips) 
+Seat 2: ollikahn23 (2070 in chips) 
+ollikahn23: posts small blind 10
+ryant 70: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4s 2d]
+ollikahn23: folds 
+Uncalled bet (10) returned to ryant 70
+ryant 70 collected 20 from pot
+ryant 70: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: ryant 70 (big blind) collected (20)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185451658925: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/20 8:26:29 ET
+Table '2284087185 1' 2-max Seat #1 is the button
+Seat 1: ryant 70 (940 in chips) 
+Seat 2: ollikahn23 (2060 in chips) 
+ryant 70: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8h 5d]
+ryant 70: raises 40 to 60
+ollikahn23: folds 
+Uncalled bet (40) returned to ryant 70
+ryant 70 collected 40 from pot
+ryant 70: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ryant 70 (button) (small blind) collected (40)
+Seat 2: ollikahn23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #185451661447: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/20 8:26:35 ET
+Table '2284087185 1' 2-max Seat #2 is the button
+Seat 1: ryant 70 (960 in chips) 
+Seat 2: ollikahn23 (2040 in chips) 
+ollikahn23: posts small blind 10
+ryant 70: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3s 7s]
+ollikahn23: folds 
+Uncalled bet (10) returned to ryant 70
+ryant 70 collected 20 from pot
+ryant 70: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: ryant 70 (big blind) collected (20)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185451663665: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/20 8:26:41 ET
+Table '2284087185 1' 2-max Seat #1 is the button
+Seat 1: ryant 70 (970 in chips) 
+Seat 2: ollikahn23 (2030 in chips) 
+ryant 70: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5h 5s]
+ryant 70: raises 40 to 60
+ollikahn23: calls 40
+*** FLOP *** [Qd 3h Jc]
+ollikahn23: checks 
+ryant 70: bets 40
+ollikahn23: calls 40
+*** TURN *** [Qd 3h Jc] [2h]
+ollikahn23: checks 
+ryant 70: checks 
+*** RIVER *** [Qd 3h Jc 2h] [9c]
+ollikahn23: checks 
+ryant 70: checks 
+*** SHOW DOWN ***
+ollikahn23: shows [5h 5s] (a pair of Fives)
+ryant 70: mucks hand 
+ollikahn23 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [Qd 3h Jc 2h 9c]
+Seat 1: ryant 70 (button) (small blind) mucked [8d 4c]
+Seat 2: ollikahn23 (big blind) showed [5h 5s] and won (200) with a pair of Fives
+
+
+
+PokerStars Hand #185451670997: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/20 8:26:58 ET
+Table '2284087185 1' 2-max Seat #2 is the button
+Seat 1: ryant 70 (870 in chips) 
+Seat 2: ollikahn23 (2130 in chips) 
+ollikahn23: posts small blind 10
+ryant 70: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2h 6d]
+ollikahn23: folds 
+Uncalled bet (10) returned to ryant 70
+ryant 70 collected 20 from pot
+ryant 70: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: ryant 70 (big blind) collected (20)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185451673236: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/20 8:27:04 ET
+Table '2284087185 1' 2-max Seat #1 is the button
+Seat 1: ryant 70 (880 in chips) 
+Seat 2: ollikahn23 (2120 in chips) 
+ryant 70: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Th 8c]
+ryant 70: raises 40 to 60
+ollikahn23: folds 
+Uncalled bet (40) returned to ryant 70
+ryant 70 collected 40 from pot
+ryant 70: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ryant 70 (button) (small blind) collected (40)
+Seat 2: ollikahn23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #185451677156: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/20 8:27:13 ET
+Table '2284087185 1' 2-max Seat #2 is the button
+Seat 1: ryant 70 (900 in chips) 
+Seat 2: ollikahn23 (2100 in chips) 
+ollikahn23: posts small blind 10
+ryant 70: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ac Ad]
+ollikahn23: raises 20 to 40
+ryant 70: calls 20
+*** FLOP *** [Qd 9c Jc]
+ryant 70: checks 
+ollikahn23: bets 60
+ryant 70: folds 
+Uncalled bet (60) returned to ollikahn23
+ollikahn23 collected 80 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Qd 9c Jc]
+Seat 1: ryant 70 (big blind) folded on the Flop
+Seat 2: ollikahn23 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #185451681900: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/20 8:27:25 ET
+Table '2284087185 1' 2-max Seat #1 is the button
+Seat 1: ryant 70 (860 in chips) 
+Seat 2: ollikahn23 (2140 in chips) 
+ryant 70: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7c 6c]
+ryant 70: raises 40 to 60
+ollikahn23: calls 40
+*** FLOP *** [7d 5d 7h]
+ollikahn23: checks 
+ryant 70: bets 40
+ollikahn23: calls 40
+*** TURN *** [7d 5d 7h] [Ts]
+ollikahn23: bets 100
+ryant 70: calls 100
+*** RIVER *** [7d 5d 7h Ts] [2h]
+ollikahn23: bets 200
+ryant 70: folds 
+Uncalled bet (200) returned to ollikahn23
+ollikahn23 collected 400 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [7d 5d 7h Ts 2h]
+Seat 1: ryant 70 (button) (small blind) folded on the River
+Seat 2: ollikahn23 (big blind) collected (400)
+
+
+
+PokerStars Hand #185451690686: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/20 8:27:46 ET
+Table '2284087185 1' 2-max Seat #2 is the button
+Seat 1: ryant 70 (660 in chips) 
+Seat 2: ollikahn23 (2340 in chips) 
+ollikahn23: posts small blind 10
+ryant 70: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7c Kh]
+ollikahn23: raises 20 to 40
+ryant 70: calls 20
+*** FLOP *** [2h Jh 5d]
+ryant 70: checks 
+ollikahn23: bets 40
+ryant 70: calls 40
+*** TURN *** [2h Jh 5d] [7h]
+ryant 70: checks 
+ollikahn23: bets 100
+ryant 70: folds 
+Uncalled bet (100) returned to ollikahn23
+ollikahn23 collected 160 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [2h Jh 5d 7h]
+Seat 1: ryant 70 (big blind) folded on the Turn
+Seat 2: ollikahn23 (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #185451698234: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/20 8:28:04 ET
+Table '2284087185 1' 2-max Seat #1 is the button
+Seat 1: ryant 70 (580 in chips) 
+Seat 2: ollikahn23 (2420 in chips) 
+ryant 70: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qc 3c]
+ryant 70: raises 40 to 60
+ollikahn23: calls 40
+*** FLOP *** [Jh 8d As]
+ollikahn23: checks 
+ryant 70: bets 40
+ollikahn23: folds 
+Uncalled bet (40) returned to ryant 70
+ryant 70 collected 120 from pot
+ryant 70: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Jh 8d As]
+Seat 1: ryant 70 (button) (small blind) collected (120)
+Seat 2: ollikahn23 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #185451703040: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/04/20 8:28:15 ET
+Table '2284087185 1' 2-max Seat #2 is the button
+Seat 1: ryant 70 (640 in chips) 
+Seat 2: ollikahn23 (2360 in chips) 
+ollikahn23: posts small blind 10
+ryant 70: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qc Jh]
+ollikahn23: raises 20 to 40
+ryant 70: folds 
+Uncalled bet (20) returned to ollikahn23
+ollikahn23 collected 40 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ryant 70 (big blind) folded before Flop
+Seat 2: ollikahn23 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #185451706582: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/20 8:28:24 ET
+Table '2284087185 1' 2-max Seat #1 is the button
+Seat 1: ryant 70 (620 in chips) 
+Seat 2: ollikahn23 (2380 in chips) 
+ryant 70: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qc 7h]
+ryant 70: raises 30 to 60
+ollikahn23: folds 
+Uncalled bet (30) returned to ryant 70
+ryant 70 collected 60 from pot
+ryant 70: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: ryant 70 (button) (small blind) collected (60)
+Seat 2: ollikahn23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #185451709339: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/20 8:28:30 ET
+Table '2284087185 1' 2-max Seat #2 is the button
+Seat 1: ryant 70 (650 in chips) 
+Seat 2: ollikahn23 (2350 in chips) 
+ollikahn23: posts small blind 15
+ryant 70: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4h 8h]
+ollikahn23: folds 
+Uncalled bet (15) returned to ryant 70
+ryant 70 collected 30 from pot
+ryant 70: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: ryant 70 (big blind) collected (30)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185451711453: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/20 8:28:36 ET
+Table '2284087185 1' 2-max Seat #1 is the button
+Seat 1: ryant 70 (665 in chips) 
+Seat 2: ollikahn23 (2335 in chips) 
+ryant 70: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8s 5s]
+ryant 70: folds 
+Uncalled bet (15) returned to ollikahn23
+ollikahn23 collected 30 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: ryant 70 (button) (small blind) folded before Flop
+Seat 2: ollikahn23 (big blind) collected (30)
+
+
+
+PokerStars Hand #185451713749: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/20 8:28:41 ET
+Table '2284087185 1' 2-max Seat #2 is the button
+Seat 1: ryant 70 (650 in chips) 
+Seat 2: ollikahn23 (2350 in chips) 
+ollikahn23: posts small blind 15
+ryant 70: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kh 6s]
+ollikahn23: raises 30 to 60
+ryant 70: folds 
+Uncalled bet (30) returned to ollikahn23
+ollikahn23 collected 60 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: ryant 70 (big blind) folded before Flop
+Seat 2: ollikahn23 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #185451717277: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/20 8:28:49 ET
+Table '2284087185 1' 2-max Seat #1 is the button
+Seat 1: ryant 70 (620 in chips) 
+Seat 2: ollikahn23 (2380 in chips) 
+ryant 70: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3c 8d]
+ryant 70: raises 30 to 60
+ollikahn23: folds 
+Uncalled bet (30) returned to ryant 70
+ryant 70 collected 60 from pot
+ryant 70: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: ryant 70 (button) (small blind) collected (60)
+Seat 2: ollikahn23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #185451720308: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/20 8:28:56 ET
+Table '2284087185 1' 2-max Seat #2 is the button
+Seat 1: ryant 70 (650 in chips) 
+Seat 2: ollikahn23 (2350 in chips) 
+ollikahn23: posts small blind 15
+ryant 70: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8d 7h]
+ollikahn23: raises 30 to 60
+ryant 70: folds 
+Uncalled bet (30) returned to ollikahn23
+ollikahn23 collected 60 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: ryant 70 (big blind) folded before Flop
+Seat 2: ollikahn23 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #185451722877: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/20 8:29:03 ET
+Table '2284087185 1' 2-max Seat #1 is the button
+Seat 1: ryant 70 (620 in chips) 
+Seat 2: ollikahn23 (2380 in chips) 
+ryant 70: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4d 2h]
+ryant 70: raises 30 to 60
+ollikahn23: folds 
+Uncalled bet (30) returned to ryant 70
+ryant 70 collected 60 from pot
+ryant 70: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: ryant 70 (button) (small blind) collected (60)
+Seat 2: ollikahn23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #185451726365: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/20 8:29:11 ET
+Table '2284087185 1' 2-max Seat #2 is the button
+Seat 1: ryant 70 (650 in chips) 
+Seat 2: ollikahn23 (2350 in chips) 
+ollikahn23: posts small blind 15
+ryant 70: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Tc 3c]
+ollikahn23: raises 30 to 60
+ryant 70: raises 590 to 650 and is all-in
+ollikahn23: folds 
+Uncalled bet (590) returned to ryant 70
+ryant 70 collected 120 from pot
+ryant 70: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: ryant 70 (big blind) collected (120)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185451730027: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/20 8:29:20 ET
+Table '2284087185 1' 2-max Seat #1 is the button
+Seat 1: ryant 70 (710 in chips) 
+Seat 2: ollikahn23 (2290 in chips) 
+ryant 70: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3h Tc]
+ryant 70: folds 
+Uncalled bet (15) returned to ollikahn23
+ollikahn23 collected 30 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: ryant 70 (button) (small blind) folded before Flop
+Seat 2: ollikahn23 (big blind) collected (30)
+
+
+
+PokerStars Hand #185451732472: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/20 8:29:25 ET
+Table '2284087185 1' 2-max Seat #2 is the button
+Seat 1: ryant 70 (695 in chips) 
+Seat 2: ollikahn23 (2305 in chips) 
+ollikahn23: posts small blind 15
+ryant 70: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7s 6s]
+ollikahn23: raises 30 to 60
+ryant 70: calls 30
+*** FLOP *** [6h 3d Jd]
+ryant 70: checks 
+ollikahn23: bets 60
+ryant 70: folds 
+Uncalled bet (60) returned to ollikahn23
+ollikahn23 collected 120 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [6h 3d Jd]
+Seat 1: ryant 70 (big blind) folded on the Flop
+Seat 2: ollikahn23 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #185451737357: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/20 8:29:37 ET
+Table '2284087185 1' 2-max Seat #1 is the button
+Seat 1: ryant 70 (635 in chips) 
+Seat 2: ollikahn23 (2365 in chips) 
+ryant 70: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Td 9d]
+ryant 70: raises 30 to 60
+ollikahn23: calls 30
+*** FLOP *** [7h Jh 8h]
+ollikahn23: bets 90
+ryant 70: folds 
+Uncalled bet (90) returned to ollikahn23
+ollikahn23 collected 120 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [7h Jh 8h]
+Seat 1: ryant 70 (button) (small blind) folded on the Flop
+Seat 2: ollikahn23 (big blind) collected (120)
+
+
+
+PokerStars Hand #185451741932: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/20 8:29:48 ET
+Table '2284087185 1' 2-max Seat #2 is the button
+Seat 1: ryant 70 (575 in chips) 
+Seat 2: ollikahn23 (2425 in chips) 
+ollikahn23: posts small blind 15
+ryant 70: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2d 4c]
+ollikahn23: folds 
+Uncalled bet (15) returned to ryant 70
+ryant 70 collected 30 from pot
+ryant 70: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: ryant 70 (big blind) collected (30)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185451744067: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/20 8:29:53 ET
+Table '2284087185 1' 2-max Seat #1 is the button
+Seat 1: ryant 70 (590 in chips) 
+Seat 2: ollikahn23 (2410 in chips) 
+ryant 70: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4c Kh]
+ryant 70: folds 
+Uncalled bet (15) returned to ollikahn23
+ollikahn23 collected 30 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: ryant 70 (button) (small blind) folded before Flop
+Seat 2: ollikahn23 (big blind) collected (30)
+
+
+
+PokerStars Hand #185451746483: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/20 8:29:59 ET
+Table '2284087185 1' 2-max Seat #2 is the button
+Seat 1: ryant 70 (575 in chips) 
+Seat 2: ollikahn23 (2425 in chips) 
+ollikahn23: posts small blind 15
+ryant 70: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qd 6h]
+ollikahn23: raises 30 to 60
+ryant 70: raises 515 to 575 and is all-in
+ollikahn23: folds 
+Uncalled bet (515) returned to ryant 70
+ryant 70 collected 120 from pot
+ryant 70: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: ryant 70 (big blind) collected (120)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185451749726: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/20 8:30:06 ET
+Table '2284087185 1' 2-max Seat #1 is the button
+Seat 1: ryant 70 (635 in chips) 
+Seat 2: ollikahn23 (2365 in chips) 
+ryant 70: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qh 9h]
+ryant 70: raises 30 to 60
+ollikahn23: calls 30
+*** FLOP *** [2d 7h Ad]
+ollikahn23: checks 
+ryant 70: bets 30
+ollikahn23: calls 30
+*** TURN *** [2d 7h Ad] [6d]
+ollikahn23: checks 
+ryant 70: bets 545 and is all-in
+ollikahn23: folds 
+Uncalled bet (545) returned to ryant 70
+ryant 70 collected 180 from pot
+ryant 70: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [2d 7h Ad 6d]
+Seat 1: ryant 70 (button) (small blind) collected (180)
+Seat 2: ollikahn23 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #185451756549: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/20 8:30:22 ET
+Table '2284087185 1' 2-max Seat #2 is the button
+Seat 1: ryant 70 (725 in chips) 
+Seat 2: ollikahn23 (2275 in chips) 
+ollikahn23: posts small blind 15
+ryant 70: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8h 6c]
+ollikahn23: folds 
+Uncalled bet (15) returned to ryant 70
+ryant 70 collected 30 from pot
+ryant 70: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: ryant 70 (big blind) collected (30)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185451758539: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/20 8:30:27 ET
+Table '2284087185 1' 2-max Seat #1 is the button
+Seat 1: ryant 70 (740 in chips) 
+Seat 2: ollikahn23 (2260 in chips) 
+ryant 70: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8s Th]
+ryant 70: raises 30 to 60
+ollikahn23: calls 30
+*** FLOP *** [7s Qc 6h]
+ollikahn23: checks 
+ryant 70: bets 30
+ollikahn23: calls 30
+*** TURN *** [7s Qc 6h] [2s]
+ollikahn23: checks 
+ryant 70: bets 650 and is all-in
+ollikahn23: folds 
+Uncalled bet (650) returned to ryant 70
+ryant 70 collected 180 from pot
+ryant 70: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [7s Qc 6h 2s]
+Seat 1: ryant 70 (button) (small blind) collected (180)
+Seat 2: ollikahn23 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #185451764812: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/20 8:30:42 ET
+Table '2284087185 1' 2-max Seat #2 is the button
+Seat 1: ryant 70 (830 in chips) 
+Seat 2: ollikahn23 (2170 in chips) 
+ollikahn23: posts small blind 15
+ryant 70: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6h 7s]
+ollikahn23: folds 
+Uncalled bet (15) returned to ryant 70
+ryant 70 collected 30 from pot
+ryant 70: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: ryant 70 (big blind) collected (30)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185451766958: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/20 8:30:47 ET
+Table '2284087185 1' 2-max Seat #1 is the button
+Seat 1: ryant 70 (845 in chips) 
+Seat 2: ollikahn23 (2155 in chips) 
+ryant 70: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7s 5s]
+ryant 70: raises 30 to 60
+ollikahn23: calls 30
+*** FLOP *** [7h Qh 9s]
+ollikahn23: checks 
+ryant 70: bets 30
+ollikahn23: calls 30
+*** TURN *** [7h Qh 9s] [Jh]
+ollikahn23: checks 
+ryant 70: checks 
+*** RIVER *** [7h Qh 9s Jh] [3c]
+ollikahn23: checks 
+ryant 70: checks 
+*** SHOW DOWN ***
+ollikahn23: shows [7s 5s] (a pair of Sevens)
+ryant 70: mucks hand 
+ollikahn23 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [7h Qh 9s Jh 3c]
+Seat 1: ryant 70 (button) (small blind) mucked [As 8h]
+Seat 2: ollikahn23 (big blind) showed [7s 5s] and won (180) with a pair of Sevens
+
+
+
+PokerStars Hand #185451773544: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/20 8:31:03 ET
+Table '2284087185 1' 2-max Seat #2 is the button
+Seat 1: ryant 70 (755 in chips) 
+Seat 2: ollikahn23 (2245 in chips) 
+ollikahn23: posts small blind 15
+ryant 70: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7d 5d]
+ollikahn23: raises 30 to 60
+ryant 70: calls 30
+*** FLOP *** [8d 3d 9c]
+ryant 70: checks 
+ollikahn23: bets 60
+ryant 70: raises 635 to 695 and is all-in
+ollikahn23: folds 
+Uncalled bet (635) returned to ryant 70
+ryant 70 collected 240 from pot
+ryant 70: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [8d 3d 9c]
+Seat 1: ryant 70 (big blind) collected (240)
+Seat 2: ollikahn23 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #185451782637: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/20 8:31:25 ET
+Table '2284087185 1' 2-max Seat #1 is the button
+Seat 1: ryant 70 (875 in chips) 
+Seat 2: ollikahn23 (2125 in chips) 
+ryant 70: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2d 2s]
+ryant 70: raises 30 to 60
+ollikahn23: calls 30
+*** FLOP *** [8s 7d 8h]
+ollikahn23: checks 
+ryant 70: bets 30
+ollikahn23: raises 60 to 90
+ryant 70: folds 
+Uncalled bet (60) returned to ollikahn23
+ollikahn23 collected 180 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [8s 7d 8h]
+Seat 1: ryant 70 (button) (small blind) folded on the Flop
+Seat 2: ollikahn23 (big blind) collected (180)
+
+
+
+PokerStars Hand #185451787857: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/20 8:31:37 ET
+Table '2284087185 1' 2-max Seat #2 is the button
+Seat 1: ryant 70 (785 in chips) 
+Seat 2: ollikahn23 (2215 in chips) 
+ollikahn23: posts small blind 15
+ryant 70: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kd Js]
+ollikahn23: raises 30 to 60
+ryant 70: calls 30
+*** FLOP *** [Ah Tc Jc]
+ryant 70: checks 
+ollikahn23: checks 
+*** TURN *** [Ah Tc Jc] [2d]
+ryant 70: bets 30
+ollikahn23: calls 30
+*** RIVER *** [Ah Tc Jc 2d] [2h]
+ryant 70: bets 90
+ollikahn23: calls 90
+*** SHOW DOWN ***
+ryant 70: shows [Qd 3d] (a pair of Deuces)
+ollikahn23: shows [Kd Js] (two pair, Jacks and Deuces)
+ollikahn23 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [Ah Tc Jc 2d 2h]
+Seat 1: ryant 70 (big blind) showed [Qd 3d] and lost with a pair of Deuces
+Seat 2: ollikahn23 (button) (small blind) showed [Kd Js] and won (360) with two pair, Jacks and Deuces
+
+
+
+PokerStars Hand #185451794607: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/20 8:31:53 ET
+Table '2284087185 1' 2-max Seat #1 is the button
+Seat 1: ryant 70 (605 in chips) 
+Seat 2: ollikahn23 (2395 in chips) 
+ryant 70: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7h 5s]
+ryant 70: raises 30 to 60
+ollikahn23: folds 
+Uncalled bet (30) returned to ryant 70
+ryant 70 collected 60 from pot
+ryant 70: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: ryant 70 (button) (small blind) collected (60)
+Seat 2: ollikahn23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #185451797182: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/20 8:32:00 ET
+Table '2284087185 1' 2-max Seat #2 is the button
+Seat 1: ryant 70 (635 in chips) 
+Seat 2: ollikahn23 (2365 in chips) 
+ollikahn23: posts small blind 15
+ryant 70: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8c 7h]
+ollikahn23: folds 
+Uncalled bet (15) returned to ryant 70
+ryant 70 collected 30 from pot
+ryant 70: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: ryant 70 (big blind) collected (30)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185451799526: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/20 8:32:05 ET
+Table '2284087185 1' 2-max Seat #1 is the button
+Seat 1: ryant 70 (650 in chips) 
+Seat 2: ollikahn23 (2350 in chips) 
+ryant 70: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8h Jh]
+ryant 70: folds 
+Uncalled bet (15) returned to ollikahn23
+ollikahn23 collected 30 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: ryant 70 (button) (small blind) folded before Flop
+Seat 2: ollikahn23 (big blind) collected (30)
+
+
+
+PokerStars Hand #185451801753: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/20 8:32:10 ET
+Table '2284087185 1' 2-max Seat #2 is the button
+Seat 1: ryant 70 (635 in chips) 
+Seat 2: ollikahn23 (2365 in chips) 
+ollikahn23: posts small blind 15
+ryant 70: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4h 8h]
+ollikahn23: folds 
+Uncalled bet (15) returned to ryant 70
+ryant 70 collected 30 from pot
+ryant 70: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: ryant 70 (big blind) collected (30)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185451803841: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/20 8:32:15 ET
+Table '2284087185 1' 2-max Seat #1 is the button
+Seat 1: ryant 70 (650 in chips) 
+Seat 2: ollikahn23 (2350 in chips) 
+ryant 70: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qc 9s]
+ryant 70: raises 30 to 60
+ollikahn23: calls 30
+*** FLOP *** [Jd Kh Qh]
+ollikahn23: checks 
+ryant 70: bets 30
+ollikahn23: calls 30
+*** TURN *** [Jd Kh Qh] [8h]
+ollikahn23: checks 
+ryant 70: checks 
+*** RIVER *** [Jd Kh Qh 8h] [6c]
+ollikahn23: bets 90
+ryant 70: folds 
+Uncalled bet (90) returned to ollikahn23
+ollikahn23 collected 180 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Jd Kh Qh 8h 6c]
+Seat 1: ryant 70 (button) (small blind) folded on the River
+Seat 2: ollikahn23 (big blind) collected (180)
+
+
+
+PokerStars Hand #185451811387: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/20 8:32:33 ET
+Table '2284087185 1' 2-max Seat #2 is the button
+Seat 1: ryant 70 (560 in chips) 
+Seat 2: ollikahn23 (2440 in chips) 
+ollikahn23: posts small blind 15
+ryant 70: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2s 8c]
+ollikahn23: folds 
+Uncalled bet (15) returned to ryant 70
+ryant 70 collected 30 from pot
+ryant 70: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: ryant 70 (big blind) collected (30)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185451813419: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/20 8:32:39 ET
+Table '2284087185 1' 2-max Seat #1 is the button
+Seat 1: ryant 70 (575 in chips) 
+Seat 2: ollikahn23 (2425 in chips) 
+ryant 70: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4d 5d]
+ryant 70: raises 30 to 60
+ollikahn23: calls 30
+*** FLOP *** [8d 9h 8h]
+ollikahn23: checks 
+ryant 70: bets 30
+ollikahn23: calls 30
+*** TURN *** [8d 9h 8h] [3h]
+ollikahn23: checks 
+ryant 70: bets 60
+ollikahn23: folds 
+Uncalled bet (60) returned to ryant 70
+ryant 70 collected 180 from pot
+ryant 70: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [8d 9h 8h 3h]
+Seat 1: ryant 70 (button) (small blind) collected (180)
+Seat 2: ollikahn23 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #185451818707: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/20 8:32:51 ET
+Table '2284087185 1' 2-max Seat #2 is the button
+Seat 1: ryant 70 (665 in chips) 
+Seat 2: ollikahn23 (2335 in chips) 
+ollikahn23: posts small blind 15
+ryant 70: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5c 9h]
+ollikahn23: folds 
+Uncalled bet (15) returned to ryant 70
+ryant 70 collected 30 from pot
+ryant 70: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: ryant 70 (big blind) collected (30)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185451820941: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/20 8:32:56 ET
+Table '2284087185 1' 2-max Seat #1 is the button
+Seat 1: ryant 70 (680 in chips) 
+Seat 2: ollikahn23 (2320 in chips) 
+ryant 70: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2s 4h]
+ryant 70: raises 30 to 60
+ollikahn23: folds 
+Uncalled bet (30) returned to ryant 70
+ryant 70 collected 60 from pot
+ryant 70: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: ryant 70 (button) (small blind) collected (60)
+Seat 2: ollikahn23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #185451823497: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/20 8:33:02 ET
+Table '2284087185 1' 2-max Seat #2 is the button
+Seat 1: ryant 70 (710 in chips) 
+Seat 2: ollikahn23 (2290 in chips) 
+ollikahn23: posts small blind 15
+ryant 70: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Th 6d]
+ollikahn23: folds 
+Uncalled bet (15) returned to ryant 70
+ryant 70 collected 30 from pot
+ryant 70: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: ryant 70 (big blind) collected (30)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185451825692: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/20 8:33:08 ET
+Table '2284087185 1' 2-max Seat #1 is the button
+Seat 1: ryant 70 (725 in chips) 
+Seat 2: ollikahn23 (2275 in chips) 
+ryant 70: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jh Qd]
+ryant 70: folds 
+Uncalled bet (15) returned to ollikahn23
+ollikahn23 collected 30 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: ryant 70 (button) (small blind) folded before Flop
+Seat 2: ollikahn23 (big blind) collected (30)
+
+
+
+PokerStars Hand #185451828095: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/20 8:33:13 ET
+Table '2284087185 1' 2-max Seat #2 is the button
+Seat 1: ryant 70 (710 in chips) 
+Seat 2: ollikahn23 (2290 in chips) 
+ollikahn23: posts small blind 15
+ryant 70: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5c 7s]
+ollikahn23: folds 
+Uncalled bet (15) returned to ryant 70
+ryant 70 collected 30 from pot
+ryant 70: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: ryant 70 (big blind) collected (30)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185451830336: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/20 8:33:18 ET
+Table '2284087185 1' 2-max Seat #1 is the button
+Seat 1: ryant 70 (725 in chips) 
+Seat 2: ollikahn23 (2275 in chips) 
+ryant 70: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5c Kd]
+ryant 70: raises 30 to 60
+ollikahn23: folds 
+Uncalled bet (30) returned to ryant 70
+ryant 70 collected 60 from pot
+ryant 70: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: ryant 70 (button) (small blind) collected (60)
+Seat 2: ollikahn23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #185451833135: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/20 8:33:25 ET
+Table '2284087185 1' 2-max Seat #2 is the button
+Seat 1: ryant 70 (755 in chips) 
+Seat 2: ollikahn23 (2245 in chips) 
+ollikahn23: posts small blind 15
+ryant 70: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5d 2h]
+ollikahn23: folds 
+Uncalled bet (15) returned to ryant 70
+ryant 70 collected 30 from pot
+ryant 70: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: ryant 70 (big blind) collected (30)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185451837335: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/20 8:33:35 ET
+Table '2284087185 1' 2-max Seat #1 is the button
+Seat 1: ryant 70 (770 in chips) 
+Seat 2: ollikahn23 (2230 in chips) 
+ryant 70: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4h 5s]
+ryant 70: raises 30 to 60
+ollikahn23: folds 
+Uncalled bet (30) returned to ryant 70
+ryant 70 collected 60 from pot
+ryant 70: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: ryant 70 (button) (small blind) collected (60)
+Seat 2: ollikahn23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #185451840079: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/20 8:33:41 ET
+Table '2284087185 1' 2-max Seat #2 is the button
+Seat 1: ryant 70 (800 in chips) 
+Seat 2: ollikahn23 (2200 in chips) 
+ollikahn23: posts small blind 15
+ryant 70: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7c 3d]
+ollikahn23: folds 
+Uncalled bet (15) returned to ryant 70
+ryant 70 collected 30 from pot
+ryant 70: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: ryant 70 (big blind) collected (30)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185451844617: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/20 8:33:52 ET
+Table '2284087185 1' 2-max Seat #1 is the button
+Seat 1: ryant 70 (815 in chips) 
+Seat 2: ollikahn23 (2185 in chips) 
+ryant 70: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Td 3s]
+ryant 70: raises 30 to 60
+ollikahn23: folds 
+Uncalled bet (30) returned to ryant 70
+ryant 70 collected 60 from pot
+ryant 70: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: ryant 70 (button) (small blind) collected (60)
+Seat 2: ollikahn23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #185451847625: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/20 8:33:59 ET
+Table '2284087185 1' 2-max Seat #2 is the button
+Seat 1: ryant 70 (845 in chips) 
+Seat 2: ollikahn23 (2155 in chips) 
+ollikahn23: posts small blind 15
+ryant 70: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qh Kd]
+ollikahn23: raises 30 to 60
+ryant 70: folds 
+Uncalled bet (30) returned to ollikahn23
+ollikahn23 collected 60 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: ryant 70 (big blind) folded before Flop
+Seat 2: ollikahn23 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #185451850577: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/04/20 8:34:06 ET
+Table '2284087185 1' 2-max Seat #1 is the button
+Seat 1: ryant 70 (815 in chips) 
+Seat 2: ollikahn23 (2185 in chips) 
+ryant 70: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8h As]
+ryant 70: raises 30 to 60
+ollikahn23: calls 30
+*** FLOP *** [4h 3d Jc]
+ollikahn23: checks 
+ryant 70: bets 30
+ollikahn23: calls 30
+*** TURN *** [4h 3d Jc] [2s]
+ollikahn23: checks 
+ryant 70: checks 
+*** RIVER *** [4h 3d Jc 2s] [Qs]
+ollikahn23: bets 90
+ryant 70: folds 
+Uncalled bet (90) returned to ollikahn23
+ollikahn23 collected 180 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [4h 3d Jc 2s Qs]
+Seat 1: ryant 70 (button) (small blind) folded on the River
+Seat 2: ollikahn23 (big blind) collected (180)
+
+
+
+PokerStars Hand #185451870070: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/04/20 8:34:52 ET
+Table '2284087185 1' 2-max Seat #2 is the button
+Seat 1: ryant 70 (725 in chips) 
+Seat 2: ollikahn23 (2275 in chips) 
+ollikahn23: posts small blind 20
+ryant 70: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2s 3d]
+ollikahn23: folds 
+Uncalled bet (20) returned to ryant 70
+ryant 70 collected 40 from pot
+ryant 70: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ryant 70 (big blind) collected (40)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185451872265: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/04/20 8:34:57 ET
+Table '2284087185 1' 2-max Seat #1 is the button
+Seat 1: ryant 70 (745 in chips) 
+Seat 2: ollikahn23 (2255 in chips) 
+ryant 70: posts small blind 20
+ollikahn23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4d 5d]
+ryant 70: raises 40 to 80
+ollikahn23: calls 40
+*** FLOP *** [Kh Qs Td]
+ollikahn23: checks 
+ryant 70: bets 40
+ollikahn23: folds 
+Uncalled bet (40) returned to ryant 70
+ryant 70 collected 160 from pot
+ryant 70: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Kh Qs Td]
+Seat 1: ryant 70 (button) (small blind) collected (160)
+Seat 2: ollikahn23 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #185451876840: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/04/20 8:35:08 ET
+Table '2284087185 1' 2-max Seat #2 is the button
+Seat 1: ryant 70 (825 in chips) 
+Seat 2: ollikahn23 (2175 in chips) 
+ollikahn23: posts small blind 20
+ryant 70: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6d 3s]
+ollikahn23: folds 
+Uncalled bet (20) returned to ryant 70
+ryant 70 collected 40 from pot
+ryant 70: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ryant 70 (big blind) collected (40)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185451879160: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/04/20 8:35:13 ET
+Table '2284087185 1' 2-max Seat #1 is the button
+Seat 1: ryant 70 (845 in chips) 
+Seat 2: ollikahn23 (2155 in chips) 
+ryant 70: posts small blind 20
+ollikahn23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kc 4h]
+ryant 70: raises 40 to 80
+ollikahn23: calls 40
+*** FLOP *** [3s 8c 2d]
+ollikahn23: checks 
+ryant 70: bets 40
+ollikahn23: calls 40
+*** TURN *** [3s 8c 2d] [9c]
+ollikahn23: bets 80
+ryant 70: calls 80
+*** RIVER *** [3s 8c 2d 9c] [Jh]
+ollikahn23: bets 160
+ryant 70: calls 160
+*** SHOW DOWN ***
+ollikahn23: shows [Kc 4h] (high card King)
+ryant 70: shows [7d 8h] (a pair of Eights)
+ryant 70 collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | Rake 0 
+Board [3s 8c 2d 9c Jh]
+Seat 1: ryant 70 (button) (small blind) showed [7d 8h] and won (720) with a pair of Eights
+Seat 2: ollikahn23 (big blind) showed [Kc 4h] and lost with high card King
+
+
+
+PokerStars Hand #185451889662: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/04/20 8:35:38 ET
+Table '2284087185 1' 2-max Seat #2 is the button
+Seat 1: ryant 70 (1205 in chips) 
+Seat 2: ollikahn23 (1795 in chips) 
+ollikahn23: posts small blind 20
+ryant 70: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6s 9h]
+ollikahn23: folds 
+Uncalled bet (20) returned to ryant 70
+ryant 70 collected 40 from pot
+ryant 70: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ryant 70 (big blind) collected (40)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185451891894: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/04/20 8:35:43 ET
+Table '2284087185 1' 2-max Seat #1 is the button
+Seat 1: ryant 70 (1225 in chips) 
+Seat 2: ollikahn23 (1775 in chips) 
+ryant 70: posts small blind 20
+ollikahn23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qh 9c]
+ryant 70: raises 40 to 80
+ollikahn23: calls 40
+*** FLOP *** [Ts Qc 6c]
+ollikahn23: checks 
+ryant 70: bets 40
+ollikahn23: raises 80 to 120
+ryant 70: calls 80
+*** TURN *** [Ts Qc 6c] [2s]
+ollikahn23: bets 160
+ryant 70: folds 
+Uncalled bet (160) returned to ollikahn23
+ollikahn23 collected 400 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [Ts Qc 6c 2s]
+Seat 1: ryant 70 (button) (small blind) folded on the Turn
+Seat 2: ollikahn23 (big blind) collected (400)
+
+
+
+PokerStars Hand #185451902217: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/04/20 8:36:08 ET
+Table '2284087185 1' 2-max Seat #2 is the button
+Seat 1: ryant 70 (1025 in chips) 
+Seat 2: ollikahn23 (1975 in chips) 
+ollikahn23: posts small blind 20
+ryant 70: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Td 2h]
+ollikahn23: folds 
+Uncalled bet (20) returned to ryant 70
+ryant 70 collected 40 from pot
+ryant 70: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ryant 70 (big blind) collected (40)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185451904355: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/04/20 8:36:13 ET
+Table '2284087185 1' 2-max Seat #1 is the button
+Seat 1: ryant 70 (1045 in chips) 
+Seat 2: ollikahn23 (1955 in chips) 
+ryant 70: posts small blind 20
+ollikahn23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6s 9s]
+ryant 70: raises 40 to 80
+ollikahn23: calls 40
+*** FLOP *** [4h 5s Jd]
+ollikahn23: checks 
+ryant 70: bets 40
+ollikahn23: calls 40
+*** TURN *** [4h 5s Jd] [8s]
+ollikahn23: bets 120
+ryant 70: calls 120
+*** RIVER *** [4h 5s Jd 8s] [8c]
+ollikahn23: checks 
+ryant 70: bets 240
+ollikahn23: folds 
+Uncalled bet (240) returned to ryant 70
+ryant 70 collected 480 from pot
+ryant 70: doesn't show hand 
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [4h 5s Jd 8s 8c]
+Seat 1: ryant 70 (button) (small blind) collected (480)
+Seat 2: ollikahn23 (big blind) folded on the River
+
+
+
+PokerStars Hand #185451917039: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/04/20 8:36:43 ET
+Table '2284087185 1' 2-max Seat #2 is the button
+Seat 1: ryant 70 (1285 in chips) 
+Seat 2: ollikahn23 (1715 in chips) 
+ollikahn23: posts small blind 20
+ryant 70: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5h 7c]
+ollikahn23: folds 
+Uncalled bet (20) returned to ryant 70
+ryant 70 collected 40 from pot
+ryant 70: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ryant 70 (big blind) collected (40)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185451919464: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/04/20 8:36:49 ET
+Table '2284087185 1' 2-max Seat #1 is the button
+Seat 1: ryant 70 (1305 in chips) 
+Seat 2: ollikahn23 (1695 in chips) 
+ryant 70: posts small blind 20
+ollikahn23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9h 8s]
+ryant 70: raises 40 to 80
+ollikahn23: folds 
+Uncalled bet (40) returned to ryant 70
+ryant 70 collected 80 from pot
+ryant 70: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: ryant 70 (button) (small blind) collected (80)
+Seat 2: ollikahn23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #185451923074: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/04/20 8:36:57 ET
+Table '2284087185 1' 2-max Seat #2 is the button
+Seat 1: ryant 70 (1345 in chips) 
+Seat 2: ollikahn23 (1655 in chips) 
+ollikahn23: posts small blind 20
+ryant 70: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5h 4d]
+ollikahn23: folds 
+Uncalled bet (20) returned to ryant 70
+ryant 70 collected 40 from pot
+ryant 70: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ryant 70 (big blind) collected (40)
+Seat 2: ollikahn23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #185451931197: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/04/20 8:37:16 ET
+Table '2284087185 1' 2-max Seat #1 is the button
+Seat 1: ryant 70 (1365 in chips) 
+Seat 2: ollikahn23 (1635 in chips) 
+ryant 70: posts small blind 20
+ollikahn23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7s 2s]
+ryant 70: raises 40 to 80
+ollikahn23: folds 
+Uncalled bet (40) returned to ryant 70
+ryant 70 collected 80 from pot
+ryant 70: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: ryant 70 (button) (small blind) collected (80)
+Seat 2: ollikahn23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #185451934435: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/04/20 8:37:24 ET
+Table '2284087185 1' 2-max Seat #2 is the button
+Seat 1: ryant 70 (1405 in chips) 
+Seat 2: ollikahn23 (1595 in chips) 
+ollikahn23: posts small blind 20
+ryant 70: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qc Qs]
+ollikahn23: raises 40 to 80
+ryant 70: calls 40
+*** FLOP *** [9c 5h Qh]
+ryant 70: checks 
+ollikahn23: bets 80
+ryant 70: folds 
+Uncalled bet (80) returned to ollikahn23
+ollikahn23 collected 160 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [9c 5h Qh]
+Seat 1: ryant 70 (big blind) folded on the Flop
+Seat 2: ollikahn23 (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #185451941198: Tournament #2284087185, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/04/20 8:37:40 ET
+Table '2284087185 1' 2-max Seat #1 is the button
+Seat 1: ryant 70 (1325 in chips) 
+Seat 2: ollikahn23 (1675 in chips) 
+ryant 70: posts small blind 20
+ollikahn23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ac 5c]
+ryant 70: raises 40 to 80
+ollikahn23: calls 40
+*** FLOP *** [4s 5h 3c]
+ollikahn23: checks 
+ryant 70: bets 40
+ollikahn23: raises 80 to 120
+ryant 70: raises 1125 to 1245 and is all-in
+ollikahn23: calls 1125
+*** TURN *** [4s 5h 3c] [Kh]
+*** RIVER *** [4s 5h 3c Kh] [Ad]
+*** SHOW DOWN ***
+ollikahn23: shows [Ac 5c] (two pair, Aces and Fives)
+ryant 70: shows [Qs Qd] (a pair of Queens)
+ollikahn23 collected 2650 from pot
+ryant 70 finished the tournament in 2nd place
+ollikahn23 wins the tournament and receives $2.76 - congratulations!
+*** SUMMARY ***
+Total pot 2650 | Rake 0 
+Board [4s 5h 3c Kh Ad]
+Seat 1: ryant 70 (button) (small blind) showed [Qs Qd] and lost with a pair of Queens
+Seat 2: ollikahn23 (big blind) showed [Ac 5c] and won (2650) with two pair, Aces and Fives
+
+
+

@@ -1,0 +1,87 @@
+﻿PokerStars Hand #187043263612: Tournament #2318959233, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2018/05/30 22:02:40 CET [2018/05/30 16:02:40 ET]
+Table '2318959233 1' 3-max Seat #1 is the button
+Seat 1: ollikahn23 (500 in chips) 
+Seat 2: jaan88 (500 in chips) 
+Seat 3: wittmann211 (500 in chips) 
+jaan88: posts small blind 10
+wittmann211: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3d 3s]
+ollikahn23: raises 20 to 40
+jaan88: folds 
+wittmann211: folds 
+Uncalled bet (20) returned to ollikahn23
+ollikahn23 collected 50 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: ollikahn23 (button) collected (50)
+Seat 2: jaan88 (small blind) folded before Flop
+Seat 3: wittmann211 (big blind) folded before Flop
+
+
+
+PokerStars Hand #187043270752: Tournament #2318959233, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2018/05/30 22:02:49 CET [2018/05/30 16:02:49 ET]
+Table '2318959233 1' 3-max Seat #2 is the button
+Seat 1: ollikahn23 (530 in chips) 
+Seat 2: jaan88 (490 in chips) 
+Seat 3: wittmann211 (480 in chips) 
+wittmann211: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Tc 7s]
+jaan88: folds 
+wittmann211: raises 20 to 40
+ollikahn23: calls 20
+*** FLOP *** [6s 6d 3d]
+wittmann211: bets 41
+ollikahn23: folds 
+Uncalled bet (41) returned to wittmann211
+wittmann211 collected 80 from pot
+wittmann211: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [6s 6d 3d]
+Seat 1: ollikahn23 (big blind) folded on the Flop
+Seat 2: jaan88 (button) folded before Flop (didn't bet)
+Seat 3: wittmann211 (small blind) collected (80)
+
+
+
+PokerStars Hand #187043278658: Tournament #2318959233, $0.92+$0.08 USD Hold'em No Limit - Level I (10/20) - 2018/05/30 22:03:00 CET [2018/05/30 16:03:00 ET]
+Table '2318959233 1' 3-max Seat #3 is the button
+Seat 1: ollikahn23 (490 in chips) 
+Seat 2: jaan88 (490 in chips) 
+Seat 3: wittmann211 (520 in chips) 
+ollikahn23: posts small blind 10
+jaan88: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4h Ac]
+wittmann211: folds 
+ollikahn23: raises 40 to 60
+jaan88: calls 40
+*** FLOP *** [Jh As 2s]
+ollikahn23: bets 60
+jaan88: calls 60
+*** TURN *** [Jh As 2s] [9s]
+ollikahn23: checks 
+jaan88: bets 120
+ollikahn23: calls 120
+*** RIVER *** [Jh As 2s 9s] [6h]
+ollikahn23: checks 
+jaan88: bets 250 and is all-in
+ollikahn23: calls 250 and is all-in
+*** SHOW DOWN ***
+jaan88: shows [Jc Ah] (two pair, Aces and Jacks)
+ollikahn23: shows [4h Ac] (a pair of Aces)
+jaan88 collected 980 from pot
+ollikahn23 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 980 | Rake 0 
+Board [Jh As 2s 9s 6h]
+Seat 1: ollikahn23 (small blind) showed [4h Ac] and lost with a pair of Aces
+Seat 2: jaan88 (big blind) showed [Jc Ah] and won (980) with two pair, Aces and Jacks
+Seat 3: wittmann211 (button) folded before Flop (didn't bet)
+
+
+

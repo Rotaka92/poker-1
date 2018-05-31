@@ -1,0 +1,2375 @@
+﻿PokerStars Hand #183853459096:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/14 17:15:05 ET
+Table 'Botolphia II' 9-max Seat #6 is the button
+Seat 1: shketik666 ($6.30 in chips) 
+Seat 2: SuperMasha1 ($11.47 in chips) 
+Seat 3: VinoTinto118 ($5 in chips) 
+Seat 4: 123Tip123 ($2.86 in chips) 
+Seat 5: Artileo ($5.57 in chips) 
+Seat 6: Rittam ($5 in chips) 
+Seat 7: rams0222 ($7.33 in chips) 
+Seat 9: ollikahn23 ($5 in chips) 
+rams0222: posts small blind $0.02
+Avichantilly: is sitting out 
+ollikahn23: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jc Qd]
+shketik666: folds 
+Avichantilly leaves the table
+SuperMasha1: folds 
+Krapiv@ joins the table at seat #8 
+VinoTinto118: folds 
+123Tip123: folds 
+Artileo: folds 
+Rittam: folds 
+rams0222: folds 
+Uncalled bet ($0.03) returned to ollikahn23
+ollikahn23 collected $0.04 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: shketik666 folded before Flop (didn't bet)
+Seat 2: SuperMasha1 folded before Flop (didn't bet)
+Seat 3: VinoTinto118 folded before Flop (didn't bet)
+Seat 4: 123Tip123 folded before Flop (didn't bet)
+Seat 5: Artileo folded before Flop (didn't bet)
+Seat 6: Rittam (button) folded before Flop (didn't bet)
+Seat 7: rams0222 (small blind) folded before Flop
+Seat 9: ollikahn23 (big blind) collected ($0.04)
+
+
+
+PokerStars Hand #183853473146:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/14 17:15:21 ET
+Table 'Botolphia II' 9-max Seat #7 is the button
+Seat 1: shketik666 ($6.30 in chips) 
+Seat 2: SuperMasha1 ($11.47 in chips) 
+Seat 3: VinoTinto118 ($5 in chips) 
+Seat 4: 123Tip123 ($2.86 in chips) 
+Seat 5: Artileo ($5.57 in chips) 
+Seat 6: Rittam ($5 in chips) 
+Seat 7: rams0222 ($7.31 in chips) 
+Seat 9: ollikahn23 ($5.02 in chips) 
+Krapiv@ will be allowed to play after the button
+ollikahn23: posts small blind $0.02
+shketik666: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5h Jc]
+SuperMasha1: folds 
+VinoTinto118: folds 
+123Tip123: folds 
+Artileo: folds 
+Rittam: folds 
+rams0222: folds 
+ollikahn23: folds 
+Uncalled bet ($0.03) returned to shketik666
+shketik666 collected $0.04 from pot
+shketik666: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: shketik666 (big blind) collected ($0.04)
+Seat 2: SuperMasha1 folded before Flop (didn't bet)
+Seat 3: VinoTinto118 folded before Flop (didn't bet)
+Seat 4: 123Tip123 folded before Flop (didn't bet)
+Seat 5: Artileo folded before Flop (didn't bet)
+Seat 6: Rittam folded before Flop (didn't bet)
+Seat 7: rams0222 (button) folded before Flop (didn't bet)
+Seat 9: ollikahn23 (small blind) folded before Flop
+
+
+
+PokerStars Hand #183853484805:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/14 17:15:35 ET
+Table 'Botolphia II' 9-max Seat #9 is the button
+Seat 1: shketik666 ($6.32 in chips) 
+Seat 3: VinoTinto118 ($5 in chips) 
+Seat 4: 123Tip123 ($2.86 in chips) 
+Seat 5: Artileo ($5.57 in chips) 
+Seat 6: Rittam ($5 in chips) 
+Seat 7: rams0222 ($7.31 in chips) 
+Seat 9: ollikahn23 ($5 in chips) 
+shketik666: posts small blind $0.02
+SuperMasha1: is sitting out 
+SuperMasha1 leaves the table
+VinoTinto118: posts big blind $0.05
+Krapiv@: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5c Qs]
+123Tip123: folds 
+Artileo: folds 
+Rittam: raises $0.10 to $0.15
+rams0222: folds 
+subtrakt joins the table at seat #2 
+ollikahn23: folds 
+shketik666: folds 
+VinoTinto118: folds 
+Uncalled bet ($0.10) returned to Rittam
+Rittam collected $0.12 from pot
+Rittam: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: shketik666 (small blind) folded before Flop
+Seat 3: VinoTinto118 (big blind) folded before Flop
+Seat 4: 123Tip123 folded before Flop (didn't bet)
+Seat 5: Artileo folded before Flop (didn't bet)
+Seat 6: Rittam collected ($0.12)
+Seat 7: rams0222 folded before Flop (didn't bet)
+Seat 9: ollikahn23 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183853514358:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/14 17:16:09 ET
+Table 'Botolphia II' 9-max Seat #1 is the button
+Seat 1: shketik666 ($6.30 in chips) 
+Seat 3: VinoTinto118 ($5 in chips) 
+Seat 4: 123Tip123 ($2.86 in chips) 
+Seat 5: Artileo ($5.57 in chips) 
+Seat 6: Rittam ($5.07 in chips) 
+Seat 7: rams0222 ($7.31 in chips) 
+Seat 9: ollikahn23 ($5 in chips) 
+subtrakt will be allowed to play after the button
+VinoTinto118: posts small blind $0.02
+123Tip123: posts big blind $0.05
+Krapiv@: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qs 7h]
+Artileo: folds 
+Rittam: folds 
+rams0222: folds 
+ollikahn23: folds 
+shketik666: folds 
+VinoTinto118: folds 
+Uncalled bet ($0.03) returned to 123Tip123
+123Tip123 collected $0.04 from pot
+123Tip123: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: shketik666 (button) folded before Flop (didn't bet)
+Seat 3: VinoTinto118 (small blind) folded before Flop
+Seat 4: 123Tip123 (big blind) collected ($0.04)
+Seat 5: Artileo folded before Flop (didn't bet)
+Seat 6: Rittam folded before Flop (didn't bet)
+Seat 7: rams0222 folded before Flop (didn't bet)
+Seat 9: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183853539662:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/14 17:16:38 ET
+Table 'Botolphia II' 9-max Seat #3 is the button
+Seat 1: shketik666 ($6.30 in chips) 
+Seat 2: subtrakt ($4 in chips) 
+Seat 3: VinoTinto118 ($5 in chips) 
+Seat 4: 123Tip123 ($2.88 in chips) 
+Seat 5: Artileo ($5.57 in chips) 
+Seat 6: Rittam ($5.07 in chips) 
+Seat 7: rams0222 ($7.31 in chips) 
+Seat 9: ollikahn23 ($5 in chips) 
+123Tip123: posts small blind $0.02
+Artileo: posts big blind $0.05
+Krapiv@: sits out 
+subtrakt: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8s 2c]
+Rittam: folds 
+rams0222: folds 
+ollikahn23 has timed out
+ollikahn23: folds 
+shketik666: folds 
+subtrakt: raises $0.15 to $0.20
+VinoTinto118: folds 
+123Tip123: folds 
+Artileo: folds 
+Uncalled bet ($0.15) returned to subtrakt
+subtrakt collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: shketik666 folded before Flop (didn't bet)
+Seat 2: subtrakt collected ($0.12)
+Seat 3: VinoTinto118 (button) folded before Flop (didn't bet)
+Seat 4: 123Tip123 (small blind) folded before Flop
+Seat 5: Artileo (big blind) folded before Flop
+Seat 6: Rittam folded before Flop (didn't bet)
+Seat 7: rams0222 folded before Flop (didn't bet)
+Seat 9: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183853576747:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/14 17:17:20 ET
+Table 'Botolphia II' 9-max Seat #4 is the button
+Seat 1: shketik666 ($6.30 in chips) 
+Seat 2: subtrakt ($4.07 in chips) 
+Seat 3: VinoTinto118 ($5 in chips) 
+Seat 4: 123Tip123 ($2.86 in chips) 
+Seat 5: Artileo ($5.52 in chips) 
+Seat 7: rams0222 ($7.31 in chips) 
+Seat 9: ollikahn23 ($5 in chips) 
+Artileo: posts small blind $0.02
+Rittam has timed out
+Rittam: is sitting out 
+rams0222: posts big blind $0.05
+Krapiv@: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ts Qh]
+Rittam leaves the table
+ollikahn23: folds 
+shketik666: folds 
+subtrakt: folds 
+VinoTinto118: folds 
+123Tip123: folds 
+Artileo: folds 
+Uncalled bet ($0.03) returned to rams0222
+rams0222 collected $0.04 from pot
+rams0222: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: shketik666 folded before Flop (didn't bet)
+Seat 2: subtrakt folded before Flop (didn't bet)
+Seat 3: VinoTinto118 folded before Flop (didn't bet)
+Seat 4: 123Tip123 (button) folded before Flop (didn't bet)
+Seat 5: Artileo (small blind) folded before Flop
+Seat 7: rams0222 (big blind) collected ($0.04)
+Seat 9: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183853595938:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/14 17:17:43 ET
+Table 'Botolphia II' 9-max Seat #5 is the button
+Seat 1: shketik666 ($6.30 in chips) 
+Seat 2: subtrakt ($4.07 in chips) 
+Seat 3: VinoTinto118 ($5 in chips) 
+Seat 4: 123Tip123 ($2.86 in chips) 
+Seat 5: Artileo ($5.50 in chips) 
+Seat 7: rams0222 ($7.33 in chips) 
+Seat 8: Krapiv@ ($5 in chips) 
+Seat 9: ollikahn23 ($5 in chips) 
+rams0222: posts small blind $0.02
+Krapiv@: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5h Kh]
+ollikahn23: folds 
+shketik666: folds 
+subtrakt: folds 
+VinoTinto118: folds 
+123Tip123: folds 
+Artileo: folds 
+cs-42o- joins the table at seat #6 
+rams0222: folds 
+Uncalled bet ($0.03) returned to Krapiv@
+Krapiv@ collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: shketik666 folded before Flop (didn't bet)
+Seat 2: subtrakt folded before Flop (didn't bet)
+Seat 3: VinoTinto118 folded before Flop (didn't bet)
+Seat 4: 123Tip123 folded before Flop (didn't bet)
+Seat 5: Artileo (button) folded before Flop (didn't bet)
+Seat 7: rams0222 (small blind) folded before Flop
+Seat 8: Krapiv@ (big blind) collected ($0.04)
+Seat 9: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183853611803:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/14 17:18:01 ET
+Table 'Botolphia II' 9-max Seat #7 is the button
+Seat 1: shketik666 ($6.30 in chips) 
+Seat 2: subtrakt ($4.07 in chips) 
+Seat 3: VinoTinto118 ($5 in chips) 
+Seat 4: 123Tip123 ($2.86 in chips) 
+Seat 5: Artileo ($5.50 in chips) 
+Seat 7: rams0222 ($7.31 in chips) 
+Seat 8: Krapiv@ ($5.02 in chips) 
+Seat 9: ollikahn23 ($5 in chips) 
+Krapiv@: posts small blind $0.02
+ollikahn23: posts big blind $0.05
+cs-42o-: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9s 2d]
+shketik666: folds 
+subtrakt: folds 
+VinoTinto118: folds 
+123Tip123: folds 
+Artileo: folds 
+rams0222: folds 
+Krapiv@: folds 
+Uncalled bet ($0.03) returned to ollikahn23
+ollikahn23 collected $0.04 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: shketik666 folded before Flop (didn't bet)
+Seat 2: subtrakt folded before Flop (didn't bet)
+Seat 3: VinoTinto118 folded before Flop (didn't bet)
+Seat 4: 123Tip123 folded before Flop (didn't bet)
+Seat 5: Artileo folded before Flop (didn't bet)
+Seat 7: rams0222 (button) folded before Flop (didn't bet)
+Seat 8: Krapiv@ (small blind) folded before Flop
+Seat 9: ollikahn23 (big blind) collected ($0.04)
+
+
+
+PokerStars Hand #183853629169:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/14 17:18:21 ET
+Table 'Botolphia II' 9-max Seat #8 is the button
+Seat 1: shketik666 ($6.30 in chips) 
+Seat 2: subtrakt ($4.07 in chips) 
+Seat 3: VinoTinto118 ($5 in chips) 
+Seat 4: 123Tip123 ($2.86 in chips) 
+Seat 5: Artileo ($5.50 in chips) 
+Seat 7: rams0222 ($7.31 in chips) 
+Seat 8: Krapiv@ ($5 in chips) 
+Seat 9: ollikahn23 ($5.02 in chips) 
+ollikahn23: posts small blind $0.02
+shketik666: posts big blind $0.05
+cs-42o-: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qd Th]
+subtrakt: raises $0.10 to $0.15
+VinoTinto118: folds 
+123Tip123: folds 
+Artileo: folds 
+rams0222: folds 
+Krapiv@: calls $0.15
+ollikahn23: folds 
+shketik666: folds 
+*** FLOP *** [4d Qs 3d]
+subtrakt: bets $0.18
+Krapiv@: folds 
+Uncalled bet ($0.18) returned to subtrakt
+subtrakt collected $0.35 from pot
+subtrakt: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.02 
+Board [4d Qs 3d]
+Seat 1: shketik666 (big blind) folded before Flop
+Seat 2: subtrakt collected ($0.35)
+Seat 3: VinoTinto118 folded before Flop (didn't bet)
+Seat 4: 123Tip123 folded before Flop (didn't bet)
+Seat 5: Artileo folded before Flop (didn't bet)
+Seat 7: rams0222 folded before Flop (didn't bet)
+Seat 8: Krapiv@ (button) folded on the Flop
+Seat 9: ollikahn23 (small blind) folded before Flop
+
+
+
+PokerStars Hand #183853679032:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/14 17:19:18 ET
+Table 'Botolphia II' 9-max Seat #9 is the button
+Seat 1: shketik666 ($6.25 in chips) 
+Seat 2: subtrakt ($4.27 in chips) 
+Seat 3: VinoTinto118 ($5 in chips) 
+Seat 4: 123Tip123 ($2.86 in chips) 
+Seat 5: Artileo ($5.50 in chips) 
+Seat 7: rams0222 ($7.31 in chips) 
+Seat 8: Krapiv@ ($5 in chips) 
+Seat 9: ollikahn23 ($5 in chips) 
+shketik666: posts small blind $0.02
+subtrakt: posts big blind $0.05
+cs-42o-: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qs As]
+VinoTinto118: folds 
+123Tip123: folds 
+Artileo: folds 
+rams0222: folds 
+Krapiv@: folds 
+ollikahn23: raises $0.05 to $0.10
+shketik666: calls $0.08
+subtrakt: folds 
+*** FLOP *** [9h Td 6d]
+shketik666: checks 
+ollikahn23: checks 
+*** TURN *** [9h Td 6d] [Kc]
+shketik666: bets $0.20
+ollikahn23: calls $0.20
+*** RIVER *** [9h Td 6d Kc] [4h]
+shketik666: bets $0.40
+ollikahn23: folds 
+Uncalled bet ($0.40) returned to shketik666
+shketik666 collected $0.62 from pot
+shketik666: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [9h Td 6d Kc 4h]
+Seat 1: shketik666 (small blind) collected ($0.62)
+Seat 2: subtrakt (big blind) folded before Flop
+Seat 3: VinoTinto118 folded before Flop (didn't bet)
+Seat 4: 123Tip123 folded before Flop (didn't bet)
+Seat 5: Artileo folded before Flop (didn't bet)
+Seat 7: rams0222 folded before Flop (didn't bet)
+Seat 8: Krapiv@ folded before Flop (didn't bet)
+Seat 9: ollikahn23 (button) folded on the River
+
+
+
+PokerStars Hand #183853726381:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/14 17:20:13 ET
+Table 'Botolphia II' 9-max Seat #1 is the button
+Seat 1: shketik666 ($6.57 in chips) 
+Seat 2: subtrakt ($4.22 in chips) 
+Seat 4: 123Tip123 ($2.86 in chips) 
+Seat 5: Artileo ($5.50 in chips) 
+Seat 7: rams0222 ($7.31 in chips) 
+Seat 8: Krapiv@ ($5 in chips) 
+Seat 9: ollikahn23 ($5 in chips) 
+subtrakt: posts small blind $0.02
+VinoTinto118: is sitting out 
+123Tip123: posts big blind $0.05
+cs-42o-: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Tc 2c]
+VinoTinto118 leaves the table
+Sinad1302 joins the table at seat #3 
+Artileo: folds 
+rams0222: folds 
+Krapiv@: folds 
+ollikahn23: folds 
+Artileo leaves the table
+DollarUnit joins the table at seat #5 
+shketik666: folds 
+subtrakt: folds 
+Uncalled bet ($0.03) returned to 123Tip123
+123Tip123 collected $0.04 from pot
+123Tip123: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: shketik666 (button) folded before Flop (didn't bet)
+Seat 2: subtrakt (small blind) folded before Flop
+Seat 4: 123Tip123 (big blind) collected ($0.04)
+Seat 5: Artileo folded before Flop (didn't bet)
+Seat 7: rams0222 folded before Flop (didn't bet)
+Seat 8: Krapiv@ folded before Flop (didn't bet)
+Seat 9: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183853747007:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/14 17:20:37 ET
+Table 'Botolphia II' 9-max Seat #2 is the button
+Seat 1: shketik666 ($6.57 in chips) 
+Seat 2: subtrakt ($4.20 in chips) 
+Seat 4: 123Tip123 ($2.88 in chips) 
+Seat 5: DollarUnit ($5 in chips) 
+Seat 7: rams0222 ($7.31 in chips) 
+Seat 8: Krapiv@ ($5 in chips) 
+Seat 9: ollikahn23 ($5 in chips) 
+Sinad1302 will be allowed to play after the button
+123Tip123: posts small blind $0.02
+DollarUnit: posts big blind $0.05
+cs-42o-: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ah 8h]
+rams0222: folds 
+Krapiv@: raises $0.10 to $0.15
+ollikahn23: folds 
+shketik666: folds 
+subtrakt: folds 
+123Tip123: calls $0.13
+DollarUnit: folds 
+*** FLOP *** [9s 3c 8c]
+123Tip123: checks 
+Krapiv@: bets $0.23
+123Tip123: folds 
+Uncalled bet ($0.23) returned to Krapiv@
+Krapiv@ collected $0.34 from pot
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [9s 3c 8c]
+Seat 1: shketik666 folded before Flop (didn't bet)
+Seat 2: subtrakt (button) folded before Flop (didn't bet)
+Seat 4: 123Tip123 (small blind) folded on the Flop
+Seat 5: DollarUnit (big blind) folded before Flop
+Seat 7: rams0222 folded before Flop (didn't bet)
+Seat 8: Krapiv@ collected ($0.34)
+Seat 9: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183853803356:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/14 17:21:42 ET
+Table 'Botolphia II' 9-max Seat #4 is the button
+Seat 1: shketik666 ($6.57 in chips) 
+Seat 2: subtrakt ($4.20 in chips) 
+Seat 3: Sinad1302 ($2.50 in chips) 
+Seat 4: 123Tip123 ($2.73 in chips) 
+Seat 5: DollarUnit ($5 in chips) 
+Seat 6: cs-42o- ($5 in chips) 
+Seat 7: rams0222 ($7.31 in chips) 
+Seat 8: Krapiv@ ($5.19 in chips) 
+Seat 9: ollikahn23 ($5 in chips) 
+DollarUnit: posts small blind $0.02
+cs-42o-: posts big blind $0.05
+Sinad1302: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6s 9s]
+rams0222: folds 
+Krapiv@: folds 
+ollikahn23: folds 
+shketik666 has timed out
+shketik666: folds 
+subtrakt: folds 
+Sinad1302: checks 
+123Tip123: folds 
+DollarUnit: calls $0.03
+cs-42o-: checks 
+*** FLOP *** [9h Qs Kc]
+DollarUnit: checks 
+cs-42o-: checks 
+Sinad1302: checks 
+*** TURN *** [9h Qs Kc] [Jh]
+DollarUnit: checks 
+cs-42o-: checks 
+Sinad1302: checks 
+*** RIVER *** [9h Qs Kc Jh] [8d]
+DollarUnit: bets $0.10
+cs-42o-: folds 
+Sinad1302: folds 
+Uncalled bet ($0.10) returned to DollarUnit
+DollarUnit collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [9h Qs Kc Jh 8d]
+Seat 1: shketik666 folded before Flop (didn't bet)
+Seat 2: subtrakt folded before Flop (didn't bet)
+Seat 3: Sinad1302 folded on the River
+Seat 4: 123Tip123 (button) folded before Flop (didn't bet)
+Seat 5: DollarUnit (small blind) collected ($0.14)
+Seat 6: cs-42o- (big blind) folded on the River
+Seat 7: rams0222 folded before Flop (didn't bet)
+Seat 8: Krapiv@ folded before Flop (didn't bet)
+Seat 9: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183853878895:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/14 17:23:10 ET
+Table 'Botolphia II' 9-max Seat #5 is the button
+Seat 1: shketik666 ($6.57 in chips) 
+Seat 2: subtrakt ($4.20 in chips) 
+Seat 3: Sinad1302 ($2.45 in chips) 
+Seat 4: 123Tip123 ($2.73 in chips) 
+Seat 5: DollarUnit ($5.09 in chips) 
+Seat 6: cs-42o- ($4.95 in chips) 
+Seat 7: rams0222 ($7.31 in chips) 
+Seat 8: Krapiv@ ($5.19 in chips) 
+Seat 9: ollikahn23 ($5 in chips) 
+cs-42o-: posts small blind $0.02
+rams0222: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9c 4h]
+Krapiv@: folds 
+ollikahn23: folds 
+shketik666: folds 
+subtrakt: folds 
+Sinad1302: folds 
+123Tip123: folds 
+DollarUnit: folds 
+cs-42o-: raises $0.10 to $0.15
+rams0222: folds 
+Uncalled bet ($0.10) returned to cs-42o-
+cs-42o- collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: shketik666 folded before Flop (didn't bet)
+Seat 2: subtrakt folded before Flop (didn't bet)
+Seat 3: Sinad1302 folded before Flop (didn't bet)
+Seat 4: 123Tip123 folded before Flop (didn't bet)
+Seat 5: DollarUnit (button) folded before Flop (didn't bet)
+Seat 6: cs-42o- (small blind) collected ($0.10)
+Seat 7: rams0222 (big blind) folded before Flop
+Seat 8: Krapiv@ folded before Flop (didn't bet)
+Seat 9: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183853918310:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/14 17:23:45 ET
+Table 'Botolphia II' 9-max Seat #6 is the button
+Seat 1: shketik666 ($6.57 in chips) 
+Seat 2: subtrakt ($4.20 in chips) 
+Seat 3: Sinad1302 ($2.45 in chips) 
+Seat 4: 123Tip123 ($2.73 in chips) 
+Seat 5: DollarUnit ($5.09 in chips) 
+Seat 6: cs-42o- ($5 in chips) 
+Seat 7: rams0222 ($7.26 in chips) 
+Seat 9: ollikahn23 ($5 in chips) 
+rams0222: posts small blind $0.02
+Krapiv@: is sitting out 
+ollikahn23: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3h 6d]
+Krapiv@ leaves the table
+shketik666: folds 
+subtrakt: folds 
+Sinad1302: folds 
+123Tip123: raises $0.10 to $0.15
+DollarUnit: folds 
+cs-42o-: folds 
+rams0222: folds 
+ollikahn23: folds 
+Uncalled bet ($0.10) returned to 123Tip123
+123Tip123 collected $0.12 from pot
+123Tip123: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: shketik666 folded before Flop (didn't bet)
+Seat 2: subtrakt folded before Flop (didn't bet)
+Seat 3: Sinad1302 folded before Flop (didn't bet)
+Seat 4: 123Tip123 collected ($0.12)
+Seat 5: DollarUnit folded before Flop (didn't bet)
+Seat 6: cs-42o- (button) folded before Flop (didn't bet)
+Seat 7: rams0222 (small blind) folded before Flop
+Seat 9: ollikahn23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #183853942065:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/14 17:24:13 ET
+Table 'Botolphia II' 9-max Seat #7 is the button
+Seat 1: shketik666 ($6.57 in chips) 
+Seat 2: subtrakt ($4.20 in chips) 
+Seat 3: Sinad1302 ($2.45 in chips) 
+Seat 4: 123Tip123 ($2.80 in chips) 
+Seat 5: DollarUnit ($5.09 in chips) 
+Seat 6: cs-42o- ($5 in chips) 
+Seat 7: rams0222 ($7.24 in chips) 
+Seat 9: ollikahn23 ($5 in chips) 
+ollikahn23: posts small blind $0.02
+shketik666: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7d 4s]
+subtrakt: folds 
+Sinad1302: folds 
+123Tip123: folds 
+DollarUnit: raises $0.07 to $0.12
+cs-42o-: folds 
+rams0222: folds 
+ollikahn23: folds 
+shketik666: calls $0.07
+*** FLOP *** [4d 9h 2s]
+shketik666: checks 
+DollarUnit: bets $0.13
+shketik666: calls $0.13
+*** TURN *** [4d 9h 2s] [8c]
+shketik666: checks 
+Ella233 joins the table at seat #8 
+DollarUnit: checks 
+*** RIVER *** [4d 9h 2s 8c] [8s]
+shketik666: bets $0.20
+DollarUnit: folds 
+Uncalled bet ($0.20) returned to shketik666
+shketik666 collected $0.50 from pot
+shketik666: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.52 | Rake $0.02 
+Board [4d 9h 2s 8c 8s]
+Seat 1: shketik666 (big blind) collected ($0.50)
+Seat 2: subtrakt folded before Flop (didn't bet)
+Seat 3: Sinad1302 folded before Flop (didn't bet)
+Seat 4: 123Tip123 folded before Flop (didn't bet)
+Seat 5: DollarUnit folded on the River
+Seat 6: cs-42o- folded before Flop (didn't bet)
+Seat 7: rams0222 (button) folded before Flop (didn't bet)
+Seat 9: ollikahn23 (small blind) folded before Flop
+
+
+
+PokerStars Hand #183854011167:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/14 17:25:34 ET
+Table 'Botolphia II' 9-max Seat #9 is the button
+Seat 1: shketik666 ($6.82 in chips) 
+Seat 2: subtrakt ($4.20 in chips) 
+Seat 3: Sinad1302 ($2.45 in chips) 
+Seat 4: 123Tip123 ($2.80 in chips) 
+Seat 5: DollarUnit ($5 in chips) 
+Seat 6: cs-42o- ($5 in chips) 
+Seat 7: rams0222 ($7.24 in chips) 
+Seat 8: Ella233 ($5 in chips) 
+Seat 9: ollikahn23 ($5 in chips) 
+shketik666: posts small blind $0.02
+subtrakt: posts big blind $0.05
+Ella233: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4s 7s]
+Sinad1302: raises $0.07 to $0.12
+123Tip123: raises $0.28 to $0.40
+DollarUnit: folds 
+cs-42o-: folds 
+rams0222: folds 
+Ella233: calls $0.35
+ollikahn23: folds 
+shketik666: folds 
+subtrakt: folds 
+Sinad1302: folds 
+*** FLOP *** [Ks Td 6h]
+123Tip123: bets $0.48
+Ella233: calls $0.48
+*** TURN *** [Ks Td 6h] [5h]
+123Tip123: bets $0.95
+Ella233: calls $0.95
+*** RIVER *** [Ks Td 6h 5h] [Qd]
+123Tip123: bets $0.97 and is all-in
+Ella233: calls $0.97
+*** SHOW DOWN ***
+123Tip123: shows [Kh Kd] (three of a kind, Kings)
+Ella233: shows [9s Qs] (a pair of Queens)
+123Tip123 collected $5.55 from pot
+*** SUMMARY ***
+Total pot $5.79 | Rake $0.24 
+Board [Ks Td 6h 5h Qd]
+Seat 1: shketik666 (small blind) folded before Flop
+Seat 2: subtrakt (big blind) folded before Flop
+Seat 3: Sinad1302 folded before Flop
+Seat 4: 123Tip123 showed [Kh Kd] and won ($5.55) with three of a kind, Kings
+Seat 5: DollarUnit folded before Flop (didn't bet)
+Seat 6: cs-42o- folded before Flop (didn't bet)
+Seat 7: rams0222 folded before Flop (didn't bet)
+Seat 8: Ella233 showed [9s Qs] and lost with a pair of Queens
+Seat 9: ollikahn23 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183854064832:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/14 17:26:37 ET
+Table 'Botolphia II' 9-max Seat #1 is the button
+Seat 1: shketik666 ($6.80 in chips) 
+Seat 2: subtrakt ($4.15 in chips) 
+Seat 3: Sinad1302 ($2.33 in chips) 
+Seat 4: 123Tip123 ($5.55 in chips) 
+Seat 5: DollarUnit ($5 in chips) 
+Seat 6: cs-42o- ($5 in chips) 
+Seat 7: rams0222 ($7.24 in chips) 
+Seat 8: Ella233 ($2.20 in chips) 
+Seat 9: ollikahn23 ($5 in chips) 
+subtrakt: posts small blind $0.02
+Sinad1302: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2d Jd]
+123Tip123: folds 
+DollarUnit: folds 
+cs-42o-: folds 
+rams0222: folds 
+Ella233: calls $0.05
+ollikahn23: folds 
+shketik666: folds 
+subtrakt: raises $0.10 to $0.15
+Sinad1302: calls $0.10
+Ella233: calls $0.10
+*** FLOP *** [5h Jc 9s]
+subtrakt: bets $0.22
+Sinad1302: calls $0.22
+Ella233: folds 
+*** TURN *** [5h Jc 9s] [Kc]
+subtrakt: bets $0.85
+Sinad1302: folds 
+Uncalled bet ($0.85) returned to subtrakt
+subtrakt collected $0.85 from pot
+*** SUMMARY ***
+Total pot $0.89 | Rake $0.04 
+Board [5h Jc 9s Kc]
+Seat 1: shketik666 (button) folded before Flop (didn't bet)
+Seat 2: subtrakt (small blind) collected ($0.85)
+Seat 3: Sinad1302 (big blind) folded on the Turn
+Seat 4: 123Tip123 folded before Flop (didn't bet)
+Seat 5: DollarUnit folded before Flop (didn't bet)
+Seat 6: cs-42o- folded before Flop (didn't bet)
+Seat 7: rams0222 folded before Flop (didn't bet)
+Seat 8: Ella233 folded on the Flop
+Seat 9: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183854117804:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/14 17:27:39 ET
+Table 'Botolphia II' 9-max Seat #2 is the button
+Seat 1: shketik666 ($6.80 in chips) 
+Seat 2: subtrakt ($4.63 in chips) 
+Seat 3: Sinad1302 ($1.96 in chips) 
+Seat 4: 123Tip123 ($5.55 in chips) 
+Seat 5: DollarUnit ($5 in chips) 
+Seat 6: cs-42o- ($5 in chips) 
+Seat 7: rams0222 ($7.24 in chips) 
+Seat 8: Ella233 ($2.05 in chips) 
+Seat 9: ollikahn23 ($5 in chips) 
+Sinad1302: posts small blind $0.02
+123Tip123: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jd 8s]
+DollarUnit: folds 
+cs-42o-: folds 
+rams0222: folds 
+Ella233: folds 
+ollikahn23: folds 
+shketik666: folds 
+subtrakt: folds 
+Sinad1302: calls $0.03
+123Tip123: checks 
+*** FLOP *** [Th 6s 5d]
+Sinad1302: bets $0.05
+123Tip123: calls $0.05
+*** TURN *** [Th 6s 5d] [Qs]
+Sinad1302: checks 
+123Tip123: bets $0.05
+Sinad1302: folds 
+Uncalled bet ($0.05) returned to 123Tip123
+123Tip123 collected $0.19 from pot
+123Tip123: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Th 6s 5d Qs]
+Seat 1: shketik666 folded before Flop (didn't bet)
+Seat 2: subtrakt (button) folded before Flop (didn't bet)
+Seat 3: Sinad1302 (small blind) folded on the Turn
+Seat 4: 123Tip123 (big blind) collected ($0.19)
+Seat 5: DollarUnit folded before Flop (didn't bet)
+Seat 6: cs-42o- folded before Flop (didn't bet)
+Seat 7: rams0222 folded before Flop (didn't bet)
+Seat 8: Ella233 folded before Flop (didn't bet)
+Seat 9: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183854145966:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/14 17:28:12 ET
+Table 'Botolphia II' 9-max Seat #3 is the button
+Seat 1: shketik666 ($6.80 in chips) 
+Seat 2: subtrakt ($4.63 in chips) 
+Seat 3: Sinad1302 ($1.86 in chips) 
+Seat 4: 123Tip123 ($5.64 in chips) 
+Seat 5: DollarUnit ($5 in chips) 
+Seat 6: cs-42o- ($5 in chips) 
+Seat 7: rams0222 ($7.24 in chips) 
+Seat 8: Ella233 ($2.05 in chips) 
+Seat 9: ollikahn23 ($5 in chips) 
+123Tip123: posts small blind $0.02
+DollarUnit: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kc 8c]
+cs-42o-: folds 
+rams0222: folds 
+Ella233: folds 
+ollikahn23: folds 
+shketik666: raises $0.10 to $0.15
+subtrakt: folds 
+Sinad1302: folds 
+123Tip123: folds 
+DollarUnit: folds 
+Uncalled bet ($0.10) returned to shketik666
+shketik666 collected $0.12 from pot
+shketik666: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: shketik666 collected ($0.12)
+Seat 2: subtrakt folded before Flop (didn't bet)
+Seat 3: Sinad1302 (button) folded before Flop (didn't bet)
+Seat 4: 123Tip123 (small blind) folded before Flop
+Seat 5: DollarUnit (big blind) folded before Flop
+Seat 6: cs-42o- folded before Flop (didn't bet)
+Seat 7: rams0222 folded before Flop (didn't bet)
+Seat 8: Ella233 folded before Flop (didn't bet)
+Seat 9: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183854167883:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/14 17:28:38 ET
+Table 'Botolphia II' 9-max Seat #4 is the button
+Seat 1: shketik666 ($6.87 in chips) 
+Seat 2: subtrakt ($4.63 in chips) 
+Seat 3: Sinad1302 ($1.86 in chips) 
+Seat 4: 123Tip123 ($5.62 in chips) 
+Seat 5: DollarUnit ($5 in chips) 
+Seat 6: cs-42o- ($5 in chips) 
+Seat 7: rams0222 ($7.24 in chips) 
+Seat 8: Ella233 ($5 in chips) 
+Seat 9: ollikahn23 ($5 in chips) 
+DollarUnit: posts small blind $0.02
+cs-42o-: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4h Th]
+rams0222: folds 
+Ella233: raises $0.05 to $0.10
+ollikahn23: folds 
+shketik666: folds 
+subtrakt: raises $0.20 to $0.30
+Sinad1302: folds 
+123Tip123: folds 
+DollarUnit: folds 
+cs-42o-: folds 
+Ella233: calls $0.20
+*** FLOP *** [Qc 5h 8d]
+Ella233: checks 
+subtrakt: bets $0.35
+Ella233: raises $0.35 to $0.70
+subtrakt: calls $0.35
+*** TURN *** [Qc 5h 8d] [7c]
+Ella233: bets $0.80
+subtrakt: raises $2.83 to $3.63 and is all-in
+Ella233: calls $2.83
+*** RIVER *** [Qc 5h 8d 7c] [Qs]
+*** SHOW DOWN ***
+Ella233: shows [8h 8s] (a full house, Eights full of Queens)
+subtrakt: shows [4c Ah] (a pair of Queens)
+Ella233 collected $8.94 from pot
+*** SUMMARY ***
+Total pot $9.33 | Rake $0.39 
+Board [Qc 5h 8d 7c Qs]
+Seat 1: shketik666 folded before Flop (didn't bet)
+Seat 2: subtrakt showed [4c Ah] and lost with a pair of Queens
+Seat 3: Sinad1302 folded before Flop (didn't bet)
+Seat 4: 123Tip123 (button) folded before Flop (didn't bet)
+Seat 5: DollarUnit (small blind) folded before Flop
+Seat 6: cs-42o- (big blind) folded before Flop
+Seat 7: rams0222 folded before Flop (didn't bet)
+Seat 8: Ella233 showed [8h 8s] and won ($8.94) with a full house, Eights full of Queens
+Seat 9: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183854213571:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/14 17:29:31 ET
+Table 'Botolphia II' 9-max Seat #5 is the button
+Seat 1: shketik666 ($6.87 in chips) 
+Seat 3: Sinad1302 ($1.86 in chips) 
+Seat 4: 123Tip123 ($5.62 in chips) 
+Seat 5: DollarUnit ($5 in chips) 
+Seat 6: cs-42o- ($4.95 in chips) 
+Seat 7: rams0222 ($7.24 in chips) 
+Seat 8: Ella233 ($9.31 in chips) 
+Seat 9: ollikahn23 ($5 in chips) 
+cs-42o-: posts small blind $0.02
+rams0222: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Td 6s]
+Ella233: calls $0.05
+ollikahn23: folds 
+subtrakt leaves the table
+shketik666: folds 
+Sinad1302: raises $0.05 to $0.10
+123Tip123: folds 
+DollarUnit: folds 
+cs-42o-: folds 
+rams0222: folds 
+Ella233: calls $0.05
+*** FLOP *** [6c 2s 3c]
+Ella233: checks 
+Sinad1302: bets $0.17
+Ella233: folds 
+Uncalled bet ($0.17) returned to Sinad1302
+Sinad1302 collected $0.26 from pot
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [6c 2s 3c]
+Seat 1: shketik666 folded before Flop (didn't bet)
+Seat 3: Sinad1302 collected ($0.26)
+Seat 4: 123Tip123 folded before Flop (didn't bet)
+Seat 5: DollarUnit (button) folded before Flop (didn't bet)
+Seat 6: cs-42o- (small blind) folded before Flop
+Seat 7: rams0222 (big blind) folded before Flop
+Seat 8: Ella233 folded on the Flop
+Seat 9: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183854246717:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/14 17:30:11 ET
+Table 'Botolphia II' 9-max Seat #6 is the button
+Seat 1: shketik666 ($6.87 in chips) 
+Seat 3: Sinad1302 ($2.02 in chips) 
+Seat 4: 123Tip123 ($5.62 in chips) 
+Seat 5: DollarUnit ($5 in chips) 
+Seat 6: cs-42o- ($4.93 in chips) 
+Seat 7: rams0222 ($7.19 in chips) 
+Seat 8: Ella233 ($9.21 in chips) 
+Seat 9: ollikahn23 ($5 in chips) 
+rams0222: posts small blind $0.02
+Ella233: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2h 8h]
+peetje51 joins the table at seat #2 
+ollikahn23: folds 
+shketik666: folds 
+Sinad1302: folds 
+123Tip123: folds 
+DollarUnit: folds 
+cs-42o-: raises $0.10 to $0.15
+rams0222: folds 
+Ella233: folds 
+Uncalled bet ($0.10) returned to cs-42o-
+cs-42o- collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: shketik666 folded before Flop (didn't bet)
+Seat 3: Sinad1302 folded before Flop (didn't bet)
+Seat 4: 123Tip123 folded before Flop (didn't bet)
+Seat 5: DollarUnit folded before Flop (didn't bet)
+Seat 6: cs-42o- (button) collected ($0.12)
+Seat 7: rams0222 (small blind) folded before Flop
+Seat 8: Ella233 (big blind) folded before Flop
+Seat 9: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183854266962:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/14 17:30:35 ET
+Table 'Botolphia II' 9-max Seat #7 is the button
+Seat 1: shketik666 ($6.87 in chips) 
+Seat 2: peetje51 ($4 in chips) 
+Seat 3: Sinad1302 ($2.02 in chips) 
+Seat 4: 123Tip123 ($5.62 in chips) 
+Seat 5: DollarUnit ($5 in chips) 
+Seat 6: cs-42o- ($5 in chips) 
+Seat 7: rams0222 ($7.17 in chips) 
+Seat 8: Ella233 ($9.16 in chips) 
+Seat 9: ollikahn23 ($5 in chips) 
+Ella233: posts small blind $0.02
+ollikahn23: posts big blind $0.05
+peetje51: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jh Ks]
+shketik666: folds 
+peetje51: checks 
+Sinad1302: folds 
+123Tip123: folds 
+DollarUnit: folds 
+cs-42o-: raises $0.15 to $0.20
+rams0222: folds 
+Ella233: folds 
+ollikahn23: folds 
+peetje51: folds 
+Uncalled bet ($0.15) returned to cs-42o-
+cs-42o- collected $0.17 from pot
+*** SUMMARY ***
+Total pot $0.17 | Rake $0 
+Seat 1: shketik666 folded before Flop (didn't bet)
+Seat 2: peetje51 folded before Flop
+Seat 3: Sinad1302 folded before Flop (didn't bet)
+Seat 4: 123Tip123 folded before Flop (didn't bet)
+Seat 5: DollarUnit folded before Flop (didn't bet)
+Seat 6: cs-42o- collected ($0.17)
+Seat 7: rams0222 (button) folded before Flop (didn't bet)
+Seat 8: Ella233 (small blind) folded before Flop
+Seat 9: ollikahn23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #183854294578:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/14 17:31:07 ET
+Table 'Botolphia II' 9-max Seat #8 is the button
+Seat 1: shketik666 ($6.87 in chips) 
+Seat 2: peetje51 ($3.95 in chips) 
+Seat 3: Sinad1302 ($2.02 in chips) 
+Seat 4: 123Tip123 ($5.62 in chips) 
+Seat 5: DollarUnit ($5 in chips) 
+Seat 6: cs-42o- ($5.12 in chips) 
+Seat 7: rams0222 ($7.17 in chips) 
+Seat 8: Ella233 ($9.14 in chips) 
+Seat 9: ollikahn23 ($5 in chips) 
+ollikahn23: posts small blind $0.02
+shketik666: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7s Qs]
+peetje51: calls $0.05
+Sinad1302: raises $0.07 to $0.12
+123Tip123: folds 
+DollarUnit: folds 
+cs-42o-: folds 
+rams0222: raises $0.16 to $0.28
+Ella233: folds 
+ollikahn23: folds 
+shketik666: folds 
+peetje51: calls $0.23
+Sinad1302: folds 
+*** FLOP *** [6d 6s 9s]
+peetje51: checks 
+rams0222: bets $0.29
+peetje51: calls $0.29
+*** TURN *** [6d 6s 9s] [8s]
+peetje51: checks 
+rams0222: bets $0.60
+peetje51: raises $0.60 to $1.20
+rams0222: folds 
+Uncalled bet ($0.60) returned to peetje51
+peetje51 collected $2.43 from pot
+peetje51: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.53 | Rake $0.10 
+Board [6d 6s 9s 8s]
+Seat 1: shketik666 (big blind) folded before Flop
+Seat 2: peetje51 collected ($2.43)
+Seat 3: Sinad1302 folded before Flop
+Seat 4: 123Tip123 folded before Flop (didn't bet)
+Seat 5: DollarUnit folded before Flop (didn't bet)
+Seat 6: cs-42o- folded before Flop (didn't bet)
+Seat 7: rams0222 folded on the Turn
+Seat 8: Ella233 (button) folded before Flop (didn't bet)
+Seat 9: ollikahn23 (small blind) folded before Flop
+
+
+
+PokerStars Hand #183854367426:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/14 17:32:34 ET
+Table 'Botolphia II' 9-max Seat #9 is the button
+Seat 1: shketik666 ($6.82 in chips) 
+Seat 2: peetje51 ($5.21 in chips) 
+Seat 3: Sinad1302 ($1.90 in chips) 
+Seat 4: 123Tip123 ($5.62 in chips) 
+Seat 5: DollarUnit ($5 in chips) 
+Seat 6: cs-42o- ($5.12 in chips) 
+Seat 7: rams0222 ($6 in chips) 
+Seat 8: Ella233 ($9.14 in chips) 
+Seat 9: ollikahn23 ($5 in chips) 
+shketik666: posts small blind $0.02
+peetje51: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8h 5h]
+Sinad1302: folds 
+123Tip123: folds 
+DollarUnit: folds 
+cs-42o-: folds 
+rams0222: folds 
+Ella233: calls $0.05
+ollikahn23: calls $0.05
+shketik666: calls $0.03
+peetje51: checks 
+*** FLOP *** [8c 6d 6s]
+shketik666: checks 
+peetje51: checks 
+Ella233: bets $0.05
+ollikahn23: raises $0.10 to $0.15
+shketik666: folds 
+peetje51: folds 
+Ella233: calls $0.10
+*** TURN *** [8c 6d 6s] [As]
+Ella233: checks 
+ollikahn23: checks 
+*** RIVER *** [8c 6d 6s As] [6c]
+Ella233: checks 
+ollikahn23: bets $0.20
+Ella233: folds 
+Uncalled bet ($0.20) returned to ollikahn23
+ollikahn23 collected $0.48 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [8c 6d 6s As 6c]
+Seat 1: shketik666 (small blind) folded on the Flop
+Seat 2: peetje51 (big blind) folded on the Flop
+Seat 3: Sinad1302 folded before Flop (didn't bet)
+Seat 4: 123Tip123 folded before Flop (didn't bet)
+Seat 5: DollarUnit folded before Flop (didn't bet)
+Seat 6: cs-42o- folded before Flop (didn't bet)
+Seat 7: rams0222 folded before Flop (didn't bet)
+Seat 8: Ella233 folded on the River
+Seat 9: ollikahn23 (button) collected ($0.48)
+
+
+
+PokerStars Hand #183854425137:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/14 17:33:43 ET
+Table 'Botolphia II' 9-max Seat #1 is the button
+Seat 1: shketik666 ($6.77 in chips) 
+Seat 2: peetje51 ($5.16 in chips) 
+Seat 3: Sinad1302 ($1.90 in chips) 
+Seat 4: 123Tip123 ($5.62 in chips) 
+Seat 5: DollarUnit ($5 in chips) 
+Seat 6: cs-42o- ($5.12 in chips) 
+Seat 7: rams0222 ($6 in chips) 
+Seat 8: Ella233 ($8.94 in chips) 
+Seat 9: ollikahn23 ($5.28 in chips) 
+peetje51: posts small blind $0.02
+Sinad1302: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kh 7s]
+123Tip123: raises $0.10 to $0.15
+DollarUnit: folds 
+cs-42o-: folds 
+rams0222: folds 
+Ella233: folds 
+ollikahn23: folds 
+shketik666: folds 
+peetje51: calls $0.13
+Sinad1302: folds 
+*** FLOP *** [Jd 8d Qc]
+peetje51: checks 
+123Tip123: bets $0.34
+peetje51: folds 
+Uncalled bet ($0.34) returned to 123Tip123
+123Tip123 collected $0.34 from pot
+123Tip123: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [Jd 8d Qc]
+Seat 1: shketik666 (button) folded before Flop (didn't bet)
+Seat 2: peetje51 (small blind) folded on the Flop
+Seat 3: Sinad1302 (big blind) folded before Flop
+Seat 4: 123Tip123 collected ($0.34)
+Seat 5: DollarUnit folded before Flop (didn't bet)
+Seat 6: cs-42o- folded before Flop (didn't bet)
+Seat 7: rams0222 folded before Flop (didn't bet)
+Seat 8: Ella233 folded before Flop (didn't bet)
+Seat 9: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183854453192:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/14 17:34:17 ET
+Table 'Botolphia II' 9-max Seat #2 is the button
+Seat 1: shketik666 ($6.77 in chips) 
+Seat 2: peetje51 ($5.01 in chips) 
+Seat 3: Sinad1302 ($1.85 in chips) 
+Seat 4: 123Tip123 ($5.81 in chips) 
+Seat 5: DollarUnit ($5 in chips) 
+Seat 6: cs-42o- ($5.12 in chips) 
+Seat 7: rams0222 ($6 in chips) 
+Seat 8: Ella233 ($8.94 in chips) 
+Seat 9: ollikahn23 ($5.28 in chips) 
+Sinad1302: posts small blind $0.02
+123Tip123: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5c 6h]
+DollarUnit: folds 
+cs-42o-: folds 
+rams0222: calls $0.05
+Ella233: calls $0.05
+ollikahn23: folds 
+shketik666: folds 
+peetje51: folds 
+Sinad1302: calls $0.03
+123Tip123: checks 
+*** FLOP *** [4h Qd Ks]
+Sinad1302: checks 
+123Tip123: checks 
+rams0222: checks 
+Ella233: checks 
+*** TURN *** [4h Qd Ks] [Jd]
+Sinad1302: checks 
+123Tip123: checks 
+rams0222: checks 
+Ella233: checks 
+*** RIVER *** [4h Qd Ks Jd] [6d]
+Sinad1302: checks 
+123Tip123: checks 
+rams0222: checks 
+Ella233: checks 
+*** SHOW DOWN ***
+Sinad1302: shows [2s 5s] (high card King)
+123Tip123: mucks hand 
+rams0222: shows [7c 7s] (a pair of Sevens)
+Ella233: mucks hand 
+rams0222 collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [4h Qd Ks Jd 6d]
+Seat 1: shketik666 folded before Flop (didn't bet)
+Seat 2: peetje51 (button) folded before Flop (didn't bet)
+Seat 3: Sinad1302 (small blind) showed [2s 5s] and lost with high card King
+Seat 4: 123Tip123 (big blind) mucked [2d 3s]
+Seat 5: DollarUnit folded before Flop (didn't bet)
+Seat 6: cs-42o- folded before Flop (didn't bet)
+Seat 7: rams0222 showed [7c 7s] and won ($0.19) with a pair of Sevens
+Seat 8: Ella233 mucked [3c 4d]
+Seat 9: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183854508609:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/14 17:35:23 ET
+Table 'Botolphia II' 9-max Seat #3 is the button
+Seat 1: shketik666 ($6.77 in chips) 
+Seat 2: peetje51 ($5.01 in chips) 
+Seat 3: Sinad1302 ($1.80 in chips) 
+Seat 4: 123Tip123 ($5.76 in chips) 
+Seat 5: DollarUnit ($5 in chips) 
+Seat 6: cs-42o- ($5.12 in chips) 
+Seat 7: rams0222 ($6.14 in chips) 
+Seat 8: Ella233 ($8.89 in chips) 
+Seat 9: ollikahn23 ($5.28 in chips) 
+123Tip123: posts small blind $0.02
+DollarUnit: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7d Kh]
+cs-42o- has timed out
+cs-42o-: folds 
+rams0222: folds 
+Ella233: raises $0.25 to $0.30
+ollikahn23: folds 
+shketik666: folds 
+peetje51: folds 
+Sinad1302: folds 
+123Tip123: folds 
+DollarUnit: folds 
+Uncalled bet ($0.25) returned to Ella233
+Ella233 collected $0.12 from pot
+Ella233: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: shketik666 folded before Flop (didn't bet)
+Seat 2: peetje51 folded before Flop (didn't bet)
+Seat 3: Sinad1302 (button) folded before Flop (didn't bet)
+Seat 4: 123Tip123 (small blind) folded before Flop
+Seat 5: DollarUnit (big blind) folded before Flop
+Seat 6: cs-42o- folded before Flop (didn't bet)
+Seat 7: rams0222 folded before Flop (didn't bet)
+Seat 8: Ella233 collected ($0.12)
+Seat 9: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183854542625:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/14 17:36:04 ET
+Table 'Botolphia II' 9-max Seat #4 is the button
+Seat 1: shketik666 ($6.77 in chips) 
+Seat 2: peetje51 ($5.01 in chips) 
+Seat 3: Sinad1302 ($1.80 in chips) 
+Seat 4: 123Tip123 ($5.74 in chips) 
+Seat 5: DollarUnit ($5 in chips) 
+Seat 8: Ella233 ($8.96 in chips) 
+Seat 9: ollikahn23 ($5.28 in chips) 
+DollarUnit: posts small blind $0.02
+Ella233: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5s 9c]
+ollikahn23: folds 
+shketik666: folds 
+peetje51: folds 
+Sinad1302: folds 
+123Tip123: folds 
+DollarUnit: raises $0.10 to $0.15
+Ella233: folds 
+Uncalled bet ($0.10) returned to DollarUnit
+DollarUnit collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: shketik666 folded before Flop (didn't bet)
+Seat 2: peetje51 folded before Flop (didn't bet)
+Seat 3: Sinad1302 folded before Flop (didn't bet)
+Seat 4: 123Tip123 (button) folded before Flop (didn't bet)
+Seat 5: DollarUnit (small blind) collected ($0.10)
+Seat 8: Ella233 (big blind) folded before Flop
+Seat 9: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183854556439:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/14 17:36:21 ET
+Table 'Botolphia II' 9-max Seat #5 is the button
+Seat 1: shketik666 ($6.77 in chips) 
+Seat 2: peetje51 ($5.01 in chips) 
+Seat 3: Sinad1302 ($1.80 in chips) 
+Seat 4: 123Tip123 ($5.74 in chips) 
+Seat 5: DollarUnit ($5.05 in chips) 
+Seat 8: Ella233 ($8.91 in chips) 
+Seat 9: ollikahn23 ($5.28 in chips) 
+Ella233: posts small blind $0.02
+ollikahn23: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5s 5c]
+shketik666: folds 
+peetje51: calls $0.05
+Sinad1302: raises $0.10 to $0.15
+123Tip123: folds 
+DollarUnit: folds 
+Ella233: folds 
+ollikahn23: calls $0.10
+peetje51: calls $0.10
+*** FLOP *** [3d Jh 6c]
+ollikahn23: checks 
+peetje51: checks 
+Ella233 leaves the table
+Sinad1302: bets $0.20
+ollikahn23: folds 
+peetje51: folds 
+Uncalled bet ($0.20) returned to Sinad1302
+Sinad1302 collected $0.45 from pot
+*** SUMMARY ***
+Total pot $0.47 | Rake $0.02 
+Board [3d Jh 6c]
+Seat 1: shketik666 folded before Flop (didn't bet)
+Seat 2: peetje51 folded on the Flop
+Seat 3: Sinad1302 collected ($0.45)
+Seat 4: 123Tip123 folded before Flop (didn't bet)
+Seat 5: DollarUnit (button) folded before Flop (didn't bet)
+Seat 8: Ella233 (small blind) folded before Flop
+Seat 9: ollikahn23 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #183854581381:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/14 17:36:50 ET
+Table 'Botolphia II' 9-max Seat #9 is the button
+Seat 1: shketik666 ($6.77 in chips) 
+Seat 2: peetje51 ($4.86 in chips) 
+Seat 3: Sinad1302 ($2.10 in chips) 
+Seat 4: 123Tip123 ($5.74 in chips) 
+Seat 5: DollarUnit ($5.05 in chips) 
+Seat 9: ollikahn23 ($5.13 in chips) 
+shketik666: posts small blind $0.02
+peetje51: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3c Qd]
+Sinad1302: folds 
+123Tip123: folds 
+DollarUnit: raises $0.07 to $0.12
+ollikahn23: folds 
+shketik666: folds 
+peetje51: calls $0.07
+*** FLOP *** [8c 8d Kd]
+peetje51: checks 
+DollarUnit: bets $0.13
+peetje51: folds 
+Uncalled bet ($0.13) returned to DollarUnit
+DollarUnit collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [8c 8d Kd]
+Seat 1: shketik666 (small blind) folded before Flop
+Seat 2: peetje51 (big blind) folded on the Flop
+Seat 3: Sinad1302 folded before Flop (didn't bet)
+Seat 4: 123Tip123 folded before Flop (didn't bet)
+Seat 5: DollarUnit collected ($0.25)
+Seat 9: ollikahn23 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183854609077:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/14 17:37:24 ET
+Table 'Botolphia II' 9-max Seat #1 is the button
+Seat 1: shketik666 ($6.75 in chips) 
+Seat 2: peetje51 ($4.74 in chips) 
+Seat 3: Sinad1302 ($2.10 in chips) 
+Seat 4: 123Tip123 ($5.74 in chips) 
+Seat 5: DollarUnit ($5.18 in chips) 
+Seat 9: ollikahn23 ($5.13 in chips) 
+peetje51: posts small blind $0.02
+Sinad1302: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4h 4d]
+123Tip123: folds 
+DollarUnit: folds 
+ollikahn23: raises $0.10 to $0.15
+shketik666: folds 
+peetje51: folds 
+WKaiser87 joins the table at seat #8 
+Sinad1302: calls $0.10
+*** FLOP *** [Qc Td 3h]
+Sinad1302: checks 
+ollikahn23: bets $0.15
+Sinad1302: calls $0.15
+*** TURN *** [Qc Td 3h] [6s]
+Sinad1302: checks 
+ollikahn23: bets $0.35
+Sinad1302: calls $0.35
+*** RIVER *** [Qc Td 3h 6s] [Ad]
+Sinad1302: checks 
+ollikahn23: checks 
+*** SHOW DOWN ***
+Sinad1302: shows [8c 9h] (high card Ace)
+ollikahn23: shows [4h 4d] (a pair of Fours)
+ollikahn23 collected $1.27 from pot
+*** SUMMARY ***
+Total pot $1.32 | Rake $0.05 
+Board [Qc Td 3h 6s Ad]
+Seat 1: shketik666 (button) folded before Flop (didn't bet)
+Seat 2: peetje51 (small blind) folded before Flop
+Seat 3: Sinad1302 (big blind) showed [8c 9h] and lost with high card Ace
+Seat 4: 123Tip123 folded before Flop (didn't bet)
+Seat 5: DollarUnit folded before Flop (didn't bet)
+Seat 9: ollikahn23 showed [4h 4d] and won ($1.27) with a pair of Fours
+
+
+
+PokerStars Hand #183854663605:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/14 17:38:30 ET
+Table 'Botolphia II' 9-max Seat #2 is the button
+Seat 1: shketik666 ($6.75 in chips) 
+Seat 2: peetje51 ($4.72 in chips) 
+Seat 3: Sinad1302 ($1.45 in chips) 
+Seat 4: 123Tip123 ($5.74 in chips) 
+Seat 5: DollarUnit ($5.18 in chips) 
+Seat 9: ollikahn23 ($5.75 in chips) 
+Sinad1302: posts small blind $0.02
+123Tip123: posts big blind $0.05
+cs-42o-: sits out 
+WKaiser87: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2d 2s]
+DollarUnit: folds 
+ollikahn23: raises $0.10 to $0.15
+shketik666: folds 
+peetje51: folds 
+Sinad1302: folds 
+123Tip123: folds 
+Uncalled bet ($0.10) returned to ollikahn23
+ollikahn23 collected $0.12 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: shketik666 folded before Flop (didn't bet)
+Seat 2: peetje51 (button) folded before Flop (didn't bet)
+Seat 3: Sinad1302 (small blind) folded before Flop
+Seat 4: 123Tip123 (big blind) folded before Flop
+Seat 5: DollarUnit folded before Flop (didn't bet)
+Seat 9: ollikahn23 collected ($0.12)
+
+
+
+PokerStars Hand #183854690997:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/14 17:39:03 ET
+Table 'Botolphia II' 9-max Seat #3 is the button
+Seat 1: shketik666 ($6.75 in chips) 
+Seat 2: peetje51 ($4.72 in chips) 
+Seat 3: Sinad1302 ($1.43 in chips) 
+Seat 4: 123Tip123 ($5.69 in chips) 
+Seat 5: DollarUnit ($5.18 in chips) 
+Seat 9: ollikahn23 ($5.82 in chips) 
+123Tip123: posts small blind $0.02
+DollarUnit: posts big blind $0.05
+cs-42o-: sits out 
+rams0222: sits out 
+WKaiser87: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jd 7d]
+ollikahn23: folds 
+shketik666: raises $0.10 to $0.15
+peetje51: folds 
+Sinad1302: folds 
+cs-42o- leaves the table
+123Tip123: calls $0.13
+DollarUnit: calls $0.10
+*** FLOP *** [5c 2c 9c]
+123Tip123: checks 
+DollarUnit: checks 
+Norebo7 joins the table at seat #6 
+shketik666: bets $0.16
+123Tip123: folds 
+DollarUnit: folds 
+Uncalled bet ($0.16) returned to shketik666
+shketik666 collected $0.43 from pot
+shketik666: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [5c 2c 9c]
+Seat 1: shketik666 collected ($0.43)
+Seat 2: peetje51 folded before Flop (didn't bet)
+Seat 3: Sinad1302 (button) folded before Flop (didn't bet)
+Seat 4: 123Tip123 (small blind) folded on the Flop
+Seat 5: DollarUnit (big blind) folded on the Flop
+Seat 9: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183854749831:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/14 17:40:15 ET
+Table 'Botolphia II' 9-max Seat #4 is the button
+Seat 1: shketik666 ($7.03 in chips) 
+Seat 2: peetje51 ($4.72 in chips) 
+Seat 3: Sinad1302 ($1.43 in chips) 
+Seat 4: 123Tip123 ($5.54 in chips) 
+Seat 5: DollarUnit ($5.03 in chips) 
+Seat 6: Norebo7 ($4.86 in chips) 
+Seat 9: ollikahn23 ($5.82 in chips) 
+DollarUnit: posts small blind $0.02
+Norebo7: posts big blind $0.05
+rams0222: sits out 
+WKaiser87: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2d 3c]
+ollikahn23: folds 
+shketik666: folds 
+peetje51: calls $0.05
+Sinad1302: raises $0.06 to $0.11
+123Tip123: folds 
+DollarUnit: folds 
+Norebo7: calls $0.06
+peetje51: calls $0.06
+*** FLOP *** [Qh Kc 8h]
+Norebo7: checks 
+peetje51: checks 
+Sinad1302: bets $0.11
+Norebo7: folds 
+peetje51: calls $0.11
+*** TURN *** [Qh Kc 8h] [8d]
+peetje51: bets $0.30
+Sinad1302: calls $0.30
+*** RIVER *** [Qh Kc 8h 8d] [4c]
+peetje51: bets $0.30
+Sinad1302: calls $0.30
+*** SHOW DOWN ***
+peetje51: shows [Ad 6s] (a pair of Eights)
+Sinad1302: shows [Ts Qs] (two pair, Queens and Eights)
+Sinad1302 collected $1.70 from pot
+*** SUMMARY ***
+Total pot $1.77 | Rake $0.07 
+Board [Qh Kc 8h 8d 4c]
+Seat 1: shketik666 folded before Flop (didn't bet)
+Seat 2: peetje51 showed [Ad 6s] and lost with a pair of Eights
+Seat 3: Sinad1302 showed [Ts Qs] and won ($1.70) with two pair, Queens and Eights
+Seat 4: 123Tip123 (button) folded before Flop (didn't bet)
+Seat 5: DollarUnit (small blind) folded before Flop
+Seat 6: Norebo7 (big blind) folded on the Flop
+Seat 9: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183854795458:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/14 17:41:11 ET
+Table 'Botolphia II' 9-max Seat #5 is the button
+Seat 1: shketik666 ($7.03 in chips) 
+Seat 2: peetje51 ($3.90 in chips) 
+Seat 3: Sinad1302 ($2.31 in chips) 
+Seat 4: 123Tip123 ($5.54 in chips) 
+Seat 5: DollarUnit ($5.01 in chips) 
+Seat 6: Norebo7 ($4.75 in chips) 
+Seat 7: rams0222 ($6.14 in chips) 
+Seat 9: ollikahn23 ($5.82 in chips) 
+Norebo7: posts small blind $0.02
+rams0222: posts big blind $0.05
+WKaiser87: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5s 3s]
+ollikahn23: folds 
+shketik666: folds 
+peetje51: calls $0.05
+Sinad1302: raises $0.10 to $0.15
+123Tip123: folds 
+DollarUnit: folds 
+Norebo7: folds 
+rams0222: folds 
+peetje51: calls $0.10
+*** FLOP *** [6c 5d 4c]
+peetje51: checks 
+Sinad1302: bets $0.15
+peetje51: raises $0.15 to $0.30
+Sinad1302: calls $0.15
+*** TURN *** [6c 5d 4c] [Ah]
+peetje51: bets $0.50
+Sinad1302: calls $0.50
+*** RIVER *** [6c 5d 4c Ah] [Jh]
+peetje51: bets $0.75
+Sinad1302: calls $0.75
+*** SHOW DOWN ***
+peetje51: shows [4h 6s] (two pair, Sixes and Fours)
+Sinad1302: mucks hand 
+peetje51 collected $3.33 from pot
+*** SUMMARY ***
+Total pot $3.47 | Rake $0.14 
+Board [6c 5d 4c Ah Jh]
+Seat 1: shketik666 folded before Flop (didn't bet)
+Seat 2: peetje51 showed [4h 6s] and won ($3.33) with two pair, Sixes and Fours
+Seat 3: Sinad1302 mucked [9c 9s]
+Seat 4: 123Tip123 folded before Flop (didn't bet)
+Seat 5: DollarUnit (button) folded before Flop (didn't bet)
+Seat 6: Norebo7 (small blind) folded before Flop
+Seat 7: rams0222 (big blind) folded before Flop
+Seat 9: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183854848999:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/14 17:42:16 ET
+Table 'Botolphia II' 9-max Seat #6 is the button
+Seat 1: shketik666 ($7.03 in chips) 
+Seat 2: peetje51 ($5.53 in chips) 
+Seat 3: Sinad1302 ($0.61 in chips) 
+Seat 4: 123Tip123 ($5.54 in chips) 
+Seat 5: DollarUnit ($5.01 in chips) 
+Seat 6: Norebo7 ($4.73 in chips) 
+Seat 7: rams0222 ($6.09 in chips) 
+Seat 8: WKaiser87 ($5 in chips) 
+Seat 9: ollikahn23 ($5.82 in chips) 
+rams0222: posts small blind $0.02
+WKaiser87: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ts 6d]
+ollikahn23: folds 
+shketik666: folds 
+peetje51: calls $0.05
+Sinad1302: folds 
+Sinad1302 leaves the table
+KAt0t0KA joins the table at seat #3 
+123Tip123: folds 
+DollarUnit: folds 
+Norebo7: calls $0.05
+rams0222: folds 
+WKaiser87: checks 
+*** FLOP *** [Qd Ks 9s]
+WKaiser87: checks 
+peetje51: checks 
+Norebo7: checks 
+*** TURN *** [Qd Ks 9s] [6c]
+WKaiser87: checks 
+peetje51: checks 
+Norebo7: checks 
+*** RIVER *** [Qd Ks 9s 6c] [Jd]
+WKaiser87: checks 
+peetje51: bets $0.15
+Norebo7: folds 
+WKaiser87: folds 
+Uncalled bet ($0.15) returned to peetje51
+peetje51 collected $0.16 from pot
+peetje51: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.17 | Rake $0.01 
+Board [Qd Ks 9s 6c Jd]
+Seat 1: shketik666 folded before Flop (didn't bet)
+Seat 2: peetje51 collected ($0.16)
+Seat 3: Sinad1302 folded before Flop (didn't bet)
+Seat 4: 123Tip123 folded before Flop (didn't bet)
+Seat 5: DollarUnit folded before Flop (didn't bet)
+Seat 6: Norebo7 (button) folded on the River
+Seat 7: rams0222 (small blind) folded before Flop
+Seat 8: WKaiser87 (big blind) folded on the River
+Seat 9: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183854904034:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/14 17:43:24 ET
+Table 'Botolphia II' 9-max Seat #7 is the button
+Seat 1: shketik666 ($7.03 in chips) 
+Seat 2: peetje51 ($5.64 in chips) 
+Seat 4: 123Tip123 ($5.54 in chips) 
+Seat 5: DollarUnit ($5.01 in chips) 
+Seat 6: Norebo7 ($4.68 in chips) 
+Seat 7: rams0222 ($6.07 in chips) 
+Seat 8: WKaiser87 ($5 in chips) 
+Seat 9: ollikahn23 ($5.82 in chips) 
+WKaiser87: posts small blind $0.02
+ollikahn23: posts big blind $0.05
+KAt0t0KA: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qd 8d]
+shketik666: folds 
+peetje51: calls $0.05
+123Tip123: folds 
+DollarUnit: folds 
+Norebo7: folds 
+rams0222: folds 
+WKaiser87: folds 
+ollikahn23: checks 
+*** FLOP *** [8c Ts Qh]
+ollikahn23: checks 
+peetje51: bets $0.05
+ollikahn23: raises $0.10 to $0.15
+peetje51: calls $0.10
+*** TURN *** [8c Ts Qh] [7s]
+ollikahn23: bets $0.30
+peetje51: calls $0.30
+*** RIVER *** [8c Ts Qh 7s] [Kd]
+ollikahn23: bets $0.45
+peetje51: folds 
+Uncalled bet ($0.45) returned to ollikahn23
+ollikahn23 collected $0.98 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.02 | Rake $0.04 
+Board [8c Ts Qh 7s Kd]
+Seat 1: shketik666 folded before Flop (didn't bet)
+Seat 2: peetje51 folded on the River
+Seat 4: 123Tip123 folded before Flop (didn't bet)
+Seat 5: DollarUnit folded before Flop (didn't bet)
+Seat 6: Norebo7 folded before Flop (didn't bet)
+Seat 7: rams0222 (button) folded before Flop (didn't bet)
+Seat 8: WKaiser87 (small blind) folded before Flop
+Seat 9: ollikahn23 (big blind) collected ($0.98)
+
+
+
+PokerStars Hand #183854953637:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/14 17:44:24 ET
+Table 'Botolphia II' 9-max Seat #8 is the button
+Seat 1: shketik666 ($7.03 in chips) 
+Seat 2: peetje51 ($5.14 in chips) 
+Seat 4: 123Tip123 ($5.54 in chips) 
+Seat 5: DollarUnit ($5.01 in chips) 
+Seat 6: Norebo7 ($4.68 in chips) 
+Seat 7: rams0222 ($6.07 in chips) 
+Seat 8: WKaiser87 ($5 in chips) 
+Seat 9: ollikahn23 ($6.30 in chips) 
+ollikahn23: posts small blind $0.02
+shketik666: posts big blind $0.05
+KAt0t0KA: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7s Ad]
+peetje51: calls $0.05
+123Tip123: folds 
+DollarUnit: folds 
+Norebo7: folds 
+rams0222: folds 
+WKaiser87: folds 
+ollikahn23: folds 
+shketik666: checks 
+*** FLOP *** [4h 7h Kd]
+shketik666: checks 
+peetje51: bets $0.10
+shketik666: folds 
+Uncalled bet ($0.10) returned to peetje51
+peetje51 collected $0.12 from pot
+peetje51: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [4h 7h Kd]
+Seat 1: shketik666 (big blind) folded on the Flop
+Seat 2: peetje51 collected ($0.12)
+Seat 4: 123Tip123 folded before Flop (didn't bet)
+Seat 5: DollarUnit folded before Flop (didn't bet)
+Seat 6: Norebo7 folded before Flop (didn't bet)
+Seat 7: rams0222 folded before Flop (didn't bet)
+Seat 8: WKaiser87 (button) folded before Flop (didn't bet)
+Seat 9: ollikahn23 (small blind) folded before Flop
+
+
+
+PokerStars Hand #183854978321:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/14 17:44:54 ET
+Table 'Botolphia II' 9-max Seat #9 is the button
+Seat 1: shketik666 ($6.98 in chips) 
+Seat 2: peetje51 ($5.21 in chips) 
+Seat 4: 123Tip123 ($5.54 in chips) 
+Seat 5: DollarUnit ($5.01 in chips) 
+Seat 6: Norebo7 ($4.68 in chips) 
+Seat 7: rams0222 ($6.07 in chips) 
+Seat 8: WKaiser87 ($5 in chips) 
+Seat 9: ollikahn23 ($6.28 in chips) 
+shketik666: posts small blind $0.02
+peetje51: posts big blind $0.05
+KAt0t0KA: sits out 
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4h Kc]
+123Tip123: folds 
+DollarUnit: raises $0.07 to $0.12
+Norebo7: folds 
+rams0222: calls $0.12
+WKaiser87: folds 
+ollikahn23: folds 
+shketik666: folds 
+peetje51: calls $0.07
+*** FLOP *** [Qh Ks Ts]
+peetje51: checks 
+DollarUnit: checks 
+rams0222: bets $0.14
+peetje51: calls $0.14
+DollarUnit: folds 
+*** TURN *** [Qh Ks Ts] [6d]
+peetje51: checks 
+rams0222: bets $0.25
+peetje51: folds 
+Uncalled bet ($0.25) returned to rams0222
+rams0222 collected $0.63 from pot
+rams0222: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.66 | Rake $0.03 
+Board [Qh Ks Ts 6d]
+Seat 1: shketik666 (small blind) folded before Flop
+Seat 2: peetje51 (big blind) folded on the Turn
+Seat 4: 123Tip123 folded before Flop (didn't bet)
+Seat 5: DollarUnit folded on the Flop
+Seat 6: Norebo7 folded before Flop (didn't bet)
+Seat 7: rams0222 collected ($0.63)
+Seat 8: WKaiser87 folded before Flop (didn't bet)
+Seat 9: ollikahn23 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183855031830:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/14 17:45:59 ET
+Table 'Botolphia II' 9-max Seat #1 is the button
+Seat 1: shketik666 ($6.96 in chips) 
+Seat 2: peetje51 ($4.95 in chips) 
+Seat 3: KAt0t0KA ($5 in chips) 
+Seat 4: 123Tip123 ($5.54 in chips) 
+Seat 5: DollarUnit ($5 in chips) 
+Seat 6: Norebo7 ($4.68 in chips) 
+Seat 7: rams0222 ($6.44 in chips) 
+Seat 8: WKaiser87 ($5 in chips) 
+Seat 9: ollikahn23 ($6.28 in chips) 
+peetje51: posts small blind $0.02
+KAt0t0KA: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2s Kc]
+123Tip123: folds 
+DollarUnit: folds 
+Norebo7: folds 
+rams0222: folds 
+WKaiser87: folds 
+ollikahn23: folds 
+shketik666: folds 
+peetje51: calls $0.03
+KAt0t0KA: checks 
+*** FLOP *** [As 5d 2c]
+peetje51: checks 
+KAt0t0KA: checks 
+*** TURN *** [As 5d 2c] [3s]
+peetje51: bets $0.05
+KAt0t0KA: folds 
+Uncalled bet ($0.05) returned to peetje51
+peetje51 collected $0.10 from pot
+peetje51: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [As 5d 2c 3s]
+Seat 1: shketik666 (button) folded before Flop (didn't bet)
+Seat 2: peetje51 (small blind) collected ($0.10)
+Seat 3: KAt0t0KA (big blind) folded on the Turn
+Seat 4: 123Tip123 folded before Flop (didn't bet)
+Seat 5: DollarUnit folded before Flop (didn't bet)
+Seat 6: Norebo7 folded before Flop (didn't bet)
+Seat 7: rams0222 folded before Flop (didn't bet)
+Seat 8: WKaiser87 folded before Flop (didn't bet)
+Seat 9: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183855067399:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/14 17:46:42 ET
+Table 'Botolphia II' 9-max Seat #2 is the button
+Seat 1: shketik666 ($6.96 in chips) 
+Seat 2: peetje51 ($5 in chips) 
+Seat 3: KAt0t0KA ($5 in chips) 
+Seat 4: 123Tip123 ($5.54 in chips) 
+Seat 5: DollarUnit ($5 in chips) 
+Seat 6: Norebo7 ($4.68 in chips) 
+Seat 7: rams0222 ($6.44 in chips) 
+Seat 8: WKaiser87 ($5 in chips) 
+Seat 9: ollikahn23 ($6.28 in chips) 
+KAt0t0KA: posts small blind $0.02
+123Tip123: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8c 6s]
+DollarUnit: raises $0.07 to $0.12
+Norebo7: folds 
+rams0222: folds 
+WKaiser87: folds 
+ollikahn23: folds 
+shketik666: folds 
+peetje51: folds 
+KAt0t0KA: folds 
+123Tip123: folds 
+Uncalled bet ($0.07) returned to DollarUnit
+DollarUnit collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Seat 1: shketik666 folded before Flop (didn't bet)
+Seat 2: peetje51 (button) folded before Flop (didn't bet)
+Seat 3: KAt0t0KA (small blind) folded before Flop
+Seat 4: 123Tip123 (big blind) folded before Flop
+Seat 5: DollarUnit collected ($0.12)
+Seat 6: Norebo7 folded before Flop (didn't bet)
+Seat 7: rams0222 folded before Flop (didn't bet)
+Seat 8: WKaiser87 folded before Flop (didn't bet)
+Seat 9: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183855096239:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/14 17:47:17 ET
+Table 'Botolphia II' 9-max Seat #3 is the button
+Seat 1: shketik666 ($6.96 in chips) 
+Seat 2: peetje51 ($5 in chips) 
+Seat 3: KAt0t0KA ($5 in chips) 
+Seat 4: 123Tip123 ($5.49 in chips) 
+Seat 5: DollarUnit ($5.07 in chips) 
+Seat 6: Norebo7 ($4.68 in chips) 
+Seat 7: rams0222 ($6.44 in chips) 
+Seat 8: WKaiser87 ($5 in chips) 
+Seat 9: ollikahn23 ($6.28 in chips) 
+123Tip123: posts small blind $0.02
+DollarUnit: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5c 7c]
+Norebo7: folds 
+rams0222: folds 
+WKaiser87: folds 
+ollikahn23: folds 
+shketik666: folds 
+peetje51: calls $0.05
+KAt0t0KA: folds 
+123Tip123: folds 
+DollarUnit: raises $0.15 to $0.20
+peetje51: calls $0.15
+*** FLOP *** [6c 2s 2h]
+DollarUnit: bets $0.21
+peetje51: calls $0.21
+*** TURN *** [6c 2s 2h] [3s]
+DollarUnit: checks 
+peetje51: bets $0.30
+DollarUnit: folds 
+Uncalled bet ($0.30) returned to peetje51
+peetje51 collected $0.81 from pot
+peetje51: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.84 | Rake $0.03 
+Board [6c 2s 2h 3s]
+Seat 1: shketik666 folded before Flop (didn't bet)
+Seat 2: peetje51 collected ($0.81)
+Seat 3: KAt0t0KA (button) folded before Flop (didn't bet)
+Seat 4: 123Tip123 (small blind) folded before Flop
+Seat 5: DollarUnit (big blind) folded on the Turn
+Seat 6: Norebo7 folded before Flop (didn't bet)
+Seat 7: rams0222 folded before Flop (didn't bet)
+Seat 8: WKaiser87 folded before Flop (didn't bet)
+Seat 9: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183855164556:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/14 17:48:40 ET
+Table 'Botolphia II' 9-max Seat #4 is the button
+Seat 1: shketik666 ($6.96 in chips) 
+Seat 2: peetje51 ($5.40 in chips) 
+Seat 3: KAt0t0KA ($5 in chips) 
+Seat 4: 123Tip123 ($5.47 in chips) 
+Seat 5: DollarUnit ($5 in chips) 
+Seat 6: Norebo7 ($4.68 in chips) 
+Seat 7: rams0222 ($6.44 in chips) 
+Seat 8: WKaiser87 ($5 in chips) 
+Seat 9: ollikahn23 ($6.28 in chips) 
+DollarUnit: posts small blind $0.02
+Norebo7: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4s 7h]
+rams0222: raises $0.10 to $0.15
+WKaiser87: calls $0.15
+ollikahn23: folds 
+shketik666: folds 
+peetje51: calls $0.15
+KAt0t0KA: folds 
+123Tip123: folds 
+DollarUnit: folds 
+Norebo7: calls $0.10
+*** FLOP *** [2h 8d 6c]
+Norebo7: checks 
+rams0222: bets $0.41
+WKaiser87: raises $0.74 to $1.15
+peetje51: folds 
+Norebo7: folds 
+rams0222: folds 
+Uncalled bet ($0.74) returned to WKaiser87
+WKaiser87 collected $1.38 from pot
+WKaiser87: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.44 | Rake $0.06 
+Board [2h 8d 6c]
+Seat 1: shketik666 folded before Flop (didn't bet)
+Seat 2: peetje51 folded on the Flop
+Seat 3: KAt0t0KA folded before Flop (didn't bet)
+Seat 4: 123Tip123 (button) folded before Flop (didn't bet)
+Seat 5: DollarUnit (small blind) folded before Flop
+Seat 6: Norebo7 (big blind) folded on the Flop
+Seat 7: rams0222 folded on the Flop
+Seat 8: WKaiser87 collected ($1.38)
+Seat 9: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183855209591:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/14 17:49:35 ET
+Table 'Botolphia II' 9-max Seat #5 is the button
+Seat 1: shketik666 ($6.96 in chips) 
+Seat 2: peetje51 ($5.25 in chips) 
+Seat 3: KAt0t0KA ($5 in chips) 
+Seat 4: 123Tip123 ($5.47 in chips) 
+Seat 5: DollarUnit ($5 in chips) 
+Seat 6: Norebo7 ($4.53 in chips) 
+Seat 7: rams0222 ($5.88 in chips) 
+Seat 8: WKaiser87 ($5.82 in chips) 
+Seat 9: ollikahn23 ($6.28 in chips) 
+Norebo7: posts small blind $0.02
+rams0222: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5s Qc]
+WKaiser87: folds 
+ollikahn23: folds 
+shketik666: raises $0.10 to $0.15
+peetje51: calls $0.15
+KAt0t0KA: folds 
+123Tip123: calls $0.15
+DollarUnit: folds 
+Norebo7: folds 
+rams0222: folds 
+*** FLOP *** [6c 3c 8s]
+shketik666: bets $0.25
+peetje51: calls $0.25
+123Tip123: calls $0.25
+*** TURN *** [6c 3c 8s] [3h]
+shketik666: checks 
+peetje51: bets $0.50
+123Tip123: calls $0.50
+shketik666: folds 
+*** RIVER *** [6c 3c 8s 3h] [9h]
+peetje51: bets $0.90
+123Tip123: calls $0.90
+*** SHOW DOWN ***
+peetje51: shows [Js As] (a pair of Threes)
+123Tip123: shows [Ac 9c] (two pair, Nines and Threes)
+123Tip123 collected $3.90 from pot
+*** SUMMARY ***
+Total pot $4.07 | Rake $0.17 
+Board [6c 3c 8s 3h 9h]
+Seat 1: shketik666 folded on the Turn
+Seat 2: peetje51 showed [Js As] and lost with a pair of Threes
+Seat 3: KAt0t0KA folded before Flop (didn't bet)
+Seat 4: 123Tip123 showed [Ac 9c] and won ($3.90) with two pair, Nines and Threes
+Seat 5: DollarUnit (button) folded before Flop (didn't bet)
+Seat 6: Norebo7 (small blind) folded before Flop
+Seat 7: rams0222 (big blind) folded before Flop
+Seat 8: WKaiser87 folded before Flop (didn't bet)
+Seat 9: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183855272047:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/14 17:50:51 ET
+Table 'Botolphia II' 9-max Seat #6 is the button
+Seat 1: shketik666 ($6.56 in chips) 
+Seat 2: peetje51 ($3.45 in chips) 
+Seat 3: KAt0t0KA ($5 in chips) 
+Seat 4: 123Tip123 ($7.57 in chips) 
+Seat 5: DollarUnit ($5 in chips) 
+Seat 6: Norebo7 ($4.51 in chips) 
+Seat 7: rams0222 ($5.83 in chips) 
+Seat 8: WKaiser87 ($5.82 in chips) 
+Seat 9: ollikahn23 ($6.28 in chips) 
+rams0222: posts small blind $0.02
+WKaiser87: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8d 4d]
+ollikahn23: folds 
+shketik666: folds 
+peetje51: calls $0.05
+KAt0t0KA: folds 
+123Tip123: folds 
+DollarUnit: raises $0.17 to $0.22
+Norebo7: folds 
+rams0222: folds 
+WKaiser87: folds 
+peetje51: calls $0.17
+*** FLOP *** [2s 5c 8h]
+peetje51: checks 
+DollarUnit: bets $0.25
+peetje51: folds 
+Uncalled bet ($0.25) returned to DollarUnit
+DollarUnit collected $0.49 from pot
+*** SUMMARY ***
+Total pot $0.51 | Rake $0.02 
+Board [2s 5c 8h]
+Seat 1: shketik666 folded before Flop (didn't bet)
+Seat 2: peetje51 folded on the Flop
+Seat 3: KAt0t0KA folded before Flop (didn't bet)
+Seat 4: 123Tip123 folded before Flop (didn't bet)
+Seat 5: DollarUnit collected ($0.49)
+Seat 6: Norebo7 (button) folded before Flop (didn't bet)
+Seat 7: rams0222 (small blind) folded before Flop
+Seat 8: WKaiser87 (big blind) folded before Flop
+Seat 9: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183855314583:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/14 17:51:43 ET
+Table 'Botolphia II' 9-max Seat #7 is the button
+Seat 1: shketik666 ($6.56 in chips) 
+Seat 2: peetje51 ($3.23 in chips) 
+Seat 3: KAt0t0KA ($5 in chips) 
+Seat 4: 123Tip123 ($7.57 in chips) 
+Seat 5: DollarUnit ($5.27 in chips) 
+Seat 6: Norebo7 ($4.51 in chips) 
+Seat 7: rams0222 ($5.81 in chips) 
+Seat 8: WKaiser87 ($5.77 in chips) 
+Seat 9: ollikahn23 ($6.28 in chips) 
+WKaiser87: posts small blind $0.02
+ollikahn23: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5h 7h]
+shketik666: folds 
+peetje51: calls $0.05
+KAt0t0KA: folds 
+123Tip123: folds 
+DollarUnit: folds 
+Norebo7: folds 
+rams0222: folds 
+WKaiser87: raises $0.20 to $0.25
+ollikahn23: folds 
+peetje51: calls $0.20
+*** FLOP *** [8c Jc 5c]
+WKaiser87: checks 
+peetje51: bets $0.10
+WKaiser87: calls $0.10
+*** TURN *** [8c Jc 5c] [5s]
+WKaiser87: checks 
+peetje51: bets $0.20
+WKaiser87: calls $0.20
+*** RIVER *** [8c Jc 5c 5s] [Qc]
+WKaiser87: checks 
+peetje51: bets $2.68 and is all-in
+WKaiser87: folds 
+Uncalled bet ($2.68) returned to peetje51
+peetje51 collected $1.10 from pot
+peetje51: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.15 | Rake $0.05 
+Board [8c Jc 5c 5s Qc]
+Seat 1: shketik666 folded before Flop (didn't bet)
+Seat 2: peetje51 collected ($1.10)
+Seat 3: KAt0t0KA folded before Flop (didn't bet)
+Seat 4: 123Tip123 folded before Flop (didn't bet)
+Seat 5: DollarUnit folded before Flop (didn't bet)
+Seat 6: Norebo7 folded before Flop (didn't bet)
+Seat 7: rams0222 (button) folded before Flop (didn't bet)
+Seat 8: WKaiser87 (small blind) folded on the River
+Seat 9: ollikahn23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #183855357325:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/14 17:52:36 ET
+Table 'Botolphia II' 9-max Seat #8 is the button
+Seat 1: shketik666 ($6.56 in chips) 
+Seat 2: peetje51 ($3.78 in chips) 
+Seat 3: KAt0t0KA ($5 in chips) 
+Seat 4: 123Tip123 ($7.57 in chips) 
+Seat 5: DollarUnit ($5.27 in chips) 
+Seat 6: Norebo7 ($4.51 in chips) 
+Seat 7: rams0222 ($5.81 in chips) 
+Seat 8: WKaiser87 ($5.22 in chips) 
+Seat 9: ollikahn23 ($6.23 in chips) 
+ollikahn23: posts small blind $0.02
+shketik666: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6s 5h]
+peetje51: calls $0.05
+KAt0t0KA: folds 
+123Tip123: folds 
+DollarUnit: folds 
+Norebo7: folds 
+rams0222: raises $0.15 to $0.20
+WKaiser87: folds 
+ollikahn23: folds 
+shketik666: folds 
+peetje51: calls $0.15
+*** FLOP *** [7c 9d Td]
+peetje51: checks 
+rams0222: bets $0.32
+peetje51: calls $0.32
+*** TURN *** [7c 9d Td] [8c]
+peetje51: checks 
+rams0222: bets $0.74
+peetje51: raises $0.74 to $1.48
+rams0222: calls $0.74
+*** RIVER *** [7c 9d Td 8c] [7h]
+peetje51: bets $1
+rams0222: calls $1
+*** SHOW DOWN ***
+peetje51: shows [Qs Jd] (a straight, Eight to Queen)
+rams0222: mucks hand 
+peetje51 collected $5.82 from pot
+*** SUMMARY ***
+Total pot $6.07 | Rake $0.25 
+Board [7c 9d Td 8c 7h]
+Seat 1: shketik666 (big blind) folded before Flop
+Seat 2: peetje51 showed [Qs Jd] and won ($5.82) with a straight, Eight to Queen
+Seat 3: KAt0t0KA folded before Flop (didn't bet)
+Seat 4: 123Tip123 folded before Flop (didn't bet)
+Seat 5: DollarUnit folded before Flop (didn't bet)
+Seat 6: Norebo7 folded before Flop (didn't bet)
+Seat 7: rams0222 mucked [Kh Ad]
+Seat 8: WKaiser87 (button) folded before Flop (didn't bet)
+Seat 9: ollikahn23 (small blind) folded before Flop
+
+
+
+PokerStars Hand #183855422896:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/14 17:53:58 ET
+Table 'Botolphia II' 9-max Seat #9 is the button
+Seat 1: shketik666 ($6.51 in chips) 
+Seat 2: peetje51 ($6.60 in chips) 
+Seat 3: KAt0t0KA ($5 in chips) 
+Seat 4: 123Tip123 ($7.57 in chips) 
+Seat 5: DollarUnit ($5.27 in chips) 
+Seat 6: Norebo7 ($4.51 in chips) 
+Seat 7: rams0222 ($5 in chips) 
+Seat 8: WKaiser87 ($5.22 in chips) 
+Seat 9: ollikahn23 ($6.21 in chips) 
+shketik666: posts small blind $0.02
+peetje51: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qc 5c]
+KAt0t0KA: folds 
+123Tip123: folds 
+DollarUnit: folds 
+Norebo7: folds 
+rams0222: folds 
+WKaiser87: folds 
+ollikahn23: raises $0.10 to $0.15
+shketik666: folds 
+peetje51: calls $0.10
+*** FLOP *** [Th Qd 8s]
+peetje51: checks 
+ollikahn23: bets $0.15
+peetje51: calls $0.15
+*** TURN *** [Th Qd 8s] [Jh]
+peetje51: checks 
+ollikahn23: checks 
+*** RIVER *** [Th Qd 8s Jh] [5s]
+peetje51: bets $0.25
+ollikahn23: calls $0.25
+*** SHOW DOWN ***
+peetje51: shows [8c 7d] (a pair of Eights)
+ollikahn23: shows [Qc 5c] (two pair, Queens and Fives)
+ollikahn23 collected $1.07 from pot
+*** SUMMARY ***
+Total pot $1.12 | Rake $0.05 
+Board [Th Qd 8s Jh 5s]
+Seat 1: shketik666 (small blind) folded before Flop
+Seat 2: peetje51 (big blind) showed [8c 7d] and lost with a pair of Eights
+Seat 3: KAt0t0KA folded before Flop (didn't bet)
+Seat 4: 123Tip123 folded before Flop (didn't bet)
+Seat 5: DollarUnit folded before Flop (didn't bet)
+Seat 6: Norebo7 folded before Flop (didn't bet)
+Seat 7: rams0222 folded before Flop (didn't bet)
+Seat 8: WKaiser87 folded before Flop (didn't bet)
+Seat 9: ollikahn23 (button) showed [Qc 5c] and won ($1.07) with two pair, Queens and Fives
+
+
+
+PokerStars Hand #183855464478:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/14 17:54:50 ET
+Table 'Botolphia II' 9-max Seat #1 is the button
+Seat 1: shketik666 ($6.49 in chips) 
+Seat 2: peetje51 ($6.05 in chips) 
+Seat 3: KAt0t0KA ($5 in chips) 
+Seat 4: 123Tip123 ($7.57 in chips) 
+Seat 5: DollarUnit ($5.27 in chips) 
+Seat 6: Norebo7 ($4.51 in chips) 
+Seat 7: rams0222 ($5 in chips) 
+Seat 8: WKaiser87 ($5.22 in chips) 
+Seat 9: ollikahn23 ($6.73 in chips) 
+peetje51: posts small blind $0.02
+KAt0t0KA: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Jh 2d]
+123Tip123: folds 
+DollarUnit: folds 
+Norebo7: folds 
+rams0222: folds 
+WKaiser87: folds 
+ollikahn23: folds 
+shketik666: raises $0.10 to $0.15
+peetje51: calls $0.13
+KAt0t0KA: folds 
+*** FLOP *** [9h Ac As]
+peetje51: checks 
+shketik666: bets $0.23
+peetje51: folds 
+Uncalled bet ($0.23) returned to shketik666
+shketik666 collected $0.34 from pot
+shketik666: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01 
+Board [9h Ac As]
+Seat 1: shketik666 (button) collected ($0.34)
+Seat 2: peetje51 (small blind) folded on the Flop
+Seat 3: KAt0t0KA (big blind) folded before Flop
+Seat 4: 123Tip123 folded before Flop (didn't bet)
+Seat 5: DollarUnit folded before Flop (didn't bet)
+Seat 6: Norebo7 folded before Flop (didn't bet)
+Seat 7: rams0222 folded before Flop (didn't bet)
+Seat 8: WKaiser87 folded before Flop (didn't bet)
+Seat 9: ollikahn23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #183855487689:  Hold'em No Limit ($0.02/$0.05 USD) - 2018/03/14 17:55:23 ET
+Table 'Botolphia II' 9-max Seat #2 is the button
+Seat 1: shketik666 ($6.68 in chips) 
+Seat 2: peetje51 ($5.90 in chips) 
+Seat 3: KAt0t0KA ($5 in chips) 
+Seat 5: DollarUnit ($5.27 in chips) 
+Seat 6: Norebo7 ($4.51 in chips) 
+Seat 7: rams0222 ($5 in chips) 
+Seat 8: WKaiser87 ($5.22 in chips) 
+Seat 9: ollikahn23 ($6.73 in chips) 
+KAt0t0KA: posts small blind $0.02
+123Tip123: is sitting out 
+DollarUnit: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Th 5s]
+Norebo7: folds 
+rams0222: folds 
+WKaiser87: raises $0.10 to $0.15
+ollikahn23: folds 
+shketik666: calls $0.15
+peetje51: folds 
+KAt0t0KA: folds 
+DollarUnit: raises $0.47 to $0.62
+WKaiser87: folds 
+shketik666: folds 
+Uncalled bet ($0.47) returned to DollarUnit
+DollarUnit collected $0.47 from pot
+*** SUMMARY ***
+Total pot $0.47 | Rake $0 
+Seat 1: shketik666 folded before Flop
+Seat 2: peetje51 (button) folded before Flop (didn't bet)
+Seat 3: KAt0t0KA (small blind) folded before Flop
+Seat 5: DollarUnit (big blind) collected ($0.47)
+Seat 6: Norebo7 folded before Flop (didn't bet)
+Seat 7: rams0222 folded before Flop (didn't bet)
+Seat 8: WKaiser87 folded before Flop
+Seat 9: ollikahn23 folded before Flop (didn't bet)
+
+
+
