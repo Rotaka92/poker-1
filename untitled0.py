@@ -140,12 +140,11 @@ p.combo
 
 
 
-
 #what is our position
 p.seat
 
 #what is our positon regarding to the button (utg, utg+1, etc.)
-hh.button.seat
+hh.button.name
 a = hh.players
 aa = sum([a,a], [])
 
@@ -205,21 +204,28 @@ if 'ante' in HAND1:
         ante = ante.partition('ante ')[2]
         ante = int(ante.partition('\nn')[0])
         anteTot = ante*pl
-        
+        potSize0 = int(anteTot + hh.sb + hh.bb)
     except:
         pass
-#pot size before dealing any cards
-potSize0 = int(anteTot + hh.sb + hh.bb)
+    
+else:
+    potSize0 = int(hh.sb + hh.bb)
+    
+ 
+
+   
+####pot size before dealing any cards
+#potSize0 = int(anteTot + hh.sb + hh.bb)
+
+
 
 
 #what amount comes into the pot after cards were dealt until its our turn
-
-
 v = hh.preflop_actions
 potSize1 = potSize0
 NotOut = pl-1     #how many player does fold before us
 for i in range(len(v)):
-    #i = 1
+    #i = 0
     if v[i].partition(':')[0] != hh.hero.name:
         add = v[i].partition(':')[2]
         if 'calls' in add and 'all-in' not in add:
@@ -246,6 +252,7 @@ for i in range(len(v)):
 
     else:
         break
+
 
 
 # i is our position regarding to the player on seat 1 
@@ -453,9 +460,9 @@ for i in range(len(v)):
         add = v[i].partition(':')[2]
         if 'calls' in add:
             addWe += int(add.partition('calls ')[2])
-=======
+
 #####what amount comes into the pot after it was our turn for the first time
->>>>>>> 75629a37b8a9bc8359ee27446ce2b7dd957d00ee
+
 
         if 'raises' in add:
             addWe += int(add.partition('to ')[2])
@@ -505,7 +512,6 @@ for i in range(len(v)):
 
         if 'raises' in add:
             add1 = int(add.partition('to ')[2])
->>>>>>> 75629a37b8a9bc8359ee27446ce2b7dd957d00ee
             
         if 'checks' in add:
             add1 = 0
@@ -534,7 +540,7 @@ for i in range(len(v)):
         add = v[i].partition(':')[2]
         if 'calls' in add:
             addWe += int(add.partition('calls ')[2])
->>>>>>> 75629a37b8a9bc8359ee27446ce2b7dd957d00ee
+
 
         if 'raises' in add:
             addWe += int(add.partition('to ')[2])
@@ -585,7 +591,6 @@ for i in range(c, len(v)):
             NotOut -= 1
         
         potSize3 += add1
->>>>>>> 75629a37b8a9bc8359ee27446ce2b7dd957d00ee
 
     else:
         break
@@ -748,22 +753,6 @@ print("--- %s seconds ---" % (time.time() - start_time))
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #what is our stack
 p.stack
 
@@ -771,7 +760,7 @@ p.stack
 
 
 
-#what player were around us?
+#what player were around us including us?
 q = hh.players
 
 
@@ -851,10 +840,32 @@ z2 = hh.show_down
 ########   STARTING ANALYSE HEADS-UP BY THE BOOK OF TIPTON  ##########
 
 
+
+
+
+#### Exercises ####
+
+# 1) how do we fix it that the amount of the small blind is within the raise in HU preflop?
+# 2) EV is the stack at the end of the round (so try out raises preflop and check through the whole hand)
+# 3) check out pokerstove for more equity-exercises
+
+
+
+
+
+
+
+
+
+
+
+
 from poker.room.pokerstars import PokerStarsHandHistory
 # First step, only raw hand history is saved, no parsing will happen yet
 hh = PokerStarsHandHistory(HAND1)
 hh.parse()
+
+
 
 hh.max_players
 hh.players
@@ -866,6 +877,147 @@ hh.hero.combo
 
 
 
+
+
+
+
+#who and where we are?
+p = hh.hero
+
+
+
+#what we have?
+p.combo
+
+
+
+
+#what is our position
+p.seat
+
+#what is our positon regarding to the button (utg, utg+1, etc.)
+hh.button.name
+a = hh.players
+aa = sum([a,a], [])
+
+t = 0
+for i in range(len(aa)):
+    #i = 0
+    if aa[i].seat == hh.button.seat:
+        t = 0
+    else:
+        if 'Empty Seat' not in a[i].name:
+            if aa[i].name != hh.hero.name:
+                t += 1
+            else:
+                t = t + 1
+                break
+
+
+#how many players are on the table at the moment
+pl = 0
+for i in range(hh.max_players):
+    if 'Empty Seat' not in a[i].name:
+        pl += 1
+
+
+
+#add further q/ positions
+#if q == 7:
+#    if t == 1:
+#        pos = 'SB'    
+#    if t == 2: 
+#        pos = 'BB'
+#    if t == 3: 
+#        pos = 'UTG'
+#    if t == 4: 
+#        pos = 'UTG+1'
+#    if t == 5:
+#        pos = 'MP'
+#    if t == 6:
+#        pos = 'CO'
+   
+   
+   
+### potsize before hands were dealt ###
+
+#ante
+#def find_nth(haystack, needle, n):
+#    start = haystack.find(needle)
+#    while start >= 0 and n > 1:
+#        start = haystack.find(needle, start+len(needle))
+#        n -= 1
+#    return start
+
+if 'ante' in HAND1:
+    try:
+        p1 = HAND1.find('ante')
+        ante = HAND1[p1:p1+15]
+        ante = ante.partition('ante ')[2]
+        ante = int(ante.partition('\nn')[0])
+        anteTot = ante*pl
+        potSize0 = int(anteTot + hh.sb + hh.bb)
+    except:
+        pass
+    
+else:
+    potSize0 = int(hh.sb + hh.bb)
+    
+ 
+
+   
+####pot size before dealing any cards
+#potSize0 = int(anteTot + hh.sb + hh.bb)
+
+
+
+
+#what amount comes into the pot after cards were dealt until its our turn
+v = hh.preflop_actions
+potSize1 = potSize0
+NotOut = pl-1     #how many player does fold before us
+for i in range(len(v)):
+    #i = 0
+    if v[i].partition(':')[0] != hh.hero.name:
+        add = v[i].partition(':')[2]
+        if 'calls' in add and 'all-in' not in add:
+            add1 = int(add.partition('calls ')[2])
+            
+        if 'calls' in add and 'all-in' in add:  
+            add1 = int(add.partition('to ')[2].partition(' and')[0])
+
+        if 'raises' in add and 'all-in' not in add:
+            add1 = int(add.partition('to ')[2])
+                       
+        if 'raises' in add and 'all-in' in add:  
+            add1 = int(add.partition('to ')[2].partition(' and')[0])
+            high.append(add1)
+            
+        if 'checks' in add:
+            add1 = 0
+            
+        if 'folds' in add:
+            add1 = 0
+            NotOut -= 1
+        
+        potSize1 += add1
+
+    else:
+        break
+
+
+
+
+
+
+
+
+
+
+
+
+
+hh.button.name
 
 
 

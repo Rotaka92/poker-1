@@ -1,0 +1,2130 @@
+﻿PokerStars Hand #187062425871: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/31 12:32:02 CET [2018/05/31 6:32:02 ET]
+Table '2319384610 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1500 in chips) 
+Seat 2: E-RAZOR60 (1500 in chips) 
+ollikahn23: posts small blind 10
+E-RAZOR60: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6d As]
+ollikahn23: raises 20 to 40
+E-RAZOR60: calls 20
+*** FLOP *** [Jd Ks 2d]
+E-RAZOR60: checks 
+ollikahn23: bets 40
+E-RAZOR60: calls 40
+*** TURN *** [Jd Ks 2d] [Ts]
+E-RAZOR60: checks 
+ollikahn23: checks 
+*** RIVER *** [Jd Ks 2d Ts] [3d]
+E-RAZOR60: checks 
+ollikahn23: checks 
+*** SHOW DOWN ***
+E-RAZOR60: shows [Jc Qh] (a pair of Jacks)
+ollikahn23: mucks hand 
+E-RAZOR60 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Jd Ks 2d Ts 3d]
+Seat 1: ollikahn23 (button) (small blind) mucked [6d As]
+Seat 2: E-RAZOR60 (big blind) showed [Jc Qh] and won (160) with a pair of Jacks
+
+
+
+PokerStars Hand #187062432573: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/31 12:32:21 CET [2018/05/31 6:32:21 ET]
+Table '2319384610 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1420 in chips) 
+Seat 2: E-RAZOR60 (1580 in chips) 
+E-RAZOR60: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2s 3c]
+E-RAZOR60: calls 10
+ollikahn23: checks 
+*** FLOP *** [8s 2h 8d]
+ollikahn23: bets 20
+E-RAZOR60: folds 
+Uncalled bet (20) returned to ollikahn23
+ollikahn23 collected 40 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [8s 2h 8d]
+Seat 1: ollikahn23 (big blind) collected (40)
+Seat 2: E-RAZOR60 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #187062436687: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/31 12:32:34 CET [2018/05/31 6:32:34 ET]
+Table '2319384610 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1440 in chips) 
+Seat 2: E-RAZOR60 (1560 in chips) 
+ollikahn23: posts small blind 10
+E-RAZOR60: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7d 6h]
+ollikahn23: folds 
+Uncalled bet (10) returned to E-RAZOR60
+E-RAZOR60 collected 20 from pot
+E-RAZOR60: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) folded before Flop
+Seat 2: E-RAZOR60 (big blind) collected (20)
+
+
+
+PokerStars Hand #187062438507: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/31 12:32:39 CET [2018/05/31 6:32:39 ET]
+Table '2319384610 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1430 in chips) 
+Seat 2: E-RAZOR60 (1570 in chips) 
+E-RAZOR60: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5d 3h]
+E-RAZOR60: folds 
+Uncalled bet (10) returned to ollikahn23
+ollikahn23 collected 20 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: ollikahn23 (big blind) collected (20)
+Seat 2: E-RAZOR60 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #187062440379: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/31 12:32:45 CET [2018/05/31 6:32:45 ET]
+Table '2319384610 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1440 in chips) 
+Seat 2: E-RAZOR60 (1560 in chips) 
+ollikahn23: posts small blind 10
+E-RAZOR60: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qh Td]
+ollikahn23: raises 20 to 40
+E-RAZOR60: calls 20
+*** FLOP *** [Tc Kd Ah]
+E-RAZOR60: checks 
+ollikahn23: bets 40
+E-RAZOR60: calls 40
+*** TURN *** [Tc Kd Ah] [Jh]
+E-RAZOR60: checks 
+ollikahn23: checks 
+*** RIVER *** [Tc Kd Ah Jh] [Qc]
+E-RAZOR60: bets 60
+ollikahn23: raises 280 to 340
+E-RAZOR60: calls 280
+*** SHOW DOWN ***
+ollikahn23: shows [Qh Td] (a straight, Ten to Ace)
+E-RAZOR60: shows [4h As] (a straight, Ten to Ace)
+E-RAZOR60 collected 420 from pot
+ollikahn23 collected 420 from pot
+*** SUMMARY ***
+Total pot 840 | Rake 0 
+Board [Tc Kd Ah Jh Qc]
+Seat 1: ollikahn23 (button) (small blind) showed [Qh Td] and won (420) with a straight, Ten to Ace
+Seat 2: E-RAZOR60 (big blind) showed [4h As] and won (420) with a straight, Ten to Ace
+
+
+
+PokerStars Hand #187062447170: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/31 12:33:04 CET [2018/05/31 6:33:04 ET]
+Table '2319384610 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1440 in chips) 
+Seat 2: E-RAZOR60 (1560 in chips) 
+E-RAZOR60: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4h 8s]
+E-RAZOR60: calls 10
+ollikahn23: checks 
+*** FLOP *** [2h Jd Jh]
+ollikahn23: checks 
+E-RAZOR60: checks 
+*** TURN *** [2h Jd Jh] [5c]
+ollikahn23: bets 20
+E-RAZOR60: folds 
+Uncalled bet (20) returned to ollikahn23
+ollikahn23 collected 40 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [2h Jd Jh 5c]
+Seat 1: ollikahn23 (big blind) collected (40)
+Seat 2: E-RAZOR60 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #187062452560: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/31 12:33:20 CET [2018/05/31 6:33:20 ET]
+Table '2319384610 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1460 in chips) 
+Seat 2: E-RAZOR60 (1540 in chips) 
+ollikahn23: posts small blind 10
+E-RAZOR60: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2d Ks]
+ollikahn23: raises 20 to 40
+E-RAZOR60: raises 60 to 100
+ollikahn23: folds 
+Uncalled bet (60) returned to E-RAZOR60
+E-RAZOR60 collected 80 from pot
+E-RAZOR60: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) folded before Flop
+Seat 2: E-RAZOR60 (big blind) collected (80)
+
+
+
+PokerStars Hand #187062456300: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/31 12:33:31 CET [2018/05/31 6:33:31 ET]
+Table '2319384610 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1420 in chips) 
+Seat 2: E-RAZOR60 (1580 in chips) 
+E-RAZOR60: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5c 3c]
+E-RAZOR60: calls 10
+ollikahn23: checks 
+*** FLOP *** [2s Ts Th]
+ollikahn23: checks 
+E-RAZOR60: checks 
+*** TURN *** [2s Ts Th] [As]
+ollikahn23: bets 20
+E-RAZOR60: calls 20
+*** RIVER *** [2s Ts Th As] [2c]
+ollikahn23: checks 
+E-RAZOR60: checks 
+*** SHOW DOWN ***
+ollikahn23: shows [5c 3c] (two pair, Tens and Deuces)
+E-RAZOR60: shows [9c Jc] (two pair, Tens and Deuces)
+ollikahn23 collected 40 from pot
+E-RAZOR60 collected 40 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [2s Ts Th As 2c]
+Seat 1: ollikahn23 (big blind) showed [5c 3c] and won (40) with two pair, Tens and Deuces
+Seat 2: E-RAZOR60 (button) (small blind) showed [9c Jc] and won (40) with two pair, Tens and Deuces
+
+
+
+PokerStars Hand #187062461643: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/31 12:33:47 CET [2018/05/31 6:33:47 ET]
+Table '2319384610 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1420 in chips) 
+Seat 2: E-RAZOR60 (1580 in chips) 
+ollikahn23: posts small blind 10
+E-RAZOR60: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2h Ad]
+ollikahn23: raises 20 to 40
+E-RAZOR60: calls 20
+*** FLOP *** [8s 8h Qd]
+E-RAZOR60: checks 
+ollikahn23: bets 40
+E-RAZOR60: folds 
+Uncalled bet (40) returned to ollikahn23
+ollikahn23 collected 80 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [8s 8h Qd]
+Seat 1: ollikahn23 (button) (small blind) collected (80)
+Seat 2: E-RAZOR60 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #187062464874: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/31 12:33:56 CET [2018/05/31 6:33:56 ET]
+Table '2319384610 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1460 in chips) 
+Seat 2: E-RAZOR60 (1540 in chips) 
+E-RAZOR60: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8c 7s]
+E-RAZOR60: calls 10
+ollikahn23: checks 
+*** FLOP *** [5s 4d 2h]
+ollikahn23: checks 
+E-RAZOR60: bets 20
+ollikahn23: calls 20
+*** TURN *** [5s 4d 2h] [8d]
+ollikahn23: bets 40
+E-RAZOR60: calls 40
+*** RIVER *** [5s 4d 2h 8d] [Js]
+ollikahn23: bets 80
+E-RAZOR60: raises 80 to 160
+ollikahn23: calls 80
+*** SHOW DOWN ***
+E-RAZOR60: shows [4h Jd] (two pair, Jacks and Fours)
+ollikahn23: mucks hand 
+E-RAZOR60 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [5s 4d 2h 8d Js]
+Seat 1: ollikahn23 (big blind) mucked [8c 7s]
+Seat 2: E-RAZOR60 (button) (small blind) showed [4h Jd] and won (480) with two pair, Jacks and Fours
+
+
+
+PokerStars Hand #187062474228: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/31 12:34:24 CET [2018/05/31 6:34:24 ET]
+Table '2319384610 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1220 in chips) 
+Seat 2: E-RAZOR60 (1780 in chips) 
+ollikahn23: posts small blind 10
+E-RAZOR60: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9s 8d]
+ollikahn23: raises 20 to 40
+E-RAZOR60: calls 20
+*** FLOP *** [4s 4h 9h]
+E-RAZOR60: checks 
+ollikahn23: bets 40
+E-RAZOR60: calls 40
+*** TURN *** [4s 4h 9h] [3h]
+E-RAZOR60: checks 
+ollikahn23: bets 80
+E-RAZOR60: raises 80 to 160
+ollikahn23: calls 80
+*** RIVER *** [4s 4h 9h 3h] [4d]
+E-RAZOR60: bets 160
+ollikahn23: raises 400 to 560
+E-RAZOR60: calls 400
+*** SHOW DOWN ***
+ollikahn23: shows [9s 8d] (a full house, Fours full of Nines)
+E-RAZOR60: mucks hand 
+ollikahn23 collected 1600 from pot
+*** SUMMARY ***
+Total pot 1600 | Rake 0 
+Board [4s 4h 9h 3h 4d]
+Seat 1: ollikahn23 (button) (small blind) showed [9s 8d] and won (1600) with a full house, Fours full of Nines
+Seat 2: E-RAZOR60 (big blind) mucked [6h Kh]
+
+
+
+PokerStars Hand #187062486585: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/31 12:35:00 CET [2018/05/31 6:35:00 ET]
+Table '2319384610 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (2020 in chips) 
+Seat 2: E-RAZOR60 (980 in chips) 
+E-RAZOR60: posts small blind 10
+ollikahn23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4h 8h]
+E-RAZOR60: calls 10
+ollikahn23: checks 
+*** FLOP *** [Ks 4c As]
+ollikahn23: checks 
+E-RAZOR60: checks 
+*** TURN *** [Ks 4c As] [6h]
+ollikahn23: checks 
+E-RAZOR60: bets 20
+ollikahn23: calls 20
+*** RIVER *** [Ks 4c As 6h] [9s]
+ollikahn23: checks 
+E-RAZOR60: bets 100
+ollikahn23: calls 100
+*** SHOW DOWN ***
+E-RAZOR60: shows [Ah Jc] (a pair of Aces)
+ollikahn23: mucks hand 
+E-RAZOR60 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Board [Ks 4c As 6h 9s]
+Seat 1: ollikahn23 (big blind) mucked [4h 8h]
+Seat 2: E-RAZOR60 (button) (small blind) showed [Ah Jc] and won (280) with a pair of Aces
+
+
+
+PokerStars Hand #187062502631: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/31 12:35:48 CET [2018/05/31 6:35:48 ET]
+Table '2319384610 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1880 in chips) 
+Seat 2: E-RAZOR60 (1120 in chips) 
+ollikahn23: posts small blind 15
+E-RAZOR60: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kd Jh]
+ollikahn23: raises 30 to 60
+E-RAZOR60: calls 30
+*** FLOP *** [Ks Js 9d]
+E-RAZOR60: checks 
+ollikahn23: bets 90
+E-RAZOR60: calls 90
+*** TURN *** [Ks Js 9d] [2d]
+E-RAZOR60: checks 
+ollikahn23: bets 210
+E-RAZOR60: calls 210
+*** RIVER *** [Ks Js 9d 2d] [7s]
+E-RAZOR60: checks 
+ollikahn23: checks 
+*** SHOW DOWN ***
+E-RAZOR60: shows [Ac Ts] (high card Ace)
+ollikahn23: shows [Kd Jh] (two pair, Kings and Jacks)
+ollikahn23 collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | Rake 0 
+Board [Ks Js 9d 2d 7s]
+Seat 1: ollikahn23 (button) (small blind) showed [Kd Jh] and won (720) with two pair, Kings and Jacks
+Seat 2: E-RAZOR60 (big blind) showed [Ac Ts] and lost with high card Ace
+
+
+
+PokerStars Hand #187062513117: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/31 12:36:18 CET [2018/05/31 6:36:18 ET]
+Table '2319384610 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (2240 in chips) 
+Seat 2: E-RAZOR60 (760 in chips) 
+E-RAZOR60: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9h 5d]
+E-RAZOR60: calls 15
+ollikahn23: checks 
+*** FLOP *** [Jc 6s Js]
+ollikahn23: checks 
+E-RAZOR60: checks 
+*** TURN *** [Jc 6s Js] [Ac]
+ollikahn23: bets 30
+E-RAZOR60: folds 
+Uncalled bet (30) returned to ollikahn23
+ollikahn23 collected 60 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Jc 6s Js Ac]
+Seat 1: ollikahn23 (big blind) collected (60)
+Seat 2: E-RAZOR60 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #187062517343: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/31 12:36:30 CET [2018/05/31 6:36:30 ET]
+Table '2319384610 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (2270 in chips) 
+Seat 2: E-RAZOR60 (730 in chips) 
+ollikahn23: posts small blind 15
+E-RAZOR60: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3s 9c]
+ollikahn23: folds 
+Uncalled bet (15) returned to E-RAZOR60
+E-RAZOR60 collected 30 from pot
+E-RAZOR60: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) folded before Flop
+Seat 2: E-RAZOR60 (big blind) collected (30)
+
+
+
+PokerStars Hand #187062519179: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/31 12:36:36 CET [2018/05/31 6:36:36 ET]
+Table '2319384610 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (2255 in chips) 
+Seat 2: E-RAZOR60 (745 in chips) 
+E-RAZOR60: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7d Kh]
+E-RAZOR60: calls 15
+ollikahn23: checks 
+*** FLOP *** [8d 3d 4c]
+ollikahn23: checks 
+E-RAZOR60: checks 
+*** TURN *** [8d 3d 4c] [5s]
+ollikahn23: checks 
+E-RAZOR60: bets 30
+ollikahn23: calls 30
+*** RIVER *** [8d 3d 4c 5s] [7c]
+ollikahn23: checks 
+E-RAZOR60: bets 30
+ollikahn23: calls 30
+*** SHOW DOWN ***
+E-RAZOR60: shows [Ah 2c] (a straight, Ace to Five)
+ollikahn23: mucks hand 
+E-RAZOR60 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [8d 3d 4c 5s 7c]
+Seat 1: ollikahn23 (big blind) mucked [7d Kh]
+Seat 2: E-RAZOR60 (button) (small blind) showed [Ah 2c] and won (180) with a straight, Ace to Five
+
+
+
+PokerStars Hand #187062525364: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/31 12:36:54 CET [2018/05/31 6:36:54 ET]
+Table '2319384610 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (2165 in chips) 
+Seat 2: E-RAZOR60 (835 in chips) 
+ollikahn23: posts small blind 15
+E-RAZOR60: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kc 9s]
+ollikahn23: raises 30 to 60
+E-RAZOR60: folds 
+Uncalled bet (30) returned to ollikahn23
+ollikahn23 collected 60 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) collected (60)
+Seat 2: E-RAZOR60 (big blind) folded before Flop
+
+
+
+PokerStars Hand #187062527349: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/31 12:37:00 CET [2018/05/31 6:37:00 ET]
+Table '2319384610 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (2195 in chips) 
+Seat 2: E-RAZOR60 (805 in chips) 
+E-RAZOR60: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9c Ad]
+E-RAZOR60: calls 15
+ollikahn23: raises 60 to 90
+E-RAZOR60: calls 60
+*** FLOP *** [6h 9h 8c]
+ollikahn23: bets 120
+E-RAZOR60: folds 
+Uncalled bet (120) returned to ollikahn23
+ollikahn23 collected 180 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [6h 9h 8c]
+Seat 1: ollikahn23 (big blind) collected (180)
+Seat 2: E-RAZOR60 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #187062532096: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/31 12:37:14 CET [2018/05/31 6:37:14 ET]
+Table '2319384610 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (2285 in chips) 
+Seat 2: E-RAZOR60 (715 in chips) 
+ollikahn23: posts small blind 15
+E-RAZOR60: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ks 8c]
+ollikahn23: raises 30 to 60
+E-RAZOR60: folds 
+Uncalled bet (30) returned to ollikahn23
+ollikahn23 collected 60 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) collected (60)
+Seat 2: E-RAZOR60 (big blind) folded before Flop
+
+
+
+PokerStars Hand #187062534355: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/31 12:37:21 CET [2018/05/31 6:37:21 ET]
+Table '2319384610 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (2315 in chips) 
+Seat 2: E-RAZOR60 (685 in chips) 
+E-RAZOR60: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9d 2s]
+E-RAZOR60: calls 15
+ollikahn23: checks 
+*** FLOP *** [7d Tc 3c]
+ollikahn23: checks 
+E-RAZOR60: checks 
+*** TURN *** [7d Tc 3c] [Jh]
+ollikahn23: checks 
+E-RAZOR60: checks 
+*** RIVER *** [7d Tc 3c Jh] [7h]
+ollikahn23: bets 30
+E-RAZOR60: calls 30
+*** SHOW DOWN ***
+ollikahn23: shows [9d 2s] (a pair of Sevens)
+E-RAZOR60: shows [2d Qh] (a pair of Sevens - Queen kicker)
+E-RAZOR60 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [7d Tc 3c Jh 7h]
+Seat 1: ollikahn23 (big blind) showed [9d 2s] and lost with a pair of Sevens
+Seat 2: E-RAZOR60 (button) (small blind) showed [2d Qh] and won (120) with a pair of Sevens
+
+
+
+PokerStars Hand #187062540016: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/31 12:37:38 CET [2018/05/31 6:37:38 ET]
+Table '2319384610 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (2255 in chips) 
+Seat 2: E-RAZOR60 (745 in chips) 
+ollikahn23: posts small blind 15
+E-RAZOR60: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9s Jh]
+ollikahn23: raises 30 to 60
+E-RAZOR60: calls 30
+*** FLOP *** [6h Tc 4h]
+E-RAZOR60: checks 
+ollikahn23: bets 60
+E-RAZOR60: calls 60
+*** TURN *** [6h Tc 4h] [3h]
+E-RAZOR60: checks 
+ollikahn23: bets 180
+E-RAZOR60: raises 180 to 360
+ollikahn23: folds 
+Uncalled bet (180) returned to E-RAZOR60
+E-RAZOR60 collected 600 from pot
+E-RAZOR60: doesn't show hand 
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [6h Tc 4h 3h]
+Seat 1: ollikahn23 (button) (small blind) folded on the Turn
+Seat 2: E-RAZOR60 (big blind) collected (600)
+
+
+
+PokerStars Hand #187062548161: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/31 12:38:02 CET [2018/05/31 6:38:02 ET]
+Table '2319384610 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1955 in chips) 
+Seat 2: E-RAZOR60 (1045 in chips) 
+E-RAZOR60: posts small blind 15
+ollikahn23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5d 6c]
+E-RAZOR60: calls 15
+ollikahn23: checks 
+*** FLOP *** [4c Tc 4d]
+ollikahn23: checks 
+E-RAZOR60: bets 30
+ollikahn23: folds 
+Uncalled bet (30) returned to E-RAZOR60
+E-RAZOR60 collected 60 from pot
+E-RAZOR60: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [4c Tc 4d]
+Seat 1: ollikahn23 (big blind) folded on the Flop
+Seat 2: E-RAZOR60 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #187062552424: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/05/31 12:38:14 CET [2018/05/31 6:38:14 ET]
+Table '2319384610 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1925 in chips) 
+Seat 2: E-RAZOR60 (1075 in chips) 
+ollikahn23: posts small blind 20
+E-RAZOR60: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ks 2d]
+ollikahn23: raises 40 to 80
+E-RAZOR60: calls 40
+*** FLOP *** [3s 8h Kh]
+E-RAZOR60: checks 
+ollikahn23: bets 80
+E-RAZOR60: folds 
+Uncalled bet (80) returned to ollikahn23
+ollikahn23 collected 160 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [3s 8h Kh]
+Seat 1: ollikahn23 (button) (small blind) collected (160)
+Seat 2: E-RAZOR60 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #187062556682: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/05/31 12:38:27 CET [2018/05/31 6:38:27 ET]
+Table '2319384610 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (2005 in chips) 
+Seat 2: E-RAZOR60 (995 in chips) 
+E-RAZOR60: posts small blind 20
+ollikahn23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6d Ac]
+E-RAZOR60: calls 20
+ollikahn23: checks 
+*** FLOP *** [7d 8c Ad]
+ollikahn23: checks 
+E-RAZOR60: checks 
+*** TURN *** [7d 8c Ad] [Qh]
+ollikahn23: bets 80
+E-RAZOR60: calls 80
+*** RIVER *** [7d 8c Ad Qh] [4h]
+ollikahn23: bets 160
+E-RAZOR60: folds 
+Uncalled bet (160) returned to ollikahn23
+ollikahn23 collected 240 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [7d 8c Ad Qh 4h]
+Seat 1: ollikahn23 (big blind) collected (240)
+Seat 2: E-RAZOR60 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #187062562878: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/05/31 12:38:45 CET [2018/05/31 6:38:45 ET]
+Table '2319384610 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (2125 in chips) 
+Seat 2: E-RAZOR60 (875 in chips) 
+ollikahn23: posts small blind 20
+E-RAZOR60: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ah Kd]
+ollikahn23: raises 40 to 80
+E-RAZOR60: calls 40
+*** FLOP *** [7s 4h Qd]
+E-RAZOR60: checks 
+ollikahn23: checks 
+*** TURN *** [7s 4h Qd] [Qh]
+E-RAZOR60: checks 
+ollikahn23: bets 80
+E-RAZOR60: calls 80
+*** RIVER *** [7s 4h Qd Qh] [7h]
+E-RAZOR60: checks 
+ollikahn23: checks 
+*** SHOW DOWN ***
+E-RAZOR60: shows [Jc Th] (two pair, Queens and Sevens)
+ollikahn23: shows [Ah Kd] (two pair, Queens and Sevens - Ace kicker)
+ollikahn23 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [7s 4h Qd Qh 7h]
+Seat 1: ollikahn23 (button) (small blind) showed [Ah Kd] and won (320) with two pair, Queens and Sevens
+Seat 2: E-RAZOR60 (big blind) showed [Jc Th] and lost with two pair, Queens and Sevens
+
+
+
+PokerStars Hand #187062570140: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/05/31 12:39:06 CET [2018/05/31 6:39:06 ET]
+Table '2319384610 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (2285 in chips) 
+Seat 2: E-RAZOR60 (715 in chips) 
+E-RAZOR60: posts small blind 20
+ollikahn23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2s Jc]
+E-RAZOR60: folds 
+Uncalled bet (20) returned to ollikahn23
+ollikahn23 collected 40 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ollikahn23 (big blind) collected (40)
+Seat 2: E-RAZOR60 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #187062571910: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/05/31 12:39:11 CET [2018/05/31 6:39:11 ET]
+Table '2319384610 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (2305 in chips) 
+Seat 2: E-RAZOR60 (695 in chips) 
+ollikahn23: posts small blind 20
+E-RAZOR60: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5c 2h]
+ollikahn23: folds 
+Uncalled bet (20) returned to E-RAZOR60
+E-RAZOR60 collected 40 from pot
+E-RAZOR60: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) folded before Flop
+Seat 2: E-RAZOR60 (big blind) collected (40)
+
+
+
+PokerStars Hand #187062573622: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/05/31 12:39:16 CET [2018/05/31 6:39:16 ET]
+Table '2319384610 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (2285 in chips) 
+Seat 2: E-RAZOR60 (715 in chips) 
+E-RAZOR60: posts small blind 20
+ollikahn23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5c 4d]
+E-RAZOR60: calls 20
+ollikahn23: checks 
+*** FLOP *** [3d Qc Jc]
+ollikahn23: checks 
+E-RAZOR60: checks 
+*** TURN *** [3d Qc Jc] [5s]
+ollikahn23: bets 40
+E-RAZOR60: calls 40
+*** RIVER *** [3d Qc Jc 5s] [3h]
+ollikahn23: checks 
+E-RAZOR60: checks 
+*** SHOW DOWN ***
+ollikahn23: shows [5c 4d] (two pair, Fives and Threes)
+E-RAZOR60: mucks hand 
+ollikahn23 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [3d Qc Jc 5s 3h]
+Seat 1: ollikahn23 (big blind) showed [5c 4d] and won (160) with two pair, Fives and Threes
+Seat 2: E-RAZOR60 (button) (small blind) mucked [9h Th]
+
+
+
+PokerStars Hand #187062579362: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/05/31 12:39:33 CET [2018/05/31 6:39:33 ET]
+Table '2319384610 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (2365 in chips) 
+Seat 2: E-RAZOR60 (635 in chips) 
+ollikahn23: posts small blind 20
+E-RAZOR60: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9c Ts]
+ollikahn23: raises 40 to 80
+E-RAZOR60: calls 40
+*** FLOP *** [3d Qc 2h]
+E-RAZOR60: checks 
+ollikahn23: bets 80
+E-RAZOR60: calls 80
+*** TURN *** [3d Qc 2h] [2s]
+E-RAZOR60: checks 
+ollikahn23: checks 
+*** RIVER *** [3d Qc 2h 2s] [Kd]
+E-RAZOR60: bets 120
+ollikahn23: folds 
+Uncalled bet (120) returned to E-RAZOR60
+E-RAZOR60 collected 320 from pot
+E-RAZOR60: doesn't show hand 
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [3d Qc 2h 2s Kd]
+Seat 1: ollikahn23 (button) (small blind) folded on the River
+Seat 2: E-RAZOR60 (big blind) collected (320)
+
+
+
+PokerStars Hand #187062587739: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/05/31 12:39:58 CET [2018/05/31 6:39:58 ET]
+Table '2319384610 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (2205 in chips) 
+Seat 2: E-RAZOR60 (795 in chips) 
+E-RAZOR60: posts small blind 20
+ollikahn23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6s Kh]
+E-RAZOR60: calls 20
+ollikahn23: checks 
+*** FLOP *** [7s 4c Th]
+ollikahn23: checks 
+E-RAZOR60: checks 
+*** TURN *** [7s 4c Th] [Ts]
+ollikahn23: bets 40
+E-RAZOR60: calls 40
+*** RIVER *** [7s 4c Th Ts] [Jc]
+ollikahn23: bets 120
+E-RAZOR60: folds 
+Uncalled bet (120) returned to ollikahn23
+ollikahn23 collected 160 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [7s 4c Th Ts Jc]
+Seat 1: ollikahn23 (big blind) collected (160)
+Seat 2: E-RAZOR60 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #187062593714: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/05/31 12:40:15 CET [2018/05/31 6:40:15 ET]
+Table '2319384610 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (2285 in chips) 
+Seat 2: E-RAZOR60 (715 in chips) 
+ollikahn23: posts small blind 20
+E-RAZOR60: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6d Td]
+ollikahn23: raises 40 to 80
+E-RAZOR60: folds 
+Uncalled bet (40) returned to ollikahn23
+ollikahn23 collected 80 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) collected (80)
+Seat 2: E-RAZOR60 (big blind) folded before Flop
+
+
+
+PokerStars Hand #187062595833: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/05/31 12:40:21 CET [2018/05/31 6:40:21 ET]
+Table '2319384610 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (2325 in chips) 
+Seat 2: E-RAZOR60 (675 in chips) 
+E-RAZOR60: posts small blind 20
+ollikahn23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kh 9c]
+E-RAZOR60: calls 20
+ollikahn23: checks 
+*** FLOP *** [9s Qc Ts]
+ollikahn23: checks 
+E-RAZOR60: checks 
+*** TURN *** [9s Qc Ts] [2h]
+ollikahn23: bets 40
+E-RAZOR60: calls 40
+*** RIVER *** [9s Qc Ts 2h] [3d]
+ollikahn23: checks 
+E-RAZOR60: bets 80
+ollikahn23: calls 80
+*** SHOW DOWN ***
+E-RAZOR60: shows [Td Js] (a pair of Tens)
+ollikahn23: mucks hand 
+E-RAZOR60 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [9s Qc Ts 2h 3d]
+Seat 1: ollikahn23 (big blind) mucked [Kh 9c]
+Seat 2: E-RAZOR60 (button) (small blind) showed [Td Js] and won (320) with a pair of Tens
+
+
+
+PokerStars Hand #187062605119: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/05/31 12:40:48 CET [2018/05/31 6:40:48 ET]
+Table '2319384610 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (2165 in chips) 
+Seat 2: E-RAZOR60 (835 in chips) 
+ollikahn23: posts small blind 20
+E-RAZOR60: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7h 8s]
+ollikahn23: folds 
+Uncalled bet (20) returned to E-RAZOR60
+E-RAZOR60 collected 40 from pot
+E-RAZOR60: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) folded before Flop
+Seat 2: E-RAZOR60 (big blind) collected (40)
+
+
+
+PokerStars Hand #187062606910: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/05/31 12:40:54 CET [2018/05/31 6:40:54 ET]
+Table '2319384610 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (2145 in chips) 
+Seat 2: E-RAZOR60 (855 in chips) 
+E-RAZOR60: posts small blind 20
+ollikahn23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6c 6h]
+E-RAZOR60: folds 
+Uncalled bet (20) returned to ollikahn23
+ollikahn23 collected 40 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ollikahn23 (big blind) collected (40)
+Seat 2: E-RAZOR60 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #187062608773: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level III (20/40) - 2018/05/31 12:40:59 CET [2018/05/31 6:40:59 ET]
+Table '2319384610 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (2165 in chips) 
+Seat 2: E-RAZOR60 (835 in chips) 
+ollikahn23: posts small blind 20
+E-RAZOR60: posts big blind 40
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2s 5s]
+ollikahn23: folds 
+Uncalled bet (20) returned to E-RAZOR60
+E-RAZOR60 collected 40 from pot
+E-RAZOR60: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) folded before Flop
+Seat 2: E-RAZOR60 (big blind) collected (40)
+
+
+
+PokerStars Hand #187062611524: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/05/31 12:41:07 CET [2018/05/31 6:41:07 ET]
+Table '2319384610 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (2145 in chips) 
+Seat 2: E-RAZOR60 (855 in chips) 
+E-RAZOR60: posts small blind 25
+ollikahn23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5c Jc]
+E-RAZOR60: calls 25
+ollikahn23: checks 
+*** FLOP *** [9d Jh Td]
+ollikahn23: bets 50
+E-RAZOR60: calls 50
+*** TURN *** [9d Jh Td] [Qd]
+ollikahn23: checks 
+E-RAZOR60: checks 
+*** RIVER *** [9d Jh Td Qd] [Qc]
+ollikahn23: checks 
+E-RAZOR60: checks 
+*** SHOW DOWN ***
+ollikahn23: shows [5c Jc] (two pair, Queens and Jacks)
+E-RAZOR60: mucks hand 
+ollikahn23 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [9d Jh Td Qd Qc]
+Seat 1: ollikahn23 (big blind) showed [5c Jc] and won (200) with two pair, Queens and Jacks
+Seat 2: E-RAZOR60 (button) (small blind) mucked [Ah 4c]
+
+
+
+PokerStars Hand #187062617067: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/05/31 12:41:23 CET [2018/05/31 6:41:23 ET]
+Table '2319384610 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (2245 in chips) 
+Seat 2: E-RAZOR60 (755 in chips) 
+ollikahn23: posts small blind 25
+E-RAZOR60: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Th 6c]
+ollikahn23: folds 
+Uncalled bet (25) returned to E-RAZOR60
+E-RAZOR60 collected 50 from pot
+E-RAZOR60: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) folded before Flop
+Seat 2: E-RAZOR60 (big blind) collected (50)
+
+
+
+PokerStars Hand #187062619577: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/05/31 12:41:31 CET [2018/05/31 6:41:31 ET]
+Table '2319384610 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (2220 in chips) 
+Seat 2: E-RAZOR60 (780 in chips) 
+E-RAZOR60: posts small blind 25
+ollikahn23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qc 6c]
+E-RAZOR60: calls 25
+ollikahn23: checks 
+*** FLOP *** [Ks As 3h]
+ollikahn23: checks 
+E-RAZOR60: checks 
+*** TURN *** [Ks As 3h] [Ts]
+ollikahn23: bets 50
+E-RAZOR60: raises 50 to 100
+ollikahn23: folds 
+Uncalled bet (50) returned to E-RAZOR60
+E-RAZOR60 collected 200 from pot
+E-RAZOR60: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [Ks As 3h Ts]
+Seat 1: ollikahn23 (big blind) folded on the Turn
+Seat 2: E-RAZOR60 (button) (small blind) collected (200)
+
+
+
+PokerStars Hand #187062624432: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/05/31 12:41:45 CET [2018/05/31 6:41:45 ET]
+Table '2319384610 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (2120 in chips) 
+Seat 2: E-RAZOR60 (880 in chips) 
+ollikahn23: posts small blind 25
+E-RAZOR60: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8d 5d]
+ollikahn23: folds 
+Uncalled bet (25) returned to E-RAZOR60
+E-RAZOR60 collected 50 from pot
+E-RAZOR60: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) folded before Flop
+Seat 2: E-RAZOR60 (big blind) collected (50)
+
+
+
+PokerStars Hand #187062626321: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/05/31 12:41:50 CET [2018/05/31 6:41:50 ET]
+Table '2319384610 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (2095 in chips) 
+Seat 2: E-RAZOR60 (905 in chips) 
+E-RAZOR60: posts small blind 25
+ollikahn23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4s Th]
+E-RAZOR60: folds 
+Uncalled bet (25) returned to ollikahn23
+ollikahn23 collected 50 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: ollikahn23 (big blind) collected (50)
+Seat 2: E-RAZOR60 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #187062628087: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/05/31 12:41:56 CET [2018/05/31 6:41:56 ET]
+Table '2319384610 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (2120 in chips) 
+Seat 2: E-RAZOR60 (880 in chips) 
+ollikahn23: posts small blind 25
+E-RAZOR60: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7d Th]
+ollikahn23: raises 50 to 100
+E-RAZOR60: calls 50
+*** FLOP *** [Tc 6d 9s]
+E-RAZOR60: checks 
+ollikahn23: bets 100
+E-RAZOR60: folds 
+Uncalled bet (100) returned to ollikahn23
+ollikahn23 collected 200 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [Tc 6d 9s]
+Seat 1: ollikahn23 (button) (small blind) collected (200)
+Seat 2: E-RAZOR60 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #187062631646: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/05/31 12:42:06 CET [2018/05/31 6:42:06 ET]
+Table '2319384610 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (2220 in chips) 
+Seat 2: E-RAZOR60 (780 in chips) 
+E-RAZOR60: posts small blind 25
+ollikahn23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2c 3s]
+E-RAZOR60: calls 25
+ollikahn23: checks 
+*** FLOP *** [2s Kh Ah]
+ollikahn23: checks 
+E-RAZOR60: checks 
+*** TURN *** [2s Kh Ah] [As]
+ollikahn23: bets 50
+E-RAZOR60: calls 50
+*** RIVER *** [2s Kh Ah As] [Kd]
+ollikahn23: bets 150
+E-RAZOR60: raises 150 to 300
+ollikahn23: folds 
+Uncalled bet (150) returned to E-RAZOR60
+E-RAZOR60 collected 500 from pot
+E-RAZOR60: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Board [2s Kh Ah As Kd]
+Seat 1: ollikahn23 (big blind) folded on the River
+Seat 2: E-RAZOR60 (button) (small blind) collected (500)
+
+
+
+PokerStars Hand #187062638786: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/05/31 12:42:27 CET [2018/05/31 6:42:27 ET]
+Table '2319384610 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1970 in chips) 
+Seat 2: E-RAZOR60 (1030 in chips) 
+ollikahn23: posts small blind 25
+E-RAZOR60: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2d Js]
+ollikahn23: raises 50 to 100
+E-RAZOR60: calls 50
+*** FLOP *** [4c Ks 5h]
+E-RAZOR60: checks 
+ollikahn23: checks 
+*** TURN *** [4c Ks 5h] [6s]
+E-RAZOR60: bets 50
+ollikahn23: raises 100 to 150
+E-RAZOR60: calls 100
+*** RIVER *** [4c Ks 5h 6s] [8c]
+E-RAZOR60: checks 
+ollikahn23: bets 350
+E-RAZOR60: calls 350
+*** SHOW DOWN ***
+ollikahn23: shows [2d Js] (high card King)
+E-RAZOR60: shows [Kh Jd] (a pair of Kings)
+E-RAZOR60 collected 1200 from pot
+*** SUMMARY ***
+Total pot 1200 | Rake 0 
+Board [4c Ks 5h 6s 8c]
+Seat 1: ollikahn23 (button) (small blind) showed [2d Js] and lost with high card King
+Seat 2: E-RAZOR60 (big blind) showed [Kh Jd] and won (1200) with a pair of Kings
+
+
+
+PokerStars Hand #187062645849: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/05/31 12:42:47 CET [2018/05/31 6:42:47 ET]
+Table '2319384610 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1370 in chips) 
+Seat 2: E-RAZOR60 (1630 in chips) 
+E-RAZOR60: posts small blind 25
+ollikahn23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ts Ac]
+E-RAZOR60: calls 25
+ollikahn23: raises 100 to 150
+E-RAZOR60: calls 100
+*** FLOP *** [2d 6c Kc]
+ollikahn23: bets 150
+E-RAZOR60: folds 
+Uncalled bet (150) returned to ollikahn23
+ollikahn23 collected 300 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [2d 6c Kc]
+Seat 1: ollikahn23 (big blind) collected (300)
+Seat 2: E-RAZOR60 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #187062650605: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/05/31 12:43:01 CET [2018/05/31 6:43:01 ET]
+Table '2319384610 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1520 in chips) 
+Seat 2: E-RAZOR60 (1480 in chips) 
+ollikahn23: posts small blind 25
+E-RAZOR60: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Th 2c]
+ollikahn23: raises 50 to 100
+E-RAZOR60: folds 
+Uncalled bet (50) returned to ollikahn23
+ollikahn23 collected 100 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) collected (100)
+Seat 2: E-RAZOR60 (big blind) folded before Flop
+
+
+
+PokerStars Hand #187062652555: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/05/31 12:43:06 CET [2018/05/31 6:43:06 ET]
+Table '2319384610 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1570 in chips) 
+Seat 2: E-RAZOR60 (1430 in chips) 
+E-RAZOR60: posts small blind 25
+ollikahn23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ts 5d]
+E-RAZOR60: calls 25
+ollikahn23: checks 
+*** FLOP *** [6s Ac 8s]
+ollikahn23: checks 
+E-RAZOR60: bets 50
+ollikahn23: folds 
+Uncalled bet (50) returned to E-RAZOR60
+E-RAZOR60 collected 100 from pot
+E-RAZOR60: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [6s Ac 8s]
+Seat 1: ollikahn23 (big blind) folded on the Flop
+Seat 2: E-RAZOR60 (button) (small blind) collected (100)
+
+
+
+PokerStars Hand #187062656502: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/05/31 12:43:18 CET [2018/05/31 6:43:18 ET]
+Table '2319384610 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1520 in chips) 
+Seat 2: E-RAZOR60 (1480 in chips) 
+ollikahn23: posts small blind 25
+E-RAZOR60: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kc Qs]
+ollikahn23: raises 50 to 100
+E-RAZOR60: calls 50
+*** FLOP *** [9s 5c Jc]
+E-RAZOR60: checks 
+ollikahn23: bets 100
+E-RAZOR60: calls 100
+*** TURN *** [9s 5c Jc] [8h]
+E-RAZOR60: checks 
+ollikahn23: checks 
+*** RIVER *** [9s 5c Jc 8h] [7c]
+E-RAZOR60: bets 100
+ollikahn23: folds 
+Uncalled bet (100) returned to E-RAZOR60
+E-RAZOR60 collected 400 from pot
+E-RAZOR60: doesn't show hand 
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [9s 5c Jc 8h 7c]
+Seat 1: ollikahn23 (button) (small blind) folded on the River
+Seat 2: E-RAZOR60 (big blind) collected (400)
+
+
+
+PokerStars Hand #187062663462: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/05/31 12:43:38 CET [2018/05/31 6:43:38 ET]
+Table '2319384610 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1320 in chips) 
+Seat 2: E-RAZOR60 (1680 in chips) 
+E-RAZOR60: posts small blind 25
+ollikahn23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ks Jc]
+E-RAZOR60: folds 
+Uncalled bet (25) returned to ollikahn23
+ollikahn23 collected 50 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: ollikahn23 (big blind) collected (50)
+Seat 2: E-RAZOR60 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #187062665346: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/05/31 12:43:44 CET [2018/05/31 6:43:44 ET]
+Table '2319384610 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1345 in chips) 
+Seat 2: E-RAZOR60 (1655 in chips) 
+ollikahn23: posts small blind 25
+E-RAZOR60: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ac 8h]
+ollikahn23: raises 50 to 100
+E-RAZOR60: folds 
+Uncalled bet (50) returned to ollikahn23
+ollikahn23 collected 100 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) collected (100)
+Seat 2: E-RAZOR60 (big blind) folded before Flop
+
+
+
+PokerStars Hand #187062667498: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/05/31 12:43:50 CET [2018/05/31 6:43:50 ET]
+Table '2319384610 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1395 in chips) 
+Seat 2: E-RAZOR60 (1605 in chips) 
+E-RAZOR60: posts small blind 25
+ollikahn23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7h Td]
+E-RAZOR60: calls 25
+ollikahn23: checks 
+*** FLOP *** [5h Js As]
+ollikahn23: checks 
+E-RAZOR60: checks 
+*** TURN *** [5h Js As] [3c]
+ollikahn23: checks 
+E-RAZOR60: bets 50
+ollikahn23: folds 
+Uncalled bet (50) returned to E-RAZOR60
+E-RAZOR60 collected 100 from pot
+E-RAZOR60: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [5h Js As 3c]
+Seat 1: ollikahn23 (big blind) folded on the Turn
+Seat 2: E-RAZOR60 (button) (small blind) collected (100)
+
+
+
+PokerStars Hand #187062671912: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level IV (25/50) - 2018/05/31 12:44:02 CET [2018/05/31 6:44:02 ET]
+Table '2319384610 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1345 in chips) 
+Seat 2: E-RAZOR60 (1655 in chips) 
+ollikahn23: posts small blind 25
+E-RAZOR60: posts big blind 50
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9s 4d]
+ollikahn23: folds 
+Uncalled bet (25) returned to E-RAZOR60
+E-RAZOR60 collected 50 from pot
+E-RAZOR60: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) folded before Flop
+Seat 2: E-RAZOR60 (big blind) collected (50)
+
+
+
+PokerStars Hand #187062674439: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level V (30/60) - 2018/05/31 12:44:09 CET [2018/05/31 6:44:09 ET]
+Table '2319384610 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1320 in chips) 
+Seat 2: E-RAZOR60 (1680 in chips) 
+E-RAZOR60: posts small blind 30
+ollikahn23: posts big blind 60
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3c Qs]
+E-RAZOR60: calls 30
+ollikahn23: checks 
+*** FLOP *** [7h Kd 6h]
+ollikahn23: checks 
+E-RAZOR60: checks 
+*** TURN *** [7h Kd 6h] [8d]
+ollikahn23: checks 
+E-RAZOR60: checks 
+*** RIVER *** [7h Kd 6h 8d] [Jd]
+ollikahn23: bets 60
+E-RAZOR60: calls 60
+*** SHOW DOWN ***
+ollikahn23: shows [3c Qs] (high card King)
+E-RAZOR60: shows [8h Ah] (a pair of Eights)
+E-RAZOR60 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [7h Kd 6h 8d Jd]
+Seat 1: ollikahn23 (big blind) showed [3c Qs] and lost with high card King
+Seat 2: E-RAZOR60 (button) (small blind) showed [8h Ah] and won (240) with a pair of Eights
+
+
+
+PokerStars Hand #187062679755: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level V (30/60) - 2018/05/31 12:44:25 CET [2018/05/31 6:44:25 ET]
+Table '2319384610 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1200 in chips) 
+Seat 2: E-RAZOR60 (1800 in chips) 
+ollikahn23: posts small blind 30
+E-RAZOR60: posts big blind 60
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2s 7d]
+ollikahn23: folds 
+Uncalled bet (30) returned to E-RAZOR60
+E-RAZOR60 collected 60 from pot
+E-RAZOR60: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) folded before Flop
+Seat 2: E-RAZOR60 (big blind) collected (60)
+
+
+
+PokerStars Hand #187062681596: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level V (30/60) - 2018/05/31 12:44:30 CET [2018/05/31 6:44:30 ET]
+Table '2319384610 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1170 in chips) 
+Seat 2: E-RAZOR60 (1830 in chips) 
+E-RAZOR60: posts small blind 30
+ollikahn23: posts big blind 60
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Js 6h]
+E-RAZOR60: calls 30
+ollikahn23: checks 
+*** FLOP *** [4s 9d Ts]
+ollikahn23: checks 
+E-RAZOR60: bets 60
+ollikahn23: folds 
+Uncalled bet (60) returned to E-RAZOR60
+E-RAZOR60 collected 120 from pot
+E-RAZOR60: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [4s 9d Ts]
+Seat 1: ollikahn23 (big blind) folded on the Flop
+Seat 2: E-RAZOR60 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #187062684834: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level V (30/60) - 2018/05/31 12:44:39 CET [2018/05/31 6:44:39 ET]
+Table '2319384610 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1110 in chips) 
+Seat 2: E-RAZOR60 (1890 in chips) 
+ollikahn23: posts small blind 30
+E-RAZOR60: posts big blind 60
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Kc 4s]
+ollikahn23: raises 60 to 120
+E-RAZOR60: folds 
+Uncalled bet (60) returned to ollikahn23
+ollikahn23 collected 120 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) collected (120)
+Seat 2: E-RAZOR60 (big blind) folded before Flop
+
+
+
+PokerStars Hand #187062686870: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level V (30/60) - 2018/05/31 12:44:45 CET [2018/05/31 6:44:45 ET]
+Table '2319384610 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1170 in chips) 
+Seat 2: E-RAZOR60 (1830 in chips) 
+E-RAZOR60: posts small blind 30
+ollikahn23: posts big blind 60
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Tc 9s]
+E-RAZOR60: calls 30
+ollikahn23: checks 
+*** FLOP *** [4h 9c 5c]
+ollikahn23: checks 
+E-RAZOR60: bets 60
+ollikahn23: raises 60 to 120
+E-RAZOR60: calls 60
+*** TURN *** [4h 9c 5c] [Jh]
+ollikahn23: bets 120
+E-RAZOR60: folds 
+Uncalled bet (120) returned to ollikahn23
+ollikahn23 collected 360 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [4h 9c 5c Jh]
+Seat 1: ollikahn23 (big blind) collected (360)
+Seat 2: E-RAZOR60 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #187062692115: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level V (30/60) - 2018/05/31 12:45:01 CET [2018/05/31 6:45:01 ET]
+Table '2319384610 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1350 in chips) 
+Seat 2: E-RAZOR60 (1650 in chips) 
+ollikahn23: posts small blind 30
+E-RAZOR60: posts big blind 60
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8s Js]
+ollikahn23: raises 60 to 120
+E-RAZOR60: calls 60
+*** FLOP *** [Ad Th 7c]
+E-RAZOR60: checks 
+ollikahn23: bets 120
+E-RAZOR60: folds 
+Uncalled bet (120) returned to ollikahn23
+ollikahn23 collected 240 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Ad Th 7c]
+Seat 1: ollikahn23 (button) (small blind) collected (240)
+Seat 2: E-RAZOR60 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #187062695666: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level V (30/60) - 2018/05/31 12:45:11 CET [2018/05/31 6:45:11 ET]
+Table '2319384610 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1470 in chips) 
+Seat 2: E-RAZOR60 (1530 in chips) 
+E-RAZOR60: posts small blind 30
+ollikahn23: posts big blind 60
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2h Kc]
+E-RAZOR60: calls 30
+ollikahn23: checks 
+*** FLOP *** [3d 4c Ks]
+ollikahn23: checks 
+E-RAZOR60: checks 
+*** TURN *** [3d 4c Ks] [9d]
+ollikahn23: bets 60
+E-RAZOR60: calls 60
+*** RIVER *** [3d 4c Ks 9d] [5h]
+ollikahn23: bets 180
+E-RAZOR60: folds 
+Uncalled bet (180) returned to ollikahn23
+ollikahn23 collected 240 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [3d 4c Ks 9d 5h]
+Seat 1: ollikahn23 (big blind) collected (240)
+Seat 2: E-RAZOR60 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #187062701306: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level V (30/60) - 2018/05/31 12:45:27 CET [2018/05/31 6:45:27 ET]
+Table '2319384610 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1590 in chips) 
+Seat 2: E-RAZOR60 (1410 in chips) 
+ollikahn23: posts small blind 30
+E-RAZOR60: posts big blind 60
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3h As]
+ollikahn23: raises 60 to 120
+E-RAZOR60: raises 60 to 180
+ollikahn23: calls 60
+*** FLOP *** [8d 7s 4h]
+E-RAZOR60: bets 360
+ollikahn23: folds 
+Uncalled bet (360) returned to E-RAZOR60
+E-RAZOR60 collected 360 from pot
+E-RAZOR60: doesn't show hand 
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [8d 7s 4h]
+Seat 1: ollikahn23 (button) (small blind) folded on the Flop
+Seat 2: E-RAZOR60 (big blind) collected (360)
+
+
+
+PokerStars Hand #187062705298: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level V (30/60) - 2018/05/31 12:45:39 CET [2018/05/31 6:45:39 ET]
+Table '2319384610 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1410 in chips) 
+Seat 2: E-RAZOR60 (1590 in chips) 
+E-RAZOR60: posts small blind 30
+ollikahn23: posts big blind 60
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8s 6c]
+E-RAZOR60: calls 30
+ollikahn23: checks 
+*** FLOP *** [3c Jh 4c]
+ollikahn23: checks 
+E-RAZOR60: checks 
+*** TURN *** [3c Jh 4c] [4s]
+ollikahn23: checks 
+E-RAZOR60: checks 
+*** RIVER *** [3c Jh 4c 4s] [5h]
+ollikahn23: bets 120
+E-RAZOR60: folds 
+Uncalled bet (120) returned to ollikahn23
+ollikahn23 collected 120 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [3c Jh 4c 4s 5h]
+Seat 1: ollikahn23 (big blind) collected (120)
+Seat 2: E-RAZOR60 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #187062709889: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level V (30/60) - 2018/05/31 12:45:52 CET [2018/05/31 6:45:52 ET]
+Table '2319384610 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1470 in chips) 
+Seat 2: E-RAZOR60 (1530 in chips) 
+ollikahn23: posts small blind 30
+E-RAZOR60: posts big blind 60
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9c 4d]
+ollikahn23: folds 
+Uncalled bet (30) returned to E-RAZOR60
+E-RAZOR60 collected 60 from pot
+E-RAZOR60: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) folded before Flop
+Seat 2: E-RAZOR60 (big blind) collected (60)
+
+
+
+PokerStars Hand #187062711813: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level V (30/60) - 2018/05/31 12:45:57 CET [2018/05/31 6:45:57 ET]
+Table '2319384610 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1440 in chips) 
+Seat 2: E-RAZOR60 (1560 in chips) 
+E-RAZOR60: posts small blind 30
+ollikahn23: posts big blind 60
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5s 9c]
+E-RAZOR60: folds 
+Uncalled bet (30) returned to ollikahn23
+ollikahn23 collected 60 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: ollikahn23 (big blind) collected (60)
+Seat 2: E-RAZOR60 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #187062713664: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level V (30/60) - 2018/05/31 12:46:03 CET [2018/05/31 6:46:03 ET]
+Table '2319384610 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1470 in chips) 
+Seat 2: E-RAZOR60 (1530 in chips) 
+ollikahn23: posts small blind 30
+E-RAZOR60: posts big blind 60
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5h 5c]
+ollikahn23: raises 60 to 120
+E-RAZOR60: folds 
+Uncalled bet (60) returned to ollikahn23
+ollikahn23 collected 120 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) collected (120)
+Seat 2: E-RAZOR60 (big blind) folded before Flop
+
+
+
+PokerStars Hand #187062715542: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level V (30/60) - 2018/05/31 12:46:08 CET [2018/05/31 6:46:08 ET]
+Table '2319384610 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1530 in chips) 
+Seat 2: E-RAZOR60 (1470 in chips) 
+E-RAZOR60: posts small blind 30
+ollikahn23: posts big blind 60
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6h 2d]
+E-RAZOR60: calls 30
+ollikahn23: checks 
+*** FLOP *** [7h 7s Qs]
+ollikahn23: bets 60
+E-RAZOR60: calls 60
+*** TURN *** [7h 7s Qs] [8d]
+ollikahn23: bets 180
+E-RAZOR60: folds 
+Uncalled bet (180) returned to ollikahn23
+ollikahn23 collected 240 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [7h 7s Qs 8d]
+Seat 1: ollikahn23 (big blind) collected (240)
+Seat 2: E-RAZOR60 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #187062720248: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level V (30/60) - 2018/05/31 12:46:21 CET [2018/05/31 6:46:21 ET]
+Table '2319384610 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1650 in chips) 
+Seat 2: E-RAZOR60 (1350 in chips) 
+ollikahn23: posts small blind 30
+E-RAZOR60: posts big blind 60
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4c Jh]
+ollikahn23: raises 60 to 120
+E-RAZOR60: folds 
+Uncalled bet (60) returned to ollikahn23
+ollikahn23 collected 120 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) collected (120)
+Seat 2: E-RAZOR60 (big blind) folded before Flop
+
+
+
+PokerStars Hand #187062722702: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level V (30/60) - 2018/05/31 12:46:29 CET [2018/05/31 6:46:29 ET]
+Table '2319384610 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1710 in chips) 
+Seat 2: E-RAZOR60 (1290 in chips) 
+E-RAZOR60: posts small blind 30
+ollikahn23: posts big blind 60
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6s 6d]
+E-RAZOR60: calls 30
+ollikahn23: raises 180 to 240
+E-RAZOR60: folds 
+Uncalled bet (180) returned to ollikahn23
+ollikahn23 collected 120 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: ollikahn23 (big blind) collected (120)
+Seat 2: E-RAZOR60 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #187062725574: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level V (30/60) - 2018/05/31 12:46:37 CET [2018/05/31 6:46:37 ET]
+Table '2319384610 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1770 in chips) 
+Seat 2: E-RAZOR60 (1230 in chips) 
+ollikahn23: posts small blind 30
+E-RAZOR60: posts big blind 60
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8d 7c]
+ollikahn23: folds 
+Uncalled bet (30) returned to E-RAZOR60
+E-RAZOR60 collected 60 from pot
+E-RAZOR60: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) folded before Flop
+Seat 2: E-RAZOR60 (big blind) collected (60)
+
+
+
+PokerStars Hand #187062727669: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level V (30/60) - 2018/05/31 12:46:43 CET [2018/05/31 6:46:43 ET]
+Table '2319384610 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1740 in chips) 
+Seat 2: E-RAZOR60 (1260 in chips) 
+E-RAZOR60: posts small blind 30
+ollikahn23: posts big blind 60
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5h 8d]
+E-RAZOR60: raises 60 to 120
+ollikahn23: folds 
+Uncalled bet (60) returned to E-RAZOR60
+E-RAZOR60 collected 120 from pot
+E-RAZOR60: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: ollikahn23 (big blind) folded before Flop
+Seat 2: E-RAZOR60 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #187062730027: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level V (30/60) - 2018/05/31 12:46:50 CET [2018/05/31 6:46:50 ET]
+Table '2319384610 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1680 in chips) 
+Seat 2: E-RAZOR60 (1320 in chips) 
+ollikahn23: posts small blind 30
+E-RAZOR60: posts big blind 60
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qc Ac]
+ollikahn23: raises 60 to 120
+E-RAZOR60: calls 60
+*** FLOP *** [9h 9c 6h]
+E-RAZOR60: checks 
+ollikahn23: bets 120
+E-RAZOR60: raises 120 to 240
+ollikahn23: calls 120
+*** TURN *** [9h 9c 6h] [7s]
+E-RAZOR60: bets 60
+ollikahn23: calls 60
+*** RIVER *** [9h 9c 6h 7s] [2c]
+E-RAZOR60: bets 120
+ollikahn23: calls 120
+*** SHOW DOWN ***
+E-RAZOR60: shows [6s Jc] (two pair, Nines and Sixes)
+ollikahn23: mucks hand 
+E-RAZOR60 collected 1080 from pot
+*** SUMMARY ***
+Total pot 1080 | Rake 0 
+Board [9h 9c 6h 7s 2c]
+Seat 1: ollikahn23 (button) (small blind) mucked [Qc Ac]
+Seat 2: E-RAZOR60 (big blind) showed [6s Jc] and won (1080) with two pair, Nines and Sixes
+
+
+
+PokerStars Hand #187062737105: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level VI (40/80) - 2018/05/31 12:47:11 CET [2018/05/31 6:47:11 ET]
+Table '2319384610 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1140 in chips) 
+Seat 2: E-RAZOR60 (1860 in chips) 
+E-RAZOR60: posts small blind 40
+ollikahn23: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qh 9d]
+E-RAZOR60: calls 40
+ollikahn23: checks 
+*** FLOP *** [As Kd 6d]
+ollikahn23: checks 
+E-RAZOR60: checks 
+*** TURN *** [As Kd 6d] [9h]
+ollikahn23: checks 
+E-RAZOR60: bets 80
+ollikahn23: calls 80
+*** RIVER *** [As Kd 6d 9h] [4h]
+ollikahn23: checks 
+E-RAZOR60: checks 
+*** SHOW DOWN ***
+ollikahn23: shows [Qh 9d] (a pair of Nines)
+E-RAZOR60: mucks hand 
+ollikahn23 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [As Kd 6d 9h 4h]
+Seat 1: ollikahn23 (big blind) showed [Qh 9d] and won (320) with a pair of Nines
+Seat 2: E-RAZOR60 (button) (small blind) mucked [9c 8h]
+
+
+
+PokerStars Hand #187062743294: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level VI (40/80) - 2018/05/31 12:47:29 CET [2018/05/31 6:47:29 ET]
+Table '2319384610 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1300 in chips) 
+Seat 2: E-RAZOR60 (1700 in chips) 
+ollikahn23: posts small blind 40
+E-RAZOR60: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9s 6d]
+ollikahn23: raises 80 to 160
+E-RAZOR60: calls 80
+*** FLOP *** [9c Qc Ac]
+E-RAZOR60: checks 
+ollikahn23: bets 160
+E-RAZOR60: raises 160 to 320
+ollikahn23: folds 
+Uncalled bet (160) returned to E-RAZOR60
+E-RAZOR60 collected 640 from pot
+E-RAZOR60: doesn't show hand 
+*** SUMMARY ***
+Total pot 640 | Rake 0 
+Board [9c Qc Ac]
+Seat 1: ollikahn23 (button) (small blind) folded on the Flop
+Seat 2: E-RAZOR60 (big blind) collected (640)
+
+
+
+PokerStars Hand #187062748870: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level VI (40/80) - 2018/05/31 12:47:45 CET [2018/05/31 6:47:45 ET]
+Table '2319384610 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (980 in chips) 
+Seat 2: E-RAZOR60 (2020 in chips) 
+E-RAZOR60: posts small blind 40
+ollikahn23: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [8h 7s]
+E-RAZOR60: calls 40
+ollikahn23: checks 
+*** FLOP *** [Ts Th 2s]
+ollikahn23: checks 
+E-RAZOR60: checks 
+*** TURN *** [Ts Th 2s] [6h]
+ollikahn23: bets 80
+E-RAZOR60: calls 80
+*** RIVER *** [Ts Th 2s 6h] [5s]
+ollikahn23: bets 240
+E-RAZOR60: folds 
+Uncalled bet (240) returned to ollikahn23
+ollikahn23 collected 320 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [Ts Th 2s 6h 5s]
+Seat 1: ollikahn23 (big blind) collected (320)
+Seat 2: E-RAZOR60 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #187062755333: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level VI (40/80) - 2018/05/31 12:48:04 CET [2018/05/31 6:48:04 ET]
+Table '2319384610 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1140 in chips) 
+Seat 2: E-RAZOR60 (1860 in chips) 
+ollikahn23: posts small blind 40
+E-RAZOR60: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [7h Ks]
+ollikahn23: raises 80 to 160
+E-RAZOR60: folds 
+Uncalled bet (80) returned to ollikahn23
+ollikahn23 collected 160 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) collected (160)
+Seat 2: E-RAZOR60 (big blind) folded before Flop
+
+
+
+PokerStars Hand #187062757152: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level VI (40/80) - 2018/05/31 12:48:09 CET [2018/05/31 6:48:09 ET]
+Table '2319384610 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1220 in chips) 
+Seat 2: E-RAZOR60 (1780 in chips) 
+E-RAZOR60: posts small blind 40
+ollikahn23: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6h 2h]
+E-RAZOR60: calls 40
+ollikahn23: checks 
+*** FLOP *** [Jc 8s 2c]
+ollikahn23: checks 
+E-RAZOR60: bets 80
+ollikahn23: calls 80
+*** TURN *** [Jc 8s 2c] [Th]
+ollikahn23: checks 
+E-RAZOR60: bets 160
+ollikahn23: folds 
+Uncalled bet (160) returned to E-RAZOR60
+E-RAZOR60 collected 320 from pot
+E-RAZOR60: doesn't show hand 
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [Jc 8s 2c Th]
+Seat 1: ollikahn23 (big blind) folded on the Turn
+Seat 2: E-RAZOR60 (button) (small blind) collected (320)
+
+
+
+PokerStars Hand #187062763719: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level VI (40/80) - 2018/05/31 12:48:28 CET [2018/05/31 6:48:28 ET]
+Table '2319384610 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (1060 in chips) 
+Seat 2: E-RAZOR60 (1940 in chips) 
+ollikahn23: posts small blind 40
+E-RAZOR60: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [6h 6c]
+ollikahn23: raises 80 to 160
+E-RAZOR60: calls 80
+*** FLOP *** [As Kh 7d]
+E-RAZOR60: checks 
+ollikahn23: bets 160
+E-RAZOR60: folds 
+Uncalled bet (160) returned to ollikahn23
+ollikahn23 collected 320 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [As Kh 7d]
+Seat 1: ollikahn23 (button) (small blind) collected (320)
+Seat 2: E-RAZOR60 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #187062767967: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level VI (40/80) - 2018/05/31 12:48:40 CET [2018/05/31 6:48:40 ET]
+Table '2319384610 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1220 in chips) 
+Seat 2: E-RAZOR60 (1780 in chips) 
+E-RAZOR60: posts small blind 40
+ollikahn23: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [3d 8h]
+E-RAZOR60: calls 40
+ollikahn23: checks 
+*** FLOP *** [4s Ah 7s]
+ollikahn23: checks 
+E-RAZOR60: checks 
+*** TURN *** [4s Ah 7s] [6s]
+ollikahn23: bets 80
+E-RAZOR60: calls 80
+*** RIVER *** [4s Ah 7s 6s] [4h]
+ollikahn23: bets 240
+E-RAZOR60: calls 240
+*** SHOW DOWN ***
+ollikahn23: shows [3d 8h] (a pair of Fours)
+E-RAZOR60: shows [As Jh] (two pair, Aces and Fours)
+E-RAZOR60 collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | Rake 0 
+Board [4s Ah 7s 6s 4h]
+Seat 1: ollikahn23 (big blind) showed [3d 8h] and lost with a pair of Fours
+Seat 2: E-RAZOR60 (button) (small blind) showed [As Jh] and won (800) with two pair, Aces and Fours
+
+
+
+PokerStars Hand #187062775659: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level VI (40/80) - 2018/05/31 12:49:03 CET [2018/05/31 6:49:03 ET]
+Table '2319384610 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (820 in chips) 
+Seat 2: E-RAZOR60 (2180 in chips) 
+ollikahn23: posts small blind 40
+E-RAZOR60: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Qs 3h]
+ollikahn23: raises 80 to 160
+E-RAZOR60: calls 80
+*** FLOP *** [2d 9s Qh]
+E-RAZOR60: checks 
+ollikahn23: checks 
+*** TURN *** [2d 9s Qh] [9d]
+E-RAZOR60: checks 
+ollikahn23: checks 
+*** RIVER *** [2d 9s Qh 9d] [Ts]
+E-RAZOR60: bets 80
+ollikahn23: calls 80
+*** SHOW DOWN ***
+E-RAZOR60: shows [Tc 9h] (a full house, Nines full of Tens)
+ollikahn23: mucks hand 
+E-RAZOR60 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [2d 9s Qh 9d Ts]
+Seat 1: ollikahn23 (button) (small blind) mucked [Qs 3h]
+Seat 2: E-RAZOR60 (big blind) showed [Tc 9h] and won (480) with a full house, Nines full of Tens
+
+
+
+PokerStars Hand #187062781000: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level VI (40/80) - 2018/05/31 12:49:18 CET [2018/05/31 6:49:18 ET]
+Table '2319384610 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (580 in chips) 
+Seat 2: E-RAZOR60 (2420 in chips) 
+E-RAZOR60: posts small blind 40
+ollikahn23: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [2d Qd]
+E-RAZOR60: folds 
+Uncalled bet (40) returned to ollikahn23
+ollikahn23 collected 80 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: ollikahn23 (big blind) collected (80)
+Seat 2: E-RAZOR60 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #187062783298: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level VI (40/80) - 2018/05/31 12:49:24 CET [2018/05/31 6:49:24 ET]
+Table '2319384610 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (620 in chips) 
+Seat 2: E-RAZOR60 (2380 in chips) 
+ollikahn23: posts small blind 40
+E-RAZOR60: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5h 6d]
+ollikahn23: folds 
+Uncalled bet (40) returned to E-RAZOR60
+E-RAZOR60 collected 80 from pot
+E-RAZOR60: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) folded before Flop
+Seat 2: E-RAZOR60 (big blind) collected (80)
+
+
+
+PokerStars Hand #187062785109: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level VI (40/80) - 2018/05/31 12:49:30 CET [2018/05/31 6:49:30 ET]
+Table '2319384610 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (580 in chips) 
+Seat 2: E-RAZOR60 (2420 in chips) 
+E-RAZOR60: posts small blind 40
+ollikahn23: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5s 7c]
+E-RAZOR60: folds 
+Uncalled bet (40) returned to ollikahn23
+ollikahn23 collected 80 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: ollikahn23 (big blind) collected (80)
+Seat 2: E-RAZOR60 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #187062786879: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level VI (40/80) - 2018/05/31 12:49:35 CET [2018/05/31 6:49:35 ET]
+Table '2319384610 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (620 in chips) 
+Seat 2: E-RAZOR60 (2380 in chips) 
+ollikahn23: posts small blind 40
+E-RAZOR60: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [9h 4s]
+ollikahn23: folds 
+Uncalled bet (40) returned to E-RAZOR60
+E-RAZOR60 collected 80 from pot
+E-RAZOR60: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: ollikahn23 (button) (small blind) folded before Flop
+Seat 2: E-RAZOR60 (big blind) collected (80)
+
+
+
+PokerStars Hand #187062788594: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level VI (40/80) - 2018/05/31 12:49:40 CET [2018/05/31 6:49:40 ET]
+Table '2319384610 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (580 in chips) 
+Seat 2: E-RAZOR60 (2420 in chips) 
+E-RAZOR60: posts small blind 40
+ollikahn23: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [Ah Tc]
+E-RAZOR60: folds 
+Uncalled bet (40) returned to ollikahn23
+ollikahn23 collected 80 from pot
+ollikahn23: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: ollikahn23 (big blind) collected (80)
+Seat 2: E-RAZOR60 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #187062790405: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level VI (40/80) - 2018/05/31 12:49:45 CET [2018/05/31 6:49:45 ET]
+Table '2319384610 1' 2-max Seat #1 is the button
+Seat 1: ollikahn23 (620 in chips) 
+Seat 2: E-RAZOR60 (2380 in chips) 
+ollikahn23: posts small blind 40
+E-RAZOR60: posts big blind 80
+*** HOLE CARDS ***
+Dealt to ollikahn23 [4d 6h]
+ollikahn23: raises 80 to 160
+E-RAZOR60: calls 80
+*** FLOP *** [4h 5c Jh]
+E-RAZOR60: checks 
+ollikahn23: bets 160
+E-RAZOR60: calls 160
+*** TURN *** [4h 5c Jh] [2c]
+E-RAZOR60: checks 
+ollikahn23: bets 300 and is all-in
+E-RAZOR60: calls 300
+*** RIVER *** [4h 5c Jh 2c] [7c]
+*** SHOW DOWN ***
+E-RAZOR60: shows [3h 9h] (high card Jack)
+ollikahn23: shows [4d 6h] (a pair of Fours)
+ollikahn23 collected 1240 from pot
+*** SUMMARY ***
+Total pot 1240 | Rake 0 
+Board [4h 5c Jh 2c 7c]
+Seat 1: ollikahn23 (button) (small blind) showed [4d 6h] and won (1240) with a pair of Fours
+Seat 2: E-RAZOR60 (big blind) showed [3h 9h] and lost with high card Jack
+
+
+
+PokerStars Hand #187062797591: Tournament #2319384610, $1.40+$0.10 USD Hold'em No Limit - Match Round I, Level VII (50/100) - 2018/05/31 12:50:06 CET [2018/05/31 6:50:06 ET]
+Table '2319384610 1' 2-max Seat #2 is the button
+Seat 1: ollikahn23 (1240 in chips) 
+Seat 2: E-RAZOR60 (1760 in chips) 
+E-RAZOR60: posts small blind 50
+ollikahn23: posts big blind 100
+*** HOLE CARDS ***
+Dealt to ollikahn23 [5d 4d]
+E-RAZOR60: calls 50
+ollikahn23: checks 
+*** FLOP *** [3c 7c Ad]
+ollikahn23: checks 
+E-RAZOR60: bets 100
+ollikahn23: raises 200 to 300
+E-RAZOR60: raises 1360 to 1660 and is all-in
+ollikahn23: calls 840 and is all-in
+Uncalled bet (520) returned to E-RAZOR60
+*** TURN *** [3c 7c Ad] [Tc]
+*** RIVER *** [3c 7c Ad Tc] [Ac]
+*** SHOW DOWN ***
+ollikahn23: shows [5d 4d] (a pair of Aces)
+E-RAZOR60: shows [Qs Ah] (three of a kind, Aces)
+E-RAZOR60 collected 2480 from pot
+ollikahn23 finished the tournament in 2nd place
+E-RAZOR60 wins the tournament and receives $2.80 - congratulations!
+*** SUMMARY ***
+Total pot 2480 | Rake 0 
+Board [3c 7c Ad Tc Ac]
+Seat 1: ollikahn23 (big blind) showed [5d 4d] and lost with a pair of Aces
+Seat 2: E-RAZOR60 (button) (small blind) showed [Qs Ah] and won (2480) with three of a kind, Aces
+
+
+
