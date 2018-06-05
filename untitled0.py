@@ -334,24 +334,16 @@ hand = [
 
 #calculating our equity preflop, regarding the count of players
 
-<<<<<<< HEAD
-
 p11 = 0                 #how often do we win
 p22 = 0                 #how often opponents win
 opp = NotOut            #how many opponents are still in the game in that moment, we have to make a decision
 playerHero_hand = hand  #our hand
 
-=======
 
-p11 = 0                 #how often do we win
-p22 = 0                 #how often opponents win
-opp = NotOut            #how many opponents are still in the game in that moment, we have to make a decision
-playerHero_hand = hand  #our hand
 
->>>>>>> 75629a37b8a9bc8359ee27446ce2b7dd957d00ee
 
 start_time = time.time()
-for i in range(20000):   
+for i in range(50000):   
     #constructin the whole deck
     deck = Deck()
     
@@ -398,7 +390,7 @@ for i in range(20000):
         p22 += 1
    
 
-rate = p11/20000
+rate = p11/50000
 
 
 if rate < potOdds0:
@@ -410,13 +402,8 @@ else:
     dec += 1    
     
 print("--- %s seconds ---" % (time.time() - start_time))
-<<<<<<< HEAD
 
 
-
-
-=======
->>>>>>> 75629a37b8a9bc8359ee27446ce2b7dd957d00ee
 
 
 
@@ -447,7 +434,6 @@ for i in range(len(v)):
         
         potSize1 += add1
 
-<<<<<<< HEAD
     else:
         break
   
@@ -479,7 +465,6 @@ for i in range(len(v)):
     
     
 
-<<<<<<< HEAD
 #what amount comes into the pot after from our opponents after our first decision until our second decision
 potSize3 = potSize2
 for i in range(c, len(v)):
@@ -498,7 +483,10 @@ for i in range(c, len(v)):
         if 'raises' in add and 'all-in' in add:  
             add1 = int(add.partition('to ')[2].partition(' and')[0])
             high.append(add1)
-=======
+
+
+
+
 v = hh.preflop_actions
 potSize1 = potSize0
 c = 0           #what is our position regarding to UTG
@@ -520,12 +508,11 @@ for i in range(len(v)):
             add1 = 0
             NotOut -= 1
         
-<<<<<<< HEAD
         potSize3 += add1
 
     else:
         break
-=======
+
         potSize1 += add1
 
     else:
@@ -557,13 +544,11 @@ for i in range(len(v)):
     
     
 
-<<<<<<< HEAD
-
 # i is our position regarding to the player on seat 1 (change the name of the variable!!!)
                 
                 
 #####################      what are our potOdds preflop, second decision       ####################
-=======
+
 #what amount comes into the pot after from our opponents after our first decision until our second decision
 potSize3 = potSize2
 for i in range(c, len(v)):
@@ -595,7 +580,8 @@ for i in range(c, len(v)):
     else:
         break
 
-<<<<<<< HEAD
+
+
                 
 #if there was no raise before us and our position is outside of the blinds
 if all('raises' not in v[j] for j in range(len(v[:i]))) and t != 2 and t != 1:
@@ -623,9 +609,8 @@ if any('raises' in v[j] for j in range(len(v[:i]))) and t != 2 and t != 1:
                 
                 if addr1-addWe < p.stack:
                     potOdds1 = float((addr1-addWe)/potSize3)
-=======
 
->>>>>>> 75629a37b8a9bc8359ee27446ce2b7dd957d00ee
+
 
 # i is our position regarding to the player on seat 1 (change the name of the variable!!!)
                 
@@ -638,9 +623,7 @@ if any('raises' in v[j] for j in range(len(v[:i]))) and t != 2 and t != 1:
 if all('raises' not in v[j] for j in range(len(v[:i]))) and t != 2 and t != 1:
     potOdds0 = float(hh.bb/potSize1)
 
-<<<<<<< HEAD
-    
-=======
+
 if all('raises' not in v[j] for j in range(len(v[:i]))) and t == 1:
     potOdds0 = float(hh.sb/potSize1)
     
@@ -663,18 +646,7 @@ if any('raises' in v[j] for j in range(len(v[:i]))) and t != 2 and t != 1:
                 
                 if addr1-addWe < p.stack:
                     potOdds1 = float((addr1-addWe)/potSize3)
->>>>>>> 75629a37b8a9bc8359ee27446ce2b7dd957d00ee
 
-
-
-p11 = 0                 #how often do we win
-p22 = 0                 #how often opponents win
-opp = NotOut            #how many opponents are still in the game in that moment, we have to make a decision
-playerHero_hand = hand  #our hand
-
-<<<<<<< HEAD
-=======
-    
 
 
 
@@ -683,7 +655,16 @@ p22 = 0                 #how often opponents win
 opp = NotOut            #how many opponents are still in the game in that moment, we have to make a decision
 playerHero_hand = hand  #our hand
 
->>>>>>> 75629a37b8a9bc8359ee27446ce2b7dd957d00ee
+
+
+
+
+p11 = 0                 #how often do we win
+p22 = 0                 #how often opponents win
+opp = NotOut            #how many opponents are still in the game in that moment, we have to make a decision
+playerHero_hand = hand  #our hand
+
+
 
 start_time = time.time()
 for i in range(20000):   
@@ -845,7 +826,6 @@ z2 = hh.show_down
 
 #### Exercises ####
 
-# 1) how do we fix it that the amount of the small blind is within the raise in HU preflop?
 # 2) EV is the stack at the end of the round (so try out raises preflop and check through the whole hand)
 # 3) check out pokerstove for more equity-exercises
 
@@ -896,7 +876,7 @@ p.combo
 p.seat
 
 #what is our positon regarding to the button (utg, utg+1, etc.)
-hh.button.name
+
 a = hh.players
 aa = sum([a,a], [])
 
@@ -979,28 +959,54 @@ NotOut = pl-1     #how many player does fold before us
 for i in range(len(v)):
     #i = 0
     if v[i].partition(':')[0] != hh.hero.name:
-        add = v[i].partition(':')[2]
-        if 'calls' in add and 'all-in' not in add:
-            add1 = int(add.partition('calls ')[2])
+        if v[i].partition(':')[0] != hh.button.name:
+            add = v[i].partition(':')[2]
+            if 'calls' in add and 'all-in' not in add:
+                add1 = int(add.partition('calls ')[2])
+                
+            if 'calls' in add and 'all-in' in add:  
+                add1 = int(add.partition('to ')[2].partition(' and')[0])
+    
+            if 'raises' in add and 'all-in' not in add:
+                add1 = int(add.partition('to ')[2])
+                           
+            if 'raises' in add and 'all-in' in add:  
+                add1 = int(add.partition('to ')[2].partition(' and')[0])
+                high.append(add1)
+                
+            if 'checks' in add:
+                add1 = 0
+                
+            if 'folds' in add:
+                add1 = 0
+                NotOut -= 1
             
-        if 'calls' in add and 'all-in' in add:  
-            add1 = int(add.partition('to ')[2].partition(' and')[0])
-
-        if 'raises' in add and 'all-in' not in add:
-            add1 = int(add.partition('to ')[2])
-                       
-        if 'raises' in add and 'all-in' in add:  
-            add1 = int(add.partition('to ')[2].partition(' and')[0])
-            high.append(add1)
+            potSize1 += add1
             
-        if 'checks' in add:
-            add1 = 0
+        else:
+            add2 = v[i].partition(':')[2]
+            if 'calls' in add2 and 'all-in' not in add2:
+                add3 = int(add2.partition('calls ')[2])
+                
+            if 'calls' in add2 and 'all-in' in add2:  
+                add3 = int(add2.partition('to ')[2].partition(' and')[0])
+    
+            if 'raises' in add2 and 'all-in' not in add2:
+                add3 = int(add2.partition('to ')[2])
+                           
+            if 'raises' in add2 and 'all-in' in add2:  
+                add3 = int(add2.partition('to ')[2].partition(' and')[0])
+                high.append(add3)
+                
+            if 'checks' in add2:
+                add3 = 0
+                
+            if 'folds' in add2:
+                add3 = 0
+                NotOut -= 1
             
-        if 'folds' in add:
-            add1 = 0
-            NotOut -= 1
-        
-        potSize1 += add1
+            potSize1 += add3 - hh.sb
+            
 
     else:
         break
@@ -1008,6 +1014,63 @@ for i in range(len(v)):
 
 
 
+# i is our position regarding to the player on seat 1, see the for loop for the amount size before 
+                
+#####################      what are our potOdds preflop, first decision       ####################
+                
+#if there was no raise before us and our position is outside of the blinds
+if all('raises' not in v[j] for j in range(len(v[:i]))) and t != 2 and t != 1:
+    potOdds0 = float(hh.bb/potSize1)
+
+if all('raises' not in v[j] for j in range(len(v[:i]))) and t == 1:
+    potOdds0 = float(hh.sb/potSize1)
+    
+if all('raises' not in v[j] for j in range(len(v[:i]))) and t == 2:    
+    potOdds0 = float(0.000000001/potSize1)
+    
+    
+#if there was a raise before us and we arent in the blinds    
+if any('raises' in v[j] for j in range(len(v[:i]))) and t != 2 and t != 1:
+    for q in range(len(v[:i])):
+    #q = 0
+        if v[q].partition(':')[0] != hh.hero.name:
+            addr = v[q].partition(':')[2]
+            if 'raises' in addr and all('raises' not in v[q2].partition(':')[2] for q2 in range(q+1,len(v[:i]))) and 'all-in' not in addr:
+                addr1 = int(addr.partition('to ')[2])
+                
+            if 'raises' in addr and all('raises' not in v[q2].partition(':')[2] for q2 in range(q+1,len(v[:i]))) and 'all-in' in addr:
+                addr1 = max(high)
+                
+                if addr1-addWe < p.stack:
+                    potOdds1 = float((addr1-addWe)/potSize1)
+
+    potOdds0 = float(addr1/potSize1)
+    
+    
+    
+    
+#if there was a raise before us and we are in the blinds     
+if any('raises' in v[j] for j in range(len(v[:i]))) and t != 2 and t == 1:
+    for q in range(len(v[:i])):
+    #q = 0
+        if v[q].partition(':')[0] != hh.hero.name:
+            addr = v[q].partition(':')[2]
+            if 'raises' in addr and all('raises' not in v[q2].partition(':')[2] for q2 in range(q+1,len(v[:i]))) and 'all-in' not in addr:
+                addr1 = int(addr.partition('to ')[2])
+                
+                if v[q].partition(':')[0] == hh.button.name:
+                    addr1 = int(addr1 - hh.bb)
+                    
+                
+                
+                #was the raise an all-in?
+            if 'raises' in addr and all('raises' not in v[q2].partition(':')[2] for q2 in range(q+1,len(v[:i]))) and 'all-in' in addr:
+                addr1 = max(high)
+                
+                if addr1-addWe < p.stack:
+                    potOdds1 = float((addr1-addWe)/potSize1)
+
+    potOdds0 = float(addr1/(potSize1+addr1))    
 
 
 
@@ -1016,8 +1079,6 @@ for i in range(len(v)):
 
 
 
-
-hh.button.name
 
 
 
