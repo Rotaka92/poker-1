@@ -4,6 +4,8 @@ from poker import Suit
 import time
 import re
 import random
+from poker import Range
+
 
 
 HAND1 = """
@@ -44,12 +46,61 @@ Seat 2: ollikahn23 (big blind) folded on the River"""
 
 
 
+#####  Stats of Villain  ######
+
+#preflop:
+
+threeB_PF = 0.5     #automated from PokerTracker?
+
+
+
+##############################
+
+
+if threeB_PF == 0.5:
+    Range3bPF = Range("33+ A2o+ A2s+ K5o+ K2s+ Q7o+ Q2s+ J7o+ J4s+ T8o+ T6s+ 98o+ 96s+ 98o+ 96s+ 86s 76s").hands
+
+
+
+
+
+
+
+
+fullRg = []
+suits = ['c', 's', 'h', 'd']
+
+for k in Range3bPF:
+    if 'o' in str(k):
+#        for l in range(12):
+         for l in suits:    
+             for l1 in suits:
+                 fullRg.append(str(k)[0]+l+str(k)[1]+l1)
+            
+    if 's' in str(k):
+        for m in suits:
+            fullRg.append(str(k)[0]+m+str(k)[1]+m)
+ 
+        
+    if 'o' not in str(k) and 's' not in str(k):
+        for n in range(4):
+            for o in range(4):
+                if o > n:
+                    try: 
+                        fullRg.append(str(k)[0]+suits[n]+str(k)[1]+suits[o])
+                    
+                    except:
+                        pass
+
+fullRg = list(set(fullRg))
+
 
 
 #### Exercises ####
 
 # 2) EV is the stack at the end of the round (so try out raises preflop and check through the whole hand)
 # 3) check out pokerstove for more equity-exercises
+# 4) maximum exploitive strategy
 
 
 
@@ -58,6 +109,11 @@ Seat 2: ollikahn23 (big blind) folded on the River"""
 dec = 1             #Number of our decision
 addWe = 0           #what we have add to the pot so far
 high = []           #empty list to get the highest amount being bet so far
+
+
+
+
+
 
 
 
@@ -268,10 +324,7 @@ from deuces import Evaluator
 evaluator = Evaluator()
 from deuces import Deck
 
-from poker import Range
-Range("22+ AQo+").percent
 
-Range("22+ KQo+")
 
 
 
@@ -317,7 +370,7 @@ playerHero_hand = hand  #our hand
 
 
 start_time = time.time()
-for i in range(50000):   
+for i in range(50):   
     #constructin the whole deck
     deck = Deck()
     
@@ -331,9 +384,18 @@ for i in range(50000):
     
     
     d = {}
-    for j in range(opp):
-        #giving a random player random cards
-        d['player%s_hand'%j] = deck.draw(2)
+    
+    #giving villain random cards
+    for j in range(opp):        
+        #d['player%s_hand'%j] = deck.draw(2)
+        #print(d)
+        #giving villain cards from his range regarding his 3bPF-Range:
+        t = random.randint(0,len(fullRg)-1)
+        d['player%s_hand'%j] = [Card.new(fullRg[t][:2]), Card.new(fullRg[t][2:])]
+        #print(d)
+          
+    
+            
         
     #Card.print_pretty_cards(d['player2_hand'])
    
@@ -348,6 +410,7 @@ for i in range(50000):
     e = {}
     for k in range(opp):
         e['p%s_score'%k] = evaluator.evaluate(board, d['player%s_hand'%k])
+        #print(e)
 #        p1_score = evaluator.evaluate(board, player1_hand)
 #        p2_score = evaluator.evaluate(board, player2_hand)
 #        p3_score = evaluator.evaluate(board, player3_hand)
@@ -364,10 +427,10 @@ for i in range(50000):
         p22 += 1
    
 
-rate = p11/50000
+rate = p11/50
 
 
-#if rate < potOdds0:
+#if our EV at the end of the hand is smaller/bigger than our EV if we fold, then fold/call or raise:
 if int(potSize1)*rate+(p.stack-float(hh.bb)) - (1-rate)*addr1+(p.stack-float(hh.bb)) < (p.stack-float(hh.bb)): 
     print('Decision Nr.%d: Fold the Hand preflop'%dec)
     dec += 1
@@ -378,7 +441,7 @@ else:
     
 print("--- %s seconds ---" % (time.time() - start_time))
 
-
+#errors in 300817, 3003, 9417, 168113, 700321, 67735
 
 
 
