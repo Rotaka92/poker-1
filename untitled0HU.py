@@ -9,7 +9,7 @@ from poker import Range
 
 
 HAND1 = """
-PokerStars Hand #187043871016: Tournament #2318958343, $1.38+$0.12 USD Hold'em No Limit - Level II (15/30) - 2018/05/30 22:16:20 CET [2018/05/30 16:16:20 ET]
+PokerStars Hand #187043871016: Tournament #2318958343, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/30 22:16:20 CET [2018/05/30 16:16:20 ET]
 Table '2318958343 1' 2-max Seat #1 is the button
 Seat 1: k0oki (1854 in chips)
 Seat 2: ollikahn23 (1146 in chips)
@@ -101,6 +101,7 @@ fullRg = list(set(fullRg))
 # 2) EV is the stack at the end of the round (so try out raises preflop and check through the whole hand)
 # 3) check out pokerstove for more equity-exercises
 # 4) maximum exploitive strategy
+# 5) control the inequality below
 
 
 
@@ -348,9 +349,18 @@ match = hero_re.match(hole_cards_line)
 #
 #hero, hero_index = get_hero_from_players(match.group('hero_name')) 
 
-first_raw_card = match.group(2)
-second_raw_card = match.group(3)
+
+
+#first_raw_card = match.group(2)
+first_raw_card = '2s'
+#second_raw_card = match.group(3)
+second_raw_card = '7c'
 raw_hand = first_raw_card + second_raw_card
+
+
+
+fullRg = [x for x in fullRg if first_raw_card not in x and second_raw_card not in x]
+
 
    
 hand = [
@@ -370,7 +380,7 @@ playerHero_hand = hand  #our hand
 
 
 start_time = time.time()
-for i in range(50):   
+for i in range(50000):   
     #constructin the whole deck
     deck = Deck()
     
@@ -383,17 +393,22 @@ for i in range(50):
     deck.cards.remove(hand[1])
     
     
+    
+    
     d = {}
     
-    #giving villain random cards
+    #giving villain random cards or cards from a range
     for j in range(opp):        
         #d['player%s_hand'%j] = deck.draw(2)
         #print(d)
         #giving villain cards from his range regarding his 3bPF-Range:
         t = random.randint(0,len(fullRg)-1)
+        #print(fullRg[t])
         d['player%s_hand'%j] = [Card.new(fullRg[t][:2]), Card.new(fullRg[t][2:])]
         #print(d)
-          
+        #removing our own hand from the deck
+        deck.cards.remove(d['player%s_hand'%j][0])
+        deck.cards.remove(d['player%s_hand'%j][1])
     
             
         
@@ -404,6 +419,9 @@ for i in range(50):
     
     board = deck.draw(5)
     #Card.print_pretty_cards(board)
+    
+    
+    
     
     
     #how strong are the hands from our opponents
@@ -427,21 +445,23 @@ for i in range(50):
         p22 += 1
    
 
-rate = p11/50
+rate = p11/50000
 
 
 #if our EV at the end of the hand is smaller/bigger than our EV if we fold, then fold/call or raise:
-if int(potSize1)*rate+(p.stack-float(hh.bb)) - (1-rate)*addr1+(p.stack-float(hh.bb)) < (p.stack-float(hh.bb)): 
+if ((p.stack-float(hh.bb)) - addr1)*(1-rate) + ((p.stack-float(hh.bb)) + int(potSize1))*rate < (p.stack-float(hh.bb)):    
     print('Decision Nr.%d: Fold the Hand preflop'%dec)
     dec += 1
+    print(rate)
     
 else:
     print('Decision Nr.%d: Call/ Raise the Hand preflop'%dec)
-    dec += 1    
+    dec += 1 
+    print(rate)
     
 print("--- %s seconds ---" % (time.time() - start_time))
 
-#errors in 300817, 3003, 9417, 168113, 700321, 67735
+#errors in 300817, 3003, 9417, 168113, 700321, 67735, 13195(Js5s)
 
 
 
