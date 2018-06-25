@@ -1,0 +1,5380 @@
+*********** # 1 **************
+PokerStars Hand #187932354822: Tournament #2339082888, $2.25+$2.25+$0.50 USD Hold'em No Limit - Level I (25/50) - 2018/06/22 23:05:48 ET
+Table '2339082888 2' 6-max Seat #4 is the button
+Seat 1: Kykolka1986 (480 in chips) 
+Seat 2: igogopoke (455 in chips) 
+Seat 4: heutegewinnwa (970 in chips) 
+Seat 5: AlanIsGaming (615 in chips) 
+Seat 6: O_Saraaa (480 in chips) 
+Kykolka1986: posts the ante 10
+igogopoke: posts the ante 10
+heutegewinnwa: posts the ante 10
+AlanIsGaming: posts the ante 10
+O_Saraaa: posts the ante 10
+AlanIsGaming: posts small blind 25
+O_Saraaa: posts big blind 50
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Td Ac]
+Kykolka1986: folds 
+igogopoke: folds 
+heutegewinnwa: raises 100 to 150
+AlanIsGaming: folds 
+O_Saraaa: calls 100
+*** FLOP *** [6s 8d Qd]
+O_Saraaa: bets 50
+heutegewinnwa: raises 200 to 250
+O_Saraaa: folds 
+Uncalled bet (200) returned to heutegewinnwa
+heutegewinnwa collected 475 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 475 | Rake 0 
+Board [6s 8d Qd]
+Seat 1: Kykolka1986 folded before Flop (didn't bet)
+Seat 2: igogopoke folded before Flop (didn't bet)
+Seat 4: heutegewinnwa (button) collected (475)
+Seat 5: AlanIsGaming (small blind) folded before Flop
+Seat 6: O_Saraaa (big blind) folded on the Flop
+
+
+*********** # 2 **************
+PokerStars Hand #187932345931: Tournament #2339082888, $2.25+$2.25+$0.50 USD Hold'em No Limit - Level I (25/50) - 2018/06/22 23:05:16 ET
+Table '2339082888 2' 6-max Seat #2 is the button
+Seat 1: Kykolka1986 (490 in chips) 
+Seat 2: igogopoke (465 in chips) 
+Seat 3: dhv1986 (440 in chips) 
+Seat 4: heutegewinnwa (490 in chips) 
+Seat 5: AlanIsGaming (625 in chips) 
+Seat 6: O_Saraaa (490 in chips) 
+Kykolka1986: posts the ante 10
+igogopoke: posts the ante 10
+dhv1986: posts the ante 10
+heutegewinnwa: posts the ante 10
+AlanIsGaming: posts the ante 10
+O_Saraaa: posts the ante 10
+dhv1986: posts small blind 25
+heutegewinnwa: posts big blind 50
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Ah Ks]
+AlanIsGaming: folds 
+O_Saraaa: folds 
+Kykolka1986: folds 
+igogopoke: folds 
+dhv1986: raises 380 to 430 and is all-in
+heutegewinnwa: calls 380
+*** FLOP *** [Ac 5d 2c]
+*** TURN *** [Ac 5d 2c] [5h]
+*** RIVER *** [Ac 5d 2c 5h] [4c]
+*** SHOW DOWN ***
+dhv1986: shows [Kh Td] (a pair of Fives)
+heutegewinnwa: shows [Ah Ks] (two pair, Aces and Fives)
+heutegewinnwa collected 920 from pot
+heutegewinnwa wins the $2.25 bounty for eliminating dhv1986
+dhv1986 finished the tournament in 18th place
+*** SUMMARY ***
+Total pot 920 | Rake 0 
+Board [Ac 5d 2c 5h 4c]
+Seat 1: Kykolka1986 folded before Flop (didn't bet)
+Seat 2: igogopoke (button) folded before Flop (didn't bet)
+Seat 3: dhv1986 (small blind) showed [Kh Td] and lost with a pair of Fives
+Seat 4: heutegewinnwa (big blind) showed [Ah Ks] and won (920) with two pair, Aces and Fives
+Seat 5: AlanIsGaming folded before Flop (didn't bet)
+Seat 6: O_Saraaa folded before Flop (didn't bet)
+
+
+*********** # 3 **************
+PokerStars Hand #187932341426: Tournament #2339082888, $2.25+$2.25+$0.50 USD Hold'em No Limit - Level I (25/50) - 2018/06/22 23:05:00 ET
+Table '2339082888 2' 6-max Seat #1 is the button
+Seat 1: Kykolka1986 (500 in chips) 
+Seat 2: igogopoke (500 in chips) 
+Seat 3: dhv1986 (500 in chips) 
+Seat 4: heutegewinnwa (500 in chips) 
+Seat 5: AlanIsGaming (500 in chips) 
+Seat 6: O_Saraaa (500 in chips) 
+Kykolka1986: posts the ante 10
+igogopoke: posts the ante 10
+dhv1986: posts the ante 10
+heutegewinnwa: posts the ante 10
+AlanIsGaming: posts the ante 10
+O_Saraaa: posts the ante 10
+igogopoke: posts small blind 25
+dhv1986: posts big blind 50
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [4h 8h]
+heutegewinnwa: folds 
+AlanIsGaming: raises 440 to 490 and is all-in
+O_Saraaa: folds 
+Kykolka1986: folds 
+igogopoke: folds 
+dhv1986: folds 
+Uncalled bet (440) returned to AlanIsGaming
+AlanIsGaming collected 185 from pot
+AlanIsGaming: doesn't show hand 
+*** SUMMARY ***
+Total pot 185 | Rake 0 
+Seat 1: Kykolka1986 (button) folded before Flop (didn't bet)
+Seat 2: igogopoke (small blind) folded before Flop
+Seat 3: dhv1986 (big blind) folded before Flop
+Seat 4: heutegewinnwa folded before Flop (didn't bet)
+Seat 5: AlanIsGaming collected (185)
+Seat 6: O_Saraaa folded before Flop (didn't bet)
+
+
+*********** # 4 **************
+PokerStars Hand #187932274800: Tournament #2339081895, $28.20+$1.80 USD Hold'em No Limit - Level I (10/20) - 2018/06/22 23:00:59 ET
+Table '2339081895 1' 3-max Seat #2 is the button
+Seat 1: heutegewinnwa (500 in chips) 
+Seat 2: funnd (480 in chips) 
+Seat 3: mednadi123 (520 in chips) 
+mednadi123: posts small blind 10
+heutegewinnwa: posts big blind 20
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [4d Ad]
+funnd: folds 
+mednadi123: raises 40 to 60
+heutegewinnwa: calls 40
+*** FLOP *** [7h 8d 7d]
+mednadi123: bets 60
+heutegewinnwa: raises 60 to 120
+mednadi123: raises 60 to 180
+heutegewinnwa: raises 260 to 440 and is all-in
+mednadi123: calls 260
+*** TURN *** [7h 8d 7d] [Qc]
+*** RIVER *** [7h 8d 7d Qc] [Kc]
+*** SHOW DOWN ***
+mednadi123: shows [7s Jd] (three of a kind, Sevens)
+heutegewinnwa: shows [4d Ad] (a pair of Sevens)
+mednadi123 collected 1000 from pot
+heutegewinnwa finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1000 | Rake 0 
+Board [7h 8d 7d Qc Kc]
+Seat 1: heutegewinnwa (big blind) showed [4d Ad] and lost with a pair of Sevens
+Seat 2: funnd (button) folded before Flop (didn't bet)
+Seat 3: mednadi123 (small blind) showed [7s Jd] and won (1000) with three of a kind, Sevens
+
+
+*********** # 5 **************
+PokerStars Hand #187932271126: Tournament #2339081895, $28.20+$1.80 USD Hold'em No Limit - Level I (10/20) - 2018/06/22 23:00:46 ET
+Table '2339081895 1' 3-max Seat #1 is the button
+Seat 1: heutegewinnwa (500 in chips) 
+Seat 2: funnd (500 in chips) 
+Seat 3: mednadi123 (500 in chips) 
+funnd: posts small blind 10
+mednadi123: posts big blind 20
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Qh 2s]
+heutegewinnwa: folds 
+funnd: calls 10
+mednadi123: raises 40 to 60
+funnd: folds 
+Uncalled bet (40) returned to mednadi123
+mednadi123 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: heutegewinnwa (button) folded before Flop (didn't bet)
+Seat 2: funnd (small blind) folded before Flop
+Seat 3: mednadi123 (big blind) collected (40)
+
+
+*********** # 6 **************
+PokerStars Hand #187932257022: Tournament #2339078377, $57+$3 USD Hold'em No Limit - Level III (20/40) - 2018/06/22 22:59:51 ET
+Table '2339078377 1' 3-max Seat #3 is the button
+Seat 1: heutegewinnwa (240 in chips) 
+Seat 3: The Uncle (1260 in chips) 
+The Uncle: posts small blind 20
+heutegewinnwa: posts big blind 40
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Qh 8h]
+The Uncle: calls 20
+heutegewinnwa: raises 40 to 80
+The Uncle: calls 40
+*** FLOP *** [Jd 5d Th]
+heutegewinnwa: bets 160 and is all-in
+The Uncle: calls 160
+*** TURN *** [Jd 5d Th] [8c]
+*** RIVER *** [Jd 5d Th 8c] [7d]
+*** SHOW DOWN ***
+heutegewinnwa: shows [Qh 8h] (a pair of Eights)
+The Uncle: shows [Js 6h] (a pair of Jacks)
+The Uncle collected 480 from pot
+heutegewinnwa finished the tournament in 2nd place
+The Uncle wins the tournament and receives $120.00 - congratulations!
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [Jd 5d Th 8c 7d]
+Seat 1: heutegewinnwa (big blind) showed [Qh 8h] and lost with a pair of Eights
+Seat 3: The Uncle (button) (small blind) showed [Js 6h] and won (480) with a pair of Jacks
+
+
+*********** # 7 **************
+PokerStars Hand #187932255086: Tournament #2339078377, $57+$3 USD Hold'em No Limit - Level III (20/40) - 2018/06/22 22:59:43 ET
+Table '2339078377 1' 3-max Seat #1 is the button
+Seat 1: heutegewinnwa (260 in chips) 
+Seat 3: The Uncle (1240 in chips) 
+heutegewinnwa: posts small blind 20
+The Uncle: posts big blind 40
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [2s 8h]
+heutegewinnwa: folds 
+Uncalled bet (20) returned to The Uncle
+The Uncle collected 40 from pot
+The Uncle: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: heutegewinnwa (button) (small blind) folded before Flop
+Seat 3: The Uncle (big blind) collected (40)
+
+
+*********** # 8 **************
+PokerStars Hand #187932248005: Tournament #2339078377, $57+$3 USD Hold'em No Limit - Level III (20/40) - 2018/06/22 22:59:15 ET
+Table '2339078377 1' 3-max Seat #3 is the button
+Seat 1: heutegewinnwa (620 in chips) 
+Seat 3: The Uncle (880 in chips) 
+The Uncle: posts small blind 20
+heutegewinnwa: posts big blind 40
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [2c Jc]
+The Uncle: calls 20
+heutegewinnwa: checks 
+*** FLOP *** [Ks Kd Kc]
+heutegewinnwa: checks 
+The Uncle: checks 
+*** TURN *** [Ks Kd Kc] [Js]
+heutegewinnwa: bets 80
+The Uncle: calls 80
+*** RIVER *** [Ks Kd Kc Js] [Qc]
+heutegewinnwa: bets 120
+The Uncle: raises 120 to 240
+heutegewinnwa: calls 120
+*** SHOW DOWN ***
+The Uncle: shows [Qh 8s] (a full house, Kings full of Queens)
+heutegewinnwa: mucks hand 
+The Uncle collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | Rake 0 
+Board [Ks Kd Kc Js Qc]
+Seat 1: heutegewinnwa (big blind) mucked [2c Jc]
+Seat 3: The Uncle (button) (small blind) showed [Qh 8s] and won (720) with a full house, Kings full of Queens
+
+
+*********** # 9 **************
+PokerStars Hand #187932246530: Tournament #2339078377, $57+$3 USD Hold'em No Limit - Level III (20/40) - 2018/06/22 22:59:10 ET
+Table '2339078377 1' 3-max Seat #1 is the button
+Seat 1: heutegewinnwa (580 in chips) 
+Seat 3: The Uncle (920 in chips) 
+heutegewinnwa: posts small blind 20
+The Uncle: posts big blind 40
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Ac Td]
+heutegewinnwa: raises 80 to 120
+The Uncle: folds 
+Uncalled bet (80) returned to heutegewinnwa
+heutegewinnwa collected 80 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: heutegewinnwa (button) (small blind) collected (80)
+Seat 3: The Uncle (big blind) folded before Flop
+
+
+*********** # 10 **************
+PokerStars Hand #187932232345: Tournament #2339078377, $57+$3 USD Hold'em No Limit - Level II (15/30) - 2018/06/22 22:58:13 ET
+Table '2339078377 1' 3-max Seat #3 is the button
+Seat 1: heutegewinnwa (1040 in chips) 
+Seat 3: The Uncle (460 in chips) 
+The Uncle: posts small blind 15
+heutegewinnwa: posts big blind 30
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [4h 4d]
+The Uncle: raises 30 to 60
+heutegewinnwa: calls 30
+*** FLOP *** [5c 9d Kc]
+heutegewinnwa: bets 120
+The Uncle: calls 120
+*** TURN *** [5c 9d Kc] [Qh]
+heutegewinnwa: bets 180
+The Uncle: calls 180
+*** RIVER *** [5c 9d Kc Qh] [3s]
+heutegewinnwa: bets 120
+The Uncle: calls 100 and is all-in
+Uncalled bet (20) returned to heutegewinnwa
+*** SHOW DOWN ***
+heutegewinnwa: shows [4h 4d] (a pair of Fours)
+The Uncle: shows [Ts 9h] (a pair of Nines)
+The Uncle collected 920 from pot
+*** SUMMARY ***
+Total pot 920 | Rake 0 
+Board [5c 9d Kc Qh 3s]
+Seat 1: heutegewinnwa (big blind) showed [4h 4d] and lost with a pair of Fours
+Seat 3: The Uncle (button) (small blind) showed [Ts 9h] and won (920) with a pair of Nines
+
+
+*********** # 11 **************
+PokerStars Hand #187932228254: Tournament #2339078377, $57+$3 USD Hold'em No Limit - Level II (15/30) - 2018/06/22 22:57:56 ET
+Table '2339078377 1' 3-max Seat #1 is the button
+Seat 1: heutegewinnwa (980 in chips) 
+Seat 3: The Uncle (520 in chips) 
+heutegewinnwa: posts small blind 15
+The Uncle: posts big blind 30
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Kd 2h]
+heutegewinnwa: raises 30 to 60
+The Uncle: calls 30
+*** FLOP *** [Ac Ts 7s]
+The Uncle: checks 
+heutegewinnwa: bets 90
+The Uncle: folds 
+Uncalled bet (90) returned to heutegewinnwa
+heutegewinnwa collected 120 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Ac Ts 7s]
+Seat 1: heutegewinnwa (button) (small blind) collected (120)
+Seat 3: The Uncle (big blind) folded on the Flop
+
+
+*********** # 12 **************
+PokerStars Hand #187932226852: Tournament #2339078377, $57+$3 USD Hold'em No Limit - Level II (15/30) - 2018/06/22 22:57:51 ET
+Table '2339078377 1' 3-max Seat #3 is the button
+Seat 1: heutegewinnwa (965 in chips) 
+Seat 3: The Uncle (535 in chips) 
+The Uncle: posts small blind 15
+heutegewinnwa: posts big blind 30
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Td 9c]
+The Uncle: folds 
+Uncalled bet (15) returned to heutegewinnwa
+heutegewinnwa collected 30 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: heutegewinnwa (big blind) collected (30)
+Seat 3: The Uncle (button) (small blind) folded before Flop
+
+
+*********** # 13 **************
+PokerStars Hand #187932225826: Tournament #2339078377, $57+$3 USD Hold'em No Limit - Level II (15/30) - 2018/06/22 22:57:47 ET
+Table '2339078377 1' 3-max Seat #1 is the button
+Seat 1: heutegewinnwa (935 in chips) 
+Seat 3: The Uncle (565 in chips) 
+heutegewinnwa: posts small blind 15
+The Uncle: posts big blind 30
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Qh 4s]
+heutegewinnwa: raises 30 to 60
+The Uncle: folds 
+Uncalled bet (30) returned to heutegewinnwa
+heutegewinnwa collected 60 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: heutegewinnwa (button) (small blind) collected (60)
+Seat 3: The Uncle (big blind) folded before Flop
+
+
+*********** # 14 **************
+PokerStars Hand #187932224308: Tournament #2339078377, $57+$3 USD Hold'em No Limit - Level II (15/30) - 2018/06/22 22:57:41 ET
+Table '2339078377 1' 3-max Seat #3 is the button
+Seat 1: heutegewinnwa (965 in chips) 
+Seat 3: The Uncle (535 in chips) 
+The Uncle: posts small blind 15
+heutegewinnwa: posts big blind 30
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [5d 9s]
+The Uncle: raises 30 to 60
+heutegewinnwa: folds 
+Uncalled bet (30) returned to The Uncle
+The Uncle collected 60 from pot
+The Uncle: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: heutegewinnwa (big blind) folded before Flop
+Seat 3: The Uncle (button) (small blind) collected (60)
+
+
+*********** # 15 **************
+PokerStars Hand #187932220335: Tournament #2339078377, $57+$3 USD Hold'em No Limit - Level II (15/30) - 2018/06/22 22:57:25 ET
+Table '2339078377 1' 3-max Seat #1 is the button
+Seat 1: heutegewinnwa (905 in chips) 
+Seat 3: The Uncle (595 in chips) 
+heutegewinnwa: posts small blind 15
+The Uncle: posts big blind 30
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Ac 3h]
+heutegewinnwa: raises 30 to 60
+The Uncle: calls 30
+*** FLOP *** [Jh 3d Qh]
+The Uncle: checks 
+heutegewinnwa: bets 90
+The Uncle: folds 
+Uncalled bet (90) returned to heutegewinnwa
+heutegewinnwa collected 120 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Jh 3d Qh]
+Seat 1: heutegewinnwa (button) (small blind) collected (120)
+Seat 3: The Uncle (big blind) folded on the Flop
+
+
+*********** # 16 **************
+PokerStars Hand #187932219199: Tournament #2339078377, $57+$3 USD Hold'em No Limit - Level II (15/30) - 2018/06/22 22:57:21 ET
+Table '2339078377 1' 3-max Seat #3 is the button
+Seat 1: heutegewinnwa (890 in chips) 
+Seat 3: The Uncle (610 in chips) 
+The Uncle: posts small blind 15
+heutegewinnwa: posts big blind 30
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [6s Ks]
+The Uncle: folds 
+Uncalled bet (15) returned to heutegewinnwa
+heutegewinnwa collected 30 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: heutegewinnwa (big blind) collected (30)
+Seat 3: The Uncle (button) (small blind) folded before Flop
+
+
+*********** # 17 **************
+PokerStars Hand #187932217763: Tournament #2339078377, $57+$3 USD Hold'em No Limit - Level II (15/30) - 2018/06/22 22:57:15 ET
+Table '2339078377 1' 3-max Seat #1 is the button
+Seat 1: heutegewinnwa (860 in chips) 
+Seat 3: The Uncle (640 in chips) 
+heutegewinnwa: posts small blind 15
+The Uncle: posts big blind 30
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Kc Th]
+heutegewinnwa: raises 30 to 60
+The Uncle: folds 
+Uncalled bet (30) returned to heutegewinnwa
+heutegewinnwa collected 60 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: heutegewinnwa (button) (small blind) collected (60)
+Seat 3: The Uncle (big blind) folded before Flop
+
+
+*********** # 18 **************
+PokerStars Hand #187932216898: Tournament #2339078377, $57+$3 USD Hold'em No Limit - Level II (15/30) - 2018/06/22 22:57:11 ET
+Table '2339078377 1' 3-max Seat #3 is the button
+Seat 1: heutegewinnwa (845 in chips) 
+Seat 3: The Uncle (655 in chips) 
+The Uncle: posts small blind 15
+heutegewinnwa: posts big blind 30
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [9h 2s]
+The Uncle: folds 
+Uncalled bet (15) returned to heutegewinnwa
+heutegewinnwa collected 30 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: heutegewinnwa (big blind) collected (30)
+Seat 3: The Uncle (button) (small blind) folded before Flop
+
+
+*********** # 19 **************
+PokerStars Hand #187932216011: Tournament #2339078377, $57+$3 USD Hold'em No Limit - Level II (15/30) - 2018/06/22 22:57:08 ET
+Table '2339078377 1' 3-max Seat #1 is the button
+Seat 1: heutegewinnwa (860 in chips) 
+Seat 3: The Uncle (640 in chips) 
+heutegewinnwa: posts small blind 15
+The Uncle: posts big blind 30
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [9s 6s]
+heutegewinnwa: folds 
+Uncalled bet (15) returned to The Uncle
+The Uncle collected 30 from pot
+The Uncle: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: heutegewinnwa (button) (small blind) folded before Flop
+Seat 3: The Uncle (big blind) collected (30)
+
+
+*********** # 20 **************
+PokerStars Hand #187932215064: Tournament #2339078377, $57+$3 USD Hold'em No Limit - Level II (15/30) - 2018/06/22 22:57:04 ET
+Table '2339078377 1' 3-max Seat #3 is the button
+Seat 1: heutegewinnwa (845 in chips) 
+Seat 3: The Uncle (655 in chips) 
+The Uncle: posts small blind 15
+heutegewinnwa: posts big blind 30
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [8c Ac]
+The Uncle: folds 
+Uncalled bet (15) returned to heutegewinnwa
+heutegewinnwa collected 30 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: heutegewinnwa (big blind) collected (30)
+Seat 3: The Uncle (button) (small blind) folded before Flop
+
+
+*********** # 21 **************
+PokerStars Hand #187932213948: Tournament #2339078377, $57+$3 USD Hold'em No Limit - Level II (15/30) - 2018/06/22 22:57:00 ET
+Table '2339078377 1' 3-max Seat #1 is the button
+Seat 1: heutegewinnwa (860 in chips) 
+Seat 3: The Uncle (640 in chips) 
+heutegewinnwa: posts small blind 15
+The Uncle: posts big blind 30
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [2h 9h]
+heutegewinnwa: folds 
+Uncalled bet (15) returned to The Uncle
+The Uncle collected 30 from pot
+The Uncle: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: heutegewinnwa (button) (small blind) folded before Flop
+Seat 3: The Uncle (big blind) collected (30)
+
+
+*********** # 22 **************
+PokerStars Hand #187932213168: Tournament #2339078377, $57+$3 USD Hold'em No Limit - Level II (15/30) - 2018/06/22 22:56:56 ET
+Table '2339078377 1' 3-max Seat #3 is the button
+Seat 1: heutegewinnwa (845 in chips) 
+Seat 3: The Uncle (655 in chips) 
+The Uncle: posts small blind 15
+heutegewinnwa: posts big blind 30
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Kd Kh]
+The Uncle: folds 
+Uncalled bet (15) returned to heutegewinnwa
+heutegewinnwa collected 30 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: heutegewinnwa (big blind) collected (30)
+Seat 3: The Uncle (button) (small blind) folded before Flop
+
+
+*********** # 23 **************
+PokerStars Hand #187932211147: Tournament #2339078377, $57+$3 USD Hold'em No Limit - Level II (15/30) - 2018/06/22 22:56:48 ET
+Table '2339078377 1' 3-max Seat #1 is the button
+Seat 1: heutegewinnwa (860 in chips) 
+Seat 3: The Uncle (640 in chips) 
+heutegewinnwa: posts small blind 15
+The Uncle: posts big blind 30
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [2d Jd]
+heutegewinnwa: folds 
+Uncalled bet (15) returned to The Uncle
+The Uncle collected 30 from pot
+The Uncle: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: heutegewinnwa (button) (small blind) folded before Flop
+Seat 3: The Uncle (big blind) collected (30)
+
+
+*********** # 24 **************
+PokerStars Hand #187932202847: Tournament #2339078377, $57+$3 USD Hold'em No Limit - Level II (15/30) - 2018/06/22 22:56:15 ET
+Table '2339078377 1' 3-max Seat #3 is the button
+Seat 1: heutegewinnwa (620 in chips) 
+Seat 3: The Uncle (880 in chips) 
+The Uncle: posts small blind 15
+heutegewinnwa: posts big blind 30
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Js 6h]
+The Uncle: calls 15
+heutegewinnwa: checks 
+*** FLOP *** [9h 9s 2c]
+heutegewinnwa: bets 90
+The Uncle: calls 90
+*** TURN *** [9h 9s 2c] [6c]
+heutegewinnwa: bets 120
+The Uncle: calls 120
+*** RIVER *** [9h 9s 2c 6c] [2s]
+heutegewinnwa: bets 380 and is all-in
+The Uncle: folds 
+Uncalled bet (380) returned to heutegewinnwa
+heutegewinnwa collected 480 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [9h 9s 2c 6c 2s]
+Seat 1: heutegewinnwa (big blind) collected (480)
+Seat 3: The Uncle (button) (small blind) folded on the River
+
+
+*********** # 25 **************
+PokerStars Hand #187932200739: Tournament #2339078377, $57+$3 USD Hold'em No Limit - Level II (15/30) - 2018/06/22 22:56:07 ET
+Table '2339078377 1' 3-max Seat #1 is the button
+Seat 1: heutegewinnwa (590 in chips) 
+Seat 3: The Uncle (910 in chips) 
+heutegewinnwa: posts small blind 15
+The Uncle: posts big blind 30
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Js 9h]
+heutegewinnwa: raises 30 to 60
+The Uncle: folds 
+Uncalled bet (30) returned to heutegewinnwa
+heutegewinnwa collected 60 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: heutegewinnwa (button) (small blind) collected (60)
+Seat 3: The Uncle (big blind) folded before Flop
+
+
+*********** # 26 **************
+PokerStars Hand #187932193950: Tournament #2339078377, $57+$3 USD Hold'em No Limit - Level I (10/20) - 2018/06/22 22:55:39 ET
+Table '2339078377 1' 3-max Seat #3 is the button
+Seat 1: heutegewinnwa (600 in chips) 
+Seat 2: SunnYeah (270 in chips) 
+Seat 3: The Uncle (630 in chips) 
+heutegewinnwa: posts small blind 10
+SunnYeah: posts big blind 20
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [7h 3d]
+The Uncle: raises 20 to 40
+heutegewinnwa: folds 
+SunnYeah: calls 20
+*** FLOP *** [3h 6c 5d]
+SunnYeah: bets 50
+The Uncle: calls 50
+*** TURN *** [3h 6c 5d] [4d]
+SunnYeah: bets 180 and is all-in
+The Uncle: calls 180
+*** RIVER *** [3h 6c 5d 4d] [Kc]
+*** SHOW DOWN ***
+SunnYeah: shows [6s 8s] (a pair of Sixes)
+The Uncle: shows [Ts Tc] (a pair of Tens)
+The Uncle collected 550 from pot
+SunnYeah finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 550 | Rake 0 
+Board [3h 6c 5d 4d Kc]
+Seat 1: heutegewinnwa (small blind) folded before Flop
+Seat 2: SunnYeah (big blind) showed [6s 8s] and lost with a pair of Sixes
+Seat 3: The Uncle (button) showed [Ts Tc] and won (550) with a pair of Tens
+
+
+*********** # 27 **************
+PokerStars Hand #187932185346: Tournament #2339078377, $57+$3 USD Hold'em No Limit - Level I (10/20) - 2018/06/22 22:55:04 ET
+Table '2339078377 1' 3-max Seat #2 is the button
+Seat 1: heutegewinnwa (620 in chips) 
+Seat 2: SunnYeah (400 in chips) 
+Seat 3: The Uncle (480 in chips) 
+The Uncle: posts small blind 10
+heutegewinnwa: posts big blind 20
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [9d 4c]
+SunnYeah: raises 20 to 40
+The Uncle: calls 30
+heutegewinnwa: folds 
+*** FLOP *** [Td Ks Ad]
+The Uncle: bets 70
+SunnYeah: calls 70
+*** TURN *** [Td Ks Ad] [4s]
+The Uncle: checks 
+SunnYeah: checks 
+*** RIVER *** [Td Ks Ad 4s] [Ah]
+The Uncle: bets 20
+SunnYeah: calls 20
+*** SHOW DOWN ***
+The Uncle: shows [Qc Kd] (two pair, Aces and Kings)
+SunnYeah: mucks hand 
+The Uncle collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Board [Td Ks Ad 4s Ah]
+Seat 1: heutegewinnwa (big blind) folded before Flop
+Seat 2: SunnYeah (button) mucked [Ts Jc]
+Seat 3: The Uncle (small blind) showed [Qc Kd] and won (280) with two pair, Aces and Kings
+
+
+*********** # 28 **************
+PokerStars Hand #187932182924: Tournament #2339078377, $57+$3 USD Hold'em No Limit - Level I (10/20) - 2018/06/22 22:54:55 ET
+Table '2339078377 1' 3-max Seat #1 is the button
+Seat 1: heutegewinnwa (590 in chips) 
+Seat 2: SunnYeah (410 in chips) 
+Seat 3: The Uncle (500 in chips) 
+SunnYeah: posts small blind 10
+The Uncle: posts big blind 20
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Kd Kc]
+heutegewinnwa: raises 40 to 60
+SunnYeah: folds 
+The Uncle: folds 
+Uncalled bet (40) returned to heutegewinnwa
+heutegewinnwa collected 50 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: heutegewinnwa (button) collected (50)
+Seat 2: SunnYeah (small blind) folded before Flop
+Seat 3: The Uncle (big blind) folded before Flop
+
+
+*********** # 29 **************
+PokerStars Hand #187932180096: Tournament #2339078377, $57+$3 USD Hold'em No Limit - Level I (10/20) - 2018/06/22 22:54:45 ET
+Table '2339078377 1' 3-max Seat #3 is the button
+Seat 1: heutegewinnwa (600 in chips) 
+Seat 2: SunnYeah (430 in chips) 
+Seat 3: The Uncle (470 in chips) 
+heutegewinnwa: posts small blind 10
+SunnYeah: posts big blind 20
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [7d 3s]
+The Uncle: raises 20 to 40
+heutegewinnwa: folds 
+SunnYeah: folds 
+Uncalled bet (20) returned to The Uncle
+The Uncle collected 50 from pot
+The Uncle: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: heutegewinnwa (small blind) folded before Flop
+Seat 2: SunnYeah (big blind) folded before Flop
+Seat 3: The Uncle (button) collected (50)
+
+
+*********** # 30 **************
+PokerStars Hand #187932177073: Tournament #2339078377, $57+$3 USD Hold'em No Limit - Level I (10/20) - 2018/06/22 22:54:35 ET
+Table '2339078377 1' 3-max Seat #2 is the button
+Seat 1: heutegewinnwa (590 in chips) 
+Seat 2: SunnYeah (430 in chips) 
+Seat 3: The Uncle (480 in chips) 
+The Uncle: posts small blind 10
+heutegewinnwa: posts big blind 20
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [8h Jc]
+SunnYeah: folds 
+The Uncle: folds 
+Uncalled bet (10) returned to heutegewinnwa
+heutegewinnwa collected 20 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: heutegewinnwa (big blind) collected (20)
+Seat 2: SunnYeah (button) folded before Flop (didn't bet)
+Seat 3: The Uncle (small blind) folded before Flop
+
+
+*********** # 31 **************
+PokerStars Hand #187932174563: Tournament #2339078377, $57+$3 USD Hold'em No Limit - Level I (10/20) - 2018/06/22 22:54:25 ET
+Table '2339078377 1' 3-max Seat #1 is the button
+Seat 1: heutegewinnwa (590 in chips) 
+Seat 2: SunnYeah (440 in chips) 
+Seat 3: The Uncle (470 in chips) 
+SunnYeah: posts small blind 10
+The Uncle: posts big blind 20
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [2h Qs]
+heutegewinnwa: folds 
+SunnYeah: folds 
+Uncalled bet (10) returned to The Uncle
+The Uncle collected 20 from pot
+The Uncle: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: heutegewinnwa (button) folded before Flop (didn't bet)
+Seat 2: SunnYeah (small blind) folded before Flop
+Seat 3: The Uncle (big blind) collected (20)
+
+
+*********** # 32 **************
+PokerStars Hand #187932167686: Tournament #2339078377, $57+$3 USD Hold'em No Limit - Level I (10/20) - 2018/06/22 22:54:01 ET
+Table '2339078377 1' 3-max Seat #3 is the button
+Seat 1: heutegewinnwa (510 in chips) 
+Seat 2: SunnYeah (480 in chips) 
+Seat 3: The Uncle (510 in chips) 
+heutegewinnwa: posts small blind 10
+SunnYeah: posts big blind 20
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [5h Ah]
+The Uncle: raises 20 to 40
+heutegewinnwa: calls 30
+SunnYeah: calls 20
+*** FLOP *** [Qc 9s 5s]
+heutegewinnwa: bets 80
+SunnYeah: folds 
+The Uncle: folds 
+Uncalled bet (80) returned to heutegewinnwa
+heutegewinnwa collected 120 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Qc 9s 5s]
+Seat 1: heutegewinnwa (small blind) collected (120)
+Seat 2: SunnYeah (big blind) folded on the Flop
+Seat 3: The Uncle (button) folded on the Flop
+
+
+*********** # 33 **************
+PokerStars Hand #187932164076: Tournament #2339078377, $57+$3 USD Hold'em No Limit - Level I (10/20) - 2018/06/22 22:53:48 ET
+Table '2339078377 1' 3-max Seat #2 is the button
+Seat 1: heutegewinnwa (500 in chips) 
+Seat 2: SunnYeah (480 in chips) 
+Seat 3: The Uncle (520 in chips) 
+The Uncle: posts small blind 10
+heutegewinnwa: posts big blind 20
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [7c 4h]
+SunnYeah: folds 
+The Uncle: folds 
+Uncalled bet (10) returned to heutegewinnwa
+heutegewinnwa collected 20 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: heutegewinnwa (big blind) collected (20)
+Seat 2: SunnYeah (button) folded before Flop (didn't bet)
+Seat 3: The Uncle (small blind) folded before Flop
+
+
+*********** # 34 **************
+PokerStars Hand #187932150340: Tournament #2339078377, $57+$3 USD Hold'em No Limit - Level I (10/20) - 2018/06/22 22:53:00 ET
+Table '2339078377 1' 3-max Seat #1 is the button
+Seat 1: heutegewinnwa (500 in chips) 
+Seat 2: SunnYeah (500 in chips) 
+Seat 3: The Uncle (500 in chips) 
+SunnYeah: posts small blind 10
+The Uncle: posts big blind 20
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [7h Jc]
+heutegewinnwa: folds 
+SunnYeah: calls 10
+The Uncle: checks 
+*** FLOP *** [4h 3c Tc]
+SunnYeah: checks 
+The Uncle: checks 
+*** TURN *** [4h 3c Tc] [Qs]
+SunnYeah: checks 
+The Uncle: checks 
+*** RIVER *** [4h 3c Tc Qs] [5c]
+SunnYeah: checks 
+The Uncle: checks 
+*** SHOW DOWN ***
+SunnYeah: shows [9s 6s] (high card Queen)
+The Uncle: shows [6c Js] (high card Queen - Jack kicker)
+The Uncle collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [4h 3c Tc Qs 5c]
+Seat 1: heutegewinnwa (button) folded before Flop (didn't bet)
+Seat 2: SunnYeah (small blind) showed [9s 6s] and lost with high card Queen
+Seat 3: The Uncle (big blind) showed [6c Js] and won (40) with high card Queen
+
+
+*********** # 35 **************
+PokerStars Hand #187932118690: Tournament #2339076938, $28.20+$1.80 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/30 22:16:20 CET [2018/05/30 16:16:20 ET]
+Table '2339076938 1' 3-max Seat #1 is the button
+Seat 1: boomerang747 (480 in chips)
+Seat 3: heutegewinnwa (1020 in chips)
+boomerang747: posts small blind 10
+heutegewinnwa: posts big blind 20
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [8h 8c]
+boomerang747: raises 460 to 480 and is all-in
+heutegewinnwa: calls 460
+*** FLOP *** [Ah 6d 5h]
+*** TURN *** [Ah 6d 5h] [Jd]
+*** RIVER *** [Ah 6d 5h Jd] [9h]
+*** SHOW DOWN ***
+heutegewinnwa: shows [8h 8c] (a pair of Eights)
+boomerang747: shows [Qc Kd] (high card Ace)
+heutegewinnwa collected 960 from pot
+boomerang747 finished the tournament in 2nd place
+heutegewinnwa wins the tournament and receives $60.00 - congratulations!
+*** SUMMARY ***
+Total pot 960 | Rake 0
+Board [Ah 6d 5h Jd 9h]
+Seat 1: boomerang747 (button) (small blind) showed [Qc Kd] and lost with high card Ace
+Seat 3: heutegewinnwa (big blind) showed [8h 8c] and won (960) with a pair of Eights
+
+
+*********** # 36 **************
+PokerStars Hand #187932113321: Tournament #2339076938, $28.20+$1.80 USD Hold'em No Limit - Level I (10/20) - 2018/06/22 22:50:51 ET
+Table '2339076938 1' 3-max Seat #3 is the button
+Seat 1: boomerang747 (540 in chips) 
+Seat 3: heutegewinnwa (960 in chips) 
+heutegewinnwa: posts small blind 10
+boomerang747: posts big blind 20
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Jd 5c]
+heutegewinnwa: raises 40 to 60
+boomerang747: calls 40
+*** FLOP *** [Qs Ah 3c]
+boomerang747: checks 
+heutegewinnwa: bets 80
+boomerang747: folds 
+Uncalled bet (80) returned to heutegewinnwa
+heutegewinnwa collected 120 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Qs Ah 3c]
+Seat 1: boomerang747 (big blind) folded on the Flop
+Seat 3: heutegewinnwa (button) (small blind) collected (120)
+
+
+*********** # 37 **************
+PokerStars Hand #187932112015: Tournament #2339076938, $28.20+$1.80 USD Hold'em No Limit - Level I (10/20) - 2018/06/22 22:50:46 ET
+Table '2339076938 1' 3-max Seat #1 is the button
+Seat 1: boomerang747 (520 in chips) 
+Seat 3: heutegewinnwa (980 in chips) 
+boomerang747: posts small blind 10
+heutegewinnwa: posts big blind 20
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [8d 2c]
+boomerang747: raises 20 to 40
+heutegewinnwa: folds 
+Uncalled bet (20) returned to boomerang747
+boomerang747 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: boomerang747 (button) (small blind) collected (40)
+Seat 3: heutegewinnwa (big blind) folded before Flop
+
+
+*********** # 38 **************
+PokerStars Hand #187932107163: Tournament #2339076938, $28.20+$1.80 USD Hold'em No Limit - Level I (10/20) - 2018/06/22 22:50:30 ET
+Table '2339076938 1' 3-max Seat #2 is the button
+Seat 1: boomerang747 (360 in chips) 
+Seat 2: LudoPsycho (150 in chips) 
+Seat 3: heutegewinnwa (990 in chips) 
+heutegewinnwa: posts small blind 10
+boomerang747: posts big blind 20
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [2d 6c]
+LudoPsycho: raises 130 to 150 and is all-in
+heutegewinnwa: folds 
+boomerang747: calls 130
+*** FLOP *** [9c Js Qd]
+*** TURN *** [9c Js Qd] [4c]
+*** RIVER *** [9c Js Qd 4c] [3s]
+*** SHOW DOWN ***
+boomerang747: shows [Kd As] (high card Ace)
+LudoPsycho: shows [Ad 8d] (high card Ace - lower kicker)
+boomerang747 collected 310 from pot
+LudoPsycho finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 310 | Rake 0 
+Board [9c Js Qd 4c 3s]
+Seat 1: boomerang747 (big blind) showed [Kd As] and won (310) with high card Ace
+Seat 2: LudoPsycho (button) showed [Ad 8d] and lost with high card Ace
+Seat 3: heutegewinnwa (small blind) folded before Flop
+
+
+*********** # 39 **************
+PokerStars Hand #187932098042: Tournament #2339076938, $28.20+$1.80 USD Hold'em No Limit - Level I (10/20) - 2018/06/22 22:49:58 ET
+Table '2339076938 1' 3-max Seat #1 is the button
+Seat 1: boomerang747 (420 in chips) 
+Seat 2: LudoPsycho (160 in chips) 
+Seat 3: heutegewinnwa (920 in chips) 
+LudoPsycho: posts small blind 10
+heutegewinnwa: posts big blind 20
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [6s 6h]
+boomerang747: raises 20 to 40
+LudoPsycho: folds 
+heutegewinnwa: raises 20 to 60
+boomerang747: calls 20
+*** FLOP *** [2h Qd Ac]
+heutegewinnwa: bets 80
+boomerang747: folds 
+Uncalled bet (80) returned to heutegewinnwa
+heutegewinnwa collected 130 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 130 | Rake 0 
+Board [2h Qd Ac]
+Seat 1: boomerang747 (button) folded on the Flop
+Seat 2: LudoPsycho (small blind) folded before Flop
+Seat 3: heutegewinnwa (big blind) collected (130)
+
+
+*********** # 40 **************
+PokerStars Hand #187932096306: Tournament #2339076938, $28.20+$1.80 USD Hold'em No Limit - Level I (10/20) - 2018/06/22 22:49:52 ET
+Table '2339076938 1' 3-max Seat #3 is the button
+Seat 1: boomerang747 (430 in chips) 
+Seat 2: LudoPsycho (150 in chips) 
+Seat 3: heutegewinnwa (920 in chips) 
+boomerang747: posts small blind 10
+LudoPsycho: posts big blind 20
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [4s Tc]
+heutegewinnwa: folds 
+boomerang747: folds 
+Uncalled bet (10) returned to LudoPsycho
+LudoPsycho collected 20 from pot
+LudoPsycho: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: boomerang747 (small blind) folded before Flop
+Seat 2: LudoPsycho (big blind) collected (20)
+Seat 3: heutegewinnwa (button) folded before Flop (didn't bet)
+
+
+*********** # 41 **************
+PokerStars Hand #187932093229: Tournament #2339076938, $28.20+$1.80 USD Hold'em No Limit - Level I (10/20) - 2018/06/22 22:49:41 ET
+Table '2339076938 1' 3-max Seat #2 is the button
+Seat 1: boomerang747 (450 in chips) 
+Seat 2: LudoPsycho (120 in chips) 
+Seat 3: heutegewinnwa (930 in chips) 
+heutegewinnwa: posts small blind 10
+boomerang747: posts big blind 20
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [3h 2c]
+LudoPsycho: raises 100 to 120 and is all-in
+heutegewinnwa: folds 
+boomerang747: folds 
+Uncalled bet (100) returned to LudoPsycho
+LudoPsycho collected 50 from pot
+LudoPsycho: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: boomerang747 (big blind) folded before Flop
+Seat 2: LudoPsycho (button) collected (50)
+Seat 3: heutegewinnwa (small blind) folded before Flop
+
+
+*********** # 42 **************
+PokerStars Hand #187932089051: Tournament #2339076938, $28.20+$1.80 USD Hold'em No Limit - Level I (10/20) - 2018/06/22 22:49:26 ET
+Table '2339076938 1' 3-max Seat #1 is the button
+Seat 1: boomerang747 (500 in chips) 
+Seat 2: LudoPsycho (50 in chips) 
+Seat 3: heutegewinnwa (950 in chips) 
+LudoPsycho: posts small blind 10
+heutegewinnwa: posts big blind 20
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [3s 9d]
+boomerang747: raises 480 to 500 and is all-in
+LudoPsycho: calls 40 and is all-in
+heutegewinnwa: folds 
+Uncalled bet (450) returned to boomerang747
+*** FLOP *** [7d Ts 9c]
+*** TURN *** [7d Ts 9c] [4d]
+*** RIVER *** [7d Ts 9c 4d] [3c]
+*** SHOW DOWN ***
+LudoPsycho: shows [Kh Tc] (a pair of Tens)
+boomerang747: shows [Kd Ah] (high card Ace)
+LudoPsycho collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [7d Ts 9c 4d 3c]
+Seat 1: boomerang747 (button) showed [Kd Ah] and lost with high card Ace
+Seat 2: LudoPsycho (small blind) showed [Kh Tc] and won (120) with a pair of Tens
+Seat 3: heutegewinnwa (big blind) folded before Flop
+
+
+*********** # 43 **************
+PokerStars Hand #187932080031: Tournament #2339076938, $28.20+$1.80 USD Hold'em No Limit - Level I (10/20) - 2018/06/22 22:48:55 ET
+Table '2339076938 1' 3-max Seat #3 is the button
+Seat 1: boomerang747 (510 in chips) 
+Seat 2: LudoPsycho (520 in chips) 
+Seat 3: heutegewinnwa (470 in chips) 
+boomerang747: posts small blind 10
+LudoPsycho: posts big blind 20
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Kh Ac]
+heutegewinnwa: raises 40 to 60
+boomerang747: folds 
+LudoPsycho: raises 190 to 250
+heutegewinnwa: raises 220 to 470 and is all-in
+LudoPsycho: calls 220
+*** FLOP *** [Kc As 8s]
+*** TURN *** [Kc As 8s] [6h]
+*** RIVER *** [Kc As 8s 6h] [Ah]
+*** SHOW DOWN ***
+LudoPsycho: shows [Ad Qd] (three of a kind, Aces)
+heutegewinnwa: shows [Kh Ac] (a full house, Aces full of Kings)
+heutegewinnwa collected 950 from pot
+*** SUMMARY ***
+Total pot 950 | Rake 0 
+Board [Kc As 8s 6h Ah]
+Seat 1: boomerang747 (small blind) folded before Flop
+Seat 2: LudoPsycho (big blind) showed [Ad Qd] and lost with three of a kind, Aces
+Seat 3: heutegewinnwa (button) showed [Kh Ac] and won (950) with a full house, Aces full of Kings
+
+
+*********** # 44 **************
+PokerStars Hand #187932076640: Tournament #2339076938, $28.20+$1.80 USD Hold'em No Limit - Level I (10/20) - 2018/06/22 22:48:43 ET
+Table '2339076938 1' 3-max Seat #2 is the button
+Seat 1: boomerang747 (500 in chips) 
+Seat 2: LudoPsycho (520 in chips) 
+Seat 3: heutegewinnwa (480 in chips) 
+heutegewinnwa: posts small blind 10
+boomerang747: posts big blind 20
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Js 6c]
+LudoPsycho: folds 
+heutegewinnwa: folds 
+Uncalled bet (10) returned to boomerang747
+boomerang747 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: boomerang747 (big blind) collected (20)
+Seat 2: LudoPsycho (button) folded before Flop (didn't bet)
+Seat 3: heutegewinnwa (small blind) folded before Flop
+
+
+*********** # 45 **************
+PokerStars Hand #187932073275: Tournament #2339076938, $28.20+$1.80 USD Hold'em No Limit - Level I (10/20) - 2018/06/22 22:48:31 ET
+Table '2339076938 1' 3-max Seat #1 is the button
+Seat 1: boomerang747 (500 in chips) 
+Seat 2: LudoPsycho (500 in chips) 
+Seat 3: heutegewinnwa (500 in chips) 
+LudoPsycho: posts small blind 10
+heutegewinnwa: posts big blind 20
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Th 5c]
+boomerang747: folds 
+LudoPsycho: raises 20 to 40
+heutegewinnwa: folds 
+Uncalled bet (20) returned to LudoPsycho
+LudoPsycho collected 40 from pot
+LudoPsycho: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: boomerang747 (button) folded before Flop (didn't bet)
+Seat 2: LudoPsycho (small blind) collected (40)
+Seat 3: heutegewinnwa (big blind) folded before Flop
+
+
+*********** # 46 **************
+PokerStars Hand #187932058646: Tournament #2339075545, $28.20+$1.80 USD Hold'em No Limit - Level I (10/20) - 2018/06/22 22:47:41 ET
+Table '2339075545 1' 3-max Seat #3 is the button
+Seat 2: heutegewinnwa (1090 in chips) 
+Seat 3: mijenso (410 in chips) 
+mijenso: posts small blind 10
+heutegewinnwa: posts big blind 20
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Qd 6s]
+mijenso: raises 20 to 40
+heutegewinnwa: calls 20
+*** FLOP *** [2c Qs Qh]
+heutegewinnwa: checks 
+mijenso: bets 370 and is all-in
+heutegewinnwa: calls 370
+*** TURN *** [2c Qs Qh] [7c]
+*** RIVER *** [2c Qs Qh 7c] [7h]
+*** SHOW DOWN ***
+heutegewinnwa: shows [Qd 6s] (a full house, Queens full of Sevens)
+mijenso: shows [Jc Td] (two pair, Queens and Sevens)
+heutegewinnwa collected 820 from pot
+mijenso finished the tournament in 2nd place
+heutegewinnwa wins the tournament and receives $60.00 - congratulations!
+*** SUMMARY ***
+Total pot 820 | Rake 0 
+Board [2c Qs Qh 7c 7h]
+Seat 2: heutegewinnwa (big blind) showed [Qd 6s] and won (820) with a full house, Queens full of Sevens
+Seat 3: mijenso (button) (small blind) showed [Jc Td] and lost with two pair, Queens and Sevens
+
+
+*********** # 47 **************
+PokerStars Hand #187932057547: Tournament #2339075545, $28.20+$1.80 USD Hold'em No Limit - Level I (10/20) - 2018/06/22 22:47:37 ET
+Table '2339075545 1' 3-max Seat #2 is the button
+Seat 2: heutegewinnwa (1100 in chips) 
+Seat 3: mijenso (400 in chips) 
+heutegewinnwa: posts small blind 10
+mijenso: posts big blind 20
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [3s 2s]
+heutegewinnwa: folds 
+Uncalled bet (10) returned to mijenso
+mijenso collected 20 from pot
+mijenso: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 2: heutegewinnwa (button) (small blind) folded before Flop
+Seat 3: mijenso (big blind) collected (20)
+
+
+*********** # 48 **************
+PokerStars Hand #187932051523: Tournament #2339075545, $28.20+$1.80 USD Hold'em No Limit - Level I (10/20) - 2018/06/22 22:47:16 ET
+Table '2339075545 1' 3-max Seat #3 is the button
+Seat 1: vedat1991 (440 in chips) 
+Seat 2: heutegewinnwa (620 in chips) 
+Seat 3: mijenso (440 in chips) 
+vedat1991: posts small blind 10
+heutegewinnwa: posts big blind 20
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Jh Jc]
+mijenso: raises 20 to 40
+vedat1991: raises 400 to 440 and is all-in
+heutegewinnwa: raises 180 to 620 and is all-in
+mijenso: folds 
+Uncalled bet (180) returned to heutegewinnwa
+*** FLOP *** [7h 2s 2d]
+*** TURN *** [7h 2s 2d] [Ah]
+*** RIVER *** [7h 2s 2d Ah] [7s]
+*** SHOW DOWN ***
+vedat1991: shows [Ts Ks] (two pair, Sevens and Deuces)
+heutegewinnwa: shows [Jh Jc] (two pair, Jacks and Sevens)
+heutegewinnwa collected 920 from pot
+vedat1991 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 920 | Rake 0 
+Board [7h 2s 2d Ah 7s]
+Seat 1: vedat1991 (small blind) showed [Ts Ks] and lost with two pair, Sevens and Deuces
+Seat 2: heutegewinnwa (big blind) showed [Jh Jc] and won (920) with two pair, Jacks and Sevens
+Seat 3: mijenso (button) folded before Flop
+
+
+*********** # 49 **************
+PokerStars Hand #187932043791: Tournament #2339075545, $28.20+$1.80 USD Hold'em No Limit - Level I (10/20) - 2018/06/22 22:46:49 ET
+Table '2339075545 1' 3-max Seat #2 is the button
+Seat 1: vedat1991 (500 in chips) 
+Seat 2: heutegewinnwa (620 in chips) 
+Seat 3: mijenso (380 in chips) 
+mijenso: posts small blind 10
+vedat1991: posts big blind 20
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [7c 4s]
+heutegewinnwa: folds 
+mijenso: raises 40 to 60
+vedat1991: calls 40
+*** FLOP *** [Jh 8d 3s]
+mijenso: checks 
+vedat1991: checks 
+*** TURN *** [Jh 8d 3s] [7s]
+mijenso: bets 320 and is all-in
+vedat1991: folds 
+Uncalled bet (320) returned to mijenso
+mijenso collected 120 from pot
+mijenso: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Jh 8d 3s 7s]
+Seat 1: vedat1991 (big blind) folded on the Turn
+Seat 2: heutegewinnwa (button) folded before Flop (didn't bet)
+Seat 3: mijenso (small blind) collected (120)
+
+
+*********** # 50 **************
+PokerStars Hand #187932039631: Tournament #2339075545, $28.20+$1.80 USD Hold'em No Limit - Level I (10/20) - 2018/06/22 22:46:35 ET
+Table '2339075545 1' 3-max Seat #1 is the button
+Seat 1: vedat1991 (500 in chips) 
+Seat 2: heutegewinnwa (600 in chips) 
+Seat 3: mijenso (400 in chips) 
+heutegewinnwa: posts small blind 10
+mijenso: posts big blind 20
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Kd 3h]
+vedat1991: folds 
+heutegewinnwa: raises 40 to 60
+mijenso: folds 
+Uncalled bet (40) returned to heutegewinnwa
+heutegewinnwa collected 40 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: vedat1991 (button) folded before Flop (didn't bet)
+Seat 2: heutegewinnwa (small blind) collected (40)
+Seat 3: mijenso (big blind) folded before Flop
+
+
+*********** # 51 **************
+PokerStars Hand #187932036476: Tournament #2339075545, $28.20+$1.80 USD Hold'em No Limit - Level I (10/20) - 2018/06/22 22:46:24 ET
+Table '2339075545 1' 3-max Seat #3 is the button
+Seat 1: vedat1991 (440 in chips) 
+Seat 2: heutegewinnwa (620 in chips) 
+Seat 3: mijenso (440 in chips) 
+vedat1991: posts small blind 10
+heutegewinnwa: posts big blind 20
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Tc 5c]
+mijenso: raises 20 to 40
+vedat1991: raises 400 to 440 and is all-in
+heutegewinnwa: folds 
+mijenso: folds 
+Uncalled bet (400) returned to vedat1991
+vedat1991 collected 100 from pot
+vedat1991: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: vedat1991 (small blind) collected (100)
+Seat 2: heutegewinnwa (big blind) folded before Flop
+Seat 3: mijenso (button) folded before Flop
+
+
+*********** # 52 **************
+PokerStars Hand #187932023819: Tournament #2339075545, $28.20+$1.80 USD Hold'em No Limit - Level I (10/20) - 2018/06/22 22:45:40 ET
+Table '2339075545 1' 3-max Seat #2 is the button
+Seat 1: vedat1991 (460 in chips) 
+Seat 2: heutegewinnwa (620 in chips) 
+Seat 3: mijenso (420 in chips) 
+mijenso: posts small blind 10
+vedat1991: posts big blind 20
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [4d 2c]
+heutegewinnwa: folds 
+mijenso: calls 10
+vedat1991: checks 
+*** FLOP *** [6s 3s Jc]
+mijenso: checks 
+vedat1991: checks 
+*** TURN *** [6s 3s Jc] [2h]
+mijenso: bets 400 and is all-in
+vedat1991: folds 
+Uncalled bet (400) returned to mijenso
+mijenso collected 40 from pot
+mijenso: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [6s 3s Jc 2h]
+Seat 1: vedat1991 (big blind) folded on the Turn
+Seat 2: heutegewinnwa (button) folded before Flop (didn't bet)
+Seat 3: mijenso (small blind) collected (40)
+
+
+*********** # 53 **************
+PokerStars Hand #187932004479: Tournament #2339075545, $28.20+$1.80 USD Hold'em No Limit - Level I (10/20) - 2018/06/22 22:45:01 ET
+Table '2339075545 1' 3-max Seat #1 is the button
+Seat 1: vedat1991 (500 in chips) 
+Seat 2: heutegewinnwa (500 in chips) 
+Seat 3: mijenso (500 in chips) 
+heutegewinnwa: posts small blind 10
+mijenso: posts big blind 20
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [9s Kd]
+vedat1991: raises 20 to 40
+heutegewinnwa: calls 30
+mijenso: calls 20
+*** FLOP *** [Ah Ts Qc]
+heutegewinnwa: bets 40
+mijenso: calls 40
+vedat1991: folds 
+*** TURN *** [Ah Ts Qc] [8c]
+heutegewinnwa: bets 100
+mijenso: folds 
+Uncalled bet (100) returned to heutegewinnwa
+heutegewinnwa collected 200 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [Ah Ts Qc 8c]
+Seat 1: vedat1991 (button) folded on the Flop
+Seat 2: heutegewinnwa (small blind) collected (200)
+Seat 3: mijenso (big blind) folded on the Turn
+
+
+*********** # 54 **************
+PokerStars Hand #187931874761: Tournament #2339065658, $14.10+$0.90 USD Hold'em No Limit - Level VI (50/100) - 2018/06/22 22:37:41 ET
+Table '2339065658 1' 3-max Seat #2 is the button
+Seat 2: heutegewinnwa (1080 in chips) 
+Seat 3: saintanna023 (420 in chips) 
+heutegewinnwa: posts small blind 50
+saintanna023: posts big blind 100
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Kc Jc]
+heutegewinnwa: raises 100 to 200
+saintanna023: calls 100
+*** FLOP *** [7s 2s 5c]
+saintanna023: bets 220 and is all-in
+heutegewinnwa: calls 220
+*** TURN *** [7s 2s 5c] [Qd]
+*** RIVER *** [7s 2s 5c Qd] [9h]
+*** SHOW DOWN ***
+saintanna023: shows [Js 3s] (high card Queen)
+heutegewinnwa: shows [Kc Jc] (high card King)
+heutegewinnwa collected 840 from pot
+saintanna023 finished the tournament in 2nd place
+heutegewinnwa wins the tournament and receives $90.00 - congratulations!
+*** SUMMARY ***
+Total pot 840 | Rake 0 
+Board [7s 2s 5c Qd 9h]
+Seat 2: heutegewinnwa (button) (small blind) showed [Kc Jc] and won (840) with high card King
+Seat 3: saintanna023 (big blind) showed [Js 3s] and lost with high card Queen
+
+
+*********** # 55 **************
+PokerStars Hand #187931871900: Tournament #2339065658, $14.10+$0.90 USD Hold'em No Limit - Level VI (50/100) - 2018/06/22 22:37:31 ET
+Table '2339065658 1' 3-max Seat #3 is the button
+Seat 2: heutegewinnwa (1180 in chips) 
+Seat 3: saintanna023 (320 in chips) 
+saintanna023: posts small blind 50
+heutegewinnwa: posts big blind 100
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Th 5h]
+saintanna023: raises 220 to 320 and is all-in
+heutegewinnwa: folds 
+Uncalled bet (220) returned to saintanna023
+saintanna023 collected 200 from pot
+saintanna023: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Seat 2: heutegewinnwa (big blind) folded before Flop
+Seat 3: saintanna023 (button) (small blind) collected (200)
+
+
+*********** # 56 **************
+PokerStars Hand #187931869350: Tournament #2339065658, $14.10+$0.90 USD Hold'em No Limit - Level VI (50/100) - 2018/06/22 22:37:22 ET
+Table '2339065658 1' 3-max Seat #2 is the button
+Seat 2: heutegewinnwa (1080 in chips) 
+Seat 3: saintanna023 (420 in chips) 
+heutegewinnwa: posts small blind 50
+saintanna023: posts big blind 100
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [As 3d]
+heutegewinnwa: raises 200 to 300
+saintanna023: folds 
+Uncalled bet (200) returned to heutegewinnwa
+heutegewinnwa collected 200 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Seat 2: heutegewinnwa (button) (small blind) collected (200)
+Seat 3: saintanna023 (big blind) folded before Flop
+
+
+*********** # 57 **************
+PokerStars Hand #187931866977: Tournament #2339065658, $14.10+$0.90 USD Hold'em No Limit - Level VI (50/100) - 2018/06/22 22:37:14 ET
+Table '2339065658 1' 3-max Seat #3 is the button
+Seat 2: heutegewinnwa (1030 in chips) 
+Seat 3: saintanna023 (470 in chips) 
+saintanna023: posts small blind 50
+heutegewinnwa: posts big blind 100
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Kh 6s]
+saintanna023: folds 
+Uncalled bet (50) returned to heutegewinnwa
+heutegewinnwa collected 100 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 2: heutegewinnwa (big blind) collected (100)
+Seat 3: saintanna023 (button) (small blind) folded before Flop
+
+
+*********** # 58 **************
+PokerStars Hand #187931865521: Tournament #2339065658, $14.10+$0.90 USD Hold'em No Limit - Level VI (50/100) - 2018/06/22 22:37:10 ET
+Table '2339065658 1' 3-max Seat #2 is the button
+Seat 2: heutegewinnwa (1080 in chips) 
+Seat 3: saintanna023 (420 in chips) 
+heutegewinnwa: posts small blind 50
+saintanna023: posts big blind 100
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [6s 7d]
+heutegewinnwa: folds 
+Uncalled bet (50) returned to saintanna023
+saintanna023 collected 100 from pot
+saintanna023: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 2: heutegewinnwa (button) (small blind) folded before Flop
+Seat 3: saintanna023 (big blind) collected (100)
+
+
+*********** # 59 **************
+PokerStars Hand #187931863355: Tournament #2339065658, $14.10+$0.90 USD Hold'em No Limit - Level VI (50/100) - 2018/06/22 22:37:02 ET
+Table '2339065658 1' 3-max Seat #3 is the button
+Seat 2: heutegewinnwa (1030 in chips) 
+Seat 3: saintanna023 (470 in chips) 
+saintanna023: posts small blind 50
+heutegewinnwa: posts big blind 100
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [2d Tc]
+saintanna023: folds 
+Uncalled bet (50) returned to heutegewinnwa
+heutegewinnwa collected 100 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 2: heutegewinnwa (big blind) collected (100)
+Seat 3: saintanna023 (button) (small blind) folded before Flop
+
+
+*********** # 60 **************
+PokerStars Hand #187931860918: Tournament #2339065658, $14.10+$0.90 USD Hold'em No Limit - Level VI (50/100) - 2018/06/22 22:36:54 ET
+Table '2339065658 1' 3-max Seat #2 is the button
+Seat 2: heutegewinnwa (930 in chips) 
+Seat 3: saintanna023 (570 in chips) 
+heutegewinnwa: posts small blind 50
+saintanna023: posts big blind 100
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [6d 6s]
+heutegewinnwa: raises 200 to 300
+saintanna023: folds 
+Uncalled bet (200) returned to heutegewinnwa
+heutegewinnwa collected 200 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Seat 2: heutegewinnwa (button) (small blind) collected (200)
+Seat 3: saintanna023 (big blind) folded before Flop
+
+
+*********** # 61 **************
+PokerStars Hand #187931857454: Tournament #2339065658, $14.10+$0.90 USD Hold'em No Limit - Level VI (50/100) - 2018/06/22 22:36:43 ET
+Table '2339065658 1' 3-max Seat #3 is the button
+Seat 2: heutegewinnwa (830 in chips) 
+Seat 3: saintanna023 (670 in chips) 
+saintanna023: posts small blind 50
+heutegewinnwa: posts big blind 100
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [As 3s]
+saintanna023: calls 50
+heutegewinnwa: raises 200 to 300
+saintanna023: folds 
+Uncalled bet (200) returned to heutegewinnwa
+heutegewinnwa collected 200 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Seat 2: heutegewinnwa (big blind) collected (200)
+Seat 3: saintanna023 (button) (small blind) folded before Flop
+
+
+*********** # 62 **************
+PokerStars Hand #187931851110: Tournament #2339065658, $14.10+$0.90 USD Hold'em No Limit - Level VI (50/100) - 2018/06/22 22:36:21 ET
+Table '2339065658 1' 3-max Seat #2 is the button
+Seat 2: heutegewinnwa (730 in chips) 
+Seat 3: saintanna023 (770 in chips) 
+heutegewinnwa: posts small blind 50
+saintanna023: posts big blind 100
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Th 7s]
+heutegewinnwa: raises 100 to 200
+saintanna023: folds 
+Uncalled bet (100) returned to heutegewinnwa
+heutegewinnwa collected 200 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Seat 2: heutegewinnwa (button) (small blind) collected (200)
+Seat 3: saintanna023 (big blind) folded before Flop
+
+
+*********** # 63 **************
+PokerStars Hand #187931843601: Tournament #2339065658, $14.10+$0.90 USD Hold'em No Limit - Level V (40/80) - 2018/06/22 22:35:56 ET
+Table '2339065658 1' 3-max Seat #3 is the button
+Seat 2: heutegewinnwa (810 in chips) 
+Seat 3: saintanna023 (690 in chips) 
+saintanna023: posts small blind 40
+heutegewinnwa: posts big blind 80
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [9h 2s]
+saintanna023: calls 40
+heutegewinnwa: checks 
+*** FLOP *** [Td 4h 4d]
+heutegewinnwa: checks 
+saintanna023: bets 80
+heutegewinnwa: folds 
+Uncalled bet (80) returned to saintanna023
+saintanna023 collected 160 from pot
+saintanna023: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Td 4h 4d]
+Seat 2: heutegewinnwa (big blind) folded on the Flop
+Seat 3: saintanna023 (button) (small blind) collected (160)
+
+
+*********** # 64 **************
+PokerStars Hand #187931840158: Tournament #2339065658, $14.10+$0.90 USD Hold'em No Limit - Level V (40/80) - 2018/06/22 22:35:44 ET
+Table '2339065658 1' 3-max Seat #2 is the button
+Seat 2: heutegewinnwa (730 in chips) 
+Seat 3: saintanna023 (770 in chips) 
+heutegewinnwa: posts small blind 40
+saintanna023: posts big blind 80
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [4c Ac]
+heutegewinnwa: raises 160 to 240
+saintanna023: folds 
+Uncalled bet (160) returned to heutegewinnwa
+heutegewinnwa collected 160 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 2: heutegewinnwa (button) (small blind) collected (160)
+Seat 3: saintanna023 (big blind) folded before Flop
+
+
+*********** # 65 **************
+PokerStars Hand #187931836062: Tournament #2339065658, $14.10+$0.90 USD Hold'em No Limit - Level V (40/80) - 2018/06/22 22:35:30 ET
+Table '2339065658 1' 3-max Seat #3 is the button
+Seat 2: heutegewinnwa (810 in chips) 
+Seat 3: saintanna023 (690 in chips) 
+saintanna023: posts small blind 40
+heutegewinnwa: posts big blind 80
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [3s 8d]
+saintanna023: raises 80 to 160
+heutegewinnwa: folds 
+Uncalled bet (80) returned to saintanna023
+saintanna023 collected 160 from pot
+saintanna023: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 2: heutegewinnwa (big blind) folded before Flop
+Seat 3: saintanna023 (button) (small blind) collected (160)
+
+
+*********** # 66 **************
+PokerStars Hand #187931834877: Tournament #2339065658, $14.10+$0.90 USD Hold'em No Limit - Level V (40/80) - 2018/06/22 22:35:26 ET
+Table '2339065658 1' 3-max Seat #2 is the button
+Seat 2: heutegewinnwa (850 in chips) 
+Seat 3: saintanna023 (650 in chips) 
+heutegewinnwa: posts small blind 40
+saintanna023: posts big blind 80
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [9s 3s]
+heutegewinnwa: folds 
+Uncalled bet (40) returned to saintanna023
+saintanna023 collected 80 from pot
+saintanna023: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: heutegewinnwa (button) (small blind) folded before Flop
+Seat 3: saintanna023 (big blind) collected (80)
+
+
+*********** # 67 **************
+PokerStars Hand #187931830004: Tournament #2339065658, $14.10+$0.90 USD Hold'em No Limit - Level V (40/80) - 2018/06/22 22:35:10 ET
+Table '2339065658 1' 3-max Seat #3 is the button
+Seat 2: heutegewinnwa (770 in chips) 
+Seat 3: saintanna023 (730 in chips) 
+saintanna023: posts small blind 40
+heutegewinnwa: posts big blind 80
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [7s Ks]
+saintanna023: calls 40
+heutegewinnwa: raises 160 to 240
+saintanna023: folds 
+Uncalled bet (160) returned to heutegewinnwa
+heutegewinnwa collected 160 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 2: heutegewinnwa (big blind) collected (160)
+Seat 3: saintanna023 (button) (small blind) folded before Flop
+
+
+*********** # 68 **************
+PokerStars Hand #187931821038: Tournament #2339065658, $14.10+$0.90 USD Hold'em No Limit - Level V (40/80) - 2018/06/22 22:34:41 ET
+Table '2339065658 1' 3-max Seat #2 is the button
+Seat 2: heutegewinnwa (610 in chips) 
+Seat 3: saintanna023 (890 in chips) 
+heutegewinnwa: posts small blind 40
+saintanna023: posts big blind 80
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [2h Qd]
+heutegewinnwa: raises 80 to 160
+saintanna023: calls 80
+*** FLOP *** [Ac Td 4h]
+saintanna023: checks 
+heutegewinnwa: bets 160
+saintanna023: folds 
+Uncalled bet (160) returned to heutegewinnwa
+heutegewinnwa collected 320 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [Ac Td 4h]
+Seat 2: heutegewinnwa (button) (small blind) collected (320)
+Seat 3: saintanna023 (big blind) folded on the Flop
+
+
+*********** # 69 **************
+PokerStars Hand #187931819186: Tournament #2339065658, $14.10+$0.90 USD Hold'em No Limit - Level V (40/80) - 2018/06/22 22:34:34 ET
+Table '2339065658 1' 3-max Seat #3 is the button
+Seat 2: heutegewinnwa (570 in chips) 
+Seat 3: saintanna023 (930 in chips) 
+saintanna023: posts small blind 40
+heutegewinnwa: posts big blind 80
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Kh 4s]
+saintanna023: folds 
+Uncalled bet (40) returned to heutegewinnwa
+heutegewinnwa collected 80 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: heutegewinnwa (big blind) collected (80)
+Seat 3: saintanna023 (button) (small blind) folded before Flop
+
+
+*********** # 70 **************
+PokerStars Hand #187931817622: Tournament #2339065658, $14.10+$0.90 USD Hold'em No Limit - Level V (40/80) - 2018/06/22 22:34:29 ET
+Table '2339065658 1' 3-max Seat #2 is the button
+Seat 2: heutegewinnwa (610 in chips) 
+Seat 3: saintanna023 (890 in chips) 
+heutegewinnwa: posts small blind 40
+saintanna023: posts big blind 80
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [2d 6s]
+heutegewinnwa: folds 
+Uncalled bet (40) returned to saintanna023
+saintanna023 collected 80 from pot
+saintanna023: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: heutegewinnwa (button) (small blind) folded before Flop
+Seat 3: saintanna023 (big blind) collected (80)
+
+
+*********** # 71 **************
+PokerStars Hand #187931808440: Tournament #2339065658, $14.10+$0.90 USD Hold'em No Limit - Level V (40/80) - 2018/06/22 22:33:58 ET
+Table '2339065658 1' 3-max Seat #3 is the button
+Seat 2: heutegewinnwa (530 in chips) 
+Seat 3: saintanna023 (970 in chips) 
+saintanna023: posts small blind 40
+heutegewinnwa: posts big blind 80
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [2h Ad]
+saintanna023: calls 40
+heutegewinnwa: checks 
+*** FLOP *** [4s 6d 9s]
+heutegewinnwa: bets 160
+saintanna023: folds 
+Uncalled bet (160) returned to heutegewinnwa
+heutegewinnwa collected 160 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [4s 6d 9s]
+Seat 2: heutegewinnwa (big blind) collected (160)
+Seat 3: saintanna023 (button) (small blind) folded on the Flop
+
+
+*********** # 72 **************
+PokerStars Hand #187931802661: Tournament #2339065658, $14.10+$0.90 USD Hold'em No Limit - Level V (40/80) - 2018/06/22 22:33:39 ET
+Table '2339065658 1' 3-max Seat #2 is the button
+Seat 2: heutegewinnwa (1015 in chips) 
+Seat 3: saintanna023 (485 in chips) 
+heutegewinnwa: posts small blind 40
+saintanna023: posts big blind 80
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Kd Js]
+heutegewinnwa: raises 80 to 160
+saintanna023: raises 325 to 485 and is all-in
+heutegewinnwa: calls 325
+*** FLOP *** [4h Qs Ts]
+*** TURN *** [4h Qs Ts] [Qd]
+*** RIVER *** [4h Qs Ts Qd] [4s]
+*** SHOW DOWN ***
+saintanna023: shows [5h Ad] (two pair, Queens and Fours)
+heutegewinnwa: shows [Kd Js] (two pair, Queens and Fours - lower kicker)
+saintanna023 collected 970 from pot
+*** SUMMARY ***
+Total pot 970 | Rake 0 
+Board [4h Qs Ts Qd 4s]
+Seat 2: heutegewinnwa (button) (small blind) showed [Kd Js] and lost with two pair, Queens and Fours
+Seat 3: saintanna023 (big blind) showed [5h Ad] and won (970) with two pair, Queens and Fours
+
+
+*********** # 73 **************
+PokerStars Hand #187931799917: Tournament #2339065658, $14.10+$0.90 USD Hold'em No Limit - Level V (40/80) - 2018/06/22 22:33:30 ET
+Table '2339065658 1' 3-max Seat #3 is the button
+Seat 2: heutegewinnwa (1095 in chips) 
+Seat 3: saintanna023 (405 in chips) 
+saintanna023: posts small blind 40
+heutegewinnwa: posts big blind 80
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [5d 7h]
+saintanna023: raises 325 to 405 and is all-in
+heutegewinnwa: folds 
+Uncalled bet (325) returned to saintanna023
+saintanna023 collected 160 from pot
+saintanna023: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 2: heutegewinnwa (big blind) folded before Flop
+Seat 3: saintanna023 (button) (small blind) collected (160)
+
+
+*********** # 74 **************
+PokerStars Hand #187931781996: Tournament #2339065658, $14.10+$0.90 USD Hold'em No Limit - Level IV (30/60) - 2018/06/22 22:32:30 ET
+Table '2339065658 1' 3-max Seat #2 is the button
+Seat 2: heutegewinnwa (795 in chips) 
+Seat 3: saintanna023 (705 in chips) 
+heutegewinnwa: posts small blind 30
+saintanna023: posts big blind 60
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Jd 8c]
+heutegewinnwa: raises 60 to 120
+saintanna023: calls 60
+*** FLOP *** [Jh Qs Th]
+saintanna023: checks 
+heutegewinnwa: bets 180
+saintanna023: calls 180
+*** TURN *** [Jh Qs Th] [7c]
+saintanna023: checks 
+heutegewinnwa: bets 495 and is all-in
+saintanna023: folds 
+Uncalled bet (495) returned to heutegewinnwa
+heutegewinnwa collected 600 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [Jh Qs Th 7c]
+Seat 2: heutegewinnwa (button) (small blind) collected (600)
+Seat 3: saintanna023 (big blind) folded on the Turn
+
+
+*********** # 75 **************
+PokerStars Hand #187931775887: Tournament #2339065658, $14.10+$0.90 USD Hold'em No Limit - Level IV (30/60) - 2018/06/22 22:32:10 ET
+Table '2339065658 1' 3-max Seat #3 is the button
+Seat 2: heutegewinnwa (735 in chips) 
+Seat 3: saintanna023 (765 in chips) 
+saintanna023: posts small blind 30
+heutegewinnwa: posts big blind 60
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [7h 9c]
+saintanna023: calls 30
+heutegewinnwa: checks 
+*** FLOP *** [Kc 2c 3d]
+heutegewinnwa: bets 180
+saintanna023: folds 
+Uncalled bet (180) returned to heutegewinnwa
+heutegewinnwa collected 120 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Kc 2c 3d]
+Seat 2: heutegewinnwa (big blind) collected (120)
+Seat 3: saintanna023 (button) (small blind) folded on the Flop
+
+
+*********** # 76 **************
+PokerStars Hand #187931771494: Tournament #2339065658, $14.10+$0.90 USD Hold'em No Limit - Level IV (30/60) - 2018/06/22 22:31:55 ET
+Table '2339065658 1' 3-max Seat #2 is the button
+Seat 2: heutegewinnwa (675 in chips) 
+Seat 3: saintanna023 (825 in chips) 
+heutegewinnwa: posts small blind 30
+saintanna023: posts big blind 60
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [8c Qs]
+heutegewinnwa: raises 60 to 120
+saintanna023: folds 
+Uncalled bet (60) returned to heutegewinnwa
+heutegewinnwa collected 120 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: heutegewinnwa (button) (small blind) collected (120)
+Seat 3: saintanna023 (big blind) folded before Flop
+
+
+*********** # 77 **************
+PokerStars Hand #187931765112: Tournament #2339065658, $14.10+$0.90 USD Hold'em No Limit - Level IV (30/60) - 2018/06/22 22:31:33 ET
+Table '2339065658 1' 3-max Seat #3 is the button
+Seat 2: heutegewinnwa (735 in chips) 
+Seat 3: saintanna023 (765 in chips) 
+saintanna023: posts small blind 30
+heutegewinnwa: posts big blind 60
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [8c Ts]
+saintanna023: calls 30
+heutegewinnwa: checks 
+*** FLOP *** [3h Jh Qs]
+heutegewinnwa: checks 
+saintanna023: bets 60
+heutegewinnwa: folds 
+Uncalled bet (60) returned to saintanna023
+saintanna023 collected 120 from pot
+saintanna023: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [3h Jh Qs]
+Seat 2: heutegewinnwa (big blind) folded on the Flop
+Seat 3: saintanna023 (button) (small blind) collected (120)
+
+
+*********** # 78 **************
+PokerStars Hand #187931757876: Tournament #2339065658, $14.10+$0.90 USD Hold'em No Limit - Level IV (30/60) - 2018/06/22 22:31:10 ET
+Table '2339065658 1' 3-max Seat #2 is the button
+Seat 2: heutegewinnwa (615 in chips) 
+Seat 3: saintanna023 (885 in chips) 
+heutegewinnwa: posts small blind 30
+saintanna023: posts big blind 60
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Qs 5s]
+heutegewinnwa: raises 60 to 120
+saintanna023: calls 60
+*** FLOP *** [As 6s 7h]
+saintanna023: checks 
+heutegewinnwa: bets 180
+saintanna023: folds 
+Uncalled bet (180) returned to heutegewinnwa
+heutegewinnwa collected 240 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [As 6s 7h]
+Seat 2: heutegewinnwa (button) (small blind) collected (240)
+Seat 3: saintanna023 (big blind) folded on the Flop
+
+
+*********** # 79 **************
+PokerStars Hand #187931754687: Tournament #2339065658, $14.10+$0.90 USD Hold'em No Limit - Level IV (30/60) - 2018/06/22 22:30:59 ET
+Table '2339065658 1' 3-max Seat #3 is the button
+Seat 2: heutegewinnwa (675 in chips) 
+Seat 3: saintanna023 (825 in chips) 
+saintanna023: posts small blind 30
+heutegewinnwa: posts big blind 60
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [2c 8c]
+saintanna023: raises 60 to 120
+heutegewinnwa: folds 
+Uncalled bet (60) returned to saintanna023
+saintanna023 collected 120 from pot
+saintanna023: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: heutegewinnwa (big blind) folded before Flop
+Seat 3: saintanna023 (button) (small blind) collected (120)
+
+
+*********** # 80 **************
+PokerStars Hand #187931750537: Tournament #2339065658, $14.10+$0.90 USD Hold'em No Limit - Level IV (30/60) - 2018/06/22 22:30:45 ET
+Table '2339065658 1' 3-max Seat #2 is the button
+Seat 2: heutegewinnwa (735 in chips) 
+Seat 3: saintanna023 (765 in chips) 
+heutegewinnwa: posts small blind 30
+saintanna023: posts big blind 60
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Jh 9s]
+heutegewinnwa: calls 30
+saintanna023: raises 705 to 765 and is all-in
+heutegewinnwa: folds 
+Uncalled bet (705) returned to saintanna023
+saintanna023 collected 120 from pot
+saintanna023: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: heutegewinnwa (button) (small blind) folded before Flop
+Seat 3: saintanna023 (big blind) collected (120)
+
+
+*********** # 81 **************
+PokerStars Hand #187931743168: Tournament #2339065658, $14.10+$0.90 USD Hold'em No Limit - Level IV (30/60) - 2018/06/22 22:30:20 ET
+Table '2339065658 1' 3-max Seat #3 is the button
+Seat 2: heutegewinnwa (675 in chips) 
+Seat 3: saintanna023 (825 in chips) 
+saintanna023: posts small blind 30
+heutegewinnwa: posts big blind 60
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Ad 7h]
+saintanna023: calls 30
+heutegewinnwa: raises 120 to 180
+saintanna023: folds 
+Uncalled bet (120) returned to heutegewinnwa
+heutegewinnwa collected 120 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: heutegewinnwa (big blind) collected (120)
+Seat 3: saintanna023 (button) (small blind) folded before Flop
+
+
+*********** # 82 **************
+PokerStars Hand #187931738105: Tournament #2339065658, $14.10+$0.90 USD Hold'em No Limit - Level III (20/40) - 2018/06/22 22:30:04 ET
+Table '2339065658 1' 3-max Seat #2 is the button
+Seat 2: heutegewinnwa (635 in chips) 
+Seat 3: saintanna023 (865 in chips) 
+heutegewinnwa: posts small blind 20
+saintanna023: posts big blind 40
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Js Ad]
+heutegewinnwa: raises 80 to 120
+saintanna023: folds 
+Uncalled bet (80) returned to heutegewinnwa
+heutegewinnwa collected 80 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: heutegewinnwa (button) (small blind) collected (80)
+Seat 3: saintanna023 (big blind) folded before Flop
+
+
+*********** # 83 **************
+PokerStars Hand #187931729993: Tournament #2339065658, $14.10+$0.90 USD Hold'em No Limit - Level III (20/40) - 2018/06/22 22:29:37 ET
+Table '2339065658 1' 3-max Seat #3 is the button
+Seat 2: heutegewinnwa (555 in chips) 
+Seat 3: saintanna023 (945 in chips) 
+saintanna023: posts small blind 20
+heutegewinnwa: posts big blind 40
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Kh Qh]
+saintanna023: raises 40 to 80
+heutegewinnwa: raises 120 to 200
+saintanna023: folds 
+Uncalled bet (120) returned to heutegewinnwa
+heutegewinnwa collected 160 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 2: heutegewinnwa (big blind) collected (160)
+Seat 3: saintanna023 (button) (small blind) folded before Flop
+
+
+*********** # 84 **************
+PokerStars Hand #187931727460: Tournament #2339065658, $14.10+$0.90 USD Hold'em No Limit - Level III (20/40) - 2018/06/22 22:29:28 ET
+Table '2339065658 1' 3-max Seat #2 is the button
+Seat 2: heutegewinnwa (515 in chips) 
+Seat 3: saintanna023 (985 in chips) 
+heutegewinnwa: posts small blind 20
+saintanna023: posts big blind 40
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [6c 6s]
+heutegewinnwa: raises 80 to 120
+saintanna023: folds 
+Uncalled bet (80) returned to heutegewinnwa
+heutegewinnwa collected 80 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: heutegewinnwa (button) (small blind) collected (80)
+Seat 3: saintanna023 (big blind) folded before Flop
+
+
+*********** # 85 **************
+PokerStars Hand #187931720849: Tournament #2339065658, $14.10+$0.90 USD Hold'em No Limit - Level III (20/40) - 2018/06/22 22:29:07 ET
+Table '2339065658 1' 3-max Seat #3 is the button
+Seat 2: heutegewinnwa (475 in chips) 
+Seat 3: saintanna023 (1025 in chips) 
+saintanna023: posts small blind 20
+heutegewinnwa: posts big blind 40
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [9s Tc]
+saintanna023: calls 20
+heutegewinnwa: checks 
+*** FLOP *** [5d 8d Qs]
+heutegewinnwa: bets 80
+saintanna023: folds 
+Uncalled bet (80) returned to heutegewinnwa
+heutegewinnwa collected 80 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [5d 8d Qs]
+Seat 2: heutegewinnwa (big blind) collected (80)
+Seat 3: saintanna023 (button) (small blind) folded on the Flop
+
+
+*********** # 86 **************
+PokerStars Hand #187931719671: Tournament #2339065658, $14.10+$0.90 USD Hold'em No Limit - Level III (20/40) - 2018/06/22 22:29:03 ET
+Table '2339065658 1' 3-max Seat #2 is the button
+Seat 2: heutegewinnwa (495 in chips) 
+Seat 3: saintanna023 (1005 in chips) 
+heutegewinnwa: posts small blind 20
+saintanna023: posts big blind 40
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [9c 8h]
+heutegewinnwa: folds 
+Uncalled bet (20) returned to saintanna023
+saintanna023 collected 40 from pot
+saintanna023: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: heutegewinnwa (button) (small blind) folded before Flop
+Seat 3: saintanna023 (big blind) collected (40)
+
+
+*********** # 87 **************
+PokerStars Hand #187931717660: Tournament #2339065658, $14.10+$0.90 USD Hold'em No Limit - Level III (20/40) - 2018/06/22 22:28:56 ET
+Table '2339065658 1' 3-max Seat #3 is the button
+Seat 2: heutegewinnwa (535 in chips) 
+Seat 3: saintanna023 (965 in chips) 
+saintanna023: posts small blind 20
+heutegewinnwa: posts big blind 40
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [6h 9c]
+saintanna023: raises 40 to 80
+heutegewinnwa: folds 
+Uncalled bet (40) returned to saintanna023
+saintanna023 collected 80 from pot
+saintanna023: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: heutegewinnwa (big blind) folded before Flop
+Seat 3: saintanna023 (button) (small blind) collected (80)
+
+
+*********** # 88 **************
+PokerStars Hand #187931710784: Tournament #2339065658, $14.10+$0.90 USD Hold'em No Limit - Level III (20/40) - 2018/06/22 22:28:33 ET
+Table '2339065658 1' 3-max Seat #2 is the button
+Seat 2: heutegewinnwa (495 in chips) 
+Seat 3: saintanna023 (1005 in chips) 
+heutegewinnwa: posts small blind 20
+saintanna023: posts big blind 40
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [7h Qs]
+heutegewinnwa: raises 40 to 80
+saintanna023: folds 
+Uncalled bet (40) returned to heutegewinnwa
+heutegewinnwa collected 80 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: heutegewinnwa (button) (small blind) collected (80)
+Seat 3: saintanna023 (big blind) folded before Flop
+
+
+*********** # 89 **************
+PokerStars Hand #187931699640: Tournament #2339065658, $14.10+$0.90 USD Hold'em No Limit - Level III (20/40) - 2018/06/22 22:27:56 ET
+Table '2339065658 1' 3-max Seat #3 is the button
+Seat 2: heutegewinnwa (335 in chips) 
+Seat 3: saintanna023 (1165 in chips) 
+saintanna023: posts small blind 20
+heutegewinnwa: posts big blind 40
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Qc 7d]
+saintanna023: raises 40 to 80
+heutegewinnwa: raises 80 to 160
+saintanna023: calls 80
+*** FLOP *** [Kc 5h As]
+heutegewinnwa: bets 175 and is all-in
+saintanna023: folds 
+Uncalled bet (175) returned to heutegewinnwa
+heutegewinnwa collected 320 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [Kc 5h As]
+Seat 2: heutegewinnwa (big blind) collected (320)
+Seat 3: saintanna023 (button) (small blind) folded on the Flop
+
+
+*********** # 90 **************
+PokerStars Hand #187931698556: Tournament #2339065658, $14.10+$0.90 USD Hold'em No Limit - Level III (20/40) - 2018/06/22 22:27:53 ET
+Table '2339065658 1' 3-max Seat #2 is the button
+Seat 2: heutegewinnwa (355 in chips) 
+Seat 3: saintanna023 (1145 in chips) 
+heutegewinnwa: posts small blind 20
+saintanna023: posts big blind 40
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [7c 2d]
+heutegewinnwa: folds 
+Uncalled bet (20) returned to saintanna023
+saintanna023 collected 40 from pot
+saintanna023: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: heutegewinnwa (button) (small blind) folded before Flop
+Seat 3: saintanna023 (big blind) collected (40)
+
+
+*********** # 91 **************
+PokerStars Hand #187931694578: Tournament #2339065658, $14.10+$0.90 USD Hold'em No Limit - Level III (20/40) - 2018/06/22 22:27:40 ET
+Table '2339065658 1' 3-max Seat #3 is the button
+Seat 2: heutegewinnwa (395 in chips) 
+Seat 3: saintanna023 (1105 in chips) 
+saintanna023: posts small blind 20
+heutegewinnwa: posts big blind 40
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Ts 2c]
+saintanna023: raises 40 to 80
+heutegewinnwa: folds 
+Uncalled bet (40) returned to saintanna023
+saintanna023 collected 80 from pot
+saintanna023: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: heutegewinnwa (big blind) folded before Flop
+Seat 3: saintanna023 (button) (small blind) collected (80)
+
+
+*********** # 92 **************
+PokerStars Hand #187931693374: Tournament #2339065658, $14.10+$0.90 USD Hold'em No Limit - Level III (20/40) - 2018/06/22 22:27:36 ET
+Table '2339065658 1' 3-max Seat #2 is the button
+Seat 2: heutegewinnwa (415 in chips) 
+Seat 3: saintanna023 (1085 in chips) 
+heutegewinnwa: posts small blind 20
+saintanna023: posts big blind 40
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [2s 6d]
+heutegewinnwa: folds 
+Uncalled bet (20) returned to saintanna023
+saintanna023 collected 40 from pot
+saintanna023: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: heutegewinnwa (button) (small blind) folded before Flop
+Seat 3: saintanna023 (big blind) collected (40)
+
+
+*********** # 93 **************
+PokerStars Hand #187931682570: Tournament #2339065658, $14.10+$0.90 USD Hold'em No Limit - Level II (15/30) - 2018/06/22 22:27:00 ET
+Table '2339065658 1' 3-max Seat #3 is the button
+Seat 2: heutegewinnwa (475 in chips) 
+Seat 3: saintanna023 (1025 in chips) 
+saintanna023: posts small blind 15
+heutegewinnwa: posts big blind 30
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [9h Jc]
+saintanna023: raises 30 to 60
+heutegewinnwa: calls 30
+*** FLOP *** [2d 7c 8d]
+heutegewinnwa: checks 
+saintanna023: bets 84
+heutegewinnwa: folds 
+Uncalled bet (84) returned to saintanna023
+saintanna023 collected 120 from pot
+saintanna023: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [2d 7c 8d]
+Seat 2: heutegewinnwa (big blind) folded on the Flop
+Seat 3: saintanna023 (button) (small blind) collected (120)
+
+
+*********** # 94 **************
+PokerStars Hand #187931680289: Tournament #2339065658, $14.10+$0.90 USD Hold'em No Limit - Level II (15/30) - 2018/06/22 22:26:53 ET
+Table '2339065658 1' 3-max Seat #2 is the button
+Seat 2: heutegewinnwa (490 in chips) 
+Seat 3: saintanna023 (1010 in chips) 
+heutegewinnwa: posts small blind 15
+saintanna023: posts big blind 30
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Td 6d]
+heutegewinnwa: folds 
+Uncalled bet (15) returned to saintanna023
+saintanna023 collected 30 from pot
+saintanna023: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: heutegewinnwa (button) (small blind) folded before Flop
+Seat 3: saintanna023 (big blind) collected (30)
+
+
+*********** # 95 **************
+PokerStars Hand #187931668096: Tournament #2339065658, $14.10+$0.90 USD Hold'em No Limit - Level II (15/30) - 2018/06/22 22:26:14 ET
+Table '2339065658 1' 3-max Seat #3 is the button
+Seat 2: heutegewinnwa (400 in chips) 
+Seat 3: saintanna023 (1100 in chips) 
+saintanna023: posts small blind 15
+heutegewinnwa: posts big blind 30
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [5s Qd]
+saintanna023: calls 15
+heutegewinnwa: checks 
+*** FLOP *** [Jd Qs 3d]
+heutegewinnwa: bets 60
+saintanna023: calls 60
+*** TURN *** [Jd Qs 3d] [7s]
+heutegewinnwa: bets 150
+saintanna023: folds 
+Uncalled bet (150) returned to heutegewinnwa
+heutegewinnwa collected 180 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Jd Qs 3d 7s]
+Seat 2: heutegewinnwa (big blind) collected (180)
+Seat 3: saintanna023 (button) (small blind) folded on the Turn
+
+
+*********** # 96 **************
+PokerStars Hand #187931656705: Tournament #2339065658, $14.10+$0.90 USD Hold'em No Limit - Level II (15/30) - 2018/06/22 22:25:37 ET
+Table '2339065658 1' 3-max Seat #2 is the button
+Seat 2: heutegewinnwa (200 in chips) 
+Seat 3: saintanna023 (1300 in chips) 
+heutegewinnwa: posts small blind 15
+saintanna023: posts big blind 30
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Jc 8d]
+heutegewinnwa: raises 60 to 90
+saintanna023: raises 1210 to 1300 and is all-in
+heutegewinnwa: calls 110 and is all-in
+Uncalled bet (1100) returned to saintanna023
+*** FLOP *** [Tc 9h Kc]
+*** TURN *** [Tc 9h Kc] [9c]
+*** RIVER *** [Tc 9h Kc 9c] [8s]
+*** SHOW DOWN ***
+saintanna023: shows [7s 7c] (two pair, Nines and Sevens)
+heutegewinnwa: shows [Jc 8d] (two pair, Nines and Eights)
+heutegewinnwa collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [Tc 9h Kc 9c 8s]
+Seat 2: heutegewinnwa (button) (small blind) showed [Jc 8d] and won (400) with two pair, Nines and Eights
+Seat 3: saintanna023 (big blind) showed [7s 7c] and lost with two pair, Nines and Sevens
+
+
+*********** # 97 **************
+PokerStars Hand #187931651323: Tournament #2339065658, $14.10+$0.90 USD Hold'em No Limit - Level II (15/30) - 2018/06/22 22:25:20 ET
+Table '2339065658 1' 3-max Seat #3 is the button
+Seat 2: heutegewinnwa (170 in chips) 
+Seat 3: saintanna023 (1330 in chips) 
+saintanna023: posts small blind 15
+heutegewinnwa: posts big blind 30
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [As 5c]
+saintanna023: calls 15
+heutegewinnwa: raises 60 to 90
+saintanna023: folds 
+Uncalled bet (60) returned to heutegewinnwa
+heutegewinnwa collected 60 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: heutegewinnwa (big blind) collected (60)
+Seat 3: saintanna023 (button) (small blind) folded before Flop
+
+
+*********** # 98 **************
+PokerStars Hand #187931649711: Tournament #2339065658, $14.10+$0.90 USD Hold'em No Limit - Level II (15/30) - 2018/06/22 22:25:14 ET
+Table '2339065658 1' 3-max Seat #2 is the button
+Seat 2: heutegewinnwa (185 in chips) 
+Seat 3: saintanna023 (1315 in chips) 
+heutegewinnwa: posts small blind 15
+saintanna023: posts big blind 30
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [2h 5d]
+heutegewinnwa: folds 
+Uncalled bet (15) returned to saintanna023
+saintanna023 collected 30 from pot
+saintanna023: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: heutegewinnwa (button) (small blind) folded before Flop
+Seat 3: saintanna023 (big blind) collected (30)
+
+
+*********** # 99 **************
+PokerStars Hand #187931636532: Tournament #2339065658, $14.10+$0.90 USD Hold'em No Limit - Level II (15/30) - 2018/06/22 22:24:31 ET
+Table '2339065658 1' 3-max Seat #3 is the button
+Seat 1: Yurcheg333 (535 in chips) 
+Seat 2: heutegewinnwa (215 in chips) 
+Seat 3: saintanna023 (750 in chips) 
+Yurcheg333: posts small blind 15
+heutegewinnwa: posts big blind 30
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [4s Tc]
+saintanna023: raises 30 to 60
+Yurcheg333: calls 45
+heutegewinnwa: folds 
+*** FLOP *** [6s Th 3c]
+Yurcheg333: checks 
+saintanna023: checks 
+*** TURN *** [6s Th 3c] [9h]
+Yurcheg333: bets 75
+saintanna023: raises 615 to 690 and is all-in
+Yurcheg333: calls 400 and is all-in
+Uncalled bet (215) returned to saintanna023
+*** RIVER *** [6s Th 3c 9h] [Jc]
+*** SHOW DOWN ***
+Yurcheg333: shows [4d 4h] (a pair of Fours)
+saintanna023: shows [9s 6h] (two pair, Nines and Sixes)
+saintanna023 collected 1100 from pot
+Yurcheg333 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1100 | Rake 0 
+Board [6s Th 3c 9h Jc]
+Seat 1: Yurcheg333 (small blind) showed [4d 4h] and lost with a pair of Fours
+Seat 2: heutegewinnwa (big blind) folded before Flop
+Seat 3: saintanna023 (button) showed [9s 6h] and won (1100) with two pair, Nines and Sixes
+
+
+*********** # 100 **************
+PokerStars Hand #187931623945: Tournament #2339065658, $14.10+$0.90 USD Hold'em No Limit - Level I (10/20) - 2018/06/22 22:23:51 ET
+Table '2339065658 1' 3-max Seat #2 is the button
+Seat 1: Yurcheg333 (555 in chips) 
+Seat 2: heutegewinnwa (580 in chips) 
+Seat 3: saintanna023 (365 in chips) 
+saintanna023: posts small blind 10
+Yurcheg333: posts big blind 20
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [3c 3d]
+heutegewinnwa: raises 60 to 80
+saintanna023: raises 285 to 365 and is all-in
+Yurcheg333: folds 
+heutegewinnwa: calls 285
+*** FLOP *** [4d Ah Kc]
+*** TURN *** [4d Ah Kc] [2c]
+*** RIVER *** [4d Ah Kc 2c] [As]
+*** SHOW DOWN ***
+saintanna023: shows [Kd Ks] (a full house, Kings full of Aces)
+heutegewinnwa: shows [3c 3d] (two pair, Aces and Threes)
+saintanna023 collected 750 from pot
+*** SUMMARY ***
+Total pot 750 | Rake 0 
+Board [4d Ah Kc 2c As]
+Seat 1: Yurcheg333 (big blind) folded before Flop
+Seat 2: heutegewinnwa (button) showed [3c 3d] and lost with two pair, Aces and Threes
+Seat 3: saintanna023 (small blind) showed [Kd Ks] and won (750) with a full house, Kings full of Aces
+
+
+*********** # 101 **************
+PokerStars Hand #187931602414: Tournament #2339065658, $14.10+$0.90 USD Hold'em No Limit - Level I (10/20) - 2018/06/22 22:22:42 ET
+Table '2339065658 1' 3-max Seat #1 is the button
+Seat 1: Yurcheg333 (460 in chips) 
+Seat 2: heutegewinnwa (590 in chips) 
+Seat 3: saintanna023 (450 in chips) 
+heutegewinnwa: posts small blind 10
+saintanna023: posts big blind 20
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [2h 5h]
+Yurcheg333: raises 20 to 40
+heutegewinnwa: folds 
+saintanna023: calls 20
+*** FLOP *** [As 2d Tc]
+saintanna023: checks 
+Yurcheg333: bets 45
+saintanna023: calls 45
+*** TURN *** [As 2d Tc] [2c]
+saintanna023: checks 
+Yurcheg333: bets 90
+saintanna023: folds 
+Uncalled bet (90) returned to Yurcheg333
+Yurcheg333 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [As 2d Tc 2c]
+Seat 1: Yurcheg333 (button) collected (180)
+Seat 2: heutegewinnwa (small blind) folded before Flop
+Seat 3: saintanna023 (big blind) folded on the Turn
+
+
+*********** # 102 **************
+PokerStars Hand #187931595525: Tournament #2339065658, $14.10+$0.90 USD Hold'em No Limit - Level I (10/20) - 2018/06/22 22:22:21 ET
+Table '2339065658 1' 3-max Seat #3 is the button
+Seat 1: Yurcheg333 (440 in chips) 
+Seat 2: heutegewinnwa (610 in chips) 
+Seat 3: saintanna023 (450 in chips) 
+Yurcheg333: posts small blind 10
+heutegewinnwa: posts big blind 20
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [5d 6d]
+saintanna023: folds 
+Yurcheg333: raises 40 to 60
+heutegewinnwa: folds 
+Uncalled bet (40) returned to Yurcheg333
+Yurcheg333 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Yurcheg333 (small blind) collected (40)
+Seat 2: heutegewinnwa (big blind) folded before Flop
+Seat 3: saintanna023 (button) folded before Flop (didn't bet)
+
+
+*********** # 103 **************
+PokerStars Hand #187931589775: Tournament #2339065658, $14.10+$0.90 USD Hold'em No Limit - Level I (10/20) - 2018/06/22 22:22:02 ET
+Table '2339065658 1' 3-max Seat #2 is the button
+Seat 1: Yurcheg333 (460 in chips) 
+Seat 2: heutegewinnwa (580 in chips) 
+Seat 3: saintanna023 (460 in chips) 
+saintanna023: posts small blind 10
+Yurcheg333: posts big blind 20
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [9h 9d]
+heutegewinnwa: raises 40 to 60
+saintanna023: folds 
+Yurcheg333: folds 
+Uncalled bet (40) returned to heutegewinnwa
+heutegewinnwa collected 50 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Yurcheg333 (big blind) folded before Flop
+Seat 2: heutegewinnwa (button) collected (50)
+Seat 3: saintanna023 (small blind) folded before Flop
+
+
+*********** # 104 **************
+PokerStars Hand #187931572737: Tournament #2339065658, $14.10+$0.90 USD Hold'em No Limit - Level I (10/20) - 2018/06/22 22:21:08 ET
+Table '2339065658 1' 3-max Seat #1 is the button
+Seat 1: Yurcheg333 (500 in chips) 
+Seat 2: heutegewinnwa (500 in chips) 
+Seat 3: saintanna023 (500 in chips) 
+heutegewinnwa: posts small blind 10
+saintanna023: posts big blind 20
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Qh 8c]
+Yurcheg333: raises 20 to 40
+heutegewinnwa: calls 30
+saintanna023: calls 20
+*** FLOP *** [Ah As 6s]
+heutegewinnwa: bets 60
+saintanna023: folds 
+Yurcheg333: folds 
+Uncalled bet (60) returned to heutegewinnwa
+heutegewinnwa collected 120 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Ah As 6s]
+Seat 1: Yurcheg333 (button) folded on the Flop
+Seat 2: heutegewinnwa (small blind) collected (120)
+Seat 3: saintanna023 (big blind) folded on the Flop
+
+
+*********** # 105 **************
+PokerStars Hand #187931548000: Tournament #2339064734, $14.10+$0.90 USD Hold'em No Limit - Level I (10/20) - 2018/06/22 22:19:50 ET
+Table '2339064734 1' 3-max Seat #3 is the button
+Seat 1: heutegewinnwa (500 in chips) 
+Seat 3: johnybrewson (1000 in chips) 
+johnybrewson: posts small blind 10
+heutegewinnwa: posts big blind 20
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Kh 6s]
+johnybrewson: raises 980 to 1000 and is all-in
+heutegewinnwa: calls 480 and is all-in
+Uncalled bet (500) returned to johnybrewson
+*** FLOP *** [7s 8c 7d]
+*** TURN *** [7s 8c 7d] [Qc]
+*** RIVER *** [7s 8c 7d Qc] [5c]
+*** SHOW DOWN ***
+heutegewinnwa: shows [Kh 6s] (a pair of Sevens)
+johnybrewson: shows [6h 6c] (two pair, Sevens and Sixes)
+johnybrewson collected 1000 from pot
+heutegewinnwa finished the tournament in 2nd place
+johnybrewson wins the tournament and receives $60.00 - congratulations!
+*** SUMMARY ***
+Total pot 1000 | Rake 0 
+Board [7s 8c 7d Qc 5c]
+Seat 1: heutegewinnwa (big blind) showed [Kh 6s] and lost with a pair of Sevens
+Seat 3: johnybrewson (button) (small blind) showed [6h 6c] and won (1000) with two pair, Sevens and Sixes
+
+
+*********** # 106 **************
+PokerStars Hand #187931538723: Tournament #2339064734, $14.10+$0.90 USD Hold'em No Limit - Level I (10/20) - 2018/06/22 22:19:21 ET
+Table '2339064734 1' 3-max Seat #1 is the button
+Seat 1: heutegewinnwa (500 in chips) 
+Seat 2: khamulx (500 in chips) 
+Seat 3: johnybrewson (500 in chips) 
+khamulx: posts small blind 10
+johnybrewson: posts big blind 20
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [2c 5s]
+heutegewinnwa: folds 
+khamulx: calls 10
+johnybrewson: raises 40 to 60
+khamulx: calls 40
+*** FLOP *** [5h Qd 9s]
+khamulx: checks 
+johnybrewson: bets 52
+khamulx: calls 52
+*** TURN *** [5h Qd 9s] [7c]
+khamulx: checks 
+johnybrewson: checks 
+*** RIVER *** [5h Qd 9s 7c] [Ac]
+khamulx: checks 
+johnybrewson: bets 96
+khamulx: raises 292 to 388 and is all-in
+johnybrewson: calls 292 and is all-in
+*** SHOW DOWN ***
+khamulx: shows [5c Ah] (two pair, Aces and Fives)
+johnybrewson: shows [9d 9h] (three of a kind, Nines)
+johnybrewson collected 1000 from pot
+khamulx finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1000 | Rake 0 
+Board [5h Qd 9s 7c Ac]
+Seat 1: heutegewinnwa (button) folded before Flop (didn't bet)
+Seat 2: khamulx (small blind) showed [5c Ah] and lost with two pair, Aces and Fives
+Seat 3: johnybrewson (big blind) showed [9d 9h] and won (1000) with three of a kind, Nines
+
+
+*********** # 107 **************
+PokerStars Hand #187931521926: Tournament #2339064263, $14.10+$0.90 USD Hold'em No Limit - Level I (10/20) - 2018/06/22 22:18:28 ET
+Table '2339064263 1' 3-max Seat #2 is the button
+Seat 1: lesie90 (530 in chips) 
+Seat 2: Macros909 (490 in chips) 
+Seat 3: heutegewinnwa (480 in chips) 
+heutegewinnwa: posts small blind 10
+lesie90: posts big blind 20
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [5c Qh]
+Macros909: folds 
+heutegewinnwa: raises 20 to 40
+lesie90: calls 20
+*** FLOP *** [Ad 6h 5h]
+heutegewinnwa: bets 40
+lesie90: calls 40
+*** TURN *** [Ad 6h 5h] [8c]
+heutegewinnwa: bets 160
+lesie90: calls 160
+*** RIVER *** [Ad 6h 5h 8c] [7h]
+heutegewinnwa: bets 240 and is all-in
+lesie90: calls 240
+*** SHOW DOWN ***
+heutegewinnwa: shows [5c Qh] (a pair of Fives)
+lesie90: shows [Ac 4c] (a straight, Four to Eight)
+lesie90 collected 960 from pot
+heutegewinnwa finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 960 | Rake 0 
+Board [Ad 6h 5h 8c 7h]
+Seat 1: lesie90 (big blind) showed [Ac 4c] and won (960) with a straight, Four to Eight
+Seat 2: Macros909 (button) folded before Flop (didn't bet)
+Seat 3: heutegewinnwa (small blind) showed [5c Qh] and lost with a pair of Fives
+
+
+*********** # 108 **************
+PokerStars Hand #187931518085: Tournament #2339064263, $14.10+$0.90 USD Hold'em No Limit - Level I (10/20) - 2018/06/22 22:18:16 ET
+Table '2339064263 1' 3-max Seat #1 is the button
+Seat 1: lesie90 (500 in chips) 
+Seat 2: Macros909 (500 in chips) 
+Seat 3: heutegewinnwa (500 in chips) 
+Macros909: posts small blind 10
+heutegewinnwa: posts big blind 20
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [7c 3d]
+lesie90: raises 20 to 40
+Macros909: folds 
+heutegewinnwa: folds 
+Uncalled bet (20) returned to lesie90
+lesie90 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: lesie90 (button) collected (50)
+Seat 2: Macros909 (small blind) folded before Flop
+Seat 3: heutegewinnwa (big blind) folded before Flop
+
+
+*********** # 109 **************
+PokerStars Hand #187931505392: Tournament #2339060098, $14.10+$0.90 USD Hold'em No Limit - Level III (20/40) - 2018/06/22 22:17:36 ET
+Table '2339060098 1' 3-max Seat #2 is the button
+Seat 1: rafapires1980 (185 in chips) 
+Seat 2: heutegewinnwa (1315 in chips) 
+heutegewinnwa: posts small blind 20
+rafapires1980: posts big blind 40
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Js 8h]
+heutegewinnwa: raises 40 to 80
+rafapires1980: raises 105 to 185 and is all-in
+heutegewinnwa: calls 105
+*** FLOP *** [7s 4s Jc]
+*** TURN *** [7s 4s Jc] [9d]
+*** RIVER *** [7s 4s Jc 9d] [5c]
+*** SHOW DOWN ***
+rafapires1980: shows [Ac 6c] (high card Ace)
+heutegewinnwa: shows [Js 8h] (a pair of Jacks)
+heutegewinnwa collected 370 from pot
+rafapires1980 finished the tournament in 2nd place
+heutegewinnwa wins the tournament and receives $30.00 - congratulations!
+*** SUMMARY ***
+Total pot 370 | Rake 0 
+Board [7s 4s Jc 9d 5c]
+Seat 1: rafapires1980 (big blind) showed [Ac 6c] and lost with high card Ace
+Seat 2: heutegewinnwa (button) (small blind) showed [Js 8h] and won (370) with a pair of Jacks
+
+
+*********** # 110 **************
+PokerStars Hand #187931494136: Tournament #2339060098, $14.10+$0.90 USD Hold'em No Limit - Level III (20/40) - 2018/06/22 22:17:01 ET
+Table '2339060098 1' 3-max Seat #1 is the button
+Seat 1: rafapires1980 (430 in chips) 
+Seat 2: heutegewinnwa (825 in chips) 
+Seat 3: valera1991 0303 (245 in chips) 
+heutegewinnwa: posts small blind 20
+valera1991 0303: posts big blind 40
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Ad 8d]
+rafapires1980: calls 40
+heutegewinnwa: raises 80 to 120
+valera1991 0303: raises 125 to 245 and is all-in
+rafapires1980: calls 205
+heutegewinnwa: calls 125
+*** FLOP *** [Jc 4s Tc]
+heutegewinnwa: bets 580 and is all-in
+rafapires1980: folds 
+Uncalled bet (580) returned to heutegewinnwa
+*** TURN *** [Jc 4s Tc] [2d]
+*** RIVER *** [Jc 4s Tc 2d] [Ac]
+*** SHOW DOWN ***
+heutegewinnwa: shows [Ad 8d] (a pair of Aces)
+valera1991 0303: shows [6d 6c] (a pair of Sixes)
+heutegewinnwa collected 735 from pot
+valera1991 0303 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 735 | Rake 0 
+Board [Jc 4s Tc 2d Ac]
+Seat 1: rafapires1980 (button) folded on the Flop
+Seat 2: heutegewinnwa (small blind) showed [Ad 8d] and won (735) with a pair of Aces
+Seat 3: valera1991 0303 (big blind) showed [6d 6c] and lost with a pair of Sixes
+
+
+*********** # 111 **************
+PokerStars Hand #187931489427: Tournament #2339060098, $14.10+$0.90 USD Hold'em No Limit - Level III (20/40) - 2018/06/22 22:16:46 ET
+Table '2339060098 1' 3-max Seat #3 is the button
+Seat 1: rafapires1980 (195 in chips) 
+Seat 2: heutegewinnwa (865 in chips) 
+Seat 3: valera1991 0303 (440 in chips) 
+rafapires1980: posts small blind 20
+heutegewinnwa: posts big blind 40
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [8c Th]
+valera1991 0303: raises 400 to 440 and is all-in
+rafapires1980: calls 175 and is all-in
+heutegewinnwa: folds 
+Uncalled bet (245) returned to valera1991 0303
+*** FLOP *** [9c Td 6d]
+*** TURN *** [9c Td 6d] [Qh]
+*** RIVER *** [9c Td 6d Qh] [8h]
+*** SHOW DOWN ***
+rafapires1980: shows [Qs 6s] (two pair, Queens and Sixes)
+valera1991 0303: shows [Ac Qc] (a pair of Queens)
+rafapires1980 collected 430 from pot
+*** SUMMARY ***
+Total pot 430 | Rake 0 
+Board [9c Td 6d Qh 8h]
+Seat 1: rafapires1980 (small blind) showed [Qs 6s] and won (430) with two pair, Queens and Sixes
+Seat 2: heutegewinnwa (big blind) folded before Flop
+Seat 3: valera1991 0303 (button) showed [Ac Qc] and lost with a pair of Queens
+
+
+*********** # 112 **************
+PokerStars Hand #187931486468: Tournament #2339060098, $14.10+$0.90 USD Hold'em No Limit - Level III (20/40) - 2018/06/22 22:16:37 ET
+Table '2339060098 1' 3-max Seat #2 is the button
+Seat 1: rafapires1980 (235 in chips) 
+Seat 2: heutegewinnwa (865 in chips) 
+Seat 3: valera1991 0303 (400 in chips) 
+valera1991 0303: posts small blind 20
+rafapires1980: posts big blind 40
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [8c 3c]
+heutegewinnwa: folds 
+valera1991 0303: raises 360 to 400 and is all-in
+rafapires1980: folds 
+Uncalled bet (360) returned to valera1991 0303
+valera1991 0303 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: rafapires1980 (big blind) folded before Flop
+Seat 2: heutegewinnwa (button) folded before Flop (didn't bet)
+Seat 3: valera1991 0303 (small blind) collected (80)
+
+
+*********** # 113 **************
+PokerStars Hand #187931479855: Tournament #2339060098, $14.10+$0.90 USD Hold'em No Limit - Level III (20/40) - 2018/06/22 22:16:16 ET
+Table '2339060098 1' 3-max Seat #1 is the button
+Seat 1: rafapires1980 (355 in chips) 
+Seat 2: heutegewinnwa (705 in chips) 
+Seat 3: valera1991 0303 (440 in chips) 
+heutegewinnwa: posts small blind 20
+valera1991 0303: posts big blind 40
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Jd Qc]
+rafapires1980: calls 40
+heutegewinnwa: raises 80 to 120
+valera1991 0303: folds 
+rafapires1980: calls 80
+*** FLOP *** [Qh 7d Ad]
+heutegewinnwa: bets 140
+rafapires1980: folds 
+Uncalled bet (140) returned to heutegewinnwa
+heutegewinnwa collected 280 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Board [Qh 7d Ad]
+Seat 1: rafapires1980 (button) folded on the Flop
+Seat 2: heutegewinnwa (small blind) collected (280)
+Seat 3: valera1991 0303 (big blind) folded before Flop
+
+
+*********** # 114 **************
+PokerStars Hand #187931473603: Tournament #2339060098, $14.10+$0.90 USD Hold'em No Limit - Level III (20/40) - 2018/06/22 22:15:57 ET
+Table '2339060098 1' 3-max Seat #3 is the button
+Seat 1: rafapires1980 (475 in chips) 
+Seat 2: heutegewinnwa (585 in chips) 
+Seat 3: valera1991 0303 (440 in chips) 
+rafapires1980: posts small blind 20
+heutegewinnwa: posts big blind 40
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Kd 4h]
+valera1991 0303: folds 
+rafapires1980: calls 20
+heutegewinnwa: raises 80 to 120
+rafapires1980: calls 80
+*** FLOP *** [Ks 3h 8s]
+rafapires1980: checks 
+heutegewinnwa: bets 120
+rafapires1980: folds 
+Uncalled bet (120) returned to heutegewinnwa
+heutegewinnwa collected 240 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Ks 3h 8s]
+Seat 1: rafapires1980 (small blind) folded on the Flop
+Seat 2: heutegewinnwa (big blind) collected (240)
+Seat 3: valera1991 0303 (button) folded before Flop (didn't bet)
+
+
+*********** # 115 **************
+PokerStars Hand #187931468583: Tournament #2339060098, $14.10+$0.90 USD Hold'em No Limit - Level III (20/40) - 2018/06/22 22:15:41 ET
+Table '2339060098 1' 3-max Seat #2 is the button
+Seat 1: rafapires1980 (595 in chips) 
+Seat 2: heutegewinnwa (445 in chips) 
+Seat 3: valera1991 0303 (460 in chips) 
+valera1991 0303: posts small blind 20
+rafapires1980: posts big blind 40
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Ad 7s]
+heutegewinnwa: raises 80 to 120
+valera1991 0303: folds 
+rafapires1980: calls 80
+*** FLOP *** [Jc 2d Kd]
+rafapires1980: checks 
+heutegewinnwa: bets 160
+rafapires1980: folds 
+Uncalled bet (160) returned to heutegewinnwa
+heutegewinnwa collected 260 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 260 | Rake 0 
+Board [Jc 2d Kd]
+Seat 1: rafapires1980 (big blind) folded on the Flop
+Seat 2: heutegewinnwa (button) collected (260)
+Seat 3: valera1991 0303 (small blind) folded before Flop
+
+
+*********** # 116 **************
+PokerStars Hand #187931466600: Tournament #2339060098, $14.10+$0.90 USD Hold'em No Limit - Level III (20/40) - 2018/06/22 22:15:35 ET
+Table '2339060098 1' 3-max Seat #1 is the button
+Seat 1: rafapires1980 (595 in chips) 
+Seat 2: heutegewinnwa (465 in chips) 
+Seat 3: valera1991 0303 (440 in chips) 
+heutegewinnwa: posts small blind 20
+valera1991 0303: posts big blind 40
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [3c 2s]
+rafapires1980: folds 
+heutegewinnwa: folds 
+Uncalled bet (20) returned to valera1991 0303
+valera1991 0303 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: rafapires1980 (button) folded before Flop (didn't bet)
+Seat 2: heutegewinnwa (small blind) folded before Flop
+Seat 3: valera1991 0303 (big blind) collected (40)
+
+
+*********** # 117 **************
+PokerStars Hand #187931460295: Tournament #2339060098, $14.10+$0.90 USD Hold'em No Limit - Level III (20/40) - 2018/06/22 22:15:15 ET
+Table '2339060098 1' 3-max Seat #3 is the button
+Seat 1: rafapires1980 (555 in chips) 
+Seat 2: heutegewinnwa (505 in chips) 
+Seat 3: valera1991 0303 (440 in chips) 
+rafapires1980: posts small blind 20
+heutegewinnwa: posts big blind 40
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [9s 2d]
+valera1991 0303: folds 
+rafapires1980: calls 20
+heutegewinnwa: checks 
+*** FLOP *** [7s Jd 7c]
+rafapires1980: checks 
+heutegewinnwa: checks 
+*** TURN *** [7s Jd 7c] [Kc]
+rafapires1980: bets 80
+heutegewinnwa: folds 
+Uncalled bet (80) returned to rafapires1980
+rafapires1980 collected 80 from pot
+rafapires1980: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [7s Jd 7c Kc]
+Seat 1: rafapires1980 (small blind) collected (80)
+Seat 2: heutegewinnwa (big blind) folded on the Turn
+Seat 3: valera1991 0303 (button) folded before Flop (didn't bet)
+
+
+*********** # 118 **************
+PokerStars Hand #187931456394: Tournament #2339060098, $14.10+$0.90 USD Hold'em No Limit - Level III (20/40) - 2018/06/22 22:15:03 ET
+Table '2339060098 1' 3-max Seat #2 is the button
+Seat 1: rafapires1980 (595 in chips) 
+Seat 2: heutegewinnwa (505 in chips) 
+Seat 3: valera1991 0303 (400 in chips) 
+valera1991 0303: posts small blind 20
+rafapires1980: posts big blind 40
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Js 2d]
+heutegewinnwa: folds 
+valera1991 0303: raises 360 to 400 and is all-in
+rafapires1980: folds 
+Uncalled bet (360) returned to valera1991 0303
+valera1991 0303 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: rafapires1980 (big blind) folded before Flop
+Seat 2: heutegewinnwa (button) folded before Flop (didn't bet)
+Seat 3: valera1991 0303 (small blind) collected (80)
+
+
+*********** # 119 **************
+PokerStars Hand #187931441452: Tournament #2339060098, $14.10+$0.90 USD Hold'em No Limit - Level II (15/30) - 2018/06/22 22:14:33 ET
+Table '2339060098 1' 3-max Seat #1 is the button
+Seat 1: rafapires1980 (550 in chips) 
+Seat 2: heutegewinnwa (520 in chips) 
+Seat 3: valera1991 0303 (430 in chips) 
+heutegewinnwa: posts small blind 15
+valera1991 0303: posts big blind 30
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [9c 2d]
+rafapires1980: calls 30
+heutegewinnwa: folds 
+valera1991 0303: checks 
+*** FLOP *** [6s Qh 4h]
+valera1991 0303: checks 
+rafapires1980: checks 
+*** TURN *** [6s Qh 4h] [4s]
+valera1991 0303: checks 
+rafapires1980: bets 60
+valera1991 0303: folds 
+Uncalled bet (60) returned to rafapires1980
+rafapires1980 collected 75 from pot
+rafapires1980: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Board [6s Qh 4h 4s]
+Seat 1: rafapires1980 (button) collected (75)
+Seat 2: heutegewinnwa (small blind) folded before Flop
+Seat 3: valera1991 0303 (big blind) folded on the Turn
+
+
+*********** # 120 **************
+PokerStars Hand #187931431747: Tournament #2339060098, $14.10+$0.90 USD Hold'em No Limit - Level II (15/30) - 2018/06/22 22:14:02 ET
+Table '2339060098 1' 3-max Seat #3 is the button
+Seat 1: rafapires1980 (460 in chips) 
+Seat 2: heutegewinnwa (610 in chips) 
+Seat 3: valera1991 0303 (430 in chips) 
+rafapires1980: posts small blind 15
+heutegewinnwa: posts big blind 30
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Qc 4h]
+valera1991 0303: folds 
+rafapires1980: calls 15
+heutegewinnwa: raises 60 to 90
+rafapires1980: calls 60
+*** FLOP *** [Ts Jd 3s]
+rafapires1980: bets 370 and is all-in
+heutegewinnwa: folds 
+Uncalled bet (370) returned to rafapires1980
+rafapires1980 collected 180 from pot
+rafapires1980: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Ts Jd 3s]
+Seat 1: rafapires1980 (small blind) collected (180)
+Seat 2: heutegewinnwa (big blind) folded on the Flop
+Seat 3: valera1991 0303 (button) folded before Flop (didn't bet)
+
+
+*********** # 121 **************
+PokerStars Hand #187931416342: Tournament #2339060098, $14.10+$0.90 USD Hold'em No Limit - Level II (15/30) - 2018/06/22 22:13:14 ET
+Table '2339060098 1' 3-max Seat #2 is the button
+Seat 1: rafapires1980 (535 in chips) 
+Seat 2: heutegewinnwa (460 in chips) 
+Seat 3: valera1991 0303 (505 in chips) 
+valera1991 0303: posts small blind 15
+rafapires1980: posts big blind 30
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Qs 2h]
+heutegewinnwa: calls 30
+valera1991 0303: calls 15
+rafapires1980: checks 
+*** FLOP *** [3d 9d 8h]
+valera1991 0303: checks 
+rafapires1980: checks 
+heutegewinnwa: bets 45
+valera1991 0303: calls 45
+rafapires1980: calls 45
+*** TURN *** [3d 9d 8h] [3c]
+valera1991 0303: checks 
+rafapires1980: checks 
+heutegewinnwa: bets 385 and is all-in
+valera1991 0303: folds 
+rafapires1980: folds 
+rafapires1980 is sitting out
+Uncalled bet (385) returned to heutegewinnwa
+heutegewinnwa collected 225 from pot
+heutegewinnwa: doesn't show hand 
+rafapires1980 has returned
+*** SUMMARY ***
+Total pot 225 | Rake 0 
+Board [3d 9d 8h 3c]
+Seat 1: rafapires1980 (big blind) folded on the Turn
+Seat 2: heutegewinnwa (button) collected (225)
+Seat 3: valera1991 0303 (small blind) folded on the Turn
+
+
+*********** # 122 **************
+PokerStars Hand #187931410349: Tournament #2339060098, $14.10+$0.90 USD Hold'em No Limit - Level II (15/30) - 2018/06/22 22:12:55 ET
+Table '2339060098 1' 3-max Seat #1 is the button
+Seat 1: rafapires1980 (490 in chips) 
+Seat 2: heutegewinnwa (475 in chips) 
+Seat 3: valera1991 0303 (535 in chips) 
+heutegewinnwa: posts small blind 15
+valera1991 0303: posts big blind 30
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [4c 8d]
+rafapires1980: calls 30
+heutegewinnwa: folds 
+valera1991 0303: checks 
+*** FLOP *** [2c 3c 7s]
+valera1991 0303: checks 
+rafapires1980: bets 60
+valera1991 0303: folds 
+Uncalled bet (60) returned to rafapires1980
+rafapires1980 collected 75 from pot
+rafapires1980: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Board [2c 3c 7s]
+Seat 1: rafapires1980 (button) collected (75)
+Seat 2: heutegewinnwa (small blind) folded before Flop
+Seat 3: valera1991 0303 (big blind) folded on the Flop
+
+
+*********** # 123 **************
+PokerStars Hand #187931401383: Tournament #2339060098, $14.10+$0.90 USD Hold'em No Limit - Level II (15/30) - 2018/06/22 22:12:28 ET
+Table '2339060098 1' 3-max Seat #3 is the button
+Seat 1: rafapires1980 (505 in chips) 
+Seat 2: heutegewinnwa (400 in chips) 
+Seat 3: valera1991 0303 (595 in chips) 
+rafapires1980: posts small blind 15
+heutegewinnwa: posts big blind 30
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Qd Ad]
+valera1991 0303: raises 30 to 60
+rafapires1980: folds 
+heutegewinnwa: raises 90 to 150
+valera1991 0303: folds 
+Uncalled bet (90) returned to heutegewinnwa
+heutegewinnwa collected 135 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 135 | Rake 0 
+Seat 1: rafapires1980 (small blind) folded before Flop
+Seat 2: heutegewinnwa (big blind) collected (135)
+Seat 3: valera1991 0303 (button) folded before Flop
+
+
+*********** # 124 **************
+PokerStars Hand #187931392165: Tournament #2339060098, $14.10+$0.90 USD Hold'em No Limit - Level II (15/30) - 2018/06/22 22:11:59 ET
+Table '2339060098 1' 3-max Seat #2 is the button
+Seat 1: rafapires1980 (400 in chips) 
+Seat 2: heutegewinnwa (490 in chips) 
+Seat 3: valera1991 0303 (610 in chips) 
+valera1991 0303: posts small blind 15
+rafapires1980: posts big blind 30
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [9c Kd]
+heutegewinnwa: raises 60 to 90
+valera1991 0303: folds 
+rafapires1980: calls 60
+*** FLOP *** [7h 3s Qc]
+rafapires1980: bets 180
+heutegewinnwa: folds 
+Uncalled bet (180) returned to rafapires1980
+rafapires1980 collected 195 from pot
+rafapires1980: doesn't show hand 
+*** SUMMARY ***
+Total pot 195 | Rake 0 
+Board [7h 3s Qc]
+Seat 1: rafapires1980 (big blind) collected (195)
+Seat 2: heutegewinnwa (button) folded on the Flop
+Seat 3: valera1991 0303 (small blind) folded before Flop
+
+
+*********** # 125 **************
+PokerStars Hand #187931384748: Tournament #2339060098, $14.10+$0.90 USD Hold'em No Limit - Level I (10/20) - 2018/06/22 22:11:37 ET
+Table '2339060098 1' 3-max Seat #1 is the button
+Seat 1: rafapires1980 (400 in chips) 
+Seat 2: heutegewinnwa (470 in chips) 
+Seat 3: valera1991 0303 (630 in chips) 
+heutegewinnwa: posts small blind 10
+valera1991 0303: posts big blind 20
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [5c 9c]
+rafapires1980: folds 
+heutegewinnwa: calls 10
+valera1991 0303: checks 
+*** FLOP *** [Js 5s Qc]
+heutegewinnwa: bets 20
+valera1991 0303: folds 
+Uncalled bet (20) returned to heutegewinnwa
+heutegewinnwa collected 40 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Js 5s Qc]
+Seat 1: rafapires1980 (button) folded before Flop (didn't bet)
+Seat 2: heutegewinnwa (small blind) collected (40)
+Seat 3: valera1991 0303 (big blind) folded on the Flop
+
+
+*********** # 126 **************
+PokerStars Hand #187931374081: Tournament #2339060098, $14.10+$0.90 USD Hold'em No Limit - Level I (10/20) - 2018/06/22 22:11:04 ET
+Table '2339060098 1' 3-max Seat #3 is the button
+Seat 1: rafapires1980 (600 in chips) 
+Seat 2: heutegewinnwa (490 in chips) 
+Seat 3: valera1991 0303 (410 in chips) 
+rafapires1980: posts small blind 10
+heutegewinnwa: posts big blind 20
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Jd 3c]
+valera1991 0303: raises 20 to 40
+rafapires1980: calls 30
+heutegewinnwa: folds 
+*** FLOP *** [Kh 4c 4d]
+rafapires1980: checks 
+valera1991 0303: bets 40
+rafapires1980: calls 40
+*** TURN *** [Kh 4c 4d] [Ad]
+rafapires1980: checks 
+valera1991 0303: checks 
+*** RIVER *** [Kh 4c 4d Ad] [8h]
+rafapires1980: checks 
+valera1991 0303: bets 120
+rafapires1980: calls 120
+*** SHOW DOWN ***
+valera1991 0303: shows [Ac As] (a full house, Aces full of Fours)
+rafapires1980: mucks hand 
+valera1991 0303 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | Rake 0 
+Board [Kh 4c 4d Ad 8h]
+Seat 1: rafapires1980 (small blind) mucked [2s Kc]
+Seat 2: heutegewinnwa (big blind) folded before Flop
+Seat 3: valera1991 0303 (button) showed [Ac As] and won (420) with a full house, Aces full of Fours
+
+
+*********** # 127 **************
+PokerStars Hand #187931369433: Tournament #2339060098, $14.10+$0.90 USD Hold'em No Limit - Level I (10/20) - 2018/06/22 22:10:49 ET
+Table '2339060098 1' 3-max Seat #2 is the button
+Seat 1: rafapires1980 (530 in chips) 
+Seat 2: heutegewinnwa (550 in chips) 
+Seat 3: valera1991 0303 (420 in chips) 
+valera1991 0303: posts small blind 10
+rafapires1980: posts big blind 20
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [7c Qh]
+heutegewinnwa: raises 40 to 60
+valera1991 0303: folds 
+rafapires1980: calls 40
+*** FLOP *** [5c Th 3s]
+rafapires1980: bets 470 and is all-in
+heutegewinnwa: folds 
+Uncalled bet (470) returned to rafapires1980
+rafapires1980 collected 130 from pot
+rafapires1980: doesn't show hand 
+*** SUMMARY ***
+Total pot 130 | Rake 0 
+Board [5c Th 3s]
+Seat 1: rafapires1980 (big blind) collected (130)
+Seat 2: heutegewinnwa (button) folded on the Flop
+Seat 3: valera1991 0303 (small blind) folded before Flop
+
+
+*********** # 128 **************
+PokerStars Hand #187931357680: Tournament #2339060098, $14.10+$0.90 USD Hold'em No Limit - Level I (10/20) - 2018/06/22 22:10:13 ET
+Table '2339060098 1' 3-max Seat #1 is the button
+Seat 1: rafapires1980 (490 in chips) 
+Seat 2: heutegewinnwa (570 in chips) 
+Seat 3: valera1991 0303 (440 in chips) 
+heutegewinnwa: posts small blind 10
+valera1991 0303: posts big blind 20
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Ah 2s]
+rafapires1980: calls 20
+heutegewinnwa: calls 10
+valera1991 0303: checks 
+*** FLOP *** [8h 5c 7s]
+heutegewinnwa: checks 
+valera1991 0303: checks 
+rafapires1980: checks 
+*** TURN *** [8h 5c 7s] [4d]
+heutegewinnwa: checks 
+valera1991 0303: checks 
+rafapires1980: bets 60
+heutegewinnwa: folds 
+valera1991 0303: folds 
+Uncalled bet (60) returned to rafapires1980
+rafapires1980 collected 60 from pot
+rafapires1980: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [8h 5c 7s 4d]
+Seat 1: rafapires1980 (button) collected (60)
+Seat 2: heutegewinnwa (small blind) folded on the Turn
+Seat 3: valera1991 0303 (big blind) folded on the Turn
+
+
+*********** # 129 **************
+PokerStars Hand #187931345370: Tournament #2339060098, $14.10+$0.90 USD Hold'em No Limit - Level I (10/20) - 2018/06/22 22:09:36 ET
+Table '2339060098 1' 3-max Seat #3 is the button
+Seat 1: rafapires1980 (570 in chips) 
+Seat 2: heutegewinnwa (490 in chips) 
+Seat 3: valera1991 0303 (440 in chips) 
+rafapires1980: posts small blind 10
+heutegewinnwa: posts big blind 20
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Jh 5c]
+valera1991 0303: folds 
+rafapires1980: calls 10
+heutegewinnwa: checks 
+*** FLOP *** [Qs Td Ah]
+rafapires1980: checks 
+heutegewinnwa: bets 60
+rafapires1980: calls 60
+*** TURN *** [Qs Td Ah] [Kc]
+rafapires1980: checks 
+heutegewinnwa: bets 100
+rafapires1980: folds 
+Uncalled bet (100) returned to heutegewinnwa
+heutegewinnwa collected 160 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Qs Td Ah Kc]
+Seat 1: rafapires1980 (small blind) folded on the Turn
+Seat 2: heutegewinnwa (big blind) collected (160)
+Seat 3: valera1991 0303 (button) folded before Flop (didn't bet)
+
+
+*********** # 130 **************
+PokerStars Hand #187931340152: Tournament #2339060098, $14.10+$0.90 USD Hold'em No Limit - Level I (10/20) - 2018/06/22 22:09:19 ET
+Table '2339060098 1' 3-max Seat #2 is the button
+Seat 1: rafapires1980 (550 in chips) 
+Seat 2: heutegewinnwa (490 in chips) 
+Seat 3: valera1991 0303 (460 in chips) 
+valera1991 0303: posts small blind 10
+rafapires1980: posts big blind 20
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Td 8h]
+heutegewinnwa: folds 
+valera1991 0303: calls 10
+rafapires1980: raises 40 to 60
+valera1991 0303: folds 
+Uncalled bet (40) returned to rafapires1980
+rafapires1980 collected 40 from pot
+rafapires1980: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: rafapires1980 (big blind) collected (40)
+Seat 2: heutegewinnwa (button) folded before Flop (didn't bet)
+Seat 3: valera1991 0303 (small blind) folded before Flop
+
+
+*********** # 131 **************
+PokerStars Hand #187931328652: Tournament #2339060098, $14.10+$0.90 USD Hold'em No Limit - Level I (10/20) - 2018/06/22 22:08:44 ET
+Table '2339060098 1' 3-max Seat #1 is the button
+Seat 1: rafapires1980 (500 in chips) 
+Seat 2: heutegewinnwa (500 in chips) 
+Seat 3: valera1991 0303 (500 in chips) 
+heutegewinnwa: posts small blind 10
+valera1991 0303: posts big blind 20
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [2h 8c]
+rafapires1980: calls 20
+heutegewinnwa: folds 
+valera1991 0303: checks 
+*** FLOP *** [Qs 8h 8d]
+valera1991 0303: checks 
+rafapires1980: bets 20
+valera1991 0303: calls 20
+*** TURN *** [Qs 8h 8d] [Th]
+valera1991 0303: checks 
+rafapires1980: bets 80
+valera1991 0303: folds 
+Uncalled bet (80) returned to rafapires1980
+rafapires1980 collected 90 from pot
+rafapires1980: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [Qs 8h 8d Th]
+Seat 1: rafapires1980 (button) collected (90)
+Seat 2: heutegewinnwa (small blind) folded before Flop
+Seat 3: valera1991 0303 (big blind) folded on the Turn
+
+
+*********** # 132 **************
+PokerStars Hand #187931313366: Tournament #2339058280, $14.10+$0.90 USD Hold'em No Limit - Level I (10/20) - 2018/06/22 22:07:57 ET
+Table '2339058280 1' 3-max Seat #3 is the button
+Seat 1: sinjak932 (530 in chips) 
+Seat 2: Red_Queen2017 (620 in chips) 
+Seat 3: heutegewinnwa (350 in chips) 
+sinjak932: posts small blind 10
+Red_Queen2017: posts big blind 20
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Ad 3s]
+heutegewinnwa: raises 40 to 60
+sinjak932: raises 470 to 530 and is all-in
+Red_Queen2017: folds 
+heutegewinnwa: calls 290 and is all-in
+Uncalled bet (180) returned to sinjak932
+*** FLOP *** [Th 3h 2c]
+*** TURN *** [Th 3h 2c] [Jh]
+*** RIVER *** [Th 3h 2c Jh] [2s]
+*** SHOW DOWN ***
+sinjak932: shows [5s 5c] (two pair, Fives and Deuces)
+heutegewinnwa: shows [Ad 3s] (two pair, Threes and Deuces)
+sinjak932 collected 720 from pot
+heutegewinnwa finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 720 | Rake 0 
+Board [Th 3h 2c Jh 2s]
+Seat 1: sinjak932 (small blind) showed [5s 5c] and won (720) with two pair, Fives and Deuces
+Seat 2: Red_Queen2017 (big blind) folded before Flop
+Seat 3: heutegewinnwa (button) showed [Ad 3s] and lost with two pair, Threes and Deuces
+
+
+*********** # 133 **************
+PokerStars Hand #187931302613: Tournament #2339058280, $14.10+$0.90 USD Hold'em No Limit - Level I (10/20) - 2018/06/22 22:07:24 ET
+Table '2339058280 1' 3-max Seat #2 is the button
+Seat 1: sinjak932 (350 in chips) 
+Seat 2: Red_Queen2017 (620 in chips) 
+Seat 3: heutegewinnwa (530 in chips) 
+heutegewinnwa: posts small blind 10
+sinjak932: posts big blind 20
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Tc 6c]
+Red_Queen2017: folds 
+heutegewinnwa: raises 60 to 80
+sinjak932: calls 60
+*** FLOP *** [Jd 2h 4d]
+heutegewinnwa: bets 100
+sinjak932: raises 170 to 270 and is all-in
+heutegewinnwa: folds 
+Uncalled bet (170) returned to sinjak932
+sinjak932 collected 360 from pot
+sinjak932: doesn't show hand 
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [Jd 2h 4d]
+Seat 1: sinjak932 (big blind) collected (360)
+Seat 2: Red_Queen2017 (button) folded before Flop (didn't bet)
+Seat 3: heutegewinnwa (small blind) folded on the Flop
+
+
+*********** # 134 **************
+PokerStars Hand #187931295645: Tournament #2339058280, $14.10+$0.90 USD Hold'em No Limit - Level I (10/20) - 2018/06/22 22:07:02 ET
+Table '2339058280 1' 3-max Seat #1 is the button
+Seat 1: sinjak932 (390 in chips) 
+Seat 2: Red_Queen2017 (560 in chips) 
+Seat 3: heutegewinnwa (550 in chips) 
+Red_Queen2017: posts small blind 10
+heutegewinnwa: posts big blind 20
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [7c 3d]
+sinjak932: raises 20 to 40
+Red_Queen2017: raises 520 to 560 and is all-in
+heutegewinnwa: folds 
+sinjak932: folds 
+Uncalled bet (520) returned to Red_Queen2017
+Red_Queen2017 collected 100 from pot
+Red_Queen2017: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: sinjak932 (button) folded before Flop
+Seat 2: Red_Queen2017 (small blind) collected (100)
+Seat 3: heutegewinnwa (big blind) folded before Flop
+
+
+*********** # 135 **************
+PokerStars Hand #187931285791: Tournament #2339058280, $14.10+$0.90 USD Hold'em No Limit - Level I (10/20) - 2018/06/22 22:06:31 ET
+Table '2339058280 1' 3-max Seat #3 is the button
+Seat 1: sinjak932 (450 in chips) 
+Seat 2: Red_Queen2017 (580 in chips) 
+Seat 3: heutegewinnwa (470 in chips) 
+sinjak932: posts small blind 10
+Red_Queen2017: posts big blind 20
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [9s Ts]
+heutegewinnwa: raises 40 to 60
+sinjak932: calls 50
+Red_Queen2017: folds 
+*** FLOP *** [9h Kd Jc]
+sinjak932: checks 
+heutegewinnwa: bets 70
+sinjak932: folds 
+Uncalled bet (70) returned to heutegewinnwa
+heutegewinnwa collected 140 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Board [9h Kd Jc]
+Seat 1: sinjak932 (small blind) folded on the Flop
+Seat 2: Red_Queen2017 (big blind) folded before Flop
+Seat 3: heutegewinnwa (button) collected (140)
+
+
+*********** # 136 **************
+PokerStars Hand #187931271754: Tournament #2339058280, $14.10+$0.90 USD Hold'em No Limit - Level I (10/20) - 2018/06/22 22:05:48 ET
+Table '2339058280 1' 3-max Seat #2 is the button
+Seat 1: sinjak932 (530 in chips) 
+Seat 2: Red_Queen2017 (490 in chips) 
+Seat 3: heutegewinnwa (480 in chips) 
+heutegewinnwa: posts small blind 10
+sinjak932: posts big blind 20
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [4h Jc]
+Red_Queen2017: raises 20 to 40
+heutegewinnwa: folds 
+sinjak932: calls 20
+*** FLOP *** [7s 8s Jd]
+sinjak932: checks 
+Red_Queen2017: checks 
+*** TURN *** [7s 8s Jd] [6h]
+sinjak932: bets 40
+Red_Queen2017: calls 40
+*** RIVER *** [7s 8s Jd 6h] [Jh]
+sinjak932: checks 
+Red_Queen2017: checks 
+*** SHOW DOWN ***
+sinjak932: shows [Qd 3s] (a pair of Jacks)
+Red_Queen2017: shows [7d Td] (two pair, Jacks and Sevens)
+Red_Queen2017 collected 170 from pot
+*** SUMMARY ***
+Total pot 170 | Rake 0 
+Board [7s 8s Jd 6h Jh]
+Seat 1: sinjak932 (big blind) showed [Qd 3s] and lost with a pair of Jacks
+Seat 2: Red_Queen2017 (button) showed [7d Td] and won (170) with two pair, Jacks and Sevens
+Seat 3: heutegewinnwa (small blind) folded before Flop
+
+
+*********** # 137 **************
+PokerStars Hand #187931268075: Tournament #2339058280, $14.10+$0.90 USD Hold'em No Limit - Level I (10/20) - 2018/06/22 22:05:37 ET
+Table '2339058280 1' 3-max Seat #1 is the button
+Seat 1: sinjak932 (500 in chips) 
+Seat 2: Red_Queen2017 (500 in chips) 
+Seat 3: heutegewinnwa (500 in chips) 
+Red_Queen2017: posts small blind 10
+heutegewinnwa: posts big blind 20
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [5h Qd]
+sinjak932: raises 20 to 40
+Red_Queen2017: folds 
+heutegewinnwa: folds 
+Uncalled bet (20) returned to sinjak932
+sinjak932 collected 50 from pot
+sinjak932: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: sinjak932 (button) collected (50)
+Seat 2: Red_Queen2017 (small blind) folded before Flop
+Seat 3: heutegewinnwa (big blind) folded before Flop
+
+
+*********** # 138 **************
+PokerStars Hand #187931240853: Tournament #2339056037, $2.25+$2.25+$0.50 USD Hold'em No Limit - Level II (35/70) - 2018/06/22 22:04:15 ET
+Table '2339056037 4' 6-max Seat #4 is the button
+Seat 1: chipdump88 (910 in chips) 
+Seat 3: #1Sales51 (970 in chips) 
+Seat 4: jamuha17 (2005 in chips) 
+Seat 5: edik281990 (670 in chips) 
+Seat 6: heutegewinnwa (375 in chips) 
+chipdump88: posts the ante 15
+#1Sales51: posts the ante 15
+jamuha17: posts the ante 15
+edik281990: posts the ante 15
+heutegewinnwa: posts the ante 15
+edik281990: posts small blind 35
+heutegewinnwa: posts big blind 70
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Kc 5d]
+chipdump88: folds 
+#1Sales51: calls 70
+jamuha17: calls 70
+edik281990: calls 35
+heutegewinnwa: raises 290 to 360 and is all-in
+#1Sales51: calls 290
+jamuha17: calls 290
+edik281990: calls 290
+*** FLOP *** [5s 9d Qd]
+edik281990: checks 
+#1Sales51: checks 
+jamuha17: bets 140
+edik281990: calls 140
+#1Sales51: calls 140
+*** TURN *** [5s 9d Qd] [7c]
+edik281990: bets 155 and is all-in
+#1Sales51: calls 155
+jamuha17: raises 1335 to 1490 and is all-in
+#1Sales51: calls 300 and is all-in
+Uncalled bet (1035) returned to jamuha17
+*** RIVER *** [5s 9d Qd 7c] [Jc]
+*** SHOW DOWN ***
+#1Sales51: shows [Ts Js] (a pair of Jacks)
+jamuha17: shows [9s Qh] (two pair, Queens and Nines)
+jamuha17 collected 600 from side pot-2 
+edik281990: shows [7d 4h] (a pair of Sevens)
+jamuha17 collected 885 from side pot-1 
+heutegewinnwa: shows [Kc 5d] (a pair of Fives)
+jamuha17 collected 1515 from main pot
+jamuha17 wins the $2.25 bounty for eliminating #1Sales51
+jamuha17 wins the $2.25 bounty for eliminating edik281990
+jamuha17 wins the $2.25 bounty for eliminating heutegewinnwa
+#1Sales51 finished the tournament in 11th place
+edik281990 finished the tournament in 12th place
+heutegewinnwa finished the tournament in 13th place
+*** SUMMARY ***
+Total pot 3000 Main pot 1515. Side pot-1 885. Side pot-2 600. | Rake 0 
+Board [5s 9d Qd 7c Jc]
+Seat 1: chipdump88 folded before Flop (didn't bet)
+Seat 3: #1Sales51 showed [Ts Js] and lost with a pair of Jacks
+Seat 4: jamuha17 (button) showed [9s Qh] and won (3000) with two pair, Queens and Nines
+Seat 5: edik281990 (small blind) showed [7d 4h] and lost with a pair of Sevens
+Seat 6: heutegewinnwa (big blind) showed [Kc 5d] and lost with a pair of Fives
+
+
+*********** # 139 **************
+PokerStars Hand #187931233329: Tournament #2339056037, $2.25+$2.25+$0.50 USD Hold'em No Limit - Level II (35/70) - 2018/06/22 22:03:52 ET
+Table '2339056037 4' 6-max Seat #3 is the button
+Seat 1: chipdump88 (415 in chips) 
+Seat 3: #1Sales51 (985 in chips) 
+Seat 4: jamuha17 (2055 in chips) 
+Seat 5: edik281990 (1085 in chips) 
+Seat 6: heutegewinnwa (390 in chips) 
+chipdump88: posts the ante 15
+#1Sales51: posts the ante 15
+jamuha17: posts the ante 15
+edik281990: posts the ante 15
+heutegewinnwa: posts the ante 15
+jamuha17: posts small blind 35
+edik281990: posts big blind 70
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [5c Ts]
+heutegewinnwa: folds 
+chipdump88: raises 330 to 400 and is all-in
+#1Sales51: folds 
+jamuha17: folds 
+edik281990: calls 330
+*** FLOP *** [Qh Ks Qs]
+*** TURN *** [Qh Ks Qs] [Kh]
+*** RIVER *** [Qh Ks Qs Kh] [4c]
+*** SHOW DOWN ***
+edik281990: shows [Ac 7d] (two pair, Kings and Queens)
+chipdump88: shows [8d Qc] (a full house, Queens full of Kings)
+chipdump88 collected 910 from pot
+*** SUMMARY ***
+Total pot 910 | Rake 0 
+Board [Qh Ks Qs Kh 4c]
+Seat 1: chipdump88 showed [8d Qc] and won (910) with a full house, Queens full of Kings
+Seat 3: #1Sales51 (button) folded before Flop (didn't bet)
+Seat 4: jamuha17 (small blind) folded before Flop
+Seat 5: edik281990 (big blind) showed [Ac 7d] and lost with two pair, Kings and Queens
+Seat 6: heutegewinnwa folded before Flop (didn't bet)
+
+
+*********** # 140 **************
+PokerStars Hand #187931221206: Tournament #2339056037, $2.25+$2.25+$0.50 USD Hold'em No Limit - Level II (35/70) - 2018/06/22 22:03:15 ET
+Table '2339056037 4' 6-max Seat #2 is the button
+Seat 1: chipdump88 (430 in chips) 
+Seat 2: RAZI BIGAN (155 in chips) 
+Seat 3: #1Sales51 (1035 in chips) 
+Seat 4: jamuha17 (910 in chips) 
+Seat 5: edik281990 (1995 in chips) 
+Seat 6: heutegewinnwa (405 in chips) 
+chipdump88: posts the ante 15
+RAZI BIGAN: posts the ante 15
+#1Sales51: posts the ante 15
+jamuha17: posts the ante 15
+edik281990: posts the ante 15
+heutegewinnwa: posts the ante 15
+#1Sales51: posts small blind 35
+jamuha17: posts big blind 70
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [3h 8d]
+edik281990: calls 70
+heutegewinnwa: folds 
+chipdump88: folds 
+RAZI BIGAN: raises 70 to 140 and is all-in
+#1Sales51: folds 
+jamuha17: calls 70
+edik281990: calls 70
+*** FLOP *** [2d 2h 7c]
+jamuha17: checks 
+edik281990: bets 273
+jamuha17: calls 273
+*** TURN *** [2d 2h 7c] [Ts]
+jamuha17: checks 
+edik281990: bets 1567 and is all-in
+jamuha17: calls 482 and is all-in
+Uncalled bet (1085) returned to edik281990
+*** RIVER *** [2d 2h 7c Ts] [Ah]
+*** SHOW DOWN ***
+jamuha17: shows [2c 7d] (a full house, Deuces full of Sevens)
+edik281990: shows [Td Js] (two pair, Tens and Deuces)
+jamuha17 collected 1510 from side pot
+RAZI BIGAN: shows [5d As] (two pair, Aces and Deuces)
+jamuha17 collected 545 from main pot
+jamuha17 wins the $2.25 bounty for eliminating RAZI BIGAN
+RAZI BIGAN finished the tournament in 16th place
+*** SUMMARY ***
+Total pot 2055 Main pot 545. Side pot 1510. | Rake 0 
+Board [2d 2h 7c Ts Ah]
+Seat 1: chipdump88 folded before Flop (didn't bet)
+Seat 2: RAZI BIGAN (button) showed [5d As] and lost with two pair, Aces and Deuces
+Seat 3: #1Sales51 (small blind) folded before Flop
+Seat 4: jamuha17 (big blind) showed [2c 7d] and won (2055) with a full house, Deuces full of Sevens
+Seat 5: edik281990 showed [Td Js] and lost with two pair, Tens and Deuces
+Seat 6: heutegewinnwa folded before Flop (didn't bet)
+
+
+*********** # 141 **************
+PokerStars Hand #187931211617: Tournament #2339056037, $2.25+$2.25+$0.50 USD Hold'em No Limit - Level I (25/50) - 2018/06/22 22:02:47 ET
+Table '2339056037 4' 6-max Seat #5 is the button
+Seat 1: chipdump88 (430 in chips) out of hand (moved from another table into small blind)
+Seat 2: RAZI BIGAN (575 in chips) 
+Seat 3: #1Sales51 (1095 in chips) 
+Seat 4: jamuha17 (420 in chips) 
+Seat 5: edik281990 (2005 in chips) 
+Seat 6: heutegewinnwa (405 in chips) out of hand (moved from another table into small blind)
+heutegewinnwa will be allowed to play after the button
+chipdump88 will be allowed to play after the button
+RAZI BIGAN: posts the ante 10
+#1Sales51: posts the ante 10
+jamuha17: posts the ante 10
+edik281990: posts the ante 10
+RAZI BIGAN: posts small blind 25
+#1Sales51: posts big blind 50
+*** HOLE CARDS ***
+jamuha17: raises 360 to 410 and is all-in
+edik281990: folds 
+RAZI BIGAN: raises 155 to 565 and is all-in
+#1Sales51: folds 
+Uncalled bet (155) returned to RAZI BIGAN
+*** FLOP *** [Ah 6h 4c]
+*** TURN *** [Ah 6h 4c] [3c]
+*** RIVER *** [Ah 6h 4c 3c] [Ac]
+*** SHOW DOWN ***
+RAZI BIGAN: shows [9h Kh] (a pair of Aces)
+jamuha17: shows [Kd Qh] (a pair of Aces - King+Queen kicker)
+jamuha17 collected 910 from pot
+*** SUMMARY ***
+Total pot 910 | Rake 0 
+Board [Ah 6h 4c 3c Ac]
+Seat 2: RAZI BIGAN (small blind) showed [9h Kh] and lost with a pair of Aces
+Seat 3: #1Sales51 (big blind) folded before Flop
+Seat 4: jamuha17 showed [Kd Qh] and won (910) with a pair of Aces
+Seat 5: edik281990 (button) folded before Flop (didn't bet)
+
+
+*********** # 142 **************
+PokerStars Hand #187931191519: Tournament #2339056037, $2.25+$2.25+$0.50 USD Hold'em No Limit - Level I (25/50) - 2018/06/22 22:01:45 ET
+Table '2339056037 1' 6-max Seat #2 is the button
+Seat 1: arianooo2014 (490 in chips) 
+Seat 2: flux1969 (600 in chips) 
+Seat 3: heutegewinnwa (440 in chips) 
+Seat 4: chipdump88 (490 in chips) 
+Seat 5: Fog99 (490 in chips) 
+Seat 6: #1Sales51 (490 in chips) 
+arianooo2014: posts the ante 10
+flux1969: posts the ante 10
+heutegewinnwa: posts the ante 10
+chipdump88: posts the ante 10
+Fog99: posts the ante 10
+#1Sales51: posts the ante 10
+heutegewinnwa: posts small blind 25
+chipdump88: posts big blind 50
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Ts 7h]
+Fog99: folds 
+#1Sales51: raises 430 to 480 and is all-in
+arianooo2014: calls 480 and is all-in
+flux1969: folds 
+heutegewinnwa: folds 
+chipdump88: folds 
+*** FLOP *** [4c 8c 5c]
+*** TURN *** [4c 8c 5c] [As]
+*** RIVER *** [4c 8c 5c As] [5h]
+*** SHOW DOWN ***
+#1Sales51: shows [6c 6d] (two pair, Sixes and Fives)
+arianooo2014: shows [Ks 2s] (a pair of Fives)
+#1Sales51 collected 1095 from pot
+#1Sales51 wins the $2.25 bounty for eliminating arianooo2014
+arianooo2014 finished the tournament in 19th place
+*** SUMMARY ***
+Total pot 1095 | Rake 0 
+Board [4c 8c 5c As 5h]
+Seat 1: arianooo2014 showed [Ks 2s] and lost with a pair of Fives
+Seat 2: flux1969 (button) folded before Flop (didn't bet)
+Seat 3: heutegewinnwa (small blind) folded before Flop
+Seat 4: chipdump88 (big blind) folded before Flop
+Seat 5: Fog99 folded before Flop (didn't bet)
+Seat 6: #1Sales51 showed [6c 6d] and won (1095) with two pair, Sixes and Fives
+
+
+*********** # 143 **************
+PokerStars Hand #187931180357: Tournament #2339056037, $2.25+$2.25+$0.50 USD Hold'em No Limit - Level I (25/50) - 2018/06/22 22:01:11 ET
+Table '2339056037 1' 6-max Seat #1 is the button
+Seat 1: arianooo2014 (500 in chips) 
+Seat 2: flux1969 (500 in chips) 
+Seat 3: heutegewinnwa (500 in chips) 
+Seat 4: chipdump88 (500 in chips) 
+Seat 5: Fog99 (500 in chips) 
+Seat 6: #1Sales51 (500 in chips) 
+arianooo2014: posts the ante 10
+flux1969: posts the ante 10
+heutegewinnwa: posts the ante 10
+chipdump88: posts the ante 10
+Fog99: posts the ante 10
+#1Sales51: posts the ante 10
+flux1969: posts small blind 25
+heutegewinnwa: posts big blind 50
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [4h 2s]
+chipdump88: folds 
+Fog99: folds 
+#1Sales51: folds 
+arianooo2014: folds 
+flux1969: raises 440 to 490 and is all-in
+heutegewinnwa: folds 
+Uncalled bet (440) returned to flux1969
+flux1969 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 1: arianooo2014 (button) folded before Flop (didn't bet)
+Seat 2: flux1969 (small blind) collected (160)
+Seat 3: heutegewinnwa (big blind) folded before Flop
+Seat 4: chipdump88 folded before Flop (didn't bet)
+Seat 5: Fog99 folded before Flop (didn't bet)
+Seat 6: #1Sales51 folded before Flop (didn't bet)
+
+
+*********** # 144 **************
+PokerStars Hand #187931157284: Tournament #2339052859, $2.25+$2.25+$0.50 USD Hold'em No Limit - Level III (50/100) - 2018/06/22 21:59:55 ET
+Table '2339052859 2' 6-max Seat #4 is the button
+Seat 1: surv2507 (1145 in chips) 
+Seat 2: iris00977 (435 in chips) 
+Seat 3: treksus (985 in chips) 
+Seat 4: heutegewinnwa (290 in chips) 
+Seat 5: DaviXiArrr (2295 in chips) 
+Seat 6: romantomek87 (900 in chips) 
+surv2507: posts the ante 20
+iris00977: posts the ante 20
+treksus: posts the ante 20
+heutegewinnwa: posts the ante 20
+DaviXiArrr: posts the ante 20
+romantomek87: posts the ante 20
+DaviXiArrr: posts small blind 50
+romantomek87: posts big blind 100
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [2h Ad]
+surv2507: folds 
+iris00977: folds 
+treksus: calls 100
+heutegewinnwa: raises 170 to 270 and is all-in
+DaviXiArrr: raises 2005 to 2275 and is all-in
+romantomek87: folds 
+treksus: calls 865 and is all-in
+Uncalled bet (1310) returned to DaviXiArrr
+*** FLOP *** [Th 6c Ts]
+*** TURN *** [Th 6c Ts] [7d]
+*** RIVER *** [Th 6c Ts 7d] [5s]
+*** SHOW DOWN ***
+DaviXiArrr: shows [Tc As] (three of a kind, Tens)
+treksus: shows [Qd 9s] (a pair of Tens)
+DaviXiArrr collected 1390 from side pot
+heutegewinnwa: shows [2h Ad] (a pair of Tens)
+DaviXiArrr collected 1030 from main pot
+DaviXiArrr wins the $2.25 bounty for eliminating treksus
+DaviXiArrr wins the $2.25 bounty for eliminating heutegewinnwa
+treksus finished the tournament in 9th place
+heutegewinnwa finished the tournament in 10th place
+*** SUMMARY ***
+Total pot 2420 Main pot 1030. Side pot 1390. | Rake 0 
+Board [Th 6c Ts 7d 5s]
+Seat 1: surv2507 folded before Flop (didn't bet)
+Seat 2: iris00977 folded before Flop (didn't bet)
+Seat 3: treksus showed [Qd 9s] and lost with a pair of Tens
+Seat 4: heutegewinnwa (button) showed [2h Ad] and lost with a pair of Tens
+Seat 5: DaviXiArrr (small blind) showed [Tc As] and won (2420) with three of a kind, Tens
+Seat 6: romantomek87 (big blind) folded before Flop
+
+
+*********** # 145 **************
+PokerStars Hand #187931143212: Tournament #2339052859, $2.25+$2.25+$0.50 USD Hold'em No Limit - Level II (35/70) - 2018/06/22 21:59:06 ET
+Table '2339052859 2' 6-max Seat #2 is the button
+Seat 1: surv2507 (515 in chips) 
+Seat 2: iris00977 (450 in chips) 
+Seat 3: treksus (985 in chips) out of hand (moved from another table into small blind)
+Seat 4: heutegewinnwa (805 in chips) 
+Seat 5: DaviXiArrr (2380 in chips) 
+Seat 6: romantomek87 (915 in chips) 
+treksus will be allowed to play after the button
+surv2507: posts the ante 15
+iris00977: posts the ante 15
+heutegewinnwa: posts the ante 15
+DaviXiArrr: posts the ante 15
+romantomek87: posts the ante 15
+heutegewinnwa: posts small blind 35
+DaviXiArrr: posts big blind 70
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [4h Ah]
+romantomek87: folds 
+surv2507 is disconnected 
+surv2507 is connected 
+surv2507: raises 430 to 500 and is all-in
+iris00977: folds 
+heutegewinnwa: calls 465
+DaviXiArrr: folds 
+*** FLOP *** [3d Kh 2h]
+*** TURN *** [3d Kh 2h] [Ad]
+*** RIVER *** [3d Kh 2h Ad] [7d]
+*** SHOW DOWN ***
+heutegewinnwa: shows [4h Ah] (a pair of Aces)
+surv2507: shows [2s 2d] (three of a kind, Deuces)
+surv2507 collected 1145 from pot
+*** SUMMARY ***
+Total pot 1145 | Rake 0 
+Board [3d Kh 2h Ad 7d]
+Seat 1: surv2507 showed [2s 2d] and won (1145) with three of a kind, Deuces
+Seat 2: iris00977 (button) folded before Flop (didn't bet)
+Seat 4: heutegewinnwa (small blind) showed [4h Ah] and lost with a pair of Aces
+Seat 5: DaviXiArrr (big blind) folded before Flop
+Seat 6: romantomek87 folded before Flop (didn't bet)
+
+
+*********** # 146 **************
+PokerStars Hand #187931136151: Tournament #2339052859, $2.25+$2.25+$0.50 USD Hold'em No Limit - Level II (35/70) - 2018/06/22 21:58:42 ET
+Table '2339052859 2' 6-max Seat #1 is the button
+Seat 1: surv2507 (530 in chips) 
+Seat 2: iris00977 (500 in chips) 
+Seat 4: heutegewinnwa (890 in chips) 
+Seat 5: DaviXiArrr (2395 in chips) 
+Seat 6: romantomek87 (750 in chips) 
+surv2507: posts the ante 15
+iris00977: posts the ante 15
+heutegewinnwa: posts the ante 15
+DaviXiArrr: posts the ante 15
+romantomek87: posts the ante 15
+iris00977: posts small blind 35
+heutegewinnwa: posts big blind 70
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Jh 5h]
+DaviXiArrr: folds 
+romantomek87: raises 665 to 735 and is all-in
+surv2507: folds 
+iris00977: folds 
+heutegewinnwa: folds 
+Uncalled bet (665) returned to romantomek87
+romantomek87 collected 250 from pot
+romantomek87: doesn't show hand 
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Seat 1: surv2507 (button) folded before Flop (didn't bet)
+Seat 2: iris00977 (small blind) folded before Flop
+Seat 4: heutegewinnwa (big blind) folded before Flop
+Seat 5: DaviXiArrr folded before Flop (didn't bet)
+Seat 6: romantomek87 collected (250)
+
+
+*********** # 147 **************
+PokerStars Hand #187931127057: Tournament #2339052859, $2.25+$2.25+$0.50 USD Hold'em No Limit - Level II (35/70) - 2018/06/22 21:58:10 ET
+Table '2339052859 2' 6-max Seat #6 is the button
+Seat 1: surv2507 (580 in chips) 
+Seat 2: iris00977 (405 in chips) 
+Seat 4: heutegewinnwa (905 in chips) 
+Seat 5: DaviXiArrr (2410 in chips) 
+Seat 6: romantomek87 (765 in chips) 
+surv2507: posts the ante 15
+iris00977: posts the ante 15
+heutegewinnwa: posts the ante 15
+DaviXiArrr: posts the ante 15
+romantomek87: posts the ante 15
+surv2507: posts small blind 35
+iris00977: posts big blind 70
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Tc 8s]
+heutegewinnwa: folds 
+DaviXiArrr: folds 
+romantomek87: folds 
+surv2507: folds 
+Uncalled bet (35) returned to iris00977
+iris00977 collected 145 from pot
+iris00977: doesn't show hand 
+*** SUMMARY ***
+Total pot 145 | Rake 0 
+Seat 1: surv2507 (small blind) folded before Flop
+Seat 2: iris00977 (big blind) collected (145)
+Seat 4: heutegewinnwa folded before Flop (didn't bet)
+Seat 5: DaviXiArrr folded before Flop (didn't bet)
+Seat 6: romantomek87 (button) folded before Flop (didn't bet)
+
+
+*********** # 148 **************
+PokerStars Hand #187931116474: Tournament #2339052859, $2.25+$2.25+$0.50 USD Hold'em No Limit - Level II (35/70) - 2018/06/22 21:57:33 ET
+Table '2339052859 2' 6-max Seat #5 is the button
+Seat 1: surv2507 (665 in chips) 
+Seat 2: iris00977 (420 in chips) 
+Seat 4: heutegewinnwa (920 in chips) 
+Seat 5: DaviXiArrr (2425 in chips) 
+Seat 6: romantomek87 (635 in chips) 
+surv2507: posts the ante 15
+iris00977: posts the ante 15
+heutegewinnwa: posts the ante 15
+DaviXiArrr: posts the ante 15
+romantomek87: posts the ante 15
+romantomek87: posts small blind 35
+surv2507: posts big blind 70
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [6c 5c]
+iris00977: folds 
+heutegewinnwa: folds 
+DaviXiArrr: folds 
+romantomek87: raises 550 to 620 and is all-in
+surv2507: folds 
+Uncalled bet (550) returned to romantomek87
+romantomek87 collected 215 from pot
+romantomek87: doesn't show hand 
+*** SUMMARY ***
+Total pot 215 | Rake 0 
+Seat 1: surv2507 (big blind) folded before Flop
+Seat 2: iris00977 folded before Flop (didn't bet)
+Seat 4: heutegewinnwa folded before Flop (didn't bet)
+Seat 5: DaviXiArrr (button) folded before Flop (didn't bet)
+Seat 6: romantomek87 (small blind) collected (215)
+
+
+*********** # 149 **************
+PokerStars Hand #187931103526: Tournament #2339052859, $2.25+$2.25+$0.50 USD Hold'em No Limit - Level I (25/50) - 2018/06/22 21:56:49 ET
+Table '2339052859 2' 6-max Seat #4 is the button
+Seat 1: surv2507 (675 in chips) 
+Seat 2: iris00977 (430 in chips) 
+Seat 3: Yoni1810 (395 in chips) 
+Seat 4: heutegewinnwa (930 in chips) 
+Seat 5: DaviXiArrr (1000 in chips) 
+Seat 6: romantomek87 (1635 in chips) 
+surv2507: posts the ante 10
+iris00977: posts the ante 10
+Yoni1810: posts the ante 10
+heutegewinnwa: posts the ante 10
+DaviXiArrr: posts the ante 10
+romantomek87: posts the ante 10
+DaviXiArrr: posts small blind 25
+romantomek87: posts big blind 50
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [6c 4h]
+surv2507: folds 
+iris00977: folds 
+Yoni1810: raises 335 to 385 and is all-in
+heutegewinnwa: folds 
+DaviXiArrr: raises 605 to 990 and is all-in
+romantomek87: calls 940
+*** FLOP *** [7h 2c 4s]
+*** TURN *** [7h 2c 4s] [3d]
+*** RIVER *** [7h 2c 4s 3d] [8h]
+*** SHOW DOWN ***
+DaviXiArrr: shows [Jc Jh] (a pair of Jacks)
+romantomek87: shows [Qs Kh] (high card King)
+DaviXiArrr collected 1210 from side pot
+Yoni1810: shows [9h Ac] (high card Ace)
+DaviXiArrr collected 1215 from main pot
+DaviXiArrr wins the $2.25 bounty for eliminating Yoni1810
+Yoni1810 finished the tournament in 15th place
+*** SUMMARY ***
+Total pot 2425 Main pot 1215. Side pot 1210. | Rake 0 
+Board [7h 2c 4s 3d 8h]
+Seat 1: surv2507 folded before Flop (didn't bet)
+Seat 2: iris00977 folded before Flop (didn't bet)
+Seat 3: Yoni1810 showed [9h Ac] and lost with high card Ace
+Seat 4: heutegewinnwa (button) folded before Flop (didn't bet)
+Seat 5: DaviXiArrr (small blind) showed [Jc Jh] and won (2425) with a pair of Jacks
+Seat 6: romantomek87 (big blind) showed [Qs Kh] and lost with high card King
+
+
+*********** # 150 **************
+PokerStars Hand #187931092766: Tournament #2339052859, $2.25+$2.25+$0.50 USD Hold'em No Limit - Level I (25/50) - 2018/06/22 21:56:11 ET
+Table '2339052859 2' 6-max Seat #3 is the button
+Seat 1: surv2507 (1105 in chips) 
+Seat 3: Yoni1810 (405 in chips) 
+Seat 4: heutegewinnwa (430 in chips) 
+Seat 5: DaviXiArrr (1060 in chips) 
+surv2507: posts the ante 10
+Yoni1810: posts the ante 10
+heutegewinnwa: posts the ante 10
+DaviXiArrr: posts the ante 10
+heutegewinnwa: posts small blind 25
+DaviXiArrr: posts big blind 50
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Ah Ks]
+surv2507: calls 50
+Yoni1810: folds 
+heutegewinnwa: raises 370 to 420 and is all-in
+DaviXiArrr: folds 
+surv2507: calls 370
+*** FLOP *** [Qc Kh 5h]
+*** TURN *** [Qc Kh 5h] [8h]
+*** RIVER *** [Qc Kh 5h 8h] [6c]
+*** SHOW DOWN ***
+heutegewinnwa: shows [Ah Ks] (a pair of Kings)
+surv2507: shows [Ac 5c] (a pair of Fives)
+heutegewinnwa collected 930 from pot
+*** SUMMARY ***
+Total pot 930 | Rake 0 
+Board [Qc Kh 5h 8h 6c]
+Seat 1: surv2507 showed [Ac 5c] and lost with a pair of Fives
+Seat 3: Yoni1810 (button) folded before Flop (didn't bet)
+Seat 4: heutegewinnwa (small blind) showed [Ah Ks] and won (930) with a pair of Kings
+Seat 5: DaviXiArrr (big blind) folded before Flop
+
+
+*********** # 151 **************
+PokerStars Hand #187931085103: Tournament #2339052859, $2.25+$2.25+$0.50 USD Hold'em No Limit - Level I (25/50) - 2018/06/22 21:55:44 ET
+Table '2339052859 2' 6-max Seat #2 is the button
+Seat 1: surv2507 (1115 in chips) 
+Seat 2: Amaraa.sh88 (465 in chips) 
+Seat 3: Yoni1810 (440 in chips) 
+Seat 4: heutegewinnwa (490 in chips) 
+Seat 5: DaviXiArrr (490 in chips) 
+surv2507: posts the ante 10
+Amaraa.sh88: posts the ante 10
+Yoni1810: posts the ante 10
+heutegewinnwa: posts the ante 10
+DaviXiArrr: posts the ante 10
+Yoni1810: posts small blind 25
+heutegewinnwa: posts big blind 50
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [8c Ad]
+DaviXiArrr: raises 430 to 480 and is all-in
+surv2507: folds 
+Amaraa.sh88: calls 455 and is all-in
+Yoni1810: folds 
+heutegewinnwa: folds 
+Uncalled bet (25) returned to DaviXiArrr
+*** FLOP *** [3d Jc 5h]
+*** TURN *** [3d Jc 5h] [Th]
+*** RIVER *** [3d Jc 5h Th] [7c]
+*** SHOW DOWN ***
+DaviXiArrr: shows [Kh Kc] (a pair of Kings)
+Amaraa.sh88: shows [8h As] (high card Ace)
+DaviXiArrr collected 1035 from pot
+DaviXiArrr wins the $2.25 bounty for eliminating Amaraa.sh88
+Amaraa.sh88 finished the tournament in 20th place
+*** SUMMARY ***
+Total pot 1035 | Rake 0 
+Board [3d Jc 5h Th 7c]
+Seat 1: surv2507 folded before Flop (didn't bet)
+Seat 2: Amaraa.sh88 (button) showed [8h As] and lost with high card Ace
+Seat 3: Yoni1810 (small blind) folded before Flop
+Seat 4: heutegewinnwa (big blind) folded before Flop
+Seat 5: DaviXiArrr showed [Kh Kc] and won (1035) with a pair of Kings
+
+
+*********** # 152 **************
+PokerStars Hand #187931077682: Tournament #2339052859, $2.25+$2.25+$0.50 USD Hold'em No Limit - Level I (25/50) - 2018/06/22 21:55:18 ET
+Table '2339052859 2' 6-max Seat #1 is the button
+Seat 1: surv2507 (500 in chips) 
+Seat 2: Amaraa.sh88 (500 in chips) 
+Seat 3: Yoni1810 (500 in chips) 
+Seat 4: heutegewinnwa (500 in chips) 
+Seat 5: DaviXiArrr (500 in chips) 
+Seat 6: tamazight2018 (500 in chips) 
+surv2507: posts the ante 10
+Amaraa.sh88: posts the ante 10
+Yoni1810: posts the ante 10
+heutegewinnwa: posts the ante 10
+DaviXiArrr: posts the ante 10
+tamazight2018: posts the ante 10
+Amaraa.sh88: posts small blind 25
+Yoni1810: posts big blind 50
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [3c 5h]
+heutegewinnwa: folds 
+DaviXiArrr: folds 
+tamazight2018: raises 440 to 490 and is all-in
+surv2507: calls 490 and is all-in
+Amaraa.sh88: folds 
+Yoni1810: folds 
+*** FLOP *** [7d 2d 9c]
+*** TURN *** [7d 2d 9c] [3s]
+*** RIVER *** [7d 2d 9c 3s] [6s]
+*** SHOW DOWN ***
+tamazight2018: shows [2h As] (a pair of Deuces)
+surv2507: shows [Ks Kc] (a pair of Kings)
+surv2507 collected 1115 from pot
+surv2507 wins the $2.25 bounty for eliminating tamazight2018
+tamazight2018 finished the tournament in 24th place
+*** SUMMARY ***
+Total pot 1115 | Rake 0 
+Board [7d 2d 9c 3s 6s]
+Seat 1: surv2507 (button) showed [Ks Kc] and won (1115) with a pair of Kings
+Seat 2: Amaraa.sh88 (small blind) folded before Flop
+Seat 3: Yoni1810 (big blind) folded before Flop
+Seat 4: heutegewinnwa folded before Flop (didn't bet)
+Seat 5: DaviXiArrr folded before Flop (didn't bet)
+Seat 6: tamazight2018 showed [2h As] and lost with a pair of Deuces
+
+
+*********** # 153 **************
+PokerStars Hand #187931041687: Tournament #2339050034, $4.60+$0.40 USD Hold'em No Limit - Level III (20/40) - 2018/06/22 21:53:28 ET
+Table '2339050034 1' 3-max Seat #2 is the button
+Seat 2: heutegewinnwa (1210 in chips) 
+Seat 3: ivan7422 (290 in chips) 
+heutegewinnwa: posts small blind 20
+ivan7422: posts big blind 40
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Kd Tc]
+heutegewinnwa: raises 80 to 120
+ivan7422: raises 170 to 290 and is all-in
+heutegewinnwa: calls 170
+*** FLOP *** [3d 8s Th]
+*** TURN *** [3d 8s Th] [5h]
+*** RIVER *** [3d 8s Th 5h] [Ks]
+*** SHOW DOWN ***
+ivan7422: shows [6h Ah] (high card Ace)
+heutegewinnwa: shows [Kd Tc] (two pair, Kings and Tens)
+heutegewinnwa collected 580 from pot
+ivan7422 finished the tournament in 2nd place
+heutegewinnwa wins the tournament and receives $30.00 - congratulations!
+*** SUMMARY ***
+Total pot 580 | Rake 0 
+Board [3d 8s Th 5h Ks]
+Seat 2: heutegewinnwa (button) (small blind) showed [Kd Tc] and won (580) with two pair, Kings and Tens
+Seat 3: ivan7422 (big blind) showed [6h Ah] and lost with high card Ace
+
+
+*********** # 154 **************
+PokerStars Hand #187931040406: Tournament #2339050034, $4.60+$0.40 USD Hold'em No Limit - Level III (20/40) - 2018/06/22 21:53:25 ET
+Table '2339050034 1' 3-max Seat #3 is the button
+Seat 2: heutegewinnwa (1190 in chips) 
+Seat 3: ivan7422 (310 in chips) 
+ivan7422: posts small blind 20
+heutegewinnwa: posts big blind 40
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [4c 9h]
+ivan7422: folds 
+Uncalled bet (20) returned to heutegewinnwa
+heutegewinnwa collected 40 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: heutegewinnwa (big blind) collected (40)
+Seat 3: ivan7422 (button) (small blind) folded before Flop
+
+
+*********** # 155 **************
+PokerStars Hand #187931035640: Tournament #2339050034, $4.60+$0.40 USD Hold'em No Limit - Level III (20/40) - 2018/06/22 21:53:11 ET
+Table '2339050034 1' 3-max Seat #2 is the button
+Seat 2: heutegewinnwa (1150 in chips) 
+Seat 3: ivan7422 (350 in chips) 
+heutegewinnwa: posts small blind 20
+ivan7422: posts big blind 40
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [9s 7h]
+heutegewinnwa: raises 40 to 80
+ivan7422: folds 
+Uncalled bet (40) returned to heutegewinnwa
+heutegewinnwa collected 80 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: heutegewinnwa (button) (small blind) collected (80)
+Seat 3: ivan7422 (big blind) folded before Flop
+
+
+*********** # 156 **************
+PokerStars Hand #187931032029: Tournament #2339050034, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/06/22 21:52:59 ET
+Table '2339050034 1' 3-max Seat #3 is the button
+Seat 2: heutegewinnwa (1180 in chips) 
+Seat 3: ivan7422 (320 in chips) 
+ivan7422: posts small blind 15
+heutegewinnwa: posts big blind 30
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [7c Jh]
+ivan7422: raises 290 to 320 and is all-in
+heutegewinnwa: folds 
+Uncalled bet (290) returned to ivan7422
+ivan7422 collected 60 from pot
+ivan7422: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: heutegewinnwa (big blind) folded before Flop
+Seat 3: ivan7422 (button) (small blind) collected (60)
+
+
+*********** # 157 **************
+PokerStars Hand #187931030182: Tournament #2339050034, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/06/22 21:52:54 ET
+Table '2339050034 1' 3-max Seat #2 is the button
+Seat 2: heutegewinnwa (1195 in chips) 
+Seat 3: ivan7422 (305 in chips) 
+heutegewinnwa: posts small blind 15
+ivan7422: posts big blind 30
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [5c Jd]
+heutegewinnwa: folds 
+Uncalled bet (15) returned to ivan7422
+ivan7422 collected 30 from pot
+ivan7422: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: heutegewinnwa (button) (small blind) folded before Flop
+Seat 3: ivan7422 (big blind) collected (30)
+
+
+*********** # 158 **************
+PokerStars Hand #187931027743: Tournament #2339050034, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/06/22 21:52:47 ET
+Table '2339050034 1' 3-max Seat #3 is the button
+Seat 2: heutegewinnwa (1165 in chips) 
+Seat 3: ivan7422 (335 in chips) 
+ivan7422: posts small blind 15
+heutegewinnwa: posts big blind 30
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Js Th]
+ivan7422: calls 15
+heutegewinnwa: raises 60 to 90
+ivan7422: folds 
+Uncalled bet (60) returned to heutegewinnwa
+heutegewinnwa collected 60 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: heutegewinnwa (big blind) collected (60)
+Seat 3: ivan7422 (button) (small blind) folded before Flop
+
+
+*********** # 159 **************
+PokerStars Hand #187931025889: Tournament #2339050034, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/06/22 21:52:41 ET
+Table '2339050034 1' 3-max Seat #2 is the button
+Seat 2: heutegewinnwa (1180 in chips) 
+Seat 3: ivan7422 (320 in chips) 
+heutegewinnwa: posts small blind 15
+ivan7422: posts big blind 30
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [5h 4h]
+heutegewinnwa: folds 
+Uncalled bet (15) returned to ivan7422
+ivan7422 collected 30 from pot
+ivan7422: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: heutegewinnwa (button) (small blind) folded before Flop
+Seat 3: ivan7422 (big blind) collected (30)
+
+
+*********** # 160 **************
+PokerStars Hand #187931020660: Tournament #2339050034, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/06/22 21:52:25 ET
+Table '2339050034 1' 3-max Seat #3 is the button
+Seat 2: heutegewinnwa (1150 in chips) 
+Seat 3: ivan7422 (350 in chips) 
+ivan7422: posts small blind 15
+heutegewinnwa: posts big blind 30
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [6h Jh]
+ivan7422: calls 15
+heutegewinnwa: checks 
+*** FLOP *** [9h 8h 7d]
+heutegewinnwa: bets 90
+ivan7422: folds 
+Uncalled bet (90) returned to heutegewinnwa
+heutegewinnwa collected 60 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [9h 8h 7d]
+Seat 2: heutegewinnwa (big blind) collected (60)
+Seat 3: ivan7422 (button) (small blind) folded on the Flop
+
+
+*********** # 161 **************
+PokerStars Hand #187931019070: Tournament #2339050034, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/06/22 21:52:21 ET
+Table '2339050034 1' 3-max Seat #2 is the button
+Seat 2: heutegewinnwa (1165 in chips) 
+Seat 3: ivan7422 (335 in chips) 
+heutegewinnwa: posts small blind 15
+ivan7422: posts big blind 30
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [7h 9d]
+heutegewinnwa: folds 
+Uncalled bet (15) returned to ivan7422
+ivan7422 collected 30 from pot
+ivan7422: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: heutegewinnwa (button) (small blind) folded before Flop
+Seat 3: ivan7422 (big blind) collected (30)
+
+
+*********** # 162 **************
+PokerStars Hand #187931017830: Tournament #2339050034, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/06/22 21:52:17 ET
+Table '2339050034 1' 3-max Seat #3 is the button
+Seat 2: heutegewinnwa (1150 in chips) 
+Seat 3: ivan7422 (350 in chips) 
+ivan7422: posts small blind 15
+heutegewinnwa: posts big blind 30
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [4d Qh]
+ivan7422: folds 
+Uncalled bet (15) returned to heutegewinnwa
+heutegewinnwa collected 30 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: heutegewinnwa (big blind) collected (30)
+Seat 3: ivan7422 (button) (small blind) folded before Flop
+
+
+*********** # 163 **************
+PokerStars Hand #187931016148: Tournament #2339050034, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/06/22 21:52:12 ET
+Table '2339050034 1' 3-max Seat #2 is the button
+Seat 2: heutegewinnwa (1165 in chips) 
+Seat 3: ivan7422 (335 in chips) 
+heutegewinnwa: posts small blind 15
+ivan7422: posts big blind 30
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [6s Jd]
+heutegewinnwa: folds 
+Uncalled bet (15) returned to ivan7422
+ivan7422 collected 30 from pot
+ivan7422: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: heutegewinnwa (button) (small blind) folded before Flop
+Seat 3: ivan7422 (big blind) collected (30)
+
+
+*********** # 164 **************
+PokerStars Hand #187931015012: Tournament #2339050034, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/06/22 21:52:09 ET
+Table '2339050034 1' 3-max Seat #3 is the button
+Seat 2: heutegewinnwa (1150 in chips) 
+Seat 3: ivan7422 (350 in chips) 
+ivan7422: posts small blind 15
+heutegewinnwa: posts big blind 30
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [9c 2c]
+ivan7422: folds 
+Uncalled bet (15) returned to heutegewinnwa
+heutegewinnwa collected 30 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: heutegewinnwa (big blind) collected (30)
+Seat 3: ivan7422 (button) (small blind) folded before Flop
+
+
+*********** # 165 **************
+PokerStars Hand #187931013727: Tournament #2339050034, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/06/22 21:52:05 ET
+Table '2339050034 1' 3-max Seat #2 is the button
+Seat 2: heutegewinnwa (1165 in chips) 
+Seat 3: ivan7422 (335 in chips) 
+heutegewinnwa: posts small blind 15
+ivan7422: posts big blind 30
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [5d 3h]
+heutegewinnwa: folds 
+Uncalled bet (15) returned to ivan7422
+ivan7422 collected 30 from pot
+ivan7422: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: heutegewinnwa (button) (small blind) folded before Flop
+Seat 3: ivan7422 (big blind) collected (30)
+
+
+*********** # 166 **************
+PokerStars Hand #187931011059: Tournament #2339050034, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/06/22 21:51:57 ET
+Table '2339050034 1' 3-max Seat #3 is the button
+Seat 2: heutegewinnwa (1135 in chips) 
+Seat 3: ivan7422 (365 in chips) 
+ivan7422: posts small blind 15
+heutegewinnwa: posts big blind 30
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [2c Kc]
+ivan7422: calls 15
+heutegewinnwa: raises 60 to 90
+ivan7422: folds 
+Uncalled bet (60) returned to heutegewinnwa
+heutegewinnwa collected 60 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: heutegewinnwa (big blind) collected (60)
+Seat 3: ivan7422 (button) (small blind) folded before Flop
+
+
+*********** # 167 **************
+PokerStars Hand #187931001919: Tournament #2339050034, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/06/22 21:51:30 ET
+Table '2339050034 1' 3-max Seat #2 is the button
+Seat 2: heutegewinnwa (925 in chips) 
+Seat 3: ivan7422 (575 in chips) 
+heutegewinnwa: posts small blind 15
+ivan7422: posts big blind 30
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Qh 9s]
+heutegewinnwa: raises 60 to 90
+ivan7422: calls 60
+*** FLOP *** [3d 9h 2d]
+ivan7422: checks 
+heutegewinnwa: bets 120
+ivan7422: calls 120
+*** TURN *** [3d 9h 2d] [4s]
+ivan7422: checks 
+heutegewinnwa: bets 240
+ivan7422: folds 
+Uncalled bet (240) returned to heutegewinnwa
+heutegewinnwa collected 420 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 420 | Rake 0 
+Board [3d 9h 2d 4s]
+Seat 2: heutegewinnwa (button) (small blind) collected (420)
+Seat 3: ivan7422 (big blind) folded on the Turn
+
+
+*********** # 168 **************
+PokerStars Hand #187931000693: Tournament #2339050034, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/06/22 21:51:26 ET
+Table '2339050034 1' 3-max Seat #3 is the button
+Seat 2: heutegewinnwa (910 in chips) 
+Seat 3: ivan7422 (590 in chips) 
+ivan7422: posts small blind 15
+heutegewinnwa: posts big blind 30
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Ac 7h]
+ivan7422: folds 
+Uncalled bet (15) returned to heutegewinnwa
+heutegewinnwa collected 30 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: heutegewinnwa (big blind) collected (30)
+Seat 3: ivan7422 (button) (small blind) folded before Flop
+
+
+*********** # 169 **************
+PokerStars Hand #187930997995: Tournament #2339050034, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/06/22 21:51:18 ET
+Table '2339050034 1' 3-max Seat #2 is the button
+Seat 2: heutegewinnwa (880 in chips) 
+Seat 3: ivan7422 (620 in chips) 
+heutegewinnwa: posts small blind 15
+ivan7422: posts big blind 30
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Th Qd]
+heutegewinnwa: raises 90 to 120
+ivan7422: folds 
+Uncalled bet (90) returned to heutegewinnwa
+heutegewinnwa collected 60 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: heutegewinnwa (button) (small blind) collected (60)
+Seat 3: ivan7422 (big blind) folded before Flop
+
+
+*********** # 170 **************
+PokerStars Hand #187930987794: Tournament #2339050034, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/06/22 21:50:47 ET
+Table '2339050034 1' 3-max Seat #3 is the button
+Seat 2: heutegewinnwa (850 in chips) 
+Seat 3: ivan7422 (650 in chips) 
+ivan7422: posts small blind 15
+heutegewinnwa: posts big blind 30
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [8s Jh]
+ivan7422: calls 15
+heutegewinnwa: checks 
+*** FLOP *** [As 6c 9d]
+heutegewinnwa: checks 
+ivan7422: checks 
+*** TURN *** [As 6c 9d] [3c]
+heutegewinnwa: checks 
+ivan7422: checks 
+*** RIVER *** [As 6c 9d 3c] [Jc]
+heutegewinnwa: bets 60
+ivan7422: folds 
+Uncalled bet (60) returned to heutegewinnwa
+heutegewinnwa collected 60 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [As 6c 9d 3c Jc]
+Seat 2: heutegewinnwa (big blind) collected (60)
+Seat 3: ivan7422 (button) (small blind) folded on the River
+
+
+*********** # 171 **************
+PokerStars Hand #187930981766: Tournament #2339050034, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/06/22 21:50:29 ET
+Table '2339050034 1' 3-max Seat #2 is the button
+Seat 2: heutegewinnwa (1030 in chips) 
+Seat 3: ivan7422 (470 in chips) 
+heutegewinnwa: posts small blind 15
+ivan7422: posts big blind 30
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [7c 9d]
+heutegewinnwa: raises 60 to 90
+ivan7422: calls 60
+*** FLOP *** [Ks Jh 5c]
+ivan7422: checks 
+heutegewinnwa: bets 90
+ivan7422: raises 120 to 210
+heutegewinnwa: folds 
+Uncalled bet (120) returned to ivan7422
+ivan7422 collected 360 from pot
+ivan7422: doesn't show hand 
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [Ks Jh 5c]
+Seat 2: heutegewinnwa (button) (small blind) folded on the Flop
+Seat 3: ivan7422 (big blind) collected (360)
+
+
+*********** # 172 **************
+PokerStars Hand #187930979656: Tournament #2339050034, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/06/22 21:50:23 ET
+Table '2339050034 1' 3-max Seat #3 is the button
+Seat 2: heutegewinnwa (1060 in chips) 
+Seat 3: ivan7422 (440 in chips) 
+ivan7422: posts small blind 15
+heutegewinnwa: posts big blind 30
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Jh 2d]
+ivan7422: raises 60 to 90
+heutegewinnwa: folds 
+Uncalled bet (60) returned to ivan7422
+ivan7422 collected 60 from pot
+ivan7422: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: heutegewinnwa (big blind) folded before Flop
+Seat 3: ivan7422 (button) (small blind) collected (60)
+
+
+*********** # 173 **************
+PokerStars Hand #187930976978: Tournament #2339050034, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/06/22 21:50:15 ET
+Table '2339050034 1' 3-max Seat #2 is the button
+Seat 2: heutegewinnwa (1075 in chips) 
+Seat 3: ivan7422 (425 in chips) 
+heutegewinnwa: posts small blind 15
+ivan7422: posts big blind 30
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Jd 4s]
+heutegewinnwa: folds 
+Uncalled bet (15) returned to ivan7422
+ivan7422 collected 30 from pot
+ivan7422: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: heutegewinnwa (button) (small blind) folded before Flop
+Seat 3: ivan7422 (big blind) collected (30)
+
+
+*********** # 174 **************
+PokerStars Hand #187930975719: Tournament #2339050034, $4.60+$0.40 USD Hold'em No Limit - Level II (15/30) - 2018/06/22 21:50:11 ET
+Table '2339050034 1' 3-max Seat #3 is the button
+Seat 2: heutegewinnwa (1060 in chips) 
+Seat 3: ivan7422 (440 in chips) 
+ivan7422: posts small blind 15
+heutegewinnwa: posts big blind 30
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [4c 3h]
+ivan7422: folds 
+Uncalled bet (15) returned to heutegewinnwa
+heutegewinnwa collected 30 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: heutegewinnwa (big blind) collected (30)
+Seat 3: ivan7422 (button) (small blind) folded before Flop
+
+
+*********** # 175 **************
+PokerStars Hand #187930970677: Tournament #2339050034, $4.60+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/06/22 21:49:56 ET
+Table '2339050034 1' 3-max Seat #2 is the button
+Seat 2: heutegewinnwa (1000 in chips) 
+Seat 3: ivan7422 (500 in chips) 
+heutegewinnwa: posts small blind 10
+ivan7422: posts big blind 20
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Ac 5s]
+heutegewinnwa: raises 40 to 60
+ivan7422: calls 40
+*** FLOP *** [3h Ks 3d]
+ivan7422: checks 
+heutegewinnwa: bets 120
+ivan7422: folds 
+Uncalled bet (120) returned to heutegewinnwa
+heutegewinnwa collected 120 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [3h Ks 3d]
+Seat 2: heutegewinnwa (button) (small blind) collected (120)
+Seat 3: ivan7422 (big blind) folded on the Flop
+
+
+*********** # 176 **************
+PokerStars Hand #187930962430: Tournament #2339050034, $4.60+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/06/22 21:49:32 ET
+Table '2339050034 1' 3-max Seat #3 is the button
+Seat 2: heutegewinnwa (1060 in chips) 
+Seat 3: ivan7422 (440 in chips) 
+ivan7422: posts small blind 10
+heutegewinnwa: posts big blind 20
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Kh 6c]
+ivan7422: raises 40 to 60
+heutegewinnwa: calls 40
+*** FLOP *** [8c 9c Ah]
+heutegewinnwa: checks 
+ivan7422: checks 
+*** TURN *** [8c 9c Ah] [8s]
+heutegewinnwa: checks 
+ivan7422: bets 40
+heutegewinnwa: folds 
+Uncalled bet (40) returned to ivan7422
+ivan7422 collected 120 from pot
+ivan7422: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [8c 9c Ah 8s]
+Seat 2: heutegewinnwa (big blind) folded on the Turn
+Seat 3: ivan7422 (button) (small blind) collected (120)
+
+
+*********** # 177 **************
+PokerStars Hand #187930959821: Tournament #2339050034, $4.60+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/06/22 21:49:24 ET
+Table '2339050034 1' 3-max Seat #2 is the button
+Seat 2: heutegewinnwa (1040 in chips) 
+Seat 3: ivan7422 (460 in chips) 
+heutegewinnwa: posts small blind 10
+ivan7422: posts big blind 20
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Ts 6h]
+heutegewinnwa: raises 40 to 60
+ivan7422: folds 
+Uncalled bet (40) returned to heutegewinnwa
+heutegewinnwa collected 40 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: heutegewinnwa (button) (small blind) collected (40)
+Seat 3: ivan7422 (big blind) folded before Flop
+
+
+*********** # 178 **************
+PokerStars Hand #187930953938: Tournament #2339050034, $4.60+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/06/22 21:49:07 ET
+Table '2339050034 1' 3-max Seat #3 is the button
+Seat 2: heutegewinnwa (1060 in chips) 
+Seat 3: ivan7422 (440 in chips) 
+ivan7422: posts small blind 10
+heutegewinnwa: posts big blind 20
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [5s 6s]
+ivan7422: raises 40 to 60
+heutegewinnwa: folds 
+Uncalled bet (40) returned to ivan7422
+ivan7422 collected 40 from pot
+ivan7422: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: heutegewinnwa (big blind) folded before Flop
+Seat 3: ivan7422 (button) (small blind) collected (40)
+
+
+*********** # 179 **************
+PokerStars Hand #187930948014: Tournament #2339050034, $4.60+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/06/22 21:48:50 ET
+Table '2339050034 1' 3-max Seat #2 is the button
+Seat 2: heutegewinnwa (1000 in chips) 
+Seat 3: ivan7422 (500 in chips) 
+heutegewinnwa: posts small blind 10
+ivan7422: posts big blind 20
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [9d 6h]
+heutegewinnwa: raises 40 to 60
+ivan7422: calls 40
+*** FLOP *** [6c 3d 8c]
+ivan7422: checks 
+heutegewinnwa: bets 120
+ivan7422: folds 
+Uncalled bet (120) returned to heutegewinnwa
+heutegewinnwa collected 120 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [6c 3d 8c]
+Seat 2: heutegewinnwa (button) (small blind) collected (120)
+Seat 3: ivan7422 (big blind) folded on the Flop
+
+
+*********** # 180 **************
+PokerStars Hand #187930942650: Tournament #2339050034, $4.60+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/06/22 21:48:34 ET
+Table '2339050034 1' 3-max Seat #3 is the button
+Seat 2: heutegewinnwa (1020 in chips) 
+Seat 3: ivan7422 (480 in chips) 
+ivan7422: posts small blind 10
+heutegewinnwa: posts big blind 20
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [2h 3h]
+ivan7422: calls 10
+heutegewinnwa: checks 
+*** FLOP *** [6c 7s As]
+heutegewinnwa: checks 
+ivan7422: checks 
+*** TURN *** [6c 7s As] [Qc]
+heutegewinnwa: checks 
+ivan7422: bets 40
+heutegewinnwa: folds 
+Uncalled bet (40) returned to ivan7422
+ivan7422 collected 40 from pot
+ivan7422: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [6c 7s As Qc]
+Seat 2: heutegewinnwa (big blind) folded on the Turn
+Seat 3: ivan7422 (button) (small blind) collected (40)
+
+
+*********** # 181 **************
+PokerStars Hand #187930939431: Tournament #2339050034, $4.60+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/06/22 21:48:24 ET
+Table '2339050034 1' 3-max Seat #2 is the button
+Seat 2: heutegewinnwa (1030 in chips) 
+Seat 3: ivan7422 (470 in chips) 
+heutegewinnwa: posts small blind 10
+ivan7422: posts big blind 20
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [4c 9s]
+heutegewinnwa: folds 
+Uncalled bet (10) returned to ivan7422
+ivan7422 collected 20 from pot
+ivan7422: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 2: heutegewinnwa (button) (small blind) folded before Flop
+Seat 3: ivan7422 (big blind) collected (20)
+
+
+*********** # 182 **************
+PokerStars Hand #187930921329: Tournament #2339050034, $4.60+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/06/22 21:47:30 ET
+Table '2339050034 1' 3-max Seat #3 is the button
+Seat 1: Cheppie96 (400 in chips) 
+Seat 2: heutegewinnwa (630 in chips) 
+Seat 3: ivan7422 (470 in chips) 
+Cheppie96: posts small blind 10
+heutegewinnwa: posts big blind 20
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Ah 6c]
+ivan7422: folds 
+Cheppie96: raises 40 to 60
+heutegewinnwa: calls 40
+*** FLOP *** [Ts Tc 4c]
+Cheppie96: bets 60
+heutegewinnwa: raises 120 to 180
+Cheppie96: calls 120
+*** TURN *** [Ts Tc 4c] [3c]
+Cheppie96: checks 
+heutegewinnwa: bets 390 and is all-in
+Cheppie96: calls 160 and is all-in
+Uncalled bet (230) returned to heutegewinnwa
+*** RIVER *** [Ts Tc 4c 3c] [8d]
+*** SHOW DOWN ***
+Cheppie96: shows [Ks Js] (a pair of Tens)
+heutegewinnwa: shows [Ah 6c] (a pair of Tens - Ace kicker)
+heutegewinnwa collected 800 from pot
+Cheppie96 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 800 | Rake 0 
+Board [Ts Tc 4c 3c 8d]
+Seat 1: Cheppie96 (small blind) showed [Ks Js] and lost with a pair of Tens
+Seat 2: heutegewinnwa (big blind) showed [Ah 6c] and won (800) with a pair of Tens
+Seat 3: ivan7422 (button) folded before Flop (didn't bet)
+
+
+*********** # 183 **************
+PokerStars Hand #187930915289: Tournament #2339050034, $4.60+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/06/22 21:47:12 ET
+Table '2339050034 1' 3-max Seat #2 is the button
+Seat 1: Cheppie96 (500 in chips) 
+Seat 2: heutegewinnwa (520 in chips) 
+Seat 3: ivan7422 (480 in chips) 
+ivan7422: posts small blind 10
+Cheppie96: posts big blind 20
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Ac 2c]
+heutegewinnwa: raises 40 to 60
+ivan7422: folds 
+Cheppie96: raises 40 to 100
+heutegewinnwa: calls 40
+*** FLOP *** [6c As 5d]
+Cheppie96: checks 
+heutegewinnwa: bets 105
+Cheppie96: folds 
+Uncalled bet (105) returned to heutegewinnwa
+heutegewinnwa collected 210 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 210 | Rake 0 
+Board [6c As 5d]
+Seat 1: Cheppie96 (big blind) folded on the Flop
+Seat 2: heutegewinnwa (button) collected (210)
+Seat 3: ivan7422 (small blind) folded before Flop
+
+
+*********** # 184 **************
+PokerStars Hand #187930910600: Tournament #2339050034, $4.60+$0.40 USD Hold'em No Limit - Level I (10/20) - 2018/06/22 21:46:58 ET
+Table '2339050034 1' 3-max Seat #1 is the button
+Seat 1: Cheppie96 (500 in chips) 
+Seat 2: heutegewinnwa (500 in chips) 
+Seat 3: ivan7422 (500 in chips) 
+heutegewinnwa: posts small blind 10
+ivan7422: posts big blind 20
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Jc 8c]
+Cheppie96: folds 
+heutegewinnwa: raises 40 to 60
+ivan7422: folds 
+Uncalled bet (40) returned to heutegewinnwa
+heutegewinnwa collected 40 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Cheppie96 (button) folded before Flop (didn't bet)
+Seat 2: heutegewinnwa (small blind) collected (40)
+Seat 3: ivan7422 (big blind) folded before Flop
+
+
+*********** # 185 **************
+PokerStars Hand #187930888919: Tournament #2339048417, $4.57+$4.57+$0.86 USD Hold'em No Limit - Level I (25/50) - 2018/06/22 21:45:55 ET
+Table '2339048417 3' 6-max Seat #2 is the button
+Seat 1: Norov33 (490 in chips) 
+Seat 2: Azatius68a19 (465 in chips) 
+Seat 3: audi2222 (533 in chips) 
+Seat 4: PROCRESS31 (532 in chips) 
+Seat 5: Egornotilt (490 in chips) 
+Seat 6: heutegewinnwa (490 in chips) 
+Norov33: posts the ante 10
+Azatius68a19: posts the ante 10
+audi2222: posts the ante 10
+PROCRESS31: posts the ante 10
+Egornotilt: posts the ante 10
+heutegewinnwa: posts the ante 10
+audi2222: posts small blind 25
+PROCRESS31: posts big blind 50
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [2h Ah]
+Egornotilt: folds 
+heutegewinnwa: raises 430 to 480 and is all-in
+Norov33: folds 
+Azatius68a19: calls 455 and is all-in
+audi2222: folds 
+PROCRESS31: calls 430
+*** FLOP *** [9d Jc 7s]
+*** TURN *** [9d Jc 7s] [2d]
+*** RIVER *** [9d Jc 7s 2d] [Kc]
+*** SHOW DOWN ***
+PROCRESS31: shows [6c 6h] (a pair of Sixes)
+heutegewinnwa: shows [2h Ah] (a pair of Deuces)
+PROCRESS31 collected 50 from side pot
+Azatius68a19: shows [9s Tc] (a pair of Nines)
+Azatius68a19 collected 1450 from main pot
+PROCRESS31 wins the $4.57 bounty for eliminating heutegewinnwa
+heutegewinnwa finished the tournament in 16th place
+*** SUMMARY ***
+Total pot 1500 Main pot 1450. Side pot 50. | Rake 0 
+Board [9d Jc 7s 2d Kc]
+Seat 1: Norov33 folded before Flop (didn't bet)
+Seat 2: Azatius68a19 (button) showed [9s Tc] and won (1450) with a pair of Nines
+Seat 3: audi2222 (small blind) folded before Flop
+Seat 4: PROCRESS31 (big blind) showed [6c 6h] and won (50) with a pair of Sixes
+Seat 5: Egornotilt folded before Flop (didn't bet)
+Seat 6: heutegewinnwa showed [2h Ah] and lost with a pair of Deuces
+
+
+*********** # 186 **************
+PokerStars Hand #187930879657: Tournament #2339048417, $4.57+$4.57+$0.86 USD Hold'em No Limit - Level I (25/50) - 2018/06/22 21:45:28 ET
+Table '2339048417 3' 6-max Seat #1 is the button
+Seat 1: Norov33 (500 in chips) 
+Seat 2: Azatius68a19 (500 in chips) 
+Seat 3: audi2222 (500 in chips) 
+Seat 4: PROCRESS31 (500 in chips) 
+Seat 5: Egornotilt (500 in chips) 
+Seat 6: heutegewinnwa (500 in chips) 
+Norov33: posts the ante 10
+Azatius68a19: posts the ante 10
+audi2222: posts the ante 10
+PROCRESS31: posts the ante 10
+Egornotilt: posts the ante 10
+heutegewinnwa: posts the ante 10
+Azatius68a19: posts small blind 25
+audi2222: posts big blind 50
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [5c Jc]
+PROCRESS31: raises 440 to 490 and is all-in
+Egornotilt: folds 
+heutegewinnwa: folds 
+Norov33: folds 
+Azatius68a19: folds 
+audi2222: calls 440 and is all-in
+*** FLOP *** [Ah Ac Jd]
+*** TURN *** [Ah Ac Jd] [As]
+*** RIVER *** [Ah Ac Jd As] [Jh]
+*** SHOW DOWN ***
+audi2222: shows [Qs 7d] (a full house, Aces full of Jacks)
+PROCRESS31: shows [Kc 8c] (a full house, Aces full of Jacks)
+audi2222 collected 533 from pot
+PROCRESS31 collected 532 from pot
+*** SUMMARY ***
+Total pot 1065 | Rake 0 
+Board [Ah Ac Jd As Jh]
+Seat 1: Norov33 (button) folded before Flop (didn't bet)
+Seat 2: Azatius68a19 (small blind) folded before Flop
+Seat 3: audi2222 (big blind) showed [Qs 7d] and won (533) with a full house, Aces full of Jacks
+Seat 4: PROCRESS31 showed [Kc 8c] and won (532) with a full house, Aces full of Jacks
+Seat 5: Egornotilt folded before Flop (didn't bet)
+Seat 6: heutegewinnwa folded before Flop (didn't bet)
+
+
+*********** # 187 **************
+PokerStars Hand #187860884846: Tournament #2337421815, $2.25+$2.25+$0.50 USD Hold'em No Limit - Level VII (400/800) - 2018/06/20 21:58:18 ET
+Table '2337421815 3' 6-max Seat #5 is the button
+Seat 2: heutegewinnwa (2210 in chips) 
+Seat 5: Azatius68a19 (4230 in chips) 
+Seat 6: Luckybblack (5560 in chips) 
+heutegewinnwa: posts the ante 100
+Azatius68a19: posts the ante 100
+Luckybblack: posts the ante 100
+Luckybblack: posts small blind 400
+heutegewinnwa: posts big blind 800
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [3s Ks]
+Azatius68a19: folds 
+Luckybblack: raises 4660 to 5460 and is all-in
+heutegewinnwa: calls 1310 and is all-in
+Uncalled bet (3350) returned to Luckybblack
+*** FLOP *** [6d 4s 9h]
+*** TURN *** [6d 4s 9h] [Js]
+*** RIVER *** [6d 4s 9h Js] [7c]
+*** SHOW DOWN ***
+Luckybblack: shows [As 2h] (high card Ace)
+heutegewinnwa: shows [3s Ks] (high card King)
+Luckybblack collected 4520 from pot
+Luckybblack wins the $2.25 bounty for eliminating heutegewinnwa
+heutegewinnwa finished the tournament in 3rd place and received $11.88.
+*** SUMMARY ***
+Total pot 4520 | Rake 0 
+Board [6d 4s 9h Js 7c]
+Seat 2: heutegewinnwa (big blind) showed [3s Ks] and lost with high card King
+Seat 5: Azatius68a19 (button) folded before Flop (didn't bet)
+Seat 6: Luckybblack (small blind) showed [As 2h] and won (4520) with high card Ace
+
+
+*********** # 188 **************
+PokerStars Hand #187860882408: Tournament #2337421815, $2.25+$2.25+$0.50 USD Hold'em No Limit - Level VII (400/800) - 2018/06/20 21:58:09 ET
+Table '2337421815 3' 6-max Seat #2 is the button
+Seat 2: heutegewinnwa (2310 in chips) 
+Seat 5: Azatius68a19 (4730 in chips) 
+Seat 6: Luckybblack (4960 in chips) 
+heutegewinnwa: posts the ante 100
+Azatius68a19: posts the ante 100
+Luckybblack: posts the ante 100
+Azatius68a19: posts small blind 400
+Luckybblack: posts big blind 800
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [9s 3s]
+heutegewinnwa: folds 
+Azatius68a19: folds 
+Uncalled bet (400) returned to Luckybblack
+Luckybblack collected 1100 from pot
+Luckybblack: doesn't show hand 
+*** SUMMARY ***
+Total pot 1100 | Rake 0 
+Seat 2: heutegewinnwa (button) folded before Flop (didn't bet)
+Seat 5: Azatius68a19 (small blind) folded before Flop
+Seat 6: Luckybblack (big blind) collected (1100)
+
+
+*********** # 189 **************
+PokerStars Hand #187860879896: Tournament #2337421815, $2.25+$2.25+$0.50 USD Hold'em No Limit - Level VI (300/600) - 2018/06/20 21:58:00 ET
+Table '2337421815 3' 6-max Seat #6 is the button
+Seat 2: heutegewinnwa (2690 in chips) 
+Seat 5: Azatius68a19 (4270 in chips) 
+Seat 6: Luckybblack (5040 in chips) 
+heutegewinnwa: posts the ante 80
+Azatius68a19: posts the ante 80
+Luckybblack: posts the ante 80
+heutegewinnwa: posts small blind 300
+Azatius68a19: posts big blind 600
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [3c 8d]
+Luckybblack: folds 
+heutegewinnwa: folds 
+Uncalled bet (300) returned to Azatius68a19
+Azatius68a19 collected 840 from pot
+Azatius68a19: doesn't show hand 
+*** SUMMARY ***
+Total pot 840 | Rake 0 
+Seat 2: heutegewinnwa (small blind) folded before Flop
+Seat 5: Azatius68a19 (big blind) collected (840)
+Seat 6: Luckybblack (button) folded before Flop (didn't bet)
+
+
+*********** # 190 **************
+PokerStars Hand #187860878098: Tournament #2337421815, $2.25+$2.25+$0.50 USD Hold'em No Limit - Level VI (300/600) - 2018/06/20 21:57:53 ET
+Table '2337421815 3' 6-max Seat #5 is the button
+Seat 2: heutegewinnwa (2230 in chips) 
+Seat 5: Azatius68a19 (4350 in chips) 
+Seat 6: Luckybblack (5420 in chips) 
+heutegewinnwa: posts the ante 80
+Azatius68a19: posts the ante 80
+Luckybblack: posts the ante 80
+Luckybblack: posts small blind 300
+heutegewinnwa: posts big blind 600
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [8c Qh]
+Azatius68a19: folds 
+Luckybblack: folds 
+Uncalled bet (300) returned to heutegewinnwa
+heutegewinnwa collected 840 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 840 | Rake 0 
+Seat 2: heutegewinnwa (big blind) collected (840)
+Seat 5: Azatius68a19 (button) folded before Flop (didn't bet)
+Seat 6: Luckybblack (small blind) folded before Flop
+
+
+*********** # 191 **************
+PokerStars Hand #187860872206: Tournament #2337421815, $2.25+$2.25+$0.50 USD Hold'em No Limit - Level VI (300/600) - 2018/06/20 21:57:32 ET
+Table '2337421815 3' 6-max Seat #2 is the button
+Seat 2: heutegewinnwa (3680 in chips) 
+Seat 5: Azatius68a19 (1450 in chips) 
+Seat 6: Luckybblack (6870 in chips) 
+heutegewinnwa: posts the ante 80
+Azatius68a19: posts the ante 80
+Luckybblack: posts the ante 80
+Azatius68a19: posts small blind 300
+Luckybblack: posts big blind 600
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Kd Ah]
+heutegewinnwa: raises 600 to 1200
+Azatius68a19: raises 170 to 1370 and is all-in
+Luckybblack: calls 770
+heutegewinnwa: calls 170
+*** FLOP *** [Jh Qd 5c]
+Luckybblack: checks 
+heutegewinnwa: bets 2230 and is all-in
+Luckybblack: folds 
+Uncalled bet (2230) returned to heutegewinnwa
+*** TURN *** [Jh Qd 5c] [Js]
+*** RIVER *** [Jh Qd 5c Js] [8h]
+*** SHOW DOWN ***
+Azatius68a19: shows [Qh Qc] (a full house, Queens full of Jacks)
+heutegewinnwa: shows [Kd Ah] (a pair of Jacks)
+Azatius68a19 collected 4350 from pot
+*** SUMMARY ***
+Total pot 4350 | Rake 0 
+Board [Jh Qd 5c Js 8h]
+Seat 2: heutegewinnwa (button) showed [Kd Ah] and lost with a pair of Jacks
+Seat 5: Azatius68a19 (small blind) showed [Qh Qc] and won (4350) with a full house, Queens full of Jacks
+Seat 6: Luckybblack (big blind) folded on the Flop
+
+
+*********** # 192 **************
+PokerStars Hand #187860867860: Tournament #2337421815, $2.25+$2.25+$0.50 USD Hold'em No Limit - Level VI (300/600) - 2018/06/20 21:57:16 ET
+Table '2337421815 3' 6-max Seat #6 is the button
+Seat 2: heutegewinnwa (4060 in chips) 
+Seat 5: Azatius68a19 (4695 in chips) 
+Seat 6: Luckybblack (3245 in chips) 
+heutegewinnwa: posts the ante 80
+Azatius68a19: posts the ante 80
+Luckybblack: posts the ante 80
+heutegewinnwa: posts small blind 300
+Azatius68a19: posts big blind 600
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [7h 5h]
+Luckybblack: raises 2565 to 3165 and is all-in
+heutegewinnwa: folds 
+Azatius68a19: calls 2565
+*** FLOP *** [As Jh 7c]
+*** TURN *** [As Jh 7c] [2d]
+*** RIVER *** [As Jh 7c 2d] [8c]
+*** SHOW DOWN ***
+Azatius68a19: shows [Kc Qs] (high card Ace)
+Luckybblack: shows [7d Ac] (two pair, Aces and Sevens)
+Luckybblack collected 6870 from pot
+*** SUMMARY ***
+Total pot 6870 | Rake 0 
+Board [As Jh 7c 2d 8c]
+Seat 2: heutegewinnwa (small blind) folded before Flop
+Seat 5: Azatius68a19 (big blind) showed [Kc Qs] and lost with high card Ace
+Seat 6: Luckybblack (button) showed [7d Ac] and won (6870) with two pair, Aces and Sevens
+
+
+*********** # 193 **************
+PokerStars Hand #187860863682: Tournament #2337421815, $2.25+$2.25+$0.50 USD Hold'em No Limit - Level VI (300/600) - 2018/06/20 21:57:00 ET
+Table '2337421815 3' 6-max Seat #5 is the button
+Seat 2: heutegewinnwa (4740 in chips) 
+Seat 5: Azatius68a19 (3635 in chips) 
+Seat 6: Luckybblack (3625 in chips) 
+heutegewinnwa: posts the ante 80
+Azatius68a19: posts the ante 80
+Luckybblack: posts the ante 80
+Luckybblack: posts small blind 300
+heutegewinnwa: posts big blind 600
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [3s 4s]
+Azatius68a19: raises 2955 to 3555 and is all-in
+Luckybblack: folds 
+heutegewinnwa: folds 
+Uncalled bet (2955) returned to Azatius68a19
+Azatius68a19 collected 1740 from pot
+Azatius68a19: doesn't show hand 
+*** SUMMARY ***
+Total pot 1740 | Rake 0 
+Seat 2: heutegewinnwa (big blind) folded before Flop
+Seat 5: Azatius68a19 (button) collected (1740)
+Seat 6: Luckybblack (small blind) folded before Flop
+
+
+*********** # 194 **************
+PokerStars Hand #187860851938: Tournament #2337421815, $2.25+$2.25+$0.50 USD Hold'em No Limit - Level VI (300/600) - 2018/06/20 21:56:17 ET
+Table '2337421815 3' 6-max Seat #3 is the button
+Seat 2: heutegewinnwa (4820 in chips) 
+Seat 3: MuTs30 (615 in chips) 
+Seat 5: Azatius68a19 (4315 in chips) 
+Seat 6: Luckybblack (2250 in chips) 
+heutegewinnwa: posts the ante 80
+MuTs30: posts the ante 80
+Azatius68a19: posts the ante 80
+Luckybblack: posts the ante 80
+Azatius68a19: posts small blind 300
+Luckybblack: posts big blind 600
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [4s 2s]
+heutegewinnwa: folds 
+MuTs30: calls 535 and is all-in
+Azatius68a19: calls 300
+Luckybblack: checks 
+*** FLOP *** [Kh Jd Jh]
+Azatius68a19: checks 
+Luckybblack: checks 
+*** TURN *** [Kh Jd Jh] [7d]
+Azatius68a19: checks 
+Luckybblack: checks 
+*** RIVER *** [Kh Jd Jh 7d] [9s]
+Azatius68a19: checks 
+Luckybblack: bets 600
+Azatius68a19: folds 
+Uncalled bet (600) returned to Luckybblack
+*** SHOW DOWN ***
+Luckybblack: shows [Jc 8s] (three of a kind, Jacks)
+Luckybblack collected 130 from side pot
+MuTs30: shows [Kd 5h] (two pair, Kings and Jacks)
+Luckybblack collected 1925 from main pot
+Luckybblack wins the $2.25 bounty for eliminating MuTs30
+MuTs30 finished the tournament in 4th place and received $6.48.
+*** SUMMARY ***
+Total pot 2055 Main pot 1925. Side pot 130. | Rake 0 
+Board [Kh Jd Jh 7d 9s]
+Seat 2: heutegewinnwa folded before Flop (didn't bet)
+Seat 3: MuTs30 (button) showed [Kd 5h] and lost with two pair, Kings and Jacks
+Seat 5: Azatius68a19 (small blind) folded on the River
+Seat 6: Luckybblack (big blind) showed [Jc 8s] and won (2055) with three of a kind, Jacks
+
+
+*********** # 195 **************
+PokerStars Hand #187860845669: Tournament #2337421815, $2.25+$2.25+$0.50 USD Hold'em No Limit - Level V (200/400) - 2018/06/20 21:55:54 ET
+Table '2337421815 3' 6-max Seat #2 is the button
+Seat 2: heutegewinnwa (3710 in chips) 
+Seat 3: MuTs30 (875 in chips) 
+Seat 4: mmorin4 (730 in chips) 
+Seat 5: Azatius68a19 (4375 in chips) 
+Seat 6: Luckybblack (2310 in chips) 
+heutegewinnwa: posts the ante 60
+MuTs30: posts the ante 60
+mmorin4: posts the ante 60
+Azatius68a19: posts the ante 60
+Luckybblack: posts the ante 60
+MuTs30: posts small blind 200
+mmorin4: posts big blind 400
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [Ad 8h]
+Azatius68a19: folds 
+Luckybblack: folds 
+heutegewinnwa: raises 800 to 1200
+MuTs30: folds 
+mmorin4: calls 270 and is all-in
+Uncalled bet (530) returned to heutegewinnwa
+*** FLOP *** [Kd 3d Ks]
+*** TURN *** [Kd 3d Ks] [5h]
+*** RIVER *** [Kd 3d Ks 5h] [Qc]
+*** SHOW DOWN ***
+mmorin4: shows [Jh 7h] (a pair of Kings)
+heutegewinnwa: shows [Ad 8h] (a pair of Kings - Ace kicker)
+heutegewinnwa collected 1840 from pot
+heutegewinnwa wins the $2.25 bounty for eliminating mmorin4
+mmorin4 finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 1840 | Rake 0 
+Board [Kd 3d Ks 5h Qc]
+Seat 2: heutegewinnwa (button) showed [Ad 8h] and won (1840) with a pair of Kings
+Seat 3: MuTs30 (small blind) folded before Flop
+Seat 4: mmorin4 (big blind) showed [Jh 7h] and lost with a pair of Kings
+Seat 5: Azatius68a19 folded before Flop (didn't bet)
+Seat 6: Luckybblack folded before Flop (didn't bet)
+
+
+*********** # 196 **************
+PokerStars Hand #187860842482: Tournament #2337421815, $2.25+$2.25+$0.50 USD Hold'em No Limit - Level V (200/400) - 2018/06/20 21:55:42 ET
+Table '2337421815 3' 6-max Seat #6 is the button
+Seat 2: heutegewinnwa (3970 in chips) 
+Seat 3: MuTs30 (1335 in chips) 
+Seat 4: mmorin4 (790 in chips) 
+Seat 5: Azatius68a19 (3535 in chips) 
+Seat 6: Luckybblack (2370 in chips) 
+heutegewinnwa: posts the ante 60
+MuTs30: posts the ante 60
+mmorin4: posts the ante 60
+Azatius68a19: posts the ante 60
+Luckybblack: posts the ante 60
+heutegewinnwa: posts small blind 200
+MuTs30: posts big blind 400
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [4c 5h]
+mmorin4: folds 
+Azatius68a19: raises 1200 to 1600
+Luckybblack: folds 
+heutegewinnwa: folds 
+MuTs30: folds 
+Uncalled bet (1200) returned to Azatius68a19
+Azatius68a19 collected 1300 from pot
+Azatius68a19: doesn't show hand 
+*** SUMMARY ***
+Total pot 1300 | Rake 0 
+Seat 2: heutegewinnwa (small blind) folded before Flop
+Seat 3: MuTs30 (big blind) folded before Flop
+Seat 4: mmorin4 folded before Flop (didn't bet)
+Seat 5: Azatius68a19 collected (1300)
+Seat 6: Luckybblack (button) folded before Flop (didn't bet)
+
+
+*********** # 197 **************
+PokerStars Hand #187860838858: Tournament #2337421815, $2.25+$2.25+$0.50 USD Hold'em No Limit - Level V (200/400) - 2018/06/20 21:55:29 ET
+Table '2337421815 3' 6-max Seat #5 is the button
+Seat 2: heutegewinnwa (3530 in chips) 
+Seat 3: MuTs30 (1395 in chips) 
+Seat 4: mmorin4 (850 in chips) 
+Seat 5: Azatius68a19 (3595 in chips) 
+Seat 6: Luckybblack (2630 in chips) 
+heutegewinnwa: posts the ante 60
+MuTs30: posts the ante 60
+mmorin4: posts the ante 60
+Azatius68a19: posts the ante 60
+Luckybblack: posts the ante 60
+Luckybblack: posts small blind 200
+heutegewinnwa: posts big blind 400
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [6c 2d]
+MuTs30: folds 
+mmorin4: folds 
+Azatius68a19: folds 
+Luckybblack: folds 
+Uncalled bet (200) returned to heutegewinnwa
+heutegewinnwa collected 700 from pot
+heutegewinnwa: doesn't show hand 
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Seat 2: heutegewinnwa (big blind) collected (700)
+Seat 3: MuTs30 folded before Flop (didn't bet)
+Seat 4: mmorin4 folded before Flop (didn't bet)
+Seat 5: Azatius68a19 (button) folded before Flop (didn't bet)
+Seat 6: Luckybblack (small blind) folded before Flop
+
+
+*********** # 198 **************
+PokerStars Hand #187860829139: Tournament #2337421815, $2.25+$2.25+$0.50 USD Hold'em No Limit - Level V (200/400) - 2018/06/20 21:54:55 ET
+Table '2337421815 3' 6-max Seat #4 is the button
+Seat 2: heutegewinnwa (3590 in chips) 
+Seat 3: MuTs30 (1455 in chips) 
+Seat 4: mmorin4 (910 in chips) 
+Seat 5: Azatius68a19 (4055 in chips) 
+Seat 6: Luckybblack (1990 in chips) 
+heutegewinnwa: posts the ante 60
+MuTs30: posts the ante 60
+mmorin4: posts the ante 60
+Azatius68a19: posts the ante 60
+Luckybblack: posts the ante 60
+Azatius68a19: posts small blind 200
+Luckybblack: posts big blind 400
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [5c 3c]
+heutegewinnwa: folds 
+MuTs30: folds 
+mmorin4: folds 
+Azatius68a19: calls 200
+Luckybblack: checks 
+*** FLOP *** [Kd 8h Ks]
+Azatius68a19: checks 
+Luckybblack: checks 
+*** TURN *** [Kd 8h Ks] [Tc]
+Azatius68a19: checks 
+Luckybblack: checks 
+*** RIVER *** [Kd 8h Ks Tc] [9h]
+Azatius68a19: checks 
+Luckybblack: checks 
+*** SHOW DOWN ***
+Azatius68a19: shows [Qs 2s] (a pair of Kings)
+Luckybblack: shows [2h 9s] (two pair, Kings and Nines)
+Luckybblack collected 1100 from pot
+*** SUMMARY ***
+Total pot 1100 | Rake 0 
+Board [Kd 8h Ks Tc 9h]
+Seat 2: heutegewinnwa folded before Flop (didn't bet)
+Seat 3: MuTs30 folded before Flop (didn't bet)
+Seat 4: mmorin4 (button) folded before Flop (didn't bet)
+Seat 5: Azatius68a19 (small blind) showed [Qs 2s] and lost with a pair of Kings
+Seat 6: Luckybblack (big blind) showed [2h 9s] and won (1100) with two pair, Kings and Nines
+
+
+*********** # 199 **************
+PokerStars Hand #187860821914: Tournament #2337421815, $2.25+$2.25+$0.50 USD Hold'em No Limit - Level V (200/400) - 2018/06/20 21:54:33 ET
+Table '2337421815 3' 6-max Seat #3 is the button
+Seat 2: heutegewinnwa (3650 in chips) 
+Seat 3: MuTs30 (1515 in chips) 
+Seat 4: mmorin4 (1170 in chips) 
+Seat 5: Azatius68a19 (4860 in chips) 
+Seat 6: Luckybblack (805 in chips) 
+heutegewinnwa: posts the ante 60
+MuTs30: posts the ante 60
+mmorin4: posts the ante 60
+Azatius68a19: posts the ante 60
+Luckybblack: posts the ante 60
+mmorin4: posts small blind 200
+Azatius68a19: posts big blind 400
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [2s 7s]
+Luckybblack: raises 345 to 745 and is all-in
+heutegewinnwa: folds 
+MuTs30: folds 
+mmorin4: folds 
+Azatius68a19: calls 345
+*** FLOP *** [8h Jh Ac]
+*** TURN *** [8h Jh Ac] [7c]
+*** RIVER *** [8h Jh Ac 7c] [Qd]
+*** SHOW DOWN ***
+Azatius68a19: shows [9h Jc] (a pair of Jacks)
+Luckybblack: shows [Th Qh] (a pair of Queens)
+Luckybblack collected 1990 from pot
+*** SUMMARY ***
+Total pot 1990 | Rake 0 
+Board [8h Jh Ac 7c Qd]
+Seat 2: heutegewinnwa folded before Flop (didn't bet)
+Seat 3: MuTs30 (button) folded before Flop (didn't bet)
+Seat 4: mmorin4 (small blind) folded before Flop
+Seat 5: Azatius68a19 (big blind) showed [9h Jc] and lost with a pair of Jacks
+Seat 6: Luckybblack showed [Th Qh] and won (1990) with a pair of Queens
+
+
+*********** # 200 **************
+PokerStars Hand #187860815533: Tournament #2337421815, $2.25+$2.25+$0.50 USD Hold'em No Limit - Level V (200/400) - 2018/06/20 21:54:13 ET
+Table '2337421815 3' 6-max Seat #2 is the button
+Seat 2: heutegewinnwa (3710 in chips) 
+Seat 3: MuTs30 (1775 in chips) 
+Seat 4: mmorin4 (1630 in chips) 
+Seat 5: Azatius68a19 (4020 in chips) 
+Seat 6: Luckybblack (865 in chips) 
+heutegewinnwa: posts the ante 60
+MuTs30: posts the ante 60
+mmorin4: posts the ante 60
+Azatius68a19: posts the ante 60
+Luckybblack: posts the ante 60
+MuTs30: posts small blind 200
+mmorin4: posts big blind 400
+*** HOLE CARDS ***
+Dealt to heutegewinnwa [6s Qh]
+Azatius68a19: raises 3560 to 3960 and is all-in
+Luckybblack: folds 
+heutegewinnwa: folds 
+MuTs30: folds 
+mmorin4: folds 
+Uncalled bet (3560) returned to Azatius68a19
+Azatius68a19 collected 1300 from pot
+Azatius68a19: doesn't show hand 
+*** SUMMARY ***
+Total pot 1300 | Rake 0 
+Seat 2: heutegewinnwa (button) folded before Flop (didn't bet)
+Seat 3: MuTs30 (small blind) folded before Flop
+Seat 4: mmorin4 (big blind) folded before Flop
+Seat 5: Azatius68a19 collected (1300)
+Seat 6: Luckybblack folded before Flop (didn't bet)

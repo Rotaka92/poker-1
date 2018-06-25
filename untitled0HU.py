@@ -9,41 +9,50 @@ from poker import Range
 
 
 HAND1 = """
-PokerStars Hand #187043871016: Tournament #2318958343, $1.38+$0.12 USD Hold'em No Limit - Match Round I, Level II (15/30) - 2018/05/30 22:16:20 CET [2018/05/30 16:16:20 ET]
-Table '2318958343 1' 2-max Seat #1 is the button
-Seat 1: k0oki (1854 in chips)
-Seat 2: ollikahn23 (1146 in chips)
-k0oki: posts small blind 15
-ollikahn23: posts big blind 30
+PokerStars Hand #187932118690: Tournament #2339076938, $28.20+$1.80 USD Hold'em No Limit - Match Round I, Level I (10/20) - 2018/05/30 22:16:20 CET [2018/05/30 16:16:20 ET]
+Table '2339076938 1' 3-max Seat #1 is the button
+Seat 1: boomerang747 (480 in chips)
+Seat 3: heutegewinnwa (1020 in chips)
+boomerang747: posts small blind 10
+heutegewinnwa: posts big blind 20
 *** HOLE CARDS ***
-Dealt to ollikahn23 [Ac Qc]
-k0oki: raises 30 to 60
-ollikahn23: calls 30
-*** FLOP *** [2d 3h 5c]
-ollikahn23: checks
-k0oki: bets 40
-ollikahn23: calls 40
-*** TURN *** [2d 3h 5c] [Kc]
-ollikahn23: bets 90
-k0oki: calls 90
-*** RIVER *** [2d 3h 5c Kc] [3s]
-ollikahn23: checks
-k0oki: bets 190
-ollikahn23: folds
-Uncalled bet (190) returned to k0oki
-k0oki collected 380 from pot
-k0oki: doesn't show hand
+Dealt to heutegewinnwa [8h 8c]
+boomerang747: raises 460 to 480 and is all-in
+heutegewinnwa: calls 460
+*** FLOP *** [Ah 6d 5h]
+*** TURN *** [Ah 6d 5h] [Jd]
+*** RIVER *** [Ah 6d 5h Jd] [9h]
+*** SHOW DOWN ***
+heutegewinnwa: shows [8h 8c] (a pair of Eights)
+boomerang747: shows [Qc Kd] (high card Ace)
+heutegewinnwa collected 960 from pot
+boomerang747 finished the tournament in 2nd place
+heutegewinnwa wins the tournament and receives $60.00 - congratulations!
 *** SUMMARY ***
-Total pot 380 | Rake 0
-Board [2d 3h 5c Kc 3s]
-Seat 1: k0oki (button) (small blind) collected (380)
-Seat 2: ollikahn23 (big blind) folded on the River"""
+Total pot 960 | Rake 0
+Board [Ah 6d 5h Jd 9h]
+Seat 1: boomerang747 (button) (small blind) showed [Qc Kd] and lost with high card Ace
+Seat 3: heutegewinnwa (big blind) showed [8h 8c] and won (960) with a pair of Eights"""
+
+
+
+
+
+from poker.room.pokerstars import PokerStarsHandHistory
+# First step, only raw hand history is saved, no parsing will happen yet
+hh = PokerStarsHandHistory(HAND1)
+hh.parse()
 
 
 
 
 ########   STARTING ANALYSE HEADS-UP BY THE BOOK OF TIPTON  ##########
+#Open Exercises:
 
+#make a function out of some if and for-loops
+#3bb-range preflop automated from PokerTracker?
+#what if we are small blind? is there any boolean for hero to indicate if we are bb or sb?
+#-> search a hand where u are in the small blind
 
 
 #####  Stats of Villain  ######
@@ -115,19 +124,6 @@ high = []           #empty list to get the highest amount being bet so far
 
 
 
-
-
-
-
-
-
-from poker.room.pokerstars import PokerStarsHandHistory
-# First step, only raw hand history is saved, no parsing will happen yet
-hh = PokerStarsHandHistory(HAND1)
-hh.parse()
-
-
-
 #hh.max_players
 #hh.players
 #hh.button
@@ -150,7 +146,7 @@ p = hh.hero
 ###what is our position
 #p.seat
 
-#what is our positon regarding to the button (utg, utg+1, etc.)
+#what is our positon regarding to the button (utg, utg+1, etc.), make a function out of it
 
 a = hh.players
 aa = sum([a,a], [])
@@ -169,7 +165,7 @@ for i in range(len(aa)):
                 break
 
 
-#how many players are on the table at the moment
+#how many players are on the table at the moment including us
 pl = 0
 for i in range(hh.max_players):
     if 'Empty Seat' not in a[i].name:
@@ -351,10 +347,10 @@ match = hero_re.match(hole_cards_line)
 
 
 
-#first_raw_card = match.group(2)
-first_raw_card = '2s'
-#second_raw_card = match.group(3)
-second_raw_card = '7c'
+first_raw_card = match.group(2)
+#first_raw_card = '2s'
+second_raw_card = match.group(3)
+#second_raw_card = '7c'
 raw_hand = first_raw_card + second_raw_card
 
 
@@ -398,13 +394,16 @@ for i in range(50000):
     d = {}
     
     #giving villain random cards or cards from a range
-    for j in range(opp):        
+    for j in range(opp):   
+        #random:
         #d['player%s_hand'%j] = deck.draw(2)
         #print(d)
+    
+    
         #giving villain cards from his range regarding his 3bPF-Range:
-        t = random.randint(0,len(fullRg)-1)
-        #print(fullRg[t])
-        d['player%s_hand'%j] = [Card.new(fullRg[t][:2]), Card.new(fullRg[t][2:])]
+        t1 = random.randint(0,len(fullRg)-1)
+        #print(fullRg[t1])
+        d['player%s_hand'%j] = [Card.new(fullRg[t1][:2]), Card.new(fullRg[t1][2:])]
         #print(d)
         #removing our own hand from the deck
         deck.cards.remove(d['player%s_hand'%j][0])
@@ -412,7 +411,7 @@ for i in range(50000):
     
             
         
-    #Card.print_pretty_cards(d['player2_hand'])
+    #Card.print_pretty_cards(d['player0_hand'])
    
     #Card.print_pretty_cards(d['player3_hand'])
     
@@ -448,18 +447,25 @@ for i in range(50000):
 rate = p11/50000
 
 
+
+
 #if our EV at the end of the hand is smaller/bigger than our EV if we fold, then fold/call or raise:
-if ((p.stack-float(hh.bb)) - addr1)*(1-rate) + ((p.stack-float(hh.bb)) + int(potSize1))*rate < (p.stack-float(hh.bb)):    
-    print('Decision Nr.%d: Fold the Hand preflop'%dec)
-    dec += 1
-    print(rate)
-    
+#if we are in the big blind
+if t == 1:
+    if ((p.stack-float(hh.bb)) - addr1)*(1-rate) + ((p.stack-float(hh.bb)) + int(potSize1))*rate < (p.stack-float(hh.bb)):    
+        print('Decision Nr.%d: Fold the Hand preflop'%dec)
+        dec += 1
+        print(rate)
+        
+    else:
+        print('Decision Nr.%d: Call/ Raise the Hand preflop'%dec)
+        dec += 1 
+        print(rate)
+        
 else:
-    print('Decision Nr.%d: Call/ Raise the Hand preflop'%dec)
-    dec += 1 
-    print(rate)
-    
-print("--- %s seconds ---" % (time.time() - start_time))
+    pass
+        
+    print("--- %s seconds ---" % (time.time() - start_time))
 
 #errors in 300817, 3003, 9417, 168113, 700321, 67735, 13195(Js5s)
 
